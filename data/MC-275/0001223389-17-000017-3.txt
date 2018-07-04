@@ -1,0 +1,248 @@
+ htm 46691 Material contracts 10 2017-04-04T15:31:25.867441-05:00 Filing 0001223389-17-000017 2017-04-04 10-K Annual  & Quarterly Reports 0001223389 CONNS INC CONN COMMON Nasdaq Global Market 5731 Radio, Television  & Consumer Electronics Stores Yes TEXAS DELAWARE DELAWARE false Large Accelerated Filer 001-34956 EXHIBIT 10.5.4 Exhibit Exhibit 3 conns01312017ex1054.htm EX-10.5.4 3 conns01312017ex1054.htm EXHIBIT 10.5.4 
+ 
+ 
+ 
+ 
+ 
+ Exhibit 10.5.4 
+ RESTRICTED STOCK UNIT AWARD AGREEMENT 
+ CONN'S, INC. 
+ 2016 OMNIBUS INCENTIVE PLAN 
+THIS RESTRICTED STOCK UNIT AWARD AGREEMENT (this "Agreement") is made by and between CONN'S, INC., a Delaware corporation (the "Company"), and                          ("Recipient") as of                       , pursuant to the Company's 2016 Omnibus Incentive Plan (the "Plan"), which is incorporated by reference herein in its entirety. 
+ RECITALS 
+The Committee, acting on behalf of the Company, wishes to grant Recipient the number of Restricted Stock Units ("RSUs") set forth in Exhibit "A", on the terms and subject to the co nditions set forth in Exhibit "A", below and in the Plan. 
+Capitalized terms used in this Agreement and not otherwise defined in this Agreement will have the meaning assigned to them in the Plan. 
+ AGREEMENT 
+ It is hereby agreed as follows: 
+ 1. Award of Restricted Stock Units. The Company hereby grants to Recipient, subject to the terms and conditions set forth in the Plan and in this Agreement, the number of RSUs, effective as of                         (the "Date of Grant"). Each RSU represents the unfunded, unsecured right to receive one share of the Company's $0.01 par value common stock, subject to the terms and conditions set forth in the Plan, in Exhibit "A" and in this Agreement. The shares of stock that are issuable upon vesting of the RSUs granted to Recipient pursuant to this Agreement are referre d to in this Agreement as the "Shares". 
+ 2.      Vesting . 
+ 2.1     Except as otherwise provided in the Plan or in Section 2.2, the RSUs will vest as described in Exhibit "A". 
+ 2.2     In addition to the vesting provisions contained in Section 2.1 above, the RSUs will automatically and immediately vest in full if Recipient's employment with the Company is terminated within a period of six months following a Change in Control (i) by the Company for a reason other than Cause, as defined in the Plan, or (ii) by Recipient for Good Reason, as d efined below. 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.3     For purposes of this Agreement, "Good Reason" shall have the meaning, and be subject to the terms and conditions, as set forth in the severance agreement between the Company and th e Recipient or the severance plan in which the Recipient is eligible to participate, as applicable. 
+ 3.      Delivery upon Vesting . 
+ 3.1     Subject to Section 3.3, within thirty (30) days following vesting of an RSU, the Company or, at the Company's instruction, its authorized representative, will deliver to Recipient the underlying Share. Unless otherwise determined by the Committee, delivery of Shares pursuant to this Agreement may be accomplished in any manner that the Company or its authorized representatives deem appropriate including, without limitation, electronic registration, book-entry registration or issuance of a stock certificate or certificates in the name o f Recipient. 
+ 3.2     The delivery of Shares is net shares after any applicable withholding taxes in accordance with Section 12 of the Plan. 
+ 3.3     This Agreement is intended to comply with the requirements of Section 409A of the Internal Revenue Code of 1986, as amended (the "Code"), and shall be interpreted and construed consistently with such intent. In the event the terms of this Agreement would subject Recipient to taxes or penalties under Section 409A of the Code ("409A Penalties"), the Company and Recipient shall cooperate diligently to amend the terms of the Agreement to avoid such 409A Penalties, to the extent possible; provided that in no event shall the Company be responsible for any 409A Penalties that arise in connection with any amounts payable under this Agreement. To the extent any amounts under this Agreement are payable by reference to Recipient's "termination of employment," such term shall be deemed to refer to Recipient's "separation from service," within the meaning of Section 409A of the Code. Notwithstanding any other provision in this Agreement, if Recipient is a "specified employee," as defined in Section 409A of the Code, as of the date of Recipient's separation from service, then to the extent any amount payable under this Agreement (i) constitutes the payment of nonqualified deferred compensation, within the meaning of Section 409A of the Code, (ii) is payable upon Recipient's separation from service and (iii) under the terms of this Agreement would be payable prior to the six-month anniversary of Recipient's separation from service, such payment shall be delayed until the earlier to occur of (a) the six-month anniversary of the separation from service or (b) the date of Recipient's death. 
+ 4.      Effect of Termination of Employment or Other Service. If Recipient's employment or other service with the Company terminates, the effect of the termination on Recipient's RSUs under this Agreement will be as set forth in Section 11  of the Plan.  
+ 5.      Restrictions on Transfer of RSUs. The RSUs will not be transferable, either voluntarily or by operation of law, except as provided in Section 14.3 of the Plan. 
+ 6.      Rights as a Stockholder. Except as set forth in the Plan, neither Recipient nor any person claiming under or through Recipient shall be, or have any of the rights or privileges of, a 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 2 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+stockholder of the Company in respect of a Share issuable pursuant to this Award unless and until such Share shall have been delivered. 
+ 7.      No Right to Employment. Nothing contained in this Agreement obligates the Company to employ or have another relationship with Recipient for any period or interfere in any way with the right of the Company to reduce Recipient's compensation or to terminate the employment of or relationship with Recipient at any time. 
+ 8.      Clawback. Any portion of the payments, equity grants, equity vesting, including those under the Plan and under this Agreement, as well as any other equity payments which Recipient receives pursuant to a Company plan or other arrangement, shall be subject to recoupment and clawback in the event of Recipient's termination for cause or violation of Plan terms, and to the extent necessary to comply with the requirements of the Dodd-Frank Wall Street Reform and Consumer Protection Act, any Securities and Exchange Commission rule, and any implementing rules and regulations thereunder, or as required by law. Recipient agrees to fully cooperate with Company in assuring compliance with such policies and provisions of applicable  law. 
+ 9.      Miscellaneous . 
+ 9.1      Binding Effect, Successors. This Agreement shall bind and inure to the benefit of the successors, assigns, transferees, agents, personal representatives, heirs and legatees of the respective parties. 
+ 9.2      Further Acts. Each party will perform any further acts and execute and deliver any documents which may be necessary to carry out the provisions of this Agreement and to comply with applicable  law. 
+ 9.3      Amendment . This Agreement may be amended at any time by the written agreement of the Company and Recipient. 
+ 9.4      Choice of Law and Severability. This Agreement shall be construed, enforced and governed by the laws of the State of Delaware. The invalidity of any provision of this Agreement will not affect any other provisi on of this Agreement, which will remain in full force and effect. 
+ 9.5      Notices. All notices and demands to Recipient or the Company may be given to them at the following addresses: 
+ 
+ If to Recipient: 
+ 
+ ____________________________________ 
+ 
+                               
+                               
+ Electronic Mail:                    
+ 
+ 
+ If to Company: 
+ 
+ Conn's, Inc. 
+ 
+ Attn:   Office of General Counsel 
+ 4055 Technology Forest Blvd., Ste. 210 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 3 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Woodlands, TX 77381 
+ Electronic Mail: generalcounsel@conns.com 
+ 
+The parties may designate in writing from time to time such other place or places that notices and demands may be given. 
+ 9.6      Entire Agreement. This Agreement, as governed by and interpreted in accordance with the Plan, and the Plan constitute the entire agreement between the parties hereto pertaining to the subject matter hereof, this Agreement supersedes all prior and contemporaneous agreements and understandings of the parties, and there are no warranties, representations or other agreements between the parties in connection with the subject matter hereof except as set forth or referred to herein. No supplement, modification or waiver or termination of this Agreement shall be binding unless executed in writing by the party to be bound thereby. No waiver of any of the provisions of this Agreement shall constitute a waiver of any other provision her eof (whether or not similar) nor shall such waiver constitute a continuing waiver. 
+ 9.7      Grant Subject to Terms of Plan and this Agreement.  Recipient acknowledges and agrees that the grant of the RSUs is made pursuant to and governed by the terms of the Plan and this Agreement. Recipient, by execution of this Agreement, acknowledges having received a copy of the Plan. The provisions of this Agreement will be interpreted as to be consistent with the Plan, and any ambiguities in this Agreement will be interpreted by reference to the Plan. In the case of a conflict between the terms of the Plan and this Agreement, the terms of the Plan will control. 
+ 
+ [ Signature Page Follows ] 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 4 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties have entered into this Agreement as of the date first set forth above. 
+ CONN'S, INC., 
+ a Delaware corporation 
+ By: _______________________________________ 
+ Name:                                  
+ Tile:                                       
+ 
+ RECIPIENT 
+ __________________________________________ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 5 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXHIBIT "A" 
+ 
+ [Name of recipient] 
+ 
+ Restricted Stock Units ("RSUs") 
+ 
+ Awarded by the Compensation Committee effective                        
+ 
+ 1.    Number of RSUs:                        
+ 
+ 
+ 
+ 
+ Number of Shares Granted 
+ 
+ Number of Shares Contingent On Shareholder Approval 
+ 
+ [____] 
+ 
+ [____] 
+ 
+ 
+ 
+ 
+ 
+ 2.     Timing of Vesting 
+ 
+Subject to the terms of the Agreement to which this Exhibit "A" is attached, the RSUs will vest in three equal installments over a three-year period, the first installment vesting on the first anniversary of the Date of Grant; the second installment vesting on the second anniversary of the Date of Grant; and the third installment vesting on the third anniversary of the Date of Grant, in each case contingent on the Recipient's continued employment through the applicable vesting date, except as otherwise provided in the Agreement. 
+ 
+ 
+ 
+ 
+ Date of Vesting 
+ 
+ Number of Shares Vesting 
+ 
+ [____] 
+ 
+ [____] 
+ 
+ [____] 
+ 
+ [____] 
+ 
+ [____] 
+ 
+ [____] 
+ 
+ 
+ 
+ 
+ 3.    Additional Terms 
+ 
+The number of RSUs granted pursuant to the Agreement and this Exhibit "A" has been approved by the Committee, with any RSU categorized as "contingent" in Box 1 above being contingent on the approval of a Plan amendment by the stockholders of the Company at its 2017 annual meeting, which increases both the number of shares available for awards under the Plan and the annual limit on awards that may be granted to any one recipient in any tax year of the Company. If the stockholders of the Company do not approve such amendment, the number of RSUs granted hereunder shall be reduced by the number of RSUs that are contingent on shareholder approval, as shown in Box 1, above. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 

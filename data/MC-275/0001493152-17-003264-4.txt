@@ -1,0 +1,960 @@
+ htm 262141 Material contracts 10 2017-03-31T16:33:52.055115-05:00 Filing 0001493152-17-003264 2017-03-31 10-K Annual  & Quarterly Reports 0001482541 Surna Inc. SRNA COM OTC 7380 Miscellaneous Business Services No CALIFORNIA NEVADA NEVADA false Small Reporting Company 000-54286 EX-10.17 Exhibit Exhibit 4 ex10-17.htm EX-10.17 4 ex10-17.htm 
+   
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+   
+ SECURITIES PURCHASE AGREEMENT 
+   
+ This Securities Purchase Agreement (this "Agreement") is dated as of March 1, 2017, between  SURNA INC., a Nevada corporation (the "Company"), and each purchaser identified on the signature pages hereto (each, including its successors and assigns, a "Purchaser" and collectively, th e "Purchasers"). 
+   
+WHEREAS, subject to the terms and conditions set forth in this Agreement and pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended (the "Securities Act"), and Rule 506 promulgated thereunder, the Company desires to issue and sell to each Purchaser, and each Purchaser, severally and not jointly, desires to purchase from the Company, Units as m ore fully described in this Agreement. 
+   
+NOW, THEREFORE, IN CONSIDERATION of the mutual covenants contained in this Agreement, and for other good and valuable consideration the receipt and adequacy of which are hereby ack nowledged, the Company and each Purchaser agree as follows: 
+   
+ 1.1  Definitions. In addition to the terms defined elsewhere in this Agreement: (a) capitalized terms that are not otherwise defined herein have the meanings as defined herein and (b) the followin g terms have the meanings set forth in this Section 1.1: 
+   
+ "Action" shall have the meaning ascribed to such term in Section 3.1.10. 
+   
+"Affiliate" means any Person that, directly or indirectly through one or more intermediaries, controls or is controlled by or is under common control with a Person, as such terms a re used in and construed under Rule 405 under the Securities Act. 
+   
+ "Board of Directors" means the board of directors of the Company. 
+   
+"Business Day" means any day except any Saturday, any Sunday, any day which is a federal legal holiday in the United States or any day on which banking institutions in the State of  New York are authorized or required by law or other governmental action to close. 
+   
+"Closing" means upon receipt of Subscriptions for any part of the Securities, at the discretion of the Company a closing will take place and the net proceeds from such Subscriptions will be paid to the Company. Subsequent Closings resulting in the offering of up to an aggregate of 18,750,000 Units (or $3,000,000) may take place at the discretion of the Compa ny for up to one year after the initial Closing. 
+   
+"Closing Date" means the day on which all of the Transaction Documents have been executed and delivered by the applicable parties thereto, and all conditions precedent to (i) the Purchasers' obligations to pay the Subscription Amount and (ii) the Company's obligations to deliver the Securities, in each case, have been satisfied or waived. 
+   
+ 
+ 
+ 1   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ "Commission" or "SEC" means the United States Securities and Exchange Commission. 
+   
+"Common Stock" means the common stock of the Company, par value $0.00001 per share, and any other class of securities into which such securities may hereafter be reclassified or ch anged. 
+   
+"Common Stock Equivalents" means any securities of the Company or the Subsidiaries which would entitle the holder thereof to acquire at any time Common Stock, including, without limitation, any debt, right, option, or other instrument that is at any time convertible into or exercisable or exchangeable for, or otherwise entitles the holder thereof to receive,  Common Stock. 
+   
+ "Disclosure Schedules" shall have the meaning ascribed to such term in Section 3.1. 
+   
+"Exchange Act" means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder. 
+   
+ "Foreign Shell Bank," within the meaning of the USA Patriot Act,  i.e., a foreign bank that does not have a physical presence in any country and that is not affiliated with a bank that has a physical presence and an acceptable level of regulation and  supervision. 
+   
+ "FCPA" means the Foreign Corrupt Practices Act of 1977, as amended. 
+   
+ "GAAP" shall mean generally accepted accounting principles consistently applied. 
+   
+ "Intellectual Property Rights" shall have the meaning ascribed to such term in Section 3.1.15. 
+   
+"Liens" means a lien, charge, pledge, security interest, encumbrance, and right of first refusal, preemptive right or other restriction. 
+   
+ "Material Adverse Effect" shall have the meaning assigned to such term in Section 3.1.2. 
+   
+ "Material Permits" shall have the meaning ascribed to such term in Section 3.1.13. 
+   
+"Non-Cooperative Jurisdiction" shall have the meaning ascribed to it by the Financial Action Task Force (FATF) or any successor entity, as amended from time to time. Namely a person resident in or whose subscription funds are transferred from or through an account in a country or territory which is designated as a "Non-Cooperative Jurisdiction" by FATF on Mo ney Laundering. 
+   
+"Person" means an individual or corporation, partnership, trust, incorporated or unincorporated association, joint venture, limited liability company, joint stock company, governme nt (or an agency or subdivision thereof) or other entity of any kind. 
+   
+ 
+ 
+ 2   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+"Proceeding" means an action, claim, suit, investigation or proceeding (including, without limitation, an informal investigation or partial proceeding, such as a deposition), wheth er commenced or threatened. 
+   
+ "Purchaser Party" shall have the meaning ascribed to such term in Section 10.1. 
+   
+ "Required Approvals" shall have the meaning ascribed to such term in Section 3.1.5. 
+   
+"Required Minimum" means, as of any date, the maximum aggregate number of shares of Common Stock then issued or potentially issuable in the future as components of the Units or und erlying components of the Units pursuant to the Transaction Documents. 
+   
+"Rule 144" means Rule 144 promulgated by the Commission pursuant to the Securities Act, as such Rule may be amended or interpreted from time to time, or any similar rule or regulation hereafter adopted by the Commission having substantially the same purpose and effect as such Rule. 
+   
+ "Securities" means the Common Stock and the Warrants comprising the Units. 
+   
+"Securities Act" means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder. 
+   
+"Subscription Amount" shall mean, as to each Purchaser, the aggregate amount to be paid for a Unit or fractional Unit purchased hereunder as specified below such Purchaser's name on the signature page of this Agreement and next to the heading "Subscription Amount," in United States dollars and in immediately available funds. 
+   
+"Subsidiary" means any subsidiary of the Company as set forth on Schedule A and shall, where applicable, also include any direct or indirect subsidiary of the Company formed or acq uired after the date hereof. 
+   
+"Trading Day" means a day on which the trading platforms of OTC Markets Inc. (or any successor entity) is open for trading. 
+   
+"Trading Market" means any of the following markets or exchanges on which the Common Stock is listed or quoted for trading on the date in question: the NYSE MKT, the Nasdaq Capital Market, the Nasdaq Global Market, the Nasdaq Global Select Market, the New York Stock Exchange or the trading platforms of OTC Markets Inc. (or any successors to any of the forego ing). 
+   
+"Transaction Documents" means this Agreement and the Warrants all exhibits and schedules thereto and hereto and any other documents or agreements executed in connection with the tr ansactions contemplated hereunder. 
+   
+ "Unit" means and consists of (i) one (1) share of Common Stock and (ii) one (1) Warrant. 
+   
+ 
+ 
+ 3   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+"Warrants" means, collectively, the Common Stock purchase warrants delivered to the Purchasers at the Closing in accordance with Section 2.2.1 hereof, which Warrants shall be exercisable immediately and have a term of exercise equal to three years, in the form of Exhibit B attached hereto. 
+   
+ "Warrant Shares" means the shares of Common Stock issuable upon exercise of the Warrants. 
+   
+ 2.1     Closing. On the Closing Date, upon the terms and subject to the conditions set forth herein, substantially concurrent with the execution and delivery of this Agreement by the parties hereto, the Company agrees to sell, and the Purchasers agree to purchase, up to an aggregate of 18,750,000 Units at $0.16 per Unit for an aggregate offering of $3,000,000. Each Unit consists of (i) 1 share of Common Stock and (ii) 1 Warrant. Purchaser must purchase a minimum of 156,250 Units (or $25,000.00) and in increments thereof. Purchasers may purchase fractional increments or fewer than 156,250 Units at the discretion of the Company. Each Purchaser shall deliver to the Company, via wire transfer or a certified check, immediately available funds equal to its Subscription Amount and the Company shall deliver to each Purchaser its respective shares of Common Stock, Warrants as determined pursuant to Section 2.2.1, and the Company and each Purchaser shall deliver the other items set forth in Section 2.2.2 deliverable at the Closing. 
+   
+ 2.2  Deliveries . 
+   
+2.2.1 On or prior to the Closing Date (unless otherwise provided), the Company shall deliver or cause to be delivered to each Purchaser the following: 
+   
+ 2.2.1.1 This Agreement duly executed by the Company; 
+   
+2.2.1.2 A certificate evidencing a number of shares of Common Stock purchased as part of the Units by such Purchaser with such certificate delivered to Purchaser within 15 days aft er the Closing Date; and 
+   
+2.2.1.3 A Warrant registered in the name of such Purchaser purchased as part of the Units by such Purchaser. 
+   
+2.2.2 On or prior to the Closing Date, each Purchaser shall deliver or cause to be delivered to the Company the following: 
+   
+ 2.2.2.1 This Agreement duly executed by such Purchaser; and 
+   
+2.2.2.2 Such Purchaser's Subscription Amount by wire transfer to the account specified in writing by the Company. 
+   
+ 2.3  Closing Conditions . 
+   
+ 2.3.1  Company. The obligations of the Company hereunder in connection with the Closing are subject to the following: 
+   
+ 
+ 
+ 4   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+2.3.1.1 The accuracy in all material respects on the Closing Date of the representations and warranties of the Purchasers contained herein (unless as of a specific date therein in  which case they shall be accurate as of such date); 
+   
+2.3.1.2 All obligations, covenants and agreements of each Purchaser required to be performed at or prior to the Closing Date shall have been performed; and 
+   
+ 2.3.1.3 The delivery by each Purchaser of the items set forth in Section 2.2.2 of this Agreement. 
+   
+ 2.3.2  Purchaser. The respective obligations of the Purchasers hereunder in connection with the Closing are subject to the following conditions being met: 
+   
+2.3.2.1 The accuracy in all material respects when made and on the Closing Date of the representations and warranties of the Company contained herein (unless as of a specific date  therein); 
+   
+2.3.2.2 All obligations, covenants and agreements of the Company required to be performed at or prior to the Closing Date shall have been performed; and 
+   
+ 2.3.2.3 The delivery by the Company of the items set forth in Section 2.2.1 of this Agreement. 
+   
+ 3.1     Representations and Warranties of the Company. Except as set forth in the Disclosure Schedules, which Disclosure Schedules shall be deemed a part hereof and shall qualify any representation or otherwise made herein to the extent of the disclosure contained in the corresponding section of the Disclosure Schedules, the Company hereby makes the following representations and warranties to each Purchaser: 
+   
+ 3.1.    Subsidiaries. All of the direct and indirect subsidiaries of the Company are set forth on Schedule A. The Company owns, directly or indirectly, all of the capital stock or other equity interests of each Subsidiary free and clear of any Liens, and all of the issued and outstanding shares of capital stock of each Subsidiary are validly issued and are fully paid, non-asses sable and free of preemptive and similar rights to subscribe for or purchase securities. 
+   
+ 3.1.2  Organization and Qualification. The Company and each of the Subsidiaries is an entity duly incorporated or otherwise organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation or organization, with the requisite power and authority to own and use its properties and assets and to carry on its business as currently conducted. Neither the Company nor any Subsidiary is in violation nor default of any of the provisions of its respective certificate or articles of incorporation, bylaws or other organizational or charter documents. Each of the Company and the Subsidiaries is duly qualified to conduct business and is considered in good standing so long as failure to register as a foreign corporation or other entity does not create: (i) a material adverse effect on the legality, validity or enforceability of any Transaction Document, (ii) a material adverse effect on the results of operations, assets, business, prospects or condition (financial or otherwise) of the Company and the Subsidiaries, taken as a whole, or (iii) a material adverse effect on the Company's ability to perform in any material respect on a timely basis its obligations under any Transaction Document (any of (i), (ii) or (iii), a "Material Adverse Effect") such that a Proceeding has been instituted in any such jurisdiction revoking, limiting or curtailing or seeking to revoke, limit or curtail such power and authority or qualification. 
+   
+ 
+ 
+ 5   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.1.3  Authorization; Enforcement. The Company has the requisite corporate power and authority to enter into and to consummate the transactions contemplated by this Agreement and each of the other Transaction Documents and otherwise to carry out its obligations hereunder and thereunder. The execution and delivery of this Agreement and each of the other Transaction Documents by the Company and the consummation by it of the transactions contemplated hereby and thereby have been duly authorized by all necessary action on the part of the Company and no further action is required by the Company, the Board of Directors or the Company's stockholders in connection herewith or therewith other than in connection with the Required Approvals. This Agreement and each other Transaction Document to which it is a party has been (or upon delivery will have been) duly executed by the Company and, when delivered in accordance with the terms hereof and thereof, will constitute the valid and binding obligation of the Company enforceable against the Company in accordance with its terms, except: (i) as limited by general equitable principles and applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement of creditors' rights generally, (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies and (iii) insofar as indemnification and contribution  provisions may be limited by applicable law. 
+   
+ 3.1.4  No Conflicts. The execution, delivery and performance by the Company of this Agreement and the other Transaction Documents to which it is a party, the issuance and sale of the Securities and the consummation by it of the transactions contemplated hereby and thereby do not and will not: (i) conflict with or violate any provision of the Company's or any Subsidiary's certificate or articles of incorporation, bylaws or other organizational or charter documents, (ii) conflict with, or constitute a default (or an event that with notice or lapse of time or both would become a default) under, result in the creation of any Lien upon any of the properties or assets of the Company or any Subsidiary, or give to others any rights of termination, amendment, acceleration or cancellation (with or without notice, lapse of time or both) of, any agreement, credit facility, debt or other instrument (evidencing a Company or Subsidiary debt or otherwise) or other understanding to which the Company or any Subsidiary is a party or by which any property or asset of the Company or any Subsidiary is bound or affected, or (iii) subject to the Required Approvals, conflict with or result in a violation of any law, rule, regulation, order, judgment, injunction, decree or other restriction of any court or governmental authority to which the Company or a Subsidiary is subject (including federal and state securities laws and regulations), or by which any property or asset of the Company or a Subsidiary is bound or affected; except in the case of each of clauses (ii) and (iii), such as could not have or reasonably be expected to result in a  Material Adverse Effect. 
+   
+ 
+ 
+ 6   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.1.5  Filings, Consents and Approvals. The Company is not required to obtain any consent, waiver, authorization or order of, give any notice to, or make any filing or registration with, any court or other federal, state, local or other governmental authority or other Person in connection with the execution, delivery and performance by the Company of the Transaction Documents, other than the filing of Form D with the Commission and such filings as are required to be made under applicable state securities laws (collectively, the "Required Approvals"). 
+   
+ 3.1.6  Issuance of the Securities. The Securities are duly authorized and, when issued and paid for in accordance with the applicable Transaction Documents, will be duly and validly issued, fully paid and, with respect to the shares of Common Stock, non-assessable, free and clear of all Liens imposed by the Company other than restrictions on transfer provided for in the Transaction Documents. The Warrant Shares, when issued in accordance with the terms of the Transaction Documents, will be validly issued, fully paid and non-assessable, free and clear of all Liens imposed by the Company other than restrictions on transfer provided for in the Transaction Documents. The Company has reserved from its duly authorized capital stock a number of shares of Common Stock for issuance of the Warrant Shares at least equal to the Required Minimum on the date hereof. 
+   
+ 3.1.7  Capitalization. The capitalization of the Company shall also include the number of shares of Common Stock owned beneficially, and of record, by Affiliates of the Company as of the date hereof. No Person has any right of first refusal, preemptive right, right of participation, or any similar right to participate in the transactions contemplated by the Transaction Documents. The issuance and sale of the Securities will not obligate the Company to issue shares of Common Stock or other securities to any Person (other than the Purchasers) and will not result in a right of any holder of Company securities to adjust the exercise, conversion, exchange or reset price under any of such securities. All of the outstanding shares of capital stock of the Company are duly authorized, validly issued, fully paid and non-assessable, have been issued in compliance with all federal and state securities laws, and none of such outstanding shares was issued in violation of any preemptive rights or similar rights to subscribe for or purchase securities. No further approval or authorization of any stockholder, the Board of Directors or others is required for the issuance and sale of the Securities. There are no stockholders agreements, voting agreements or other similar agreements with respect to the Company's capital stock to which the Company is a party or, to the knowledge of the Company, between or among any of the Company's stockholders. 
+   
+ 
+ 
+ 7   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.1.8  SEC Reports and Financial Statements. The Company has filed all reports required to be filed by it under the Securities Act and the Exchange Act, including pursuant to Section 13(a) or 15(d) of the Exchange Act (the "SEC Reports"). As of their respective dates, the SEC Reports complied in all material respects with the requirements of the Securities Act and the Exchange Act and the rules and regulations of the United States Securities and Exchange Commission (the "Commission") promulgated thereunder, and none of the SEC Reports, when filed, contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading. The financial statements of the Company included in the SEC Reports comply in all material respects with applicable accounting requirements and th e rules and regulations of the Commission with respect thereto as in effect at the time of filing. 
+   
+ 3.1.9  Material Changes. Except as disclosed in an SEC Report: (i) there has been no event, occurrence or development that has had or that could reasonably be expected to result in a Material Adverse Effect, (ii) the Company has not incurred any liabilities (contingent or otherwise) that have not been repaid other than (A) trade payables and accrued expenses incurred in the ordinary course of business consistent with past practice, and (B) liabilities not required to be reflected in the Company's financial statements pursuant to GAAP, (iii) the Company has not altered its method of accounting, (iv) the Company has not declared or made any dividend or distribution of cash or other property to its shareholder or purchased, redeemed or made any agreements to purchase or redeem any shares of Common Stock and (v) the Company has not issued any equity securities to any officer, manager, or Affiliate, except pursuant  to existing Company stock option plans. 
+   
+ 3.1.10       Litigation. There is no action, suit, inquiry, notice of violation, proceeding or investigation pending or, to the knowledge of the Company, threatened against or affecting the Company, any Subsidiary or any of their respective properties before or by any court, arbitrator, governmental or administrative agency or regulatory authority (federal, state, county, local or foreign) (collectively, an "Action") which (i) adversely affects or challenges the legality, validity or enforceability of any of the Transaction Documents or the Securities or (ii) could, if there were an unfavorable decision, have or reasonably be expected to result in a Material Adverse Effect. Neither the Company nor any Subsidiary, nor any director or officer thereof, is or has been the subject of any Action involving a claim of violation of or liability under federal or state securities laws or a claim of breach of fiduciary duty. There has not been, and to the knowledge of the Company, there is not pending or contemplated, any investigation by the Commission involving the Company or any current or forme r director or officer of the Company. 
+   
+ 
+ 
+ 8   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.1.11      Labor Relations. No labor dispute exists or, to the knowledge of the Company, is imminent with respect to any of the employees of the Company, which could reasonably be expected to result in a Material Adverse Effect. None of the Company's or its Subsidiaries' employees is a member of a union that relates to such employee's relationship with the Company or such Subsidiary, and neither the Company nor any of its Subsidiaries is a party to a collective bargaining agreement, and the Company and its Subsidiaries believe that their relationships with their employees are good. To the knowledge of the Company, no executive officer of the Company or any Subsidiary, is, or is now expected to be, in violation of any material term of any employment contract, confidentiality, disclosure or proprietary information agreement or non-competition agreement, or any other contract or agreement or any restrictive covenant in favor of any third party, and the continued employment of each such executive officer does not subject the Company or any of its Subsidiaries to any liability with respect to any of the foregoing matters. The Company and its Subsidiaries are in compliance with all U.S. federal, state, local and foreign laws and regulations relating to employment and employment practices, terms and conditions of employment and wages and hours, except where the failure to be in compliance could not, individually or in the aggregate, reasonably be exp ected to have a Material Adverse Effect. 
+   
+ 3.1.12     Compliance. Neither the Company nor any Subsidiary: (i) is in default under or in violation of (and no event has occurred that has not been waived that, with notice or lapse of time or both, would result in a default by the Company or any Subsidiary under), nor has the Company or any Subsidiary received notice of a claim that it is in default under or that it is in violation of, any indenture, loan or credit agreement or any other agreement or instrument to which it is a party or by which it or any of its properties is bound (whether or not such default or violation has been waived), (ii) is in violation of any judgment, decree or order of any court, arbitrator or other governmental authority or (iii) is or has been in violation of any statute, rule, ordinance or regulation of any governmental authority, including without limitation all foreign, federal, state and local laws relating to taxes, environmental protection, occupational health and safety, product quality and safety and employment and labor matters, except in each case as could not have or reasonably be expected  to result in a Material Adverse Effect. 
+   
+ 3.1.13     Regulatory Permits. The Company and the Subsidiaries possess all certificates, authorizations and permits issued by the appropriate federal, state, local or foreign regulatory authorities necessary to conduct their respective businesses, except where the failure to possess such permits could not reasonably be expected to result in a Material Adverse Effect ("Material Permits"), and neither the Company nor any Subsidiary has received any notice of proceedings relating to the revocation or modification of any Material Permit. 
+   
+ 
+ 
+ 9   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.1.14      Title to Assets. The Company and the Subsidiaries own no real property and have good and marketable title in all personal property owned by them that is material to the business of the Company and the Subsidiaries, in each case free and clear of all Liens, except for (i) Liens as do not materially affect the value of such property and do not materially interfere with the use made and proposed to be made of such property by the Company and the Subsidiaries and (ii) Liens for the payment of federal, state or other taxes, for which appropriate reserves have been made therefor in accordance with GAAP and, the payment of which is neither delinquent nor subject to penalties. Any real property and facilities held under lease by the Company and the Subsidiaries are held by them under valid, subsisting and enforceable leases with which the Company and the Subsidiaries are in material compliance. 
+   
+ 3.1.15      Intellectual Property. The Company and the Subsidiaries have, or have rights to use, all patents, patent applications, trademarks, trademark applications, service marks, trade names, trade secrets, inventions, copyrights, licenses and other intellectual property rights and similar rights as necessary or required for use in connection with their respective businesses and which the failure to so have could have a Material Adverse Effect (collectively, the "Intellectual Property Rights"). None of, and neither the Company nor any Subsidiary has received a notice (written or otherwise) that any of, the Intellectual Property Rights has expired, terminated or been abandoned, or is expected to expire or terminate or be abandoned, within two (2) years from the date of this Agreement. Neither the Company nor any Subsidiary has received a written notice of a claim or otherwise has any knowledge that the Intellectual Property Rights violate or infringe upon the rights of any Person, except as could not have or reasonably be expected to not have a Material Adverse Effect. To the knowledge of the Company, all such Intellectual Property Rights are enforceable and there is no existing infringement by another Person of any of the Intellectual Property Rights. The Company and its Subsidiaries have taken reasonable security measures to protect the secrecy, confidentiality and value of all of their intellectual properties, except where failure to do so could  not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect. 
+   
+ 3.1.16      Transactions With Affiliates and Employees. Except as set forth in an SEC Report, none of the officers or directors of the Company or any Subsidiary and, to the knowledge of the Company, none of the employees of the Company or any Subsidiary is presently a party to any transaction with the Company or any Subsidiary (other than for services as employees, officers and directors), including any contract, agreement or other arrangement providing for the furnishing of services to or by, providing for rental of real or personal property to or from, providing for the borrowing of money from or lending of money too or otherwise requiring payments to or from any officer, director or such employee or, to the knowledge of the Company, any entity in which any officer, director, or any such employee has a substantial interest or is an officer, director, trustee, stockholder, member or partner, in each case in excess of $120,000 other than for: (i) payment of salary or consulting fees for services rendered, (ii) reimbursement for expenses incurred on behalf of the Company and (iii) other employee benefits, including sto ck option agreements under any stock option plan of the Company. 
+   
+ 
+ 
+ 10   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.1.17      Private Placement. Assuming the accuracy of the Purchasers' representations and warranties set forth in Section 3.2, no registration under the Securities Act is required for the offer and sale of th e Securities by the Company to the Purchasers as contemplated hereby. 
+   
+ 3.1.18      Investment Company. The Company is not, and is not an Affiliate of, and immediately after receipt of payment for the Securities, will not be or be an Affiliate of, an "investment company" within the meaning of the Investment Company Act of 1940, as amended. The Company shall conduct its business in a manner so that it will not become an "investment company" subject to registra tion under the Investment Company Act of 1940, as amended. 
+   
+ 3.1.19      Registration Rights. Other than each of the Purchasers, no Person has any right to cause the Company to effect the registration under the Securities Act of any securities of the Company or any Subsidi ary. 
+   
+ 3.1.20      Disclosure. All of the disclosures furnished by or on behalf of the Company to the Purchasers regarding the Company and its business and the transactions contemplated hereby, including the Disclosure Schedules to this Agreement, are true and correct in all materials respects and do not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements made therein, in light of the circumstances under which they were made, not misleading. The Company acknowledges and agrees that no Purchaser makes or has made any representations or warranties with respect to the transactions contemplated hereby other than those specifically set forth in Section 3.2 hereof. 
+   
+ 3.1.21      No Integrated Offering. Assuming the accuracy of the Purchasers' representations and warranties set forth in Section 3.2, neither the Company, nor any of its Affiliates, nor any Person acting on its or their behalf has, directly or indirectly, made any offers or sales of any security or solicited any offers to buy any security, under circumstances that would cause this offering of the Securities to be integrated with prior offerings by the Company for purposes of the Securities Act which would require the registration of any such securities under the Securi ties Act. 
+   
+ 3.1.22      Tax Status. The Company and its subsidiaries have sustained losses from inception and, as a result, have not filed all United States federal, state and local income and all foreign income and franchise tax returns, reports and declarations required by any jurisdiction to which it is subject. There are no unpaid taxes in any material amount due to the taxing authority of any jurisdiction, however, as a consequence of not filing all returns, reports or declarations there may be penalties assessed for non-filing. Management has made no determinatio n as to the amount, if any, of such penalties. 
+   
+ 
+ 
+ 11   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.1.23      No General Solicitation. Neither the Company nor any person acting on behalf of the Company has offered or sold any of the Securities by any form of general solicitation or general advertising. The Company has offered the Securities for sale only to the Purchasers and certain other "accredited investors" within the meaning of Rule 501 under the Securities Act. 
+   
+ 3.1.24      Foreign Corrupt Practices. Neither the Company nor any Subsidiary, nor to the knowledge of the Company or any Subsidiary, any agent or other person acting on behalf of the Company or any Subsidiary, has: (i) directly or indirectly, used any funds for unlawful contributions, gifts, entertainment or other unlawful expenses related to foreign or domestic political activity, (ii) made any unlawful payment to foreign or domestic government officials or employees or to any foreign or domestic political parties or campaigns from corporate funds, (iii) failed to disclose fully any contribution made by the Company or any Subsidiary (or made by any person acting on its behalf of which the Company is aware) which is in violation of law or (iv) vio lated in any material respect any provision of FCPA. 
+   
+ 3.1.25      Office of Foreign Assets Control. Neither the Company nor any Subsidiary nor, to the Company's knowledge, any director, officer, agent, employee or affiliate of the Company or any Subsidiary is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department ("OFAC"). 
+   
+ 3.1.26      Employees. Neither the Company nor any of its Subsidiaries has any collective bargaining agreements with any of its employees. There is no labor union organizing activity pending or, to the Company's knowledge, threatened with respect to the Company or its Subsidiaries. Except as set forth in an SEC Report neither the Company nor any of its Subsidiaries is a party to or bound by any currently effective employment contract, deferred compensation arrangement, bonus plan, incentive plan, profit sharing plan, retirement agreement or other employee compensation plan or agreement with any of its executive officers. To the Company's knowledge, no employee of the Company or any Subsidiary, nor any consultant with whom the Company or any Subsidiary has contracted, is in violation of any term of any employment contract, proprietary information agreement or any other agreement relating to the right of any such individual to be employed by, or to contract with, the Company (or any Subsidiary) because of the nature of the business to be conducted by the Company (or any Subsidiary); and to the Company's knowledge the continued employment by the Company (and its Subsidiaries) of their respective present employees, and the performance of the Company's (and Subsidiaries') contracts with its independent contractors, will not result in any such violation. The Company has not received any notice alleging that any such violation has occurred. Except as set forth in an SEC Report no employee of the Company or any Subsidiary has been granted the right to continued employment by the Company (or any Subsidiary) or to any material compensation following termination of employment with the Company (or any Subsidiary). The Company is not aware that any officer, key employee or group of employees intends to terminate his, her or their employment with the Company (or any Subsidiary) nor does the Company have a present intention to terminate the employment of any officer, key employee or group of employees. The Company and its Subsidiaries are in compliance with all U.S. federal, state, local and foreign laws and regulations relating to employment and employment practices, terms and conditions of employment and wages and hours, except where the failure to be in compliance could not, individually or in the aggregate, reasonably be expected t o have a Material Adverse Effect. 
+   
+ 
+ 
+ 12   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.1.27      Employee Benefits. Except as disclosed in an SEC Report, the Company does not maintain, and is not required by any applicable law to maintain, any "employee benefit plan" as such term is defined in Section 3(3) of the Employee Retirement Income Security Act of 1974, as amended, or any other employee benefit plan, program or arrangement of any kind. 
+   
+ 3.1.28      No Disqualification Events. With respect to the Securities to be offered and sold hereunder in reliance on Rule 506 under the Securities Act, none of the Company, any of its predecessors, any affiliated issuer, any director, executive officer, other officer of the Company participating in the offering hereunder, any beneficial owner of 20% or more of the Company's outstanding voting equity securities, calculated on the basis of voting power, nor any promoter (as that term is defined in Rule 405 under the Securities Act) connected with the Company in any capacity at the time of sale (each, an "Issuer Covered Person" and, together, "Issuer Covered Persons") is subject to any of the "Bad Actor" disqualifications described in Rule 506(d)(1)(i) to (viii) under the Securities Act (a "Disqualification Event"), except for a Disqualification Event covered by Rule 506(d)(2) or (d)(3). The Company has exercised reasonable care to determine whether any Issuer Covered Person is subject to a Disqualification Event. The Company has complied, to the extent applicable, with its disclosure obligations under  Rule 506(e), and has furnished to the Purchasers a copy of any disclosures provided thereunder. 
+   
+ 3.1.29      Other Covered Persons. The Company is not aware of any person (other than any Issuer Covered Person) that has been or will be paid (directly or indirectly) remuneration for solicitation of purchasers in  connection with the sale of any Securities. 
+   
+ 3.2      Representations and Warranties of the Purchasers. Each Purchaser, for itself and for no other Purchaser, hereby represents and warrants as of the date hereof and as of the Closing Date to the Company as follows (unless as of a sp ecific date therein): 
+   
+   3.2.1 Investor Information Form. The Company may rely upon and is a third party beneficiary of the Purchaser's representations, warranties, covenants and agreements set forth in this Agreement and Exhibit A "Investor Information Form" completed by the Purchaser and delivered to the Company. Further the Purchaser attests to the fact that that they comply with the Investor Suitability Requi rements as outlined in Exhibit C. 
+   
+ 
+ 
+ 13   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+   3.2.2 Organization; Authority. Such Purchaser is either an individual or an entity duly incorporated or formed, validly existing and in good standing under the laws of the jurisdiction of its incorporation or formation with full right, corporate, partnership, limited liability company or similar power and authority to enter into and to consummate the transactions contemplated by the Transaction Documents and otherwise to carry out its obligations hereunder and thereunder. The execution and delivery of the Transaction Documents and performance by such Purchaser of the transactions contemplated by the Transaction Documents have been duly authorized by all necessary corporate, partnership, limited liability company or similar action, as applicable, on the part of such Purchaser. Each Transaction Document to which it is a party has been duly executed by such Purchaser, and when delivered by such Purchaser in accordance with the terms hereof, will constitute the valid and legally binding obligation of such Purchaser, enforceable against it in accordance with its terms, except: (i) as limited by general equitable principles and applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement of creditors' rights generally, (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies and (iii) insofar as indemnification and contributi on provisions may be limited by applicable law. 
+   
+   3.2.3 Purchase Entirely for Own Account. This Agreement is made with the Purchaser in reliance upon the Purchaser's representation to the Company, which by the Purchaser's execution of this Agreement, the Purchaser hereby confirms, that the Securities to be acquired by the Purchaser will be acquired for investment for the Purchaser's own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that the Purchaser has no present intention of selling, granting any participation in, or otherwise distributing the same. By executing this Agreement, the Purchaser further represents that the Purchaser does not presently have any contract, undertaking, agreement or arrangement with any Person to sell, transfer or grant participations to such Person or to any third Person, with respect to any of the Securities. The Purchaser has not been formed for the specific purpose of acquiring  the Securities. 
+   
+   3.2.4 Disclosure of Information. The Purchaser has had an opportunity to discuss the Company's business, management, financial affairs and the terms and conditions of the offering of the Units with the Company's management and has had an opportunity to review the Company's facilities, and has carefully considered the risks associated with an investment in the Units (including, without limitation, the Risk Factors set forth in Exhibit D herein). The Purchaser has consulted his, her or its own legal, tax, financial, investment and other advisors in connection with such Purchaser's execution and delivery of this Agreement and such Purchaser's investment in the Securities to be acquired by such Purchaser pursuant to this Agreement, and acknowled ges that the Company is giving no such legal, tax, financial or investment advice to the Purchaser. 
+   
+ 
+ 
+ 14   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+   3.2.5 Anti-Money Laundering Matters. The Purchaser is in compliance with all applicable provisions of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism  Act of 2001 (the " USA Patriot Act "), the U.S. Bank Secrecy Act (the " BSA") and all other anti-money laundering laws and applicable regulations adopted to implement the provisions of such laws, including policies and procedures that can be reasonably expected to detect and cause the reporting of transactions under Section 5318 of the BSA. Neither the Purchaser, nor any holder of any beneficial interest in the Securities (each a " Beneficial Owner ") is or will be: 
+   
+   3.2.5.1A person or entity listed in the Annex to Executive Order 13224 (2001) issued by the President of the United States (Executive Order Blocking Property and Prohibiting Transactions with Persons Who Commit, Threaten to Commit, or Support Terrorism), which is posted on the website of the U.S. Department of Treasury (http://www.treas.gov); 
+   
+   3.2.5.2  Named on the List of Specially Designated Nationals and Blocked Persons maintained by the U.S. Office of Foreign Assets Control (OFAC), which is posted on the website of the U.S. D epartment of Treasury (http://www.treas.gov); 
+   
+   3.2.5.3   A Designated National as defined in the Cuban Assets Control Regulations, 31 CFR Part 515; 
+   
+   3.2.5.4   A Foreign Shell Bank; 
+   
+   3.2.5.5  A person resident in or whose subscription funds are transferred from or through an account in a Non-Cooperative Jurisdiction; or 
+   
+   3.2.5.6  A person resident in a jurisdiction designated by the U.S. Secretary of the Treasury under Sections 311 or 312 of the USA Patriot Act as warranting special measures due to money-la undering concerns. 
+   
+ 
+ 
+ 15   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+The Purchaser agrees to promptly notify the Company of any change in any information affecting this representation and warranty. Neither the Purchaser nor any Beneficial Owner is a senior foreign political figure, which means a current or former senior official in the executive, legislative, administrative, military, or judicial branches of a foreign government (whether or not elected), a senior official of a major foreign political party, or a senior executive of a foreign government-owned commercial enterprise. This restriction on senior foreign political figures also applies to any immediate family member of such figure (a spouse, parent, sibling, child, or a spouse's parent, sibling or child) or close associate of such figure (a person who is publicly known to maintain, or who actually maintains, a close personal or professional relationship with such individual). No portion of the purchase price: (i) does or will originate from, nor will it be routed through, an account maintained at a Foreign Shell Bank, an "offshore bank", or a bank organized or chartered under the laws of a Non-Cooperative Jurisdiction, (ii) has been or will be derived from, or related to, any activity that is deemed criminal under applicable law, or (iii) causes or will cause the Company, or any of its affiliates to be in violation of the BSA, the U.S. Money Laundering Control Act of 1986 or the U.S. International Money Laundering Abatement and Anti-Terrorism Financing Act of 2001. The Purchaser is not otherwise prohibited from investing in the Company pursuant to applicable anti-money laundering, anti-bribery and corruption, antiterrorist or asset or exchange control laws, regulations, rules or orders. The Purchaser acknowledges and agrees that if at any time it is discovered that any of the representations in this Section 3.13 are incorrect, or if otherwise required by applicable law related to money laundering, anti-bribery and corruption, antiterrorism or asset or exchange controls and similar activities, the Company may, in its sole discretion, undertake appropriate actions to ensure compliance with applicable law, including but not limited to freezing, segregating or withdrawing the Purchaser's interest in the Company. The Purchaser agrees to provide to the Company any additional information or documentation that the Company deems necessary or appropriate to ensure compliance with all applicable laws concerning money laundering, anti-bribery and corruption, antiterrorism or asset or exchange controls and similar activities. The Purchaser shall promptly notify the Company if any of the representations in this Section cease to be true and accurate. 
+   
+ 3.2.6  FATCA Matters. The Purchaser acknowledges that, to the extent applicable, the Company will seek to comply with the Foreign Account Tax Compliance Act provisions of the Code and any rules, regulations, forms, instructions, other guidance and any intergovernmental agreements issued in connection therewith (the " FATCA Provisions"). In furtherance of these efforts, the Purchaser agrees to promptly deliver any additional documentation or information, and updates thereto as applicable, which the Company may request in order to comply with the FATCA Provisions. The Purchaser acknowledges and agrees that, notwithstanding anything to the contrary contained in the Transaction Documents or any other agreement or document, the failure to promptly comply with such requests, or to provide such additional information, may result in the withholding of amounts with respect to, or other limitations on, distributions made to the Purchaser and such other reasonably necessary or advisable action by the Company with respect to the Securities, and the Purchaser shall have no claim, and shall not pursue any claim, against the Company or any other Person in connection therewith. 
+   
+ 
+ 
+ 16   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 3.2.7  Purchaser Status. At the time such Purchaser was offered the Securities, it was, and as of the date hereof it is, and on each date on which it exercises any Warrants, it will be an "accredited investor" as that term is defined by Rule 501 of Regulation D promulgated under the Securities Act of 1933, as amended. The Purchaser hereby reaffirms the statements made in the Accredited Investor Questionnaire completed by the Purchaser prior to receiving information about the Offering. 
+   
+ 3.2.8  Experience of Such Purchaser. Such Purchaser, either alone or together with its representatives, has such knowledge, sophistication and experience in business and financial matters so as to be capable of evaluating the merits and risks of the prospective investment in the Securities, and has so evaluated the merits and risks of such investment. Such Purchaser is able to bear the economic risk of an investment in the Securities and, at the present time, is able to afford a complete loss of such investment. 
+   
+ 3.2.9  General Solicitation. Such Purchaser is not purchasing the Securities as a result of any advertisement, article, notice or other communication regarding the Securities published in any newspaper, magazine or similar media or broadcast over television or radio or presented at any seminar or any other general solicitation or general advertisement. 
+   
+ 3.2.10  Residence. If the Purchaser is an individual, then the Purchaser resides in the state or province identified in the address of the Purchaser set forth in  Exhibit A. If the Purchaser is a partnership, corporation, limited liability company or other entity, then the Purchaser's principal place of business is in the state or province identified  in the address of the Purchaser set forth on  Exhibit A . 
+   
+The Company acknowledges and agrees that the representations contained in Section 3.2 shall not modify, amend or affect such Purchaser's right to rely on the Company's representations and warranties contained in this Agreement or any representations and warranties contained in any other Transaction Document or any other document or instrument executed and/or delivered in connection with this Agreement or the consummation of the transaction contemplated hereby. 
+   
+ 4.1  Restricted Securities. The Purchaser understands that the Securities, as well as the Warrant Shares, have not been, and will not be, registered under the Securities Act, by reason of a specific exemption from the registration provisions of the Securities Act which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the Purchaser's representations as expressed herein. The Purchaser understands that the Securities and Warrant Shares are or upon issuance will be "restricted securities" under applicable U.S. federal and state securities laws and that, pursuant to these laws, the Purchaser must hold the Securities and Warrant Shares indefinitely unless they are registered with the SEC and qualified by state authorities, or an exemption from such registration and qualification requirements is available. Except as provided herein, the Purchaser acknowledges that the Company has no obligation to register or qualify the Securities or Warrant Shares for resale. The Purchaser further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the Securities and Warrant Shares, and on requirements relating to the Company which are outside of the Purchaser's control, and which the Company is under no obligation and may not be able to satisfy. The Purchaser understands that this offering is not intended to be part of a public offering, and that the Purchaser will not be able to rely on the protection of Section 11 of the Securities  Act. 
+   
+ 
+ 
+ 17   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 4.2  Legends. The Purchaser understands that the Securities and, upon issuance, the Warrant Shares, may be notated with one or all of the following legends: 
+   
+"THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF. NO SUCH TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. HEDGING TRANSACTIONS INVOLVING SECURITIES OFFERED AND SOLD IN RELIANCE ON REGULATION S MAY NOT BE CONDUCTED UNLESS IN COMPLIANCE WITH THE SECURITIES ACT OF 1933, AS AMENDED." 
+   
+ Any other legend set forth in, or required by, this Agreement or any other Transaction Documents. 
+   
+Any legend required by the securities laws of any state to the extent such laws are applicable to the Securities represented by the certificate, instrument, or book entry so legend ed. 
+   
+ 4.3  Transfer Restrictions . 
+   
+4.3.1 The Securities may only be disposed of in compliance with state and federal securities laws. In connection with any transfer of Securities other than pursuant to an effective registration statement or Rule 144, to the Company or to an Affiliate of a Purchaser or in connection with a pledge as contemplated in Section 4.1.2, the Company may require the transferor thereof to provide to the Company an opinion of counsel selected by the transferor and reasonably acceptable to the Company, which such counsel and the form and substance of which opinion shall be reasonably satisfactory to the Company, to the effect that such transfer does not require registration of such transferred Securities under the Securities Act. As a condition of transfer, any such transferee shall agree in writing to be bound by the terms of this Agreement and shall have the rights and obligations of a Purchaser un der this Agreement. 
+   
+ 
+ 
+ 18   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+4.3.2 The Company acknowledges and agrees that a Purchaser may from time to time pledge pursuant to a bona fide margin agreement with a registered broker-dealer or grant a security interest in some or all of the Securities to a financial institution that is an "accredited investor" as defined in Rule 501(a) under the Securities Act and who agrees to be bound by the provisions of this Agreement, if required under the terms of such arrangement, such Purchaser may transfer pledged or secured Securities to the pledgees or secured parties. Such a pledge or transfer would not be subject to approval of the Company and no legal opinion of legal counsel of the pledgee, secured party or pledgor shall be required in connection therewith. Further, no notice shall be required of such pledge. At the appropriate Purchaser's expense and subject to commercially reasonable timelines, the Company will execute and deliver such reasonable documentation as a pledgee or secured party of Securities may reasonably request in connection with a pledge or transfer of the Securities. 
+   
+ 5.1  Acknowledgment of Dilution. The Company acknowledges that the issuance of the Securities and Warrant Shares may result in dilution of the outstanding shares of Common Stock, which dilution may be substantial under certain market conditions. The Company further acknowledges that its obligations under the Transaction Documents, including, without limitation, its obligation to issue the Warrant Shares pursuant to the Transaction Documents, are unconditional and absolute and not subject to any right of set off, counterclaim, delay or reduction, regardless of the effect of any such dilution or any claim the Company may have against any Purchaser and regardless of the dilutive effect that such issuance may have on the ownership of the other st ockholders of the Company. 
+   
+ 6.1  Integration. The Company shall not sell, offer for sale or solicit offers to buy or otherwise negotiate in respect of any security (as defined in Section 2 of the Securities Act) that would be integrated with the offer or sale of the Securities in a manner that would require the registration under the Securities Act of the sale of the Securities. 
+   
+ 7.1  Exercise Procedures. A form of Notice of Exercise included in the Warrants set forth the totality of the procedures required of the Purchasers in order to exercise the Warrants. Without limiting the preceding sentences, no ink-original Notice of Exercise shall be required, nor shall any medallion guarantee (or other type of guarantee or notarization) of any Notice of Exercise form be required in order to exercise the Warrants into shares of Common Stock. No additional legal opinion, other information or instructions shall be required of the Purchasers to exercise the Warrants. The Company shall honor exercises of the Warrants and shall deliver Warrant Shares in accordance with the terms, conditions and time periods set forth in t he Transaction Documents. 
+   
+ 8.1  Securities Laws Disclosure; Publicity. The Company shall be entitled, without the prior approval of the Purchaser, to make any press release or SEC, OTC Markets ("OTCMKTS") (or other applicable trading market) or Financial Industry Regulatory Authority ("FINRA") filings with respect to this transaction as is required by applicable law and regulations. Purchaser shall not issue any such press release or otherwise make any such public statement with respect to this transaction without the prior consent of the Company. Notwithstanding the foregoing, the Company shall not publicly disclose the name of any Purchaser, or include the name of any Purchaser in any filing with the Commission or any regulatory agency, without the prior written consent of such Purchaser, except as required by federal securities law or regulation. The Company covenants and agrees that, neither it, nor any other Person acting on its behalf, will provide any Purchaser or its agents or counsel with any information that the Company believes constitutes material non-public information, unless prior thereto such Purchaser shall have entered into a written agreement with the Company regarding the confidentiality and use of such information. The Company understands and confirms that each Purchaser shall be relying  on the foregoing covenant in effecting transactions in securities of the Company. 
+   
+ 
+ 
+ 19   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 9.1  Use of Proceeds. The Company shall use the net proceeds from the sale of the Securities hereunder for working capital purposes. 
+   
+ 10.1  Indemnification of Purchasers. Subject to the provisions of this Section, the Company will indemnify and hold each Purchaser and its directors, officers, shareholders, members, partners, employees and agents (and any other Persons with a functionally equivalent role of a Person holding such titles notwithstanding a lack of such title or any other title), each Person who controls such Purchaser (within the meaning of Section 15 of the Securities Act and Section 20 of the Exchange Act), and the directors, officers, shareholders, agents, members, partners or employees (and any other Persons with a functionally equivalent role of a Person holding such titles notwithstanding a lack of such title or any other title) of such controlling persons (each, a "Purchaser Party") harmless from any and all losses, liabilities, obligations, claims, contingencies, damages, costs and expenses, including all judgments, amounts paid in settlements, court costs and reasonable attorneys' fees and costs of investigation that any such Purchaser Party may suffer or incur as a result of or relating to (a) any breach of any of the representations, warranties, covenants or agreements made by the Company in this Agreement or in the other Transaction Documents or (b) any action instituted against the Purchaser Parties in any capacity, or any of them or their respective Affiliates, by any stockholder of the Company who is not an Affiliate of such Purchaser Party, with respect to any of the transactions contemplated by the Transaction Documents (unless such action is based upon a breach of such Purchaser Party's representations, warranties or covenants under the Transaction Documents or any agreements or understandings such Purchaser Party may have with any such stockholder or any violations by such Purchaser Party of state or federal securities laws or any conduct by such Purchaser Party which constitutes fraud, gross negligence, willful misconduct or malfeasance). If any action shall be brought against any Purchaser Party in respect of which indemnity may be sought pursuant to this Agreement, such Purchaser Party shall promptly notify the Company in writing, and the Company shall have the right to assume the defense thereof with counsel of its own choosing reasonably acceptable to the Purchaser Party. Any Purchaser Party shall have the right to employ separate counsel in any such action and participate in the defense thereof, but the fees and expenses of such counsel shall be at the expense of such Purchaser Party except to the extent that (i) the employment thereof has been specifically authorized by the Company in writing, (ii) the Company has failed after a reasonable period of time to assume such defense and to employ counsel or (iii) in such action there is, in the reasonable opinion of counsel, a material conflict on any material issue between the position of the Company and the position of such Purchaser Party, in which case the Company shall be responsible for the reasonable fees and expenses of no more than one such separate counsel. The Company will not be liable to any Purchaser Party under this Agreement (y) for any settlement by a Purchaser Party effected without the Company's prior written consent, which shall not be unreasonably withheld or delayed; or (z) to the extent, but only to the extent that a loss, claim, damage or liability is attributable to any Purchaser Party's breach of any of the representations, warranties, covenants or agreements made by such Purchaser Party in this Agreement or in the other Transaction Documents. The indemnification required by this Section shall be made by periodic payments of the amount thereof during the course of the investigation or defense, as and when bills are received or are incurred. The indemnity agreements contained herein shall be in addition to any cause of action or similar right of any Purchaser Party against the Company or others and any liabilities the Company may be subject to pur suant to law. 
+   
+ 
+ 
+ 20   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 11.1  Reservation of Securities. 
+   
+11.1.1 The Company shall maintain a reserve from its duly authorized shares of Common Stock for issuance pursuant to the Transaction Documents in such amount as may then be require d to fulfill its obligations in full under the Transaction Documents. 
+   
+11.1.2 If, on any date, the number of authorized but unissued (and otherwise unreserved) shares of Common Stock is less than 120% (excluding those triggered by or through default provisions in the Transaction Documents) of (i) the Required Minimum on such date, minus (ii) the number of shares of Common Stock previously issued pursuant to the Transaction Documents, then the Board of Directors shall use commercially reasonable efforts to amend the Company's certificate or articles of incorporation to increase the number of authorized but unissued shares of Common Stock to at least the Required Minimum at such time (minus the number of shares of Common Stock previously issued pursuant to the Transaction Documents), as soon as possible and in any event not later than the 75th day after such date; provided that the Company will not be required at any time to authorize a number of shares of Common Stock greater than the maximum remaining number of shares of Common Stock that could possibly be issued after such time pursuant to the Transaction Documents. 
+   
+ 12.1  Form D; Blue Sky Filings. The Company agrees to timely file a Form D with respect to the Securities as required under Regulation D and to provide a copy thereof, promptly upon request of any Purchaser. The Company shall take such action as the Company shall reasonably determine is necessary in order to obtain an exemption for, or to qualify the Securities for, sale to the Purchasers at the Closing under applicable securities or "Blue Sky" laws of the states of the United States, and shall provide evidence of such actions promptly upon request of any Purchase r. 
+   
+ 
+ 
+ 21   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 13.1  Additional Investment Right. From the date hereof until one year after the Closing Date, the Company may continue to offer any unsold Units to purchasers on the same terms and conditions as set forth in this Agreement. In order to effectuate a purchase and sale of such Units, the Company and the purchasers shall enter into a Securities Purchase Agreement identical to this Agreement an d shall include updated disclosure schedules. 
+   
+ 14.1  Termination. This Agreement may be terminated by any Purchaser, as to such Purchaser's obligations hereunder only and without any effect whatsoever on the obligations between the Company and the other Purchasers, by written notice to the other parties, if the Closing has not been consummated on or before February 28, 2018; provided, however, that such termination will  not affect the right of any party to sue for any breach by any other party (or parties). 
+   
+ 15.1  Fees and Expenses. Except as expressly set forth in the Transaction Documents to the contrary, each party shall pay the fees and expenses of its advisers, counsel, accountants and other experts, if any, and all other expenses incurred by such party incident to the negotiation, preparation, execution, delivery and performance of this Agreement. The Company shall pay any fees, stamp taxes and other taxes and duties levied in connection with the delivery of any Securities to the Purchasers. 
+   
+ 16.1  Entire Agreement. The Transaction Documents, together with the exhibits and schedules thereto, contain the entire understanding of the parties with respect to the subject matter hereof and thereof and supersede all prior agreements and understandings, oral or written, with respect to such matters, which the parties acknowledge have been merged into such documents, exhibits a nd schedules. 
+   
+ 17.1  Notices. Any and all notices or other communications or deliveries required or permitted to be provided hereunder shall be in writing and shall be deemed given and effective on the earliest of: (a) the date of transmission, if such notice or communication is delivered via facsimile at the facsimile number set forth on the signature pages attached hereto at or prior to 5:30 p.m. (New York City time) on a Trading Day, (b) the next Trading Day after the date of transmission, if such notice or communication is delivered via facsimile at the facsimile number set forth on the signature pages attached hereto on a day that is not a Trading Day or later than 5:30 p.m. (New York City time) on any Trading Day, (c) the second (2nd) Trading Day following the date of receipt, if sent by U.S. nationally recognized overnight courier service or (d) upon actual receipt by the party to whom such notice is required to be given. The address for such notices and communications shall be as set forth on the signature pages attached hereto. 
+   
+ 
+ 
+ 22   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 18.1  Amendments; Waivers. No provision of this Agreement may be waived, modified, supplemented or amended except in a written instrument signed, in the case of an amendment, by the Company and the Purchasers holding at least 51% in interest of the Securities then outstanding or, in the case of a waiver, by the party against whom enforcement of any such waived provision is sought. No waiver of any default with respect to any provision, condition or requirement of this Agreement shall be deemed to be a continuing waiver in the future or a waiver of any subsequent default or a waiver of any other provision, condition or requirement hereof, nor shall any delay or omission of any party to exercise any right hereunder in any manner impair th e exercise of any such right. 
+   
+ 19.1  Headings. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed to limit or affect any of the provisions hereof. 
+   
+ 20.1  Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties and their successors and permitted assigns. The Company may not assign this Agreement or any rights or obligations hereunder without the prior written consent of each Purchaser (other than by merger, reorganization or the like). Any Purchaser may assign any or all of its rights under this Agreement to any Person to whom such Purchaser assigns or transfers any Securities, provided that such transferee agrees in writing to be bound, with respect to the transfe rred Securities, by the provisions of the Transaction Documents that apply to the "Purchasers." 
+   
+ 21.1  No Third-Party Beneficiaries. This Agreement is intended for the benefit of the parties hereto and their respective successors and permitted assigns and is not for the benefit of, nor may any provision hereof  be enforced by, any other Person, except as otherwise set forth in Section 10.1. 
+   
+ 22.1  Governing Law. All questions concerning the construction, validity, enforcement and interpretation of the Transaction Documents shall be governed by and construed and enforced in accordance with the internal laws of the State of Colorado, without regard to the principles of conflicts of law thereof. Each party agrees that all legal proceedings concerning the interpretations, enforcement and defense of the transactions contemplated by this Agreement and any other Transaction Documents (whether brought against a party hereto or its respective affiliates, directors, officers, shareholders, partners, members, employees or agents) shall be commenced exclusively in the state and federal courts sitting in the City of Denver, Colorado. Each party hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts sitting in the City of Denver, Colorado for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein (including with respect to the enforcement of any of the Transaction Documents), and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding is improper or is an inconvenient venue for such proceeding. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of delivery) to such party at the address in effect for notices to it under this Agreement and agrees that such service shall constitute good and sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any other manner permitted by law. If either party shall commence an action, suit or proceeding to enforce any provisions of the Transaction Documents, then, in addition to the obligations of the Company under this Section, the prevailing party in such action, suit or proceeding shall be reimbursed by the other party for its reasonable attorneys' fees and other costs and expenses incurred with the investigation, preparation and prosecution of such action or  proceeding. 
+   
+ 
+ 
+ 23   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 23.1  Survival. The representations and warranties contained herein shall survive the Closing and the delivery of the Securities and terminate 30 days thereafter unless the representations and/or warranty relates to organization, authorization or the issuance of securities in which case such representations and warranties would terminate one year following Closing and the  delivery of Securities. 
+   
+ 24.1  Severability. If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions set forth herein shall remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their commercially reasonable efforts to find and employ an alternative means to achieve the same or substantially the same result as that contemplated by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared invalid, illegal, void or unenforceable. 
+   
+ 25.1  Replacement of Securities. If any certificate or instrument evidencing any Securities is mutilated, lost, stolen or destroyed, the Company shall issue or cause to be issued in exchange and substitution for and upon cancellation thereof (in the case of mutilation), or in lieu of and substitution therefor, a new certificate or instrument, but only upon receipt of evidence reasonably satisfactory to the Company of such loss, theft or destruction. The applicant for a new certificate or instrument under such circumstances shall also pay any reasonable third-party c osts (including customary indemnity) associated with the issuance of such replacement Securities. 
+   
+ 26.1  Remedies. In addition to being entitled to exercise all rights provided herein or granted by law, including recovery of damages, each of the Purchasers and the Company will be entitled to specific performance under the Transaction Documents. The parties agree that monetary damages may not be adequate compensation for any loss incurred by reason of any breach of obligations contained in the Transaction Documents and hereby agree to waive and not to assert in any action for specific performance of any such obligation the defense that a remedy a t law would be adequate. 
+   
+ 
+ 
+ 24   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 27.1  Independent Nature of Purchasers' Obligations and Rights. The obligations of each Purchaser under any Transaction Document are several and not joint with the obligations of any other Purchaser, and no Purchaser shall be responsible in any way for the performance or non-performance of the obligations of any other Purchaser under any Transaction Document. Nothing contained herein or in any other Transaction Document, and no action taken by any Purchaser pursuant hereto or thereto, shall be deemed to constitute the Purchasers as a partnership, an association, a joint venture or any other kind of entity, or create a presumption that the Purchasers are in any way acting in concert or as a group with respect to such obligations or the transactions contemplated by the Transaction Documents. Each Purchaser shall be entitled to independently protect and enforce its rights, including, without limitation, the rights arising out of this Agreement or out of the other Transaction Documents, and it shall not be necessary for any other Purchaser to be joined as an additional party in any proceeding for such purpose. Each Purchaser has been represented by its own separate legal counsel in its review and negotiation of the Transaction Documents. The Company has elected to provide all Purchasers with the same terms and Transaction Documents for the convenience of the Company and not because it was required or requested to do so by any of the Purchasers. 
+   
+ 28.1  Saturdays, Sundays, Holidays, etc. If the last or appointed day for the taking of any action or the expiration of any right required or granted herein shall not be a Business Day, then such action may be taken or s uch right may be exercised on the next succeeding Business Day. 
+   
+ 29.1  Construction. The parties agree that each of them and/or their respective counsel have reviewed and had an opportunity to revise the Transaction Documents and, therefore, the normal rule of construction to the effect that any ambiguities are to be resolved against the drafting party shall not be employed in the interpretation of the Transaction Documents or any amendments thereto. In addition, each and every reference to share prices and shares of Common Stock in any Transaction Document shall be subject to adjustment for reverse and forward stock splits, stock dividends, stock combinations and other similar transactions of the Common Stock that occur after the date of this Agreement. The word "including" shall be construed to include the words "without limitation." In this Agreement, unless the context otherwise requires, references to the singular shall include the plural and vice versa. 
+   
+ 30.1  Waiver of Jury Trial. EACH PARTY HEREBY WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT, THE OTHER TRANSACTION DOCUMENTS, THE SECURITIES OR THE SUBJECT MATTER HEREOF OR THEREOF. THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION, INCLUDING, WITHOUT LIMITATION, CONTRACT CLAIMS, TORT CLAIMS (INCLUDING NEGLIGENCE), BREACH OF DUTY CLAIMS, AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS. THIS SECTION HAS BEEN FULLY DISCUSSED BY EACH OF THE PARTIES HERETO AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS. EACH PARTY HERETO HEREBY FURTHER WARRANTS AND REPRESENTS THAT SUCH PARTY HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL, AND THAT SUCH PARTY KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH  LEGAL COUNSEL. 
+   
+ 
+ 
+ 25   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ 31.1  Counterparts. This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. Counterparts may be delivered via facsimile, electronic mail (including pdf or any electronic signature complying with the U.S. ESIGN Act of 2000,  e.g., www.docusign.com) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purpose s 
+   
+ 32.1  Titles and Subtitles. The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement. 
+   
+IN WITNESS WHEREOF, the parties hereto have caused this Securities Purchase Agreement to be duly executed by their respective authorized signatories as of the date first indicated  above. 
+   
+   SURNA inc. Address for Notice:           1780 55 th  St     Boulder, CO 80301       By:   Fax:  (303) 993-5271 Name: Trent Doucet   Title: President and Chief Executive Officer           With a copy to (which shall not constitute notice): Duane Morris LLP     1540 Broadway       New York, NY 10036-4086     Attn: David N. Feldman, Esq.     Fax: (212) 202-6094 
+   
+ SIGNATURE PAGE FOR PURCHASER IS AT START OF DOCUMENT 
+   
+ 
+ 
+ 26   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ SCHEDULES 
+   
+ Schedule A - Subsidiaries 
+   
+ Hydro Innovations, LLC, a Colorado limited liability company. 
+   
+ 
+ 
+ 27   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ EXHIBIT B: FORM OF WARRANT 
+   
+NEITHER THIS SECURITY NOR THE SECURITIES FOR WHICH THIS SECURITY IS EXERCISABLE HAVE BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "SECURITIES ACT"), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS AS EVIDENCED BY A LEGAL OPINION OF COUNSEL TO THE TRANSFEROR TO SUCH EFFECT, THE SUBSTANCE OF WHICH SHALL BE REASONABLY ACCEPTABLE TO THE COMPANY. THIS SECURITY AND THE SECURITIES ISSUABLE UPON EXERCISE OF THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR  OTHER LOAN SECURED BY SUCH SECURITIES. 
+   
+ COMMON STOCK PURCHASE WARRANT 
+   
+ SURNA INC. 
+   
+ Warrant Shares: __________________ Initial Exercise Date: _____________, 2017 
+   
+ THIS COMMON STOCK PURCHASE WARRANT (the "Warrant") certifies that, for value received, _____________________ or its assigns (the "Holder") is entitled, upon the terms and subject to the limitations on exercise and the conditions hereinafter set forth, at any time on or after six months after the date hereof (the "Initial Exercise Date") and on or prior to the close of business on ___ ___, 2020 (the "Termination Date") but not thereafter, to subscribe for and purchase from SURNA, INC., a Nevada corporation (the "Company"), up to ________ shares (as subject to adjustment hereunder, the "Warrant Shares") of Common Stock. The purchase price of one share of Common Stock under this Warrant shall be equal to the Exercise Price, as defined in Section 2 (b). 
+   
+ Section 1 - Definitions 
+   
+Capitalized terms used and not otherwise defined herein shall have the meanings set forth in that certain Securities Purchase Agreement (the "Purchase Agreement"), dated [_________ __], 2017, among the Company and the purchasers signatory thereto. 
+   
+ 
+ 
+ 28   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ Section 2 - Exercise; Call and Redemption 
+   
+ a)  Exercise of Warrant by Holder. Exercise of the purchase rights represented by this Warrant may be made, in whole or in part, at any time or times on or after the Initial Exercise Date and on or before the Termination Date by delivery to the Company (or such other office or agency of the Company as it may designate by notice in writing to the registered Holder at the address of the Holder appearing on the books of the Company) of a duly executed facsimile copy of the Notice of Exercise in the form annexed hereto and the Company shall have received payment of the aggregate Exercise Price of the shares thereby purchased by wire transfer or cashier's check drawn on a United States bank. No ink-original Notice of Exercise shall be required, nor shall any medallion guarantee (or other type of guarantee or notarization) of any Notice of Exercise form be required. Notwithstanding anything herein to the contrary, the Holder shall not be required to physically surrender this Warrant to the Company until the Holder has purchased all of the Warrant Shares available hereunder and the Warrant has been exercised in full, in which case, the Holder shall surrender this Warrant to the Company for cancellation within three (3) Trading Days of the date the final Notice of Exercise is delivered to the Company. Partial exercises of this Warrant resulting in purchases of a portion of the total number of Warrant Shares available hereunder shall have the effect of lowering the outstanding number of Warrant Shares purchasable hereunder in an amount equal to the applicable number of Warrant Shares purchased. The Holder and the Company shall maintain records showing the number of Warrant Shares purchased and the date of such purchases. The Company shall deliver any objection to any Notice of Exercise within one (1) Business Day of receipt of such notice. The Holder and any assignee, by acceptance of this Warrant, acknowledge and agree that, by reason of the provisions of this paragraph, following the purchase of a portion of the Warrant Shares hereunder, the number of Warrant Shares available for purchase hereunder at any given time may be less than the amount stated on the face  hereof. 
+   
+ b)  Mandatory Call (Redemption) Provisions. Notwithstanding anything to the contrary contained in this Warrant, this Warrant is callable (redeemable) at the Company's option commencing six (6) months from the Initial Exercise Date, provided the closing price of the Common Stock is $0.42 (adjusted to reflect forward or reverse stock splits, recapitalizations, reorganizations or the like) or greater for five (5) consecutive Trading Days on the Trading Market (the "Call Condition"). Commencing at any time after the date on which the Call Condition is satisfied, the Company shall have the right, upon 30 days' notice to the Holder (the "Redemption Notice"), to redeem the number of Warrant Shares specified in the applicable Call Condition at a price of $0.01 per Warrant Share (the "Redemption Price"), on the date set forth in the Redemption Notice, but in no event earlier than 30 days following the date of the receipt by the Holder of the Redemption Notice (the "Redemption Date"). The Holder may exercise this Warrant at any time (in whole or in part) prior to the Redemption Date at the Exercise Price. Any portion of this Warrant that is subject to the applicable Call Condition which is not exercised by the Redemption Date shall no longer be exercisable and shall be returned to the Company (and, if not so returned, shall automatically be deemed canceled), and the Company, upon its receipt of the unexercised portion of this Warrant, shall issue therefore in full and complete satisfaction of its obligations under such called but unexercised portion of this Warrant to the Holder an amount equal to the number of shares of Common Stock called but remaining unexercised multiplied by the Redemption Price. The Redemption Price shall be mailed to such Holder at its address of record, and the Warrant shall be canceled. 
+   
+ 
+ 
+ 29   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+c) Exercise Price. The exercise price per share of the Common Stock under this Warrant shall be $0.24, subject to adjustment hereunder (the "Exercise Price"). 
+   
+ d)  Mechanics of Exercise. 
+   
+ i.  Delivery of Warrant Shares Upon Exercise. Warrant Shares purchased hereunder shall be transmitted by the Company or its transfer agent to the Holder the Holder in the Notice of Exercise within a commercially reasonable time, pursuant to SEC regulations, with the goal of accomplishing such action three (3) Trading Days after delivery to the Company of the Notice of Exercise (such date, the "Warrant Share Delivery Date"). The Warrant Shares shall be deemed to have been issued, and Holder or any other person so designated to be named therein shall be deemed to have become a holder of record of such shares for all purposes, as of the date the Warrant has been exercised, with payment to the Company of the Exercise Price and all taxes required to be paid by the Holder, if any, pursuant to Section 2(d)(vi) prior to the issuance of such shares, having been paid. 
+   
+ ii.  Delivery of New Warrants Upon Exercise. If this Warrant shall have been exercised in part, the Company shall, at the request of a Holder and upon surrender of this Warrant certificate, at the time of delivery of the Warrant Shares, deliver to the Holder a new Warrant evidencing the rights of the Holder to purchase the unpurchased Warrant Shares called for by this Warrant, which new Warrant shall  in all other respects be identical with this Warrant. 
+   
+ iii.  No Fractional Shares or Scrip. No fractional shares or scrip representing fractional shares shall be issued upon the exercise of this Warrant. As to any fraction of a share which the Holder would otherwise be entitled to purchase upon such exercise, the Company shall, at its election, either pay a cash adjustment in respect of such final fraction in an amount equal to such fraction multi plied by the Exercise Price or round up to the next whole share. 
+   
+ iv.  Charges, Taxes and Expenses. Issuance of Warrant Shares shall be made without charge to the Holder for any issue or transfer tax or other incidental expense in respect of the issuance of Warrant Shares, all of which taxes and expenses shall be paid by the Company, and such Warrant Shares shall be issued in the name of the Holder or in such name or names as may be directed by the Holder; provided, however, that in the event that Warrant Shares are to be issued in a name other than the name of the Holder, this Warrant when surrendered for exercise shall be accompanied by the Assignment Form attached hereto duly executed by the Holder and the Company may require, as a condition thereto, the payment of a sum sufficient to reimburse it for any transfer tax incidental thereto. The Company shall pay all Transfer Agent fees required for same-day processing of any Notice of Exercise and all fees to the Depository Trust Company (or another established clearing corporation performing similar functions) required for same-day electronic delivery of the Warrant Shares as applicable. 
+   
+ 
+ 
+ 30   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ v.  Closing of Books. The Company will not close its stockholder books or records in any manner which prevents the timely exercise of this Warrant, pursuant to the terms hereof. 
+   
+ Section 3 - Certain Adjustments 
+   
+ a)  Stock Dividends and Splits. If the Company, at any time while this Warrant is outstanding: (i) pays a stock dividend or otherwise makes a distribution or distributions on shares of its Common Stock or any other equity or equity equivalent securities payable in shares of Common Stock (which, for avoidance of doubt, shall not include any shares of Common Stock issued by the Company upon exercise of this Warrant), (ii) subdivides outstanding shares of Common Stock into a larger number of shares, (iii) combines (including by way of reverse stock split) outstanding shares of Common Stock into a smaller number of shares or (iv) issues by reclassification of shares of the Common Stock any shares of capital stock of the Company, then in each case the Exercise Price shall be multiplied by a fraction of which the numerator shall be the number of shares of Common Stock (excluding treasury shares, if any) outstanding immediately before such event and of which the denominator shall be the number of shares of Common Stock outstanding immediately after such event, and the number of shares issuable upon exercise of this Warrant shall be proportionately adjusted such that the aggregate Exercise Price of this Warrant shall remain unchanged. Any adjustment made pursuant to this Section 3(a) shall become effective immediately after the record date for the determination of stockholders entitled to receive such dividend or distribution and shall become effective im mediately after the effective date in the case of a subdivision, combination or re classification. 
+   
+ b)  Fundamental Transaction. If, at any time while this Warrant is outstanding, (i) the Company, directly or indirectly, in one or more related transactions effects any merger or consolidation of the Company with or into another Person, (ii) the Company, directly or indirectly, effects any sale, lease, license, assignment, transfer, conveyance or other disposition of all or substantially all of its assets in one or a series of related transactions, (iii) any, direct or indirect, purchase offer, tender offer or exchange offer (whether by the Company or another Person) is completed pursuant to which holders of Common Stock are permitted to sell, tender or exchange their shares for other securities, cash or property and has been accepted by the holders of 50% or more of the outstanding Common Stock, (iv) the Company, directly or indirectly, in one or more related transactions effects any reclassification, reorganization or recapitalization of the Common Stock or any compulsory share exchange pursuant to which the Common Stock is effectively converted into or exchanged for other securities, cash or property, or (v) the Company, directly or indirectly, in one or more related transactions consummates a stock or share purchase agreement or other business combination (including, without limitation, a reorganization, recapitalization, spin-off or scheme of arrangement) with another Person or group of Persons whereby such other Person or group acquires more than 50% of the outstanding shares of Common Stock (not including any shares of Common Stock held by the other Person or other Persons making or party to, or associated or affiliated with the other Persons making or party to, such stock or share purchase agreement or other business combination) (each a "Fundamental Transaction"), then, upon any subsequent exercise of this Warrant, the Holder shall have the right to receive, for each Warrant Share that would have been issuable upon such exercise immediately prior to the occurrence of such Fundamental Transaction, at the option of the Holder, the number of shares of Common Stock of the successor or acquiring corporation or of the Company, if it is the surviving corporation, and any additional consideration (the "Alternate Consideration") receivable as a result of such Fundamental Transaction by a holder of the number of shares of Common Stock for which this Warrant is exercisable immediately prior to such Fundamental Transaction (without regard to any limitation in Section 2(e) on the exercise of this Warrant). For purposes of any such exercise, the determination of the Exercise Price shall be appropriately adjusted to apply to such Alternate Consideration based on the amount of Alternate Consideration issuable in respect of one share of Common Stock in such Fundamental Transaction, and the Company shall apportion the Exercise Price among the Alternate Consideration in a reasonable manner reflecting the relative value of any different components of the Alternate Consideration. If holders of Common Stock are given any choice as to the securities, cash or property to be received in a Fundamental Transaction, then the Holder shall be given the same choice as to the Alternate Consideration it receives upon any exercise o f this Warrant following such Fundamental Transaction. 
+   
+ 
+ 
+ 
+ 31   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ c)  Calculations. All calculations under this Section 3 shall be made to the nearest cent or the nearest 1/100th of a share, as the case may be. For purposes of this Section 3, the number of shares of Common Stock deemed to be issued and outstanding as of a given date shall be the sum of the number of shares of Common Stock (excluding treasury shares, if any) issued and outs tanding. 
+   
+ d)  Notice to Holder. 
+   
+ i.  Adjustment to Exercise Price. Whenever the Exercise Price is adjusted pursuant to any provision of this Section 3, the Company shall promptly mail to the Holder a notice setting forth the Exercise Price after such adjustment and any resulting adjustment to the number of Warrant Shares and setting forth a brief statement of the facts requiring such adjustment. 
+   
+ ii.  Notice to Allow Exercise by Holder. If (A) the Company shall declare a dividend (or any other distribution in whatever form) on the Common Stock, (B) the Company shall declare a special nonrecurring cash dividend on or a redemption of the Common Stock, (C) the Company shall authorize the granting to all holders of the Common Stock rights or warrants to subscribe for or purchase any shares of capital stock of any class or of any rights, (D) the approval of any stockholders of the Company shall be required in connection with any reclassification of the Common Stock, any consolidation or merger to which the Company is a party, any sale or transfer of all or substantially all of the assets of the Company, or any compulsory share exchange whereby the Common Stock is converted into other securities, cash or property, or (E) the Company shall authorize the voluntary or involuntary dissolution, liquidation or winding up of the affairs of the Company, then, in each case, the Company shall cause to be mailed to the Holder at its last address as it shall appear upon the Warrant Register of the Company, at least 20 calendar days prior to the applicable record or effective date hereinafter specified, a notice stating (x) the date on which a record is to be taken for the purpose of such dividend, distribution, redemption, rights or warrants, or if a record is not to be taken, the date as of which the holders of the Common Stock of record to be entitled to such dividend, distributions, redemption, rights or warrants are to be determined or (y) the date on which such reclassification, consolidation, merger, sale, transfer or share exchange is expected to become effective or close, and the date as of which it is expected that holders of the Common Stock of record shall be entitled to exchange their shares of the Common Stock for securities, cash or other property deliverable upon such reclassification, consolidation, merger, sale, transfer or share exchange; provided that the failure to mail such notice or any defect therein or in the mailing thereof shall not affect the validity of the corporate action required to be specified in such notice. To the extent that any notice provided hereunder constitutes, or contains, material, non-public information regarding the Company or any of the Subsidiaries, the Company shall simultaneously file such notice with the Commission pursuant to a Current Report on Form 8-K, provided that the requirement in this sentence shall only apply if any of the Company's securities are listed or quoted for public trading. The Holder shall remain entitled to exercise this Warrant during the period commencing on the date of such notice to the effective date of the event triggering  such notice except as may otherwise be expressly set forth herein. 
+   
+ 
+ 
+ 32   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ Section 4 - Transfer of Warrant 
+   
+ a)  Transferability. Subject to compliance with any applicable securities laws and the conditions set forth in Section 4(d) hereof and to the provisions of Section 4.1 of the Purchase Agreement, this Warrant and all rights hereunder are transferable, in whole or in part, upon surrender of this Warrant at the principal office of the Company or its designated agent, together with a written assignment of this Warrant substantially in the form attached hereto duly executed by the Holder or its agent or attorney and funds sufficient to pay any transfer taxes payable upon the making of such transfer. Upon such surrender and, if required, such payment, the Company shall execute and deliver a new Warrant or Warrants in the name of the assignee or assignees, as applicable, and in the denomination or denominations specified in such instrument of assignment, and shall issue to the assignor a new Warrant evidencing the portion of this Warrant not so assigned, and this Warrant shall promptly be cancelled. Notwithstanding anything herein to the contrary, the Holder shall not be required to physically surrender this Warrant to the Company unless the Holder has assigned this Warrant in full, in which case, the Holder shall surrender this Warrant to the Company within three (3) Trading Days of the date the Holder delivers an assignment form to the Company assigning this Warrant full. The Warrant, if properly assigned in accordance herewith, may be exer cised by a new holder for the purchase of Warrant Shares without having a new Warrant issued. 
+   
+ 
+ 
+ 33   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ b)  New Warrants. This Warrant may be divided or combined with other Warrants upon presentation hereof at the aforesaid office of the Company, together with a written notice specifying the names and denominations in which new Warrants are to be issued, signed by the Holder or its agent or attorney. Subject to compliance with Section 4(a), as to any transfer which may be involved in such division or combination, the Company shall execute and deliver a new Warrant or Warrants in exchange for the Warrant or Warrants to be divided or combined in accordance with such notice. All Warrants issued on transfers or exchanges shall be dated the Initial Exercise Date and shall be identical with this Warrant except as to the number of Warra nt Shares issuable pursuant thereto. 
+   
+c) Warrant Register. The Company shall register this Warrant, upon records to be maintained by the Company for that purpose (the "Warrant Register"), in the name of the record Holder hereof from time to time. The Company may deem and treat the registered Holder of this Warrant as the absolute owner hereof for the purpose of any exercise hereof or any distrib ution to the Holder, and for all other purposes, absent actual notice to the contrary. 
+   
+ d)  Transfer Restrictions. If, at the time of the surrender of this Warrant in connection with any transfer of this Warrant, the transfer of this Warrant shall not be either (i) registered pursuant to an effective registration statement under the Securities Act and under applicable state securities or blue sky laws or (ii) eligible for resale pursuant to Rule 144, the Company may require, as a condition of allowing such transfer, that the Holder or transferee of this Warrant, as the case may be, comply with the provisions of Section 5.7 of the Purchase Agreeme nt. 
+   
+ e)  Representation by the Holder. The Holder, by the acceptance hereof, represents and warrants that it is acquiring this Warrant and, upon any exercise hereof, will acquire the Warrant Shares issuable upon such exercise, for its own account and not with a view to or for distributing or reselling such Warrant Shares or any part thereof in violation of the Securities Act or any applicable st ate securities law, except pursuant to sales registered or exempted under the Securities Act. 
+   
+ Section 5 - Miscellaneous 
+   
+ a)  No Rights as Stockholder Until Exercise. This Warrant does not entitle the Holder to any voting rights, dividends or other rights as a stockholder of the Company prior to the exercise hereof as set forth in Section 2(d) (i). 
+   
+ b)  Loss, Theft, Destruction or Mutilation of Warrant. The Company covenants that upon receipt by the Company of evidence reasonably satisfactory to it of the loss, theft, destruction or mutilation of this Warrant or any stock certificate relating to the Warrant Shares, and in case of loss, theft or destruction, of indemnity or security reasonably satisfactory to it (which, in the case of the Warrant, shall not include the posting of any bond), and upon surrender and cancellation of such Warrant or stock certificate, if mutilated, the Company will make and deliver a new Warrant or stock certificate of like tenor and dated as of such cancellation, in lieu of such Warrant or stock certificate. 
+   
+ 
+ 
+ 34   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ c)  Saturdays, Sundays, Holidays, etc. If the last or appointed day for the taking of any action or the expiration of any right required or granted herein shall not be a Business Day, then, such action may be taken or  such right may be exercised on the next succeeding Business Day. 
+   
+ d)  Authorized Shares. The Company covenants that, during the period the Warrant is outstanding, it will reserve from its authorized and unissued Common Stock a sufficient number of shares to provide for the issuance of the Warrant Shares upon the exercise of any purchase rights under this Warrant. The Company further covenants that its issuance of this Warrant shall constitute full authority to its officers who are charged with the duty of issuing the necessary Warrant Shares upon the exercise of the purchase rights under this Warrant. The Company will take all such reasonable action as may be necessary to assure that such Warrant Shares may be issued as provided herein without violation of any applicable law or regulation, or of any requirements of the Trading Market upon which the Common Stock may be traded. The Company covenants that all Warrant Shares which may be issued upon the exercise of the purchase rights represented by this Warrant will, upon exercise of the purchase rights represented by this Warrant and payment for such Warrant Shares in accordance herewith, be duly authorized, validly issued, fully paid and non-assessable and free from all taxes, liens and charges created by the Company in respect of the issue thereof (other than taxes in respect  of any transfer occurring contemporaneously with such issue). 
+   
+ e)  Jurisdiction. All questions concerning the construction, validity, enforcement and interpretation of this Warrant shall be determined in accordance with the provisions of the Purchase Agreemen t. 
+   
+ f)  Restrictions. The Holder acknowledges that the Warrant Shares acquired upon the exercise of this Warrant, if not registered, will have restrictions upon resale imposed by state and federal secu rities laws. 
+   
+ g)  Non-waiver and Expenses. No course of dealing or any delay or failure to exercise any right hereunder on the part of Holder shall operate as a waiver of such right or otherwise prejudice the Holder's rights, powers or remedies, notwithstanding the fact that all rights hereunder terminate on the Termination Date. If the Company willfully and knowingly fails to comply with any provision of this Warrant, which results in any material damages to the Holder, the Company shall pay to the Holder such amounts as shall be sufficient to cover any costs and expenses including, but not limited to, reasonable attorneys' fees, including those of appellate proceedings, incurred by the Holder in collecting any amounts due pursuant hereto or in otherw ise enforcing any of its rights, powers or remedies hereunder. 
+   
+ h)  Notices. Any notice, request or other document required or permitted to be given or delivered to the Holder by the Company shall be delivered in accordance with the notice provisions of th e Purchase Agreement. 
+   
+ 
+ 
+ 35   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ i)  Limitation of Liability. No provision hereof, in the absence of any affirmative action by the Holder to exercise this Warrant to purchase Warrant Shares, and no enumeration herein of the rights or privileges of the Holder, shall give rise to any liability of the Holder for the purchase price of any Common Stock or as a stockholder of the Company, whether such liability is asserted  by the Company or by creditors of the Company. 
+   
+ j)  Remedies. The Holder, in addition to being entitled to exercise all rights granted by law, including recovery of damages, will be entitled to specific performance of its rights under this Warrant. The Company agrees that monetary damages would not be adequate compensation for any loss incurred by reason of a breach by it of the provisions of this Warrant and hereby agrees to waive and not to assert the defense in any action for specific performance that a remedy at law would be adequate. 
+   
+ k)  Successors and Assigns. Subject to applicable securities laws, this Warrant and the rights and obligations evidenced hereby shall inure to the benefit of and be binding upon the successors and permitted assigns of the Company and the successors and permitted assigns of Holder. The provisions of this Warrant are intended to be for the benefit of any Holder from time to time of this  Warrant and shall be enforceable by the Holder or holder of Warrant Shares. 
+   
+ l)  Amendment. This Warrant may be modified or amended or the provisions hereof waived with the written consent of the Company and the Holder. 
+   
+ m)  Severability. Wherever possible, each provision of this Warrant shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Warrant shall be prohibited by or invalid under applicable law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such  provisions or the remaining provisions of this Warrant. 
+   
+ n)  Headings. The headings used in this Warrant are for the convenience of reference only and shall not, for any purpose, be deemed a part of this Warrant. 
+   
+IN WITNESS WHEREOF, the Company has caused this Warrant to be executed by its officer thereunto duly authorized as of the date first above indicated. 
+   
+ SURNA INC. 
+   
+ By:___________________________ 
+ Trent Doucet 
+ President and Chief Executive Officer 
+   
+ 
+ 
+ 
+ 36   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ NOTICE OF EXERCISE 
+   
+ TO:  SURNA INC. 
+   
+(1) The undersigned hereby elects to purchase ________ Warrant Shares of the Company pursuant to the terms of the attached Warrant (only if exercised in full), and tenders herewith  payment of the exercise price in full, together with all applicable transfer taxes, if any. 
+   
+ (2) Payment shall take the form of (check applicable box): 
+   
+ [ ] in lawful money of the United States. 
+   
+(3) Please issue said Warrant Shares in the name of the undersigned or in such other name as is specified below: 
+   
+ _______________________________ 
+ (please print name) 
+   
+ The Warrant Shares shall be delivered to the following Address: 
+   
+ _______________________________ 
+   
+ _______________________________ 
+   
+ _______________________________ 
+   
+ (4)  Accredited Investor. The undersigned is an "accredited investor" as defined in Regulation D promulgated under the Securities Act of 1933, as amended. 
+   
+ Holder's Signature: _______________________________________________________ 
+   
+ Name of Investing Entity: __________________________________________________ 
+   
+ Signature of Authorized Signatory of Investing Entity: ___________________________ 
+   
+ Name of Authorized Signatory of Investing Entity: _____________________________ 
+   
+ Title of Authorized Signatory of Investing Entity: ______________________________ 
+   
+ Dated: _____/_____/20_____ 
+   
+ 
+ 
+ 37   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ EXHIBIT B 
+   
+ ASSIGNMENT FORM 
+   
+ TO:  SURNA INC. 
+   
+(To assign the foregoing Warrant, execute this form and supply required information. Do not use this form to purchase shares.) 
+   
+ FOR VALUE RECEIVED, the foregoing Warrant and all rights evidenced thereby are hereby assigned to: 
+   
+ Name: __________________________________________________________________ 
+ (Please Print) 
+   
+ Address: ________________________________________________________________ 
+ (Please Print) 
+   
+ Dated: _____/_____/20_____ 
+   
+ Holder's Signature: _______________________________________________________ 
+   
+ Holder's Address: _______________________________________ 
+   
+ ________________________________________ 
+   
+ ________________________________________ 
+   
+ 
+ 
+ 38   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ EXHIBIT C 
+   
+ INVESTOR SUITABILITY REQUIREMENTS 
+   
+ 
+ 
+ 39   surna.com Feb. 2017 
+ 
+ 
+   
+ 1780 55 th  Street, Suite A 
+ Boulder, CO 80301 
+ 
+ 
+ 
+   
+ EXHIBIT D 
+   
+ RISK FACTORS 
+   
+   
+ 
+ 
+ 40   surna.com Feb. 2017 
+ 
+ 
+     
+ 
+ 
+ 

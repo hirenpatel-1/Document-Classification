@@ -1,0 +1,249 @@
+ htm 84741 Material contracts 10 2017-03-30T15:00:52.3529-05:00 Filing 0001213900-17-003009 2017-03-30 10-K Annual  & Quarterly Reports 0000811641 IMMUCELL CORP /DE/ ICCC COM Nasdaq Capital Market 2835 In Vitro  & In Vivo Diagnostic Substances No MAINE DELAWARE DELAWARE false Small Reporting Company 001-12934AMENDED AND RESTATED PROMISSORY NOTE ($3,940,000) GIVEN BY THE COMPANY IN FAVOR OF TD BANK N.A. DATED MARCH 1, 2017 Exhibit Exhibit 3 f10k2016ex10xvii_immucell.htm EX-10.17 3 f10k2016ex10xvii_immucell.htmAMENDED AND RESTATED PROMISSORY NOTE ($3,940,000) GIVEN BY THE COMPANY IN FAVOR OF TD BANK N.A. DATED MARCH 1, 2017 
+ EXHIBIT 10.17 
+   
+ IMMUCELL CORPORATION 
+   
+ 
+ Amended and Restated Promissory Note 
+ ($3,940,000) given by the Company in favor of TD Bank N.A. 
+ dated March 1, 2017. 
+   
+ LOAN #__________ 
+   
+ AMENDED AND RESTATED TERM LOAN NOTE 
+   
+ (Amends and Restates Term Loan Note dated March 28, 2016 in the original 
+principal amount of $2,500,000.00) 
+   
+ 
+ 
+ Date of Note: 
+ 
+ 
+ 
+ March 1, 2017 
+ 
+ 
+     Principal Amount: $3,940,000.00     Maturity Date: September 1, 2025     Interest Rate: 
+An interest rate equal at all times to Two and One Quarter percent (2.25%) per annum in excess of the rate of interest per annum (rounded upwards, if necessary, to the nearest 1/100 of 1%) of the one (1) month LIBOR (as hereinafter defined). The Lender shall not be required to notify Borrower of adjustments in said interest rate. 
+   
+"LIBOR" (i.e., the London Interbank Offered Rate) means the rate of interest in U.S. Dollars (rounded upwards, at the Lender's option, to the next 1/8th of one percent) equal to the Intercontinental Exchange Benchmark Administration Ltd. ("ICE, "or the successor thereto if ICE is no longer making a London Interbank Offered Rate available) ("ICE LIBOR") rate for the equivalent Interest Period as published by Bloomberg (or such other commercially available source providing quotations of ICE LIBOR as designated by Lender from time to time) at approximately 11:00 A.M. (London time) two (2) London Business Days prior to the Reset Date; provided however, if more than one ICE LIBOR is specified, the applicable rate shall be the arithmetic mean of all such rates. If, for any reason, such rate is not available, the term LIBOR Rate shall mean, for the LIBOR Interest Period applicable thereto, the rate of interest per annum (rounded upwards, if necessary, to the nearest 1/100 of 1%) determined by Lender to be the average rates per annum at which deposits in dollars are offered for such LIBOR Interest Period to major banks in the London Interbank market in London, England at approximately 11:00 A.M. (London time) two (2) Business Days prior to the Reset Date. The Interest Rate shall be computed on an actual/360 day basis (i.e., interest for each day during which the Principal Amount, or any part thereof, is outstanding shall be  computed at the Interest Rate, divided by 360). 
+   
+Notwithstanding the foregoing, LIBOR Rate loans shall be deemed to constitute Eurocurrency liabilities and as such shall be deemed subject to reserve requirements without benefits of credits for proration, exceptions or offsets that may be available from time to time to Lender. The LIBOR Rate shall be adjusted automatically on and as of the effective date of any change in the LIBOR Reserve Percentage or the LIBOR Interest Period for each LIBOR Rate loan comprising part of the same borrowing (including conversions, extensions and renew als), to a per annum interest rate determined pursuant to the following formula: 
+   
+ Adjusted LIBOR Rate =               LIBOR Rate___________ 
+ 1 - LIBOR Reserve Percentage 
+   
+For purposes of this calculation LIBOR Reserve Percentage is defined as, for any day, that percentage (expressed as a decimal) which is in effect from time to time under Regulation D, as such regulation may be amended from time to time or any successor regulation, as the maximum reserve requirement (including, without limitation, any basic, supplemental, emergency, special, or marginal reserves) applicable with respect to Eurocurrency liabilities as that term is defined in Regulation D (or against any other category of liabilities that includes deposits by reference to which the interest rate of LIBOR Rate loans is determined), whether or not Lender has any Eurocurrency liabilities subject to such reserve requi rement at that time. 
+     LIBOR Interest Period:Initially, the first (1st) LIBOR Interest Period hereunder shall be the period commencing on the date hereof and ending on (and including) March 31, 2017.  Thereafter, each LIBOR Interest Period shall commence on the first (1st) day of the calendar month immediately following the previous LIBOR Interest Period (the " Reset Date") and shall end on the  last day of such month; provided however, (i) no LIBOR Interest Period shall extend beyond the Maturity Date of the Loan, and (ii) any LIBOR Interest Period that begins on the last Business Day of a calendar month (or on a day for which there is no numerically corresponding day in the calendar  month at the end of such LIBOR Interest Period) shall end on the last Business Day of the relevant calendar month at the end of such LIBOR Interest Period.       Business Day:Any day on which domestic and international transactions are carried on in the London Interbank Market and commercial banks are open for business in London, England and are neither  required nor authorized to close in the State.     State: Shall mean the State of Maine. 
+   
+ 
+ 
+ 
+   1   
+ 
+   
+ 
+   
+ FOR VALUE RECEIVED , ImmuCell Corporation, a Delaware corporation (the " Borrower "), having an address as indicated below,  HEREBY PROMISES TO PAY ON THE MATURITY DATE to the order of TD Bank, N.A., a national banking association, (hereinafter, together with its successors and assigns, referred to as the " Lender ") at  One Portland Square, P.O. Box 9540, Portland, Maine, 04112, or at such other place as the holder hereof may from time to time designate in writing, in immediately available federal funds, the Principal Amount or so much thereof as shall be advanced by Lender to Borrower pursuant to the terms hereof and then remaining unpaid, together with interest on the outstanding Principal Amount from time to time at the Interest Rate. Interest only shall be due and payable monthly, commencing April 1, 2017 and on the same day of each successive month until September 1, 2018  or the date on which the full Principal Amount hereof has been advanced by Lender to Borrower, whichever is earlier (the " Advance Termination Date "). 
+   
+Beginning with the payment next due after the Advance Termination Date, principal payments shall be due and payable pursuant to a schedule of principal payments based on a seven ye ar even amortization to be later attached to this Note as  Schedule A to be then provided by the Lender, plus accrued interest, in equal monthly installments, followed by a final installment of all unpaid principal and interest due and payable on th e Maturity Date. Borrower may elect an interest rate swap for all or any portion of the loan. 
+   
+Borrower shall pay a late payment charge of six cents ($.06) for each dollar ($1.00) of each payment that is made more than fifteen (15) days after the due date thereof, which char ge shall be due and payable with each such late payment. 
+   
+For so long as the Interest Rate in effect is a variable rate of interest, the loan evidenced hereby may be prepaid in part or in full at any time without premium. However, upon Borrower's execution of any ISDA interest rate swap or other hedging agreement in connection with this Term Loan Note synthetically converting the Interest Rate to an indicative fixed rate, any prepayment shall be subject to the terms of such a swap or hedge agreement, including any provisions relating to termination fees. 
+   
+ Borrower may request advances hereunder (each, an " Advance " and collectively, " Advances") through, to and including the Advance Termination Date, which Advances shall be utilized by Borrower solely for purposes of purchasing machinery and equipment to be installed at the property owned by Borrower and located at or about 33 Caddie Lane a/k/a Unit 11, Second Tee Business Park Condominium, Riverside Street, Portland, Maine (the " Project") and shall not exceed the invoiced cost of such machinery and equipment, exclusive of taxes, freight and installation charges so long as the total of all requested and outstanding Advances does not exceed eighty percent (80%) of the total invoiced cost of machinery and equipment (exclusive of taxes, freight and installation charges) purchased or ordered with respect to the Project at the time of such request. Advances shall be used for commercial purposes and not for any personal, family or household use or for the purpose of purchasing or carrying any "margin security" or "margin stock" as such terms are used in Regulations U and X of the Board of Governors of the Federal Reserve System, 12 C.F.R. Â§Â§ 221 a nd 224. 
+   
+ 
+ 
+ 
+   2   
+ 
+   
+ 
+   
+The aggregate principal amount of all outstanding Advances shall not exceed the Principal Amount of this Note at any time. Lender shall not be obligated to make Advances hereunder until such time as Borrower has provided Lender with evidence satisfactory to Lender that Borrower has contributed equity in the form of machinery and equipment purchased with non- borrowed funds, to the Project in the amounts set forth on  Schedule B  hereto. 
+   
+Lender shall not be obligated to make Advances after the Advance Termination Date. Lender shall have the right to request periodic reports from Borrower as to the status of the Project from time to time and Lender shall not be obligated to make Advances hereunder until such time as such reports are received and are satisfactory to Lender, in its sole discretion. Lender will have no obligation to make Advances hereunder if: (a) a Default (as hereinafter defined) has occurred and is continuing, (b) an event has occurred which with the passage of time or giving of notice, if left uncured, would constitute a Default hereunder, (c) there occurs a material adverse change in Borrower's financial condition or business or (d) Borrower has applied funds advanced pursuant to this Note for purposes other than those authorized by Lender. 
+   
+ All Advances requested by Borrower hereunder are to be in writing pursuant to a written request (" Advance Request") executed by an Authorized Officer in form and content satisfactory to Lender, and shall include invoices from third party vendors and other documentation satisfactory to Lender, in its sole discretion, establishing that the requested advance amount is equal to a maximum of the invoiced cost of the equipment to be purchased, less taxes, freight and installation charges and that the total of all requested and outstanding Advances at the time of such Advance Request does not exceed eighty percent (80%) of the total invoiced cost of machinery and equipment (exclusive of taxes, freight and installation charges) purchased or ordered for the Project at the time of such Advance Request. For purposes hereof, the term "Authorized Officer" shall mean any officer (or comparable equivalent) of Borrower authorized by specific resolution of Borrower to request Advances as set forth in an authorizati on certificate delivered to Lender in the form set forth as  Schedule C hereto. Lender shall be entitled to rely on each such authorization certificate received until such time as Lender actually receives an amended authorization certificate amending the information set forth therein. Borrower agrees to be liable for all sums advanced in accordance with the instructions of an Authorized Person. 
+   
+Upon receiving a request for an Advance in accordance with this paragraph, and subject to the conditions set forth herein, Lender shall make the requested Advance available to Borrower as soon as is reasonably practicable thereafter on the day the requested Advance is to be made. Advances which may be made by Lender from time to time hereunder shall be made  available by crediting such proceeds to Borrower's operating account with Lender. 
+   
+ 
+ 
+ 
+   3   
+ 
+   
+ 
+   
+Borrower hereby authorizes Lender to charge checking account number _______________ at TD Bank, N.A. (or such other account maintained by Borrower at TD Bank, N.A. as Borrower shal l designate by written notice to Lender) (the " Deposit Account") to satisfy the monthly payments of principal and/or interest due and payable to Lender hereunder on the first (1st) day of each month (each, a " Charge Date") and Lender is hereby authorized to charge the Deposit Account on each Charge Date or, if any Charge Date shall fall on a Saturday, Sunday or legal holiday, then the Lender reser ves the right to charge the Deposit Account on either the first (1 st ) Business Day immediately preceding or on the first (1 st ) Business day immediately following any such Charge Date until the Note shall be paid in full. 
+   
+Borrower agrees to maintain sufficient funds in the Deposit Account to satisfy the payment due Lender under the Note on the next succeeding Charge Date during the term of this Note. If sufficient funds are not available in the Deposit Account on any Charge Date to pay the amounts then due and payable under this Note, Lender, in its sole discretion, is authorized to: (a) charge the Deposit Account for such lesser amount as shall then be available; and/or (b) charge the Deposit Account on such later date or dates after the applicable Charge Date that funds shall be available in the Deposit Account to satisfy the payment then due (or balance of such payment then due). Notwithstanding the foregoing, Borrower shall only be entitled to receive credit in respect of any payments of principal and interest due under the Note for funds actually received by Lender as a result of any such charges to the Deposit Account. Borrower shall be liable to Lender for any late fees or interest at the Default Rate on any payments not made on a timely basis by Borrower because of insufficient funds in the Deposit Account on any Charge Date. In the event the Deposit Account continues to contain insufficient funds to fully satisfy the payments due Lender under the Note, Borrower shall be responsible for making all such payments from another source and in no event shall the obligations of Borrower under the Note be affected or diminished as a result of any shortages in the Deposit Account, it being understood and agreed that Borrower shall at all times remain liable for payment in full of all indebtedness under the Note. 
+   
+Lender may, at Lender's sole discretion, discontinue charging the Deposit Account at any time on not less than ten (10) days' written notice to the Borrower, in which event, Borrower shall thereafter be responsible for making all payments hereunder to Lender at the address set forth in Lender's notice or if no such address is given, then to Lender at P.O. Bo x 5600, Lewiston, Maine 04243-5600. 
+   
+The Borrower and each endorser and guarantor hereof grant to the Bank a continuing lien on and security interest in any and all deposits or other sums at any time credited by or due from Lender or any Affiliate (as defined in the Security Agreements) of Lender to the Borrower and/or each endorser or guarantor hereof and any cash, securities, instruments or other property of the Borrower and each endorser and guarantor hereof in the possession of the Lender or any Lender Affiliate, whether for safekeeping or otherwise, or in transit to or from the Lender or any Lender Affiliate (regardless of the reason the Lender or Lender Affiliate had received the same or whether the Lender or Lender Affiliate has conditionally released the same) as security for the full and punctual payment and performance of all of the liabilities and obligations of the Borrower and/or any endorser or guarantor hereof to the Lender or any Lender Affiliate and such deposits and other sums may be applied or set off against such liabilities and obligations of the Borrower or any endorser or guarantor hereof to the Lender or any Lender Affiliate at any time, whether or not such are then due, whether or not demand has been made and whether or not other collateral is then ava ilable to the Lender or any Lender Affiliate. 
+   
+ 
+ 
+ 
+   4   
+ 
+   
+ 
+   
+Notwithstanding any other provision of this Note, if Lender shall reasonably determine (which determination shall be conclusive and binding absent manifest error) that, (i) by reason of circumstances affecting the relevant market, reasonable and adequate means do not exist for ascertaining the Adjusted LIBOR Rate, or (ii) it is unlawful for Lender to make or maintain the loan evidenced by the Note as a LIBOR Rate based loan as contemplated by this Note, or to obtain in the interbank Eurodollar market the funds with which to make such LIBOR Rate based loans, Lender shall give prompt written notice thereof to Borrower and after the giving of such notice, until any such notice has been withdrawn by Lender, the Principal Amount shall bear interest at another rate then designated by the Lender, in its sole discretion, for general commercial loan reference purposes. 
+     
+If the adoption of or any change in any applicable law or regulation or in the interpretation or application thereof or compliance by Lender with any request or directive (whether or not having the force of law) from any central bank or other governmental authority made subsequent to the date hereof, shall (a) subject Lender to any tax of any kind whatsoever with respect to any LIBOR Rate based loan made by it, or change the basis of taxation of payments to Lender in respect thereof (except for changes in the rate of tax on the overall net income of Lender); (b) impose, modify, or hold applicable, any reserve, special deposit, compulsory loan, or similar requirement against assets held by, deposits or other liabilities in, or for the account of, advances, loans, or other extension of credit (including participations therein) by, or any other acquisition of funds by, any office of Lender which is not otherwise included in the determination of the Adjusted LIBOR Rate hereunder; or (c) shall impose on such Lender any other condition; and the result of any of the foregoing is to materially increase the cost to Lender of making or maintaining the loan evidenced by this Note as a LIBOR Rate based loan, or to reduce any amount receivable hereunder, then, in any such case, Borrower shall promptly pay Lender, upon its demand, any additional amounts necessary to compensate Lender for such additional costs or reduced amount receivable which Lender reasonably deems to be material as determined by Lender, with respect to this Note. A certificate as to any additional amounts payable pursuant to this paragraph submitted by Lender to Borrower shall be presumptive evidence of such amounts owing. Lender agrees to use reasonable efforts to avoid, or to minimize, any amounts which might otherwise be payable pursuant to this paragraph provided however, that such efforts shall not cause the imposition on Lender of any additional costs or legal regulatory burdens deeme d by Lender in good faith to be material. 
+   
+During the term hereof, Borrower will deliver to Lender such financial information and reports as may be required by that certain Second Amended and Restated Loan Agreement dated of or about even date herewith, as the same may be amended from time to time. Borrower's failure to timely supply such information shall constitute a Default hereunder. 
+   
+ 
+ 
+ 
+   5   
+ 
+   
+ 
+   
+This Note is secured by, and the parties hereto are entitled to the benefits and security of, that certain security agreement dated on or about March 28, 2016 (the " 2016 Security Agreement") from Borrower to Lender and a certain Amended and Restated Security Agreement dated on or about September 21, 2015 from Borrower to Lender (the " 2015 Security Agreement   or, together with the 2016 Security Agreement, the " Security Agreements"), each covering all business assets of Borrower, as well as a certain Mortgage and Security Agreement with respect to certain property owned by Borrower and improvements now or in the future existing thereon, located at or about 33 Caddie Lane a/k/a Unit 11, Second Tee Business Park Condominium, Riverside Street, Portland, Maine, an existing Amended and Restated Mortgage and Security Agreement dated on or about September 21, 2015 with respect to certain property with improvements thereon owned by Borrower and located at or about 56  Evergreen Drive, Portland, Maine (the two said Mortgage and Security Agreements, together, the " Mortgages") and related collateral assignments of leases and rents, all of the covenants, conditions and agreements of the said collateral security documents being made a part of this Note by this reference, and by any other mortgage or security instrument executed and delivered by Borrower to Lender from time to time that secures all obligations or indebtedness of B orrower to Lender. 
+   
+It is the intention of the parties that Lender shall have a first priority purchase money security interest in equipment purchased by Borrower for which an Advance is made hereunde r. 
+   
+Except as may be otherwise provided in the Security Agreements or the Mortgages securing Borrower's obligations hereunder, all monthly payments received by Lender hereunder shall b e applied  first , to the payment of accrued interest on the Principal Amount,  second , to the reduction of the Principal Amount of this Note, and  finally, the balance, if any, to the payment of any fees, costs, expenses or charges then payable by Borrower to Lender hereunder, under the Mortgages or under any other document executed  and delivered by Borrower in connection with the loan evidenced by this Note. 
+   
+Borrower agrees that if it fails to make any payment due under this Note, or upon the happening of any " Default " (as defined in the 2016 Security Agreement) under the Security Agreements or an " Event of Default" under either of the Mortgages, Lender shall have no obligation to make any further Advances and the outstanding Principal Amount, together with accrued interest and all other expenses, including, without limitation, reasonable attorneys' fees, shall immediately become due and payable at the option of the holder of this Note, notwithstanding the Maturity Date. For purposes hereof, attorneys' fees shall include, without limitation, fees and disbursements for legal services incurred by the holder hereof in collecting or enforcing payment hereof whether or not suit is brought, and if suit is brought, then through all appellate actions. 
+   
+DEFAULT / POST JUDGMENT INTEREST RATE. The Lender shall have the right to charge interest on the unpaid principal balance hereof at an interest rate of four percent (4.0%) per annu m in excess of the Interest Rate otherwise payable as provided herein (the " Default Rate") for any period during which the Borrower has failed to make a required payment hereunder within ten (10) days of the due date therefor, or shall be in default under any material provision hereof or there shall be a default under any other document guarantying, governing or securing this Note. The Default Rate shall apply following entry of any judgment he reon notwithstanding any otherwise applicable statutory rate. 
+ 
+   
+ 
+ 
+ 
+   6   
+ 
+   
+ 
+   
+In no event shall the total of all charges payable under this Note and any other documents executed and delivered in connection herewith and therewith that are or could be held to be in the nature of interest exceed the maximum rate permitted to be charged by applicable law. Should the Lender receive any payment of interest that is or would be in excess of that permitted to be charged under any such applicable law, such payment shall have been, and shall be deemed to have been, made in error and shall thereupon be applied to reduce th e principal balance outstanding on this Note. 
+   
+Borrower waives demand, presentment for payment, notice of dishonor, protest and notice of protest of this Note. 
+   
+Any notice, demand or request relating to any matter set forth in this Note shall be in writing and shall be deemed to have been sufficiently given or served for all purposes when presented personally, three (3) days after mailing by registered or certified mail, postage prepaid, or one (1) day after delivery to a nationally recognized overnight courier service providing evidence of the date of delivery, if to Borrower at 56 Evergreen Drive, Portland, Maine 04103, to the attention of Michael Brigham, President and CEO, and if to Lender, at its address first above written, to the attention of Nicholas Weightman, or at such other address of which a party shall have notified the party giving such notice in writing  in accordance with the foregoing requirements. 
+   
+ Time is of the essence as to all dates set forth herein;  provided ,  however, that whenever any payment to be made under this Note shall be stated to be due on a day that is not a Business Day, such payment may be made on the next succeeding Business Day, and such extension of time shall in such case be included in the computations of payment of interest. 
+   
+This Note may not be waived, changed, modified, terminated or discharged orally, but only by an agreement in writing signed by the party against whom enforcement of any such waiver , change, modification, termination or discharge is sought. 
+   
+BORROWER, AND BY ITS ACCEPTANCE HEREOF, LENDER, EACH HEREBY AGREES NOT TO ELECT A TRIAL BY JURY OF ANY ISSUE TRIABLE OF RIGHT BY JURY, AND WAIVE ANY RIGHT TO TRIAL BY JURY FULLY TO THE EXTENT THAT ANY SUCH RIGHT SHALL NOW OR HEREAFTER EXIST WITH REGARD TO THIS NOTE, OR ANY CLAIM, COUNTERCLAIM OR OTHER ACTION ARISING IN CONNECTION THEREWITH. THIS WAIVER OF RIGHT TO TRIAL BY JURY IS GIVEN KNOWINGLY AND VOLUNTARILY BY BORROWER AND LENDER, AND IS INTENDED TO ENCOMPASS INDIVIDUALLY EACH INSTANCE AND EACH ISSUE AS TO WHICH THE RIGHT TO A TRIAL BY JURY WOULD OTHERWISE ACCRUE. BORROWER AND LENDER ARE EACH HEREBY AUTHORIZED TO FILE A COPY OF THIS PARAGRAPH IN ANY PROCEEDING AS CONCLUSIVE EVIDENCE OF THIS WAIVER. 
+   
+This Note and the rights and obligations of the parties hereunder shall in all respects be governed by, and construed and enforced in accordance with, the laws of the State (without giving effect to the State's principles of conflicts of law). Borrower hereby irrevocably submits to the nonexclusive jurisdiction of any state or federal court in the State sitting in the City of Portland, County of Cumberland, over any suit, action or proceeding arising out of or relating to this Note, and Borrower hereby agrees and consents that, in addition to any methods of service of process provided for under applicable law, all service of process in any such suit, action or proceeding in any state or federal court in the State sitting in the City of Portland, County of Cumberland, may be made by certified or registered mail, return receipt requested, directed to the Borrower at the address indicated b elow, and service so made shall be complete five (5) days after the same shall have been so mailed. 
+   
+By signing below, Borrower agrees and acknowledges that, under Maine law, no promise, contract, or agreement to lend money, extend credit, forbear from collection of debt or make any other accommodation for the repayment of a debt for more than $250,000 may be enforced against Lender unless the promise, contract, or agreement (or some memorandum or note ther eof) is in writing and signed by Lender. 
+   
+ REMAINDER OF PAGE INTENTIONALLY LEFT BLANK 
+   
+ 
+ 
+ 
+   7   
+ 
+   
+ 
+   
+ IN WITNESS WHEREOF, the Borrower has executed and delivered this Note on the Date of Note as an instrument under seal. 
+   
+ 
+ ATTESTING WITNESS Borrower:         ImmuCell Corporation     /s/ David S. Champoux By: 
+ /s/ Michael F. Brigham 
+   Name: Michael Brigham   Title: Its President and CEO         Borrower's Address:       
+ 56 Evergreen Drive 
+Portland, Maine 04103 
+ 
+   
+ A &R Term Note 
+   
+ 
+ 
+ 
+   8   
+ 
+   
+ 
+ 
+     
+ 
+ SCHEDULE A to TERM LOAN NOTE 
+ TO BE LATER ATTACHED/PROVIDED BY LENDER 
+   
+ 
+ 
+ 
+   9   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ SCHEDULE B to TERM LOAN NOTE 
+   
+ EQUITY CONTRIBUTION AND ADVANCE SCHEDULE 
+   
+ Borrower's Minimum Required Equity Amount of Loan Funds Available (cumulative amount) (subject to the terms hereof)     $2,500,000.00 Up to $500,000   $4,000,000.00 Up to an additional $2,000,000.00   $4,800,000.00 (see Note 1, below) Remaining Balance of Principal Amount of Note 
+   
+Note 1: Borrower's Minimum Required Equity to be contributed prior to Lender advancing any portion of the Remaining Balance of Principal Amount of Note, as described above, shall be equal to the total cost of all equipment purchased, or to be purchased, in connection with the Project, less (a) the amount of loan proceeds evidenced by this Note previously advanced by Lender, and (b) the then-Remaining Balance of Principal Amount of Note. The amount of Borrower's Equity shall not be less than $4,800,000.00 unless Borrower provides Lender with evidence satisfactory to Lender, in its sole discretion, that the total cost for all equipment purchased, or to be purchased, for the Project has been reduced, in which case the amount of Borrower's Minimum Required Equity to be contributed before Lender shall advance the Remaining Balance of Principal Amount of Note shall be reduced in an amount equa l to such reduction in cost. 
+   
+ 
+ Borrower:___________                                          Lender: ____________________ 
+   
+   
+ 
+ 
+ 
+   10   
+ 
+ 
+   
+ 
+ 
+   
+ SCHEDULE C TO TERM LOAN NOTE 
+   
+ FORM OF AUTHORIZATION CERTIFICATE 
+ (Borrower Letterhead) 
+   
+   
+ Date: _______________ 
+   
+ TD Bank, N.A. 
+ _______________ 
+ _______________ 
+ Attention: 
+   
+ Dear _____________: 
+   
+ The following individuals are  authorized to request loan Advances under that certain Amended and Restated Term Loan Note dated on or about March 1, 2017 executed and delivered by ImmuCell Corporation ("Borrower"): 
+   
+ 
+ Authorized Person   Title   Signature             1.                                             2.                                3.                         
+ 
+ 
+   
+ Acknowledged and approved:         By:                         Name:     Title:     
+ 
+    
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 

@@ -1,0 +1,248 @@
+ htm 78926 Material contracts 10 2017-03-31T15:33:49.385435-05:00 Filing 0001213900-17-003148 2017-03-31 10-K Annual  & Quarterly Reports 0000860131 Wave Sync Corp. WAYS COMMON OTC 6411 Insurance Agents, Brokers  & Services HONG KONG DELAWARE DELAWARE China Bio-Energy Corp.;China INSOnline Corp.;DEXTERITY SURGICAL INC false 001-34113THE CARD SUPPLY AGREEMENT ENTERED BY AND BETWEEN SMARTDISPLAYER AND SHENZHEN EXCE-CARD, DATED FEBRUARY 15, 2017. Exhibit Exhibit 2 f10k2016ex10xi_wavesynccorp.htm EX-10.11 2 f10k2016ex10xi_wavesynccorp.htmTHE CARD SUPPLY AGREEMENT ENTERED BY AND BETWEEN SMARTDISPLAYER AND SHENZHEN EXCE-CARD, DATED FEBRUARY 15, 2017. 
+ Exhibit 10.11 
+   
+ 
+   www.smartdisplayer.com 
+   
+ CARD SUPPLY AGREEMENT 
+   
+This Agreement is entered into as of 2,15, 2017 by and between SmartDisplayer Technology, Co., Ltd. having a place of business at No. 2-1, Gongjian Rd., Qidu Dist., Keelung City, 20647, Taiwan (R.O.C.) (hereinafter referred to as "SD") and Shenzhen Qianhai Exce-Card Technology Co., Ltd a place of business at at Room 228, Building 8 
+   
+Dabu Business Park, Dongpu Second Road, Tianhe District . Guangzhou (hereinafter referred to as "PURCHASER") 
+   
+ WITNESSETH 
+   
+ WHEREAS, SD agrees to supply PURCHASER acoustic cards (hereinafter referred to as "Product") which is ISO 7810 compliant and has an embedded battery, buzzer, button, FPC and secure element  with Purchaser's applet. Please see Appendix (A) Product Requirements. 
+   
+ WHEREAS,  PURCHASER desire to purchase Product from SD 
+   
+ NOW, THEREFORE, in consideration of these premises, and the mutual promises, covenants, agreements, terms and conditions set forth in the Agreement, the parties agree to the following: 
+   
+ 1 Product Requirement and Supply 
+   
+   1.1. Product 
+   
+ 1.1.1  "Product" means acoustic card which is ISO 7810 compliant and has an embedded battery, buzzer, button, FPC and secure element with Purchaser's applet, as required in Appendix (A) 
+   
+ 1.1.2   Product requirement as in Appendix (A) may be amended by PURCHASER under both parties' agreement. 
+   
+ 1.1.3  Fully functional final product, which based on product requirement, shall be delivered before the end of April in condition that SD receives PURCHASER's official purchase order and  deposit within Feb. 15th, 2017. 
+   
+   1.2. Supply 
+   
+1.2.1 SD shall supply Product to PURCHASER in perfect condition which conform to the requirement in Appendix (A) and all standards and other quality requirements set forth herein and any accepted purchase order, or other descriptions furnished or adopted by PURCHASER and agreed by SD(herein after "Relevant Requirements"). 
+   
+ 
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+   
+ 
+   www.smartdisplayer.com 
+    
+ 2 The Shipment; Delivery date 
+   
+   2.1.As Appendix B Quotation and C Development Schedule, 20,000 units of Product will be shipped before the end of April 2017.         2.2.If SD fails to comply with the shipment or delivery date as specified in Clause 2.1 because of SD's liability, SD will be liable to a penalty of 0.1% per day of Unit price multiplied by the number of units in delay up to the date of delivery. For the avoidance of doubt, the penalty in delay in this clause shall not be treated as liquidated damages. 
+   
+ 3 Payment 
+   
+   3.1. Price 
+   
+ 3.1.1 As Appendix B 
+   
+   3.2. Payment Term 
+   
+3.2.1 SD will submit invoice to PURCHASER referencing the necessary information to match line items from the purchase orders. 
+   
+3.2.2 Within seven (7) business days after purchase order (P02017021501) is confirmed, PURCHASER shall pay SD a non-refundable down payment equivalent to 30% of the total price on  the purchase order. 
+   
+   3.3.3.2.3 PURCHASER shall pay the remaining 70% payment based on the shipping quantity before each partial shipment. 
+   
+ 4 Intellectual Property Right 
+   
+   4.1.SD represents and warrants that SD owns all of any patent, copyright, trademark, service mark or other proprietary rights in relation to Prod uct(thereinafter referred to as "Produ ct IPRs").         4.2.SD grants to PURCHASER (including its customers or end-users) the non-exclusive, non-assignable and royalty free license to commercialize, market, exploit, use, apply, and sell Product and the grant of such rights to PURCHASER does not violate any agreement binding upon or any obligation of SD.         4.3.SD represent and warrants that Product IPRs, or any part thereof, does not violate or infringe upon any patent, copyright, service mark or other intellectual property rights of any third party and SD agrees to indemnify and hold harmless PURCHASER from and against any and all third party claims, actions, damages, liabilities, judgments, expenses, costs of litigation, investigation or proceeding (including reasonable attorney fees) (hereinafter referred to as "IPR Loss") incurred as a result of any breach of representations and warranties, obligations, covenants or agreements of this Article 4. 
+   
+ 
+ 
+   2   
+ 
+ 
+   
+ 
+ 
+   
+ 
+   www.smartdisplayer.com 
+ 
+   
+   4.4. Notwithstanding anything to the contrary contained in this Agreement, this   Article 4 shall survive the termination or expiration of this Agreement. 
+   
+ 5 Warranty 
+   
+   5.1.SD represents and warrants that during twelve months following the acceptance by PURCHASER, each Product shall be free from defects in material and workmanship and shall conform to the Relevant Requirements, so long as the Product have been stored in normal conditions for storage of the Product and the defect is not a result of any improper use, undue treatment or wear and tear or PURCHASER's or its subcontractor's manufacturing process. Such warranty by SD shall run only to the benefit of PURCHASER, and the entire warranty claim made by PURCHASER's customers shall be passed by PURCHASER onto SD in accordance with this Section. If, during the above-mentioned warranty period, any Product is found to be defective: (i) PURCHASER shall notify SD, in writing, with a description of the alleged defects promptly upon discovery of any non-conformance in the Product; (ii) PURCHASER shall, based on SD's request, offer SD the opportunity to inspect, under confidentiality's obligations, the allegedly non-conforming Product; (iii) upon SD authorization, PURCHASER shall return such Product, at SD's expense, to SD factory, and, (iv) provided SD's examination of such Product confirms that such Product do not conform with the Relevant Requirements, and provided further that such non-conformance is not caused by abuse, misuse, negligence, improper installation or packaging, improper testing or alteration by PURCHASER, PURCHASER's representative or agent or any third party not authorized by SD, then SD will, at its option, either replace, or credit PURCHASER for such non-conforming Product. This Section 5 shall in no event extend the warranty period for any Product replaced hereunder beyond the original warranty period. 
+   
+ 
+ 
+ 
+   3   
+ 
+ 
+   
+ 
+ 
+   
+ 
+   www.smartdisplayer.com 
+   
+ 6 Liabilities 
+   
+   6.1.SD shall be liable for any damages, costs, expenses, or losses incurred to PURCHASER resulting from any breach of this Agreement and indemnify and hold harmless PURCHASER from all third party claims, actions, damages, liabilities, judgments, expenses, costs of litigation, investigation or proceeding (including reasonable attorney fees) incured as a result of any breach of its representations, warranties, covenants, obligations or agreements in this Agreement. 
+   
+ 7 Inspection 
+   
+   7.1.PURCHASER shall have access to SD's facilities manufacturing Product, during the reasonable working hour, and right to test and inspect the Product to confirm their orderly operation and conformity to Relevant Requirements. SD shall be cooperative with PURCHASER for such inspection activities. 
+   
+   7.2.PURCHASER may deploy one or more PURCHASER's personnel as inspector(s) for testing and inspecting Product thereof, after notice to SD. SD agrees to work with such inspector(s) in SD's factory during a period notified by PURCHASER and agreed to by SD. The expenses required for accommodations of such inspectors shall be borne by PURCHASER. 
+   
+   7.3.Inspection of PURCHASER prior to shipment pursuant to this Article does not relieve the SD from any of its obligations under this Agreement. 
+   
+ 8 Term and Termination 
+   
+   8.1.This Agreement shall become effective upon execution and continue in full force and effect until the end of the second contract year, unless terminated earlier in accordance with Section 8.2. The renewal of this Agreement will be subject to the mutual written agreement of the parties. 
+   
+   8.2.Either party may immediately terminate this Agreement at any time for cause in the event of any incurable material breach of this Agreement by the other party or in the event the other party files (or has filed or has filed against it) any bankruptcy, insolvency, or receivership proceeding. If a material breach of this Agreement can be cured, then the non-breaching party shall provide the breaching party with written notice of the material breach specifying the conditions constituting the breach and the corrective action, which must be undertaken to cure such breach. If the material breach is not cured within 90 days of the written notice thereof, then this Agreement shall terminate as set forth in the written notice of material breach. If the material breach is not cured within 30 days of the written notice thereof, then this Agreement shall terminate. 
+   
+ 
+ 
+ 
+   4   
+ 
+ 
+   
+ 
+ 
+     
+ 
+   www.smartdisplayer.com 
+   
+ 9 Confidentiality/Non-Disclosure Agreement 
+   
+ 
+   9.1.In the course of doing business under this agreement, one party may furnish to the other party data, designs, drawings, tracings, layouts, requirements, specifications, samples, equipment, pricing, costs, yield information and other written information which may be confidential and proprietary to the furnishing party, and which is clearly marked as "Confidential" or "Proprietary" (hereinafter referred to as "Confidential Information"). Both parties agree to restrict the dissemination of Confidential Information to only those employees, individual contractors and advisors who must be directly involved in using the Confidential Information in the performance of their respective duties hereunder. Each of the parties may disclose Confidential Information of the other on a "need to know" basis to vendors and other third parties engaged in manufacturing activities related to the parties' respective products, provided that such vendors and other third parties have a written obligation to protect the Confidential Information in substantially the same manner as provided herein and provided that the party making such a disclosure gives written notice to the other party identifying each such vendor and other third party. Both parties agree to not release details of this Agreement or to disclose Confidential Information to any party other than those authorized above without the written approval of the other party. The receiving party shall promptly notify the furnishing party in writing of any unauthorized use or disclosure of any Confidential Information.         9.2.Neither party shall have an obligation to preserve the confidential or proprietary nature of any Confidential Information received by such party hereunder which (i) was already known to the receiving party free of any obligation to keep it confidential at the time of its disclosure by the furnishing party as evidenced, for example, by written records prepared prior to such disclosure; (ii) is or becomes publicly known through no wrongful act of the receiving party; (iii) is received from a third person having no direct or indirect secrecy or confidentiality obligation with respect to such Confidential Information; (iv) is independently developed by an employee, agent or contractor of the receiving party; (v) is disclosed to a third person by the furnishing party without similar restrictions on such third person's rights; (vi) is approved for release by written authorization of the furnishing party; or (vii) is disclosed by the receiving party pursuant to a valid order of a court or other governmental body or any political subdivisions thereof; provided, however, that the receiving party shall first have given reasonable notice to the furnishing party and shall comply with any applicable protective order or equivalent. 
+   
+ 
+ 
+   5   
+ 
+ 
+   
+ 
+ 
+   
+ 
+   www.smartdisplayer.com 
+ 
+   
+ 10 General Provisions 
+   
+   10.1.Force Majeure. No Party shall be considered in default of performance of its obligations (exclusive of either Party's obligation of payment) under this Agreement to the extent that its performance is delayed or prevented by causes beyond its reasonable control, including, acts of God, civil disorders, acts of any civil or military authority, or judicial acti on. 
+   
+   10.2.Severability. Should any provision of this Agreement be held to be invalid, illegal or incapable of being enforced by reason of any rule or regulation of law, or public policy of any government, or agency of government, all other conditions and provisions of this Agreement shall, nevertheless, remain in full force and effect; and no covenant, condition or provision shall be deemed dependent upon any other covenant, condition or provision unless so expressed herein. The parties agree to substitute for any invalid, illegal or unenforceable provision a valid, lawful and enforceable provision that effectuates, to the fullest extent possible, the legal and commercial objectives of the invalid, illegal or unenforceab le provision. 
+   
+   10.3.Non-Waiver. A failure of either party to exercise any right given to it hereunder, or to insist upon strict compliance by the other party of any obligation hereunder, shall not constitute a waiver of the first party's right to exercise such a right, or to exact compliance with the terms hereof. Moreover, waiver by either party of a particular default by the other party shall not be deemed a continuing waiver so as to impair the aggrieved party's rights in respect to any subsequent default of the same or a different nature. 
+   
+   10.4.Relationship of the Parties. SD and PURCHASER are independent contractors. Each party shall be solely responsible for determining its manner of performance of its obligations under this Agreement. Neither party shall, nor represent itself to be, the partner, joint venture, broker, employee, servant, agent, or legal representative of the other party for any purpose whatsoever. Neither party is granted any right or authority to assume or create any obligations or responsibility, express or implied, on behalf of or in the name of the oth er party or to bind the other party in any matter or thing whatsoever. 
+   
+   10.5.Assignments. Neither Party may assign or delegate this Agreement or any of its rights, privileges or obligations, tasks or activities hereunder without the prior written consent of  the other Party, which consent shall not be unreasonably withheld. Any such attempted assignment or delegation in violation of the foregoing shall be null and void. 
+   
+ 
+ 
+ 
+   6   
+ 
+ 
+   
+ 
+ 
+   
+ 
+   www.smartdisplayer.com 
+   
+   10.6.Applicable Law. The governing laws applicable to this Agreement and Annexes shall be the laws of PROC. 
+   
+   10.7.Resolution of Dispute. The Parties shall discuss and negotiate in good faith any dispute arising from or in connection with this Agreement. If no settlement can be reached through such discussions and negotiations, the Parties agree that the dispute shall be resolved exclusively and finally by binding arbitration to be held in the Republic of Korea. Disputes in which injunctive relief is sought are expressly excluded from the foregoing provision. Any controversy concerning whether a dispute is an abatable dispute shall be determined by the arbitrator(s). In any arbitration hereunder, the parties shall be entitled to conduct discovery to the fullest extent permitted by law. The parties intend their foregoing agr eement to arbitrate disputes arising hereunder to be valid, enforceable and irrevocable. 
+   
+   10.8.Attorney's Fees to Prevailing Party. In the event of any arbitration or court action conducted hereunder, the prevailing party shall be entitled to recover from the losing party all fees and expenses incurred by the prevailing party in connection with the arbitration or court action, including reasonable attorney's fees. In the case of arbitration, the arbit rator(s) shall determine which party is the prevailing party. 
+   
+   10.9.Notices. All notices required or permitted to be given hereunder shall be in writing, shall make reference to this Agreement, and shall be delivered by hand, or dispatched by prepa id air courier or by registered or certified airmail, postage prepaid, addressed as follows: 
+   
+ 
+ 
+ PURCHASER 
+ Attn: Zuyue Xiang / Chief Executive Officer 
+ 
+ Address: Room 228, Building 8 Dabu Business Park, Dongpu Second Road, Tianhe  
+ District, Guangzhou 
+ 
+   
+ 
+ 
+ SD 
+ Attn: George Ou / Chief Executive Officer 
+   
+ Address: No. 2-1, Gongjian Rd., Qidu Dist., Keelung City, 20647, Taiwan 
+ 
+ 
+    
+ 
+ 
+ 
+   7   
+ 
+ 
+   
+ 
+ 
+   
+ 
+   www.smartdisplayer.com 
+   
+Such notice shall be deemed served when received by addressee or, if delivery is not accomplished by reason of some fault of the addressee, when tendered for delivery. Either Party may give written notice of an address change or, after notice of such change has been received, any notice or request shall thereafter be given to such Party at such changed addre ss. 
+   
+   10.10.Survival. All obligations contemplated to be performed, whether as a whole or in part, after termination or expiration of this Agreement, shall survive the termination or expiratio n of this Agreement regardless of the basis for such termination. 
+   
+   10.11.Headings. The headings herein are inserted for convenience only and shall in no way be construed as part of this Agreement, considered in the interpretation of this Agreement, or a s a limitation of the scope of the particular sections to which they refer. 
+   
+   10.12.Counterparts. This Agreement may be executed in several counterparts, each of which shall be deemed to be an original, but all of which shall constitute one and the same instrument . 
+   
+   10.13.Expenses. Each Party shall bear its own expenses and professional fees in the preparation, negotiation and execution of this Agreement. 
+   
+In Witness Whereof, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the date first written above. 
+   
+ 
+ Smart Displayer Technology Co., Ltd.         By: /s/ George Ou     George Ou     As Its Chief Executive Officer   
+   
+ PURCHASER 
+   
+ By: /s/ Zuyue Xiang     Zuyue Xiang     As Its Chief Executive Officer   
+ 
+ 
+   
+ Appendix A Requirements   
+ Appendix B Quotation for 20,000 units of acoustic card 
+ Appendix C Quotation for Product development 
+   
+   
+ 8 
+ 
+ 
+   
+ 
+ 
+ 
+ 

@@ -1,0 +1,186 @@
+ htm 56138 Material contracts 10 2017-03-22T14:30:39.382363-05:00 Filing 0001493152-17-002726 2017-03-22 10-K Annual  & Quarterly Reports 0000830656 PRESSURE BIOSCIENCES INC PBIO COMMON OTC 3829 No MASSACHUSETTS MASSACHUSETTS MASSACHUSETTS BOSTON BIOMEDICA INC false Small Reporting Company 000-21615 EX-10.13 Exhibit Exhibit 2 ex10-13.htm EX-10.13 2 ex10-13.htm 
+ 
+   
+ PRESSURE BIOSCIENCES, INC. 
+ 2015 Nonqualified Stock Option Plan 
+   
+ 1.        Purpose and Eligibility. The purpose of this 2015 Nonqualified Stock Option Plan (the "Plan") of Pressure BioSciences, Inc., a Massachusetts corporation (the "Company") is to provide nonqualified stock options in the Company (each, an "Award") to (a) employees, officers, directors, consultants and advisors of the Company and its Parents and Subsidiaries, and (b) any other Person who is determined by the Board to have made (or is expected to make) contributions to the Company. Any person to whom an Award has been granted under the Plan is called a "Participa nt." Additional definitions are contained in Section 10. 
+   
+ 2.        Administration . 
+   
+ a.        Administration by Board of Directors. The Plan will be administered by the Board of Directors of the Company (the "Board"). The Board, in its sole discretion, shall have the authority to grant and amend Awards, to adopt, amend and repeal rules relating to the Plan and to interpret and correct the provisions of the Plan and any Award. The Board shall have authority, subject to the express limitations of the Plan, (i) to construe and determine the respective Nonqualified Stock Option Agreement, Awards and the Plan, (ii) to prescribe, amend and rescind rules and regulations relating to the Plan and any Awards, (iii) to determine the terms and provisions of the respective Stock Option Agreements and Awards, which need not be identical, (iv) to initiate an Option Exchange Program, and (v) to make all other determinations in the judgment of the Board of Directors necessary or desirable for the administration and interpretation of the Plan. The Board may correct any defect or supply any omission or reconcile any inconsistency in the Plan or in any Stock Option Agreement or Award in the manner and to the extent it shall deem expedient to carry the Plan, any Stock Option Agreement or Award into effect and it shall be the sole and final judge of such expediency. All decisions by the Board shall be final and binding on all interested persons. Neither the Company nor any member of the Board shall be liable for any action or determination relating to the Plan. 
+   
+ b.        Appointment of Committee. To the extent permitted by applicable law, the Board may delegate any or all of its powers under the Plan to one or more committees or subcommittees of the Board (a "Committee").  All references in the Plan to the "Board" shall mean such Committee or the Board. 
+   
+ c.        Delegation to Executive Officers. To the extent permitted by applicable law, the Board may delegate to one or more executive officers of the Company the power to grant Awards and exercise such other powers under the Plan as the Board may determine, provided that the Board shall fix the maximum number of Awards to be granted and the maximum number of shares issuable to any one Participant p ursuant to Awards granted by such executive officers. 
+   
+ d.        Applicability of Section Rule 16b-3. Notwithstanding anything to the contrary in the foregoing if, or at such time as, the Common Stock is or becomes registered under Section 12 of the Exchange Act of 1934, as amended (the "Exchange Act"), or any successor statute, the Plan shall be administered in a manner consistent with Rule 16b-3 promulgated thereunder, as it may be amended from time to time, or any successor rules ("Rule 16b-3"), such that all subsequent grants of Awards hereunder shall be exempt under such rule. Those provisions of the Plan which make express reference to Rule 16b-3 or which are required in order for certain option transactions to qualify for exemption under Rule 16b-3 shall apply only to such persons as are required to fi le reports under Section 16 (a) of the Exchange Act (a "Reporting Person"). 
+   
+ e.        Applicability of Section 162 (m). Those provisions of the Plan which are required by or make express reference to Section 162 (m) of the Internal Revenue Code or any regulations thereunder, or any successor section of the Code or regulations thereunder ("Section 162 (m)") shall apply only upon the Company's becoming a company that is subject to Section 162 (m). Notwithstanding any provisions in this Plan to the contrary, whenever the Board is authorized to exercise its discretion in the administration or amendment of this Plan or any Award hereunder or otherwise, the Board may not exercise such discretion in a manner that would cause any outstanding Award that would otherwise qualify as performance-based compensation under Section 162 (m) to  fail to so qualify under Section 162 (m). 
+   
+ 
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 3        Stock Available for Awards . 
+   
+ a.        Number of Shares. Subject to adjustment under Section 3I, the aggregate number of shares of Common Stock of the Company (the "Common Stock") that may be issued pursuant to the Plan is 5,000,000. If any Award expires, or is terminated, surrendered or forfeited, in whole or in part, the unissued Common Stock covered by such Award shall again be available for the grant of Awards under the Plan. If an Award granted under the Plan shall expire or terminate for any reason without having been exercised in full, the unpurchased shares subject to such Award shall again be available for subsequent Awards under the Plan, and if shares of Common Stock issued pursuant to the Plan are repurchased by, or are surrendered or forfeited to, the Company at no more than cost, such shares of Common Stock shall again be available for the grant of Awards under the Plan. Shares issued under the Plan may consist in whole or in p art of authorized but unissued shares or treasury shares. 
+   
+ b.        Per-Participant Limit. The number of shares underlying the Award to any Participant will be determined by the Company's Board of Directors at the time of the Award grant. 
+   
+ c.        Adjustment to Common Stock. Subject to Section 7, in the event of any stock split, reverse stock split stock dividend, extraordinary cash dividend, recapitalization, reorganization, merger, consolidation, combination, exchange of shares, liquidation, spin-off, split-up, or other similar change in capitalization or similar event, (i) the number and class of securities available for Awards under the Plan and the per-Participant share limit, (ii) the number and class of securities, vesting schedule and exercise price per share subject to each outstanding Option, (iii) the repurchase price per security subject to repurchase, and (iv) the terms of each other outstanding stock-based Award shall be adjusted by the Company (or substituted Awards may be made if applicable) to the extent the Board shall determine, in good faith, that such an adjustment (or substitution) is appropriate. 
+   
+ 4.        Stock Options . 
+   
+ a.        General. The Board may grant nonqualified options to purchase Common Stock (each, an "Option") and determine the number of shares of Common Stock to be covered by each Option, the exercise price of each Option and the conditions and limitations applicable to the exercise of each Option and the Common Stock issued upon the exercise of each Option, including vesting provisions, repurchase provisions and restrictions relating to applicable federal or state securities laws. Each Option will be evidenced by a Nonqualified Stock Option Agreement, consisting of a Notice of Nonqualified Stock Option Award and a Nonqualified Stock Option Award Agreement (collectively, a "Nonqualified Stock Option Agreement"). 
+   
+ b.       Purposely Left Blank. 
+   
+ c.       Purposely Left Blank. 
+   
+ d.        Exercise Price. The Board shall establish the exercise price (or determine the method by which the exercise price shall be determined) at the time each Option is granted and will specify the exe rcise price in the applicable Nonqualified Stock Option Agreement. 
+   
+ e.        Duration of Options. Each Option shall be exercisable at such times and subject to such terms and conditions as the Board may specify in the applicable Nonqualified Stock Option Agreement. 
+   
+ f.        Exercise of Option. Options may be exercised only by delivery to the Company of a written notice of exercise signed by the proper person together with payment in full as specified in Section 4(g) and the Nonqualified Stock Option Agreement for the number of shares for which the Option is exercised. 
+   
+ g.        Payment Upon Exercise. Common Stock purchased upon the exercise of an Option shall be paid for by one or any combination of the following forms of payment as permitted by the Board in its sole and abso lute discretion: 
+   
+ i. by check payable to the order of the Company; 
+   
+ii. only if the Common Stock is then publicly traded, by delivery of an irrevocable and unconditional undertaking by a creditworthy broker to deliver promptly to the Company sufficient funds to pay the exercise price, or delivery by the Participant to the Company of a copy of irrevocable and unconditional instructions to a creditworthy broker to deliver prom ptly to the Company cash or a check sufficient to pay the exercise price; 
+   
+ 
+ 
+     2   
+ 
+ 
+   
+ 
+ 
+   
+iii.	to the extent explicitly provided in the applicable Nonqualified Stock Option Agreement, by delivery of shares of Common Stock owned by the Participant valued at fair market value (as determined by the Board or as determined pursuant to the applicable Stock Option Agreement); or 
+   
+ iv.	payment of such other lawful consideration as the Board may determine. 
+   
+Except as otherwise expressly set forth in an Nonqualified Stock Option Award, the Board shall have no obligation to accept consideration other than cash and in particular, unless the Board so expressly provides, in no event will the Company accept the delivery of shares of Common Stock that have not been owned by the participant at least six months prior to the exercise. The fair market value of any shares of the Company's Common Stock or other non-cash consideration which may be delivered upon exercise of an Option shall be determin ed in such manner as may be prescribed by the Board. 
+   
+ h.        Acceleration, Extension, Etc. The Board may, in its sole discretion, and in all instances subject to any relevant tax and accounting considerations which may adversely impact or impair the Company, (i) accelerate the date or dates on which all or any particular Options or Awards granted under the Plan MAY be exercised, or (ii) extend the dates during which all or any particular Options  or Awards granted under the Plan may be exercised or vest. 
+   
+ i.        Determination of Fair Market Value. If, at the time an Option is granted under the Plan, the Company's Common Stock is publicly traded under the Exchange Act, "fair market value" shall mean (i) if the Common Stock is listed on any established stock exchange or a national market system, including without limitation the Nasdaq National Market or The Nasdaq Small Cap Market of The Nasdaq Stock Market, its fair market value shall be the last reported sales price for such stock (on that date) or the closing bid, if no sales were reported as quoted on such exchange or syste m as reported in  The Wall Street Journal or such other source as the Board deems reliable; or (ii) the average of the closing bid and asked prices last quoted (on that date) by an established quotation service for over-the-counter securities, if the Common Stock is not reported on a national market system. In the absence of an established market for the Common Stock, the fair market value thereof shall be determined in good faith by the Board after taking into consideration all factors which it deems appropriate. 
+   
+ 5.       Purposely Left Blank. 
+   
+ 6.       Purposely Left Blank. 
+   
+ 7.        General Provisions Applicable to Awards . 
+   
+ a.        Transferability of Awards. Except as the Board may otherwise determine or provide in an Award, Awards shall not be sold, assigned, transferred, pledged or otherwise encumbered by the person to whom they are granted, either voluntarily or by operation of law, except by will or the laws of descent and distribution, and, during the life of the Participant, shall be exercisable only by the Participant; provided, however, that Nonstatutory Options may be transferred pursuant to a qualified domestic relations order (as defined in Employee Retirement Income Security Act of 1974, as amended) or to a grantor-retained annuity trust or a similar estate-planning vehicle in which the trust is bound by all provisions of the Option which are applicable to the optionee. References to a Participant, to the extent relevant in the context, shall include references to authorized transferees. 
+   
+ b.        Documentation. Each Award under the Plan shall be evidenced by a written instrument in such form as the Board shall determine or as executed by an officer of the Company pursuant to authority delegated by the Board. Each Award may contain terms and conditions in addition to those set forth in the Plan, provided that such terms and conditions do not contravene the provisi ons of the Plan or applicable law. 
+   
+ c.        Board Discretion. The terms of each type of Award need not be identical, and the Board need not treat Participants uniformly. 
+   
+ 
+ 
+     3   
+ 
+ 
+   
+ 
+ 
+   
+ d.        Additional Award Provisions. The Board may, in its sole discretion, include additional provisions in any Stock Option Agreement or other Award granted under the Plan, including without limitation restrictions on transfer, repurchase rights, commitments to pay cash bonuses, to make, arrange for or guaranty loans or to transfer other property to Participants upon exercise of Awards, or transfer other property to Participants upon exercise of Options, or such other provisions as shall be determined by the Board; provided that such additional provisions shall not b e inconsistent with any other term or condition of the Plan or applicable law. 
+   
+ e.        Termination of Status. The Board shall determine the effect on an Award of the disability (as defined in Code Section 22(e)(3)), death, retirement, authorized leave of absence or other change in the employment or other status of a Participant and the extent to which, and the period during which, the Participant, or the Participant's legal representative, conservator, guardian or Designated Beneficiary, may exercise rights under the Award, subject to applicable law and the provisions of the Code related to Nonqualified Stock Options, if any. 
+   
+ f.        Acquisition of the Company . 
+   
+i.	Unless otherwise expressly provided in the applicable Nonqualified Stock Option Agreement or Award, upon the occurrence of an Acquisition (as defined below), the Board shall, in its sole discretion as to outstanding Awards (on the same basis or on different bases, as the Board shall specify), take one or more of the following actions: 
+   
+A.       make appropriate provision for the continuation of such Awards by the Company or the assumption of such Awards by the surviving or acquiring entity and by substituting on an equitable basis for the shares then subject to such Awards either (x) the consideration payable with respect to the outstanding shares of Common Stock in connection with the Acquisition, (y) shares of stock of the surviving or acquiring corporation or (z) such other securities as the Board deems appropriate, the fair market value of which (as determined by the Board in its sole discretion) shall not materially differ from the fair market value of the shares of Common Stock subject to such Awards immediately preceding the Acquisitio n; 
+   
+B.       accelerate the date of exercise or vesting of such Awards or of any installment of any such Awards; 
+   
+C.       permit the exchange of all Awards for the right to participate in any stock option or other employee benefit plan of any successor corporation; or 
+   
+D.       provide for the termination of any such Awards immediately prior to the consummation of the Acquisition; provided that no such termination will be effective if the Acquisi tion is not consummated. 
+   
+ g.        Acquisition Defined. An "Acquisition" shall mean: (i) any merger, business combination, consolidation or purchase of outstanding capital stock of the Company after which the voting securities of the Company outstanding immediately prior thereto represent (either by remaining outstanding or by being converted into voting securities of the surviving or acquiring entity) less than 50% of the combined voting power of the voting securities of the Company or such surviving or acquiring entity outstanding immediately after such event (other than as a result of a financing transaction); or any sale of all or substantially all of the capital stock or assets of the Company (other than in a spin-off or similar transaction). 
+   
+ h.        Dissolution or Liquidation. In the event of the proposed dissolution or liquidation of the Company, the Board shall notify each Participant as soon as practicable prior to the effective date of such proposed transaction. The Board in its sole discretion may provide for a Participant to have the right to exercise his or her Award until fifteen (15) days prior to such transaction as to all of the Common Stock covered by the Option or Award, including shares as to which the Option or Award would not otherwise be exercisable, which exercise may in the sole discretion of the Board, be made subject to and conditioned upon the consummation of such proposed transaction. In addition, the Board may provide that any Company repurchase option applicable to any Common Stock purchased upon exercise of an Option or Award shall lapse as to all such Common Stock, provided the proposed dissolution and liquidation takes place at the time and in the manner contemplated. To the extent it has not been previously exercised, an Award will terminate upon the consummation of such proposed action. 
+   
+ 
+ 
+     4   
+ 
+ 
+   
+ 
+ 
+   
+ i.        Assumption of Options Upon Certain Events. In connection with a merger or consolidation of an entity with the Company or the acquisition by the Company of property or stock of an entity, the Board may grant Awards under the Plan in substitution for stock and stock-based awards issued by such entity or an affiliate thereof. The substitute Awards shall be granted on such terms and conditions as the B oard considers appropriate in the circumstances. 
+   
+ j.        Parachute Payments and Parachute Awards. Notwithstanding the provisions of Section 7(f), if, in connection with an Acquisition described therein, a tax under Section 4999 of the Code would be imposed on the Participant (after taking into account the exceptions set forth in Sections 280G(b)(4) and 280G(b)(5) of the Code), then the number of Awards which shall become exercisable, realizable or vested as provided in such section shall be reduced (or delayed), to the minimum extent necessary, so that no such tax would be imposed on the Participant (the Awards not becoming so accelerated, realizable or vested, the "Parachute Awards"); provided, however, that if the "aggregate present value" of the Parachute Awards would exceed the tax that, but for this sentence, would be imposed on the Participant under Section 4999 of the Code in connection with the Acquisition, then the Awards shall become immediately exercisable, realizable and vested without regard to the provisions of this sentence. For purposes of the preceding sentence, the "aggregate present value" of an Award shall be calculated on an after-tax basis (other than taxes imposed by Section 4999 of the Code) and shall be based on economic principles rather than the principles set forth under Section 280G of the Code and the regulations promulgated thereunder. All determinations required to be made under this Section 7(j) shall be made by the Company. 
+   
+ k.        Amendment of Awards. The Board may amend, modify or terminate any outstanding Award including, but not limited to, substituting therefore another Award of the same or a different type and changing the date of exercise or realization, provided that the Participant's consent to such action shall be required unless the Board determines that the action, taking into account any rel ated action, would not materially and adversely affect the Participant. 
+   
+ l.        Conditions on Delivery of Stock. The Company will not be obligated to deliver any shares of Common Stock pursuant to the Plan or to remove restrictions from shares previously delivered under the Plan until (i) all conditions of the Award have been met or removed to the satisfaction of the Company, (ii) in the opinion of the Company's counsel, all other legal matters in connection with the issuance and delivery of such shares have been satisfied, including any applicable securities laws and any applicable stock exchange or stock market rules and regulations, and (iii) the Participant has executed and delivered to the Company such representations or agreements as the Company may consider appropriate to satisfy the requirements of any applicabl e laws, rules or regulations. 
+   
+ m.        Acceleration. The Board may at any time provide that any Options shall become immediately exercisable in full or in part, or otherwise realizable in full or in part, as the case may be, despite the fact that the foregoing actions may cause the application of Sections 280G and 4999 of the Code if a change in control of the Company occurs. 
+   
+ 8.        Withholding. The Company shall have the right to deduct from payments of any kind otherwise due to the optionee or recipient of an Award any federal, state or local taxes of any kind required by law to be withheld with respect to any shares issued upon exercise of Options under the Plan or the purchase of shares subject to the Award. Subject to the prior approval of the Company, which may be withheld by the Company in its sole discretion, the optionee or recipient of an Award may elect to satisfy such obligation, in whole or in part, (a) by causing the Company to withhold shares of Common Stock otherwise issuable pursuant to the exercise of an Option or the purchase of shares subject to an Award or (b) by delivering to the Company shares of Common Stock already owned by the optionee or Award recipient. The shares so delivered or withheld shall have a fair market value of the shares used to satisfy such withholding obligation as shall be determined by the Company as of the date that the amount of tax to be withheld is to be determined. An optionee or Award recipient who has made an election pursuant to this Section may only satisfy his or her withholding obligation with shares of Common Stock which are not subject to any repurchase, forfeiture, unfulfi lled vesting or other similar requirements. 
+   
+ 
+ 
+     5   
+ 
+ 
+   
+ 
+ 
+   
+ 9.        No Exercise of Option if Engagement or Employment Terminated for Cause. If the employment or engagement of any Participant is terminated "for Cause," the Award may terminate, upon a determination of the Board, on the date of such termination and the Option shall thereupon not be exercisable to any extent whatsoever. For purposes of this Section 9, "for Cause" shall be defined as follows: (i) if the Participant has executed an employment agreement, the definition of "cause" contained therein, if any, shall govern, or (ii) conduct, as determined by the Board of Directors, involving one or more of the following: (a) gross misconduct or inadequate performance by the Participant which is injurious to the Company; or (b) the commission of an act of embezzlement, fraud or theft, which results in economic loss, damage or injury to the Company; or (c) the unauthorized disclosure of any trade secret or confidential information of the Company (or any client, customer, supplier or other third party who has a business relationship with the Company) or the violation of any noncompetition or nonsolicitation covenant or assignment of inventions obligation with the Company; or (d) the commission of an act which constitutes unfair competition with the Company or which induces any customer or prospective customer of the Company to break a contract with the Company or to decline to do business with the Company; or (e) the indictment of the Participant for a felony serious misdemeanor offense, either in connection with the performance of his obligations to the Company or which shall adversely affect the Participant's ability to perform such obligations; or (f) the commission of an act of fraud or breach of fiduciary duty which results in loss, damage or injury to the Company; or (g) the failure of the Participant to perform in a material respect his or her employment obligations without proper cause. In making such determination, the Board shall act fairly and in utmost good faith. The Board may in its discretion waive or modify the provisions of this Section at a meeting of the Board with respect to any individual Participant with regard to the facts and circumstances of any particular situation involving a det ermination under this Section. 
+   
+ 10.        Miscellaneous . 
+   
+ a.        Definitions . 
+   
+i.	"Company," for purposes of eligibility under the Plan, shall include any present or future subsidiary corporations of Pressure BioSciences, Inc., as defined in Section 424(f) of the Code (a "Subsidiary"), and any present or future parent corporation of Pressure BioSciences, Inc., as defined in Section 424(e) of the Code. The term "Company" shall include any other business venture in which the Company has a direct or indirect significant interest, as determined by the Board in its sole discretion. 
+   
+ii.	"Code" means the Internal Revenue Code of 1986, as amended, and any regulations promulgated thereunder. 
+   
+iii.	"Employee" for purposes of eligibility under the Plan shall include a person to whom an offer of employment has been extended by the Company. 
+   
+iv.	"Option Exchange Program" means a program whereby outstanding options are exchanged for options with a lower exercise price. 
+   
+ b.        No Right to Employment or Other Status. No person shall have any claim or right to be granted an Award, and the grant of an Award shall not be construed as giving a Participant the right to continued employment or any other relationship with the Company. The Company expressly reserves the right at any time to dismiss or otherwise terminate its relationship with a Participant free from any liabil ity or claim under the Plan. 
+   
+ c.        No Rights as Stockholder. Subject to the provisions of the applicable Award, no Participant or Designated Beneficiary shall have any rights as a stockholder with respect to any shares of Common Stock to b e distributed with respect to an Award until becoming the record holder thereof. 
+   
+ d.        Effective Date and Term of Plan. The Plan shall become effective on the date on which it is adopted by the Board. No Awards shall be granted under the Plan after the completion of ten years from the date on whic h the Plan was adopted by the Board, but Awards previously granted may extend beyond that date. 
+   
+ e.        Amendment of Plan . The Board may amend, suspend or terminate the Plan or any portion thereof at any time. 
+   
+ f.        Governing Law. The provisions of the Plan and all Awards made hereunder shall be governed by and interpreted in accordance with the laws of the state of incorporation of the Company (The Common wealth of Massachusetts), without regard to any applicable conflicts of law. 
+   
+ Approvals: 
+ Adopted by the Board of Directors on: November 29 2015 
+   
+ 
+ 
+     6   
+ 
+ 
+   
+ 
+ 
+ 

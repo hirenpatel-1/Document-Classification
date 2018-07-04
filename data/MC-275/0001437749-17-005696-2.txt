@@ -1,0 +1,125 @@
+ htm 31830 Material contracts 10 2017-03-31T09:00:42.480041-05:00 Filing 0001437749-17-005696 2017-03-31 10-K Annual  & Quarterly Reports 0001322439 Eagle Bulk Shipping Inc. EGLE EGKPF WT (MARSHALL ISLANDS) OTC 4412 Deep Sea Foreign Transportation of Freight No NEW YORK MARSHALL ISLANDS Non-US false Accelerated Filer 001-33831 EXHIBIT 10.37 Exhibit Exhibit 2 ex10-37.htm EX-10.37 2 ex10-37.htm EXHIBIT 10.37 
+ Exhibit 10.37 
+   
+ RESTRICTED STOCK AWARD AGREEMENT 
+ UNDER THE EAGLE BULK SHIPPING INC. 
+ 2016 EQUITY INCENTIVE PLAN 
+   
+ This Restricted Stock Award Agreement (the " Restricted Stock   Award   Agreement ") dated as of December 15, 2016 (the " Date of Grant"), is made by and between Eagle Bulk Shipping Inc., a Republic of the Marshall Islands company (the " Company "), and Gary Vogel (the " Participant"). Capitalized terms not defined herein shall have the meaning ascribed to them in the Eagle Bulk Shipping Inc. 2016 Equity Incentive Plan (the " Plan"). Where the context permits, references to the Company shall include any successor to the Company. 
+   
+ WHEREAS, the Company previously issued to the Participant an award of restricted stock (the " Prior Award ") pursuant to a Restricted Stock Award Agreement dated as of September 29, 2015 (the " Prior Agreement "); 
+   
+WHEREAS, the Company consummated a 20 to 1 reverse stock split subsequent to the issuance of the Prior Award and the Prior Award no longer serves as a meaningful incentive; and 
+   
+WHEREAS, the Company and the Participant desire to cancel the Prior Award and enter into this Restricted Stock Award Agreement pursuant to which the Company will issue the Restrict ed Stock (as defined below) to the Participant. 
+   
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, and other good and valuable consideration the receipt and sufficiency of which are hereby acknowledged, t he parties hereto agree as follows: 
+   
+ 1.      Grant of Restricted Stock . The Company hereby grants to the Participant 760,056 shares of restricted Common Stock (the " Re st r icte d   Stock"), subject to all of the terms and conditions of this Restricted Stock Award Agreement and the Plan.   
+   
+ 2.      Vesting. Subject to Section 4, the Restricted Stock shall vest, and have the forfeiture restrictions applicable thereto lapse, as follows: 100% of the Restricted Stock will vest on Septem ber 1, 2018 (the " Vesting Date"), subject to the Participant's continued employment with the Company or any of its Affiliates on the Vesting Date;  provided ,  however, that in the event that the Participant's employment with the Company is terminated by the Company without Cause or by the Participant for Good Reason (as defined below) prior to the Vesting Date, then, notwithstanding anything herein to the contrary, the Participant shall become vested in a number of shares of the Restricted Stock as set forth below:   
+   
+ 
+ Date of Termination 
+ 
+ Vested Restricted Shares (#) 
+ 
+ Prior to January 1, 2017 
+ 
+ 253,352 
+ 
+ On or after January 1, 2017 but prior to September 1, 2017 
+ 
+ 506,704 
+ 
+ On or after September 1, 2017 
+ 
+ 760,056 
+ 
+   
+   
+ 
+   
+ 1 
+ 
+   
+ 
+   
+ For purposes of the foregoing, " Good Reason" shall have the meaning set forth in the Employment Agreement by and among the Company, Eagle Shipping International (USA) LLC and the Participant, dated July 6, 2015. 
+   
+ 3.      Restrictions. The Restricted Stock granted hereunder may not be sold, assigned, transferred, pledged, hypothecated or otherwise disposed of or encumbered, and shall be subject to a risk of forfeiture as described in Section 2 and until any additional requirements or restrictions contained in this Restricted Stock Award Agreement have been otherwise satisfied, terminated  or expressly waived by the Company in writing. 
+     
+ 4.      Termination   of Employment. Except as provided above in Section 2, upon the Participant's termination of employment for any reason, any portion of Restricted Stock which has not vested as of the date of suc h termination shall be forfeited. 
+     
+ 5.      Voting; Dividends. The Participant shall have the right to vote the Restricted Stock prior to vesting. Except as provided in Section 1.5(c)(iv) of the Plan, the Participant shall receive payment of  dividends with respect to the Restricted Stock;  provided, that dividends in respect of the portion of the Restricted Stock that has not vested on or prior to the date dividends are paid shall be accumulated, held back and paid to the Pa rticipant if and when such portion of the Restricted Stock becomes vested. 
+     
+ 6.      Notification of   El ection Under Section 83(b)   of the   Code. If the Participant makes an election under Section 83(b) of the Code (to include in gross income in the year of transfer the amounts specified in Section 83(b) of the Code), the Participant shall notify the Administrator of such election within ten days of filing notice of the election with the U.S. Internal Revenue Service, in addition to any filing and n otification required pursuant to regulations issued under Section 83(b) of the Code. 
+     
+ 7.      Restricted Stock Award Agreement Subject to Plan. This Restricted Stock Award Agreement is made pursuant to all of the provisions of the Plan, which is incorporated herein by this reference, and is intended, and shall be interpreted in a manner, to comply therewith. In the event of any conflict between the provisions of this Restricted Stock Award Agreement and the provisions of the Plan, the provisions o f this Restricted Stock Award Agreement shall govern. 
+     
+ 8.      No Rights to Continuation of Employment. Nothing in the Plan or this Restricted Award Agreement shall confer upon Participant any right to continue in the employ of the Company or any Subsidiary thereof or shall interfere with or restrict the right of the Company or its shareholders (or of a Subsidiary or its shareholders, as the case may be) to terminate Participant's employment at any time for  any reason whatsoever, with or without Cause. 
+     
+ 9.      Tax Withholding. The Company shall be entitled to withhold the amount of applicable withholding taxes in any manner provided in Section 3.4(a) of the Plan, including, at the election of the Participant, by having the Company deduct from any shares delivered upon vesting of the Restricted Stock Award such shares having a value equal to the amount of minimum (and on or after January 1, 2017, up to the maximum) tax required to be withheld. Such shares shall be valued at their Fair Market Value as of the date on which the amount of tax to be withheld is determined. Fractional share amounts shall be settled in cash. Such a withholding election may be made by the Participant with respect to all or any portion of the shares to be de livered pursuant to the Restricted Stock Award. 
+     
+   
+ 
+   
+ 2 
+ 
+   
+ 
+   
+ 10.      Governing Law. This Restricted Stock Award Agreement shall be governed by, interpreted under, and construed and enforced in accordance with the internal laws, and not the laws pertaining to conflicts or choices of laws, of the State of New York applicable to agreements made and to be performed wholly within the State of New York. 
+     
+ 11.      Restricted Stock Award Agreement Binding on Successors. The terms of this Restricted Stock Award Agreement shall be binding upon Participant and upon Participant's heirs, executors, administrators, personal representatives, transferees, assignees and successors in interest, and upon the Company and its successors and assignees, subject to the terms of the Plan. 
+     
+ 12.      No Assignment. Notwithstanding anything to the contrary in this Restricted Stock Award Agreement, neither this Restricted Stock Award Agreement nor any rights granted herein shall be assignable  by Participant. 
+     
+ 13.      Necessary Acts. Participant hereby agrees to perform all acts, and to execute and deliver any documents that may be reasonably necessary to carry out the provisions of this Restricted Stock Award Agreement, including but not limited to all acts and documents related to compliance with federal and/or state securities and/or tax laws. 
+     
+ 14.      Entire Restricted Stock Award Agreement. This Restricted Stock Award Agreement and the Plan contain the entire agreement and understanding among the parties as to the subject matter hereof and supersede all prior agreements with respect to the subject matter thereof, including, without limitation, the Prior Agreement. For the avoidance of doubt, the Company and the Participant acknowledge and agr ee that the Prior Award is cancelled effective as of the date hereof. 
+   
+ 15.      Headings. Headings are used solely for the convenience of the parties and shall not be deemed to be a limitation upon or descriptive of the contents of any such Section. 
+     
+ 16.      Counterparts. This Restricted Stock Award Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original and all of which together shall be deemed to  be one and the same instrument. 
+     
+ 17.      Amendment. No amendment or modification hereof shall be valid unless it shall be in writing and signed by all parties hereto. 
+   
+   
+   
+ [signature page follows] 
+   
+   
+ 
+   
+ 3 
+ 
+   
+ 
+   
+IN WITNESS WHEREOF, the parties hereto have executed this Restricted Stock Award Agreement as of the date set forth above. 
+   
+   
+ EAGLE BULK SHIPPING INC. 
+   
+   
+   
+   
+ By:  /s/ Frank De Costanzo 
+ Name: Frank De Costanzo 
+ Title: Chief Financial Officer 
+   
+   
+   
+The undersigned hereby accepts and agrees to all the terms and provisions of the foregoing Restricted Stock Award Agreement. 
+   
+   
+ PARTICIPANT 
+   
+   
+   
+   
+ /s/ Gary Vogel 
+ Name: Gary Vogel 
+   
+   

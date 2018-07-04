@@ -1,0 +1,995 @@
+ htm 219797 Articles of incorporation 3 2016-07-19T10:22:03.964346-05:00 Filing 0001394074-16-000015 2016-02-25 10-K Annual  & Quarterly Reports 0001394074 Spectra Energy Partners, LP SEP UNITS NYSE 4922 Natural Gas Transmission Yes TEXAS DELAWARE DELAWARE true Large Accelerated Filer 001-33556 EXHIBIT 3.6 Exhibit Exhibit 4 sep-20151231exx36.htm EX-3.6 4 sep-20151231exx36.htm EXHIBIT 3.6 
+ 
+ 
+ 
+ 
+ 
+ EXHIBIT 3.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FIFTH AMENDED AND RESTATED 
+ LIMITED LIABILITY COMPANY AGREEMENT 
+ OF 
+ SPECTRA ENERGY PARTNERS GP, LLC 
+ A Delaware Limited Liability Company 
+ 
+ 
+ Effective as of 
+ December 31, 2015 
+ 
+ 
+ 
+ US 3430743v.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FIFTH AMENDED AND RESTATED LIMITED 
+ LIABILITY COMPANY AGREEMENT 
+ OF 
+ SPECTRA ENERGY PARTNERS GP, LLC 
+ A Delaware Limited Liability Company 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ ARTICLE 1 
+ 
+ 
+ DEFINITIONS 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 1.01 
+ 
+ Definitions 
+ 
+ 1 
+ 
+ 1.02 
+ 
+ Construction 
+ 
+ 2 
+ 
+ ARTICLE 2 
+ 
+ ORGANIZATION 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 2.01 
+ 
+ Formation 
+ 
+ 2 
+ 
+ 2.02 
+ 
+ Name 
+ 
+ 2 
+ 
+ 2.03 
+ 
+ Registered Office; Registered Agent; Principal Office; Other Offices 
+ 
+ 2 
+ 
+ 2.04 
+ 
+ Purpose 
+ 
+ 2 
+ 
+ 2.05 
+ 
+ Term 
+ 
+ 2 
+ 
+ 2.06 
+ 
+ No State-law Partnership; Withdrawal 
+ 
+ 2 
+ 
+ 2.07 
+ 
+ Certain Undertakings Relating to Separateness 
+ 
+ 3 
+ 
+ ARTICLE 3 
+ 
+ MATTERS RELATING TO MEMBERS 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 3.01 
+ 
+ Members 
+ 
+ 4 
+ 
+ 3.02 
+ 
+ Creation of Additional Membership Interest 
+ 
+ 4 
+ 
+ 3.03 
+ 
+ Liability to Third Parties 
+ 
+ 5 
+ 
+ ARTICLE 4 
+ 
+ CAPITAL CONTRIBUTIONS 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 4.01 
+ 
+ Capital Contributions 
+ 
+ 5 
+ 
+ 4.02 
+ 
+ Loans 
+ 
+ 5 
+ 
+ 4.03 
+ 
+ Return of Contributions 
+ 
+ 5 
+ 
+ ARTICLE 5 
+ 
+ DISTRIBUTIONS 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 5.01 
+ 
+ Distributions 
+ 
+ 5 
+ 
+ ARTICLE 6 
+ 
+ MANAGEMENT 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 6.01 
+ 
+ Management 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.02 
+ 
+ Board of Directors 
+ 
+ 8 
+ 
+ 6.03 
+ 
+Officers............................................................................................................. 
+ 
+ 
+ 10 
+ 
+ 6.04 
+ 
+ Duties of Officers and Directors 
+ 
+ 12 
+ 
+ 6.05 
+ 
+ Compensation 
+ 
+ 12 
+ 
+ 6.06 
+ 
+ Indemnification 
+ 
+ 13 
+ 
+ 6.07 
+ 
+ Liability of Indemnitees 
+ 
+ 14 
+ 
+ ARTICLE 7 
+ 
+ TAX MATTERS 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 7.01 
+ 
+ Tax Returns and Tax Characterization 
+ 
+ 15 
+ 
+ ARTICLE 8 
+ 
+ BOOKS, RECORDS, REPORTS, AND BANK ACCOUNTS 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 8.01 
+ 
+ Maintenance of Books 
+ 
+ 15 
+ 
+ 8.02 
+ 
+ Reports 
+ 
+ 16 
+ 
+ 8.03 
+ 
+ Bank Accounts 
+ 
+ 16 
+ 
+ ARTICLE 9 
+ 
+ DISSOLUTION, WINDING-UP AND TERMINATION 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 9.01 
+ 
+ Dissolution 
+ 
+ 16 
+ 
+ 9.02 
+ 
+ Winding-Up and Termination 
+ 
+ 16 
+ 
+ 
+ ARTICLE 10 
+ 
+ MERGER, CONSOLIDATION OR CONVERSION 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 10.01 
+ 
+ Authority 
+ 
+ 17 
+ 
+ 10.02 
+ 
+ Procedure for Merger, Consolidation or Conversion 
+ 
+ 18 
+ 
+ 10.03 
+ 
+ Approval by Members of Merger or Consolidation 
+ 
+ 19 
+ 
+ 10.04 
+ 
+ Certificate of Merger, Consolidation or Conversion 
+ 
+ 19 
+ 
+ ARTICLE 11 
+ 
+ GENERAL PROVISIONS 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 11.01 
+ 
+ Notices 
+ 
+ 20 
+ 
+ 11.02 
+ 
+ Entire Agreement; Supersedure 
+ 
+ 21 
+ 
+ 11.03 
+ 
+ Effect of Waiver or Consent 
+ 
+ 21 
+ 
+ 11.04 
+ 
+ Amendment or Restatement 
+ 
+ 21 
+ 
+ 11.05 
+ 
+ Binding Effect 
+ 
+ 21 
+ 
+ 11.06 
+ 
+ Governing Law; Severability 
+ 
+ 21 
+ 
+ 11.07 
+ 
+ Further Assurances 
+ 
+ 22 
+ 
+ 11.08 
+ 
+ Offset 
+ 
+ 22 
+ 
+ 11.09 
+ 
+ Counterparts 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ ii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FIFTH AMENDED AND RESTATED LIMITED 
+ LIABILITY COMPANY AGREEMENT 
+ OF 
+ SPECTRA ENERGY PARTNERS GP, LLC 
+ A Delaware Limited Liability Company 
+ 
+ THIS FIFTH AMENDED AND RESTATED LIMITED LIABILITY COMPANY AGREEMENT (this " Agreement ") of Spectra Energy Partners GP, LLC, a Delaware limited liability company (the " Company "), effective as of December 31, 2015 (the " Effective Date "), is adopted, executed and agreed to by Spectra Energy Transmission, LLC (" SET "), a Delaware limited liability company, as the sole Member of the Company. 
+ RECITALS 
+ A. SET formed the Company on March 19, 2007 as the sole member. 
+ B.The Limited Liability Company Agreement of the Company was executed effective March 19, 2007, the First Amended and Restated Limited Liability Company Agreement of the Company was executed effective July 2, 2007, the Second Amended and Restated Limited Liability Company Agreement of the Company was executed effective May 8, 2013 and the Third Amended and Restated Limited Liability Company Agreement of the Company was executed effective November 1, 2013 (the " Existing Agreement "). 
+ C.SET assigned its interest in the Company to Spectra Energy Southeast Pipeline Corporation, a Delaware corporation (" SESPC"), on August 1, 2013 and, effective as of that date, SESPC was admitted as the sole member of the Company. 
+ D.In accordance with Section 18-702 of the Delaware Act, SESPC assigned its interest in the Company to SET effective as of December 31, 2015 and, effective as of December 31, 2015, S ET was admitted as the sole Member of the Company. 
+ E.SET, the sole Member of the Company, deems it advisable to amend and restate the limited liability company agreement of the Company in its entirety as set forth herein. 
+ AGREEMENTS 
+For and in consideration of the premises, the covenants and agreements set forth herein and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, SET, as the sole Member of the Company, hereby amends and restates the Existing Agreement in its entirety as follows: 
+ ARTICLE 1 
+ DEFINITIONS 
+ 1.01    Definitions . Each capitalized term used herein shall have the meaning given such term in Attachment I hereto. 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.02    Construction. Unless the context requires otherwise: (a) the gender (or lack of gender) of all words used in this Agreement includes the masculine, feminine and neuter; (b) references to Articles and Sections refer to Articles and Sections of this Agreement; (c) references to laws refer to such laws as they may be amended from time to time, and references to particular provisions of a law include any corresponding provisions of any succeeding law; (d) references to money refer to legal currency of the United States of America; (e) "including" means "including without limitation" and is a term of illustration and not of limitation; (f) all definitions set forth herein shall be deemed applicable whether the words defined are used herein in the singular or the plural; and (g) neither this Agreement nor any other agreement, document or instrument referred to herein or executed and delivered in connectio n herewith shall be construed against any Person as the principal draftsperson hereof or thereof. 
+ ARTICLE 2 
+ ORGANIZATION 
+ 2.01    Formation. The Company was organized as a Delaware limited liability company by the filing of a Certificate of Formation (" Organizational Certificate") on March 19, 2007 with the Secretary of State of the State of Delaware under and pursuant to the Delaware Act. 
+ 2.02    Name. The name of the Company is "Spectra Energy Partners GP, LLC" and all Company business must be conducted in that name or such other names that comply with law as the Board of Dire ctors may select. 
+ 2.03    Registered Office; Registered Agent; Principal Office; Other Offices. The registered office of the Company required by the Delaware Act to be maintained in the State of Delaware shall be the office of the initial registered agent for service of process named in the Organizational Certificate or such other office (which need not be a place of business of the Company) as the Board of Directors may designate in the manner provided by law. The registered agent for service of process of the Company in the State of Delaware shall be the initial registered agent for service of process named in the Organizational Certificate or such other Person or Persons as the Board of Directors may designate in the manner provided by law. The principal office of the Company in the United States shall be at such a place as the Board of Directors may from time to time designate, which need not be in the State of Delaware, and the Company shall maintain records there and shall keep the street address of such principal office at the registered office of the Company in the State of Delaware. The Company may have such other offices as the Board of Directors  may designate. 
+ 2.04    Purpose. The purposes of the Company are the transaction of any or all lawful business for which limited liability companies may be organized under the Delaware Act. 
+ 2.05    Term. The period of existence of the Company commenced on March 19, 2007 and shall end at such time as a certificate of cancellation is filed in accordance with Section 9.02(c). 
+ 2.06    No State-law Partnership; Withdrawal. It is the intent that the Company shall be a limited liability company formed under the laws of the State of Delaware and shall not be a partnership (including a limited partners hip) or joint venture, and that the Members not be a partner 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+or joint venturer of any other party for any purposes other than federal and state tax purposes, and this Agreement may not be construed to suggest otherwise. A Member does not have the right to Withdraw from the Company; provided, however, that a Member shall have the power to Withdraw at any time in violation of this Agreement. If a Member exercises such power in violation of this Agreement, (a) such Member shall be liable to the Company and its Affiliates for all monetary damages suffered by them as a result of such Withdrawal; and (b) such Member shall not have any rights under Section 18-604 of the Delaware Act. In no event shall the Company have the right, through specific performance or otherwise, to pre vent a Member from Withdrawing in violation of this Agreement. 
+ 2.07    Certain Undertakings Relating to Separateness . 
+ (a) Separateness Generally. The Company shall, and shall cause SEP GP to, conduct their respective businesses and operations in accordance with this Section 2.07. 
+ (b) Separate Records. The Company shall, and shall cause SEP GP to, (i) maintain their respective books and records and their respective accounts separate from those of any other Person, (ii) maintain their respective financial records, which will be used by them in their ordinary course of business, showing their respective assets and liabilities separate and apart from those of any other Person, except their consolidated Subsidiaries, (iii) not have their respective assets and/or liabilities included in a consolidated financial statement of any Affiliate of the Company unless appropriate notation shall be made on such Affiliate's consolidated financial statements to indicate the separateness of the Company and SEP GP and their assets and liabilities from such Affiliate and the assets and liabilities of such Affiliate, and to indicate that the assets and liabilities of the Company and SEP GP are not available to satisfy the debts and other obligations of such Affiliate, and (iv) file their respective own tax returns separate from those of any other Person, except (A) to the extent that the Company or SEP GP (x) is treated as a "disregarded entity" for tax purposes or (y) is not otherwise required to file tax returns under applicable law or (B) as may otherwis e be required by applicable law. 
+ (c) Separate Assets. The Company shall not commingle or pool, and shall cause SEP GP not to commingle or pool, their respective funds or other assets with those of any other Person, and shall maintain their respective assets in a manner that is not costly or difficult to segregate, ascertain or otherwise identify as separate from those of any other Person. 
+ (d) Separate Name. The Company shall, and shall cause SEP GP to, (i) conduct their respective businesses in their respective own names, (ii) use separate stationery, invoices, and checks, (iii) correct any known misunderstanding regarding their respective separate identities from that of any other Person (including SET and its Subsidiaries other than the Company and SEP GP), and (iv) generally hold itself out as an entity separate from any other Person (including SET and its Subsidiaries other than the Company and SEP GP). 
+ (e) Separate Credit. The Company shall, and shall cause SEP GP to, (i) pay their respective obligations and liabilities from their respective own funds (whether on hand or borrowed), (ii) maintain adequate capital in light of their respective business operations, (iii) not guarantee or become obligated for the debts of any other Person, other than the Company and SEP GP and ex cept 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+to the extent specified in the Contribution Agreement or the Omnibus Agreement, (iv) not hold out their respective credit as being available to satisfy the obligations or liabilities of any other Person except to the extent specified in the Contribution Agreement or the Omnibus Agreement, (v) not acquire debt obligations or debt securities of SET or its Affiliates (other than the Company and SEP GP), (vi) not pledge their assets for the benefit of any Person or make loans, advances or capital contributions to SET or any of its Affiliates (other than the MLP and its Subsidiaries and, with respect to the Company, other than SEP GP), or (vii) use its commercially reasonable efforts to cause the operative documents under which SEP GP borrows money, is an issuer of debt securities, or guarantees any such borrowing or issuance after the Effective Date, to contain provisions to the effect that (A) the lenders or purchasers of debt securities, respectively, acknowledge that they have advanced funds or purchased debt securities, respectively, in reliance upon the separateness of the Company and SEP GP from each other and from any other Persons (including SET and its Affiliates, other than the Company and SEP GP) and (B) the Company and SEP GP have assets and liabilities that are separate from those of other persons (including SET and its Affiliates, other than the Company and SEP GP); provided that the Company and SEP GP may engage in any transaction described in clauses (v)-(vi) of this Section 2.07(e) if prior Special Approval has been obtained for such transaction and either (A) the Conflicts Committee has determined that the borrower or recipient of the credit support is not then insolvent and will not be rendered insolvent as a result of such transaction or (B) in the case of transactions described in clause 2.07(e)(v), such transaction is completed through a public sale or a National Securities Exchange. 
+ (f) Separate Formalities. The Company shall, and shall cause SEP GP to, (i) observe all limited liability company or partnership formalities and other formalities required by their respective organizational documents, the laws of the jurisdiction of their respective formation, or other laws, rules, regulations and orders of governmental authorities exercising jurisdiction over it, (ii) engage in transactions with SET and its Affiliates (other than the Company or SEP GP) in conformity with the requirements of Section 6.09 of this Agreement, and (iii) subject to the terms of the Omnibus Agreement, promptly pay, from their respective own funds and on a timely basis, their respective allocable shares of general and administrative expenses, capital expenditures, and costs for services performed by SET or Affiliates of SET (other than the Company or SEP GP). 
+ (g) No Effect. Failure by the Company to comply with any of the obligations set forth above shall not affect the status of the Company as a separate legal entity, with its separate assets and separate liabilities or restrict or limit the Company from engaging or contracting with SET and its Affiliates for the provision of services or the purchase or sale of products, whe ther under the Omnibus Agreement or otherwise. 
+ ARTICLE 3 
+ MATTERS RELATING TO MEMBERS 
+ 3.01    Members . SET has previously been admitted as a Member of the Company. 
+ 3.02    Creation of Additional Membership Interest. The Company may issue additional Membership Interests in the Company pursuant to this Section 3.02. The terms of admission or issuance may provide for the creation of different classes or groups of Members having different rights, powers, and duties. The creation of any new class or group of Members approved as required 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+herein may be reflected in an amendment to this Agreement executed in accordance with Section 11.04 indicating the different rights, powers, and duties thereof. Any such admission is effective only after the new Member has executed and delivered to the Members an instrument containing the notice address of the new Member and the new Member's ratification of  this Agreement and agreement to be bound by it. 
+ 3.03    Liability to Third Parties. No Member or beneficial owner of any Membership Interest shall be liable for the Liabilities of the Company. 
+ ARTICLE 4 
+ CAPITAL CONTRIBUTIONS 
+ 4.01    Capital Contributions. The amount of money and the fair market value (as of the date of contribution) of any property (other than money) contributed to the Company by a Member in respect of the issuanc e of a Membership Interest to such Member shall constitute a " Capital Contribution." Any reference in this Agreement to the Capital Contribution of a Member shall include a Capital Contribution of its predecessors in interest. 
+ 4.02    Loans. If the Company does not have sufficient cash to pay its obligations, any Member that may agree to do so may, upon Special Approval, advance all or part of the needed funds for such obligation to or on behalf of the Company. An advance described in this Section 4.02 constitutes a loan from the Member to the Company, may bear interest at a rate comparable to  the rate the Company could obtain from third parties, and is not a Capital Contribution. 
+ 4.03    Return of Contributions. A Member is not entitled to the return of any part of its Capital Contributions or to be paid interest in respect of its Capital Contributions. An unrepaid Capital Contribution is not a liability of the Company or of any Member. No Member will be required to contribute or to lend any cash or property to the Company to enable the Company to return any Membe r's Capital Contributions. 
+ ARTICLE 5 
+ DISTRIBUTIONS 
+ 5.01    Distributions. Subject to Section 9.02, within 60 days following each Quarter other than any Quarter in which the dissolution of the Company has commenced (the " Distribution Date"), the Company shall distribute to the Members the Company's Available Cash on such Distribution Date. 
+ ARTICLE 6 
+ MANAGEMENT 
+ 6.01    Management . 
+(a) All management powers over the business and affairs of the Company shall be exclusively vested in a Board of Directors (" Board of Directors " or " Board") and, subject to the direction of the Board of Directors, the Officers. The Officers and Directors shall each constitute 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a "manager" of the Company within the meaning of the Delaware Act. Except as otherwise specifically provided in this Agreement, no Member, by virtue of having the status of a Member, shall have or attempt to exercise or assert any management power over the business and affairs of the Company or shall have or attempt to exercise or assert actual or apparent authority to enter into contracts on behalf of, or to otherwise bind, the Company. Except as otherwise specifically provided in this Agreement, the authority and functions of the Board of Directors on the one hand and of the Officers on the other shall be identical to the authority and functions of the board of directors and officers, respectively, of a corpo ration organized under the Delaware General Corporation law;   provided that  any authority or function of the Board of Directors may be delegated by the Board of Directors to the Officers. Except as otherwise specifically provided in this Agreement, the business and affairs of the Company shall be managed under the direction of the Board of Directors, and the day-to-day activities of the Company shall be conducted on the Company's be half by the Officers, who shall be agents of the Company. 
+(b) In addition to the powers that now or hereafter can be granted to managers under the Delaware Act and to all other powers granted under any other provision of this Agreement, except as otherwise provided in this Agreement, the Board of Directors and the Officers shall have full power and authority to do all things as are not restricted by this Agreement, the SEP GP Agreement, the Delaware Act or applicable law, on such terms as they may deem necessary or appropriate to conduct, or cause to be conducted, the business and affairs of  the Company. 
+ (c)Notwithstanding anything herein to the contrary, without obtaining Extraordinary Approval, the Company shall not, and shall not take any action to cause either SEP GP or the MLP to, (i) make or consent to a general assignment for the benefit of its respective creditors; (ii) file or consent to the filing of any bankruptcy, insolvency or reorganization petition for relief under the United States Bankruptcy Code naming the Company, SEP GP or the MLP, as applicable, or otherwise seek, with respect to the Company, SEP GP or the MLP, relief from debts or protection from creditors generally; (iii) file or consent to the filing of a petition or answer seeking for the Company, SEP GP or the MLP, as applicable, a liquidation, dissolution, arrangement, or similar relief under any law; (iv) file an answer or other pleading admitting or failing to contest the material allegations of a petition filed against the Company, SEP GP or the MLP, as applicable, in a proceeding of the type described in any of clauses (i) - (iii) of this Section 6.01(c); (v) seek, consent to or acquiesce in the appointment of a receiver, liquidator, conservator, assignee, trustee, sequestrator, custodian or any similar official for the Company, SEP GP or the MLP, as applicable, or for all or any substantial portion of either entity's properties; (vi) sell all or substantially all of the assets of the Company, SEP GP or the MLP; (vii) dissolve or liquidate, except in the case of SEP GP, in accordance with Article VIII of the SEP GP Agreement; (viii) merge or consolidate; (ix) amend the MLP Partnership Agreement; (x) make a material change in the amount of the quarterly distributions made on the MLP Interests or the payment of any material extraordinary distribution on the MLP Interests; or (xi) enter into any agreement or series of related agreements in excess of the maximum authorized amount as set forth in the Delegation of Authority Policy. 
+ (d)Notwithstanding anything herein to the contrary, SET, as the sole Member of the Company, shall have exclusive authority over the business and affairs of the Company that do not rel ate to management and control of the MLP. The type of matter referred to in the prior 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sentence where SET, as the sole Member of the Company, shall have exclusive authority shall include, but not be limited to, (i) the amount and timing of distributions paid by the Company or SEP GP, (ii) the issuance or repurchase of any equity interests in the Company or SEP GP, (iii) the prosecution, settlement or management of any claim made directly against the Company or SEP GP, (iv) whether to sell, convey, transfer or pledge any asset of the Company or SEP GP, (v) whether to amend, modify or waive any rights relating to the assets of the Company or SEP GP (including the decision to amend or forego distributions in respect of the Incentive Distribution Rights), and (vi) whether to enter into any agreement to incur an obligation of the Company or SEP GP other than an agreement entered into for and on behalf of the MLP for which the Company or SEP GP are liable exclusively by virtue of SEP GP's capacity as general partner of the MLP or of any of its affiliates. Further, SET, as the sole Member of the Company, shall have exclusive authority to cause the Company to exercise the rights of the Company and those of SEP GP, as general partner of the MLP (or those exercisable after SEP GP ceases to be the general partner of the MLP), pursuant t o the following provisions of the MLP Partnership Agreement: 
+ (i) Section 2.4 (" Purpose and Business "), with respect to decisions to propose or approve the conduct by the MLP of any business; 
+ (ii) Sections 4.6(a) and (b) (" Transfer of the General Partner's General Partner Interest ") and Section 4.7 (" Transfer of Incentive Distribution Rights"), solely with respect to the decision by SEP GP to transfer its general partner interest in the MLP or its Incentive Distribution Rights; 
+ (iii) Section 5.2(b) (" Contributions by the General Partner and its Affiliates "), solely with respect to the decision to make additional Capital Contributions to the MLP; 
+ (iv) Section 5.8 (" Limited Preemptive Right "); 
+ (v) Section 5.11 (" Issuance of Class B Units in Connection with Reset of Incentive Distribution Rights"), with respect to any decision by the Company or SEP GP thereunder as a holder of Incentive Distribution Rights or Class B Units; 
+ (vi)Section 7.5(c) (relating to the right of SEP GP and its Affiliates to purchase Units or other Partnership Securities and exercise rights related thereto) and Section 7.11 (" Purchase and Sale of Partnership Securities"), solely with respect to decisions by the Company or SEP GP to purchase or otherwise acquire and sell Partnership Securities for their own account; 
+ (vii) Section 7.6(a) (" Loans from the General Partner; Loans or Contributions from the Partnership or Group Members"), solely with respect to the decision by the Company or SEP GP to lend funds to a Group Member, subject to the provisions of Section 7.9 of the MLP Partnership Agreement; 
+ (viii) Section 7.7 (" Indemnification"), solely with respect to any decision by the Company or SEP GP to exercise their respective rights as "Indemnitees"; 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ix) Section 7.12 (" Registration Rights of the General Partner and its Affiliates"), solely with respect to any decision to exercise registration rights and to take actions in connection therewith; 
+ (x) Section 11.1 (" Withdrawal of the General Partner"), solely with respect to the decision by SEP GP to withdraw as general partner of the MLP and to giving notices required thereunder; 
+ (xi) Section 11.3(a) and (b) (" Interest of Departing General Partner and Successor General Partner "); and 
+ (xii) Section 15.1 (" Right to Acquire Limited Partner Interests "). 
+ 6.02    Board of Directors . 
+ (a) Generally. The Board of Directors shall initially consist of six natural persons and, in the discretion of SET, may be increased to consist of up to 10 natural persons. The members of the B oard of Directors shall be appointed by SET;   provided  that at least three members of the Board of Directors shall be natural persons who meet the independence, qualification and experience requirements of the New York Stock Exchange, the independence, qualification and experience requirements of Section 10A(m)(3) of the Securities Exchange Act of 1934 (or any successor law), the rules and regulations of the SEC  and other applicable law (an " Independent Director "),at all times;   provided ,   however, that if at any time the Board of Directors does not include the requisite number of Independent Directors as specified above, the Board of Directors shall still have all powers and authority granted to it hereunder, but SET shall endeavor to appoint one or more additional Independent Directors as necessary to come into compliance with this Section 6.02(a). 
+ (b) Term; Resignation; Vacancies; Removal. Each Director shall hold office until his successor is appointed and qualified or until his earlier resignation or removal. Any Director may resign at any time upon written notice to the Board, the Chairman of the Board, to the Chief Executive Officer or to any other Officer. Such resignation shall take effect at the time specified therein, and unless otherwise specified therein no acceptance of such resignation shall be necessary to make it effective. Vacancies and newly created directorships resulting from any increase in the authorized number of Directors or from any other cause shall be filled by SET. Any Director may be removed, with or without cause, by SET at any time, and the vacancy in the Board caus ed by any such removal shall be filled by SET. 
+ (c) Voting; Quorum . Unless otherwise required by the Delaware Act, other law or the provisions hereof, 
+ (i) each member of the Board of Directors shall have one vote; 
+ (ii)except for matters requiring Special Approval, the presence at a meeting of a majority of the members of the Board of Directors shall constitute a quorum at any such meeting for th e transaction of business; and 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (iii)except for matters requiring Special Approval, the act of a majority of the members of the Board of Directors present at a meeting duly called in accordance with Section 6.02(d) at  which a quorum is present shall be deemed to constitute the act of the Board of Directors. 
+ (d) Meetings. Regular meetings of the Board of Directors shall be held at such times and places as shall be designated from time to time by resolution of the Board of Directors. Special meetings of the Board of Directors or meetings of any committee thereof may be called by written request authorized by any member of the Board of Directors or a committee thereof on at least 24 hours prior written notice to the other members of such Board or committee. Any such notice, or waiver thereof, need not state the purpose of such meeting, except as may otherwise be required by law. Attendance of a Director at a meeting (including pursuant to the last sentence of this Section 6.02(d)) shall constitute a waiver of notice of such meeting, except where such Director attends the meeting for the express purpose of objecting to the transaction of any business on the ground that the meeting is not lawfully called or convened. Any action required or permitted to be taken at a meeting of the Board of Directors or any committee thereof may be taken without a meeting, without prior notice and without a vote if a consent or consents in writing, setting forth the action so taken, are signed by at least as many members of the Board of Directors or committee thereof as would have been required to take such action at a meeting of the Board of Directors or such committee. Members of the Board of Directors or any committee thereof may participate in and hold a meeting by means of conference telephone, video conference or similar communications equipment by means of which all Persons participating in the meeting can hear each other,  and participation in such meetings shall constitute presence in person at the meeting. 
+ (e) Committees . 
+ (i)Subject to compliance with this Article 6, committees of the Board of Directors shall have and may exercise such of the powers and authority of the Board of Directors with respect to the management of the business and affairs of the Company as may be provided in a resolution of the Board of Directors. Any committee designated pursuant to this Section 6.02(e) shall choose its own chairman, shall keep regular minutes of its proceedings and report the same to the Board of Directors when requested, and, subject to Section 6.02(d), shall fix its own rules or procedures and shall meet at such times and at such place or places as may be provided by such rules or by resolution of such committee or resolution of the Board of Directors. At every meeting of any such committee, the presence of a majority of all the members thereof shall constitute a quorum and the affirmative vote of a majority of the members present shall be necessary for the adoption by it of any resolution (except for obtaining Special Approval at meetings of the Conflicts Committee, which requires the affirmative vote of a majority of the members of such committee). The Board of Directors may designate one or more Directors as alternate members of any committee who may replace any  absent or disqualified member at any meeting of such committee;   provided ,   however, that any such designated alternate of the Audit Committee or the Conflicts Committee must meet the standards for an Independent Director. In the absence or disqualification of a member of a committee, the member or members present at any meeting and not disqualified from voting, whether or not constituting a quorum, may unanimously appoint another member o f the Board of Directors to act at the meeting in the place of the absent or disqualified member;   provided ,   however , 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+that any such replacement member of the Audit Committee or the Conflicts Committee must meet the standards for an Independent Director. 
+ (ii)In addition to any other committees established by the Board of Directors pursuant to Section 6.02(e)(i), the Board of Directors shall maintain a " Conflicts Committee," which shall be composed of at least two Independent Directors none of whom is a security holder, officer or employee of the Company or SEP GP; is an officer, director or employee of any Affiliate of the Company or SEP GP; or is a holder of any ownership interest in the MLP Group other than Common Units. The Conflicts Committee shall be responsible for (A) approving or disapproving, as the case may be, any matters regarding the business and affairs of the Company, SEP GP or the MLP considered by, or submitted to, such Conflicts Committee at the request of the Board of Directors pursuant to the terms of this Agreement or the MLP Partnership Agreement, (B) approving any amendment to the Omnibus Agreement requiring the approval of the Conflicts Committee pursuant to Section 4.6 thereof, (C) amending (1) Section 2.07, (2) the definitions of " Independent Director" in Section 6.02(a) or (3) this Section 6.02(e)(ii), and (D) performing such other functions as the Board may assign from time to time or as may be specified in a written charter  of the Conflicts Committee. 
+ (iii)In addition to any other committees established by the Board of Directors pursuant to Section 6.02(e)(i), the Board of Directors shall maintain an " Audit Committee," which shall be composed of at least three Independent Directors at all times. The Audit Committee shall be responsible for (A) assisting the Board in monitoring (1) the quality and integrity of the MLP's financial statements, (2) the MLP's compliance with legal and regulatory requirements, (3) the qualifications and independence of the MLP's independent auditors, (4) the performance the internal audit function and independent auditors of the Company, SEP GP and the MLP, and (5) the implementation and effectiveness of the MLP's ethics and compliance program and the commitment of the Board of Directors to its ethical and compliance responsibilities and (B) preparing any reports that may be required by the rules of the SEC to be included in the MLP's annual report on Form 10-K. The Audit Committee shall perform such other functions as the Board may assign from time to time or as may be s pecified in a written charter for the Audit Committee adopted by the Board. 
+ 6.03    Officers . 
+ (a) Generally . The Board of Directors, as set forth below, shall appoint officers of the Company (" Officers"), who shall (together with the Directors) constitute "managers" of the Company for the purposes of the Delaware Act. Unless provided otherwise by resolution of the Board of Directors, the Officers shall have the titles, power, authority and duties described below in this Section 6.03. 
+ (b) Titles and Number. The Company may appoint one or more officers, including a Chairman of the Board (unless the Board of Directors provides otherwise), a President and Chief Executive Officer, a Chief Financial Officer, one or more Vice Presidents, a General Counsel, a Secretary, any Treasurer and one or more Assistant Secretaries and Assistant Treasurers. Any person may hold  more than one office. 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Appointment and Term of Office. The Officers shall be appointed by the Board of Directors at such time and for such term as the Board of Directors shall determine. Any Officer may be removed, with or without cause, only by the Board of Directors. Vacancies in any office may be filled only by the Board of Directors. 
+ (d) Chairman of the Board. The Chairman of the Board shall preside at all meetings of the Board of Directors and of the unitholders of the MLP; and he shall have such other powers and duties as from time t o time may be assigned to him by the Board of Directors. 
+ (e) President and Chief Executive Officer. Subject to the limitations imposed by this Agreement, any employment agreement, any employee plan or any determination of the Board of Directors, the President and Chief Executive Officer, subject to the direction of the Board of Directors, shall be the chief executive officer of the Company and shall be responsible for the management and direction of the day-to-day business and affairs of the Company, its other Officers, employees and agents, shall supervise generally the affairs of the Company and shall have full authority to execute all documents and take all actions that the Company may legally take. In the absence of the Chairman of the Board, the Chief Executive Officer shall preside at all meetings of the unitholders of the MLP and at all meetings of the Board of Directors provided that he is a director of the Company. The Chief Executive Officer shall exercise such other powers and perform such other duties as may be assigned to him by this Agreement or the Board of Directors, including any duties and powers provided for in any employment agreement appro ved by the Board of Directors. 
+ (f) Chief Financial Officer. The Chief Financial Officer shall keep and maintain, or cause to be kept and maintained, adequate and correct books and records of account of the Company and SEP GP. He shall receive and deposit all moneys and other valuables belonging to the Company in the name and to the credit of the Company and shall disburse the same and only in such manner as the Board of Directors or the appropriate Officer of the Company may from time to time determine. He shall receive and deposit all moneys and other valuables belonging to SEP GP in the name and to the credit of SEP GP and shall disburse the same and only in such manner as the Board of Directors or the Chief Executive Officer may require. He shall render to the Board of Directors and the President and Chief Executive Officer, whenever any of them request it, an account of all his transactions as Chief Financial Officer and of the financial condition of the Company, and shall perform such further duties as the Board of Directors or the President and the Chief Executive Officer may require. The Chief Financial Officer shall have the same power as the President and Chief Executive Officer to execute documents on behalf of the Company. 
+ (g) Vice Presidents. In the absence of a President and Chief Executive Officer, each Vice President appointed by the Board of Directors shall have all of the powers and duties conferred upon the President and Chief Executive Officer, including the same power as the President and Chief Executive Officer to execute documents on behalf of the Company. Each such Vice President shall perform such other duties and may exercise such other powers as may from time to time be assigned to him by the Board of Directors or the President and Chief Executive Officer. 
+ (h) General Counsel. The General Counsel, subject to the discretion of the Board of Directors, shall be responsible for the management and direction of the day-to-day legal affairs of the Company. Th e General Counsel shall perform such other duties and may exercise such other 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+powers as may from time to time be assigned to him by the Board of Directors or the President and Chief Executive Officer. 
+ (i) Secretary and Assistant Secretaries. The Secretary shall record or cause to be recorded in books provided for that purpose the minutes of the meetings or actions of the Board of Directors, shall see that all notices are duly given in accordance with the provisions of this Agreement and as required by law, shall be custodian of all records (other than financial), shall see that the books, reports, statements, certificates and all other documents and records required by law are properly kept and filed, and, in general, shall perform all duties incident to the office of Secretary and such other duties as may, from time to time, be assigned to him by this Agreement, the Board of Directors or the President and Chief Executive Officer. The Assistant Secretaries shall exercise the powers of the Secretary during that Officer's absence or inability or refusal to act. 
+ (j) Treasurer and Assistant Treasurers. The Treasurer shall have such duties as may be specified by the Chief Financial Officer in the performance of his duties. The Assistant Treasurers shall exercise the power of the Treasurer during that Officer's absence or inability or refusal to act. Each of the Assistant Treasurers shall possess the same power as the Treasurer to sign all certificates, contracts, obligations and other instruments of the Company. If no Treasurer or Assistant Treasurer is appointed and serving or in the absence of the appointed Treasurer and Assistant Treasurer, any Vice President, or such other Officer as the Board of Directors shall select, shall have the powers and duties conferred upon the Treasurer. 
+ (k) Powers of Attorney. The Company may grant powers of attorney or other authority as appropriate to establish and evidence the authority of the Officers and other persons. 
+ (l) Delegation of Authority. Unless otherwise provided by resolution of the Board of Directors, no Officer shall have the power or authority to delegate to any person such Officer's rights and powers as an O fficer to manage the business and affairs of the Company. 
+ (m) Tenure. The Board of Directors shall appoint Officers of the Company to serve from the date of such appointment until the death, resignation or removal by the Board of Directors with or  without cause of such Officer. 
+ 6.04    Duties of Officers and Directors. Except as otherwise specifically provided in this Agreement or in the MLP Partnership Agreement, the duties and obligations owed to the Company and to the Board of Directors by the Officers of the Company and by members of the Board of Directors of the Company shall be the same as the respective duties and obligations owed to a corporation organized under  the Delaware General Corporation law by its officers and directors, respectively. 
+ 6.05    Compensation. The members of the Board of Directors who are neither Officers nor employees of the Company shall be entitled to compensation as directors and committee members as approved by the Board and shall be reimbursed for out-of-pocket expenses incurred in connection with attending meetings of the Board of Directors or committees thereof. 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.06    Indemnification . 
+ (a)To the fullest extent permitted by law but subject to the limitations expressly provided in this Agreement, all Indemnitees shall be indemnified and held harmless by the Company from and against any and all losses, claims, damages, liabilities, joint or several, expenses (including legal fees and expenses), judgments, fines, penalties, interest, settlements or other amounts arising from any and all claims, demands, actions, suits or proceedings, whether civil, criminal, administrative or investigative, in which any Indemnitee may be involved, or is threatened to be involved, as a party or otherwise, by reason of its status as an Indemnitee;   provided, that the Indemnitee shall not be indemnified and held harmless if there has been a final and non-appealable judgment entered by a court of competent jurisdiction determining that, in respect of the matter for which the Indemnitee is seeking indemnification pursuant to this Section 6.06, the Indemnitee acted in bad faith or engaged in fraud, willful misconduct or, in the case of a criminal matter, acted with knowledge that the Indemnitee's conduct was unlawful. Any indemnification pursuant to this Section 6.06 shall be made only out of the assets of the Company, it being agreed that the Members shall not be personally liable for such indemnification and shall have no obligation to contribute or loan any monies  or property to the Company to enable it to effectuate such indemnification. 
+ (b)To the fullest extent permitted by law, expenses (including legal fees and expenses) incurred by an Indemnitee who is indemnified pursuant to Section 6.06(a) in defending any claim, demand, action, suit or proceeding shall, from time to time, be advanced by the Company prior to a determination that the Indemnitee is not entitled to be indemnified upon receipt by the Company of any undertaking by or on behalf of the Indemnitee to repay such amount if it shall be determined that the Indemnitee is not entitled to be indemnified as author ized in this Section 6.06(b). 
+ (c)The indemnification provided by this Section 6.06 shall be in addition to any other rights to which an Indemnitee may be entitled under any agreement, as a matter of law or otherwise, both as to actions in the Indemnitee's capacity as an Indemnitee and as to actions in any other capacity (including any capacity under the Underwriting Agreement (as such term is defined in the Partnership Agreement)), and shall continue as to an Indemnitee who has ceased to serve in such capacity and shall inure to the benefit of the heirs, successors,  assigns and administrators of the Indemnitee. 
+ (d)The Company may purchase and maintain (or reimburse the General Partner or its Affiliates for the cost of) insurance on behalf of the Indemnitees, the Company and its Affiliates and such other Persons as the Company shall determine, against any liability that may be asserted against or expense that may be incurred by such Person in connection with the Company's activities or such Person's activities on behalf of the Company, regardless of whether the Company would have the power to indemnify such Person against such liability under th e provisions of this Agreement. 
+ (e)For purposes of this Section 6.06, the Company shall be deemed to have requested an Indemnitee to serve as fiduciary of an employee benefit plan whenever the performance by it of its duties to the Company also imposes duties on, or otherwise involves services by, it to the plan or participants or beneficiaries of the plan; excise taxes assessed on an Indemni tee with 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+respect to an employee benefit plan pursuant to applicable law shall constitute "fines" within the meaning of this Section 6.06; and action taken or omitted by it with respect to any employee benefit plan in the performance of its duties for a purpose reasonably believed by it to be in the best interest of the participants and beneficiaries of the plan shall  be deemed to be for a purpose that is in the best interests of the Company. 
+ (f)In no event may an Indemnitee subject the Members to personal liability by reason of the indemnification provisions set forth in this Agreement. 
+ (g)An Indemnitee shall not be denied indemnification in whole or in part under this Section 6.06 because the Indemnitee had an interest in the transaction with respect to which the in demnification applies if the transaction was otherwise permitted by the terms of this Agreement. 
+ (h)The provisions of this Section 6.06 are for the benefit of the Indemnitees, their heirs, successors, assigns and administrators and shall not be deemed to create any rights for the  benefit of any other Persons. 
+ (i)No amendment, modification or repeal of this Section 6.06 or any provision hereof shall in any manner terminate, reduce or impair the right of any past, present or future Indemnitee to be indemnified by the Company, nor the obligations of the Company to indemnify any such Indemnitee under and in accordance with the provisions of this Section 6.06 as in effect immediately prior to such amendment, modification or repeal with respect to claims arising from or relating to matters occurring, in whole or in part, prior to such amendment, mo dification or repeal, regardless of when such claims may arise or be asserted. 
+ (j)THE PROVISIONS OF THE INDEMNIFICATION PROVIDED IN THIS SECTION 6.06 ARE INTENDED BY THE PARTIES TO APPLY EVEN IF SUCH PROVISIONS HAVE THE EFFECT OF EXCULPATING THE INDEMNITEE FROM  LEGAL RESPONSIBILITY FOR THE CONSEQUENCES OF SUCH PERSON'S NEGLIGENCE, FAULT OR OTHER CONDUCT. 
+ 6.07    Liability of Indemnitees . 
+ (a)Notwithstanding anything to the contrary set forth in this Agreement or the MLP Agreement, no Indemnitee shall be liable for monetary damages to the Company, the MLP, the Members or any other Person, for losses sustained or liabilities incurred as a result of any act or omission of an Indemnitee unless there has been a final and non-appealable judgment entered by a court of competent jurisdiction determining that, in respect of the matter in question, the Indemnitee acted in bad faith or engaged in fraud, willful misconduct or, in the  case of a criminal matter, acted with knowledge that the Indemnitee's conduct was criminal. 
+ (b)Subject to its obligations and duties as set forth in this Article 6, the Board of Directors and any committee thereof may exercise any of the powers granted to it by this Agreement and perform any of the duties imposed upon it hereunder either directly or by or through the Company's Officers or agents, and neither the Board of Directors nor any committee th ereof 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+shall be responsible for any misconduct or negligence on the part of any such Officer or agent appointed by the Board of Directors or any committee thereof in good faith. 
+ (c)To the extent that, at law or in equity, an Indemnitee has duties (including fiduciary duties) and liabilities relating thereto to the Company or the Members, such Indemnitee acting in connection with the Company's business or affairs shall not be liable to the Company or to any Member for its good faith reliance on the provisions of this Agreement. 
+ (d)Any amendment, modification or repeal of this Section 6.07 or any provision hereof shall be prospective only and shall not in any way affect the limitations on the liability of the Indemnitees under this Section 6.07 as in effect immediately prior to such amendment, modification or repeal with respect to claims arising from or relating to matters occurring, in whole or in part, prior to such amendment, modification or repeal, regardless of when such claims may arise or be asserted. 
+ ARTICLE 7 
+ TAX MATTERS 
+ 7.01    Tax Returns and Tax Characterization . 
+ (a)The Board of Directors shall cause to be prepared and timely filed (on behalf of the Company) all federal, state and local tax returns required to be filed by the Company, including making all elections on such tax returns. The Company shall bear the costs of the preparation and filing of its returns. 
+ (b)The Company and the Member acknowledge that for federal income tax purposes, the Company has elected to be classified as an association taxable as a corporation pursuant to Treasur y Regulation Â§301.7701-3. 
+ 
+ ARTICLE 8 
+ BOOKS, RECORDS, REPORTS, AND BANK ACCOUNTS 
+ 8.01    Maintenance of Books . 
+ (a)The Board of Directors shall keep or cause to be kept at the principal office of the Company or at such other location approved by the Board of Directors complete and accurate books and records of the Company, supporting documentation of the transactions with respect to the conduct of the Company's business and minutes of the proceedings of the Board of Dire ctors and any other books and records that are required to be maintained by applicable law. 
+ (b)The books of account of the Company shall be maintained on the basis of a fiscal year that is the calendar year and on an accrual basis in accordance with United States generally a ccepted accounting principles, consistently applied. 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8.02    Reports. The Board of Directors shall cause to be prepared and delivered to each Member such reports, forecasts, studies, budgets and other information as the Members may reasonably reque st from time to time. 
+ 8.03    Bank Accounts. Funds of the Company shall be deposited in such banks or other depositories as shall be designated from time to time by the Board of Directors. All withdrawals from any such depository shall be made only as authorized by the Board of Directors and shall be made only by check, wire transfer, debit memorandum or other written instruction. 
+ 
+ ARTICLE 9 
+ DISSOLUTION, WINDING-UP AND TERMINATION 
+ 9.01    Dissolution . 
+ (a)Subject to compliance with Section 6.01(c), the Company shall dissolve and its affairs shall be wound up on the first to occur of the following events (each a " Dissolution Event "): 
+ (i) the receipt of Extraordinary Approval; 
+ (ii)the entry of a decree of judicial dissolution of the Company under Section 18-802 of the Delaware Act; and 
+ (iii)at any time there are no Members of the Company, unless the Company is continued in accordance with the Delaware Act or this Agreement. 
+ (b) No other event shall cause a dissolution of the Company. 
+ (c)Upon the occurrence of any event that causes there to be no Members of the Company, to the fullest extent permitted by law, the personal representative of the last remaining Member is hereby authorized to, and shall, within 90 days after the occurrence of the event that terminated the continued membership of such Member in the Company, agree in writing (i) to continue the Company and (ii) to the admission of the personal representative or its nominee or designee, as the case may be, as a substitute Member of the Company, effective as of the occurrence of the event that terminated the continued membership of such Member in the Company. 
+ (d)Notwithstanding any other provision of this Agreement, the Bankruptcy of a Member shall not cause such Member to cease to be a member of the Company, and, upon the occurrence of su ch an event, the Company shall continue without dissolution. 
+ 9.02    Winding-Up and Termination . 
+ (a)On the occurrence of a Dissolution Event, the Board of Directors shall select one or more Persons to act as liquidator. The liquidator shall proceed diligently to wind up the affairs of the Company and make final distributions as provided herein and in the Delaware Act. The costs 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+of winding up shall be borne as a Company expense. Until final distribution, the liquidator shall continue to operate the Company properties with all of the power and authority of  the Board of Directors. The steps to be accomplished by the liquidator are as follows: 
+ (i)as promptly as possible after dissolution and again after final winding up, the liquidator shall cause a proper accounting to be made by a recognized firm of certified public accountants of the Company's assets, liabilities, and operations through the last calendar day of the month in which the dissolution occurs or the final winding up is completed, as appl icable; 
+ (ii)the liquidator shall discharge from Company funds all of the debts, liabilities and obligations of the Company or otherwise make adequate provision for payment and discharge thereof (including the establishment of a cash escrow fund for contingent liabilities in such amount and for such term as the liquidator may reasonably determine); and 
+ (iii) all remaining assets of the Company shall be distributed to the Members as follows: 
+ (A) the liquidator may sell any or all Company property, including to Members; and 
+ (B) Company property (including cash) shall be distributed to the Members. 
+ (b)The distribution of cash or property to a Member in accordance with the provisions of this Section 9.02 constitutes a complete return to the Member of its Capital Contributions and a complete distribution to the Member of its share of all the Company's property and constitutes a compromise to which all Members have consented within the meaning of Section 18-502(b) of the Delaware Act. No Member shall be required to make any Capital Contribution to the Company to enable the Company to make the distributions described in this Section 9. 02. 
+ (c)  On completion of such final distribution, the liquidator shall file a certificate of cancellation with the Secretary of State of the State of Delaware and take such other actions a s may be necessary to terminate the existence of the Company. 
+ ARTICLE 10 
+ MERGER, CONSOLIDATION OR CONVERSION 
+ 10.01    Authority. Subject to compliance with Section 6.01(c), the Company may merge or consolidate with one or more corporations, limited liability companies, statutory trusts or associations, real estate investment trusts, common law trusts or unincorporated businesses, including a partnership (whether general or limited (including a limited liability partnership)) or convert into any such entity, whether such entity is formed under the laws of the State of Delaware or any other state of the United States of America, pursuant to a written agreement  of merger or consolidation (" Merger Agreement ") or a written plan of conversion (" Plan of Conversion"), as the case may be, in accordance with this Article 10. The surviving entity to any such merger, consolidation or conversion is referred to herein as the " Surviving Business Entity ." 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10.02    Procedure for Merger, Consolidation or Conversion . 
+ (a)The merger, consolidation or conversion of the Company pursuant to this Article 10 requires the prior approval of a majority of the Board of Directors and compliance with Section 1 0.03. 
+ (b)If the Board of Directors shall determine to consent to a merger or consolidation, the Board of Directors shall approve the Merger Agreement, which shall set forth: 
+ (i)the names and jurisdictions of formation or organization of each of the business entities proposing to merge or consolidate; 
+ (ii)the name and jurisdiction of formation or organization of the Surviving Business Entity that is to survive the proposed merger or consolidation; 
+ (iii) the terms and conditions of the proposed merger or consolidation; 
+ (iv)the manner and basis of exchanging or converting the equity securities of each constituent business entity for, or into, cash, property or interests, rights, securities or obligations of the Surviving Business Entity; and (A) if any general or limited partner interests, securities or rights of any constituent business entity are not to be exchanged or converted solely for, or into, cash, property or general or limited partner interests, rights, securities or obligations of the Surviving Business Entity, the cash, property or interests, rights, securities or obligations of any general or limited partnership, corporation, trust, limited liability company, unincorporated business or other entity (other than the Surviving Business Entity) which the holders of such general or limited partner interests, securities or rights are to receive in exchange for, or upon conversion of their interests, securities or rights, and (B) in the case of securities represented by certificates, upon the surrender of such certificates, which cash, property or general or limited partner interests, rights, securities or obligations of the Surviving Business Entity or any general or limited partnership, corporation, trust, limited liability company, unincorporated business or other entity (other than the Surviving Business Entity), or evidences thereof, are to be delivered; 
+ (v)a statement of any changes in the constituent documents or the adoption of new constituent documents (the articles or certificate of incorporation, articles of trust, declaration of trust, certificate or agreement of limited partnership, certificate of formation, limited liability company agreement or other similar charter or governing document) of the Survi ving Business Entity to be effected by such merger or consolidation; 
+ (vi)the effective time of the merger, which may be the date of the filing of the certificate of merger pursuant to Section 10.04 or a later date specified in or determinable in accordance with the Merger Agreement (provided, that if the effective time of the merger is to be later than the date of the filing of such certificate of merger, the effective time shall be fixed at a date or time certain at or prior to the time of the filing of such certificate of merger and stated therein); and 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (vii)such other provisions with respect to the proposed merger or consolidation as are deemed necessary or appropriate by the Board of Directors. 
+ (c)If the Board of Directors shall determine to consent to the conversion, the Board of Directors shall approve and adopt a Plan of Conversion containing such terms and conditions tha t the Board of Directors determines to be necessary or appropriate. 
+ 10.3    Approval by Members of Merger or Consolidation . 
+ (a)The Board of Directors, upon its approval of the Merger Agreement or Plan of Conversion, as the case may be, shall direct that the Merger Agreement or the Plan of Conversion, as applicable, be submitted to a vote of the Members, whether at a meeting or by written consent. A copy or a summary of the Merger Agreement or the Plan of Conversion, as applicable, s hall be included in or enclosed with the notice of a special meeting or the written consent. 
+ (b)The Merger Agreement or the Plan of Conversion, as applicable, shall be approved upon receiving the affirmative vote or consent of the holders of a majority of the Members. 
+ (c)After such approval by vote or consent of the Members, and at any time prior to the filing of the certificate of merger, consolidation or conversion pursuant to Section 10.04, the merger, consolidation or conversion may be abandoned pursuant to provisions therefor, if any, set forth in the Merger Agreement or the Plan of Conversion, as the case may be. 
+ 10.4    Certificate of Merger, Consolidation or Conversion . 
+ (a)Upon the required approval, if any, by the Board of Directors and the Members of a Merger Agreement or a Plan of Conversion, as the case may be, a certificate of merger, consolidation or conversion, as applicable, shall be executed and filed with the Secretary of State of the State of Delaware in conformity with the requirements of the Delaware Act. 
+ (b)   At the effective time of the certificate of merger or consolidation: 
+ (i)all of the rights, privileges and powers of each of the business entities that has merged or consolidated, and all property, real, personal and mixed, and all debts due to any of those business entities and all other things and causes of action belonging to each of those business entities shall be vested in the Surviving Business Entity and after the merger or consolidation shall be the property of the Surviving Business Entity to the extent they were property of each constituent business entity; 
+ (ii)the title to any real property vested by deed or otherwise in any of those constituent business entities shall not revert and is not in any way impaired because of the merger or co nsolidation; 
+ (iii)all rights of creditors and all liens on or security interest in property of any of those constituent business entities shall be preserved unimpaired; and 
+ (iv) all debts, liabilities and duties of those constituent business entities 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+shall attach to the Surviving Business Entity, and may be enforced against it to the same extent as if the debts, liabilities and duties had been incurred or contracted by it. 
+ (c) At the effective time of the certificate of conversion: 
+ (i)the Company shall continue to exist, without interruption, but in the organizational form of the converted entity rather than in its prior organizational form; 
+ (ii)all rights, title, and interests to all real estate and other property owned by the Company shall continue to be owned by the converted entity in its new organizational form without reversion or impairment, without further act or deed, and without any transfer or assignment having occurred, but subject to any existing liens or other encumbrances thereon; 
+ (iii)all liabilities and obligations of the Company shall continue to be liabilities and obligations of the converted entity in its new organizational form without impairment or diminut ion by reason of the conversion; 
+ (iv)all rights of creditors or other parties with respect to or against the prior interest holders or other owners of the Company in their capacities as such in existence as of the effective time of the conversion will continue in existence as to those liabilities and obligations and may be pursued by such creditors and obligees as if the conversion did not occu r; 
+ (v)a proceeding pending by or against the Company or by or against any of the Members in their capacities as such may be continued by or against the converted entity in its new organi zational form and by or against the prior members without any need for substitution of parties; and 
+ (vi)the Company securities that are to be converted into partnership interests, shares, evidences of ownership, or other securities in the converted entity as provided in the Plan of Conversion or certificate of conversion shall be so converted, and the Members shall be entitled only to the rights provided in the Plan of Conversion or certificate of conversion. 
+ (d)A merger, consolidation or conversion effected pursuant to this Article 10 shall not (i) be deemed to result in a transfer or assignment of assets or liabilities from one entity to another having occurred or (ii) require the Company (if it is not the Surviving Business Entity) to wind up its affairs, pay its liabilities or distribute its assets as required u nder Article 9 of this Agreement or under the applicable provisions of the Delaware Act. 
+ 
+ ARTICLE 11 
+ GENERAL PROVISIONS 
+ 11.01    Notices. Except as expressly set forth to the contrary in this Agreement, all notices, requests or consents provided for or permitted to be given under this Agreement must be in writing and must be delivered to the recipient in person, by courier or mail or by facsimile or other electronic transmission and a notice, request or consent given under this Agreement is  effective on receipt by 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the Person to receive it; provided, however, that a facsimile or other electronic transmission that is transmitted after the normal business hours of the recipient shall be deemed effective on the next Business Day. All notices, requests and consents to be sent to a Member must be sent to or made at the addresses given for that Member as that Member may specify by notice to the other Members. Any notice, request or consent to the Company must be given to all of the Members. Whenever any notice is required to be given by applicable law, the Organizational Certificate or this Agreement, a written waiver thereof, signed by the Person entitled to notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice. Whenever any notice is required to be given by law, the Organizational Certificate or this Agreement, a written waiver thereof, signed by the Person entitled to notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice. 
+ 11.02    Entire Agreement; Supersedure. This Agreement constitutes the entire agreement of the Members and their respective Affiliates relating to the subject matter hereof and supersedes all prior contracts or agreeme nts with respect to such subject matter, whether oral or written. 
+ 11.03    Effect of Waiver or Consent. Except as provided in this Agreement, a waiver or consent, express or implied, to or of any breach or default by any Person in the performance by that Person of its obligations with respect to the Company is not a consent or waiver to or of any other breach or default in the performance by that Person of the same or any other obligations of that Person with respect to the Company. Except as provided in this Agreement, failure on the part of a Person to complain of any act of any Person or to declare any Person in default with respect to the Company, irrespective of how long that failure continues, does not constitute a waiver by that Person of its rights with respect to that default until the applicable statu te-of-limitations period has run. 
+ 11.04    Amendment or Restatement . This Agreement may be amended or restated only by a written instrument executed by all Members. 
+ 11.05    Binding Effect. This Agreement is binding on and shall inure to the benefit of the Members and their respective heirs, legal representatives, successors and assigns. 
+ 11.06    Governing Law; Severability. THIS AGREEMENT IS GOVERNED BY AND SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAW OF THE STATE OF DELAWARE, EXCLUDING ANY CONFLICT-OF-LAWS RULE OR PRINCIPLE THAT MIGHT REFER THE GOVERNANCE OR THE CONSTRUCTION OF THIS AGREEMENT TO THE LAW OF ANOTHER JURISDICTION. In the event of a direct conflict between the provisions of this Agreement and (a) any provision of the Organizational Certificate, or (b) any mandatory, non-waivable provision of the Delaware Act, such provision of the Organizational Certificate or the Delaware Act shall control. If any provision of the Delaware Act provides that it may be varied or superseded in the limited liability company agreement (or otherwise by agreement of the members or managers of a limited liability company), such provision shall be deemed superseded and waived in its entirety if this Agreement contains a provision addressing the same issue or subject matter. If any provision of this Agreement or the application thereof to any Person or circumstance is held invalid or unenforceable to any extent, (a) the remainder of this Agreement and the application of that provision to other Persons or circumstances is not affected thereby and that provision shall be enforced to the greatest extent permitted by law,  and (b) the Members or Directors (as the case may 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+be) shall negotiate in good faith to replace that provision with a new provision that is valid and enforceable and that puts the Members in substantially the same economic, business and legal position as they would have been in if the original provision had been valid and enforceable. 
+ 11.07    Further Assurances. In connection with this Agreement and the transactions contemplated hereby, each Member shall execute and deliver any additional documents and instruments and perform any additional acts that may be necessary or appropriate to effectuate and perform the provisions of this Agreement and those transactions. 
+ 11.08    Offset. Whenever the Company is to pay any sum to any Member, any amounts that a Member owes the Company may be deducted from that sum before payment. 
+ 11.09    Counterparts. This Agreement may be executed in any number of counterparts, including facsimile or e-mail counterparts, with the same effect as if all signing parties had signed the same docum ent. All counterparts shall be construed together and constitute the same instrument. 
+ [ Signature Page Follows ] 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, this Agreement has been duly executed by the sole Member and is effective as of the date first set forth above. 
+ MEMBER : 
+ 
+ SPECTRA ENERGY TRANSMISSION, LLC 
+ 
+ 
+ By:   /s/    GUY G. BUCKLEY                      
+ Name:     Guy G. Buckley 
+ Title:     Vice President 
+ 
+ 
+ 
+ [SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED 
+ LIMITED LIABILITY COMPANY AGREEMENT] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Attachment I 
+ Defined Terms 
+ Affiliate  - with respect to any Person, each Person Controlling, Controlled by or under common Control with such first Person. 
+ Agreement  - this Fifth Amended and Restated Limited Liability Company Agreement of Spectra Energy Partners GP, LLC, as the same may be amended, modified, supplemented or restated from time t o time. 
+ Audit Committee   - Section 6.02(e). 
+ Available Cash  - as of any Distribution Date, (a) all cash and cash equivalents of the Company on hand on such date, less (b) the amount of any cash reserves determined to be appropriate by the B oard of Directors. 
+ Bankruptcy   or   Bankrupt  - with respect to any Person, that (a) such Person (i) makes an assignment for the benefit of creditors; (ii) files a voluntary petition in bankruptcy; (iii) is insolvent, or has entered against such Person an order for relief in any bankruptcy or insolvency proceeding; (iv) files a petition or answer seeking for such Person any reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief under any law; (v) files an answer or other pleading admitting or failing to contest the material allegations of a petition filed against such Person in a proceeding of the type described in subclauses (i) through (iv) of this clause (a); or (vi) seeks, consents to or acquiesces in the appointment of a trustee, receiver or liquidator of such Person or of all or any substantial part of such Person's properties; or (b) 120 Days have passed after the commencement of any proceeding seeking reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief under any law, if the proceeding has not been dismissed, or 90 Days have passed after the appointment without such Person's consent or acquiescence of a trustee, receiver or liquidator of such Person or of all or any substantial part of such Person's properties, if the appointment is not vacated or stayed, or 90 Days have passed after the date of expiration of any such stay, if the appointment has not been vacated. 
+ Board of Directors   or   Board   - Section 6.01(a). 
+ Business Day  - any Day other than a Saturday, a Sunday or a Day on which national banking associations in the State of Texas are authorized or required by law to close. 
+ Capital Contribution   - Section 4.01. 
+ Class B Units   - has the meaning ascribed to such term in the MLP Partnership Agreement. 
+ Commitment  - means (a) options, warrants, convertible securities, exchangeable securities, subscription rights, conversion rights, exchange rights, or other contracts, agreements or commitmen ts that could require a Person to issue any of its Equity Interests or to sell any 
+ 
+ 
+ A-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equity Interests it owns in another Person; (b) any other securities convertible into, exchangeable or exercisable for, or representing the right to subscribe for any Equity Interest of a Person or owned by a Person; (c) statutory or contractual pre-emptive rights or pre-emptive rights granted under a Person's organizational or constitutive documents; and (d) stock appreciation rights, phantom stock, profit participation, or other similar rights with respect to a Person. 
+ Common Unit   - has the meaning ascribed to such term in the MLP Partnership Agreement. 
+ Company   - initial paragraph of this Agreement. 
+ Conflicts Committee   - Section 6.02(e)(ii). 
+ Contribution Agreement   - has the meaning ascribed to such term in the MLP Partnership Agreement. 
+ Control  - means the possession, directly or indirectly, of the power and authority to direct or cause the direction of the management and policies of a Person, whether through ownership or  control of Voting Stock, by contract or otherwise. 
+ Day  - a calendar day; provided, however, that, if any period of Days referred to in this Agreement shall end on a Day that is not a Business Day, then the expiration of such period sha ll be automatically extended until the end of the first succeeding Business Day. 
+ Delaware Act  - the Delaware Limited Liability Company Act and any successor statute, as amended from time to time. 
+ Delaware General Corporation Law   - Title 8 of the Delaware Code, as amended from time to time. 
+ Delegation of Authority Policy- means the Delegation of Authority Policy adopted by the Board of Directors on November 1, 2013, as amended from time to time. 
+ Director   - each member of the Board of Directors elected as provided in Section 6.02. 
+ Dissolution Event   - Section 9.01(a). 
+ Distribution Date   - Section 5.01. 
+ Effective Date   - initial paragraph of this Agreement. 
+ Equity Interest  - (a) with respect to a corporation, any and all shares of capital stock and any Commitments with respect thereto, (b) with respect to a partnership, limited liability company, trust or similar Person, any and all units, interests or other partnership, limited liability company, trust or similar interests, and any Commitments with respect thereto, and (c) any other direct or indirect equity ownership or participation in a Person (including any incentive distribution rights). 
+ 
+ 
+ A-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Existing Agreement   - Recitals. 
+ Extraordinary Approval   - written approval of SET. 
+ Group Member   - means any of the MLP and its Subsidiaries. 
+ Incentive Distribution Rights   - has the meaning ascribed thereto in the MLP Partnership Agreement. 
+ Indemnitee  - each of (a) the Members, (b) any Person who is or was an Affiliate of the Company (other than SEP GP or any Group Member), (c) any Person who is or was a member, partner, director, officer, fiduciary or trustee of the Company or any Affiliate of the Company, (d) any Person who is or was serving at the request of the Company or any Affiliate of the Company as an officer, director, member, partner, fiduciary or trustee of another Person; provided that a Person shall not be an Indemnitee by reason of providing, on a fee-for-services basis, trustee, fiduciary or custodial services, and (e) any Person the Company designates as an "Indemnitee" for purposes of this Agreement. 
+ Independent Director   - Section 6.02(a). 
+ Liability  - any liability or obligation, whether known or unknown, asserted or unasserted, absolute or contingent, matured or unmatured, conditional or unconditional, latent or patent, accru ed or unaccrued, liquidated or unliquidated, or due or to become due. 
+ Member  - any Person executing this Agreement as of the date of this Agreement as a member or hereafter admitted to the Company as a member as provided in this Agreement, but such term doe s not include any Person who has ceased to be a member in the Company. 
+ Membership Interest  - with respect to any Member, (a) that Member's status as a Member; (b) that Member's share of the income, gain, loss, deduction and credits of, and the right to receive distributions from, the Company; (c) all other rights, benefits and privileges enjoyed by that Member (under the Delaware Act, this Agreement or otherwise) in its capacity as a Member; and (d) all obligations, duties and liabilities imposed on that Member (under the Delaware Act, this Agreement or otherwise) in its capacity as a Member, including any obligations to ma ke Capital Contributions. 
+ Merger Agreement   - Section 10.01. 
+ MLP   - Spectra Energy Partners, LP, a Delaware limited partnership. 
+ MLP Interests  - the limited partner interests of the MLP, regardless of class or category of limited partner interests. 
+ MLP Partnership Agreement  - the First Amended and Restated Agreement of Limited Partnership of the MLP, dated July 2, 2007, as amended, supplemented, amended and restated, or otherwise modified from time to  time. 
+ 
+ 
+ A-3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ National Securities Exchange   - has the meaning ascribed to such term in the MLP Partnership Agreement. 
+ Officers  - any person elected as an officer of the Company as provided in Section 6.03(a), but such term does not include any person who has ceased to be an officer of the Company. 
+ Omnibus Agreement  - the Omnibus Agreement, dated July 2, 2007, among the Company, SEP GP, the MLP and Spectra Energy Corp, as amended, supplemented, amended and restated, or otherwise modified from  time to time. 
+ Organizational Certificate   - Section 2.01. 
+ Partnership Securities   - has the meaning ascribed to such term in the MLP Partnership Agreement. 
+ Person  - a natural person, partnership (whether general or limited), limited liability company, governmental entity, trust, estate, association, corporation, venture, custodian, nominee o r any other individual or entity in its own or any representative capacity. 
+ Plan of Conversion   - Section 10.01. 
+ Quarter   - unless the context requires otherwise, a calendar quarter. 
+ SEC   - the United States Securities and Exchange Commission. 
+ SEP GP   - Spectra Energy Partners (DE) GP, LP, as the general partner of the MLP. 
+ SEP GP Agreement  - the First Amended and Restated Agreement of Limited Partnership of Spectra Energy Partners (DE) GP, LP, dated effective as of July 2, 2007, as amended, supplemented, amended and  restated, or otherwise modified from time to time. 
+ SESPC   - Recitals of this Agreement. 
+ SET   - initial paragraph of this Agreement. 
+ Special Approval   - approval by a majority of the members of the Conflicts Committee acting in good faith. 
+ Subsidiary  - with respect to any relevant Person, (a) a corporation of which more than 50% of the Voting Stock is owned, directly or indirectly, at the date of determination, by such relevant Person, by one or more Subsidiaries of such relevant Person or a combination thereof, (b) a partnership (whether general or limited) in which such relevant Person, one or more Subsidiaries of such relevant Person or a combination thereof is, at the date of determination, a general or limited partner of such partnership, but only if more than 50% of the partnership interests of such partnership (considering all of the partnership interests of the partnership as a single class) is owned, directly or indirectly, at the date of determination, by such relevant Person, by one or more Subsidiaries of such relevant Person, or a combination thereof, or (c) any 
+ 
+ 
+ A-4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+other Person (other than a corporation or a partnership) in which such relevant Person, one or more Subsidiaries of such relevant Person, or a combination thereof, directly or indirectly, at the date of determination, has (i) at least a majority ownership interest or (ii) the power to elect or direct the election of a majority of the directors or other gover ning body of such other Person. 
+ Surviving Business Entity   - Section 10.01. 
+ Underwriting Agreement   - has the meaning ascribed to such term in the MLP Partnership Agreement. 
+ Units   - has the meaning ascribed to such term in the MLP Partnership Agreement. 
+ Voting Stock  - with respect to any Person, Equity Interests in such Person, the holders of which are ordinarily, in the absence of contingencies, entitled to vote for the election of, or otherwise appoint, directors (or Persons with management authority performing similar functions) of such Person. 
+ Withdraw, Withdrawing   or   Withdrawal   - the withdrawal, resignation or retirement of a Member from the Company as a Member. 
+ 
+ 
+ 
+ A-5 
+ 

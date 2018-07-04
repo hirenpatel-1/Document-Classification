@@ -1,0 +1,479 @@
+ htm 140617 Material contracts 10 2017-03-31T16:32:29.94804-05:00 Filing 0001193125-17-106850 2017-03-31 10-K Annual  & Quarterly Reports 0001605997 Northern Power Systems Corp. NRTHF ORD SHS (CANADA) OTC 3511 Steam, Gas  & Hydraulic Turbines No VERMONT BRITISH COLUMBIA, CANADA Non-US false Small Reporting Company 000-55184 EX-10.17 Exhibit Exhibit 5 d348161dex1017.htm EX-10.17 5 d348161dex1017.htm EX-10.17 
+ Exhibit 10.17 
+ E XPORT -I MPORT  B ANK   OF   THE  U NITED  S TATES 
+ W ORKING  C APITAL  G UARANTEE  P ROGRAM 
+ B ORROWER  A GREEMENT 
+   
+ Ex-Im Bank 12/31/05 
+ 
+ 
+ TABLE OF CONTENTS 
+   
+ 
+ ARTICLE I DEFINITIONS 
+      1   
+ 1.01 Definition of Terms 
+      1   
+ 1.02 Rules of Construction 
+      14   
+ 1.03 Incorporation of Recitals 
+      15   
+ ARTICLE II OBLIGATIONS OF BORROWER 
+      15   
+ 2.01 Use of Credit Accommodations 
+      15   
+ 2.02 Security Interests 
+      15   
+ 2.03 Loan Documents and Loan Authorization Agreement 
+      16   
+ 2.04 Export-Related Borrowing Base Certificates and Export Orders 
+      16   
+ 2.05 Schedules, Reports and Other Statements 
+      16   
+ 2.06 Exclusions from the Export-Related Borrowing Base 
+      16   
+ 2.07 Borrowings and Reborrowings 
+      17   
+ 2.08 Repayment Terms 
+      17   
+ 2.09 Financial Statements 
+      17   
+ 2.10 Additional Security or Payment 
+      17   
+ 2.11 Continued Security Interest 
+      18   
+ 2.12 Inspection of Collateral and Facilities 
+      18   
+ 2.13 General Intangibles 
+      19   
+ 2.14 Economic Impact Approval 
+      19   
+ 2.15 Indirect Exports 
+      20   
+ 2.16 Overseas Inventory and Accounts Receivable 
+      20   
+ 2.17 Country Limitation Schedule 
+      21   
+ 2.18 Notice of Certain Event 
+      21   
+ 2.19 Insurance 
+      22   
+ 2.20 Taxes 
+      22   
+ 2.21 Compliance with Laws 
+      22   
+ 2.22 Negative Covenants 
+      22   
+ 2.23 Cross Default 
+      22   
+ 2.24 Munitions List 
+      22   
+ 2.25 Suspension and Debarment, etc. 
+      23   
+   
+ i                                                          Ex-Im Bank 12/31/05 
+ 
+ 
+ 
+ ARTICLE III RIGHTS AND REMEDIES 
+      23   
+ 3.01 Indemnification 
+      23   
+ 3.02 Liens 
+      23   
+ ARTICLE IV MISCELLANEOUS 
+      24   
+ 4.01 Governing Law 
+      24   
+ 4.02 Notification 
+      24   
+ 4.03 Partial Invalidity 
+      24   
+ 4.04 Waiver of Jury Trial 
+      24   
+ 4.05 Consequential Damages 
+      24   
+   
+ ii                                                          Ex-Im Bank 12/31/05 
+ 
+ 
+ E XPORT -I MPORT  B ANK   OF   THE  U NITED  S TATES 
+ W ORKING  C APITAL  G UARANTEE  P ROGRAM 
+ B ORROWER  A GREEMENT 
+THIS BORROWER AGREEMENT (this "Agreement") is made and entered into by the entity identified as Borrower on the signature page hereof ("Borrower") in favor of the Export-Import Bank of the United States ("Ex-Im Bank") and the institution identified as Lender on the signature page hereof ("Lender"). 
+ RECITALS 
+Borrower has requested that Lender establish a Loan Facility in favor of Borrower for the purposes of providing Borrower with working capital to finance the manufacture, production  or purchase and subsequent export sale of Items. 
+Lender and Borrower expect that Ex-Im Bank will provide a guarantee to Lender regarding this Loan Facility subject to the terms and conditions of the Master Guarantee Agreement, a Loan Authorization Agreement, and to the extent applicable, the Delegated Authority Letter Agreement or Fast Track Lender Agreement. 
+Lender and Ex-Im Bank have requested that Borrower execute this Agreement as a condition precedent to Lender establishing the Loan Facility and Ex-Im Bank providing the guarantee. 
+ NOW, THEREFORE, Borrower hereby agrees as follows: 
+ ARTICLE I 
+ DEFINITIONS 
+ 1.01  Definition of Terms. As used in this Agreement, including the Recitals to this Agreement and the Loan Authorization Agreement, the following terms shall have the following meanings: 
+"Accounts Receivable" shall mean all of Borrower's now owned or hereafter acquired (a) "accounts" (as such term is defined in the UCC), other receivables, book debts and other forms of obligations, whether arising out of goods sold or services rendered or from any other transaction; (b) rights in, to and under all purchase orders or receipts for goods or services; (c) rights to any goods represented or purported to be represented by any of the foregoing (including unpaid sellers' rights of rescission, replevin, reclamation and stoppage in transit and rights to returned, reclaimed or repossessed goods); (d) moneys due or to become due to such Borrower under all purchase orders and contracts (which includes Export Orders) for the sale of goods or the performance of services or both by Borrower (whether or not yet earned by performance on the part of Borrower), including the proceeds of the foregoing; (e) any notes, drafts, letters of credit, insurance proceeds or other instruments, documents and writings evidencing or supporting the foregoing; and (f) all collateral security and guarantees of any kind given by any other Person with respect to any of the foregoing. 
+   
+                                                          Ex-Im Bank 12/31/05 
+ 
+ 
+"Accounts Receivable Aging Report" shall mean a report detailing the Export-Related Accounts Receivable and Export-Related Overseas Accounts Receivable for a Loan Facility, and the applicable terms for the relevant time period; in the case of Indirect Exports, such report shall indicate the portion of such Accounts Receivables corresponding to Indirect Expor ts. 
+"Advance Rate" shall mean, with respect to a Loan Facility, the rate specified in Section 5.C. of the Loan Authorization Agreement for each category of Primary Collateral except for Export-Related General Intangibles and Other Collateral. Unless otherwise set forth in writing by Ex-Im Bank, in no event shall the Advance Rate exceed (i) ninety percent (90%) for Eligible Export-Related Accounts Receivable, (ii) seventy five percent (75%) for Eligible Export-Related Inventory, (iii) seventy percent (70%) for Eligible Export-Related Overseas Accounts Receivable or (iv) sixty percent (60%) for Eligible Export-Related Overseas Inventory and (v) twenty five percent (25%) for Retainage Accounts Receivable. 
+ "Affiliated Foreign Person" shall have the meaning set forth in Section 2.15. 
+"Business Day" shall mean any day on which the Federal Reserve Bank of New York is open for business. 
+"Buyer" shall mean a Person that has entered into one or more Export Orders with Borrower or who is an obligor on Export-Related Accounts Receivable or Export-Related Overseas Acco unts Receivable. 
+"Capital Good" shall mean a capital good (e.g., manufacturing equipment, licensing agreements) that will establish or expand foreign production capacity of an exportable good. 
+"Collateral" shall mean all real and personal property and interest in real and personal property in or upon which Lender has been, or shall be, granted a Lien as security for the  payment of all the Loan Facility Obligations and all products and proceeds (cash and  non-cash)  thereof. 
+"Commercial Letters of Credit" shall mean those letters of credit subject to the UCP payable in Dollars and issued or caused to be issued by Lender on behalf of Borrower under a Loan Facility for the benefit of a supplier(s) of Borrower in connection with Borrower's purchase of goods or services from the supplier in support of the export of the Items. 
+"Country Limitation Schedule" shall mean the schedule published from time to time by Ex-Im Bank setting forth on a country by country basis whether and under what conditions  Ex-Im  Bank will provide coverage for the financing of export transactions to countries listed therein. 
+"Credit Accommodation Amount" shall mean, the sum of (a) the aggregate outstanding amount of Disbursements and (b) the aggregate outstanding Letter of Credit Obligations, which sum  may not exceed the Maximum Amount. 
+ "Credit Accommodations" shall mean, collectively, Disbursements and Letter of Credit Obligations. 
+   
+ 2 
+ 
+ 
+"Debarment Regulations" shall mean, collectively, (a) the Governmentwide Debarment and Suspension (Nonprocurement) regulations (Common Rule), 53 Fed. Reg. 19204 (May 26, 1988), (b) Subpart 9.4 (Debarment, Suspension, and Ineligibility) of the Federal Acquisition Regulations, 48 C.F.R.  9.400-9.409 and (c) the revised Governmentwide Debarment and Suspension (Nonprocurement) regulations (Common Rule), 60 Fed. Reg. 33037 (June 26, 1995). 
+"Delegated Authority Letter Agreement" shall mean the Delegated Authority Letter Agreement, if any, between Ex-Im Bank and Lender. 
+"Disbursement" shall mean, collectively, (a) an advance of a working capital loan from Lender to Borrower under the Loan Facility, and (b) an advance to fund a drawing under a Letter of Credit issued or caused to be issued by Lender for the account of Borrower under the Loan Facility. 
+ "Dollars" or "$" shall mean the lawful currency of the United States. 
+"Economic Impact Approval" shall mean a written approval issued by Ex-Im Bank stating the conditions under which a Capital Good may be included as an Item in a Loan Facility consistent with Ex-Im Bank's economic impact procedures (or other mechanism for making this determination that Ex-Im Bank notifies Lender of in writing). 
+ "Economic Impact Certification" shall have the meaning set forth in Section 2.14(b). 
+"Effective Date" shall mean the date on which (a) all of the Loan Documents have been executed by Lender, Borrower and, if applicable, Ex-Im Bank and (b) all of the conditions to the making of the initial Credit Accommodations under the Loan Documents or any amendments thereto have been satisfied. 
+"Eligible Export-Related Accounts Receivable" shall mean Export-Related Accounts Receivable which are acceptable to Lender and which are deemed to be eligible pursuant to the Loan Documents, but in no event shall Eligible Export-Related Accounts Receivable include any Account Receivable: 
+ (a) that does not arise from the sale of Items in the ordinary course of Borrower's business; 
+ (b) that is not subject to a valid, perfected first priority Lien in favor of Lender; 
+(c) as to which any covenant, representation or warranty contained in the Loan Documents with respect to such Account Receivable has been breached; 
+(d) that is not owned by Borrower or is subject to any right, claim or interest of another Person other than the Lien in favor of Lender; 
+ (e) with respect to which an invoice has not been sent; 
+ (f) that arises from the sale of defense articles or defense services; 
+   
+ 3 
+ 
+ 
+(g) that arises from the sale of Items to be used in the construction, alteration, operation or maintenance of nuclear power, enrichment, reprocessing, research or heavy water prod uction facilities unless with Ex-Im Bank's prior written consent; 
+(h) that is due and payable from a Buyer located in a country with which Ex-Im Bank is prohibited from doing business as designated in the Country Limitation Schedule; 
+ (i) that does not comply with the requirements of the Country Limitation Schedule; 
+ (j) that is due and payable more than one hundred eighty (180) days from the date of the invoice; 
+(k) that is not paid within sixty (60) calendar days from its original due date, unless it is insured through Ex-Im Bank export credit insurance for comprehensive commercial and political risk, or through Ex-Im Bank approved private insurers for comparable coverage, in which case it is not paid within ninety (90) calendar days from its due date; 
+(l) of a Buyer for whom fifty percent (50%) or more of the Accounts Receivable of such Buyer do not satisfy the requirements of subclauses (j) and (k) above; 
+(m) that arises from a sale of goods to or performance of services for an employee of Borrower, a stockholder of Borrower, a subsidiary of Borrower, a Person with a controlling int erest in Borrower or a Person which shares common controlling ownership with Borrower; 
+(n) that is backed by a letter of credit unless the Items covered by the subject letter of credit have been shipped; 
+ (o) that Lender or Ex-Im Bank, in its reasonable judgment, deems uncollectible for any reason; 
+(p) that is due and payable in a currency other than Dollars, except as may be approved in writing by Ex-Im Bank; 
+(q) that is due and payable from a military Buyer, except as may be approved in writing by Ex-Im Bank; 
+(r) that does not comply with the terms of sale set forth in Section 7 of the Loan Authorization Agreement; 
+(s) that is due and payable from a Buyer who (i) applies for, suffers, or consents to the appointment of, or the taking of possession by, a receiver, custodian, trustee or liquidator of itself or of all or a substantial part of its property or calls a meeting of its creditors, (ii) admits in writing its inability, or is generally unable, to pay its debts as they become due or ceases operations of its present business, (iii) makes a general assignment for the benefit of creditors, (iv) commences a voluntary case under any state or federal bankruptcy laws (as now or hereafter in effect), (v) is adjudicated as bankrupt or insolvent, (vi) files a petition seeking to take advantage of any other law providing for the relief of debtors, (vii) acquiesces to, or fails to have dismissed, any petition which is filed against it in any involuntary case under such bankruptcy laws, or (viii) takes any  action for the purpose of effecting any of the foregoing; 
+   
+ 4 
+ 
+ 
+ (t) that arises from a  bill-and-hold,  guaranteed sale,  sale-and-return, sale on approval, consignment or any other repurchase or return basis or is evidenced by chattel paper; 
+(u) for which the Items giving rise to such Accounts Receivable have not been shipped to the Buyer or when the Items are services, such services have not been performed or when the Export Order specifies a timing for invoicing the Items other than shipment or performance and the Items have not been invoiced in accordance with such terms of the Export Order,  or the Accounts Receivable otherwise do not represent a final sale; 
+(v) that is subject to any offset, deduction, defense, dispute, or counterclaim or the Buyer is also a creditor or supplier of Borrower or the Account Receivable is contingent in a ny respect or for any reason; 
+(w) for which Borrower has made any agreement with the Buyer for any deduction therefrom, except for discounts or allowances made in the ordinary course of business for prompt payment, all of which discounts or allowances are reflected in the calculation of the face value of each respective invoice related thereto; 
+(x) for which any of the Items giving rise to such Account Receivable have been returned, rejected or repossessed; 
+(y) that is included as an eligible receivable under any other credit facility to which Borrower is a party; 
+(z) any of the Items giving rise to such Accounts Receivable are Capital Goods, unless the transaction is in accordance with Section 2.14; 
+(aa) that is due and payable from a Buyer that is, or is located in, the United States; provided however, that this subsection (aa) shall not preclude an Export-Related Accounts Receivable arising from the sale of Items to foreign contractors or subcontractors providing services to a United States Embassy or the United States Military located overseas from b eing deemed an Eligible Export-Related Accounts Receivable; or 
+(bb) that arises from the sale of Items that do not meet the U.S. Content requirements in accordance with Section 2.01(b)(ii). 
+"Eligible Export-Related Inventory" shall mean Export-Related Inventory which is acceptable to Lender and which is deemed to be eligible pursuant to the Loan Documents, but in no e vent shall Eligible Export-Related Inventory include any Inventory: 
+ (a) that is not subject to a valid, perfected first priority Lien in favor of Lender; 
+ (b) that is located at an address that has not been disclosed to Lender in writing; 
+   
+ 5 
+ 
+ 
+(c) that is placed by Borrower on consignment or held by Borrower on consignment from another Person; 
+(d) that is in the possession of a processor or bailee, or located on premises leased or subleased to Borrower, or on premises subject to a mortgage in favor of a Person other than Lender, unless such processor or bailee or mortgagee or the lessor or sublessor of such premises, as the case may be, has executed and delivered all documentation which Lender shall require to evidence the subordination or other limitation or extinguishment of such Person's rights with respect to such Inventory and Lender's right to gain access thereto; 
+(e) that is produced in violation of the Fair Labor Standards Act or subject to the "hot goods" provisions contained in 29 U.S.C. Â§215 or any successor statute or section; 
+(f) as to which any covenant, representation or warranty with respect to such Inventory contained in the Loan Documents has been breached; 
+(g) that is not located in the United States unless expressly permitted by Lender, on terms acceptable to Lender; 
+(h) that is an Item or is to be incorporated into Items that do not meet U.S. Content requirements in accordance with Section 2.01 (b)(ii); 
+ (i) that is demonstration Inventory; 
+(j) that consists of proprietary software (i.e. software designed solely for Borrower's internal use and not intended for resale); 
+ (k) that is damaged, obsolete, returned, defective, recalled or unfit for further processing; 
+ (l) that has been previously exported from the United States; 
+(m) that constitutes, or will be incorporated into Items that constitute, defense articles or defense services; 
+(n) that is an Item or will be incorporated into Items that will be used in the construction, alteration, operation or maintenance of nuclear power, enrichment, reprocessing, resea rch or heavy water production facilities unless with Ex-Im Bank's prior written consent; 
+(o) that is an Item or is to be incorporated into Items destined for shipment to a country as to which Ex-Im Bank is prohibited from doing business as designated in the Country Lim itation Schedule; 
+(p) that is an Item or is to be incorporated into Items destined for shipment to a Buyer located in a country in which Ex-Im Bank coverage is not available for commercial reasons as designated in the Country Limitation Schedule, unless and only to the extent that such Items are to be sold to such country on terms of a letter of credit confirmed by a bank acc eptable to Ex-Im Bank; 
+   
+ 6 
+ 
+ 
+(q) that constitutes, or is to be incorporated into, Items whose sale would result in an Accounts Receivable which would not be an Eligible Export-Related Accounts Receivable; 
+(r) that is included as eligible inventory under any other credit facility to which Borrower is a party; or 
+(s) that is, or is to be incorporated into, an Item that is a Capital Good, unless the transaction is in accordance with Section 2.14. 
+"Eligible Export-Related Overseas Accounts Receivable" shall mean Export-Related Overseas Accounts Receivable which are acceptable to Lender and which are deemed to be eligible pursuant to the Loan Documents but in no event shall include the Accounts Receivable (a) through (bb) excluded from the definition of Eligible Export-Related Accounts Receivable. 
+"Eligible Export-Related Overseas Inventory" shall mean Export-Related Overseas Inventory which is acceptable to Lender and which is deemed to be eligible pursuant to the Loan Documents, but in no event shall include the Inventory (a) through (r) excluded from the definition of Eligible Export-Related Inventory. 
+"Eligible Person" shall mean a sole proprietorship, partnership, limited liability partnership, corporation or limited liability company which (a) is domiciled, organized or formed, as the case may be, in the United States, whether or not such entity is owned by a foreign national or foreign entity; (b) is in good standing in the state of its formation or otherwise authorized to conduct business in the United States; (c) is not currently suspended or debarred from doing business with the United States government or any instrumentality, division, agency or department thereof; (d) exports or plans to export Items; (e) operates and has operated as a going concern for at least one (1) year; (f) has a positive tangible net worth determined in accordance with GAAP; and (g) has revenue generating operations relating to its core business activities for at least one year. An Affiliated Foreign Person that meets all of the requirements of the foregoing definition of Eligible Person other than subclause (a) thereof shall be deemed to be an Eligible Person. 
+"ERISA" shall mean the Employee Retirement Income Security Act of 1974 and the rules and regulations promulgated thereunder. 
+"Export Order" shall mean a documented purchase order or contract evidencing a Buyer's agreement to purchase the Items from Borrower for export from the United States, which documentation shall include written information that is necessary to confirm such purchase order or contract, including identification of the Items, the name of the Buyer, the country of destination, contact information for the Buyer and the total amount of the purchase order or contract; in the case of Indirect Exports, such documentation shall further include a copy of the written purchase order or contract from a foreign purchaser or other documentation clearly evidencing a foreign purchaser's agreement to purchase the Items. 
+"Export-Related Accounts Receivable" shall mean those Accounts Receivable arising from the sale of Items which are due and payable to Borrower in the United States. 
+   
+ 7 
+ 
+ 
+"Export-Related Accounts Receivable Value" shall mean, at the date of determination thereof, the aggregate face amount of Eligible Export-Related Accounts Receivable less taxes, discounts, credits, allowances and Retainages, except to the extent otherwise permitted by Ex-Im Bank in writing. 
+"Export-Related Borrowing Base" shall mean, at the date of determination thereof, the sum of (a) (if Lender elects to include) the Export-Related Inventory Value or Export-Related Historical Inventory Value multiplied by the Advance Rate applicable to Eligible Export-Related Inventory set forth in Section 5.B.(1.) of the Loan Authorization Agreement, plus (b) the Export-Related Accounts Receivable Value multiplied by the Advance Rate applicable to Eligible Export-Related Accounts Receivable set forth in Section 5.B.(2.) of the Loan Authorization Agreement, plus (c) if permitted by Ex-Im Bank in writing, the Retainage Value multiplied by the Advance Rate applicable to Retainages set forth in Section 5.B.(3.) of the Loan Authorization Agreement, plus (d) the Other Assets set forth in Section 5.B.(4.) of the Loan Authorization Agreement multiplied by the Advance Rate agreed to in writing by Ex-Im Bank, plus (e) if permitted by Ex-Im Bank in writing, the Export-Related Overseas Accounts Receivable Value multiplied by the Advance Rate applicable to Eligible Export-Related Overseas Accounts Receivable set forth in Section 5.B.(5.) of the Loan Authorization Agreement, plus (f) if permitted by Ex-Im Bank in writing, the Export-Related Overseas Inventory Value multiplied by the Advance Rate applicable to Eligible Export-Related Overseas Inventory set forth in Section 5.B.(6.) of the Loan Authorization Agreement, less (g) the amounts required to be reserved pursuant to Sections 4.12 and 4.13 of this Agreement for each outstanding Letter of Credit, less (h) such reserves and in such amounts deemed necess ary and proper by Lender from time to time. 
+"Export-Related Borrowing Base Certificate" shall mean a certificate in the form provided or approved by Lender, executed by Borrower and delivered to Lender pursuant to the Loan Documents detailing the Export-Related Borrowing Base supporting the Credit Accommodations which reflects, to the extent included in the Export-Related Borrowing Base, Export-Related Accounts Receivable, Eligible Export-Related Accounts Receivable, Export-Related Inventory, Eligible Export-Related Inventory, Export-Related Overseas Accounts Receivable, Eligible Export-Related Accounts Receivable, Export-Related Overseas Inventory and Eligible Export- Related Overseas Inventory balances that have been reconciled with Borrower's general  ledger, Accounts Receivable Aging Report and Inventory schedule. 
+"Export-Related General Intangibles" shall mean the Pro Rata Percentage of General Intangibles determined as of the earlier of: (i) the date such General Intangibles are liquidated and (ii) the date Borrower fails to pay when due any outstanding amount of principal or accrued interest payable under the Loan Documents that becomes the basis for a Payment Defa ult on which a Claim is filed. 
+"Export-Related Historical Inventory Value" shall mean with respect to a Borrower, the relevant Export-Related Sales Ratio multiplied by the lowest of (i) the cost of such Borrower's Inventory as determined in accordance with GAAP, or (ii) the market value of such Borrower's Inventory as determined in accordance with GAAP or (iii) the appraised or orderly liquidation value of such Borrower's Inventory, if Lender has loans and financial accommodations to such Borrower for which it conducts (or contracts for the performance of) such an  appraised or orderly liquidation value. 
+   
+ 8 
+ 
+ 
+"Export-Related Inventory" shall mean the Inventory of Borrower located in the United States that has been purchased, manufactured or otherwise acquired by Borrower for sale or res ale as Items, or to be incorporated into Items to be sold or resold pursuant to Export Orders. 
+"Export-Related Inventory Value" shall mean, at the date of determination thereof, the lowest of (i) the cost of Eligible Exported-Related Inventory as determined in accordance with GAAP, or (ii) the market value of Eligible Export-Related Inventory as determined in accordance with GAAP or (iii) the lower of the appraised market value or orderly liquidation value of the Eligible Export-Related Inventory, if Lender has other loans and financial accommodations to a Borrower for which it conducts (or contracts for the performance of) suc h an appraised or orderly liquidation value. 
+"Export-Related Overseas Accounts Receivable" shall mean those Accounts Receivable arising from the sale of Items which are due and payable outside of the United States either to a  Borrower or an Affiliated Foreign Person. 
+"Export-Related Overseas Accounts Receivable Value" shall mean, with respect to a Loan Facility, at the date of determination thereof, the aggregate face amount of Eligible Export-Related Overseas Accounts Receivable less taxes, discounts, credits, allowances and Retainages, except to the extent otherwise permitted by Ex-Im Bank in writing. 
+"Export-Related Overseas Inventory" shall mean the Inventory of Borrower located outside of the United States that has been purchased, manufactured or otherwise acquired by such Borrower for sale or resale as Items, or to be incorporated into Items to be sold or resold pursuant to Export Orders. 
+"Export-Related Overseas Inventory Value" shall mean, at the date of determination thereof, the lowest of (i) the cost of Eligible Export-Related Overseas Inventory as determined in accordance with GAAP, (ii) the market value of Eligible Export-Related Overseas Inventory as determined in accordance with GAAP or (iii) the appraised or orderly liquidation value of the Eligible Export-Related Overseas Inventory, if Lender has other loans and financial accommodations to Borrower or an Affiliated Foreign Person for which it conducts (or co ntracts for the performance of) such a appraised or orderly liquidation. 
+"Export-Related Sales Ratio" shall mean with respect to a Borrower, the percentage of such Borrower's total sales revenue derived from the sale of Eligible Export-Related Inventory over a rolling twelve-month period ending no more than ninety (90) days prior to the date of the relevant Export-Related Borrowing Base Certificate. 
+"Extension" shall mean, with respect to a Loan Facility, an amendment to the Loan Authorization Agreement extending the Final Disbursement Date on the same terms and conditions as the Loan Facility for an aggregate period not to exceed one hundred and twenty (120) days beyond the original Final Disbursement Date, either as agreed to in writing by Ex-Im Bank or, in the case of Delegated Authority, as notified by Lender to Ex-Im Bank pursuant to its authority under the Delegated Authority Letter Agreement. 
+   
+ 9 
+ 
+ 
+"Fast Track Lender Agreement" shall mean the Fast Track Lender Agreement, if any, between Ex-Im Bank and Lender. 
+"Final Disbursement Date" shall mean the last date on which Lender may make a Disbursement set forth in Section 10 of the Loan Authorization Agreement (including as amended by an E xtension) or, if such date is not a Business Day, the next succeeding Business Day;  provided, however, to the extent that Lender has not received cash collateral in the amount of the Letter of Credit Obligations or an equivalent full indemnity from Borrower or Guarantor, as applicable, with respect to Letter of Credit Obligations outstanding on the Final Disbursement Date, the Final Disbursement Date with respect to an advance to fund a drawing under such Letter of Credit shall be no later than thirty (30) days after any such drawing which may be no later than the expiry date of the Letter of Credit related thereto. 
+ "GAAP" shall mean the generally accepted accounting principles issued in the United States. 
+"General Intangibles" shall mean all intellectual property and other "general intangibles" (as such term is defined in the UCC). 
+"Guarantor" shall mean any Person which is identified in Section 3 of the Loan Authorization Agreement who shall guarantee (jointly and severally if more than one) the payment and  performance of all or a portion of the Loan Facility Obligations. 
+"Guarantee Agreement" shall mean a valid and enforceable agreement of guarantee executed by each Guarantor in favor of Lender. 
+"Indirect Exports" shall mean finished goods or services that are sold by a Borrower to a Buyer located in the United States, are intended for export from the United States, and ar e identified in Section 4.A.(2.) of the Loan Authorization Agreement. 
+"Inventory" shall mean all "inventory" (as such term is defined in the UCC), now or hereafter owned or acquired by Borrower, wherever located, including all inventory, merchandise, goods and other personal property which are held by or on behalf of Borrower for sale or lease or are furnished or are to be furnished under a contract of service or which constitute raw materials, work in process or materials used or consumed or to be used or consumed in Borrower's business or in the processing, production, packaging, promotion, delivery o r shipping of the same, including other supplies. 
+"ISP" shall mean the International Standby Practices-ISP98, International Chamber of Commerce Publication No. 590 and any amendments and revisions thereof. 
+"Issuing Bank" shall mean the bank that issues a Letter of Credit, which bank is Lender itself or a bank that Lender has caused to issue a Letter of Credit by way of a guarantee or  reimbursement obligation. 
+"Items" shall mean the finished goods or services which are intended for export from the United States, either directly or as an Indirect Export, meet the U.S. Content requirements in accordance with Section 2.01(b)(ii) of this Agreement and are specified in Section 4.A. of the Loan Authorization Agreement. 
+   
+ 10 
+ 
+ 
+ "Letter of Credit" shall mean a Commercial Letter of Credit or a Standby Letter of Credit. 
+"Letter of Credit Obligations" shall mean all undrawn amounts of outstanding obligations incurred by Lender, whether direct or indirect, contingent or otherwise, due or not due, in  connection with the issuance or guarantee by Lender or Issuing Bank of Letters of Credit. 
+"Lien" shall mean any mortgage, security deed or deed of trust, pledge, hypothecation, assignment, deposit arrangement, lien, charge, claim, security interest, security title, easement or encumbrance, or preference, priority or other security agreement or preferential arrangement of any kind or nature whatsoever (including any lease or title retention agreement, any financing lease having substantially the same economic effect as any of the foregoing, and the filing of, or agreement to give, any financing statement perfecting a security interest under the UCC or comparable law of any jurisdiction) by which property is encumbered or otherwise charged. 
+"Loan Agreement" shall mean a valid and enforceable agreement between Lender and a Borrower setting forth, with respect to each Loan Facility, the terms and conditions of such Loan  Facility. 
+"Loan Authorization Agreement" shall mean, as applicable, the duly executed Loan Authorization Agreement, Fast Track Loan Authorization Agreement, or the Loan Authorization Notice, setting forth certain terms and conditions of each Loan Facility, a copy of which is attached hereto as Annex A. 
+"Loan Authorization Notice" shall mean the Loan Authorization Notice executed by Lender and delivered to Ex-Im Bank in accordance with the Delegated Authority Letter Agreement sett ing forth the terms and conditions of each Loan Facility. 
+"Loan Documents" shall mean the Loan Authorization Agreement, the Loan Agreement, this Agreement, each promissory note (if applicable), each Guarantee Agreement, and all other instruments, agreements and documents now or hereafter executed by the applicable Borrower, any Guarantor, Lender or Ex-Im Bank evidencing, securing, guaranteeing or otherwise relating  to the Loan Facility or any Credit Accommodations made thereunder. 
+"Loan Facility" shall mean the Revolving Loan Facility, the Transaction Specific Loan Facility or the Transaction Specific Revolving Loan Facility established by Lender in favor of  Borrower under the Loan Documents. 
+"Loan Facility Obligations" shall mean all loans, advances, debts, expenses, fees, liabilities, and obligations, including any accrued interest thereon, for the performance of covenants, tasks or duties or for payment of monetary amounts (whether or not such performance is then required or contingent, or amounts are liquidated or determinable) owing by Borrower to Lender, of any kind or nature, present or future, arising in connection with the Loan Facility. 
+   
+ 11 
+ 
+ 
+"Loan Facility Term" shall mean, with respect to a Loan Facility, the number of months or portion thereof from the Effective Date to the Final Disbursement Date as set forth in the  Loan Authorization Agreement as amended. 
+"Master Guarantee Agreement" shall mean the Master Guarantee Agreement between Ex-Im Bank and Lender, as amended, modified, supplemented and restated from time to time. 
+"Material Adverse Effect" shall mean a material adverse effect on (a) the business, assets, operations, prospects or financial or other condition of Borrower or any Guarantor, (b) any Borrower's ability to pay or perform the Loan Facility Obligations in accordance with the terms thereof, (c) the Collateral or Lender's Liens on the Collateral or the priority  of such Lien, or (d) Lender's rights and remedies under the Loan Documents. 
+"Maximum Amount" shall mean the maximum Credit Accommodation Amount that may be outstanding at any time under each Loan Facility, as specified in Section 5.A. of the Loan Authoriza tion Agreement. 
+"Other Assets" shall mean, with respect to a Loan Facility, such other assets of a Borrower to be included in Primary Collateral, which may include cash and marketable securities, or such other assets as Ex-Im Bank agrees to in writing, and disclosed as Primary Collateral in Section 6.A. of the Loan Authorization Agreement. The applicable Advance Rate (to be multiplied by the Other Asset Value) shall be as agreed to by Ex-Im Bank in writing case by case by case and set forth in Section 5.B.(4) of the Loan Authorization Agreement. 
+"Other Asset Value" shall mean, with respect to a Loan Facility, at the date of determination thereof, the value of the Other Assets as determined in accordance with GAAP. 
+"Other Collateral" shall mean any additional collateral that Lender customarily would require as security for loan facilities on its own account and risk where the permitted borrowing level is based principally on a borrowing base derived from a borrower's inventory and accounts receivable, but where such additional collateral does not enter into the borrowi ng base calculation. 
+"Permitted Liens" shall mean (a) Liens for taxes, assessments or other governmental charges or levies not delinquent, or, being contested in good faith and by appropriate proceedin gs and with respect to which proper reserves have been taken by Borrower;  provided, that, the Lien shall have no effect on the priority of the Liens in favor of Lender or the value of the assets in which Lender has such a Lien and a stay of enforcement of any such Lien shall be in effect; (b) deposits or pledges securing obligations under worker's compensation, unemployment insurance, social security or public liability laws or similar legislation; (c) deposits or pledges securing bids, tenders, contracts (other than contracts for the payment of money), leases, statutory obligations, surety and appeal bonds and other obligations of like nature arising in the ordinary course of Borrower's business; (d) judgment Liens that have been stayed or bonded; (e) mechanics', workers', materialmen's or other like Liens arising in the ordinary course of Borrower's business with respect to obligations which are not due; (f) Liens placed upon fixed assets hereafter acquired to secure a portion of the purchase price thereof, provided, that, any such Lien shall not encumber any other property of Borrower; (g) security interests being terminated concurrently with the execution of the Loan Documents; and (h) Liens disclosed in Section 6.D. of the Loan Authorization Agreement,  provided that, except as otherwise permitted by Ex-Im Bank in writing, such Liens in Section 6.D. shall be subordinate to the Liens in favor of Lender on Primary Collateral. 
+   
+ 12 
+ 
+ 
+ Authorization Agreement,  provided that, except as otherwise permitted by Ex-Im Bank in writing, such Liens in Section 6.D. shall be subordinate to the Liens in favor of Lender on Primary Collateral. 
+"Person" shall mean any individual, sole proprietorship, partnership, limited liability partnership, joint venture, trust, unincorporated organization, association, corporation, limited liability company, institution, public benefit corporation, entity or government (whether national, federal, provincial, state, county, city, municipal or otherwise, including any instrumentality, division, agency, body or department thereof), and shall include such Person's successors and assigns. 
+"Pro Rata Percentage" shall mean, with respect to a Loan Facility, as of the date of determination thereof, the principal balance of the Credit Accommodations outstanding as a percentage of the combined principal balance of all loans from Lender to such Borrower including the then outstanding principal balance of the Credit Accommodations plus unfunded amoun ts under outstanding Letters of Credit. 
+"Principals" shall mean any officer, director, owner, partner, key employee, or other Person with primary management or supervisory responsibilities with respect to Borrower or any other Person (whether or not an employee) who has critical influence on or substantive control over the transactions covered by this Agreement. 
+"Retainage" shall mean that portion of the purchase price of an Export Order that a Buyer is not obligated to pay until the end of a specified period of time following the satisfac tory performance under such Export Order. 
+"Retainage Accounts Receivable" shall mean those portions of Eligible Export-Related Accounts Receivable or Eligible Export-Related Overseas Accounts Receivable arising out of a Re tainage. 
+"Retainage Value" shall mean, at the date of determination thereof, the aggregate face amount of Retainage Accounts Receivable as permitted by Ex-Im Bank in writing, less taxes, di scounts, credits and allowances, except to the extent otherwise permitted by Ex-Im Bank in writing. 
+"Revolving Loan Facility" shall mean the credit facility or portion thereof established by Lender in favor of Borrower for the purpose of providing working capital in the form of loans and/or Letters of Credit to finance the manufacture, production or purchase and subsequent export sale of Items pursuant to Loan Documents under which Credit Accommodations may be made and repaid on a continuous basis based solely on credit availability on the Export-Related Borrowing Base during the term of such credit facility. 
+"Special Conditions" shall mean those conditions, if any, set forth in Section 13 of the Loan Authorization Agreement. 
+"Specific Export Orders" shall mean those Export Orders specified in Section 5.D. of the Loan Authorization Agreement as applicable for a Transaction Specific Revolving Loan Facili ty or a Transaction Specific Loan Facility. 
+   
+ 13 
+ 
+ 
+"Standby Letters of Credit" shall mean those letters of credit subject to the ISP or UCP issued or caused to be issued by Lender for Borrower's account that can be drawn upon by a  Buyer only if Borrower fails to perform all of its obligations with respect to an Export Order. 
+"Transaction Specific Loan Facility" shall mean a credit facility or a portion thereof established by Lender in favor of Borrower for the purpose of providing working capital in the form of loans and/or Letters of Credit to finance the manufacture, production or purchase and subsequent export sale of Items pursuant to Loan Documents under which Credit Accommodations are made based solely on credit availability on the Export-Related Borrowing Base relating to Specific Export Orders and once such Credit Accommodations are repaid they ma y not be reborrowed. 
+"Transaction Specific Revolving Loan Facility" shall mean a Revolving Credit Facility established to provide financing of Specific Export Orders. 
+"UCC" shall mean the Uniform Commercial Code, as the same may be in effect from time to time in the relevant United States jurisdiction. 
+"UCP" shall mean the Uniform Customs and Practice for Documentary Credits (1993 Revision), International Chamber of Commerce Publication No. 500 and any amendments and revisions th ereof. 
+"U.S." or "United States" shall mean the United States of America including any division or agency thereof (including United States embassies or United States military bases located overseas), and any United States Territory (including without limitation, Puerto Rico, Guam or the United States Virgin Islands). 
+"U.S. Content" shall mean, with respect to any Item, all the costs, including labor, materials, services and overhead, but not markup or profit margin, which are of U.S. origin or  manufacture, and which are incorporated into an Item in the United States. 
+"Warranty" shall mean Borrower's guarantee to Buyer that the Items will function as intended during the warranty period set forth in the applicable Export Order. 
+"Warranty Letter of Credit" shall mean a Standby Letter of Credit which is issued or caused to be issued by Lender to support the obligations of Borrower with respect to a Warranty  or a Standby Letter of Credit which by its terms becomes a Warranty Letter of Credit. 
+ 1.02  Rules of Construction. For purposes of this Agreement, the following additional rules of construction shall apply, unless specifically indicated to the contrary: (a) wherever from the context it appears appropriate, each term stated in either the singular or plural shall include the singular and the plural, and pronouns stated in the masculine, feminine or neuter gender shall include the masculine, the feminine and the neuter; (b) the term "or" is not exclusive; (c) the term "including" (or any form thereof) shall not be limiting or exclusive; (d) all references to statutes and related regulations shall include any amendments of same and any successor statutes and regulations; (e) the words "this Agreement", "herein", "hereof", "hereunder" or other words of similar import refer to this Agreement as a whole including the schedules, exhibits, and annexes 
+   
+ 14 
+ 
+ 
+hereto as the same may be amended, modified or supplemented; (f) all references in this Agreement to sections, schedules, exhibits, and annexes shall refer to the corresponding sections, schedules, exhibits, and annexes of or to this Agreement; and (g) all references to any instruments or agreements, including references to any of the Loan Documents, the Delegated Authority Letter Agreement, or the Fast Track Lender Agreement shall include any and all modifications, amendments and supplements thereto and any and all extensions or rene wals thereof to the extent permitted under this Agreement. 
+ 1.03  Incorporation of Recitals. The Recitals to this Agreement are incorporated into and shall constitute a part of this Agreement. 
+ ARTICLE II 
+ OBLIGATIONS OF BORROWER 
+Until payment in full of all Loan Facility Obligations and termination of the Loan Documents, Borrower agrees as follows: 
+ 2.01  Use of Credit Accommodations. (a) Borrower shall use Credit Accommodations only for the purpose of enabling Borrower to finance the cost of manufacturing, producing, purchasing or selling the Items. Borrower may not use any of the Credit Accommodations for the purpose of: (i) servicing or repaying any of Borrower's  pre-existing or future indebtedness unrelated to the Loan Facility unless approved by Ex-Im Bank in writing; (ii) acquiring fixed assets or capital assets for use in Borrower's business; (iii) acquiring, equipping or renting commercial space outside of the United States; (iv) paying the salaries of non U.S. citizens or  non-U.S. permanent residents who are located in offices outside of the United States; or (v) in connection with a Retainage or Warranty unless approved by Ex-Im Bank in writing. 
+(b) In addition, no Credit Accommodation may be used to finance the manufacture, purchase or sale of any of the following: 
+(i) Items to be sold to a Buyer located in a country as to which Ex-Im Bank is prohibited from doing business as designated in the Country Limitation Schedule; 
+(ii) that part of the cost of the Items which is not U.S. Content unless such part is not greater than fifty percent (50%) of the cost of the Items and is incorporated into the Ite ms in the United States; 
+ (iii) defense articles or defense services; 
+ (iv) Capital Goods unless in accordance with Section 2.14 of this Agreement; or 
+(v) without Ex-Im Bank's prior written consent, any Items to be used in the construction, alteration, operation or maintenance of nuclear power, enrichment, reprocessing, research  or heavy water production facilities. 
+ 2.02  Security Interests. Borrower agrees to cooperate with Lender in any steps Lender shall take to file and maintain valid, enforceable and perfected security interests in the Collateral. 
+   
+ 15 
+ 
+ 
+ 2.03  Loan Documents and Loan Authorization Agreement. (a) This Agreement and each of the other Loan Documents applicable to Borrower have been duly executed and delivered on behalf of Borrower, and are and will continue to be legal a nd valid obligations of Borrower, enforceable against it in accordance with its terms. 
+(b) Borrower shall comply with all of the terms and conditions of this Agreement, the Loan Authorization Agreement and each of the other Loan Documents to which it is a party. 
+ (c) Borrower hereby represents and warrants to Lender that Borrower is an Eligible Person. 
+ 2.04  Export-Related Borrowing Base Certificates and Export Orders. (a) In order to receive Credit Accommodations under the Loan Facility, Borrower shall have delivered to Lender an Export-Related Borrowing Base Certificate as frequently as required by Lender but at least within the past month, together with a copy of the Export Order(s) or, for Revolving Loan Facilities, if permitted by Lender, a written summary of the Export Orders (when Eligible Export-Related Inventory and Eligible Overseas Export-Related Inventory are entering the Export-Related Borrowing Base) against which Borrower is requesting Credit Accommodations. In addition, so long as there are any Credit Accommodations outstanding under the Loan Facility, Borrower shall deliver to Lender an Export-Related Borrowing Base Certificate at least once each month. Lender shall determine if daily electronic reporting reconciled monthly may substitute for monthly Export-Related Borrowing Base Certificates. If the Lender requires an Export-Related Borrowing Base Certificate more frequently, Borrower shall deliver such Export-Related Borrowing Base Certificate as required by  Lender. 
+(b) If Lender permits summaries of Export Orders, Borrower shall also deliver promptly to Lender copies of any Export Orders requested by Lender. 
+ 2.05  Schedules. Reports and Other Statements. With the delivery of each Export-Related Borrowing Base Certificate required in Section 2.04 above, Borrower shall submit to Lender in writing (a) an Inventory schedule for the preceding month, as applicable, and (b) an Accounts Receivable Aging Report for the preceding month. Borrower shall also furnish to Lender promptly upon request such information, reports, contracts, invoices and other data concerning the Collateral as Lender may from time to time specify. 
+ 2.06  Exclusions from the Export-Related Borrowing Base. In determining the Export-Related Borrowing Base, Borrower shall exclude therefrom Inventory which are not Eligible Export-Related Inventory or Eligible Export-Related Overseas Inventory and Accounts Receivable which are not Eligible Export-Related Accounts Receivable or Eligible Export-Related Overseas Accounts Receivable. Borrower shall promptly, but in any event within five (5) Business Days, notify Lender (a) if any then existing Export-Related Inventory or Export-Related Overseas Inventory no longer constitutes Eligible Export-Related Inventory or Eligible Export-Related Overseas Inventory, as applicable or (b) of any event or circumstance which to Borrower's knowledge would cause Lender to consider any then existing Export-Related Accounts Receivable or Export-Related Overseas Accounts Receivable as no longer constituting an Eligible Export-Related Accounts Receivable or Eligible  Export-Related Overseas Accounts Receivable, as applicable. 
+   
+ 16 
+ 
+ 
+ 2.07  Borrowings and Reborrowings. (a) If the Loan Facility is a Revolving Loan Facility or Transaction Specific Revolving Loan Facility,  provided that Borrower is not in default under any of the Loan Documents, Borrower may borrow, repay and reborrow amounts under such Loan Facility up to the credit available on the current Export-Related Borrowing Base Certificate subject to the terms of this Agreement and each of the other Loan Documents until the close of business on the Final Disbursement Date. 
+ (b) If the Loan Facility is a Transaction Specific Loan Facility,  provided that Borrower is not in default under any of the Loan Documents, Borrower may borrow (but not reborrow) amounts under the Loan Facility up to the credit available on the current Export-Related Borrowing Base Certificate subject to the terms of this Agreement and each of the other Loan Documents until the close of business on the Final Disbursement Date. 
+ 2.08  Repayment Terms. (a) The Borrower on a Revolving Loan Facility shall pay in full the outstanding Loan Facility Obligations no later than the first Business Day after the Final Disbursement Date unless such Loan Facility is renewed or extended by Lender consistent with procedures required by Ex-Im Bank. 
+(b) The Borrower on a Transaction Specific Loan Facility and a Transaction Specific Revolving Loan Facility shall, within two (2) Business Days of the receipt thereof, pay to Lender (for application against the outstanding Loan Facility Obligations) all checks, drafts, cash and other remittances it may receive in payment or on account of the Export-Related Accounts Receivable, Export-Related Overseas Accounts Receivable or any other Collateral, in precisely the form received (except for the endorsement of Borrower where necessary). Pending such deposit, Borrower shall hold such amounts in trust for Lender separate and apart and shall not commingle any such items of payment with any of its other funds or property. Unless a Transaction Specific Loan Facility or Transaction Specific Revolving Loan Facility is renewed or extended by Lender consistent with procedures required by Ex-Im Bank, Borrower shall pay in full all outstanding Loan Facility Obligations no later than the first Business Day after the Final Disbursement Date, except for Eligible Export-Related Accounts Receivables and Eligible Export-Related Overseas Accounts Receivable outstanding as of the Final Disbursement Date and due and payable after such date, for which the principal and accrued and unpaid interest thereon shall be due and payable no later than the first Business Day after the date such Accounts Receivable are due and payable. 
+ 2.09  Financial Statements. Borrower shall deliver to Lender the financial statements required to be delivered by Borrower in accordance with Section 11 of the Loan Authorization Agreement. 
+ 2.10  Additional Security or Payment. (a) Borrower shall at all times ensure that the Export-Related Borrowing Base equals or exceeds the aggregate outstanding amount of Disbursements. If informed by Lender or if Borrower otherwise has actual knowledge that the Export-Related Borrowing Base is at any time less than the aggregate outstanding amount of Disbursements, Borrower shall, within five (5) Business Days, either (i) furnish additional Collateral to Lender, in form and amount satisfactory to Lender and Ex-Im Bank or (ii) pay to Lender an amount equal to the differen ce between the aggregate outstanding amount of Disbursements and the Export-Related Borrowing Base. 
+   
+ 17 
+ 
+ 
+(b) For purposes of this Agreement, in determining the Export-Related Borrowing Base there shall be deducted from the Export-Related Borrowing Base an amount equal to (i) twenty-five percent (25%) of the undrawn amount of outstanding Commercial Letters of Credit and Standby Letters of Credit and (ii) one hundred percent (100%) of the undrawn amount of outstanding Warranty Letters of Credit less the amount of cash collateral held by Lender to secure Warranty Letters of Credit. 
+(c) Unless otherwise approved in writing by Ex-Im Bank, for Revolving Loan Facilities (other than Transaction Specific Revolving Loan Facilities), Borrower shall at all times ensure that the sum of the outstanding amount of Disbursements and the undrawn amount of outstanding Commercial Letters of Credit that is supported by Eligible Export-Related Inventory or Eligible Export-Related Overseas Inventory (discounted by the relevant Advance Rate percentages) in the Export-Related Borrowing Base does not exceed sixty percent (60%) of the sum of the total outstanding amount of Disbursements and the undrawn amount of all outstanding Commercial Letters of Credit. If informed by Lender or if Borrower otherwise has actual knowledge that the sum of the outstanding amount of Disbursements and the undrawn amount of outstanding Commercial Letters of Credit that is supported by such Inventory exceeds sixty percent (60%) of the sum of the total outstanding Disbursements and the undrawn amount of all outstanding Commercial Letters of Credit, Borrower shall, within five (5) Busine ss Days, either (i) furnish additional  non-Inventory Collateral to Lender, in form and amount satisfactory to Lender and Ex-Im Bank, or (ii) pay down the applicable portion of the outstanding Disbursements or (iii) reduce the undrawn amount of outstanding Commercial Letters of Credit such that the above described ratio is not exceeded. 
+(d) If informed by Lender or if Borrower otherwise has actual knowledge that the conditions of Section 2.16(g) are at any time not being met, Borrower shall, within five (5) Business Days, either (i) furnish additional Collateral to Lender that is not Eligible Export-Related Overseas Accounts Receivable or Eligible Export-Related Overseas Inventory, in form and amount satisfactory to Lender and Ex-Im Bank, or (ii) remove from the Export-Related Borrowing Base the portion of Eligible Export-Related Overseas Accounts Receivable or Eligible Export-Related Overseas Inventory that supports greater than fifty percent (50%) of the Export-Related Borrowing Base. 
+ 2.11  Continued Security Interest. Borrower shall not change (a) its name or identity in any manner, (b) the location of its principal place of business or its jurisdiction of organization or formation, (c) the location of any of the Collateral or (d) the location of any of the books or records related to the Collateral, in each instance without giving thirty (30) days prior written notice thereof to Lender and taking all actions deemed necessary or appropriate by Lender to continuously protect and perfect Lender's Liens upon the Collateral. 
+ 2.12  Inspection of Collateral and Facilities. (a) Borrower shall permit the representatives of Lender and Ex-Im Bank to make at any time during normal business hours inspections of the Collateral and of Borrower's facilities, activities, and books and records, and shall cause its officers and employees to give full cooperation and assistance in connection therewith. 
+   
+ 18 
+ 
+ 
+(b) Borrower agrees to facilitate Lender's conduct of field examinations at Borrower's facilities in accordance with the time schedule and content for such examinations that Lender requests. Such field examinations shall address at a minimum: (x) the value of the Collateral against which Credit Accommodations may be provided, (y) the amount, if any, that the aggregate outstanding amount of Disbursements exceeds the Export-Related Borrowing Base and (z) whether such Borrower is in material compliance with the terms of each of the Loan Documents. Such field examinations shall include an inspection and evaluation of the Export-Related Inventory and Export-Related Overseas Inventory, a book audit of Export-Related Accounts Receivable and Export-Related Overseas Accounts Receivable, a review of the Accounts Receivable Aging Reports and a review of Borrower's compliance with any Special Conditions. Lenders who opt to use the Export-Related Historical Inventory Value in the Export-Related Borrowing Base calculation shall reconcile those numbers against the calculation for the relevant time periods using the Export-Related Inventory Value. Whenever Export-Related Accounts Receivable or Export-Related Inventory derived from Indirect Exports are in the Export-Related Borrowing Base, Lender shall verify compliance with Section 2.15 herein, including taking a random sampling of ultimate foreign purchasers. 
+ 2.13  General Intangibles. Borrower represents and warrants that it owns, or is licensed to use, all General Intangibles necessary to conduct its business as currently conducted except where the failure of Borrower to own or license such General Intangibles could not reasonably be expected to have a Material Adverse Effect. 
+ 2.14  Economic Impact Approval. (a) For Loan Facilities up to and including $10 million, Borrower acknowledges that Capital Goods may not be included as Items, and Export-Related Inventory, Export-Related Overseas Inventory, Export-Related Accounts Receivable and Export-Related Overseas Accounts Receivable in connection with the sale of such Capital Goods may not be included in the Export-Related Borrowing Base, if such Capital Goods would enable a foreign buyer to establish or expand production of a product where, as of the date of the Economic Impact Certification covering such Item: (i) the Buyer is subject to a Final Anti-Dumping (AD) or Countervailing Duty (CVD) order, or a Suspension Agreement arising from a AD or CVD investigation, and such product is substantially the same as the product that is the subject of the AD/CVD order or suspension agreement; or (ii) the Buyer is the subject of a Section 201 injury determination by the International Trade Commission ("ITC") and such product is substantially the same as a product that is the subject of the ITC injury determination. Borrower may consult with Ex-Im Bank regarding the appropriate application of this Section 2.14(a) and may, at its option, request that Ex-Im Bank issue an Economic Impact Approval covering any Items listed in Section 4.A. of the Loan Authorization Agreement. For Loan Facilities over $10 million involving Items that are Capital Goods, Borrower shall obtain from Ex-Im Bank, and abide by, an Economic Impact Approval covering all Items listed in Section 4(A) of the Loan Authorization Agreement. 
+(b) Borrower shall provide Lender with a certification in the form of Annex B (an "Economic Impact Certification") covering the Items stated in Section 4(A) of the Loan Authorization Agreement prior to Lender including such Items in the Loan Authorization Agreement. Prior to Lender amending the Loan Authorization Agreement to include additional Items, Borrower shall provide Lender with an additional Economic Impact Certification covering such additional Items. 
+   
+ 19 
+ 
+ 
+ 2.15  Indirect Exports.  Indirect Exports may be included as Items in a Loan Facility  provided that funds available under such Loan Facility's Export-Related Borrowing Base supported by Accounts Receivable and Inventory derived from Indirect Exports at no time exceed ten percent  (10%) of the Maximum Amount of such Loan Facility, and  provided, further that (a) the ultimate foreign buyer for the Items must be located in a country in which Ex-Im Bank is not legally prohibited from doing business in accordance with the Country Limitation Schedule, and (b) the Borrower must make available to Lender verifiable evidence of intent to export the Indirect Exports from the United States, which evidence may be contained in the Export Orders and Accounts Receivable Aging Reports and supporting documents. Lender must obtain written consent from Ex-Im Bank prior to including funds derived from  Indirect Exports in an Export-Related Borrowing Base above the ten percent (10%) threshold. 
+ 2.16  Overseas Inventory and Accounts Receivable. Upon the prior written consent of Ex-Im Bank, Export-Related Overseas Accounts Receivable and Export-Related Overseas Inventory of a Borrower or of an Affiliated Foreign Person (as defined below) may be included in the Export-Related Borrowing Base provided that conditions required by Ex-Im Bank, including the following, are met: 
+ (a) the Affiliated Foreign Person, if any, has been approved by Ex-Im Bank; 
+ (b) the Affiliated Foreign Person, if any, is a Borrower under the relevant Loan Facility; 
+(c) notwithstanding the Maximum Amount of the Loan Facility, all payments due and payable on such Export-Related Overseas Accounts Receivable are collected through a cash collatera l account under Lender's control; 
+(d) as of the Effective Date, or such later date when the Export-Related Overseas Accounts Receivable and/or Export-Related Overseas Inventory are added to the Loan Facility, Lender has obtained a valid and enforceable first priority Lien in the Export-Related Overseas Accounts Receivable and Export-Related Overseas Inventory, as applicable; 
+(e) as of the Effective Date, or such later date when the Export-Related Overseas Accounts Receivable and/or Export-Related Overseas Inventory are added to the Loan Facility, Lender has obtained a legal opinion confirming the security interest in the Export-Related Overseas Accounts Receivable and Export-Related Overseas Inventory; 
+(f) the Export-Related Overseas Accounts Receivable are due and payable in United States Dollars or other currency acceptable to Ex-Im Bank; and 
+(g) at no time may the portion of the Export-Related Borrowing Base derived from Eligible Export-Related Overseas Accounts Receivable and Eligible Export-Related Overseas Inventory  exceed fifty percent (50%) of the Export-Related Borrowing Base. 
+For purposes hereof, an "Affiliated Foreign Person" shall mean a subsidiary or affiliate of a Borrower on the same Loan Facility, which has duly executed as a Borrower all of the applicable Loan Documents and any other documents required by Ex-Im Bank, meets all of the requirements of the definition of Eligible Person other than subclause (a) thereof and is in good standing in the country of its formation or otherwise authorized to conduct business in such country. 
+   
+ 20 
+ 
+ 
+ 2.17  Country Limitation Schedule. Unless otherwise informed in writing by Lender or Ex-Im Bank, Borrower shall be entitled to rely on the last copy of the Country Limitation Schedule distributed from Lender to Bor rower. 
+ 2.18  Notice of Certain Events. Borrower shall promptly, but in any event within five (5) Business Days, notify Lender in writing of the occurrence of any of the following: 
+(a) Borrower or any Guarantor (i) applies for, consents to or suffers the appointment of, or the taking of possession by, a receiver, custodian, trustee, liquidator or similar fiduciary of itself or of all or a substantial part of its property or calls a meeting of its creditors, (ii) admits in writing its inability, or is generally unable, to pay its debts as they become due or ceases operations of its present business, (iii) makes a general assignment for the benefit of creditors, (iv) commences a voluntary case under any state or federal bankruptcy laws (as now or hereafter in effect), (v) is adjudicated as bankrupt or insolvent, (vi) files a petition seeking to take advantage of any other law providing for the relief of debtors, (vii) acquiesces to, or fails to have dismissed within thirty (30) days, any petition filed against it in any involuntary case under such bankruptcy laws, or  (vii) takes any action for the purpose of effecting any of the foregoing; 
+(b) any Lien in any of the Collateral, granted or intended by the Loan Documents to be granted to Lender, ceases to be a valid, enforceable, perfected, first priority Lien (or a lesser priority if expressly permitted pursuant to Section 6 of the Loan Authorization Agreement) subject only to Permitted Liens; 
+(c) the issuance of any levy, assessment, attachment, seizure or Lien, other than a Permitted Lien, against any of the Collateral which is not stayed or lifted within thirty (30) c alendar days; 
+(d) any proceeding is commenced by or against Borrower or any Guarantor for the liquidation of its assets or dissolution; 
+(e) any litigation is filed against Borrower or any Guarantor which has had or could reasonably be expected to have a Material Adverse Effect and such litigation is not withdrawn o r dismissed within thirty (30) calendar days of the filing thereof; 
+ (f) any default or event of default under the Loan Documents; 
+ (g) any failure to comply with any terms of the Loan Authorization Agreement; 
+(h) any material provision of this Agreement or any other Loan Document for any reason ceases to be valid, binding and enforceable in accordance with its terms; 
+ (i) any event which has had or could reasonably be expected to have a Material Adverse Effect; or 
+(j) the aggregate outstanding amount of Disbursements exceeds the applicable Export-Related Borrowing Base. 
+   
+ 21 
+ 
+ 
+ 2.19  Insurance. Borrower will at all times carry property, liability and other insurance, with insurers acceptable to Lender, in such form and amounts, and with such deductibles and other provisions, as Lender shall require, and Borrower will provide evidence of such insurance to Lender on the proper Acord Form, so that Lender is satisfied that such insurance is, at all times, in full force and effect. Each property insurance policy shall name Lender as loss payee or mortgagee and shall contain a lender's loss payable endorsement in form acceptable to Lender and each liability insurance policy shall name Lender as an additional insured. All policies of insurance shall provide that they may not be cancelled or changed without at least thirty (30) days' prior written notice to Lender and shall otherwise be in form and substance satisfactory to Lender. Borrower will promptly deliver to Lender copies of al l reports made to insurance companies. 
+ 2.20  Taxes. Borrower has timely filed all tax returns and reports required by applicable law, has timely paid all applicable taxes, assessments, deposits and contributions owing by Borrower and will timely pay all such items in the future as they became due and payable. Borrower may, however, defer payment of any contested taxes; provided, that Borrower (a) in good faith contests Borrower's obligation to pay such taxes by appropriate proceedings promptly and diligently instituted and conducted; (b) notifies Lender in writing of the commencement of, and any material development in, the proceedings; (c) posts bonds or takes any other steps required to keep the contested taxes from becoming a Lien upon any of the Collateral;  and (d) maintains adequate reserves therefore in conformity with GAAP. 
+ 2.21  Compliance with Laws. Borrower represents and warrants that it has complied in all material respects with all provisions of all applicable laws and regulations, including those relating to Borrower's ownership of real or personal property, the conduct and licensing of Borrower's business, the payment and withholding of taxes, ERISA and other employee matters, safety and environm ental matters. 
+ 2.22  Negative Covenants. Without the prior written consent of Ex-Im Bank and Lender, Borrower shall not: (a) merge, consolidate or otherwise combine with any other Person; (b) acquire all or substantially all of the assets or capital stock of any other Person; (c) sell, lease, transfer, convey, assign or otherwise dispose of any of its assets, except for the sale of Inventory in the ordinary course of business and the disposition of obsolete equipment in the ordinary course of business; (d) create any Lien on the Collateral except for Permitted Liens; (e) make any material changes in its organizational structure or identity; or (f) enter into any agreement to do any of the foregoing. 
+ 2.23  Cross Default. Borrower shall be deemed in default under the Loan Facility if Borrower fails to pay when due any amount payable to Lender under any loan or other credit accommodations to Borrowe r whether or not guaranteed by Ex-Im Bank. 
+ 2.24  Munitions List. If any of the Items are articles, services, or related technical data that are listed on the United States Munitions List (part 121 of title 22 of the Code of Federal Regulations), Borrower shall send a written notice promptly, but in any event within five (5) Business Days, of Borrower learning thereof to Lender describing the Items(s) and the correspondin g invoice amount. 
+   
+ 22 
+ 
+ 
+ 2.25  Suspension and Debarment, etc. On the date of this Agreement neither Borrower nor its Principals are (a) debarred, suspended, proposed for debarment with a final determination still pending, declared ineligible or voluntarily excluded (as such terms are defined under any of the Debarment Regulations referred to below) from participating in procurement or nonprocurement transactions with any United States federal government department or agency pursuant to any of the Debarment Regulations or (b) indicted, convicted or had a civil judgment rendered against Borrower or any of its Principals for any of the offenses listed in any of the Debarment Regulations. Unless authorized by Ex-Im Bank, Borrower will not knowingly enter into any transactions in connection with the Items with any person who is debarred, suspended, declared ineligible or voluntarily excluded from participation in procurement or nonprocurement transactions with any United States federal government department or agency pursuant to any of the Debarment Regulations. Borrower will provide immediate written notice to Lender if at any time it learns that the certification set forth in this Section 2.24 was erroneous when made or has become erroneous by reason of changed circumstances. 
+ ARTICLE III 
+ RIGHTS AND REMEDIES 
+ 3.01  Indemnification. Upon Ex-Im Bank's payment of a Claim to Lender in connection with the Loan Facility pursuant to the Master Guarantee Agreement, Ex-Im Bank may assume all rights and remedies of Lender under the Loan Documents and may enforce any such rights or remedies against Borrower, the Collateral and any Guarantors. Borrower shall hold Ex-Im Bank and Lender harmless from and indemnify them against any and all liabilities, damages, claims, costs and losses incurred or suffered by either of them resulting from (a) any materially incorrect certification or statement knowingly made by Borrower or its agent to Ex-Im Bank or Lender in connection with the Loan Facility, this Agreement, the Loan Authorization Agreement or any other Loan Documents or (b) any material breach by Borrower of the terms and conditions of this Agreement, the Loan Authorization Agreement or any of the other Loan Documents. Borrower also acknowledges that any statement, certification or representation made by Borrower in connection with the Loan Facility is subject to the penalties provided in Article 18 U.S .C. Section 1001. 
+ 3.02  Liens. Borrower agrees that any and all Liens granted by it to Lender are also hereby granted to Ex-Im Bank to secure Borrower's obligation, however arising, to reimburse Ex-Im Bank for any payments made by Ex-Im Bank pursuant to the Master Guarantee Agreement. Lender is authorized to apply the proceeds of, and recoveries from, any property subject to such Liens to the satisfaction of Loan Facility Obligations in accordance with the terms of any agreement between Lender and Ex-Im Bank. 
+   
+ 23 
+ 
+ 
+ ARTICLE IV 
+ MISCELLANEOUS 
+ 4.01  Governing Law. This Agreement and the obligations arising under this Agreement shall be governed by, and construed in accordance with, the law of the state governing the Loan Agreement. 
+ 4.02  Notification. All notices required by this Agreement shall be given in the manner and to the parties provided for in the Loan Agreement. 
+ 4.03  Partial Invalidity. If at any time any of the provisions of this Agreement becomes illegal, invalid or unenforceable in any respect under the law of any jurisdiction, neither the legality, the validity nor the enforceability of the remaining provisions hereof shall in any way be affected or impaired. 
+ 4.04  Waiver of Jury Trial. BORROWER HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVES ANY AND ALL RIGHTS IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY ACTION, SUIT, PROCEEDING OR OTHER LITIGATION BROUGHT TO RESOLVE ANY DISPUTE ARISING UNDER, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, THE LOAN AUTHORIZATION AGREEMENT, ANY LOAN DOCUMENT, OR ANY OTHER AGREEMENT, DOCUMENT OR INSTRUMENT EXECUTED OR DELIVERED IN CONNECTION HEREWITH OR THEREWITH OR ANY COURSE OF CONDUCT, COURSE OF DEALING, STATEMENTS (WHETHER VERBAL OR WRITTEN), OR ACTIONS OR OMISSI ONS OF LENDER,  EX-IM BANK, OR ANY OTHER PERSON, RELATING TO THIS AGREEMENT, THE LOAN AUTHORIZATION AGREEMENT OR ANY OTHER LOAN DOCUMENT. 
+ 4.05  Consequential Damages. Neither Ex-Im Bank, Lender nor any agent or attorney for any of them shall be liable to Borrower for consequential damages arising from any breach of contract, tort or other wrong  relating to the establishment, administration or collection of the Loan Facility Obligations. 
+   
+ 24 
+ 
+ 
+ IN WITNESS WHEREOF, Borrower has caused this Agreement to be duly executed as of the 30 th  day of September, 2016. 
+   
+ 
+ NORTHERN POWER SYSTEMS, INC. 
+ Borrower 
+ By:   
+ /s/ Ciel R. Caldwell 
+ 
+ Name: 
+   
+ (Signature) 
+ Ciel R. Caldwell 
+ 
+ Title: 
+   
+ (Print or Type) 
+ President and Chief Operating Officer 
+   
+ (Print or Type) 
+ ACKNOWLEDGED: 
+ COMERICA BANK 
+ Lender 
+ By:   
+ /s/ Song Hu 
+ 
+ Name: 
+   
+ (Signature) 
+ Song Hu 
+ 
+ Title: 
+   
+ (Print or Type) 
+ VP 
+   
+ (Print or Type) 
+ 
+   
+ 25 
+ 
+ 
+ ANNEXES: 
+   
+ Annex A   - Loan Authorization Agreement, Fast Track Loan Authorization Agreement or Loan Authorization Notice, as    applicable Annex B    - Economic Impact Certification 
+   
+ 26 
+ 
+ 
+ CONSENT OF GUARANTORS 
+Each of the undersigned, as a Guarantor of the obligations of Borrower to the Lender executing the foregoing Agreement, hereby agrees that the foregoing Agreement, each of their respective Guarantee Agreements and each other Loan Documents may be assigned to the Export-Import Bank of the United States. 
+   
+ 
+ NORTHERN POWER SYSTEMS CORP. By:   
+ /s/ Ciel R. Caldwell 
+ Name:   
+ Ciel R. Caldwell 
+ Title:   
+ President and Chief Operating Officer 
+ 
+ 
+   
+ 27 

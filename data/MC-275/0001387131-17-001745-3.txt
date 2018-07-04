@@ -1,0 +1,309 @@
+ htm 72013 Material contracts 10 2017-03-30T17:00:42.082626-05:00 Filing 0001387131-17-001745 2017-03-30 10-K Annual  & Quarterly Reports 0000887247 Adamis Pharmaceuticals Corp ADMP COMMON Nasdaq Capital Market 2834 Pharmaceutical Preparations No CALIFORNIA DELAWARE DELAWARE CELLEGY PHARMACEUTICALS INC false Small Reporting Company 001-36242 LOAN AMENDMENT AND ASSUMPTION AGREEMENT DATED AS OF NOVEMBER 3, 2016 Exhibit Exhibit 3 ex10-61.htm EX-10.61 3 ex10-61.htm LOAN AMENDMENT AND ASSUMPTION AGREEMENT DATED AS OF NOVEMBER 3, 2016 
+ 
+ 
+   
+ 
+ 
+ ADAMIS PHARMACEUTICALS CORPORATION 10-K 
+   
+   
+ Exhibit 10.61 
+   
+ LOAN AMENDMENT AND ASSUMPTION AGREEMENT 
+   
+ THIS LOAN AMENDMENT AND ASSUMPTION AGREEMENT (this " Agreement") is made and entered into with on November 3, 2016, with an effective date of September 30, 2016 (the " Agreement Date "), by and among  4 HIMS, LLC , an Arkansas limited liability company (" 4 HIMS "),  US COMPOUNDING, INC. , an Arkansas corporation (" USC ") (4 HIMS and USC arc collectively hereinafter referred to as the " Initial Loan Parties ");  EDDIE GLOVER , an individual, and  WILLIAM L. SPARKS , an individual; and  KRISTIN RIDDLE , an individual (collectively, the " Individual Guarantors ");  ADAMIS PHARMACEUTICALS CORPORATION , a Delaware corporation (" Adamis "); and  BEAR STATE BANK, N.A. , a national banking association (" Bank "). 
+   
+ BACKGROUND 
+   
+A.          Pursuant to that certain Business Loan Agreement (as modified, amended or supplemented, the " Loan Agreement") dated as of August 8, 2014, entered into by and between 4 HIMS, as borrower, and Bank, as lender, Bank agreed to make a loan, Loan No. 5500000152 (the " Loan") to 4 HIMS in the initial principal amount of up to Two Million Five Hundred Eighty-Six Thousand Eight Hundred Ninety-Two and 09/100 Dollars ($2,586,892.09). The Loan is evidence d by that certain September 2016 Amended, Restated and Substituted Promissory Note (the " Note") dated effective as of September 30, 2016, executed by USC, 4 HIMS and Adamis in favor of Bank, which is substitution and replacement of that certain Commercial Promissory Note ( as modified, amended or supplemented, the " Initial Note") dated as of August 8, 2014, executed by 4 HIMS in favor of Bank. The Note is secured by, among other things, that certain Commercial Real Estate Mortgage (as modified, amended o r supplemented, the " Mortgage") dated as of August 8, 2014, executed by 4 HIMS in favor of Bank and recorded in the Official Records of Faulkner County as  Document #2014-11418, encumbering certain real property more particularly described in the Mortgage. In connection with the Loan, 4 HIMS also entered into certain other agreements and instruments, (the Loan Agreement, the Note, the Mortgage and all other documents executed in connection with the Loan, all as previously modified, amended or supplemented, collectively referred he rein as the " Loan Documents"). The Individual Guarantors and USC guaranteed repayment of the Loan pursuant to those certain documents each titled Guaranty of Specific Transaction (such guarantees by the Indi vidual Guarantors and USC, as may be modified, amended or supplemented, referred to as the " Guarantees ") dated as of August 8, 2014, entered into by each such Guarantor for the benefit of Bank. 
+   
+ B.          Adamis entered into a merger transaction with USC (the " Merger "), pursuant to that certain Agreement and Plan of Merger dated as of March 28, 2016 (the " Merger Agreement"). USC's principal offices are currently located on the Property. In connection with the Merger, Adamis acquired from 4 HIMS the entire fee simple interest in and to the real prop erty and tangible assets that 4 HIMS has agreed to sell and transfer to Adamis (the " Property") pursuant to that certain Purchase and Sale Agreement dated as of March 28, 2016, and entered into by and between Adamis and 4 HIMS for consideration consisting only of the assum ption of the Loan by Adamis. 
+   
+ 
+ 
+   
+ 
+ 
+   
+C.           In connection with the Merger, the Bank has requested that the Loan Parties enter into this Agreement to evidence the following: 
+   
+(a)          The addition of Adamis as a borrower to the Loan Documents, whereby Adamis shall have, effective as of the Agreement Date, all rights, duties, liabilities and obligations under the Loan Documents, and the acceptance and assumption of such rights, duties, liabilities and obligations by Adamis; and 
+   
+(b)          The continuation, except as noted below, of each of the Initial Loan Parties' rights, duties, liabilities and obligations under the Loan Documents as a co-borrower, notwithstanding the acceptance and assumption of such rights, duties, liabilities and obligation by Adamis. 
+   
+ AGREEMENT 
+   
+NOW, THEREFORE, in consideration of the mutual benefits accruing to the parties hereto and other valuable consideration, the receipt and sufficiency of which are hereby acknowledge d, the parties hereto hereby agree as follows: 
+   
+ 1.             Reaffirmation of Loan . 
+   
+ 1.1           Loan . 
+   
+(a)          4 HIMS represents and warrants that as of the Agreement Date, the outstanding principal balance of the Note is Two Million Four Hundred Fifty-Three Thousand Eight Hundred Seventy Nine and 12/100 United Stales Dollars ($2,453,879.12), and payments under the Note are current through the Agreement Date, and the Bank acknowledges and agrees that to its knowledge such amounts represent the outstanding principal balance of the Note. The Bank acknowledges and agrees that 4 HIMS is current in its interest payments or other obliga tions under the Loan Documents that are due and payable before the Agreement Date. 
+   
+(b)          4 HIMS unconditionally and irrevocably agrees to and acknowledges the unqualified and unconditional obligation for the Loan, without defense, affirmative defense, counterclaim, right of setoff, or other impediment to collection, the same, if existing, being expressly released and waived by 4 HIMS in consideration for the Bank entering into this Agreement. 4 HIMS hereby ratifies, affirms, reaffirms, acknowledges, confirms, and agrees that any Loan Documents to which it is a party represent the valid, enforceable, and bindi ng obligations of 4 HIMS. 
+   
+ 1.2           Release. The Initial Loan Parties and Individual Guarantors unconditionally, irrevocably, jointly and severally release the Bank, its respective past, present or future affiliates, subsidiaries, holding company, owners, officers, directors, shareholders, employees, agents, independent contractors, attorneys, or other persons or entities employed or engaged by or affiliated with the Bank, in addition to any purchaser of all or a portion of the Loan and current or future owners of participation in the Loan (collectively, the " Released Parties") (whether signatory hereto or not, and if not a party to this Agreement, being an intended (and not incidental) third party beneficiary hereof) from any causes of action, judgments, executions, suits, debts, claims, demands, liabilities, obligations, damages, and expenses of any and every kind or nature, whether heretofore or hereafter arising, for or because of any matter or thing done, omitted, or suffered to be done by any of the Released Parties prior to and including the date of execution hereof, and in any way directly or indirectly arising out of or in any way connected to this Agreement and the Loan Documents. The provisions of this Section I and the remainder of this Agreement shall inure to the Bank and also run in favor of and inure to the maximum extent permitted by law to intended (and not incidental) third-party beneficiaries, which the Initial Loan Parties and Individual  Guarantors agree shall include, without limitation, the Released Parties. 
+   
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+ 
+   
+ 2.             Addition of Adamis as Co-Borrower under the Loan Documents. Effective as of the Agreement Date, without the necessity of further documentation by the parties hereto, the Loan Documents shall be deemed to be amended to add Adamis as a co-borrower under the Loan, with the intention that, pursuant to such amendment, Adamis shall assume responsibility as borrower for all obligations, duties and liabilities under the Loan Documents, jointly and severally with the current borrower or borrowers under the Loan. Notwithstanding the foregoing, the parties expressly agree each of the Initial Loan Parties shall remain, as applicable, a co-borrower under the Loan Documents as set forth immediately prior to execution of this Agreement, and accordingly; (a) each of the Initial Loan Parties' rights under the Loan Documents shall not be affected, nor shall they be relieved of their obligations, duties and liabilities thereunder, and (b) each of the Initial Loan Parties shall continue to be bound by all of the terms, provisions and conditions contained in the Loan Documents. 
+   
+ 3.             Assumption. Effective as of the Agreement Date, Adamis hereby accepts the foregoing assumption of rights, obligations, duties and liabilities and assumes and agrees to pay and to perform, jointly and severally with each of the Initial Loan Parties (as applicable) all of the obligations, duties and liabilities as an original borrower under the Loan Documents, whether accruing on or after the date hereof, and further agrees that Adamis shall hereafter be bound by all of the terms, provisions and conditions contained in the Loan Documents. Notwithstanding the foregoing assumption by Adamis, except for the Property, each respective security agreement or security interest issued in connection with the Loan will apply only to  the assets of the entity named therein. 
+   
+ 4.             Consent by Bank. Subject to the satisfaction of all conditions precedent set forth in Section 5 hereof, the Bank hereby expressly consents to the transfer of the Property and the foregoing accept ance and assumption;  provided, however, that such consent shall not constitute (a) a waiver of any right of Bank under the Loan Documents to require its consent to any further assignment or delegation or to any transfer or conveyance of any real or personal property for which consent is required under the terms of the Loan Documents, and/or (b) an agreement by the Bank to consent to any such further assignment or delegation or any such transfer or conveyance for which consent is required under the terms of the Loan Documents. Upon the acquisition of the Property by Adamis , Bank consents to the termination of that certain lease between 4 HIMS and USC. 
+   
+ 5.             Conditions Precedent . The following are conditions precedent to Bank's entering into this Agreement: 
+   
+ 5.1           Title Commitment . The irrevocable commitment of Conway Title Services  & Escrow, Inc. (" Title Company") to issue CLTA 110.5, CLTA 104.8 and CLTA 111.4 (or equivalent) endorsements to Title Company's Title Policy No. 72307-44557291, dated December 23, 2014, and Title Policy No. LX  992447, dated August 8, 2014 (" Existing Title Policy"), in each case in form and substance acceptable to Bank and without deletions or exceptions other than as expressly approved by Bank in writing, or the irrevocable commitment of a title company approved by Bank to issue a new policy identical to Existing Title Policy and including such title matters arising after the date of the existing title policy which arc reasonably acceptable to Bank, insuring Bank that the priority and validity of all current mortgages provided by the Initial Loan Parties have not been and will not be impaire d by this Agreement, the conveyance of the Property, or the transactions contemplated hereby. 
+   
+ 
+ 
+ 3 
+ 
+ 
+   
+ 
+ 
+   
+ 5.2           UCC Filings. Lien searches evidencing that the Bank is the sole lienholder with respect to any property securing the Loan, which may be secured by UCC-1 Financing Statements. 
+   
+ 5.3           Certain Documentation. Receipt and approval by Bank of: (a) the executed original of this Agreement; and (b) any other documents and agreements which are required to effectuate the transactions contemplated by this Agreement, determined in the Bank's sole and absolute discretion, in form and content acceptable to Bank. 
+   
+ 5.4           Recordation of Certain Documents. Recordation of such documents and agreements, if any, required pursuant to this Agreement or which Bank has requested to be recorded or filed. 
+   
+ 5.5           Organizational Documents. Delivery to Bank of the organizational documents and evidence of good standing of each of the Loan Parties, together with such resolutions or certificates as Bank may require, in form and content acceptable to Bank, authorizing the assumption and amendment of the Loan and executed by the appropriate persons and /or entities on behalf of each of the Loan Pa rties. 
+   
+ 5.6           Accuracy   of Representations and Warranties . The representations and warranties contained herein are true and correct. 
+   
+ 5.7           Insurance. Receipt by Bank of certificates of insurance evidencing Adamis' casualty insurance policy and comprehensive liability insurance policy with respect to the Property, each in form  and amount satisfactory to Bank. 
+   
+ 5.8           Opinion of Counsel. Bank shall have received such opinions of counsel as may be required by Bank's counsel or the Loan Documents, addressed to Bank with respect to the enforceability, due execution and compliance of this Agreement, the transfer of the Property, and the transactions referenced herein. 
+   
+ 6.             Representations, Warranties and Covenants of Initial Loan Parties. To induce Bank to enter into this Agreement, 4 HIMS and USC, jointly and severally, hereby represent and warrant to, and covenant with, Bank and Adamis as follows: 
+   
+ 6.1.          Status of Title to Property. 4 HIMS lawfully possesses and will hold fee simple title in and to the Property until the transfer to Adamis, and the Mortgage is and will continue to be a first and prior lien o n the Property. 
+   
+ 
+ 
+ 4 
+ 
+ 
+   
+ 
+ 
+   
+ 6.2.          Legal Status: Authority; Enforceability--lnitial Loan Parties. 4 HIMS is an Arkansas limited liability company validly existing and in good standing under the laws of the Stale of Arkansas. USC is an Arkansas corporation validly existing and in good standing under the laws of the State of Arkansas. Each of the Initial Loan Parties has all requisite power and authority to enter into this Agreement and to make the assignments and delegations provided for herein. Upon execution and delivery hereof, this Agreement shall constitute the legal, valid and binding obligations of each of the Initial Loan  Parties, enforceable against each of the Initial Loan Parties in accordance with its terms. 
+   
+ 7.             Representations and Warranties of Adamis. To induce Bank to enter into this Agreement, Adamis hereby represents and warrants to Bank as follows: 
+   
+ 7.1.          Legal Status; Authority; Enforceability--Adamis. Adamis is a Delaware corporation validly existing and in good standing under the laws of the State of Delaware and the State of Arkansas. Adamis has all requisite corporate power and authority to enter into this Agreement and to perform its obligations hereunder. Upon the Agreement Date, the Loan Documents to which Adamis shall have become a party as a result hereof shall constitute the legal, valid and binding obligations of Adamis, enforceable against Adamis in accordance with their respective terms. 
+   
+ 7.2.          Reports. All reports, documents, instruments and information delivered to Bank by Adamis or on behalf of Adamis in connection with Adamis' assumption of liability under the Loan: (a) are correct and sufficiently complete to give Bank accurate knowledge of their subject matter; and (b) do not contain any misrepresentation of a material fact or omission of a material  fact which omission makes the provided information misleading. 
+   
+ 7.3.           Embargoed Person. None of the funds or other assets of Adamis constitute properly of, or are beneficially owned, directly or indirectly, by any person, entity or government subject to trade restrictions under U.S. law, including but not limited to, the USA PATRIOT Act (including the anti-terrorism provisions thereof), the International Economic Powers Act, 50 U.S.C. Â§Â§ 17 01,  et .  seq ., the Trading with the Enemy Act, 50 U.S.C. App. 1  et .  seq., and any Executive Orders or regulations promulgated thereunder, including those related to Specially Designated Nationals and Specially Designated Global Terrorists (" Embargoed Person "). No Embargoed Person has any interest of any nature whatsoever in Adamis. 
+   
+ 8.             General Provisions . 
+   
+ 8.1.          Non-Control. In no event shall the rights of the Bank pursuant to this Agreement or the Loan Documents be deemed to imply the Bank is in control of the business, management or properties of the Loan Parties or has power over the daily management functions and operating decisions made by the Loan Parties. The Loan Parties warrant and represent to the Bank that no misconduct or other improper action by the Bank has taken place prior to the date hereof which could give rise to an affirmative defense or separate cause of action on the part of the Loan Parties. However, should the Loan Parties or the Individual Guarantors (or any of them) have any perception or reason (without requirement of validation) to believe or assert the Bank has not acted in good faith regarding the Loan or should such defense or cause of action exist as of the date hereof, in consideration for Ten Dollars ($10.00), the provisions of this Agreement and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Loan Parties and Individual Guarantors (including all members, managers, employees, agents and independent contractors hereby jointly, severally, unconditionally and irrevocably release, discharge and agree to hold the Released Parties harmless from any claims, or possibility of a claim arising as a result thereof, whether known or unknown. 
+   
+ 
+ 
+ 5 
+ 
+ 
+   
+ 
+ 
+   
+ 8.2.          References in Loan Documents. As of the Agreement Date, as used in the Loan Documents, except for this Agreement and, except as the context may otherwise require, all references in such Loan Documents to Borrower (whether denominated therein as "Borrower" or "Trustor," or otherwise) shall thereafter refer to and mean Adamis and each Initial Loan Party set forth in each of the Loan Docu ments, jointly and severally. 
+   
+ 8.3.          Continuing Force and Effect. Except as modified hereby, all of the terms and provisions of the Loan Documents will remain in full force and effect. 
+   
+ 8.4.          Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto as well as their respective heirs, executors, administrators, successors and permitted assigns . 
+   
+ 8.5.          Governing Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of the State of Arkansas, without reference to conflicts of laws principles. 
+   
+ 8.6.          Entire Agreement. This Agreement constitutes the entire understanding between the parties hereto with respect to the subject matter hereof, superseding all prior written or oral understandings or communications. This Agreement may not be amended or modified, except by a written agreement signed by the applicable Loan Parties (with such applicability determined under each of  the Loan Documents) and Bank. 
+   
+ 8.7.          Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute but one and the same document. 
+   
+ 8.8.          Confirmation By 4 HIMS, USC and Adamis. 4 HIMS and Adamis acknowledge that they are parties to a Purchase and Sale Agreement dated as of March 28, 2016, entered into by and between Adamis and 4 HIMS relating to the transfer of the Property and the assignment to Adamis of obligations under the Loan Documents under an Assignment, Assumption and Consent Agreement dated as of March 28, 2016 (togethe r, the " Assignment Agreements"). 4 HIMS and USC agree that the addition of Adamis as a Borrower under the Loan Agreement as provided in this Agreement, and the assumption by Adamis of obligations thereunder as a Borrower, shall be governed by the provisions of this Agreement rather than by any different or conflicting provisions in the Assignment Agreements, all of which different or co nflicting provisions shall be deemed superseded by the provisions of this Agreement. 
+   
+ [Signatures to Follow.] 
+   
+ 
+ 
+ 6 
+ 
+ 
+   
+ 
+ 
+   
+ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Agreement Date. 
+           INITIAL LOAN PARTIES :           4 HIMS, LLC,     an Arkansas limited liability company         By:       [Signature]           Eddie Glover     [Print Name]           Partner     [Title]           US COMPOUNDING, INC., 
+an Arkansas corporation         By:       [Signature]           Eddie Glover     [Print Name]           CEO     [Title] 
+   
+ [INDIVIDUAL GUARANTORS SIGNATURE PAGE FOLLOWS] 
+   
+ 
+ 
+ 7 
+ 
+ 
+   
+ 
+ 
+   
+   INDIVIDUAL GUARANTORS :         EDDIE GLOVER , an individual         KRISTEN RIDDLE , an individual 
+   
+ [ADAMIS SIGNATURE PAGE FOLLOWS] 
+   
+ 
+ 
+ 8 
+ 
+ 
+   
+ 
+ 
+   
+     ADAMIS :           ADAMIS PHARMACEUTICALS CORPORATION,     a Delaware corporation         By:       [Signature]           Robert O. Hopkins     [Print Name]           CFO     [Title] 
+   
+ [BANK SIGNATURE PAGE FOLLOWS] 
+   
+ 
+ 
+ 9 
+ 
+ 
+   
+ 
+ 
+   
+     BANK :           BEAR STATE BANK, N.A.,     a national banking association         By:       [Signature]           STEVE MOORE     [Print Name]           Executive Vice President     [Title] 
+   
+ 
+ 
+ 10 
+ 
+ 
+   
+ 
+ 
+   
+ Loan No. 5500000152 
+   
+ SEPTEMBER 2016 AMENDED, RESTATED AND SUBSTITUTED PROMISSORY NOTE 
+   
+ $2,453,879.12 
+ November 3, 2016  
+ Effective September 30, 2016 
+___________, Arkansans  
+   
+ FOR VALUE RECEIVED,  US COMPOUNDING, INC. , an Arkansas corporation ("USC"),  4   HIMS, LLC,  an Arkansas limited liability company ("4 Hims"), and  ADAMIS PHARMACEUTICALS CORPORATION, a Delaware corporation ("Adamis") (USC, 4 Hims and Adamis collectively referred to herein as "Maker"), jointly, severally, unconditionally and irrevocably promise to pay to the or der of  BEAR STATE BANK, N.A., a national banking association ("Holder"), or to the order of any subsequent holder hereof, in lawful money of the United States of America, the principal sum of Two Million Four Hundred Fifty Three Thousand Fight Hundred Seventy Nine and 12/100 United States Dollars ($2,453,879.12), together with interest on the outstanding and unpaid principal balance at a fixed rate of Three and Seventy-Five Hundredths percent (3.75%) per annum. In the event the foregoing provisions should be construed by a court of competent jurisdiction not to constitute a valid, enforceable designation of a rate of interest, the unpaid principal balances outstanding hereunder shall bear interest at the maximum rate of interest which Hold er may lawfully charge under applicable law (the "Maximum Rate"). 
+   
+Repayment of the indebtedness represented by this September 2016 Amended, Restated and Substituted Promissory Note (the "Note") shall be as follows: 
+    
+Commencing on November 1, 2016, and continuing on the first (1st) day of each succeeding month through and including August 8, 2019, Maker shall pay to Holder thirty four (34) monthly payments of principal and interest, each in the amount of Fifteen Thousand Four Hundred Eleven and 48/100 United States Dollars ($15,411.48) (as set forth on the amortization s chedule attached hereto as Exhibit A), with a final payment of all outstanding principal, accrued and unpaid interest and all other sums payable pursuant to this Note or the Security Documents (defined below ) being absolutely and unconditionally due and payable on August 8, 2019 (the "Maturity Date"). 
+   
+All installments of principal and interest shall be payable to Holder, at 900 S. Shackleford, Little Rock, Arkansas 72211, or such other place as Holder or the subsequent holder hereof may designate in writing from time to time. If any payment of principal and interest on this Note shall become due on a Saturday, Sunday or public holiday under the laws of the State of Arkansas, such payment shall be made on the next succeeding business day. Any payment made after its due date shall carry a late charge equal to four percent (4.0%) of t he required payment, even if prior to occurrence of an Event of Default (defined below). 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+    
+Maker may prepay this Note in whole or in part, without premium or penalty, at any time. All payments and prepayments made by Maker are to be applied first (1st) to the payment of any late charges, then to payment of any sums due pursuant to the Security Documents (defined below), then to the payment of accrued interest then due at the rate stated herein, an d the balance shall be applied against outstanding principal balances due hereunder. 
+    
+This is a joint, several, irrevocable, unconditional and continuing promise of Maker to pay to Holder the indebtedness evidenced by this Note. 
+   
+Upon occurrence of any of the following events (an "Event of Default"), Holder or any subsequent holder hereof may declare the entire outstanding indebtedness of Maker evidenced by  this Note due and payable as to principal, accrued interest, late charges and any other sums due: 
+   
+(a)        Maker shall fail to pay any amount of principal and interest or any pall thereof, under this Note within ten (10) calendar days after such payment is due; or 
+   
+(b)        Maker shall voluntarily become a party to any insolvency, bankruptcy, composition or reorganization proceeding; or make any assignment for the benefit of creditors; or if any involuntary bankruptcy, insolvency, composition, or other reorganization proceeding be filed against Maker, and the same shall not be dismissed within thirty (30) days after  the commencement of any such involuntary proceeding; or 
+   
+(c)        Upon any default in any of the terms, warranties, covenants and provisions of any Security Document (defined herein) or any other promissory note executed by or other ob ligation owed by Maker to Holder. 
+   
+If this Note is placed in the hands of an attorney for collection, by suit or otherwise, or for the protection of Holder's interest hereunder, Maker shall pay all costs of collecti on and all court costs and attorneys' fees, costs and expenses incurred by Holder. 
+    
+From and after the Maturity Date or the date an Event of Default (in the event of acceleration of the indebtedness evidenced hereby by reason of Maker's default or otherwise), the entire indebtedness due hereunder including any accrued interest and late charges shall bear interest at the Maximum Rate until payment in full of all principal and interest, late  payment charges and other sums due hereunder are made. 
+   
+Maker hereby expressly waives, to the maximum extent permitted by law, any of the following rights: notice of acceleration, demand prior to foreclosure, presentment, protest, or no tice of protest. 
+   
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+It is the intention of Maker and Holder to comply strictly with applicable usury laws. In no event and upon no contingency shall Holder ever be entitled to receive, collect or apply as interest any fees, charges or other payments labeled or ostensibly collected as interest, in excess of the Maximum Rate; and in the event Holder ever receives, collects or applies as interest any such excess, such amount, which but for this provision would be excessive interest, shall be applied to the reduction of the principal amount outstanding under this Note and if such outstanding principal amount and all lawful interest and other sums due is paid in full, any remaining excess shall be paid to Maker or other party lawfully entitled thereto. Any provision hereof or of any other agreement between Maker and Holder that operates to bind, obligate or compel Maker to pay interest in excess of the Maximum Rate shall require payment of the Maximum Rate only. The provisions of this paragraph shall be given precedence over any other provision contained herein or in any other agreement b etween Maker and Holder that is in conflict with the provisions of this paragraph. 
+   
+ This Note shall be construed according to the laws of the State of Arkansas. 
+   
+If any provision hereof shall be construed to be invalid or unenforceable, the remaining provisions hereof shall not be affected by such invalidity or unenforceability. Each term o r provision hereof shall, however, he valid and be enforced to the fullest extent permitted by law. 
+   
+This Note is secured by, and may now or hereafter be secured by, mortgages, guaranties, trust deeds, assignments, security agreements, or other instruments of pledge or hypothecati on (collectively, the "Security Documents" or separately, a "Security Document"). 
+   
+This Note: (i) is merely an amendment and restatement of the existing debt obligations represented by that certain Promissory Note of 4 Hims in favor of Lender in the amount of $2,586,892.09 (Loan No. 5500000152) (the "Initial Note"); (ii) is not a novation, substitution or creation of a new debt obligation of Lender; and (iii) shall not change or affect in any manner the conditions and stipulations of the documents evidencing or securing the loan evidenced by the Initial Note (collectively, the "Loan Documents"), except as herein specifically provided. Specifically, this Note merely restates, amends and substitutes the Initial Note, the indebtedness hereinafter being evidenced by this Note without release of a ny other instrument, Security Document or Loan Document. 
+   
+   
+ [Signature Page Follows] 
+   
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+       MAKER :       US COMPOUNDING, INC.,   an Arkansas corporation       By:   Name: Eddie Glover   Title: CEO       4 HIMS, LLC,   a Nevada limited liability company       By:   Name: Eddie Glover   Title: Partner       ADAMIS PHARMACEUTICALS CORPORATION,   a Delaware corporation       By:   Name: Robert O. Hopkins   Title: CFO 
+   
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT A 
+   
+ [AMORTIZATION SCHEDULE]  
+   
+ 
+ 
+ 5   
+ 
+ 
+   
+ 
+ 
+   
+ 
+   
+ 
+ 
+   
+ 
+ 
+   

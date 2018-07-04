@@ -1,0 +1,335 @@
+ htm 38464 Material contracts 10 2017-03-28T16:33:14.367105-05:00 Filing 0001553350-17-000313 2017-03-28 10-K Annual  & Quarterly Reports 0001403676 GelTech Solutions, Inc. GLTC COMMON OTC 3530 Construction, Mining  & Materials Handling No FLORIDA DELAWARE DELAWARE false Small Reporting Company 000-52993 FORM OF DIRECTOR STOCK OPTION AGREEMENT Exhibit Exhibit 3 gltc_ex10z12.htm EX-10.12 3 gltc_ex10z12.htm FORM OF DIRECTOR STOCK OPTION AGREEMENT 
+   
+ 
+ EXHIBIT 10.12 
+ 
+ NON-QUALIFIED STOCK OPTION AGREEMENT 
+ 
+THIS NON-QUALIFIED STOCK OPTION AGREEMENT (the "Agreement") entered into as of ____________ (the "Grant Date") between GelTech Solutions, Inc. (the "Company") and ______________ (t he "Optionee"). 
+ 
+WHEREAS, by action taken by the Board of Directors (the "Board") it has adopted the 2007 Equity Incentive Plan (the "Plan"); and 
+ 
+WHEREAS, pursuant to the Plan, it has been determined that in order to enhance the ability of the Company to attract and retain qualified employees, consultants and directors, the Company has granted the Optionee the right to purchase the common stock of the Company pursuant to stock options. 
+ 
+NOW THEREFORE, in consideration of the mutual covenants and promises hereafter set forth and for other good and valuable consideration, receipt of which is acknowledged, the partie s hereto agree as follows: 
+ 
+ 1. 
+ Grant of Non-Qualified Options.  The Company irrevocably granted to the Optionee, as a matter of separate agreement and not in lieu of salary or other compensation for services, the right and option to purchase all or any part of ____________ shares of authorized but unissued or treasury common stock of the Company (the "Options") on the terms and conditions herein set forth.  The Options are not intended to be Incentive Stock Options as defined by Section 422 of the Internal Revenue Code of 1986 (the "Code").  The Optionee acknowledges receipt of a copy of the Pl an, as amended. 
+ 
+ 2. 
+ Price .  The exercise price of the Options is $0.______ per share. 
+ 
+ 3. 
+ Vesting - When Exercisable .   
+ 
+ (a) 
+The Options shall vest on _________, subject to the Optionee's continued service with the Company in the capacity for which the Options were granted on the applicable vesting date.  Any fractional vesting shall be rounded up to the extent necessary.  Notwithstanding any other provision in this Agreement, the Options shall vest immediately on the occurrence o f a Change of Control as defined under the Plan (a "Triggering Event");  provided ,  however, that there shall be no immediate vesting under romanette (ii) of the definition of Change of Control if the directors serving just prior to the Triggering Event remain the majority of the Board after the Triggering Event. Additionally, all Options shall vest immediately (subject to the preceding sentence) on the date the Company publicly announces, by press release, by disclosure in a filing with the Securities and Exchange Commission or otherwise (the "Public Announcement"), its intention to sell substantially all of the Company's assets or to enter into a merger or consolidation as described in clauses (i) and (ii) under the definition of Change of Control in the Plan.  If the Optionee exercises the Options within 10 calendar days from the date of the Public Announcement, the Optionee shall be deemed a record holder of the shares underlying the Options as of the record date of the Ch ange of Control. 
+ 
+ 
+ 1 
+ 
+ 
+   
+ 
+ 
+ (b) 
+Subject to Sections 3(c) and 4 of this Agreement, the vested Options may be exercised until 6:00 p.m. New York time for 10 years from the Grant Date (the "Expiration Date"). 
+ 
+ (c) 
+Notwithstanding any other provision of this Agreement, at the discretion of the Board, all Options, whether vested or unvested, shall be immediately forfeited and no longer exercis able if any of the following events occur: 
+ 
+ (1) 
+The Optionee purchases or sells securities of the Company in violation of the Company's insider trading guidelines then in effect; 
+ 
+ (2) 
+The Optionee breaches any duty of confidentiality including that required by the Company's insider trading guidelines then in effect; 
+ 
+ (3) 
+ The Optionee competes with the Company; or 
+ 
+ (4) 
+The Optionee recruits Company personnel for another entity or business within 24 months following termination of services. 
+ 
+ 4. 
+ Termination of Relationship . 
+ 
+ (a) 
+If for any reason, except death or disability as provided below, the Optionee ceases to perform services in the capacity for which the Options were granted, all vested Options as of the date of the termination of services may be exercised by the Optionee at any time within three months following termination of services. 
+ 
+ (b) 
+If the Optionee's services in the capacity for which the Options were granted are terminated as a result of his death, the Optionee's estate or any Transferee, as defined herein, shall have the right to exercise the Optionee's vested Options within the time provided in the Plan subject to Section 3(c).  For the purpose of this Agreement, "Transferee" shall mean a person to whom such shares are transferred by will or by the laws of descent and distribution. 
+ 
+ (c) 
+If the Optionee is unable to perform services in the capacity for which the Options were granted as a result of becoming disabled, within the meaning of Section 22(e)(3) of the Code, the Optionee shall have the right to exercise the Optionee's vested options within the time provided in the Plan. 
+ 
+ (d) 
+Notwithstanding anything contained in this Section 4, the Options may not be exercised after the Expiration Date. 
+ 
+ (e) 
+Any of the Options that were not vested immediately prior to ceasing to perform the services for which the Options were granted shall terminate at that time.   
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+For purposes of this Section 4 "Company" shall include subsidiaries and/or affiliates of the Company. 
+ 
+ 5. 
+ Profits on the Sale of Certain Shares; Redemption.  If any of the events specified in Section 3(c) of this Agreement occur within one year following the date the Optionee last performed services in the capacity for which the Options were granted (the "Termination Date") (or such longer period required by any written agreement), all profits earned from the sale of the Company's securities, including the sale of shares of common stock underlying the Options, during the two-year period commencing one year prior to the Termination Date shall be forfeited and immediately paid by the Optionee to the Company.  Further, in such event, the Company may at its option redeem shares of common stock acquired upon exercise of the Options by payment of the exercise price to the Optionee.  The Company's rights under this Section 5 do not lapse one year from the Termination Date but are a contract right subject to any appropriate statutory limitation pe riod. 
+ 
+ 6. 
+ Method of Exercise .  The Options shall be exercisable by a written notice which shall: 
+ 
+ (a)   
+state the election to exercise the Options, the number of shares to be exercised, the person in whose name the stock certificate or certificates for such shares of common stock is to be registered, address and social security number of such person (or if more than one, the names, addresses and social security numbers of such persons); 
+ 
+ (b)   
+if applicable, contain such representations and agreements as to the holder's investment intent with respect to such shares of common stock as set forth in Section 11 hereof; 
+ 
+ (c)   
+be signed by the person or persons entitled to exercise the Options and, if the Options are being exercised by any person or persons other than the Optionee, be accompanied by proof, satisfactory to counsel for the Company, of the right of such person or persons to exercise the Options; 
+ 
+ (d) 
+be accompanied by full payment of the exercise price by tender to the Company of an amount equal to the exercise price multiplied by the number of underlying shares being purchased either in cash, by wire transfer, or by certified check or bank cashier's check, payable to the order of the Company; and   
+ 
+ (e) 
+be accompanied by payment of any amount that the Company, in its sole discretion, deems necessary to comply with any federal, state or local withholding requirements for income and employment tax purposes.  If the Optionee fails to make such payment in a timely manner, the Company may: (i) decline to permit exercise of the Options or (ii) withhold and set-off against compensation and any other amounts payable to the Optionee the amount of such required payment. Such withholding may be in the shares underlying the Options at the sole d iscretion of the Company. 
+ 
+The certificate or certificates for shares of common stock as to which the Options shall be exercised shall be registered in the name of the person or persons exercising the Option s. 
+ 
+ 
+ 3 
+ 
+ 
+   
+ 
+ 7. 
+ Sale of Shares Acquired Upon Exercise of Options.  If the Optionee is an officer (as defined by Section 16(b) of the Securities Exchange Act of 1934 ("Section 16(b)")) or a director of the Company, any shares of the Company's common stock acquired pursuant to the Options cannot be sold by the Optionee until at least six months elapse from the Grant Date except in case of death or disability or if the gran t was exempt from the short-swing profit provisions of Section 16(b). 
+ 
+ 8. 
+ Anti-Dilution Provisions .  The Options shall have the anti-dilution rights set forth in the Plan. 
+ 
+ 9.   
+ Necessity to Become Holder of Record.  Neither the Optionee, the Optionee's estate, nor any Transferee shall have any rights as a shareholder with respect to any of the shares underlying the Options until such person shall have become the holder of record of such shares.  No cash dividends or cash distributions, ordinary or extraordinary, shall be provided to the holder if the record date is p rior to the date on which such person became the holder of record thereof. 
+ 
+ 10.   
+ Reservation of Right to Terminate Relationship.  Nothing contained in this Agreement shall restrict the right of the Company to terminate the relationship of the Optionee at any time, with or without cause.  The termination of the relationship of the Optionee by the Company, regardless of the reason therefor, shall have the results provided for in Sections 3 and 4 of this Agreement. 
+ 
+ 11.   
+ Conditions to Exercise of Options.  If a Registration Statement on Form S-8 (or any other successor form) is not effective as to the shares of common stock issuable upon exercise of the Options, the remainder of this Section 11 is applicable as to federal law.  In order to enable the Company to comply with the Securities Act of 1933 (the "Securities Act") and relevant state law, the Company may require the Optionee, the Optionee's estate, or any Transferee as a condition of the exercising of the Options granted hereunder, to give written assurance satisfactory to the Company that the shares underlying the Options are being acquired for such persons own account, for investment only, with no view to the distribution of same, and that any subsequent resale of any such shares either shall be made pursuant to a registration statement under the Securities Act and applicable state law which has become effective and is current with regard to the shares being sold, or shall be pursuant to an exemption from registration under the Securities Act and applicable state law. 
+ 
+The Options are subject to the requirement that, if at any time the Board shall determine, in its discretion, that the listing, registration, or qualification of the shares of common stock underlying the Options upon any securities exchange or under any state or federal law, or the consent or approval of any governmental regulatory body, is necessary as a condition of, or in connection with the issue or purchase of the shares underlying the Options, the Options may not be exercised in whole or in part unless such listing, registration , qualification, consent or approval shall have been effected.   
+ 
+ 12.   
+ Transfer.  No transfer of the Options by the Optionee by will or by the laws of descent and distribution shall be effective to bind the Company unless the Company shall have been furnished with written notice thereof and a copy of the letters testamentary or such other evidence as the Board may deem necessary to establish the authority of the estate and the acceptan ce by the Transferee or Transferees of the terms and conditions of the Options. 
+ 
+ 
+ 4 
+ 
+ 
+   
+ 
+ 
+ 13.   
+ Duties of the Company .  The Company will at all times during the term of the Options: 
+ 
+ (a)   
+Reserve and keep available for issue such number of shares of its authorized and unissued common stock as will be sufficient to satisfy the requirements of this Agreement; 
+ 
+ (b)   
+Pay all original issue taxes with respect to the issuance of shares pursuant hereto and all other fees and expenses necessarily incurred by the Company in connection therewith; 
+ 
+ (c)   
+Use its best efforts to comply with all laws and regulations which, in the opinion of counsel for the Company, shall be applicable thereto. 
+ 
+ 14. 
+ Parties Bound by Plan.  The Plan and each determination, interpretation or other action made or taken pursuant to the provisions of the Plan shall be final and shall be binding and conclusive for all p urposes on the Company and the Optionee and the Optionee's respective successors in interest. 
+ 
+ 15. 
+ Severability.  In the event any parts of this Agreement are found to be void, the remaining provisions of this Agreement shall nevertheless be binding with the same effect as though the void p arts were deleted. 
+ 
+ 16. 
+ Arbitration.  Any controversy, dispute or claim arising out of or relating to this Agreement, or its interpretation, application, implementation, breach or enforcement which the parties are unable to resolve by mutual agreement, shall be settled by submission by either party of the controversy, claim or dispute to binding arbitration in Palm Beach County, Florida (unless the parties agree in writing to a different location), before a single arbitrator in accordance with the rules of the American Arbitration Association then in effect.  The decision and award made by the arbitrator shall be final, binding and conclusive on all parties hereto for all purposes, and judgment may be entered thereon in any court having jurisdiction thereof.  Any arbitration proceeding brought under this Agreement shall be subject to all statutes of limitation in the same manner as if an action were filed in court.   
+ 
+ 17. 
+ Benefit.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their legal representatives, successors and assigns. 
+ 
+ 18. 
+ Notices and Addresses.  All notices, offers, acceptance and any other acts under this Agreement (except payment) shall be in writing, and shall be sufficiently given if delivered to the addressees in person, by FedEx or similar receipted delivery, or email (followed by receipted delivery) as follows: 
+ 
+ The Optionee: 
+ To the Optionee at the address on the 
+ signature page of this Agreement 
+ 
+ 
+ 
+ 5 
+ 
+ 
+   
+ 
+ 
+ The Company: 
+ GelTech Solutions, Inc. 
+ 1460 Park Lane South, Suite 1 
+ Jupiter, FL 33458 
+   
+ Attention: Michael Hull 
+ Facsimile: (561) 427-6182 
+ 
+ with a copy to: 
+ Brian Bernstein, Esq. 
+ Nason, Yeager, Gerson, White  & Lioce P.A. 
+ 3001 PGA Blvd., Suite 305 
+ Palm Beach Gardens, FL 33410 
+ bbernstein@nasonyeager.com   
+ Facsimile:  (561) 420-0068 
+ 
+or to such other address as either of them, by notice to the other may designate from time to time.   
+ 
+ 19. 
+ Attorney's Fees.  In the event that there is any controversy or claim arising out of or relating to this Agreement, or to the interpretation, breach or enforcement thereof, and any action or proceeding is commenced to enforce the provisions of this Agreement, the prevailing party shall be entitled to a reasonable attorneys' fees, costs and expenses. 
+ 
+ 20. 
+ Governing Law.  This Agreement and any dispute, disagreement, or issue of construction or interpretation arising hereunder whether relating to its execution, its validity, the obligations provided herein or performance shall be governed or interpreted according to the laws of the State of Delaware without regard to choice of law considerations.   
+ 
+ 21. 
+ Oral Evidence.  This Agreement constitutes the entire Agreement between the parties and supersedes all prior oral and written agreements between the parties hereto with respect to the subject matter hereof.  Neither this Agreement nor any provision hereof may be changed, waived, discharged or terminated orally, except by a statement in writing signed by the party or part ies against whom enforcement or the change, waiver discharge or termination is sought. 
+ 
+ 22. 
+ Counterparts.  This Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.  Th e execution of this Agreement may be by actual, pdf, electronic or facsimile signature. 
+ 
+ 23. 
+ Section or Paragraph Headings.  Section headings herein have been inserted for reference only and shall not be deemed to limit or otherwise affect, in any matter, or be deemed to interpret in whole or in part  any of the terms or provisions of this Agreement. 
+ 
+ 
+ [Signature Page to Follow] 
+ 
+ 
+ 
+ 6 
+ 
+ 
+   
+ 
+IN WITNESS WHEREOF the parties hereto have set their hand and seals the day and year first above written. 
+ 
+ 
+ 
+   
+ 
+ GELTECH SOLUTIONS, INC. 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+   
+ 
+   
+ 
+   
+ 
+ Michael Hull 
+ 
+   
+ 
+   
+ 
+ Chief Financial Officer 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ OPTIONEE: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Address of the Optionee: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 

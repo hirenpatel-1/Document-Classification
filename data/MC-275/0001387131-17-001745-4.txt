@@ -1,0 +1,427 @@
+ htm 119486 Material contracts 10 2017-03-30T17:00:42.082626-05:00 Filing 0001387131-17-001745 2017-03-30 10-K Annual  & Quarterly Reports 0000887247 Adamis Pharmaceuticals Corp ADMP COMMON Nasdaq Capital Market 2834 Pharmaceutical Preparations No CALIFORNIA DELAWARE DELAWARE CELLEGY PHARMACEUTICALS INC false Small Reporting Company 001-36242SEPTEMBER 2016 LOAN AMENDMENT AND CONSOLIDATION AGREEMENT AMONG BEAR STATE BANK, N.A., U.S. COMPOUNDING, INC., TRIBUTE LABS, LLC, AND THE COMPANY Exhibit Exhibit 4 ex10-62.htm EX-10.62 4 ex10-62.htmSEPTEMBER 2016 LOAN AMENDMENT AND CONSOLIDATION AGREEMENT AMONG BEAR STATE BANK, N.A., U.S. COMPOUNDING, INC., TRIBUTE LABS, LLC, AND THE COMPANY 
+ 
+ 
+   
+ 
+ 
+ ADAMIS PHARMACEUTICALS CORPORATION 10-K 
+   
+   
+ Exhibit 10.62 
+   
+ Loan Nos. 5000028-406 and 5000024132 
+   
+ SEPTEMBER 2016 LOAN AMENDMENT AND CONSOLIDATION AGREEMENT 
+   
+THIS SEPTEMBER 2016 LOAN AMENDMENT AND CONSOLIDATION AGREEMENT (the "Amendment") is entered into this 3rd day of November, 2016, with an effective date of September 30, 2016, by an d among  BEAR STATE BANK, N.A., a national banking association and successor in interest to First Federal Bank, its successors and assigns ("Lender"),  US COMPOUNDING, INC.,  an Arkansas corporation ("USC"),  TRIBUTE LABS, LLC,  a Nevada limited liability company ("Tribute"), and  ADAMIS PHARMACEUTICALS CORPORATION, a Delaware corporation ("Adamis") (USC, Tribute and Adamis are collectively referred to herein as the "Borrowers"). 
+   
+WHEREAS, on July 3, 2014, Lender made a loan to USC, in the initial principal amount of approximately Six Hundred Thirty Four Thousand Six Hundred Fifty Seven and 09/100 United States Dollars ($634,657.09) (Loan No. 5000028406) ("USC Loan"), as set forth in that certain Commercial Promissory Note by and between Lender and USC (the "USC Note"); and 
+   
+WHEREAS, on March 21, 2014, Lender made a loan to Tribute, in the initial principal amount of Five Hundred Eighteen Thousand Two Hundred Thirty-Three and 24/100 United States Dollars ($518,233.24) (Loan No. 5000024132) ("Tribute Loan"), as set forth in that certain Commercial Promissory Note by and between Lender and Tribute (the "Tribute Note"); and 
+   
+WHEREAS, the indebtedness pursuant to the USC Loan is secured by that certain Commercial Security Agreement by and between Lender and USC, dated July 3, 2014, covering certain equi pment owned by USC and other property described therein; 
+   
+WHEREAS, the indebtedness pursuant to the Tribute Loan is secured by that certain Commercial Security Agreement by and between Lender and Tribute, dated March 21, 2014, covering ce rtain equipment owned by Tribute and other property described therein; 
+   
+WHEREAS, Adamis entered into a merger transaction with USC (the "Merger"), pursuant to that certain Agreement and Plan of Merger dated as of March 28, 2016. 
+   
+WHEREAS, in connection with the Merger, Lender has requested that the Loan Parties enter into this Amendment to evidence the following: 
+   
+(a)          The addition of Adamis as a borrower to the USC Loan and the Tribute Loan, whereby Adamis shall have, effective as of the date of this Amendment, all rights, duties, liabilities and obligations under the USC Loan and the Tribute Loan, and the acceptance and assumption of such rights, duties, liabilities and obligations by Adamis; and 
+   
+(b)          The continuation, except as noted below, of each of the Loan Parties' rights, duties, liabilities and obligations under the USC Loan and the Tribute Loan as a co-borrower, notwithstanding the acceptance and assumption of such rights, duties, liabilities and obligation by Adamis. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+WHEREAS, Borrowers and Lender desire the USC Loan documents and Tribute Loan documents be amended as set forth in this Amendment and consolidate the USC Loan and the Tribute Loan, but that all other terms, conditions, and provisions of the such loan documents remain in full force and effect solely except as set forth in this Amendment; 
+   
+NOW, THEREFORE, for and in consideration of Lender's agreement to the amendments set forth in this Amendment and the covenants, warranties and representations of Borrower contained herein, Ten Dollars ($10.00) and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged by all parties, it is agreed as follows: 
+   
+ AGREEMENTS 
+   
+The recitals set forth above are not mere recitals of fact but are contractual in nature and are intended by the parties to be incorporated into this Amendment by reference, except in the event of a conflict between the incorporated recitals and the numbered sections of this Amendment, the numbered sections of this Amendment shall control. Terms and provisions which are not otherwise defined herein shall have the same meanings as set forth in the Loan Agreement. 
+   
+ 1.            Consolidation of Loans. The USC Loan and the Tribute Loan are hereby combined and consolidated into a single loan ("Consolidated Loan"). The outstanding principal balance of the Consolidated Loan is $1,152,890.33. The Consolidated Loan shall bear interest from September 30, 2016 at three and 75/100 percent (3.75%) per annum, and the outstanding principal balance and accrued interest shall be payable on demand, but in the absence of demand, in sixty (60) monthly installments of principal plus accrued interest beginning on November 1, 2016, the first fifty nine (59) of which shall be in the amount of $33,939.90 each (as shown on the amortization schedule attached hereto as  Exhibit A), with the outstanding principal balance plus accrued interest becoming due with the 60th and final installment. All installments shall be applied first against accrued interest through the date of payment and the balance of such installment shall be applied to reduce the outstanding principal balance hereunder. 
+   
+ 2.            Consolidation of Notes. The Borrowers have executed and delivered to Lender a Consolidated Promissory Note ("Consolidated Note"), dated effective September 30, 2016, which replaces and supersedes the USC Note (Loan No. 5000028406) and the Tribute Note (Loan No. 5000024132) ("Original Notes"). The Consolidated Note evidences a modification and continuation of the terms of the original indebtedness, evidenced by the Original Notes, including but not limited to, the modification in payment and interest terms set forth in Section 1 above. All security for the Original Notes shall be applicable to the indebtedness as now evidenced by the Consolidated Note, as amended herein. 
+   
+ 3.            Addition of Adamis as Co-Borrower under the Consolidated Loan. Effective as of the date hereof, without the necessity of further documentation by the parties hereto, the Consolidated Loan shall be deemed to be amended to add Adamis as a co-borrower under the Consolidated Loan, with the intention that, pursuant to such amendment, Adamis shall assume responsibility as borrower for all obligations, duties and liabilities under the Consolidated Loan, jointly and severally with the original borrower or borrowers under the USC Loan and Tribute Loan. Notwithstanding the foregoing, the parties expressly agree each of the Loan Parties shall remain, as applicable, a co-borrower under the Consolidated Loan as set forth immediately prior to execution of this Amendment, and accordingly: (a) each of the Loan Parties' rights under the USC Loan and the Tribute Loan shall not be affected, nor shall they be relieved of their obligations, duties and liabilities thereunder, and (b) each of the Loan Parties shall continue to be bound by all of the terms, provisions and conditions contained in the USC Loan documents and the Tribute Loan document s. 
+   
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+ 3.            Assumption. Effective as of the date of this Amendment, Adamis hereby accepts the foregoing assumption of rights, obligations, duties and liabilities and assumes and agrees to pay and to perform, jointly and severally with each of the Loan Parties (as applicable) all of the obligations, duties and liabilities as an original borrower under the Consolidated Loan, whether accruing on or after the date hereof, and further agrees that Adamis shall hereafter be bound by all of the terms, provisions and conditions contained in the USC Loan documents and the Tribute Loan documents. Notwithstanding the foregoing assumption by Adamis, each respective security agreement or security interest issued in connection with the Consolidate d Loan will apply only to the assets of the entity named therein. 
+   
+ 4.             Estoppel; Waiver; Ratification and Release. For and in consideration of the maturity extension granted by Lender, Ten United States Dollars ($10.00) and other good and valuable consideration, receipt and sufficiency being acknowledged, Borrowers, as evidenced by their respective signatures below, agree and acknowledge unqualified and unconditional obligation for the Indebtedness without defense, affirmative defense, counterclaim, right of setoff or other impediment to collection, and the same, if existing, being expressly released and waived by Borrowers in consideration for  Lender entering into this Amendment. 
+   
+ 5.             UCC. Notwithstanding any provisions hereof or execution by Lender, this Amendment (and all documents executed in connection herewith) shall be voidable at the option of Lender should any lien searches or other confirmatory title information regarding the Collateral (to be provided at the expense of Borrower) reflect any default under the Loan or creation of any adverse claim or interest regarding the Collateral. In addition, Borrower authorizes Lender to file any and all initial, amendatory or continuation Uniform Commercial Code filings  deemed necessary by Lender, without necessity of consent by Borrower. 
+   
+ 6.            Good Standing of Borrower. Notwithstanding any provisions hereof or execution by Lender, this Amendment (and all documents executed in connection herewith) shall be voidable at the option of Lender in the event Borrower is not validly existing and under its state of formation at the time of execution of this Amendment. 
+   
+ 7.             Continuation. All of the USC Loan documents and Tribute Loan documents are hereby modified to reflect the terms of this Amendment, and shall continue in full force and effect until the maturity of the Consolidated Note, and any extension or renewals thereof. All other provisions of the loan documents, not specifically modified herein, shall remain in full force and effe ct. 
+   
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+   
+IN WITNESS WHEREOF, the parties hereto have duly executed this Amendment this 3rd day of November, 2016, with an effective date of September 30, 2016.  
+         BORROWER:       US COMPOUNDING, INC., 
+an Arkansas corporation       By:     Name: Eddie Glover   Title: CEO 
+         TRIBUTE LABS, LLC, 
+a Nevada limited liability company       By:     Name: Eddie Glover   Title: Partner 
+         ADAMIS PHARMACEUTICALS CORPORATION, 
+ a Delaware corporation       By:     Name: Robert O. Hopkins   Title: CFO 
+         LENDER :       
+ BEAR STATE BANK, N.A. 
+ a national banking association 
+       By:     Name: Steve Moore   Title: Executive Vice President 
+    
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT A 
+   
+ [AMORTIZATION SCHEDULE] 
+   
+ 
+ 
+ 5   
+ 
+ 
+   
+ 
+ 
+   
+ SEPTEMBER 2016 AMENDED, RESTATEI) AND CONSOLIDATED 
+PROMISSORY NOTE 
+    
+ $1,152,890.33 October 31, 2016 
+Effective September 30, 2016 
+Conway, Arkansas 
+    
+ FOR VALUE RECEIVED,  US COMPOUNDING, INC., an Arkansas corporation ("USC"), TRIBUTE LABS, LLC, a Nevada limited liability company ("Tribute"), and  ADAMIS PHARMACEUTICALS CORPORATION, a Delaware corporation ("Adamis") (USC, Tribute and Adamis collectively referred to herein as "Maker"), jointly, severally, unconditionally and irrevocably promise to pay to the  order of  BEAR STATE BANK, N.A., a national banking association ("Holder"), or to the order of any subsequent holder hereof, in lawful money of the United States of America, the principal sum of One Million One Hundred Fifty Two Thousand Eight Hundred Ninety and 33/100 United States Dollars ($1,152,890.33), together with interest on the outstanding and unpaid principal balance at a fixed rate of Three and Seventy-Five Hundredths percent (3.75%) per annum. In the event the foregoing provisions should be construed by a court of competent jurisdiction not to constitute a valid, enforceable designation of a rate of interest, the unpaid principal balances outstanding hereunder shall bear interest at the maximum rate of interest which Holder may l awfully charge under applicable law (the "Maximum Rate"),  
+   
+Repayment of the indebtedness represented by this September 2016 Amended, Restated and Consolidated Promissory Note (the "Note") shall be as follows: 
+   
+Commencing on November 1, 2016, and continuing on the first (1st) day of each succeeding month through and including October 1, 2021, Maker shall pay to Holder thirty six (36) monthly payments of principal and interest, each in the amount of Thirty Three Thousand Nine Hundred Thirty Nine and 90/100 United States Dollars ($33,939.90), with a final payment of all outstanding principal, accrued and unpaid interest and all other sums payable pursuant to this Note or the Security Documents (defined below) being abso lutely and unconditionally due and payable on October 1, 2019 (the "Maturity Date"). 
+   
+All installments of principal and interest shall be payable to Holder, at 900 S. Shackleford Road, Suite 401, Little Rock, Arkansas 72211, or such other place as Holder or the subsequent holder hereof may designate in writing from time to time. If any payment of principal and interest on this Note shall become due on a Saturday, Sunday or public holiday under the laws of the State of Arkansas, such payment shall be made on the next succeeding business day. Any payment made after its due date shall carry a late charge equal to four percent (4.0%) of the required payment, even if prior to occurrence of an Event of Default (defined below). 
+   
+Maker may prepay this Note in whole or in part, without premium or penalty, at any time. All payments and prepayments made by Maker are to be applied first (1st) to the payment of any late charges, then to payment of any sums due pursuant to the Security Documents (defined below), then to the payment of accrued interest then due at the rate stated herein, an d the balance shall be applied against outstanding principal balances due hereunder. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+    
+This is a joint, several, irrevocable, unconditional and continuing promise of Maker to pay to Holder the indebtedness evidenced by this Note. 
+   
+Upon occurrence of any of the following events (an "Event of Default"), Holder or, any subsequent holder hereof may declare the entire outstanding indebtedness of Maker evidenced b y this Note due and payable as to principal, accrued interest, late charges and any other sums due: 
+    
+(a)        Maker shall fail to pay any amount of principal and interest or any part thereof, under this Note within ten (10) calendar days after such payment is due; or 
+   
+(b)        Maker shall voluntarily become a party to any insolvency, bankruptcy, composition or reorganization proceeding; or make any assignment for the benefit of creditors;   or  if any involuntary bankruptcy, insolvency, composition, or other reorganization proceeding be filed against Maker, and the same shall not be dismissed within thirty (30) days after  the commencement of any such involuntary proceeding; or 
+   
+(c)        Upon any default in any of the terms, warranties, covenants and provisions of any Security Document (defined herein) or any other promissory note executed by or other ob ligation owed by Maker to Holder. 
+   
+ If this   Note  is placed in the hands of all attorney for collection, by suit or otherwise, or for the protection of Holder's interest hereunder, Maker shall pay all costs of collection and all c ourt costs and attorneys' fees, costs and expenses incurred by Holder. 
+   
+From and after the Maturity Date or the date of all Event of Default (in the event of acceleration of the indebtedness evidenced hereby by reason of Maker's default or otherwise), the entire indebtedness due hereunder including any accrued interest and late charges shall bear interest at the Maximum Rate until payment in full of all principal and interest, l ate payment charges and other scams due hereunder are made. 
+   
+Maker hereby expressly waives, to the maximum extent permitted by law, any of the following rights: notice of acceleration, demand prior to foreclosure, presentment, protest, or no tice of protest. 
+   
+It is the intention of Maker and Holder to comply strictly with applicable usury laws. In no event and upon no contingency shall Holder ever be entitled to receive, collect or apply as interest any fees, charges or other payments labeled or ostensibly collected as interest, in excess of the Maximum Rate; and in the event Holder ever receives, collects or applies as interest any such excess, such amount, which but for this provision would be excessive interest, shall be applied to the reduction of the principal amount outstanding under this Note and if such outstanding principal amount and all lawful interest and other sums due is paid in full, any remaining excess shall be paid to Maker or other party lawfully entitled thereto. Any provision hereof or of any other agreement between Maker and Holder that operates to bind, obligate or compel Maker to pay interest in excess of the Maximum Rate shall require payment of the Maximum Rate only. The provisions of this paragraph shall be given precedence over any other provision contained herein or in any other agreement b etween Maker and Holder that is in conflict with the provisions of this paragraph.  
+   
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+ 
+   
+   
+ This Note shall he construed according to the laws of the State of Arkansas. 
+   
+If any provision hereof shall be construed to be invalid or unenforceable, the remaining provisions hereof shall not be affected by such invalidity or unenforceability. Each term o r provision hereof shall, however, be valid and be enforced to the fullest extent permitted by law. 
+   
+ This Note is secured by, and may now or hereafter be secured by, mortgages, guaranties,  trust deeds, assignments, security agreements, or other instruments of pledge or hypothecation  (collectively, the "Security Documents" or separately, a "Security Document"). 
+   
+This Note: (i) is merely an amendment and restatement of the existing debt obligations represented by: (A) that certain Promissory Note of USC in favor of Lender in the amount of $634,657.09 (Loan No. 5000028406) (the "USC Initial Note") and (B) that certain Promissory Note of Tribute in favor of Lender in the amount of $518,233.24 (Loan No. 5000024132) (the "Tribute Initial Note"); (ii) is not a novation, substitution or creation of a new debt obligation of Lender; and (iii) shall not change or affect in any manner the conditions and stipulations of the documents evidencing or securing the loan evidenced by the USC Initial Note or the Tribute Initial Note (collectively, the "Loan Documents"), except as herein specifically provided. Specifically, this Note merely restates, amends and consolidates the USC Initial Note and the Tribute Initial Note, the indebtedness hereinafter being eviden ced by this Note without release of any other instrument, Security Document or Loan Document. 
+   
+ [Signature Page Follows] 
+   
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+   MAKER :       US COMPOUNDING, INC.,   an Arkansas corporation       By:   Name: Eddie Glover   Title: CEO       TRIBUTE LABS, LLC,   a Nevada limited liability company       By:   Name: Eddie Glover   Title: Partner       ADAMIS PHARMACEUTICALS CORPORATION,   a Delaware corporation       By:   Name: Robert O. Hopkins   Title: CFO 
+   
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+    
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ AMENDED AND RESTATED SECURITY AGREEMENT 
+ [Equipment] 
+   
+THIS AMENDED AND RESTATED SECURITY AGREEMENT (this "Agreement") entered into this 3rd day of November, 2016, with an effective date of September 30, 2016, by and between  US COMPOUNDING, INC. , an Arkansas corporation,  TRIBUTE LABS, LLC , a Nevada limited liability company, and  ADAMIS PHARMACEUTICALS CORPORATION , a Delaware corporation (collectively, the "Grantors" or "Borrowers"), and  BEAR STATE BANK, N.A. , a national banking association, its successors and assigns ("Lender"), as follows: 
+   
+ W I T N E S S E TH 
+   
+WHEREAS, in August 2014, US COMPOUNDING, INC. ("USC") entered into a Commercial Promissory Note, Commercial Security Agreement and related documents (the "USC Loan Documents") with Lender, pursuant to which Lender made a loan to USC in the original principal amount of Six Hundred Thirty Four Thousand Six Hundred Fifty Seven and 09/100 United States Dollars ( $634,657.09) (Loan No. 5000028406) ("USC Loan"); 
+   
+WHEREAS, on or about March 21, 2014, TRIBUTE LABS, LLC ("Tribute") entered into a Commercial Promissory Note, Commercial Security Agreement and related documents (the "Tribute Loan Documents") with Lender, pursuant to which Lender made a loan to Tribute in the original principal amount of Five Hundred Eighteen Thousand Two Hundred Thirty-Three and 24/100 Uni ted States Dollars ($518,233.24) (Loan No. 50000024132) ("Tribute Loan"); 
+   
+WHEREAS, Borrowers and Lender desire the USC Loan documents and Tribute Loan documents have been amended and the USC Loan and the Tribute Loan have been consolidated as set forth in that certain September 2016 Loan Amendment and Consolidation Agreement ("Consolidation Agreement"); and 
+   
+WHEREAS, pursuant to the Consolidation Agreement, the Commercial Security Agreement securing the USC Loan and the Commercial Security Agreement securing the Tribute Loan are amende d and restated as set forth below. 
+   
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Grantors hereby agree with Lender as follows: 
+    
+ 1.          Definitions . 
+   
+(a)        All terms used in this Agreement which arc defined in the USC Loan Documents, the Tribute Loan Documents, or in the Uniform Commercial Code of the State of Arkansas (the "Code") and which are not otherwise defined herein shall have the same meanings herein as set forth therein. 
+   
+ (b)        The term "Event of Default" shall have the meaning set out in Section 7 hereof. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 2.             Grant of Security Interest . As collateral security for all of the Obligations (as defined in Section 3 hereof), Grantors hereby pledge, grant, bargain, sell, convey and assign to Lender, and grant to Lender  a continuing security interest in, the following (collectively, the "Collateral"): 
+    
+ (a)           All Equipment described in  Exhibit A  attached hereto and incorporated herein; and 
+    
+(b)           Any and all substitutions and replacements therefor, and all product and proceeds of any and all of the foregoing Collateral and, to the extent not otherwise included . 
+    
+In each case, whether now owned or hereafter acquired by Grantors and howsoever Grantors' interest therein may arise or appear. 
+    
+ 3.             Security for Obligations . The security interest created hereby in the Collateral constitutes continuing collateral security for all of the following obligations, whether now existing or hereafter incurred  (the "Obligations"): 
+    
+(a)           The full and prompt payment when due of the indebtedness evidenced by the USC Loan Documents, the Tribute Loan Documents, the Consolidation Agreement, and any and all  renewals, modifications and extensions thereof, in whole or in part; 
+   
+(b)           The due performance and observance by Grantor of all of its covenants, agreements, representations, liabilities, obligations, and undertakings as set forth herein, or in the USC Loan Documents, the Tribute Loan Documents, the Consolidation Agreement, or in any other instrument or document which now or at any time hereafter evidences or secures  all or any part of the Obligations hereby secured. 
+    
+ 4.             Representations and Warranties . Grantors represent and warrant as follows: 
+   
+(a)          Grantors own the Collateral free and clear of any lien, security interest or other charge or encumbrance except for the security interest created by this Agreement, and except for the financing statements filed in favor of Lender relating to this Agreement, or indication of Lender's security interest on the certificate of title with the applicable state licensing authority for such item of Collateral, no other financing statement, notation on the certificate of title, or other instrument similar in effect covering all or any part of the Collateral is on file in any recording office, nor is any lien or security interest on the Collateral provided by any contract or agreement to which Grantors are a  party. 
+   
+(b)           The exercise by Lender of its rights and remedies hereunder will not contravene any law or governmental regulation or any contractual restriction binding on or affecting Grantors or any of Grantors' properties and will not result in or require the creation of any lien, security interest or other charge or encumbrance upon or with respect to any  of Grantors' properties. 
+   
+ (c)           No authorization or approval or other action   by, and  no notice to or filing with, any governmental authority or other regulatory body is required either for the grant by Grantors of the security interest created hereby in the Collate ral or for the exercise by Lender of its rights and remedies hereunder. 
+   
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+(d)          This Agreement creates a valid presently conveyed security interest in favor of Lender in the Collateral, there being no agreement to delay attachment of such security interest. The filing of financing statements with the Secretary of State of Arkansas and notation of Lender's security interest on the certificate of title will perfect and establish the first priority of Lender's security interest hereunder in the Collateral, subject to no other liens, security interests, and encumbrances. Except as set forth in this Section 4(e), no action is necessary or desirable to perfect or otherwise protect such security interest. 
+    
+ 5.             Covenants as to the Collateral . So long as any of the Obligations shall remain outstanding, unless Lender shall otherwise consent in writing: 
+   
+ (a)           Further Assurances. Grantors will at Grantors' expense, at any time and from time to time, promptly execute and deliver all further instruments and documents and take all further action Lender deems necessary or desirable or that Lender may request in order (i) to perfect and protect the security interest created or purported to be created hereby; (ii) to enable Lender to exercise and enforce its rights and remedies hereunder in respect of the Collateral; or (iii) to otherwise effect the purposes of this Agreement, including, without limitation: (A) executing and filing such financing or continuation statements, or amendments thereto, as Lender deems necessary or desirable or that Lender may request in order to perfect and preserve the security interest created hereby; (B) permitting Lender to file notations on any certificates of title for any item of Collateral; and (C) furnishing to Lender from time to time statements and schedules further identifying and describing the Collateral and such other reports in connection with the Collateral as Lender may reasonably request, all in r easonable detail. 
+   
+ (b)           Transfers and other Liens. Without the prior written consent of Lender, Grantors will not: (i) sell, assign (by operation of law or otherwise), exchange, or otherwise dispose of any of the Collateral; or (ii) create or suffer to exist any lien, security interest or other charge or encumbrance upon or with respect to any of the Collateral except for the security interest created by t his Agreement or as allowed by Section 4(b) of this Agreement. 
+    
+ 6.             Additional Provisions Concerning the Collateral . 
+   
+ (a)           Grantors hereby authorize Lender to file, without the signature of Grantors as permitted by law, one or more financing or continuation statements, and amendments thereto, relating  to the Collateral. 
+     
+(b)          Grantors hereby authorize Lender to file notations on any certificate of title with the applicable state licensing authority, relating to the Collateral. 
+    
+ (c)           Grantors hereby irrevocably appoint Lender as Grantors' attorney-in-fact and proxy, with full authority in the place and stead of Grantors and in the name of Grantors or otherwise, from time to time in Lender's discretion, to take any action and to execute any instrument which Lender may deem necessary or advisable to accomplish the purposes of this Agreement. Grantors hereby ratify and approve all acts of said attorney; and the attorney so long as the attorney acts in good faith it shall have no liability to Grantors for any act or omissio n as such attorney. 
+   
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+(d)           If Grantors fail to perform any agreement contained herein, Lender may itself perform, or cause performance of such agreement or obligation, and the expenses of Lender incurred in connection therewith shall be payable by Grantors under Section 8 hereof, and shall be fully secured hereby. 
+   
+(e)           The powers conferred on Lender hereunder are solely to protect its interest in the Collateral and shall not impose any duty upon it to exercise any such powers. Except for custody of any Collateral in its possession and the accounting for moneys actually received by it hereunder, Lender shall have no duty as to any Collateral or as to the taking of any necessary steps to preserve rights against prior parties or any other rights pertaining to any Collateral. 
+   
+(f)           Anything herein to the contrary notwithstanding: (1) Grantors shall remain liable under any contracts and agreements included in or relating to the Collateral to the extent set forth therein to perform all of Grantors obligations thereunder to the same extent as if this Agreement had not been executed; (ii) the exercise by Lender of any of its rights hereunder shall not release Grantor from any of Grantors' duties or obligations under the contracts and agreements included in or relating to the Collateral; and (iii) Lender shall not have any obligation or liability by reason of this Agreement under any contracts and agreements included in or relating to the Collateral, nor shall Lender be obligated to perform any of the obligations or duties of Grantor thereunder or to take any action to collect or enforce any claim for payment assigned hereunder. 
+   
+ 7.             Events of Default . An Event of Default shall be deemed to have occurred hereunder upon the occurrence of a failure or default in the full, faithful and prompt payment or performance of any one or mo re of the Obligations, and shall include, but shall not be limited to: 
+   
+ (a)           Any default in the full and prompt payment when   due of   all or any part of any indebtedness constituting part of the Obligations secured hereby; 
+   
+(b)           Any default by Grantors in the full, faithful and prompt payment or performance of any covenant, agreement, liability, obligation, condition or undertaking on Grantors' part to be paid, met, kept, observed or performed pursuant to the provisions hereof after expiration of notice and any right of Grantors to cure; 
+   
+(c)          Any default by Borrowers in the full, faithful and prompt payment or performance of any covenant, agreement, liability, obligation, condition or undertaking on Borrowers' part to paid, met, kept, observed or performed pursuant to the provisions of the USC Loan Documents, Tribute Loan Documents, Consolidation Agreement, or of any other instrument  or document now or hereafter evidencing or securing all or any part of the Obligations; or 
+   
+(d)          Any warranty or representation contained herein or in the USC Loan Documents, Tribute Loan Documents, Consolidation Agreement, or any document executed in connection t herewith, shall prove to have been false or materially misleading as of the time made. 
+   
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+    
+ 8.             Remedies Upon Default . If an Event of Default shall have occurred: 
+   
+(a)          Lender may exercise in respect of the Collateral, in addition to other rights and remedies provided for herein or otherwise available to it, all the rights and remedies of a secured party on default under the Code (whether or not the Code applies to the affected Collateral), and also may (i) require Grantors to, and Grantors hereby agree Grantors will at Grantors' expense and upon request of Lender forthwith, assemble all or part of the Collateral as directed by Lender and make it available to Lender at a place to be designated by Lender which is reasonably convenient to both parties; and (ii) without notice except as specified below, sell the Collateral or any part thereof in  one or more parcels at public or private sale, at any   of  Lender's offices or elsewhere, for cash, on credit or for future delivery, and at such price or prices and upon such other terms as Lender may deem commercially reasonable. Grantors agree that, to the extent notice of sale shall be required by law, at least ten (10) days notice to Grantor of the time and place of any public sale or the time after which any private sale is to be made shall constitute reasonable notification. Lender shall not he obligated to make any sale of Collateral regardless of notice of sale having been given. Lender may adjourn any public or private sale from time to time by announcement at the time and place fixed therefor, and such sale may, Without further notice, be made at the time an d place to which it was so adjourned. 
+   
+(b)          Any cash held by Lender as Collateral and all cash proceeds received by Lender in respect of any sale of, collection from, or other realization upon, all or any part o f the Collateral under the provisions of the Code or this Agreement shall be applied as follows: 
+   
+(i)         First, to the repayment of the reasonable costs and expenses, including reasonable attorneys' fees and legal expenses, incurred by Lender in connection with (A) the administration of this Agreement, (B) the custody, preservation, use, or operation of, or the sale of, collection from, or other realization upon, any Collateral, (C) the exercise or enforcement of any of the rights of Lender hereunder, or (D) the failure of Grantors to perform or observe any of the provisions hereof; 
+   
+ (ii)        Second, to the satisfaction of the Obligations, in such order as Lender shall elect; 
+   
+(iii)       Third, the surplus proceeds, if any, to Grantors or to whomsoever shall be lawfully entitled to receive the same or as a court of competent jurisdiction shall direct. 
+   
+(c)           In the event that the proceeds of any such sale, collection or realization are insufficient to pay all amounts to which Lender is legally entitled, Grantors shall be liable for the deficiency, together with interest thereon at such rate(s) as shall be fixed by instruments evidencing the obligations with respect to which such deficiency exists, together with the costs of collection and the reasonable fees of any attorneys employed by Lender to collect such deficiency. 
+   
+ 9.             Rights and Duties of Lender, Etc . Lender undertakes, as to this Agreement, to exercise only such duties as are specifically set forth in this Agreement and to exercise such of the rights, powers and remedies as are vested in it by, this Agreement or by law. In any instance hereunder where Lender's approval or consent is required or the exercise of Lender's judgment is required, the granting or denial of such approval or consent and the exercise of such judgment shall be within the sole discretion of Lender, and Lender shall not, for any reason or to any extent, be re quired to grant such approval or consent or exercise such judgment. 
+   
+ 
+ 
+ 5   
+ 
+ 
+   
+ 
+ 
+   
+ 10.           Indemnity and Expenses . 
+   
+(a)             Grantors agree to indemnify Lender from and against any and all claims, losses, and liabilities growing out of or resulting from this Agreement (including, without limitation, enforcement of this Agreement), except claims, losses, or liabilities resulting solely and directly from Lender's gross negligence or willful misconduct. 
+    
+(b)            Grantors will upon demand pay to Lender the amount of any and all reasonable cost and expenses, including the fees and disbursements of Lender's counsel and of any experts and agents, which Lender may incur in connection with (i) the administration of this Agreement (excluding the salary of Lender's employees and Lender's normal and usual overhead expenses); (ii) the custody, preservation, use, or operation of, or the sale of, collection from, or other realization upon, any Collateral; (iii) the exercise or enforcement of any of the rights of Lender hereunder; or (iv) the failure by Grantors to perform or observe any of the provisions hereof, except expenses resulting solely and directly from Len der's gross negligence or willful misconduct. 
+   
+ 11.          Notices, Etc .  All notices and other communications provided for hereunder shall be in writing and shall be given and deemed received as set forth in the Loan Agreement. 
+   
+ 12.          Security Interest Absolute . All rights of Lender, all security interests and all Obligations of Grantors hereunder shall be absolute and unconditional irrespective of: (i) any lack of validity or enforceability of any provision or portion of the USC Loan Documents, Tribute Loan Documents, Consolidation Agreement, or any other agreement or instrument relating thereto (so long as the obligations of Lender as a whole remain enforceable); (ii) any change in the time, manner, or place of payment of, or in any other term in respect of, all or any of the Obligations, or any other amendment or waiver of or consent to any departure from this Security Agreement, USC Loan Documents, Tribute Loan Documents, Consolidation Agreement, or any other agreement or instrument relating thereto; (iii) any increase in, addition to, or exchange, release, or non-perfection of, any other collateral, or any release or amendment or waiver of or consent to departure from any guaranty, for all or any of the Obligations; (iv) any other circumstance which might otherwise constitute a defense available to, or a discharge o f, Grantors in respect of the Obligations or this Security Agreement; or (v) the absence   of any  action on the part of Lender to obtain payment or performance of the Obligations from Grantors or any other party. 
+   
+ 13.          Miscellaneous . (a) No amendment of any provision of this Agreement shall be effective unless it is in writing and signed by Grantors and Lender, and no waiver of any provision of this Agreement, and no consent to any departure by Grantors therefrom, shall be effective unless it is in writing and signed by Lender, and then such waiver or consent shall be effective only in  the specific instance and for the specific purpose for which given. 
+   
+ 
+ 
+ 6   
+ 
+ 
+   
+ 
+ 
+   
+(b)           No failure on the part of Lender to exercise, and no delay in exercising, any right hereunder or under any other instrument or document shall operate as a waiver thereof; nor shall any single or partial exercise of any such right preclude any other or further exercise thereof or the exercise of any other right. The rights and remedies of Lender provided herein and in the other instruments and documents are cumulative and are in addition to, and not exclusive of, any rights or remedies provided by law. The rights of Lender under the USC Loan Documents, Tribute Loan Documents, Consolidation Agreement, or any other instrument which now or hereafter evidences or secures all or part of the Obligations, or any related document against any party thereto are not conditional or contingent on any attempt by Lender to exercise any of its rights under any other such instrument or docum ent against such party or against any other party. 
+   
+(c)           Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or invalidity without invalidating the remaining portions hereof or thereof or affecting the validity or enforceability of such provision in any other jurisdiction. 
+    
+(d)          This Agreement shall create a continuing security interest in the Collateral and shall (i) remain in full force and effect until the termination of the duties and obligations of Grantors under the USC Loan Documents, Tribute Loan Documents, Consolidation Agreement, and, thereafter, until the payment in full of the Obligations, (ii) be binding on Grantors and Grantors' successors and permitted assigns and shall inure, together with all rights and remedies of Lender hereunder, to the benefit of Lender and its respective successors, transferees, and assigns. None of the rights or obligations of Grantors hereunder may be assigned or otherwise transferred without the prior written consent of Lender. 
+   
+(c)          Upon the termination of the duties and obligations of Grantors under the USC Loan Documents, Tribute Loan Documents, Consolidation Agreement and the satisfaction in full of the Obligations, Lender will, upon Grantors' request and at Grantors' expense, (i) return to Grantors such of the Collateral as shall not have been sold or otherwise disposed of or applied pursuant to the terms hereof; and (ii) execute and deliver to Grantors such documents as Grantors shall I reasonably request to evidence termination of the security  interest herein granted. 
+   
+(f)           This Agreement shall be governed by and construed in accordance with the laws of the State of Arkansas. 
+   
+ (g)           The captions or headings of the Sections of this Agreement are inserted merely for convenience of reference and shall not be deemed to limit or modify the terms and provisions hereof. 
+   
+ 
+ 
+ 7   
+ 
+ 
+   
+ 
+ 
+   
+ IN WITNESS WHEREOF, Grantors and Lender have executed and delivered this Agreement. 
+   
+   GRANTORS :       US COMPOUNDING, INC.,   an Arkansas corporation       By:   Name: Eddie Glover   Title: CEO       TRIBUTE LABS, LLC   an Arkansas limited liability company       By:   Name: Eddie Glover   Title: Partner       ADAMIS PHARMACEUTICALS CORPORATION,   a Delaware corporation       By:   Name: Robert O. Hopkins   Title: CFO         LENDER :         BEAR STATE BANK, N.A.   a national banking association       By:   Name: Steve Moore   Title: Executive Vice President 
+   
+ 
+ 
+ 8   
+ 
+ 
+   
+ 
+ 
+   
+   
+    
+ 
+ 
+ 9   
+ 
+ 
+   
+ 
+ 
+    
+ EXHIBIT A 
+   
+ Turbofil VERS-40 Vial Filling and Capping System, and 
+   
+CTM Model 360A together with all accessions, parts, imbedded software, attachments, accessories, tools, and dies, or appurtenances thereto intended for use in connection therewith,  and all substitutions, betterments, and replacements thereof and additions thereto. 
+   
+ 
+ 
+ 10   
+ 
+ 
+   

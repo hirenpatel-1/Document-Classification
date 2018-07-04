@@ -1,0 +1,856 @@
+ htm 286399 Material contracts 10 2017-03-23T09:00:18.257243-05:00 Filing 0001349929-17-000024 2017-03-23 10-K Annual  & Quarterly Reports 0001349929 CANCER GENETICS, INC CGIX COMMON Nasdaq Capital Market 8071 No NEW JERSEY DELAWARE DELAWARE CANCER GENETICS INC false Small Reporting Company 001-35817 EXHIBIT 10.82 Exhibit Exhibit 3 exh1082pfgtermnote.htm EX-10.82 3 exh1082pfgtermnote.htm EXHIBIT 10.82 
+ 
+ 
+ 
+ 
+ 
+ Partners for Growth 
+ Loan and Security Agreement 
+ Borrower:        Cancer Genetics, Inc., a Delaware corporation ("Parent") 
+ Address:        201 Route 17 N., 2nd Floor, Rutherford, NJ 07070 
+ Borrower:        Gentris, LLC, a Delaware limited liability company ("Gentris")     
+ Address:        33 Southcenter Court, Ste. 400, Morrisville, NC 27560 
+ Date:            March 22, 2017 
+ THIS LOAN AND SECURITY AGREEMENT  (this "Agreement") is entered into on the above date (the "Effective Date") between PARTNERS FOR GROWTH IV, L.P. ("PFG"), whose address is 1660 Tiburon Blvd., Suite D, Tiburon, CA 94920 and Parent and Gentris (collectively, jointly and severally, "Borrower"), whose chief executive offices are located at the addresses set forth below their respective names above (with respect to each Borrower, such "Borrower's Address"). The Schedule to this Agreement (the "Schedule") being signed by the parties concurrently with the execution and delivery of this Agreement is an integral part of this Agreement. Definitions of certain terms used in this Agreement are set forth in Section 7 below. 
+ 1.    THE LOAN. 
+ 1.1 The Loan.  Subject to the terms and conditions of this Agreement, on the Effective Date, PFG will make a loan to Borrower in the original principal amount set forth in Section 1 of the Schedu le (the "Loan"). 
+ 1.2 Interest.  The Loan and all other monetary Obligations shall bear interest at the rate(s) shown in the Schedule, except where otherwise expressly set forth in this Agreement. Interest shall be due and payable monthly on the first day of each calendar month for interest accrued during the prior calendar month (or such other Billing Period and on the Maturity Date (or immediately upon acceleration of the Loan, if earlier). Interest payable from time to time on Loan principal will be determined by multiplying outstanding Loan principal by the per annum interest rate set forth in Section 2 of the Schedule and dividing such product by 360 to render a daily interest amount, which daily interest amount will be multiplied by the principal amount outstanding on actual number of days elapsed in each month (or other Billing Period) to derive the amount of interest due in such month (or other Billing Period In computing interest, (i) all payments received after 12:00 p.m. U.S. Pacific time on any day shall be deemed received at the opening of business on the next Business Day, and (ii) the date of the making of the Loan shall be included and the date of payment shall be excluded; provided, however, that if the Loan is repaid on the same day on which it is made, s uch day shall be included in computing interest on the Loan. 
+ 1.3 Fees.  Borrower shall pay PFG the Loan Fee shown on the Schedule, in addition to all Lender Expenses and all other fees and expenses payable to PFG under this Agreement or any other Loan  Documents, all of which are not refundable. 
+ 1.4 Loan Requests.  To make any request of PFG in relation to the Loan, Borrower shall make a Qualifying Request to PFG compliant with Section 8.5. Loan Requests are not deemed made until PFG acknowledges receipt of the same by electronic mail or otherwise in writing. Without limiting the effect of Section 8.22, each Borrower appoints the Responsible Officer(s) as its authorized agent to make Loan Requests and any Loan Request made by such Responsible Officer(s) shall be binding on each Borrower as if made by its own respective officers who are duly authorized to bind Borrower in respect of this Agreement. PFG's obligation to fund a Loan Request shall be subject to its receipt of such reports, certificates and other information as may be set forth in the Schedule. Loan Requests received after 12:00 Noon U.S. Pacific time on any Business Day will not be deemed to have been received by PFG until the next Business Day. PFG may rely on any Loan Request given by a person whom PFG believes in good faith is a Responsible Officer, and Borrower will indemnify PFG for any loss PFG suffers as a  result of that reliance. 
+ 1.5 Late Fee.  If any payment of interest or any other monetary Obligation is not received by PFG by the end of the third Business Day after the later of (i) the date for such payment to be received by PFG as reflected in any PFG invoice that may be sent from time to time to Borrower and (ii) such Obligation's Due Date, then upon each such failure to timely pay Borrower shall pay PFG a late payment fee equal to 5% of the amount of the payment due and not timely paid. Notwithstanding anything to the contrary set forth in this Agreement, the imposition of any late payment fee and Borrower's payment thereof shall not be construed as PFG's waiver of Borrower's obligation to pay such amount or any other amount when due, and PFG's  acceptance 
+ 
+ 
+ 
+ 
+ 
+ 
+of any late payment or late payment fee shall not restrict PFG's exercise of any remedies arising out of any such failure. Unless expressly waived in writing by PFG in its sole discretion, interest at the Default Rate shall apply to all monetary Obligations not timely paid from and including the date when Borrower's obligation to pay the aforementioned late  payment fee arises until the date of payment. 
+ 1.6 Invoicing . PFG will deliver invoices to Borrower (i) not later than the 25 th  day of each calendar month with respect to interest on the outstanding principal balance of the Loan due on the first day of the next succeeding calendar month, and (ii) not less than five (5) Business Days before the Due Date therefor with respect to other monetary Obligations; provided, however, the failure of PFG to send or Borrower to receive an invoice for payment of any monetary Obligations shall in no event excuse Borrower from its obligation to make such payment on the Due Date therefor. 
+ 2. SECURITY INTEREST. 
+ 2.1 Grant of Security Interest.  To secure the payment and performance of all of the Obligations when due, Borrower hereby grants to PFG a continuing security interest in and Lien upon, and pledges to PFG, all of the following (collectively, the "Collateral"): all right, title and interest of Borrower in and to all of the following, whether now owned or hereafter arising or acquired, and wherever located (collectively, the "Collateral"): all Accounts; all Inventory; all Equipment; all Collateral Accounts (including Deposit Accounts); all General Intangibles (including without limitation all Intellectual Property); all Investment Property; all Other Property; and any and all claims, rights and interests in any of the above, together with all guaranties and security for, all substitutions and replacements for, all additions, accessions, attachments, accessories, and improvements to, and all proceeds (including proceeds of any insurance policies, proceeds of proceeds and claims against third parties) of, any and all of the above, together with Borrower's books relating to any and all of the above. To the extent the Collateral includes Borrower's ownership interests in non-U.S. Subsidiaries, the grant of a security interest in such ownership interests shall be limited to 65% of the voting equity interests in such Persons. Notwithstanding the foregoing, Collateral shall not include (i) motor vehicles and similar assets the perfection of a security interest in which would be governed by state "Certificate of Title" laws by notating the security interest on the certificate of title, (ii) real property or interests therein, and (iii)  lease security deposits and the CD Accounts. 
+ 3. REPRESENTATIONS, WARRANTIES AND COVENANTS OF BORROWER. 
+In order to induce PFG to enter into this Agreement, to make the Loan and to continue to grant credit accommodations to Borrower, Borrower represents and warrants to PFG, except to  the extent otherwise specified in   Exhibit A, as follows, and Borrower covenants that the following representations will continue to be true in all material respects (except for representations expressly made as of a particular date, in which case such representations will continue to be true as of said date), and that Borrower will at all times comply in all material respects with all of the following covenants, in each case throughout the term of this Agreement and thereafter until all Obligations have been paid and performed in full: 
+ 3.1 Corporate Existence, Authority and Consents.  Borrower is, and will continue to be, duly organized, validly existing and in good standing under the laws of the jurisdiction of its formation. All Governmental Authorizations required for Borrower to lawfully conduct its business as conducted on the Effective Date are in full force and effect except where the failure to maintain any such Governmental Authorizations in full force and effect would not result in a Material Adverse Change. The execution, delivery and performance by Borrower of this Agreement and all other Loan Documents (i) have been duly and validly authorized, (ii) are enforceable against Borrower in accordance with their respective terms (except as enforcement may be limited by equitable principles and by bankruptcy, insolvency, reorganization, moratorium or similar Legal Requirements relating to creditors' rights generally), (iii) do not violate Borrower's Constitutional Documents, any Legal Requirement, or any material agreement or instrument binding upon Borrower or any of its material Collateral, and (iv) do not require any action by, filing, registration or qualification with, or Governmental Authorization from, any Governmental Body (except such Governmental Authorizations which have already been obtained and are in full force and effect), and (v) do not constitute grounds for acceleration of any material Indebtedness or obligation under any agreement or instrument of Borrower or relating to its property. Without limiting the foregoing: (A) the Board has the authority under Borrower's Constitutional Documents to enter into and cause Borrower to perform, or to delegate such authority to a Responsible Officer to enter into and cause Borrower to perform, its Obligations, and (B) other than the approval of the requisite members of the Board, no consent is required of any Person to make the representation set forth in clause (A) absolutely true in all respects. 
+ 3.2 Name; Trade Names and Styles.  As of the Effective Date, the names of Parent and Gentris set forth in the heading to this Agreement are their correct names as set forth in their respective Constitutional Documents. Listed in the Representations are all prior names of Borrower and all of Borrower's present and prior trade names as of the Effective Date. Borrower shall 
+ 
+ 
+ 
+give PFG 30 days' prior written notice before changing its name or doing business under any other name. Borrower has complied, and will in the future comply, in all material respects, with all laws relating to the conduct of business under a fictitious business name, if applicable to Borrower. 
+ 3.3 Place of Business; Location of Collateral.  As of the Effective Date, the addresses set forth in the heading to this Agreement are the correct addresses of Parent's and Gentris's respective chief executive offices. In addition, as of the Effective Date, Borrower has places of business, and Collateral is located, only at the locations set forth in the Representations. Borrower will give PFG at least 30 days prior written notice before opening any additional place of business, changing its chief executive office, or moving any of the Collateral valued at greater than $25,000 to a location other than Borrower's Address or one of the locations set forth in the Representations, except that Borrower may maintain sales offices in the ordinary course of business  at which not more than a total of $10,000 fair market value of Equipment is located. 
+ 3.4 Title to Collateral; Perfection; Permitted Liens. 
+(a)    Borrower is as of the Effective Date, and will at all times in the future be, the sole owner of all the Collateral, except for Collateral which is leased or licensed to Borrower. The Collateral is and will remain free and clear of any and all Liens except for Permitted Liens. Upon the consummation of the transactions contemplated hereby, PFG will have, and will continue to have, a First-Priority perfected and enforceable Lien upon all of the Collateral, subject only to Permitted Liens. Borrower will at all times defend PFG and  its interests in the Collateral against all claims of others. 
+(b)    Borrower has set forth in the Representations all of Borrower's Collateral Accounts as of the Effective Date. Borrower shall (i) give PFG five (5) Business Days advance written notice before establishing any new Collateral Accounts or (ii) depositing any Cash or Cash Equivalents or Investment Property into any new Collateral Account and (iii) shall cause the institution where any such new Collateral Account is maintained to execute and deliver to PFG (or to the Senior Lender and PFG) a Control Agreement in form sufficient to perfect PFG's security interest in the Collateral Account and otherwise satisfactory to PFG in its good faith business judgment. 
+(c)    In the event that Borrower shall at any time after the Effective Date acquire any commercial tort claims, which it is asserting, and in which the potential recovery exceeds $100,000, Borrower shall promptly notify PFG thereof in writing and provide PFG with such information regarding the same as PFG shall request (unless providing such information would waive Borrower's attorney-client privilege). Such notification to PFG shall constitute a grant of a security interest in the commercial tort claim and all proceeds thereof to PFG, subject only to Permitted Liens, and Borrower shall execute and deliver to PFG all instruments and agreements and take all such actions as PFG shall reasonably request in connec tion therewith. 
+(d)     No Collateral with a value in excess of $250,000 is affixed to any real property in such a manner or with such intent as to become a fixture, except as disclosed in   Exhibit A. From and after the Effective Date, without PFG's consent in each instance, no material part of the Collateral will be affixed to any real property in such a manner, or with such intent, as to become a fixture, which consent may be conditioned on a grant to PFG of a Lien upon such fixture, in form and substance reasonably satisfactory to PFG, subject to the  rights of the Senior Lender. Borrower is not, except as set forth in   Exhibit A, and will not become a lessee under any real property lease that prohibits, restrains, impairs or will prohibit, restrain or impair Borrower's right to remove any Collateral from the leased premises. Whenever any Collateral is located upon premises in which any third party has an interest, Borrower shall, whenever requested by PFG, use commercially reasonable efforts to cause such third party to execute and deliver to PFG, in form reasonably acceptable to PFG, such waivers and subordinations as PFG shall specify in its good faith business judgment. Borrower will comply with all material terms of any lease of real property where any of the Collateral now or in the future may be located, except where the failure to do so would not reasonably be expected to result in the termination of such lease or the impairment of Lender's Lien with respect to Collateral with a book value of $100,000 or  more. 
+(e)    Except as specified in the Representations, Borrower is not party to, nor is it bound by, any Restricted License. 
+ 3.5 Maintenance of Collateral.  Borrower will maintain all material Collateral consisting of Equipment in good working condition (ordinary wear and tear excepted), and Borrower will not use the Collateral for any unlawful purpose. Borrower will promptly advise PFG in writing of any material loss or damage to the Collateral. 
+ 3.6 Books and Records.  Borrower will maintain at Borrower's Address books and records in accordance with GAAP that are true, correct and complete in all material respects. 
+ 3.7 Financial Condition, Statements and Reports.  All Financial Statements now or in the future delivered to PFG have been, and will be, prepared in conformity with GAAP and now and in the future will fairly present the results of  operations and 
+ 
+ 
+ 
+financial condition of Borrower in all material respects, in accordance with GAAP, as of the dates and for the periods therein stated. Between the last date covered by any such sta tement provided to PFG and the Effective Date, there has been no Material Adverse Change. 
+ 3.8 Tax Returns and Payments; Pension Contributions.  Borrower has timely filed, and will timely file, all required Tax Returns, and Borrower has timely paid, and will timely pay, all Taxes now or in the future owed by Borrower, except to the extent such Taxes do not in the aggregate exceed $25,000. Borrower may, however, defer payment of any of the foregoing which are contested by Borrower in good faith, provided that Borrower (i) contests the same by appropriate proceedings promptly and diligently instituted and conducted, (ii) notifies PFG in writing of the commencement of, and any material development in, the proceedings, and (iii) posts bonds or takes any other steps required to keep the same from becoming a Lien upon any of the Collateral. Borrower is unaware of any claims or adjustments proposed for any of Borrower's prior tax years which could result in additional Taxes becoming due and payable by Borrower. Borrower has paid, and shall continue to pay, all amounts necessary to fund all present and future pension, profit sharing and deferred compensation plans in accordance with their terms, and Borrower has not and will not withdraw from participation in, permit partial or complete termination of, or permit the occurrence of any other event with respect to, any such plan which could reasonably be expected to result in any liability of Borrower, including any liability to the Pension Benefit Guaranty Corporation or its successors or any other Governmental Body. 
+ 3.9 Compliance with Law.  Borrower has, to its Knowledge, complied and will comply, in all material respects, with all provisions of all Legal Requirements applicable to Borrower, including, but not limited to, those relating to Borrower's ownership of real or personal property, the conduct and licensing of Borrower's business, and all environmental matters except where the failure to do so would not reasonably be expected to have a material adverse effect on its business. None of Borrower's or any Subsidiaries' properties or assets has been used by Borrower or any Subsidiary or, to Borrower's Knowledge, by previous Persons, in disposing, producing, storing, treating or transporting any hazardous substance other than lawfully. Borrower and each of its Subsidiaries have obtained all consents, approvals and authorizations of, made all declarations or filings with, and given all notices to all Governmental Bodies that are necessary to conduct their respective business in a lawful manner and otherwise as currently conducted. 
+ 3.10 Litigation.   Except as set forth in   Exhibit A, there is no claim, suit, litigation, proceeding or investigation pending or (to Borrower's Knowledge) threatened in writing against or affecting Borrower in any court or before any Governmental Body (or to Borrower's Knowledge is there any basis therefor) (i) involving individually or in the aggregate more than $250,000, or (ii) which could reasonably be expected to result, either separately or in the aggregate, in any Material Adverse Change. Borrower will promptly inform PFG in writing of any claim, proceeding, litigation or investigation in the future threatened or instituted against Borrower involving more than, individually or in the aggregate, $100,000 or more. 
+ 3.11 Use of Proceeds.  Proceeds of the Loan shall be used solely for lawful business purposes, including general working capital purposes, and otherwise as detailed in the Schedule. Borrower is not purchasing or carrying any "margin stock" (as defined in Regulation U of the Board of Governors of the Federal Reserve System) and no part of the proceeds of any Loan will be used to purchase or carry any "margin stock" or to extend credit to others for the purpose of purchasing or carrying any "margin stock." 
+ 3.12 No Default.  At the Effective Date, no Default or Event of Default has occurred, and no Default or Event of Default will have occurred after giving effect to the Loan being made concurrently he rewith. 
+ 3.13   Protection and Registration of Intellectual Property Rights. Borrower owns or otherwise holds the right to use all Intellectual Property rights material to Borrower's business or necessary for the conduct of its business as currently conducted and reflected in any Borrower's financial plans covering future periods. Borrower shall: (a) protect, defend and maintain the validity and enforceability of its Intellectual Property, other than Intellectual Property that is not material to Borrower's business, has a fair value of less than $25,000 and that Borrower has affirmatively determined not to maintain or to abandon; (b) promptly advise PFG in writing upon becoming aware of infringements of its Intellectual Property material to its business; (c) not allow any Intellectual Property material to Borrower's business to be abandoned, forfeited or dedicated to the public without PFG's written consent, (d) provide (i) written notice to PFG at least ten (10) days prior to entering into or becoming bound by any Restricted License (other than over-the-counter software that is commercially available to the public and licenses or agreements of Borrower with customers in which Borrower is an original equipment manufacturer), and (ii) use commercially reasonable efforts to obtain the consent or waiver of any Person whose consent or waiver is necessary for (A) any Restricted License to be deemed "Collateral" and for PFG to have a Lien in it that might otherwise be restricted or prohibited by law or by the terms of any such Restricted License, whether now existing or entered into in the future, and (B) PFG to have the ability in the event of a liquidation of any Collate ral to dispose of such Collateral in accordance with PFG's rights and remedies under this Agreement 
+ 
+ 
+ 
+and the other Loan Documents, and (e) while any Obligations are outstanding, shall not Transfer any Intellectual Property with a value in excess of $25,000 without PFG's consent, which consent shall not be unreasonably withheld if no Default or Event of Default has occurred and is then continuing, the Transfer of such Intellectual Property would not give rise to such a Default or Event of Default, and if such Intellectual Property meets the three criteria set forth as the exceptions to Borrower's duties to protect, defend and maintain under clause (a), above. If, before the Obligations have been paid and/or performed in full, Borrower shall: (i) adopt, use, acquire or apply for registration of any trademark, service mark or trade name; (ii) apply for registration of any patent or obtain any patent or patent application; (iii) create or acquire any published or material unpublished works of authorship that is or is to be registered with the U.S. Copyright Office or any non-U.S. equivalent; or (iv) register or acquire any domain name or domain name rights, then Borrower shall promptly advise PFG of same and take such actions as PFG may reasonably request to perfect PFG's interest in said Collateral. 
+ 3.14 Domain Rights and Related Matters. Borrower (a) is the sole record, legal and beneficial owner of all domain names and domain name rights used in connection with its business, free and clear of any rights or claims of any third party except Permitted Liens, and (b) the information set forth in the Representations with respect to domain names and ownership thereof the domain registry, domain servers, location and administrative contact information, web hosting and related services and facilities (collectively, "Domain Rights") is true, accurate and complete in all material respects. Borrower (a) shall promptly notify PFG of any material changes to such information, (b) shall maintain all Domain Rights that Borrower has not affirmatively determined to abandon in full force and effect so long as any Obligations remain outstanding, (c) shall, upon request of PFG, notify such third parties (including domain registrars, hosting companies and internet service providers) of PFG's Lien upon Borrower's Domain Rights, and (d) shall promptly advise PFG in writing of any material disputes or infringements of Borrower's Domain Rights. The obligations of Borrower under this Section shall not be limited by any Borrower obligations under the IP Security Agreement and related Collateral Agr eements and Notices executed in connection with this Agreement. 
+ 4. ADDITIONAL DUTIES OF BORROWER. 
+Borrower will at all times comply with all of the following covenants throughout the term of this Agreement: 
+ 4.1 Financial and Other Covenants.  Borrower shall at all times comply with the financial and other covenants set forth in the Schedule. 
+ 4.2. Remittance of Proceeds.  Subject to the rights of the Senior Lender and the holders of Permitted Liens contemplated within clause (i) of the definition thereof with priority over PFG's Liens, all proceeds arising from the disposition of any Collateral shall be delivered, in kind, by Borrower to PFG in the form in which received by Borrower not later than the following Business Day after receipt by Borrower, to be applied to the Obligations in such order as PFG shall determine; provided that, if no Default or Event of Default has occurred and is continuing, Borrower shall not be obligated to remit to PFG (i) the proceeds of Accounts arising in the ordinary course of business, or (ii) the proceeds of the sale of surplus, worn out or obsolete Equipment disposed of by Borrower in good faith in an arm's length transaction on fair and reasonable terms. Borrower agrees that it will not commingle proceeds of Collateral (other than those described in subclauses (i) and (ii) above) with any of Borrower's other funds or property, but will hold such proceeds separate and apart from such other funds and property and in trust for PFG, except as set forth above, and subject to the rights of the Senior Lender and the holders of Permitted Liens contemplated within clause (i) of the definition thereof with priority over PFG's Liens. Subject to the rights of the Senior Lender, PFG may, in its good faith business judgment, require that all proceeds of Collateral be deposited by Borrower into a lockbox account or such other "blocked account" as PFG may specify, pursuant to a blocked account agreement in such form as PFG may specify in its good faith business judgment. Nothing in this Section limits the restrictions on disposition of Collateral set forth elsewhere in this Agreement. 
+ 4.3 Insurance.  Borrower shall at all times insure all of the tangible personal property Collateral and carry such other business insurance, with insurers reasonably acceptable to PFG, in such form and amounts as are satisfactory to PFG and are customary and in accordance with standard practices for Borrower's industry and locations; and Borrower shall provide evidence of such insurance to PFG. All property and casualty insurance policies shall have a lender's loss payable endorsement showing PFG as a lender loss payee, and each liability insurance policy shall name PFG as an additional insured, in each as PFG's interests may appear. Upon receipt of the proceeds of any property and casualty insurance, subject to the rights of the Senior Lender, PFG shall apply such proceeds in reduction of the Obligations as PFG shall determine in its good faith business judgment, except that, provided no Default or Event of Default has occurred and is continuing, PFG shall release to Borrower insurance proceeds with respect to Collateral totaling less than $100,000, which shall be utilized by Borrower for the replacement of the Collateral with respect to which the insurance proceeds were paid. PFG may require reasonable assurance that the insurance proceeds so released will be so used. If Borrower fails to provide or pay for any insurance, PFG may, but is not obligated to, obtain the same at Borrower's expense. Borrower shall promptly deliver to PF G copies of all material reports made to insurance companies. 
+ 
+ 
+ 
+ 4.4 Reports.  Borrower, at its expense, shall provide PFG with the written reports set forth in the Schedule, and such other written reports with respect to Borrower (including budgets, projections, operating plans and other financial documentation), as PFG shall from time to time specify in its good faith business judgment. 
+ 4.5 Access to Collateral, Books and Records; Additional Reporting and Notices.  At reasonable times, on three (3) Business Days' notice, PFG, or its agents, shall have the right to inspect the Collateral, and the right to audit and copy Borrower's books and records. The foregoing inspections and audits shall be at Borrower's expense and the charge therefor shall be $850 per person per day (or such higher amount as shall represent PFG's then current standard charge for the same), plus Lender Expenses, provided that so long as no Default or Event of Default has occurred and is then continuing and no prior inspection or audit has revealed material deficiencies or inaccuracies in Borrower's books and records, only one such inspection and audit shall be at Borrower's expense during any calendar year. Notwithstanding the foregoing, Borrower shall not be required to disclose to PFG any document or information (i) where disclosure is prohibited by applicable law, or (ii) is subject to attorney-client or similar privilege or constitutes attorney work product. If Borrower is withholding any information under the preceding sentence, it shall so advise P FG in writing, giving PFG a general description of the nature of the information withheld. 
+ 4.6 Negative Covenants.   Borrower shall not do any of the following without PFG's prior written consent: 
+(i) acquire any material assets, except in the ordinary course of business, or make any Investments other than Permitted Investments; 
+(ii) except as disclosed in SEC Filings made prior to the date hereof, directly or indirectly enter into or permit to exist any material transaction with any Affiliate of Borrower, except for transactions that are in the ordinary course of Borrower's business and upon fair and reasonable terms that are no less favorable to Borrower than would be obtained in an arm's length transaction with a non-affiliated Person, provided that upon not less than thirty (30) days' prior notice to PFG, one Borrower may merge with another Borrower and a Non-Borrower Subsidiary may merge with a Borrower or another Non-Borrower Subsidiary; provided, further, that the merger of Gentris and Parent shall require notice only upon compl etion; 
+(iii) Transfer any part of its business or property, except for (A) the sale of finished Inventory in the ordinary course of Borrower's business, (B) the sale of obsolete or unneeded Equipment in the ordinary course of business and otherwise in compliance with the terms of this Agreement, (C) the making of Permitted Investments, and (D) the granting of Permitted Liens; and, for the avoidance of any doubt, a Transfer of business or property, as contemplated above, would include (1) Borrower or any Subsidiary making or causing any payment to be made on Subordinated Debt unless expressly permitted under the terms of the subordination, intercreditor or other agreement to which the Subordinated Debt is subject (and, if permitted in this Agreement, only to the extent permitted), and (2) other than with the express consent of PFG in its sole business discretion, the amendment or modification of any such subordination, intercreditor or other agreement to provide for earlier or greater principal, interest or other payments thereon or adversely affect the subordination ther eof to the Obligations; 
+(iv) store any Inventory or other Collateral with any warehouseman or other third party with an aggregate value (per location) of $25,000 or greater, unless there is in place a bailee agreement in such form as PFG shall specify in its good faith business judgment between PFG and such warehouseman or other third party; 
+ (v) sell any Inventory outside the ordinary course of business; 
+ (vi) make any loans of any money or other assets, other than Permitted Investments; 
+ (vii) incur or permit to exist any Indebtedness, other than Permitted Indebtedness; 
+(viii) guarantee or otherwise become liable with respect to the obligations of another party or entity; 
+(ix) pay or declare any Dividends (except for dividends payable solely in stock of Borrower), provided that Gentris may declare and pay Dividends to Parent; 
+(x) redeem, retire, purchase or otherwise acquire, directly or indirectly, any of Borrower's equity, except as required in the ordinary course of business and consistent with past practice in connection with redeeming or purchasing equity of departing employees, up to a maximum aggregate of $25,000 in any fiscal year; 
+(xi) engage, directly or indirectly, in any business other than the businesses currently engaged in by Borrower or reasonably related thereto; 
+(xii) make Investments in Non-Borrower Subsidiaries of more than $750,000 in the aggregate among all Non-Borrower Subsidiaries in any rolling four (4) quarter period, or incur Inde btedness to Non-Borrower Subsidiaries of, when combined with 
+ 
+ 
+ 
+the amount of the foregoing Investments, more than $750,000 in the aggregate among all Non-Borrower Subsidiaries in any rolling four (4) quarter period; 
+(xiii) make or permit any payment on any Subordinated Debt, except under the terms of the subordination, intercreditor, or other similar agreement to which such Subordinated Debt is subject, or (b) amend any provision in any document relating to the Subordinated Debt which would increase the amount thereof, provide for earlier or greater principal, interest,  or other payments thereon, or adversely affect the subordination thereof to the Obligations; 
+(xiv) (A) without at least thirty (30) days prior written notice to PFG: (1) add any new offices or business locations, including warehouses (unless such new offices or business locations contain less than $10,000 in Borrower's assets or property), (2) change its jurisdiction of organization, (3) change its organizational type, (4) change its legal name, (5) change any organizational number (if any) assigned by its jurisdiction of organization; or (6) form any new Subsidiaries, and in each case, subject to (x) Borrower's and such Subsidiary(ies) compliance with Section 4.9 hereof, (y) such Subsidiary(ies) compliance with Section 3.4(b), and (z) such Subsidiary(ies) compliance with Section 8(b) of the Schedule(xiv) (A) without at least thirty (30) days prior written notice to PFG, form any new Subsidiaries; or (B) fail to provide notice to PFG of any Key Person departing from or ceasing to be actively in the employ of Borrower within five (5) Business Days after such Key Person's departure from Borrower; 
+(xv) create, incur, allow or suffer any Lien on any of its property, or assign or convey any right to receive income, including the sale of any Accounts, or permit any of its Subsidiaries to do so, except for Permitted Liens, permit any Collateral not to be subject to the First-Priority Lien granted herein, or enter into any agreement, document, instrument or other arrangement (except with or in favor of PFG and the Senior Lender) with any Person which directly or indirectly prohibits or has the effect of prohibiting Borrower or any Subsidiary from assigning, mortgaging, pledging, granting a security interest in or upon, or encumbering any of Borrower's or any Subsidiary's Intellectual Property, except as other wise permitted in Section 3.13 hereof and the definition of Permitted Liens; 
+(xvi) maintain any Collateral Accounts other than in accordance with Section 4.10 and Section 8(b) of the Schedule; 
+ (xvii) liquidate or dissolve, or elect or resolve to liquidate or dissolve; or 
+(xviii) resolve by Board resolution to effect any of the foregoing actions in clauses (i) through (xvii), inclusive. 
+Transactions permitted by the foregoing provisions of this Section are only permitted if no Default or Event of Default would occur as a result of such transaction. 
+ 4.7 Litigation Cooperation.  Should any third-party suit or proceeding be instituted by or instituted or threatened in writing against PFG with respect to any Collateral or relating to Borrower, Borrower shall, without expense to PFG, make available Borrower and its officers, employees and agents and Borrower's books and records, to the extent that PFG may deem them reasonably necessary  in order to prosecute or defend any such suit or proceeding. 
+ 4.8 Changes.  Borrower agrees to promptly notify PFG in writing of any changes in the information set forth in the Representations, to the extent required in Section 6 of the Schedule. 
+ 4.9 Further Assurances.  Borrower agrees, at its expense, on reasonable request by PFG, to execute and deliver to PFG all instruments and agreements, and take all actions, as PFG, may, in its good faith business judgment, deem necessary or useful in order to perfect and maintain PFG's perfected First-Priority security interest in the Collateral (subject to Permitted Liens), and in order to fully consummate the transactions contemplated by this Agreement, including without limitation, the execution of a cross-corporate continuing guaranty among Borrower and Non-Borrower Subsidiaries. In addition, Borrower shall deliver to PFG, within five (5) Business Days after the same are sent or received, copies of all correspondence, reports, documents and other filings with any Governmental Body regarding compliance with or maintenance of Governmental Authorizations or Legal Requirements or that could reasonably be expected to have a material effect on any of the Governmental Authorizations or otherwise on the operations of Borrower or any of its Subsidiaries. 
+ 4.10 Collateral Accounts. Subject to Section 8(b) of the Schedule, (a) unless PFG otherwise consents in its sole discretion, Borrower shall at all times maintain and cause each of its Subsidiaries (other than Non-U.S. Subsidiaries) to maintain their primary operating accounts and excess cash with the Senior Lender and its Affiliates, and (b) Borrower shall at all times thereafter, maintain all of its Collateral Accounts with institutions in respect of which a Control Agreement in favor of PFG is at all times in effect. 
+ 
+ 
+ 
+ 4.11   Authorization to File Security Instruments. By executing and delivering a term sheet in respect of the Loan, Borrower shall be deemed to have authorized PFG to file Security Instruments on or prior to the Effective Date, without notice to Borrower, with all appropriate jurisdictions to perfect or protect PFG's First-Priority security interest, including a notice that any disposition of the Collateral shall be deemed to violate the rights of PFG under the Code. Such Security Instruments may describe the Collateral as "all assets of the Debtor" or words of similar effect, or as  being of an equal or lesser scope, or with greater detail, all in PFG's discretion. 
+ 4.12 Burdensome Agreements. Borrower shall not, directly or indirectly, create or otherwise cause or suffer to exist or become effective any encumbrance or restriction on the ability of any of its Subsidiaries to (a) pay dividends or make any other distributions on its equity or any other interest or participation in its profits owned by Parent or any of its Subsidiaries, or pay any Indebtedness owed to Borrower or any of its Subsidiaries, (b) make loans or advances to Parent or any of its Subsidiaries or (c) transfer any of its properties to Parent or any of its Subsidiaries, except for such encumbrances or restrictions existing under or by reason of (i) applicable Legal Requirements; (ii) this Agreement and the other Loan Documents; (iii) customary provisions restricting subletting or assignment of any lease governing a leasehold interest of any of its Subsidiaries; (iv) customary provisions restricting assignment of any agreement entered into by a Subsidiary in the ordinary course of business; or (v) any holder of a Permitted Lien restricting the Transfer of the property subject thereto . 
+ 4.12 Full Disclosure. No written representation, warranty or other statement of Borrower in any certificate or written statement given to PFG, as of the date such representation, warranty, or other statement was made, taken together with all such written certificates and written statements given to PFG, contains any untrue statement of a material fact or omits to state a material fact necessary to make the statements contained in the certificates or statements not misleading (it being recognized by PFG that the projections and forecasts provided by Borrower in good faith and based upon reasonable assumptions are not viewed as facts and that actual results during the period or periods covered by such projections and forecasts may d iffer from the projected or forecasted results). 
+ 5. TERM. 
+ 5.1 Maturity Date.  This Agreement shall continue in effect until the Maturity Date, subject to Sections 5.2, 5.3 and 5.4, below. 
+ 5.2 Early Termination.  This Agreement may be terminated prior to the Maturity Date as follows: (i) by Borrower, effective three Business Days after written notice of termination is given to PFG and payment in full in cash of all Obligations; or (ii) by PFG at any time after the occurrence and during the continuance of an Event of Default, without notice, effective immediately. If a right to prepay Obligations is provided in the Schedule and the exercise of such right is subject to payment of any consideration to PFG as a condition to such exercise, a Borrower Default or Event of Default that results in an acceleration of Obligations and/or termination of this Agreement shall not relieve Borrower of the obligation to pay such consider ation, which shall be included in the Obligations required to be paid or performed by Borrower. 
+ 5.3 Payment of Obligations.  On the Maturity Date or on any earlier effective date of termination, Borrower shall pay and perform in full all Obligations, whether evidenced by installment notes or otherwise, and whether or not all or any part of such Obligations are otherwise then due and payable. Notwithstanding any termination of this Agreement, (i) all of PFG's security interests in all of the Collateral and all of the terms and provisions of this Agreement shall continue in full force and effect until all Obligations have been paid and performed in full, and (ii) no further extensions of credit will be made to Borrower unless PFG otherwise agrees in its sole and absolute discretion. No termination shall in any way affect or impair any right or remedy of PFG, nor shall any such termination relieve Borrower of any Obligation to PFG, until all of the Obligations have been paid and performed in full. Upon payment and performance in full of all the Obligations and termination of this Agreement, PFG shall, at Borrower cost and expense, promptly terminate all Security Instruments and deliver to Borrower such other documents as may be required to fully terminate PFG's security interests in Collateral. 
+ 5.4 Survival of Certain Obligations. Without limiting the survival of obligations addressed otherwise in this Agreement and notwithstanding any other provision of this Agreement, all covenants, representations and warranties made in this Agreement continue in full force until this Agreement has terminated pursuant to its terms and all Obligations (other than obligations which, by their terms, are to survive the termination of this Agreement) have been paid in full and satisfied. The obligation of Borrower in Section 8.9 to indemnify PFG shall survive until the statute  of limitations with respect to such claim or cause of action shall have run. 
+ 6. EVENTS OF DEFAULT AND REMEDIES. 
+ 
+ 
+ 
+ 6.1 Events of Default.  The occurrence of any of the following events shall constitute an "Event of Default" under this Agreement regardless of whether notice thereof is given by PFG and, to the extent Bo rrower has Knowledge thereof, Borrower shall provide prompt notice of any of the following to PFG: 
+(a) Any warranty, representation, covenant, statement, report or certificate at any time made or delivered to PFG by or on behalf of Borrower shall be untrue or misleading in a mat erial respect when made or deemed to be made; or 
+(b) Borrower shall fail to pay any Loan or any interest thereon or any other monetary Obligation when due (after giving effect to any grace or cure period; or 
+(c) Borrower (i) shall fail to comply with any of the financial covenants set forth in the Schedule, or (ii) shall breach any of the provisions of Section 4.6 hereof, or (iii) shall fail to perform any other non-monetary Obligation which by its nature cannot be cured, or (iv) shall fail to permit PFG to conduct an inspection or audit as provided in Section 4.5 hereof or shall fail to provide the notices, information, briefing and other rights set forth in Section 4.5, or (v) shall fail to provide PFG with a Report under Section 6 of t he Schedule within five (5) Business Days after the date due; or 
+(d) Borrower shall fail to perform any other non-monetary Obligation, which failure is not cured within ten days after the date performance is due; provided that, if such failure cannot reasonably be cured within such ten (10) day period, Borrower shall have an additional period of twenty (20) days to effectuate such cure, provided that Borrower promptly commences and proceeds to cure such failure within such twenty (20) day period; provided, however, if such failure results from a Default or an Event of Default for which there is a shorter cure period set forth in this Section 6.1, then the applicable cure period shall be such shorter period; or 
+(e) any levy, assessment, attachment or seizure is made on all or any part of the Collateral, or any Lien (other than a Permitted Lien) is made on all or any part of the Collateral  which is not released or bonded within ten (10) Business Days after the occurrence of the same; or 
+(f) any default or event of default occurs under any obligation secured by a Permitted Lien, which default is not cured or waived within any applicable cure period by the holder th ereof (and for purposes of the foregoing, a waiver does not include a forbearance); or 
+(g) there is, under any agreement to which Borrower is a party with a third party or parties, (i) any default resulting in the acceleration of the maturity of any Indebtedness in an amount individually or in the aggregate in excess of $100,000; or (ii) any breach or default by Borrower, the result of which could have a material adverse effect on Borrower, any Guarantor or its business or prospects; or (iii) with respect to the Senior Lender, the occurrence of an Event of Default (as defined in the Senior Debt Documents), without regard to any express or implied waiver thereof or any forbearance in respect thereof by the Senior Lender. 
+(h) (i) Dissolution, termination of existence, insolvency or business failure of Borrower or any Guarantor; or (ii) appointment of a receiver, trustee or custodian, for all or any part of the property of, assignment for the benefit of creditors by, or the commencement of any Insolvency Proceeding by, against or in respect of Borrower or any Guarantor under any reorganization, bankruptcy, insolvency, arrangement, readjustment of debt, dissolution or liquidation law or statute of any jurisdiction, now or in the future in effect, in each above case that is not dismissed or stayed within forty five (45) days; or (iii) Borrower shall generally not pay its debts as they become due; or (iv) Borrower shall conceal, remove or Transfer any part of its property, with intent to hinder, delay or defraud its creditors, or make or suffer any Transfer of any of its property which may be fraudulent under  any bankruptcy, fraudulent conveyance or similar law; or 
+(i) Revocation or termination of, or limitation or denial of liability upon, any guaranty of the Obligations or any attempt to do any of the foregoing, or commencement of proceedin gs by any guarantor of any of the Obligations under any bankruptcy or insolvency law; or 
+(j) revocation or termination of, or limitation or denial of liability upon, any pledge of any certificate of deposit, securities or other property or asset of any kind pledged by any third party to secure any or all of the Obligations, or any attempt to do any of the foregoing, or commencement of proceedings by or against any such third party under any bank ruptcy or insolvency law; or 
+(k) Borrower makes any payment on account of any indebtedness or obligation which has been subordinated to the Obligations (other than as permitted in the applicable subordination agreement), or if any Person who has subordinated such indebtedness or obligations terminates or in any way limits his or its subordination agreement; or); or 
+ 
+ 
+ 
+(l) Borrower shall (i) enter into any written agreement that would result in a Change in Control, or (ii) effect or suffer a Change in Control; or 
+(m) a default or breach shall occur under any other Loan Document, which default or breach shall be continuing after the later of cure period expressly specified in such Loan Docum ent or ten (10) days; or 
+ (n) a Material Adverse Change shall occur. 
+ 6.2 Remedies.  Upon the occurrence and during the continuance of any Event of Default, and at any time thereafter, PFG, at its option, and without notice or demand of any kind (all of which are hereby expressly waived by Borrower), may, subject to the rights of the Senior Lender, do any one or more of the following: (a) cease extending credit and credit accommodations to Borrower under this Agreement or any other Loan Document; (b)accelerate and declare all or any part of the Obligations to be immediately due, payable, and performable, notwithstanding any deferred or installment payments allowed by any instrument evidencing or relating to any Obligation; (b) take possession of any or all of the Collateral wherever it may be found, and for that purpose Borrower hereby authorizes PFG without judicial process to enter onto any of Borrower's premises without interference to search for, take possession of, keep, store, or remove any of the Collateral, and remain on the premises or cause a custodian to remain on the premises in exclusive control thereof, without charge for so long as PFG deems it necessary, in its good faith business judgment, in order to complete the enforcement of its rights under this Agreement or any other agreement; provided, however, that should PFG seek to take possession of any of the Collateral by court process, Borrower hereby irrevocably waives: (i) any bond and any surety or security relating thereto required by any statute, court rule or otherwise as an incident to such possession; (ii) any demand for possession prior to the commencement of any suit or action to recover possession thereof; and (iii) any requirement that PFG retain possession of, and not dispose of, any such Collateral until after trial or final judgment; (d) require Borrower to assemble any or all of the Collateral and make it available to PFG at places designated by PFG which are reasonably convenient to PFG and Borrower, and to remove the Collateral to such locations as PFG may deem advisable; (e) complete the processing, manufacturing or repair of any Collateral prior to a disposition thereof and, for such purpose and for the purpose of removal, PFG shall have the right to use Borrower's premises, vehicles, Equipment and all other Collateral without charge; (f) sell, lease or otherwise dispose of any of the Collateral, in its condition at the time PFG obtains possession of it or after further manufacturing, processing or repair, at one or more public and/or private sales, in lots or in bulk, for cash, exchange or other property, or on credit, and to adjourn any such sale from time to time without notice other than oral announcement at the time scheduled for sale (it being agreed that PFG shall have the right to conduct such disposition on Borrower's premises without charge, for such time or times as PFG deems reasonable, or on PFG's premises, or elsewhere; and the Collateral need not be located at the place of disposition; that PFG may directly or through any affiliated company purchase or lease any Collateral at any such public disposition, and if permissible under applicable law, at any private disposition; and that any sale or other disposition of Collateral shall not relieve Borrower of any liability Borrower may have if any Collateral is defective as to title or physical condition or otherwise at the time of sale); (g) demand payment of, and collect, any Accounts and General Intangibles comprising Collateral and, in connection therewith, Borrower irrevocably authorizes PFG to endorse or sign Borrower's name on all collections, receipts, instruments and other documents, to take possession of and open mail addressed to Borrower and remove therefrom payments made with respect to any item of the Collateral or proceeds thereof, and, in PFG's good faith business judgment, to grant extensions of time to pay, compromise claims and settle Accounts and the like for less than face value; (h) exercise any and all rights under any present or future Control Agreements relating to Deposit Accounts or Investment Property; and (i) demand and receive possession of any of Borrower's federal and state income tax returns and the books and records utilized in the preparation thereof or referring thereto. All Lender Expenses, liabilities and obligations incurred by PFG with respect to the foregoing shall be added to and become part of the Obligations, shall be due on demand, and shall bear interest at the Default Rate. Without limiting any of PFG's rights and remedies, from and after the occurrence and during the continuance of any Event of Default, the interest rate applicable to the Obligations shall be the Default Rate. 
+ 6.3 Standards for Determining Commercial Reasonableness.  Borrower and PFG agree that a sale or other disposition (collectively, "sale") of any Collateral which complies with the following standards will conclusively be deemed to be commercially reasonable: (i) notice of the sale is given to Borrower at least ten days prior to the sale, and, in the case of a public sale, notice of the sale is published at least five days before the sale in a newspaper of general circulation in the county where the sale is to be conducted; (ii) notice of the sale describes the Collateral in general, non-specific terms; (iii) the sale is conducted at a place designated by PFG, with or without the Collateral being present; (iv) the sale commences at any time between 8:00 a.m. and 6:00 p.m.; and (v) payment of the purchase price in cash or by cashier's check or wire transfer is required. With respect to any sale of any of the Collateral, PFG may (but is not obligated to) direct any prospective purchaser to ascertain directly from Borrower any and all information concerning the same. PFG shall be free to employ other methods of noticing and selling the Collateral, in its discretion, if they are commercially reasonable. Borrower further acknowledges and agrees that if PFG's or 
+ 
+ 
+ 
+third parties' access to Collateral is inhibited, restricted or denied, it shall be commercially reasonable for PFG to conduct a sale of Collateral under such circumstances even though the lack of access to Collateral would likely give rise to a sale price less than if parties had unfettered access to Collateral for purposes of conducting a sale. 
+ 6.4 Power of Attorney.  Upon the occurrence and during the continuance of any Event of Default, without limiting PFG's other rights and remedies, Borrower grants to PFG an irrevocable power of attorney coupled with an interest, authorizing and permitting PFG (acting through any of its employees, attorneys or agents) at any time, at its option, but without obligation, with or without notice to Borrower, and at Borrower's expense, to do any or all of the following, in Borrower's name or otherwise, but PFG agrees that if it exercises any right hereunder, it will do so in good faith and in a commercially reasonable manner and the exercise of any rights will be subject to the rights of the Senior Lender and any other Permitted Lien: (a) execute on behalf of Borrower any documents that PFG may, in its good faith business judgment, deem advisable in order to perfect and maintain PFG's security interest in the Collateral, or in order to exercise a right of Borrower or PFG, or in order to fully consummate all the transactions contemplated under this Agreement, and all other Loan Documents; (b) execute on behalf of Borrower any invoices relating to any Account, any draft against any Account Debtor and any notice to any Account Debtor, any proof of claim in bankruptcy, any Notice of Lien, claim of mechanic's, materialman's or other Lien, or assignment or satisfaction of mechanic's, materialman's or other Lien; (c) take control in any manner of any cash or non-cash items of payment or proceeds of Collateral; endorse the name of Borrower upon any instruments, or documents, evidence of payment or Collateral that may come into PFG's possession; (d) endorse all checks and other forms of remittances received by PFG; (e) pay, contest or settle any Lien, charge, encumbrance, security interest and adverse claim in or to any of the Collateral, or any judgment based thereon, or otherwise take any action to terminate or discharge the same; (f) grant extensions of time to pay, compromise claims and settle Accounts and General Intangibles for less than face value and execute all releases and other documents in connection therewith; (g) pay any sums required on account of Borrower's Taxes or to secure the release of any Liens therefor, or both; (h) settle and adjust, and give releases of, any insurance claim that relates to any of the Collateral and obtain payment therefor; (i) instruct any third party having custody or control of any books or records belonging to, or relating to, Borrower to give PFG the same rights of access and other rights with respect thereto as PFG has under this Agreement; (j) execute on behalf of Borrower and file in Borrower's name such documents and instruments as may be necessary or appropriate to effect the Transfer of Domain Rights into the name of PFG or its designees, and (k) take any action or pay any sum required of Borrower pursuant to this Agreement and any other Loan Documents. Any and all Lender Expenses incurred by PFG with respect to the foregoing shall be added to and become part of the Obligations, shall be payable on demand, and shall bear interest at a rate equal to the Default Rate. In no event shall PFG's rights under the foregoing power of attorney or any of PFG's other rights under this Agreement be deemed to indicate that PFG is in control of the business, management or properties of Borrower. 
+ 6.5 Application of Proceeds.  All proceeds realized as the result of any sale of the Collateral shall be applied by PFG first to Lender Expenses incurred in the exercise of its rights under this Agreement, second to the interest due upon any of the Obligations, and third to the principal of the Obligations, in such order as PFG shall determine in its sole discretion. Any surplus shall be paid to Borrower or other persons legally entitled thereto and Borrower shall remain liable to PFG for any deficiency. If PFG, in its good faith business judgment, directly or indirectly enters into a deferred payment or other credit transaction with any purchaser at any sale of Collateral, PFG shall have the option, exercisable at any time, in its good faith business judgment, of either reducing the Obligations by the principal amount of purchase price or deferring the reduction of the Obligations until the actual receipt by PFG of  the cash therefor. 
+ 6.6 Remedies Cumulative.  In addition to the rights and remedies set forth in this Agreement, PFG shall have all the other rights and remedies accorded a secured party under the Code and under all other applicable laws, and under any other instrument or agreement now or in the future entered into between PFG and Borrower, and all of such rights and remedies are cumulative and none is exclusive. Exercise or partial exercise by PFG of one or more of its rights or remedies shall not be deemed an election, nor bar PFG from subsequent exercise or partial exercise of, any other rights or remedies. The failure or delay of PFG to exercise any rights or remedies shall not operate as a waiver thereof, but all rights and remedies shall continue in  full force and effect until all of the Obligations have been fully paid and performed. 
+ 7.    DEFINITIONS.   As used in this Agreement, the following terms have the following meanings: 
+ " Account Debtor " means the obligor on an Account. 
+ " Accounts" means all present and future "accounts" as defined in the Code in effect on the Effective Date with such additions to such term as may hereafter be made, and includes without lim itation all accounts receivable, healthcare receivables and other sums owing to Borrower. 
+ 
+ 
+ 
+ " Affiliate" means, with respect to any Person, a relative, partner, shareholder, director, officer, or employee of such Person, or any parent or Subsidiary of such Person, or any Person directly or indirectly through any other Person controlling, controlled by or under common control with such Person. 
+ " Billing Period" means monthly, unless another period or date for payment is specified under this Agreement (such as the Maturity Date), or (ii) such other period as PFG as may result from monetary Obligations not being outstanding during the entire period for which interest is being calculated (such as partial months if the Effective Date is not the first day of a calendar month), or (iii) such other period as PFG may notify in writing to Borrower. For the avoidance of doubt, under this Agreement, a "month" consists of 31 days in each January, March, May, July, August, October and December, 30 days in each other month except February, which consists of 28 days or, in a leap year, 29 days. 
+ " Board" means the Board of Directors or other governing authority of Borrower as authorized in its Constitutional Documents (which for the avoidance of doubt, includes a member or manage r of a limited liability company). 
+ " Business Day " or " business day " means a day on which banks in the State of California are generally open for business. 
+ " Cash" means unrestricted and unencumbered (except for the Liens of PFG and the Senior Lender) cash or cash equivalents in Deposit Accounts or other Collateral Accounts for which there is in effect a Control Agreement among Borrower, PFG and the depositary institution in respect of such accounts, unless the requirement for a Control Agreement has been waived by P FG. 
+ " Cash Equivalents "  means (a) marketable direct obligations issued or unconditionally guaranteed by the United States or any agency or any State thereof having maturities of not more than one (1) year from the date of acquisition; (b) commercial paper maturing no more than one (1) year after its creation and having a rating of at least A-1 or the equivalent thereof by Standard & Poor's Ratings Group or a rating of P-1 or the equivalent thereof by Moody's Investors Service, Inc.; (c) certificates of deposit, time deposits and bankers' acceptances maturing no more than one (1) year after the date of acquisition, and overnight bank deposits, in each case which are issued by a commercial bank organized under the laws of the United States or any state thereof, having capital and surplus in excess of $500,000,000; and (d) money market funds at least ninety-five percent (95%) of the assets of which constitute Cash Equivalents of the kinds described in clauses (a) through (c) of this definition and (e) Investments pursuant to Borrower's Investment Policy, provided that such investment policy (and any such amendment thereto) has been provided by Borrower to PFG and approved in writing by PFG. 
+ " CD Accounts" means certificates of deposit with JP Morgan Chase Bank to secure Borrower's letter of credit with JP Morgan Chase Bank maintained as a security deposit for Borrower's lease of its headquarters premises, provided that the aggregate balance maintained in such certificates of deposit does not at any time exceed Three Hundred Six Thousand Dollars ($306,000.00) plus accrued interest, as the same may be increased from time to time in connection with the renegotiation of such lease or the negotiation of a lease for substitute space. 
+ " Change in Control" means any event, transaction, or occurrence as a result of which any "person" (as such term is defined in Sections 3(a)(9) and 13(d)(3) of the Securities Exchange Act of 1934, as an amended (the "Exchange Act")), other than a trustee or other fiduciary holding securities under an employee benefit plan of Borrower, is or becomes a beneficial owner (within the meaning Rule 13d-3 promulgated under the Exchange Act), directly or indirectly, of securities of Borrower, representing forty nine percent (49%) or more of the combined voting power of Borrower's then outstanding securities in a single transaction or a series of related transactions (other than by the sale of Borrower's equity securities in a public offering or to venture capital or private equity investors so long as Borrower identifies to PFG the venture capital or private equity investors at least seven (7) Business Days prior to the initial closing of the transaction and provides to PFG a description of the material terms of the transaction and such other information as PFG may reasonably request). 
+ " Code" means the Uniform Commercial Code as adopted and in effect in the State of California from time to time. 
+ " Collateral " has the meaning set forth in Section 2 above. 
+ " Collateral Account " is any Deposit Account, Securities Account or Commodity Account. 
+ " Commodity Account" is any "commodity account" as defined in the Code with such additions to such term as may hereafter be made. 
+ " Compliance Certificate " means a certificate, in the form set annexed hereto as   Exhibit B, as such form may be amended from time to time upon advance notice from PFG and in the reasonable discretion of PFG. 
+ 
+ 
+ 
+ " Constitutional Document" means, as to any Person, such Person's formation documents, as last certified by the Secretary of State (or equivalent Governmental Body) of such Person's jurisdiction of organization, together with, (a) if such Person is a corporation, its bylaws in current form, (b) if such Person is a limited liability company, its limited liability company agreement (or operating or similar agreement), (c) if such Person is a partnership, its partnership agreement (or similar agreement), and (d) if such Person is a statutory joint venture company or similar entity, its joint venture (or similar) agreement, each of the foregoing with all current amendments or modifications thereto. 
+ " Contingent Obligation" is, for any Person, any direct or indirect liability, contingent or not, of that Person for (a) any indebtedness, lease, Dividend, letter of credit or other obligation of another such as an obligation, in each case directly or indirectly guaranteed, endorsed, co-made, discounted or sold with recourse by that Person, or for which that Person is directly or indirectly liable; (b) any obligations for undrawn letters of credit for the account of that Person; and (c) all obligations from any interest rate, currency or commodity swap agreement, interest rate cap or collar agreement, or other agreement or arrangement designated to protect a Person against fluctuation in interest rates, currency exchange rates or commodity prices; but "Contingent Obligation" does not include endorsements in the ordinary course of business. The amount of a Contingent Obligation is the stated or determined amount of the primary obligation for which the Contingent Obligation is made or, if not determinable, the maximum reasonably anticipated liability for it determined by the Person in good faith; but the amount may not exceed the maximum of the obligations under any guarantee or other support arrangement. 
+ " continuing " and " during the continuance of" when used with reference to a Default or Event of Default means that the Default or Event of Default has occurred and has not been either waived in writing by PFG or cured within  any applicable cure period. 
+ " Control Agreement" means a written agreement among PFG, Borrower and a depositary bank or other custodian in respect of Borrower's Collateral Accounts by which the depositary bank or other custodian, as appropriate, agrees to comply with instructions given from time to time by PFG directing the disposition of the funds, investments and securities in Borrower's Collateral Accounts without further consent of Borrower, which instructions may include not complying with instructions (which term may include the honoring of checks written by Borrower against  funds in said accounts) given by Borrower, and containing other terms acceptable to PFG. 
+ " Current Depositary(ies)" means the banking and / or other financial institutions at which Borrower maintains Collateral Accounts on the Effective Date. 
+ " Default" means any event which with notice or passage of time or both, would constitute an Event of Default. 
+ " Default Rate" means the lesser of (i) the applicable rate(s) set forth in the Schedule, plus six percent (6%) per annum, and (ii) the maximum rate of interest that may lawfully be charged to a  commercial borrower under applicable usury laws. 
+ " Deposit Accounts" means all present and future "deposit accounts" as defined in the Code in effect on the Effective Date with such additions to such term as may hereafter be made, and includes without limitation all general and special bank accounts, demand accounts, checking accounts, savings accounts and certificates of deposit, and as used in this Agreement, the term "Deposit Accounts" shall be construed to also include securities, commodities and other Investment Property accounts. 
+ " Dividend" means a payment or other distribution in respect to equity to an owner thereof, whether or not in respect of net profits. For the avoidance of doubt, "Dividends" include distribu tions to members of a limited liability company. 
+ " Due Date" in relation to monetary Obligations payable from time to time by Borrower means (i) the date for payment specified in this Agreement (such as, on the first day of each calendar month for interest accrued during the prior month, as contemplated in Section 1.2) or in any other writing executed and delivered by PFG and Borrower from time to time, whether such payment is recurring, one-time or otherwise, or (ii) in the case of Obligations for which no date for payment is specified in this Agreement and which cannot be reasonably ascertained without an invoice from PFG, such as reimbursement of Lender Expenses, the date for payment specified in an invoice sent by or on behalf of PFG to Borrower. 
+ " Equipment" means all present and future "equipment" as defined in the Code in effect on the Effective Date with such additions to such term as may hereafter be made, and includes without limitation all machinery, fixtures, goods, and any interest in any of the foregoing, except motor vehicles. 
+ " Event of Default " means any of the events set forth in Section 6.1 of this Agreement. 
+ 
+ 
+ 
+ " Financial Statements" means consolidated financial statements of Borrower, including a balance sheet, income statement and cash flow and, in the case of monthly-required financial statements, showing data for the month being reported and a history showing each month from the beginning of the relevant fiscal year. 
+ " First-Priority" means, in relation to PFG's Lien in Collateral, a security interest that is prior to any other security interest, with the exception of the Liens of the Senior Lender and other Permitted Liens, which other Permitted Liens may only have superior priority to PFG's Lien with respect to specific items of Equipment. 
+ " GAAP " means generally accepted accounting principles consistently applied. 
+ " General Intangibles" means all present and future "general intangibles" as defined in the Code in effect on the Effective Date with such additions to such term as may hereafter be made, and includes without limitation all Intellectual Property, payment intangibles, royalties, contract rights, goodwill, franchise agreements, purchase orders, customer lists, route lists, telephone numbers, domain names, claims, income tax refunds, security and other deposits, options to purchase or sell real or personal property, rights in all litigation presently or hereafter pending (whether in contract, tort or otherwise), insurance policies (including without limitation key man, property damage, and business interruption insurance), payments of  insurance and rights to payment of any kind. 
+ " good faith business judgment" means honesty in fact and good faith (as defined in Section 1-201 of the Code) in the exercise of PFG's business judgment. 
+ " Governmental Authorization" means any: (a) permit, license, certificate, franchise, concession, approval, consent, ratification, permission, clearance, confirmation, endorsement, waiver, certification, designation, rating, registration, qualification or authorization that is, has been issued, granted, given or otherwise made available by or under the authority of any Governmental Bod y or pursuant to any Legal Requirement; or (b) right under any contract with any Governmental Body. 
+ " Governmental Body" means any of the following, in each case to the extent having jurisdiction over Borrower or any of its assets: (a) nation, principality, commonwealth, province, territory, county, municipality, district or other jurisdiction of any nature; (b) local, municipal, foreign or other government; (c) governmental or quasi-governmental authority of any nature (including any governmental division, subdivision, department, agency, bureau, branch, office, commission, council, board, court or other instrumentality); (d) multi-national organization or body; or (e) individual, entity or body exercising, or entitled to exercise, any executive, legislative, judicial, administrative, regulatory, police, military or taxing aut hority or power of any nature. 
+ " including " means including (but not limited to). 
+ " Indebtedness" means (a) indebtedness for borrowed money or the deferred purchase price of property or services (other than trade payables arising in the ordinary course of business), (b) obligations evidenced by bonds, notes, debentures or other similar instruments, (c) reimbursement obligations in connection with letters of credit, (d) capital lease obligations and (e)  Contingent Obligations. 
+ " Insolvency Proceeding" is any proceeding by or against any Person under the United States Bankruptcy Code, or any other bankruptcy or insolvency law in any jurisdiction, including assignments for the benefit of creditors, compositions, receiverships, administrations, extensions generally with its creditors, or proceedings seeking reorganization, arrangement, or other relief. 
+ " Intellectual Property" means all present and future: (a) copyrights, copyright rights, copyright applications, copyright registrations and like protections in each work of authorship and derivative work thereof, whether published or unpublished, (b) trade secret rights, including all rights to unpatented inventions and knowâ€‘how, and confidential information; (c) mask work or similar rights available for the protection of semiconductor chips; (d) patents, patent applications and like protections including without limitation improvements, divisions, continuations, renewals, reissues, extensions and continuations-in-part of the same; (e) trademarks, servicemarks, trade styles, and trade names, whether or not any of the foregoing are registered, and all applications to register and registrations of the same and like protections, and the entire goodwill of the business of Borrower connected with and symbolized by any such trademarks; (f) Domain Rights; (g) computer software and computer software products; (h) designs and design rights; (i) technology; (j) all claims for damages by way of past, present and future infringement of any of the rights included above; and (k) all licenses or other rights to use any property or rights of a type described above. 
+ " Interest Expense "  means for any fiscal period, interest expense (whether cash or non-cash) determined in accordance with GAAP for the relevant period ending on such date, including, in any event, interest expense with respect to any Credit Extension and other Indebtedness of Borrower, including, without limitation or duplication, all commissions, discounts, or related 
+ 
+ 
+ 
+amortization and other fees and charges with respect to letters of credit and bankers' acceptance financing and the net costs associated with interest rate swap, cap, and similar arrangements, and the interest portion of any deferred payment obligation (including leases of all types). 
+ " Inventory" means all present and future "inventory" as defined in the Code in effect on the Effective Date with such additions to such term as may hereafter be made, and includes without limitation all merchandise, raw materials, parts, supplies, packing and shipping materials, work in process and finished products, including without limitation such inventory as is temporarily out of Borrower's custody or possession or in transit and including any returned goods and any documents of title representing any of the above. 
+ " Investment" means any beneficial ownership interest in any Person (including any stock, partnership interest or other equity or debt securities issued by any Person), and any loan, advance o r capital contribution to any Person. 
+ " Investment Property" means all present and future investment property, securities, stocks, bonds, debentures, debt securities, partnership interests, limited liability company interests, options, security entitlements, securities accounts, commodity contracts, commodity accounts, and all financial assets held in any securities account or otherwise, and all options and warrants to purchase any of the foregoing, wherever located, and all other securities of every kind, whether certificated or uncertificated. 
+ " Key Person" means Borrower's Chief Executive Officer and Chief Operating Officer, who are Panna Sharma (CEO) and John A. Roberts (COO), respectively, as of the Effective Date. 
+ " Knowledge " or " best of knowledge" and words of similar import mean either (i) the actual knowledge, after reasonable investigation, of any of Borrower's executive officers, its Responsible Officer(s) and any persons succeeding or performing the responsibilities of such identified positions, and, if at any time Parent is not subject to the reporting requirements of the Exchange Act or is not current in such reporting (including as a result of a voluntary or involuntary delisting or "going dark") (ii) such knowledge as the persons in such identified positions would have assuming (A) Borrower policies in accordance with generally-accepted norms of corporate governance and (B) the actual exercise of reasonable diligence and prudence by such perso ns in accordance with such policies. 
+ " Legal Requirement" means, as to any Person, the Constitutional Documents of such person and any written local, municipal, foreign or other law, statute, legislation, constitution, principle of common law, resolution, ordinance, code, edict, decree, proclamation, treaty, convention, rule, regulation, ruling, directive, pronouncement, requirement, specification, determination, decision, opinion or interpretation that is, has been issued, enacted, adopted, passed, approved, promulgated, made, implemented or otherwise put into effect by or under the authority of any Governmental Body, in each case applicable to or binding upon such Person or any of its property or to which such Person or any of its property is subject. 
+ " Lender Expenses" means, in each case without limitation as to type and kind: reasonable Professional Costs, and all filing, recording, search, title insurance, appraisal, audit, and other reasonable costs incurred by PFG, pursuant to, or in connection with, or relating to this Agreement (whether or not a lawsuit is filed), including, but not limited to, Professional Costs PFG pays or incurs in order to do the following: (i) prepare and negotiate this Agreement and all present and future documents relating to this Agreement; (ii) obtain legal advice in connection with this Agreement or Borrower enforce, or seek to enforce, any of its rights or retain the services of consultants to do so; (iii) prosecute actions against, or defend actions by, Account Debtors; (iv) commence, intervene in, or defend any action or proceeding; (v) initiate any complaint to be relieved of the automatic stay in bankruptcy; (vi) file or prosecute any bankruptcy claim, third-party claim, or other claim; (vii) examine, audit, copy, and inspect any of the Collateral or any of Borrower's books and records, subject to Section 4.5; (viii) protect, obtain possession of, lease, dispose of, or otherwise enforce PFG's security interest in, the Collateral; and (ix) otherwise represent PFG in  any litigation relating to Borrower. 
+ " Lien " or " lien" is a security interest, claim, mortgage, deed of trust, levy, charge, pledge or other encumbrance of any kind, whether voluntarily incurred or arising by operation of law or othe rwise against any property. 
+ " Loan Documents" means, collectively, this Agreement, the Representations, and all other present and future documents, instruments and agreements between PFG and Borrower, including, but not limited to those relating to this Agreement, and all amendments and modifications thereto and replacements therefor. 
+ " Material Adverse Change" means any of the following: (i) a material adverse change in the business, operations, or financial or other condition of Borrower and its Subsidiaries, taken as a whole, or (ii) a material impairment of the prospect of repayment of any portion of the Obligations; or (iii) a material impairment of the value or priority of PFG's security interests in the Co llateral, 
+ 
+ 
+ 
+or (iv) PFG's determination, based upon information available to it and in its reasonable judgment, that there is a reasonable likelihood that Borrower shall fail to comply with one or more of the financial covenants in Section 5 of the Schedule during the next succeeding financial reporting period. 
+ " Maturity Date " means the Maturity Date(s) set forth in Section 4 of the Schedule. 
+ " Net Income "   means, as calculated on a consolidated basis for Parent and its  Subsidiaries for any period as at any date of determination, the net profit (or loss), after provision for taxes, of Parent and its Subsidiaries for such period taken as a single a ccounting period. 
+ " New Subsidiary(ies) " means any person that becomes a Subsidiary of Borrower after the date hereof. 
+ " Non-Borrower Subsidiary(ies)" means any direct or indirect Subsidiary of Borrower not joined as a co-Borrower hereunder and otherwise joined to the Loan Documents. 
+ " Non-Overdue Senior Monetary Obligations" means, at any time, the amount of monetary Obligations other than principal Indebtedness owed by Borrower to the Senior Lender but not then due, such as accrued and unpaid intere st not yet due. 
+ " Non-U.S. Subsidiary" means a Subsidiary not organized under the laws of (i) any state or commonwealth of the United States or (ii) the District of Columbia. 
+ " Obligations" means the Loan and all other advances, debts, liabilities, obligations, guaranties, covenants, duties and indebtedness at any time owing by Borrower to PFG, including obligations and covenants intended to survive the termination of this Agreement, whether evidenced by this Agreement or any note or other instrument or document, or otherwise, including indebtedness under any obligation to purchase equity derivatives (including stock warrants) purchased or otherwise issued to PFG from time to time, whether arising from an extension of credit, opening of a letter of credit, banker's acceptance, loan, guaranty, indemnification or otherwise, whether direct or indirect (including, without limitation, those acquired by assignment and any participation by PFG in Borrower's debts owing to others), absolute or contingent, due or to become due, including, without limitation, all interest, charges, expenses, fees, attorney's fees, expert witness fees, audit fees, collateral monitoring fees, closing fees, facility fees, commitment fees, contingent fees, back-end and performance-based fees, termination fees, minimum interest charges and any other sums chargeable to Borrower under this Agreement or under any other Loan Documents; but shall not include in choate indemnification obligations or obligations under the Warrant. 
+ " Ordinary (or "ordinary") course of business" and derivatives shall apply to an action taken or an action required to be taken and not taken by or on behalf of a Borrower. An action will not be deemed to have been taken in t he "ordinary course of business"   unless: (a) such action is consistent with its past practices (if such type of action has been taken in the past and, if not, such action shall be deemed not in the ordinary course of business) and is similar in nature and magnitude to actions customarily taken by it; (b) such action is taken in accordance with sound and prudent business practices in its jurisdiction of organization; and (c) such action is not required to be authorized by its shareholders and does not require any other separate or special authorization of any nature. 
+ " Other Property" means the following as defined in the Code in effect on the Effective Date with such additions to such terms as may hereafter be made, and all rights relating thereto: all present and future "commercial tort claims" (including without limitation any commercial tort claims identified in the Representations), "documents", "instruments", "promissory notes", "chattel paper", "letters of credit", "letter-of-credit rights", "fixtures", "farm products" and "money"; and all other goods and personal property of every kind, tangible and intan gible, whether or not governed by the Code. 
+ " Parent " has the meaning set forth in the heading to this Agreement. 
+ " Payment" means all checks, wire transfers and other items of payment received by PFG for credit to Borrower's outstanding Obligations. 
+ " Permitted Indebtedness " means: 
+ (i) the Loan and other Obligations; 
+ (ii) Indebtedness existing on the Effective Date and shown on   Exhibit A   hereto; 
+ (iii) Subordinated Debt; 
+(iv) Indebtedness owing to Senior Lender not to exceed the Senior Debt Limit specified in the Schedule; 
+ 
+ 
+ 
+(v) other Indebtedness secured by Permitted Liens described in clauses (i) and (iii) of that definition; 
+(vi) unsecured Indebtedness to trade creditors incurred in the ordinary course of business, and Indebtedness described in item (iv) of the definition of Permitted Liens; 
+(vii) extensions, refinancings, modifications, amendments and restatements of any items of Permitted Indebtedness (i) through (vi) above, provided that the principal amount thereof is not increased or the terms thereof are not modified to impose materially more burdensome terms upon Borrower. 
+ " Permitted Investments " are: 
+ (i) Investments (if any) shown on   Exhibit A   and existing on the Effective Date; 
+ (ii) Investments consisting of Cash Equivalents; 
+(iii) Investments consisting of the endorsement of negotiable instruments for deposit or collection or similar transactions in the ordinary course of Borrower; 
+ (iv) Investments consisting of (A) lease security deposits and (B) the CD Accounts; 
+ (iv) Investments in Subsidiaries existing on the Effective Date; 
+(v) Investments not exceeding Five Hundred Thousand Dollars ($500,000.00) in any fiscal year in Oncospire; and 
+(vi) Investments by Borrower in Subsidiaries not to exceed Seven Hundred Fifty Thousand Dollars ($750,000) in the aggregate for any rolling four (4) quarter period, provided no Eve nt of Default exists and no Event of Default would result from such Investment. 
+ " Permitted Liens " means the following: 
+(i) purchase money Liens (including Liens arising under any retention of title, hire purchase or conditional sales arrangement or arrangements having similar effect) (i) on Equipment acquired or held by Borrower incurred for financing the acquisition of the Equipment securing no more than $500,000 in the aggregate amount outstanding, or (ii) existing on such Equipment when acquired, if the Lien is confined to the property and improvements and the proceeds of the Equipment; 
+ (ii) Liens for Taxes not yet payable; 
+(iii) additional Liens consented to in writing by PFG, which consent may be withheld in its good faith business judgment. PFG shall have the right to require, as a condition to its consent under this subparagraph (iii), that the holder of the additional Lien sign a subordination agreement in PFG's then standard form, acknowledge that the security interest is subordinate to the security interest in favor of PFG, and agree not to take any action to enforce its subordinate security interest so long as any Obligations remain outstanding, and that Borrower agrees that any uncured default in any obligation secured by the subordinate security interest shall also constitute an Event of Default under this Agreement; 
+(iv) Liens of materialmen, mechanics, warehousemen, carriers, or other similar Liens arising in the ordinary course of business and securing obligations which are not delinquent; 
+ (v) Liens being terminated substantially concurrently with this Agreement; 
+(vi) Liens to secure payment of workers' compensation, employment insurance, old-age pensions, social security and other like obligations incurred in the ordinary course of busines s (other than Liens imposed by ERISA); 
+(vii) Liens incurred in connection with the extension, renewal or refinancing of the indebtedness secured by Liens of the type described above in clauses (i), (ii), (iii) and (x), provided that any extension, renewal or replacement Lien is limited to the property encumbered by the existing Lien and the principal amount of the indebtedness being extended, ren ewed or refinanced does not increase and other terms are not less favorable to Borrower; 
+(viii) Liens in favor of customs and revenue authorities which secure payment of customs duties in connection with the importation of goods; 
+(ix) non-exclusive licenses of Intellectual Property granted to third parties in the ordinary course of business; and 
+ (x) Liens in favor of Senior Lender. 
+ 
+ 
+ 
+ " Person" means any individual, sole proprietorship, partnership, joint venture, trust, unincorporated organization, association, corporation, government, or any agency or political divisi on thereof, or any other entity. 
+ " Professional Costs" means all reasonable fees and expenses of auditors, accountants, valuation experts, Collateral disposition service providers, restructuring and other advisory services in connect ion with restructurings, workouts and Insolvency Proceedings, and fees and costs of attorneys. 
+ " Qualifying Request" means a request made by a Responsible Officer of Borrower under Section 1.4 for (i) a Loan (A) that is within Borrower's borrowing availability under this Agreement, (B) that satisfies the relevant conditions set forth in Section 9 of the Schedule, (C) that is accompanied by such certificates, documents and instruments as may be required under this Agreement or otherwise reasonably required by PFG to confirm Borrower's compliance with the Loan Documents at the time of such request, and (D) that is made within 30 days of the date the Reporting package is required to be delivered (as specified in Section 6 of the Schedule) showing satisfaction of the relevant borrowing conditions, or (ii) any other matter for w hich PFG's consent is required under the Loan Documents. 
+ " Representations" means the written Representations and Warranties provided by Borrower to PFG referred to in the Schedule. 
+ " Responsible Officer(s)" means Panna Sharma, John A. Roberts and any other officer of Parent identified in writing by a Responsible Officer. 
+ " Restricted License" means any material license or other agreement with respect to which Borrower is the licensee (a) that prohibits or otherwise restricts Borrower from granting a Lien in favor of PFG on Borrower's interest therein or (b) for which a default under or termination of could interfere with PFG's right to sell any Collateral. 
+ " Revenue(s) " means revenues required to be recognized as such under GAAP. 
+ " SEC " means the United States Securities and Exchange Commission. 
+ " SEC Filing(s)" means Borrower's periodic and other reports, proxy statements and other material filed by Borrower with the SEC, any Governmental Body succeeding to any or all of the functions of the SEC or with any national securities exchange (such as the NASDAQ), or distributed to its stockholders, as the case may be, and such documents required to be delivered pursuant to the terms hereof (to the extent any such documents are included in materials otherwise filed with the SEC) may be delivered electronically and if so delivered, shall be deemed to have been delivered on the date on which Borrower posts such documents, or provides a link thereto, on Borrower's website on the internet at Borrower's website address; provided, however, Borrower shall promptly notify PFG in writing (which may be by electronic mail) of the posting of any such documents. 
+ " Securities Account" is any "securities account" as defined in the Code with such additions to such term as may hereafter be made. 
+ " Security Instruments" means financing statements and similar notices filed under the Code or other relevant local law (U.S. or non-U.S.) in any jurisdiction in which such financing statements may be filed, fixed and floating charges, share charges, mortgage debentures, and any other notices, instruments and filings that reflect the "all assets" security granted to PFG by Borrow er in this Agreement and the other Loan Documents. 
+ " Senior Debt " has the meaning set forth in Section 8 of the Schedule and " Senior Debt Documents" means the agreements and instruments between or in respect of Borrower and the Senior Lender reflecting the Senior Debt. 
+ " Senior Lender " has the meaning set forth in Section 8 of the Schedule. 
+ " Subordinated Debt" means debt incurred by Borrower subordinated to Borrower's debt to PFG pursuant to a subordination agreement entered into between PFG, Borrower and the subordinated creditor(s) upon terms acceptable to PFG in its sole business discretion, but which may at PFG's option include: (i) subordination of subordinated creditor Lens, (ii) restrictions or prohibition of payments on subordinated debt until all Obligations to PFG are fully repaid and performed, and (iii) a prohibition on the exercise of remedies by a subordinated creditor until  all Obligations to PFG are fully repaid and performed. 
+ " Senior Lender Subordination Agreement" means that certain Subordination Agreement, dated as of the date hereof, by and between PFG and Senior Lender. 
+ " Subsidiary" is, as to any Person, a corporation, partnership, limited liability company or other entity of which shares of stock or other ownership interests having ordinary voting power (other than stock or such other ownership interests having such power only by reason of the happening of a contingency) to elect a majority of the board of directors or other managers  of such 
+ 
+ 
+ 
+corporation, partnership or other entity are at the time owned, or the management of which is otherwise controlled, directly or indirectly through one or more intermediaries, or both, by such Person. Unless the context otherwise requires, each reference to a Subsidiary herein shall be a reference to a Subsidiary of Borrower or Guarantor. 
+ " Tax" means any tax (including any income tax, franchise tax, capital gains tax, estimated tax, gross receipts tax, value-added tax, surtax, excise tax, ad valorem tax, transfer tax, stamp tax, sales tax, use tax, property tax, business tax, occupation tax, inventory tax, occupancy tax, withholding tax or payroll tax), levy, assessment, tariff, impost, imposition, toll, duty (including any customs duty), deficiency or fee, and any related charge or amount (including any fine, penalty or interest), that is, has been or may in the future be (a) imposed, assessed or collected by or under the authority of any Governmental Body, or (b) payable pursuant to any tax-sharing agreement or similar contract. 
+ " Tax Return" means any return (including any information return), report, statement, declaration, estimate, schedule, notice, notification, form, election, certificate or other document or information that is, has been or may in the future be filed with or submitted to, or required to be filed with or submitted to, any Governmental Body in connection with the determination, assessment, collection or payment of any Tax or in connection with the administration, implementation or enforcement of or compliance with any Legal Requirement relating to a ny Tax. 
+ " Transfer " or " transfer" shall include any sale, assignment with or without consideration, encumbrance, hypothecation, pledge, or other transfer or disposition of any kind, including, but not limited to, transfers to receivers, levying creditors, trustees or receivers in bankruptcy proceedings or general assignees for the benefit of creditors, whether voluntary or by operation of law, directly or indirectly, but shall exclude non-exclusive licenses of Intellectual Property in the ordinary course of Borrower's Business. 
+ Other Terms. All accounting terms used in this Agreement, unless otherwise indicated, shall have the meanings given to such terms in accordance with GAAP, consistently applied. All other terms contained in this Agreement, unless otherwise indicated, shall have the meanings provided by the Code, to the extent such terms are defined therein. 
+ 8.    GENERAL PROVISIONS. 
+ 8.1 Confidentiality .  PFG agrees to use the same degree of care that it exercises with respect to its own proprietary information, to maintain the confidentiality of any and all proprietary, trade secret or other information identified by Borrower as confidential provided to or received by PFG from Borrower, including business plans and forecasts, non-public financial information, confidential or secret processes, formulae, devices and contractual information, customer lists, and employee relation matters, provided that PFG may disclose such information (i) to its officers, directors, employees, attorneys, accountants, affiliates, and advisory boards (provided they are informed of the confidential nature of the information and instructed to keep it confidential), (ii) subject to an agreement containing provisions substantially the same as this Section, to any participants, prospective participants, assignees and prospective assignees, (iii) to such other Persons to whom PFG shall at any time be required to make such disclosure in accordance with applicable law or legal process, and (iv) in its good faith business judgment in connection with the enforcement of its rights or remedies after an Event of Default, or in connection with any dispute with Borrower or any other Person relating to Borrower. The confidentiality agreement in this Section supersedes any prior confidentiality agreement of PFG relating to Borrower. 
+ 8.2 Interest Computation.  In computing interest on the Obligations, all Payments received after 12:00 Noon, Pacific Time, on any day shall be deemed received on the next Business Day. 
+ 8.3 Payments .  All Payments may be applied, and in PFG's good faith business judgment reversed and re-applied, to the Obligations, in such order and manner as PFG shall determine in its good fait h business judgment. 
+ 8.4 Monthly Accountings.  PFG may provide Borrower monthly with an account of advances, charges, expenses and payments made pursuant to this Agreement. Such account shall be deemed correct, accurate and binding on Borrower and an account stated (except for reverses and reapplications of payments made and corrections of errors discovered by PFG), unless Borrower notifies PFG in writing to the contrary within 60 days after such account is rendered, describing the nature of any alleged errors or omissions. 
+ 8.5 Notices.  All notices to be given under this Agreement shall be in writing and shall be given either personally, or by reputable private delivery service, or by regular first-class mail, or certified mail return receipt requested, or by fax to the most recent fax number a party has for the other party (and if by fax, sent concurrently by one of the other methods provided herein), or by electronic mail to the most recent electronic mail address for Borrower provided for the chief financial officer or financial controller executing the Representa tions (and if by electronic mail, with an electronic delivery and/or read receipt), addressed 
+ 
+ 
+ 
+to PFG or Borrower at the addresses shown in the heading to this Agreement, in the Representations or at any other address designated in writing by one party to the other party. All notices shall be deemed to have been given upon delivery in the case of notices personally delivered, or at the expiration of one Business Day following delivery to the private delivery service, or two Business Days following the deposit thereof in the United States mail, with postage prepaid, or on the first business day of receipt during business hours i n the case of notices sent by fax or electronic mail, as provided herein. 
+ 8.6 Authorization to Use Borrower Name, Etc.  Borrower irrevocably authorizes PFG to: (i) use Borrower's logo on PFG's website and in its marketing materials to denote the lending relationship between PFG and Borrower; (ii) use a "tombstone" to highlight the transaction(s) from time to time between PFG and Borrower; and (iii) to issue press releases in a form reasonable acceptable to Borrower and PFG highlighting and summarizing the credit facilities extended by PFG to Borrower from time to time under this Agreement, as amended from time to time, all of the above (i) through (iii ), for marketing purposes. 
+ 8.7 Severability.  Should any provision of this Agreement be held by any court of competent jurisdiction to be void or unenforceable, such defect shall not affect the remainder of this Agreement, whi ch shall continue in full force and effect. 
+ 8.8 Integration.  This Agreement and such other written agreements, documents and instruments as may be executed in connection herewith are the final, entire and complete agreement between Borrower and PFG and supersede all prior and contemporaneous negotiations and oral representations and agreements, all of which are merged and integrated in this Agreement.  There are no oral understandings, representations or agreements between the parties which are not set forth in this Agreement or in other written agreements signed by the parties i n connection herewith. 
+ 8.9 Waivers; Indemnity.  The failure of PFG at any time or times to require Borrower to strictly comply with any of the provisions of this Agreement or any other Loan Document shall not waive or diminish any right of PFG later to demand and receive strict compliance therewith. Any waiver of any default shall not waive or affect any other default, whether prior or subsequent, and whether or not similar. None of the provisions of this Agreement or any other Loan Document shall be deemed to have been waived by any act or knowledge of PFG or its agents or employees, but only by a specific written waiver signed by an authorized officer of PFG and delivered to Borrower. Borrower waives the benefit of all statutes of limitations relating to any of the Obligations or this Agreement or any other Loan Document, and Borrower waives demand, protest, notice of protest and notice of default or dishonor, notice of payment and nonpayment, release, compromise, settlement, extension or renewal of any commercial paper, instrument, account, General Intangible, document or guaranty at any time held by PFG on which Borrower is or may in any way be liable, and notice of any action taken by PFG, unless expressly required by this Agreement. Borrower hereby agrees to indemnify PFG and its affiliates, subsidiaries, parent, directors, officers, employees, agents, and attorneys, and to hold them harmless from and against any and all claims, debts, liabilities, demands, obligations, actions, causes of action, penalties and Lender Expenses of every kind, which they may sustain or incur based upon or arising out of any of the Obligations, or any relationship or agreement between PFG and Borrower, or any other matter, relating to Borrower or the Obligations; provided that this indemnity shall not extend to damages determined by a court of competent jurisdiction in a final judgment to have been proximately caused by the indemnitee's own gross negligence or willful misconduct. Notwithstanding any provision in this Agreement to the contrary, the indemnity agreement set forth in this Section shall survive any termination of this Agreement and shall for all purposes continue in full f orce and effect. 
+ 8.10 No Liability for Ordinary Negligence.  Borrower agrees that any and all claims it may have under this Agreement shall be limited to claims against PFG and not its directors, officers, employees, agents, attorneys or any other Person affiliated with or representing PFG. Neither PFG, nor any of its directors, officers, employees, agents, attorneys or any other Person affiliated with or representing PFG shall be liable for any claims, demands, losses or damages, of any kind whatsoever, made, claimed, incurred or suffered by Borrower or any other party through the negligence of PFG, or any of its directors, officers, employees, agents, attorneys or any other Person affiliated with or representing PFG, but nothing herein shall relieve PFG from liability  for its own gross negligence or willful misconduct. 
+ 8.11 Amendment.  The terms and provisions of this Agreement may not be waived or amended, except in a writing executed by Borrower and a duly authorized officer of PFG. No purported amendment or modification of any Loan Document, or waiver, discharge or termination of any obligation under any Loan Document, shall be enforceable or admissible unless, and only to the extent, expressly set forth in a writing signed by the party against which enforcement or admission is sought. Without limiting the generality of the foregoing, no oral promise or statement, nor any action, inaction, delay, failure to require performance or course of conduct shall operate as, or evidence, an amendment, supplement or waiver or have any other effect on any Loan Document. Any waiver granted shall be limited to the specific circumstance expressly described in it, and shall not apply to any subsequent or other circumstance, whether similar or dissimilar, or give rise to, or evidence, any obligation or commitment to grant any further waiver. 
+ 
+ 
+ 
+ 8.12 Time of Essence.  Time is of the essence in the performance by Borrower of each and every obligation under this Agreement. 
+ 8.13 Lender Expenses.  Borrower shall reimburse PFG for all Lender Expenses. All Lender Expenses to which PFG may be entitled pursuant to this Paragraph shall immediately become part of Borrower's Obligations, shall be due on demand, and if not paid within three (3) Business Days after demand, shall bear interest at the Default Rate. 
+ 8.14 Benefit of Agreement.  The provisions of this Agreement shall be binding upon and inure to the benefit of the respective successors, assigns, heirs, beneficiaries and representatives of Borrower and PFG; provided, however, that Borrower may not assign or Transfer any of its rights under this Agreement without the prior written consent of PFG, and any prohibited assignment shall be void. No consent by PFG to any assignment shall release Borrower from its liability for the Obligations. 
+ 8.15 Joint and Several Liability.  If Borrower consists of more than one Person, their liability shall be joint and several, and the compromise of any claim with, or the release of, any Borrower shall not constitute  a compromise with, or a release of, any other Borrower. 
+ 8.16 Limitation of Actions.  Any claim or cause of action by Borrower against PFG, its directors, officers, employees, agents, accountants or attorneys, based upon, arising from, or relating to this Loan Agreement, or any other Loan Document, or any other transaction contemplated hereby or thereby or relating hereto or thereto, or any other matter, cause or thing whatsoever, incurred, done, omitted or suffered to be done by PFG, its directors, officers, employees, agents, accountants or attorneys, shall be barred unless asserted by Borrower by the commencement of an action or proceeding in a court of competent jurisdiction by (a) the filing of a complaint within one year after the earlier to occur of (i) the first act, occurrence or omission upon which such claim or cause of action, or any part thereof, is based, or (ii) the date this Agreement is terminated, and (b) the service of a summons and complaint on an officer of PFG, or on any other person authorized to accept service on behalf of PFG, within thirty (30) days thereafter. Borrower agrees that such one-year period is a reasonable and sufficient time for Borrower to investigate and act upon any such claim or cause of action. The one-year period provided herein shall not be waived, tolled, or extended except by the written consent of PFG in its sole discretion. This provision shall survive any termination of this Loan Agreement or any other Loan Document. 
+ 8.17 Loan Monitoring.  At reasonable times and upon reasonable advance notice to Borrower, PFG shall have the right to visit personally with Borrower up to two times per calendar year at its principal place of business or such other location as the parties may mutually agree, for the purpose of meeting with Borrower's management in order to remain as up-to-date with Borrower's business as is practicable and to maintain best practices in terms of lender loan monitoring and diligence. Lender Expenses incurred for reasonable travel, lodging and similar expenses for up to two PFG staff for such visits shall be at Borrower's expense and reimbursed in the same manner as other PFG expenses under this Agreement. 
+ 8.18     Paragraph Headings; Construction; Counterparts.  Paragraph headings are only used in this Agreement for convenience. Borrower and PFG acknowledge that the headings may not describe completely the subject matter of the applicable paragraph, and the headings shall not be used in any manner to construe, limit, define or interpret any term or provision of this Agreement. This Agreement has been fully reviewed and negotiated between the parties with the benefit of independent counsel and no uncertainty or ambiguity in any term or provision of this Agreement shall be construed strictly against PFG or Borrower under any rule of construction or otherwise. References to "Borrower" are construed to mean "each Borrower", unless otherwise expressly specified. Amounts set off in brackets or parentheses are negative. The word "shall" is mandatory, the word "may" is permissive, and the word "or" is not exclusive. The term "Agreement" includes the Schedule and (if not otherwise specified) any amendment, modification, restatement or other writing amending the terms of this Agreement. Obligations of a similar nature addressed in different sections of this Agreement shall be deemed supplemental to one another and not exclusive unless expressly set forth as such. Words and phrases expressing examples, including "for example" and "such as" are non-exclusive. This Agreement may be executed in any number of counterparts and by different parties on separate counterparts, each of which, wh en executed and delivered, is an original, and all taken together, constitute one Agreement. 
+ 8.19 Correction of Loan Documents.  PFG may correct patent errors and fill in any blanks in the Loan Documents consistent with the agreement of the parties so long as PFG provides Borrowers with written notice of such correction and allows Borrower at least ten (10) days to object to such correction. In the event of such objection, such correction shall not be made except by an amendment signe d by both PFG and Borrower. 
+ 8.20 Governing Law; Jurisdiction; Venue.  This Agreement and all acts and transactions hereunder and all rights and obligations of PFG and Borrower shall be governed by the laws of the State of California. As a material part of the consideration to PFG to enter into this Agreement, Borrower (i) agrees that all actions and proceedings relating directly or indirectly to this 
+ 
+ 
+ 
+Agreement shall be litigated in courts located within California and that the exclusive venue therefor shall, at PFG's option, be Santa Clara County; (ii) consents to the jurisdiction and venue of any such court and consents to service of process in any such action or proceeding by personal delivery or by internationally-recognized commercial courier or overnight delivery service or by certified mail, return receipt requested, to the last known address for Borrower; and (iii) waives any and all rights Borrower may have to object to the jurisdiction of any such court, or to transfer or change the venue of any such action or proceeding. Notwithstanding the foregoing, PFG, in pursuit of collection and Collateral or rights therein, may pursue remedies in any jurisdiction in which Borrower or any Collateral resides or is deemed to reside. 
+ 
+ 8.21   Withholding. Payments received by PFG from Borrower under this Agreement will be made free and clear of and without deduction for any and all present or future taxes, levies, imposts, duties, deductions, withholdings, assessments, fees or other charges imposed by any Governmental Body (including any interest, additions to tax or penalties applicable thereto). Specifically, however, if at any time any Governmental Body, applicable law, regulation or international agreement requires Borrower to make any withholding or deduction from any such payment or other sum payable hereunder to PFG, Borrower hereby covenants and agrees that the amount due from Borrower with respect to such payment or other sum payable hereunder will be increased to the extent necessary to ensure that, after the making of such required withholding or deduction, PFG receives a net sum equal to the sum which it would have received had no withholding or deduction been required, and Borrower shall pay the full amount withheld or deducted to the relevant Governmental Body. Borrower will, upon request, furnish PFG with proof reasonably satisfactory to PFG indicating that Borrower has made such withholding payment; provided, however, that Borrower need not make any withholding payment if the amount or validity of such withholding payment is contested in good faith by appropriate and timely proceedings and as to which payment in full is bonded or reserved against by Borrower. The agreements and obligations of Borrower contained in this Section 8.21 shall survive the termination of this Agreement. 
+ 
+ 8.22 Multiple Borrowers; Suretyship Waivers.   If there is at any time after the Effective Date more than one Borrower: 
+ (a)   Borrowers' Agent. Each Borrower hereby irrevocably appoints each other Borrower, as the agent, attorney-in-fact and legal representative of all Borrowers for all purposes, including requesting disbursement of the Loan and receiving account statements and other notices and communications to Borrowers (or any of them) from PFG. PFG may rely, and shall be fully protected in relying, on any request in relation to the Loan, disbursement instruction, report, information or any other notice or communication made or given by any Borrower, whether in its own name, as Borrowers' agent, or on behalf of one or more Borrowers, and PFG shall not have any obligation to make any inquiry or request any confirmation from or on behalf of any other Borrower as to the binding effect on it of any such request, instruction, report, information, other notice or communication, nor shall the joint and several character of Borrow ers' obligations hereunder be affected thereby. 
+ (b)     Waivers. Each Borrower hereby waives: (i) any right to require PFG to institute suit against, or to exhaust its rights and remedies against, any other Borrower or any other Person, or to proceed against any property of any kind which secures all or any part of the Obligations, or to exercise any right of offset or other right with respect to any reserves, credits or deposit accounts held by or maintained with PFG or any indebtedness of PFG to any other Borrower, or to exercise any other right or power, or pursue any other remedy PFG may have; (ii) any defense arising by reason of any disability or other defense of any other Borrower or any guarantor or any endorser, co-maker or other Person, or by reason of the cessation from any cause whatsoever of any liability of any other Borrower or any guarantor or any endorser, co-maker or other Person, with respect to all or any part of the Obligations, or by reason of any act or omission of PFG or others which directly or indirectly results in the discharge or release of any other Borrower or any guarantor or any other Person or any Obligations or any security therefor, whether by operation of law or otherwise; (iii) any defense arising by reason of any failure of PFG to obtain, perfect, maintain or keep in force any Lien on, any property of any Borrower or any other Person; (iv) any defense based upon or arising out of any Insolvency Proceeding, liquidation or dissolution proceeding commenced by or against or in respect of any Borrower or any guarantor or any endorser, co-maker or other Person, including without limitation any discharge of, or bar against collecting, any of the Obligations (including without limitation any interest thereon), in or as a result of any such proceeding. Until all of the Obligations have been paid, performed, and discharged in full, nothing shall discharge or satisfy the liability of Borrower hereunder except the full performance and payment of all of the Obligations. If any claim is ever made upon PFG for repayment or recovery of any amount or amounts received by PFG in payment of or on account of any of the Obligations, because of any claim that any such payment constituted a preferential Transfer or fraudulent conveyance, or for any other reason whatsoever, and PFG repays all or part of said amount by reason of any judgment, decree or order of any court or administrative body having jurisdiction over PFG or any of its property, or by reason of any settlement or compromise of any such claim effected by PFG with any such claimant (including without limitation the any other Borrower), then and in any such event, Borrower agrees that any such judgment, decree, order, settlement and compro mise shall be binding upon Borrower, notwithstanding any revocation 
+ 
+ 
+ 
+or release of this Agreement or the cancellation of any note or other instrument evidencing any of the Obligations, or any release of any of the Obligations, and Borrower shall be and remain liable to PFG under this Agreement for the amount so repaid or recovered, to the same extent as if such amount had never originally been received by PFG, and the provisions of this sentence shall survive, and continue in effect, notwithstanding any revocation or release of this Agreement. Each Borrower hereby expressly and unconditionally waives all rights of subrogation, reimbursement and indemnity of every kind against any other Borrower, and all rights of recourse to any assets or property of any other Borrower, and all rights to any collateral or security held for the payment and performance of any Obligations, including (but not limited to) any of the foregoing rights which Borrower may have under any present or future document or agreement with any other Borrower or other Person, and including (but not limited to) any of the foregoing rights which Borrower may have under any equitable doctrine of subrogation, implied contract, or unjust enrichment, or any other equitable or legal doctrine. Each Borrower further hereby waives any other rights and defenses that are or may become available to Borrower by reason of California Civil Code Sections 2787 to 2855 (inclusive), 2899, and 3433, as now in effect or hereafter amended, an d under all other similar statutes and rules now or hereafter in effect. 
+ (c)     Consents. Each Borrower hereby consents and agrees that, without notice to or by Borrower and without affecting or impairing in any way the obligations or liability of Borrower hereunder, PFG may, from time to time before or after revocation of this Agreement, do any one or more of the following in PFG's sole and absolute discretion: (i) accept partial payments of, compromise or settle, renew, extend the time for the payment, discharge, or performance of, refuse to enforce, and release all or any parties to, any or all of the Obligations; (ii) grant any other indulgence to any Borrower or any other Person in respect of any or all of the Obligations or any other matter; (iii) accept, release, waive, surrender, enforce, exchange, modify, impair, or extend the time for the performance, discharge, or payment of, any and all property of any kind securing any or all of the Obligations or any guaranty of any or all of the Obligations, or on which PFG at any time may have a Lien, or refuse to enforce its rights or make any compromise or settlement or agreement therefor in respect of any or all of such property; (iv) substitute or add, or take any action or omit to take any action which results in the release of, any one or more other Borrowers or any endorsers or guarantors of all or any part of the Obligations, including, without limitation one or more parties to this Agreement, regardless of any destruction or impairment of any right of contribution or other right of Borrower; (v) apply any sums received from any other Borrower, any guarantor, endorser, or co-signer, or from the disposition of any Collateral or security, to any indebtedness whatsoever owing from such Person or secured by such Collateral or security, in such manner and order as PFG determines in its sole discretion, and regardless of whether such indebtedness is part of the Obligations, is secured, or is due and payable. Borrower consents and agrees that PFG shall be under no obligation to marshal any assets in favor of Borrower, or against or in payment of any or all of the Obligations. Borrower further consents and agrees that PFG shall have no duties or responsibilities whatsoever with respect to any property securing any or all of the Obligations. Without limiting the generality of the foregoing, PFG shall have no obligation to monitor, verify, audit, examine, or obtain or maintain any insurance with respect to, any property securing any or all of the Obligations. 
+ (d)     Independent Liability. Each Borrower hereby agrees that one or more successive or concurrent actions may be brought hereon against Borrower, in the same action in which any other Borrower may be sued or in separate actions, as often as deemed advisable by PFG. Each Borrower is fully aware of the financial condition of each other Borrower and is executing and delivering this Agreement based solely upon its own independent investigation of all matters pertinent hereto, and Borrower is not relying in any manner upon any representation or statement of PFG with respect thereto. Each Borrower represents and warrants that it is in a position to obtain, and each Borrower hereby assumes full responsibility for obtaining, any additional information concerning any other Borrower's financial condition and any other matter pertinent hereto as Borrower may desire, and Borrower is not relying upon or expecting PFG to furnish to it any information now or hereafter in PFG's possession concerning the same or any other matter. 
+ (e)   Subordination. All indebtedness of a Borrower now or hereafter arising held by another Borrower is subordinated to the Obligations and Borrower holding the indebtedness shall take all actions r easonably requested by PFG to effect, to enforce and to give notice of such subordination. 
+ 8.23 Electronic Execution of Documents.  The words "execution," "signed," "signature" and words of like import in any Loan Document shall be deemed to include electronic signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity and enforceability as a manually executed signature or the use of a paper-based recordkeeping systems, as the case may be, to the extent and as provided for in any applicable law, including, without limitation, any state law based on the Uniform Electronic Transactions Act. 
+ 
+ 
+ 
+ 8.24 Relationship. The relationship of the parties to this Agreement is determined solely by the provisions of this Agreement. The parties do not intend to create any agency, partnership, joint venture, trust, fiduciary or other relationship with duties or incidents different from those of parties to an arm's-length contract. 
+ 8.25 Third Parties. Nothing in this Agreement, whether express or implied, is intended to: (a) confer any benefits, rights or remedies under or by reason of this Agreement on any persons other than the express parties to it and their respective permitted successors and assigns; (b) relieve or discharge the obligation or liability of any person not an express party to this Agreement; or (c) give any person not an express party to this Agreement any right of subrogation or action against any party to this Agreement. 
+ 8.26 Mutual Waiver of Jury Trial.  BORROWER AND PFG EACH HEREBY WAIVE THE RIGHT TO TRIAL BY JURY IN ANY ACTION OR PROCEEDING BASED UPON, ARISING OUT OF, OR IN ANY WAY RELATING TO, THIS AGREEMENT OR ANY OTHER PRESENT OR FUTURE INSTRUMENT OR AGREEMENT BETWEEN PFG AND BORROWER, OR ANY CONDUCT, ACTS OR OMISSIONS OF PFG OR BORROWER OR ANY OF THEIR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, ATTORNEYS OR ANY OTHER PERSONS AFFILIATED WITH PFG OR BORROWER, IN ALL OF THE FOREGOING CASES, WHETHER SOUNDING IN CONTRACT OR TORT OR OTHERWISE. WITHOUT INTENDING IN ANY WAY TO LIMIT THE PA RTIES' AGREEMENT TO WAIVE THEIR RESPECTIVE RIGHT TO A TRIAL BY JURY, if the above waiver of the right to a trial by jury is not enforceable, the parties hereto agree that any and all disputes or controversies of any nature between them arising at any time shall be decided by a reference to a private judge, mutually selected by the parties (or, if they cannot agree, by the Presiding Judge of the Santa Clara County, California Superior Court) appointed in accordance with Code of Civil Procedure Section 638 (or pursuant to comparable provisions of federal law if the dispute falls within the exclusive jurisdiction of the federal courts), sitting without a jury, in Santa Clara County, California; and the parties hereby submit to the jurisdiction of such court. The reference proceedings shall be conducted pursuant to and in accordance with the provisions of Code of Civil Procedure Â§Â§ 638 through 645.1, inclusive. The private judge shall have the power, among others, to grant provisional relief, including without limitation, entering temporary restraining orders, issuing preliminary and permanent injunctions and appointing receivers. All such proceedings shall be closed to the public and confidential and all records relating thereto shall be permanently sealed. If during the course of any dispute, PFG desires to seek provisional relief, but a judge has not been appointed at that point pursuant to the judicial reference procedures, then PFG may apply to the Santa Clara County, California Superior Court for such relief. The proceeding before the private judge shall be conducted in the same manner as it would be before a court under the rules of evidence applicable to judicial proceedings. The parties shall be entitled to discovery which shall be conducted in the same manner as it would be before a court under the rules of discovery applicable to judicial proceedings. The private judge shall oversee discovery and may enforce all discovery rules and order applicable to judicial proceedings in the same manner as a trial court judge. The parties agree that the selected or appointed private judge shall have the power to decide all issues in the action or proceeding, whether of fact or of law, and shall report a statement of decision thereon pursuant to the Code of Civil Procedure Â§ 644(a). Nothing in this paragraph shall limit the right of PFG at any time to exercise self-help remedies, foreclose against Collateral, or obtain provisional remedies. The private judge shall also determine all issues relating to the applicability, interpretation, and enfor ceability of this paragraph. 
+ [SIGNATURE PAGE FOLLOWS] 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Borrower: 
+ CANCER GENETICS, INC. 
+ 
+ 
+ 
+ By   /s/ Panna Sharma                                
+ 
+ Name: Panna Sharma 
+ 
+ Title: Chief Executive Officer 
+ 
+ 
+ 
+ By   /s/ John A. Roberts                              
+ 
+ Name: John A. Roberts 
+ 
+ Title: Chief Operating Officer 
+ 
+ PFG: 
+ PARTNERS FOR GROWTH IV, L.P. 
+ 
+ 
+ 
+ By   /s/ Philip Lawson                              
+ 
+ Name:   Philip Lawson                                
+ 
+ Title: Manager, Partners for Growth IV, LLC 
+    Its General Partner 
+ 
+ 
+ GENTRIS, LLC 
+ 
+ 
+ 
+ By   /s/ Panna Sharma                                
+ 
+ Name: Panna Sharma 
+ 
+ Title: Chief Executive Officer 
+ 
+ 
+ 
+ By   /s/ John A. Roberts                              
+ 
+ Name: John A. Roberts 
+ 
+ Title: Chief Operating Officer 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Signature Page Loan and Security Agreement - 
+   
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partners For Growth 
+ Schedule to 
+ Loan and Security Agreement 
+ 
+ Borrower:        Cancer Genetics, Inc., a Delaware corporation ("Parent") 
+ Address:        201 Route 17 N., 2nd Floor, Rutherford, NJ 07070 
+ Borrower:        Gentris, LLC, a Delaware limited liability company ("Gentris")     
+ Address:        33 Southcenter Court, Ste. 400, Morrisville, NC 27560 
+ Date:            March 22, 2017 
+This Schedule forms an integral part of the Loan and Security Agreement between PARTNERS FOR GROWTH IV, L.P. and the above-referenced Borrower dated the Effective Date. 
+ 
+ 
+ 
+ 1. LOAN   (Section 1.1): 
+ 
+ The Loan:    The Loan shall consist of a term loan in the original principal amount of $6,000,000, which amount shall be disbursed after deduction for the payoff amount under the Existing SVB Term Loan (as defined in Section 8(a)(1) of this Schedule), such net proceeds to be disbursed within upon the later to occur of one (1) Business Day following (i) the Effective Date and (ii) the Business Day following the Business Day on which the conditions set forth in Section 9 have been satisfied or, in PFG's sole discretion, waived or deferred. 
+ Repayment:    Borrower shall pay interest only on the outstanding principal balance of the Loan monthly in arrears on the first day of each month until the Maturity Date (or earlier acceleration of the Loan), whereupon the entire unpaid principal balance of the Loan plus all accrued and unpaid interest shall be paid. 
+ Prepayment :     The principal amount of the Loan may be prepaid in whole or in one or more parts at any time and from time to time, without penalty or fee. Repaid principal may not be re-borrowed. 
+ 
+ 
+ 
+ 
+ 
+ -1- 
+   
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+ 
+ 2. INTEREST   (Section 1.2):     
+The Loan shall bear interest at a per annum rate equal to 11.5%, fixed; provided, however, if Parent's consolidated Revenues and Adjusted EBITDA for its 2017 fiscal year, based upon amounts as disclosed in its first SEC Filing filed after December 31, 2017 (as adjusted for the definition of Adjusted EBITDA), meet or exceed ninety percent (90%) of its consolidated Revenues and Adjusted EBITDA, as previously agreed between Lender and Borrower for Parent's 2017 fiscal year, then, effective as of January 1, 2018, the interest rate shall b e reduced to 11% per annum, fixed. 
+If Borrower qualifies for the foregoing interest rate reduction, as long as no Event of Default has occurred and is continuing, any interest accrued on and after January 1, 2018 and paid to PFG prior to the date of the SEC Filing reporting such qualification in excess of 11% per annum will be credited against interest payments next coming due after the date  of said SEC filing in the order of maturity thereof. 
+ 
+ 
+ 
+ 3. FEES   (Section 1.3): 
+ 
+ Loan Fee:    $120,000, payable promptly upon invoice by PFG on or following the Effective Date. 
+ 
+ 
+ 
+ 
+ 4. MATURITY DATE 
+ (Section 5.1):     March __, 2020. 
+ 
+ 
+ 
+ 5. FINANCIAL COVENANTS 
+(Section 4.1):    Borrower shall comply with each of the following covenants. Compliance shall be determined on a consolidated basis (except with respect to Minimum Liquidity) (wit h numbers in parentheses denoting negative numbers): 
+ Minimum Adjusted 
+ EBITDA:    Tested calendar monthly on a trailing three-month ("T3M") basis, Borrower shall maintain Adjusted EBITDA of not less than the amounts set forth below for the corresponding T3M  periods: 
+ T3M Periods Ending            Minimum Threshold 
+ 
+ 
+ -2- 
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12/31/16 through 5/31/17 
+ 
+ $(3,000,000) 
+ 
+ 6/30/17 through 11/30/17 
+ 
+ $(2,500,000) 
+ 
+ 12/31/17 through 2/28/18 
+ 
+ $(1,750,000) 
+ 
+ 3/31/18 through 5/31/18 
+ 
+ $(750,000) 
+ 
+ 6/30/2018 and each calendar month thereafter 
+ 
+ 
+ 
+ $1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Revenues:    Tested on a quarterly basis as of the end of each calendar quarter during the term of the Loan, Borrower's Revenues shall meet or exceed the thresholds set forth below for the corresponding periods: 
+ Quarterly Periods            Minimum Thresholds 
+ 
+ 
+ 
+ Q1-2017 
+ 
+ $5,913,942 
+ 
+ Q2-2017 
+ 
+ $6,462,869 
+ 
+ Q3-2017 
+ 
+ $6,136,190 
+ 
+ Q4-2017 
+ 
+ $7,431,614 
+ 
+ 
+ 
+ 
+ Future Periods:    With respect to the period ending March 31, 2018 and each period thereafter, the levels of minimum Revenue shall be set by PFG in consultation with and generally consistent with SVB. With respect thereto: 
+(i)    Borrower's failure to either (1) agree in writing (which agreement shall be set forth in a written amendment to this Agreement) on or before February 28, 2018, to any such covenant levels with respect to Borrower's fiscal year ending December 31, 2018, or (2) notwithstanding Section 7(g) of this Schedule, deliver to PFG, on or before the earlier to occur of (i) January 31, 2018 and (ii) three (3) Business Days after approval by the Board, Borrower's budgets, sales projections, operating plans and other financial information of Borrower that PFG reasonably deems relevant, including, without limitation, Borrower's Board-approved operating budgets, projections and plans, with respect to Borrower's fiscal year ending December 31, 2018, shall resul t in an immediate Event of Default for which there shall be no grace or cure period; and 
+(ii)    Borrower's failure to either (1) agree in writing (which agreement shall be set forth in a written amendment to this Agreement) on or before February 28, 2019, to any such covenant levels with respect to Borrower's fiscal year ending December 31, 2019, or (2) notwithstanding Section 7(g) of this Agreement, deliver to PFG, on or before the earlier to occur of (i) January  31, 2019 or (ii) three (3) Business Days after approval by 
+ 
+ 
+ -3- 
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+the Board, Borrower's budgets, sales projections, operating plans and other financial information of Borrower that PFG reasonably deems relevant, including, without limitation, Borrower's Board-approved operating budgets, projections and plans, with respect to Borrower's fiscal year ending December 31, 2019, shall result in an immediate Event of Default for which there shall be  no grace or cure period. 
+ Minimum Liquidity:    Tested monthly with respect to Borrower only, and not on a consolidated basis with any Non-Borrower Subsidiaries, Borrower shall at all times maintain Minimum Liquidity of at least $3,500,000. 
+ Definitions:    For purposes of the foregoing financial covenants, the following terms shall have the following meanings: 
+ " Adjusted EBITDA "  means, calculated on a consolidated basis with respect to Parent and its Subsidiaries, (a) Net Income, plus (b) to the extent deducted in the calculation of Net Income, (i) Interest Expense, (ii) depreciation and amortization expense, (iii) income tax expense, (iv) and non-cash stock compensation expense, and (v) restructuring and severance costs not exceeding $200,000 in the aggregate in any fiscal year of Parent, exclusive of not more than $190,000 to be booked in the first calendar quarter of Parent's 2017 fiscal year, minus (c) unfinanced capital expenditures, all as determined in accordance with GAAP. 
+ " Minimum Liquidity" means the sum of Cash and Cash Equivalents in Collateral Accounts with the Senior Lender, plus Availability. For purposes hereof, "Availability" means the unused amount that may be drawn by Borrower on any day under Parent's revolving line of credit with the Senior Lender (which, for the avoidance of doubt, shall be net of then outstanding principal borrowings under such line  of credit). 
+ 
+ 
+ 
+ 6. REPORTING. 
+ (Section 4.4): 
+As long as any Obligations remain outstanding, Borrower shall provide PFG with the following, provided, however, PFG shall retain the right to request that Borrower not provide (in any instance or generally) any particular Report(s) so that PFG is not then privy to material non-public information concerning Borrower): 
+ 
+ (a) 
+ 
+Monthly accounts payable, accounts receivable and deferred Revenue schedules, aged by invoice date, and outstanding or held check registers, if any, within 30 days after the end of each month. 
+ 
+ 
+ 
+ -4- 
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+ 
+ (b) 
+ 
+Monthly unaudited, management-prepared consolidated and consolidating Financial Statements, as soon as available, and in any event within 30 days after the end of each month. 
+ 
+ 
+ (c) 
+ 
+Monthly Compliance Certificates within 30 days after the end of each month, signed by a Responsible Officer of Parent, certifying that as of the end of such month Borrower was in full compliance with all of the terms and conditions of this Agreement and setting forth calculations showing compliance with the financial covenants set forth in this Schedule, together with such othe r information as PFG shall reasonably request. 
+ 
+ 
+ (d) 
+ 
+Borrower's SEC Filings, within five (5) days of such filing. SEC Filings may be delivered electronically and if so delivered, shall be deemed to have been delivered on the date on which Borrower posts such documents, or provides a link thereto, on Borrower's website on the internet at Borrower's website address; provided, however, Borrower shall promptly notify Lender in writin g (which may be by electronic mail) of the posting of any such documents 
+ 
+ 
+ (e) 
+ 
+Without limiting Borrower's obligation to provide notice to PFG of certain events or circumstances as specified in this Agreement, quarterly updates to the Representations within fifteen (15) days after the end of each calendar quarter; provided however, that changes to information disclosed in Sections 1, 2(a) and (b), 3(a), 11(a) and (c) and 17 shall be promptly notified to P FG and reflected in the succeeding update to the Representations. 
+ 
+ 
+ (f) 
+ 
+Within five (5) Business Days of delivery, copies of all statements, reports and notices made available to Borrower's security holders or to any holders of Subordinated Debt. 
+ 
+ 
+ (e) 
+ 
+within sixty (60) days after the last day of each fiscal year of Borrower, and contemporaneously with any updates or amendments thereto, (i) annual operating budgets (including income statements, balance sheets and cash flow statements, by month), and (ii) annual financial projections (on a quarterly basis), in each case, as approved by the Board, together with any related busi ness forecasts used in the preparation of such annual financial projections. 
+ 
+ 
+ (g) 
+ 
+ Upon request, copies of all reports and statements provided by Borrower to the Senior Lender. 
+ 
+ 
+ (h) 
+ 
+Such other reports and information concerning the operations, business affairs and financial condition of Parent and any 
+ 
+ 
+ 
+ -5- 
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+ Subsidiary, or compliance with the terms of this Agreement, as PFG may reasonably request. 
+ 
+ 
+ 
+ 7. BORROWER INFORMATION: 
+ 
+Borrower represents and warrants that the information set forth in the Representations and Warranties of Borrower dated March 3, 2017, previously submitted to PFG (the "Representations") is true and correct in all respects as to the information set forth in Sections 1, 2(a) and (b), 3(a), 11(a) and (c) and 17, and in all material respects as to the other information set forth i n the Representations, in each case as of the Effective Date. 
+ 
+ 
+ 
+ 8. ADDITIONAL PROVISIONS 
+ 
+ 
+ (a) 
+ 
+ Senior Lender. 
+ 
+ 
+ (1) 
+ 
+ Senior Lender. As used herein, "Senior Lender" means Silicon Valley Bank and any assignee thereof (or any financial institution which refinances the Indebtedness due to Silicon Valley Bank upon the same or more favorable terms and conditions applicable to such Indebtedness), provided that any such assignment shall require the prior consent of PFG, which consent will not unreasonably be withheld if the terms of the subordination agreement between PFG and such assignee (including Senior Debt Limit) are identical in all (other than identification of the parties) respects to the terms of the Senior Lender Subordination; and "Senior Loan Documents" means all present and future documents, instruments and agreements entered into between Borrower and Senior Lender or by  third parties relating to Borrower and Senior Lender. 
+ 
+ 
+ (2) 
+ 
+ Senior Debt Limit.  Borrower shall not permit the total Indebtedness of Borrower to Senior Lender, other than Non-Overdue Senior Monetary Obligations, to exceed $6,000,000 plus (i) interest and all collection costs (including attorneys' fees), (ii) all interest accruing after any bankruptcy, reorganization or similar proceeding, (iii) the amount of all Protective Advances, overdrafts of up to $200,000 in the aggregate at any given time, and (iv) certain products and/or credit services facilities, 
+ 
+ 
+ 
+ -6- 
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+including, without limitation, any letters of credit, guidance facilities, cash management services (including, without limitation, merchant services, direct deposit of payroll, business credit cards, and check cashing services), interest rate swap arrangements, and foreign exchange services up to $500,000 in the aggregate at any given time (collectively, the "Senior Debt Limit"). For the avoidance of doubt, the Senior Debt shall not include any obligations to the Senior Lender under the term loan facility being terminated by Borrower and the Senior Lender in the principal amount of $4,166,666.63, plus a final payment of $180,000, plus approximately $14,149.30 in interest, which facility is being paid off directly by PFG from the Loan proceeds (the " Existing SVB Term Loan"). 
+ 
+ (3) 
+ 
+ Senior Loan Documents.  Borrower represents and warrants that it has provided PFG with true and complete copies of all existing Senior Loan Documents, and Borrower covenants that it will, from time to time, provide PFG with true and complete copies of any future Senior Loan Documents, including without limitation any amendments to any existing Senior Loan Documents. 
+ 
+ 
+ (b) 
+ 
+ Collateral Accounts.  Concurrently, Borrower shall cause the banks and other institutions where its Collateral Accounts are maintained to enter into Control Agreements with PFG, in form and substance legally sufficient and otherwise satisfactory to PFG in its good faith business judgment and sufficient to perfect PFG's security interest in said Collateral Accounts, subject to the Lien of the Senior Lender. Said Control Agreements shall permit PFG, upon the occurrence and during the continuance of an Event of Default, to exercise exclusive control over said Collateral Accounts and proceeds thereof (subject to the rights of the Senior Lender). Notwithstanding the foregoing, if Borrower maintains any Collateral Accounts on the Effective Date other than with the Senior Lender, so long as no Default or Event occurs and is continuing, PFG shall not require a Control Agreement if such Collateral Accounts are closed and the proceeds thereof transferred to Borrower's Collateral Accounts with the Senior Lender within sixty (60) days from the Effective Date. 
+ 
+ 
+ (c) 
+ 
+ Subordination of Inside Debt. All present and future indebtedness of Borrower to its officers, directors and shareholders ("Inside Debt") shall, at all times, be subordinated 
+ 
+ 
+ 
+ -7- 
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+to the Lien of PFG in respect of and prior payment of the Obligations. Borrower represents and warrants that there is no Inside Debt presently outstanding, except as set forth in   Exhibit A. Prior to incurring any additional Inside Debt, Borrower shall cause the Person to whom such Inside Debt will be owed to execute and deliver to PFG a subordination agreement in PFG's customary form. 
+ 
+ 
+ 9. CONDITIONS 
+ 
+In addition to any other conditions to the Loan set forth in this Agreement, PFG shall have no obligation to make the Loan (A) if facts or circumstances have arisen or been discovered that would, as determined by PFG in its sole discretion, negatively affect the collectability of the Obligations, PFG's Liens in Borrower's Collateral or the value of such Collateral, thereof, and (B) unless and until PFG shall have received from Borrower, in form and substance satisfactory to PFG, such documents, and completion of such other matters, as PFG may reasonably deem necessary or appropriate, including, without limitation: 
+ (i)duly executed original signatures of Borrower to the Loan Documents to which Borrower is a party, including without limitation, this Agreement, the Intellectual Property Security Agreement and related Collateral Agreements and Notices, the Solvency Certificate, the PFG Warrant, landlord consents and bailee waivers, Security Instruments requiring Borrower's signature, and subord ination agreements among PFG, Borrower and holders of Subordinated Debt; 
+ (ii)the Constitutional Documents of each Borrower and good standing certificates of each Borrower certified by the Secretary of State or other Governmental Body of the jurisdiction of formation of such Borrower, in each case dated as of a date no earlier than thirty (30) days prior to the date hereof; 
+ (iii)  a Certificate of Incumbency and a Secretary's (or other appropriate officer's) Certificate of each Borrower certifying the Constitutional Documents of such Borrower and resolutions of the Board of such Borrower authorizing the execution, delivery and performance of the Loan Documents to which such Borrower is a party, including in the case of Parent, the PFG Warrant; 
+ (iv)  Control Agreements as required by Section 8(b) of this Schedule, duly executed by Borrower and each relevant depositary institution in favor of PFG, including the Senior Lender; 
+ 
+ 
+ -8- 
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+ (v)results of Lien, judgment and bankruptcy searches as PFG shall request, accompanied by written evidence (including any UCC termination statements) that the Liens indicated in any such search results either constitute Permitted Liens or have been (or, in connection with the Loan, will be) terminated or released; 
+ (vi)   the Representations, duly executed by Borrower; 
+(vii) within sixty (60) days after the Effective Date, landlord consents executed in favor of PFG by Borrower's principal office lessor in respect of its premises in Rutherford, New Jersey and Morrisville, NC and, if required by PFG, each other premises where Collateral with a fair value in excess of $10,000 is maintained, and warehouseman's / bailee waivers in respect of third party premises where Collateral with a fair value in excess of $25,000 is stored or housed, including Borrower's facilities at 1640 Marengo Street, 4th Floor, Los Angeles, CA 90033; 
+(viii) duly executed warrants in favor of PFG and its designees to purchase Parent's common stock, in agreed form (the "PFG Warrant"); 
+ (ix) the insurance policies and/or endorsements required pursuant to Section 5.2; 
+(x) payment of the Loan Fee specified in Section 3 of this Schedule and Lender Expenses incurred in connection with the Loan; 
+(xi) any third party consents required in order for Borrower to enter into and perform the Loan Documents; 
+(xii) the Senior Lender Subordination Agreement in agreed form between PFG and the Senior Lender, executed by Senior Lender; 
+ (xiii) such Security Instruments as PFG shall require, duly executed where required; 
+(xiv) an opinion of counsel to Borrower in form and substance reasonably satisfactory to PFG and addressing authority, execution, issuance and enforceability of the PFG Warrant and the stock issuable thereunder and the other matters addressed in such opinion; 
+ (xv) delivery of copies of the final execution copies of the Senior Debt Documents; 
+(xvi) evidence satisfactory to PFG on the date the Loan is funded that the Existing SVB Term Loan has been terminated; 
+ 
+ 
+ -9- 
+ 
+ 
+ 
+ Partners for Growth    Schedule to Loan and Security Agreement 
+ 
+ 
+ 
+ 
+(xvii) as a condition subsequent, within three (3) Business Days from the Effective Date, the closing of the amendment and restatement of the Senior Lender's revolving line of credit and delivery of copies of the fully-executed Senior Debt Documents; and 
+(xvi) to the extent that the conditions to this Agreement have not been completed as of the Effective Date, a post-closing obligations letter in PFG's customary form by which PFG waives or defers performance of such conditions as PFG is willing to defer in its sole business discretion. 
+ [Signature Page Follows] 
+ 
+ 
+ 
+ -10- 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Borrower: 
+ CANCER GENETICS, INC. 
+ 
+ 
+ By   /s/ Panna Sharma                                 
+ Name: Panna Sharma 
+ Title: Chief Executive Officer 
+ 
+ 
+ By   /s/ John A. Roberts                               
+ By: John A. Roberts 
+ Title: Chief Operating Officer 
+ 
+ GENTRIS, LLC 
+ 
+ 
+ By   /s/ Panna Sharma                                 
+ 
+ Name: Panna Sharma 
+ 
+ Title: Chief Executive Officer 
+ 
+ 
+ 
+ By   /s/ John A. Roberts                               
+ 
+ Name: John A. Roberts 
+ 
+ Title: Chief Operating Officer 
+ 
+ 
+ 
+ 
+ PFG: 
+ PARTNERS FOR GROWTH IV, L.P. 
+ 
+ 
+ 
+ By   /s/ Philip Lawson                              
+ 
+ Name:   Philip Lawson                                
+ 
+ Title: Manager, Partners for Growth IV, LLC 
+    Its General Partner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Signature Page to Schedule to Loan and Security Agreement - 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exhibit A to Loan and Security Agreement 
+ 
+ Section 3.4(d) - Fixtures, Etc. 
+ None. 
+ Section 3.10 - Litigation: 
+Borrower is party to a lawsuit entitled Vantari Medical LLC v. Cancer Generics, Inc. in the court of Common Pleas in Greenville County, South Carolina with respect to a claim of breach of contract or unjust enrichment. The claim amount is $750,000. Borrower has accrued liabilities for $500,000 on its balance sheet relating to this claim. 
+ Borrower is party to a lawsuit in the United States District Court for the District of New Jersey titled Andrea Natasha Jackson v. Cancer Genetics, Inc. with respect to a claim of employment discrimination. The claim amount is undetermined as of the Closing Date. 
+ 
+ Section 7-"Permitted Indebtedness"-Other Existing Permitted Indebtedness: 
+ 
+ Section 7-"Permitted Investments"-Other Existing Permitted Investments: 
+ 
+ Schedule Section 8 - "Inside Debt": 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exhibit B to Loan and Security Agreement - Compliance Certificate 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,893 @@
+ htm 343867 Articles of incorporation 3 2016-07-19T08:50:11.050397-05:00 Filing 0001193125-16-537334 2016-04-11 10-K Annual  & Quarterly Reports 0000889123 REDWOOD MORTGAGE INVESTORS VIII ROMVL NBB FGN OTC 6162 Mortgage Bankers  & Loan Correspondents No CALIFORNIA CALIFORNIA CALIFORNIA true Small Reporting Company 000-27816 EX-3.1 Exhibit Exhibit 2 d167797dex31.htm EX-3.1 2 d167797dex31.htm EX-3.1 
+ Exhibit 3.1 
+ SIXTH AMENDED AND RESTATED 
+ LIMITED PARTNERSHIP AGREEMENT 
+ OF 
+ REDWOOD MORTGAGE INVESTORS VIII 
+ A CALIFORNIA LIMITED PARTNERSHIP 
+THIS SIXTH AMENDED AND RESTATED LIMITED PARTNERSHIP AGREEMENT was made and entered into as of the 28th day of July, 2005, by and among MICHAEL R. BURWELL, an individual, GYMNO CORPORATION, a California corporation and REDWOOD MORTGAGE CORP., a California corporation (collectively, the "General Partners") and such other persons who have become Limited Partners ("Existing Limited Partners") and as may be added pursuant to the terms hereof (the "New Limited Partners") (collectively the "Limited Partners"). 
+ RECITALS 
+A. On or about October 1993, the General Partners and the Limited Partners entered into an agreement of limited partnership for the Partnership. The Partnership offered $15,000,000 Units of limited partnership interest ("Units") and $14,932,017 were acquired by investors. The Offering closed on October 31, 1996. 
+B. In order to increase the Partnership's capital base and permit the Partnership to further diversify its portfolio, in September, 1996, the General Partners elected to offer an additional 30,000,000 Units of limited partnership interest ("Units") and $29,992,574 were acquired by investors. The second offering closed on August 31, 2000. 
+C. In January 2000, the General Partners elected to revise their prospectus in order to meet the "Plain English" rules promulgated by the Securities and Exchange Commission ("SEC") . 
+D. In order to increase the Partnership's capital base and permit the Partnership to further diversify its portfolio, on August 31, 2000, the General Partners elected to offer an additional $30,000,000 of Units of limited partnership interest ("Units") and $29,998,622 were acquired by investors. The third offering closed April, 2002. 
+E. In order to further increase the Partnership's capital base and permit the Partnership to further diversify its portfolio, on October 30, 2002, the General Partners elected to offer an additional $50,000,000 of Units and $49,985,000 were acquired by investors. The fourth offering closed on October 6, 2003. 
+F. In order to further increase the Partnership's capital base and permit the Partnership to further diversify its portfolio, on October 7, 2003, the General Partners elected to offer an additional $75,000,000.00 of Units and $57,447,382 were acquired by investors as of March 31, 2005. The fifth offering closed on             , 2005 
+G. In order to further increase the Partnership's capital base and permit the Partnership to further diversify its portfolio, on July 28, 2005, the General Partners elected to offe r an additional $100,000,000 of Units. 
+H. In connection with the additional offering of $100,000,000 of Units, the General Partners have elected to amend and restate the agreement of limited partnership (the "Agreement" ). 
+ ARTICLE 1 
+ DEFINITIONS 
+Unless stated otherwise, the terms set forth in this Article 1 shall, for all purposes of this Agreement, have the meanings as defined herein: 
+1.1 "Affiliate" means (a) any person directly or indirectly controlling, controlled by or under common control with another person, (b) any person owning or controlling ten percent (10%) or more of the outstanding voting securities of such other person, (c) any officer, director or partner of such person, or (d) if such other person is an officer, director o r partner, any company for which such person acts in any such capacity. 
+ 1.2 "Agreement" means this Limited Partnership Agreement, as amended from time to time. 
+1.3 "Benefit Plan Investor" means a Limited Partner who is subject to ERISA or to the prohibited transaction provisions of Section 4975 of the Code. 
+   
+ 1 
+ 
+ 
+1.4 "Capital Account" means, with respect to any Partner, the Capital Account maintained for such Partner in accordance with the following provisions: 
+(a) To each Partner's Capital Account there shall be credited, in the event such Partner utilized the services of a Participating Broker Dealer, such Partner's capital contribution, or if such Partner acquired his Units through an unsolicited sale, such Partner's capital contribution plus the amount of the sales commissions if any, paid by Redwood Mortgage Corp. that are specifically allocated to such partner, such Partner's distributive share of Profits and any items in the nature of income or gain (from unexpected adjustments, allocations or distributions) that are specially allocated to a Partner and the amount of any Partnership liabilities that are assumed by such Partner or that are secured by any Partner ship property distributed to such Partner. 
+(b) To each Partner's Capital Account there shall be debited the amount of cash and the Gross Asset Value of any Partnership property distributed to such Partner pursuant to any provision of this Agreement, such Partner's distributive share of Losses, and any items in the nature of expenses or losses that are specially allocated to a Partner and the amount of any liabilities of such Partner that are assumed by the Partnership or that are secured by any property contributed by such Partner to the Partnership. 
+In the event any interest in the Partnership is transferred in accordance with Section 7.2 of this Agreement, the transferee shall succeed to the Capital Account of the transferor  to the extent it relates to the transferred interest. 
+In the event the Gross Asset Values of the Partnership assets are adjusted pursuant to Section 1.16, the Capital Accounts of all Partners shall be adjusted simultaneously to reflect the aggregate net adjustment as if the Partnership recognized gain or loss equal to the amount of such aggregate net adjustment. 
+The foregoing provisions and the other provisions of this Agreement relating to the maintenance of Capital Accounts are intended to comply with Treasury Regulation Section 1.704-1(b), and shall be interpreted and applied in a manner consistent with such Regulation. In the event the General Partners shall determine that it is prudent to modify the manner in which the Capital Accounts, or any debits or credits thereto, are computed in order to comply with the then existing Treasury Regulation, the General Partners may make such modification, provided that it is not likely to have a material effect on the amounts distributable to any Partner pursuant to Article IX hereof upon the dissolution of the Partnership. The General Partners shall adjust the amounts debited or credited to Capital Accounts with respect to (a) any property contributed to the Partnership or distributed to the Partners, and (b) any liabilities that are secured by such contributed or distributed property or that are assumed by the Partnership or the Partners, in the event the General Partners shall determine such adjustments are necessary or appropriate pursuant to Treasury Regulation Section 1.704-l(b)(2)(iv) as provided for in Section 5.4. The General Partners shall make any appropriate modification in the event unanticipated events might otherwise cause this Agreement not to comply with Treasury Regulation Section 1.704-l(b) as provided for in Sect ions 5.6 and 12.4(k). 
+1.5 "Cash Available for Distribution" means an amount of cash equal to the excess of accrued income from operations and investment of, or the sale or refinancing or other disposition of, Partnership assets during any calendar month over the accrued operating expenses of the Partnership during such month, including any adjustments for bad debt reserves or deductions as the General Partners may deem appropriate, all determined in accordance with generally accepted accounting principles; provided, that such operating expenses shall not include any general overhead expenses of the General Partners not specifically related to, billed to or reimbursable by the Partnership as specified in Sections 10.14 through 10.16. 
+1.6 "Code" means the Internal Revenue Code of 1986 and corresponding provisions of subsequent revenue laws. 
+1.7 "Continuing Servicing Fee" means an amount equal to approximately (0.25%) of the Limited Partnership's capital account which amount shall be paid to certain participating Broker Dealers payable only in connection with the initial offering of 150,000 Units pursuant to the Prospectus dated May 19, 1993. 
+1.8 "Deed of Trust" means the lien or liens created on the real property or properties of the borrower securing the borrower's obligation to the Partnership to repay the Mortgage I nvestment. 
+1.9 "Earnings" means all revenues earned by the Partnership less all expenses incurred by the Partnership. 
+1.10 "Fifth Formation Loan" means a loan to Redwood Mortgage Corp., an affiliate of the General Partners, in connection with the offering of $75,000,000 Units pursuant to the Prospectus dated October 7, 2003 equal to the amount of the sales commissions and the amounts payable in connection with unsolicited sales. Redwood Mortgage Corp. will pay all sales commissions and amounts due in connection with unsolicited sales from the Fifth Formation Loan. The Fifth Formation Loan will be unsecured, not bear interest and will be repaid in ann ual installments. 
+ 1.11 "Fiscal Year" means a year ending December 31st. 
+   
+ 2 
+ 
+ 
+1.12 "First Formation Loan" means a loan to Redwood Mortgage Corp., an affiliate of the General Partners, in connection with the initial offering of 15,000,000 Units pursuant to the Prospectus dated May 19, 1993, equal to the amount of the sales commissions (excluding any Continuing Servicing Fees) and all amounts payable in connection with any unsolicited sales. Redwood Mortgage Corp. will pay all sales commissions (excluding any Continuing Servicing Fees) and all amounts payable in connection with any unsolicited sales from the First Formation Loan. The First Formation Loan will be unsecured, and will be repaid in ten (10) equal annual installments of principal, without interest commencing on December 31 of t he year in which the initial offering terminates. 
+1.13 "Fourth Formation Loan" means the loan to Redwood Mortgage Corp., a General Partner, in connection with the offering of 50,000,000 Units pursuant to the Prospectus dated October 30, 2002 equal to the amount of the sales commissions and the amounts payable in connection with the unsolicited sales. Redwood Mortgage Corp. will pay all sales commissions and amounts due in connection with the unsolicited sales from the Fourth Formation Loan. The Fourth Formation Loan will be unsecured, not bear interest, and will be repaid in annual i nstallments. 
+1.14 "Formation Loans" means collectively the First, Second, Third, Fourth, Fifth and Sixth Formation Loans. 
+1.15 "General Partners" means Michael R. Burwell, Gymno Corporation, a California corporation, and Redwood Mortgage Corp., a California corporation or any Person substituted in pla ce thereof pursuant to this Agreement. "General Partner" means any one of the General Partners. 
+1.16 "Gross Asset Value" means, with respect to any asset, the asset's adjusted basis for federal income tax purposes, except as follows: 
+(a) The initial Gross Asset Value of any asset contributed by a Partner to the Partnership shall be the gross fair market value of such asset, as determined by the contributing Par tner and the Partnership; 
+(b) The Gross Asset Values of all Partnership assets shall be adjusted to equal their respective gross fair market values, as determined by the General Partners, as of the following times: (a) the acquisition of an additional interest in the Partnership (other than pursuant to Section 4.2) by any new or existing Partner in exchange for more than a de minimis capital contribution; (b) the distribution by the Partnership to a Partner of more than a de minimis amount of Partnership property other than money, unless all Partners receive simultaneous distributions of undivided interests in the distributed property in proportion to their Interests in the Partnership; and (c) the termination of the Partnership for fed eral income tax purposes pursuant to Section 708(b)(1)(B) of the Code; and 
+(c) If the Gross Asset Value of an asset has been determined or adjusted pursuant to clause (a) or (b) above, such Gross Asset Value shall thereafter be adjusted by the depreciation, amortization or other cost recovery deduction allowable which is taken into account with respect to such asset for purposes of computing Profits and Losses. 
+1.17 "Limited Partners" means the Initial Limited Partner until it shall withdraw as such, and the purchasers of Units in Redwood Mortgage Investors VIII, who are admitted thereto and whose names are included on the Certificate and Agreement of Limited Partnership of Redwood Mortgage Investors VIII. Reference to a "Limited Partner" shall be to any one of the m. 
+1.18 "Limited Partnership Interest" means the percentage ownership interest of any Limited Partner in the Partnership determined at any time by dividing a Limited Partner's current  Capital Account by the total outstanding Capital Accounts of all Limited Partners. 
+1.19 "Majority of the Limited Partners" means Limited Partners holding a majority of the total outstanding Limited Partnership Interests as of the first day of the current calendar  month. 
+1.20 "Mortgage Investment(s)" or "Loans" means the loan(s) and/or an undivided interest in the loans the Partnership intends to extend to the general public secured by real property deeds of trust.1.21 "Net Asset Value" means the Partnership's total assets less its total liabilities. 
+1.22 "Partners" means the General Partners and the Limited Partners, collectively. "Partner" means any one of the Partners. 
+1.23 "Partnership" means Redwood Mortgage Investors VIII, a California limited partnership, the limited partnership created pursuant to this Agreement. 
+   
+ 3 
+ 
+ 
+1.24 "Partnership Interest" means the percentage ownership interest of each Partner in the partnership as defined in Section 5.1. 
+1.25 "Person" means any natural person, partnership, corporation, unincorporated association or other legal entity. 
+1.26 "Profits" and "Losses" mean, for each Fiscal Year or any other period, an amount equal to the Partnership's taxable income or loss for such Fiscal Year or other given period, determined in accordance with Section 703(a) of the Code (for this purpose, all items of income, gain, loss, or deduction required to be stated separately pursuant to Code Section  703(a)(1) shall be included in taxable income or loss), with the following adjustments: 
+(a) Any income of the Partnership that is exempt from federal income tax and not otherwise taken into account in computing Profits or Losses pursuant to this Section 1.26 shall be  added to such taxable income or loss; 
+(b) Any expenditures of the Partnership described in Section 705(a)(2)(B) of the Code or treated as Section 705(a)(2)(B) of the Code expenditures pursuant to Treasury Regulation Section 1.704-1(b)(2)(iv)(i), and not otherwise taken into account in computing Profits or Losses pursuant to this Section 1.26, shall be subtracted from such taxable income or loss. 
+(c) Gain or loss resulting from any disposition of Partnership property with respect to which gain or loss is recognized for federal income tax purposes shall be computed by reference to the Gross Asset Value of the property disposed of, notwithstanding that the adjusted tax basis of such property differs from its Gross Asset Value; 
+(d) In lieu of the depreciation, amortization, and other cost recovery deductions taken into account in computing such taxable income or loss, there shall be taken into account depreciation, amortization or other cost recovery deductions for such Fiscal Year or other period, computed such that if the Gross Asset Value of an asset differs from its adjusted basis for federal income tax purposes at the beginning of a Fiscal Year or other period, depreciation, amortization or other cost recovery deductions shall be an amount which bears the same ratio to such beginning Gross Asset Value as the federal income tax depreciation, amortization or other cost recovery deductions for such Fiscal Year or other period bears  to such beginning adjusted tax basis; and 
+(e) Notwithstanding any other provision of this Section 1.26, any items in the nature of income or gain or expenses or losses, which are specially allocated under Section 5.4 (a) o r (b), shall not be taken into account in computing Profits or Losses. 
+1.27 "Sales Commissions" means the amount of compensation, which may be paid under one of two options, to be paid to Participating Broker Dealers in connection with the sale of Uni ts. 
+1.28 "Second Formation Loan" means the loan to Redwood Mortgage Corp., a General Partner, in connection with the second offering of $30,000,000 in Units pursuant to the Prospectus dated December 4, 1996 equal to the amount of the sales commissions and the amounts payable in connection with unsolicited sales. Redwood Mortgage Corp. will pay all sales commissions and amounts due in connection with unsolicited sales from the Second Formation Loan. The Second Formation Loan will be unsecured, will not bear interest and will be repaid in a nnual installments. 
+1.29 "Third Formation Loan" means the loan to Redwood Mortgage Corp., a General Partner, in connection with the offering of $30,000,000 in Units pursuant to the Prospectus dated August 31, 2000 equal to the amount of the sales commissions and the amounts payable with the unsolicited sales. Redwood Mortgage Corp. will pay all sales commissions and amounts due in connection with the unsolicited sales from the Third Formation Loan. The Third Formation Loan will be unsecured, will not bear interest, and will be repaid in annual installmen ts. 
+1.30 "Sixth Formation Loan" means the loan to Redwood Mortgage Corp., an affiliate of the General Partner, in connection with the offering of $100,000,000 Units pursuant to the Prospectus dated July 28, 2005 equal to the amount of the sales commissions and the amounts payable with unsolicited sales. Redwood Mortgage Corp. will pay all sales commissions and amounts due in connection with unsolicited sales from the Sixth Formation Loan. The Sixth Formation Loan will be unsecured, will not bear interest, and will be repaid in annual inst allments. 
+1.31 "Units" mean the shares of ownership of the Partnership issued to Limited Partners upon their admission to the Partnership, pursuant to the Partnership's Prospectuses dated February 2, 1993, December 4, 1996, August 31, 2000, October 30, 2002, October 7, 2003 and July 28, 2005 and any supplements or amendments thereto (the "Prospectus"). 
+   
+ 4 
+ 
+ 
+ ARTICLE 2 
+ ORGANIZATION OF THE LIMITED PARTNERSHIP 
+2.1 Formation. The parties hereto hereby agree to form a limited partnership, pursuant to the provision of Chapter 3, Title 2, of the California Corporations Code, as in effect on the date hereof, commonly known as the California Revised Limited Partnership Act (the "California Act"). 
+2.2 Name. The name of the Partnership is REDWOOD MORTGAGE INVESTORS VIII, a California limited partnership. 
+2.3 Place of Business. The principal place of business of the Partnership shall be located at 900 Veterans Blvd., Suite 500, Redwood City, California 94063, until changed by design ation of the General Partners, with notice to all Limited Partners. 
+2.4 Purpose. The primary purpose of this Partnership is to engage in business as a mortgage lender for the primary purpose of making Loans secured by deeds of trust (the "Loans") o n California real estate. 
+2.5 Substitution of Limited Partner. A Limited Partner may assign all or a portion of his Partnership Interest and substitute another person in his place as a Limited Partner only  in compliance with the terms and conditions of Sections 7.2 and 7.3. 
+2.6 Certificate of Limited Partnership. The General Partners shall duly execute and file with the Office of the Secretary of State of the State of California, a Certificate of Limited Partnership pursuant to the provisions of Section 15621 of the California Corporations Code. Thereafter, the General Partners shall execute and cause to be filed Certificates of Amendment of the Certificate of Limited Partnership whenever required by the California Act or this Agreement. At the discretion of the General Partners, a certified copy of the Certificate of Limited Partnership may also be filed in the Office of the Recorder of any county in which the Partnership shall have a place of business or in which real property t o which it holds title shall be situated. 
+2.7 Term. The Partnership shall be formed and its term shall commence as of the date on which this Limited Partnership Agreement is executed and the Certificate of Limited Partnership referred to in Section 2.6 is filed with the Office of the Secretary of State, and shall continue until December 31, 2032, unless earlier terminated pursuant to the provisions  of this Agreement or by operation of law. 
+2.8 Power of Attorney. Each of the Limited Partners irrevocably constitutes and appoints the General Partners, and each of them, any one of them acting alone, as his true and lawful attorney-in-fact, with full power and authority for him, and in his name, place and stead, to execute, acknowledge, publish and file: 
+(a) This Agreement, the Certificate of Limited Partnership and any amendments thereof required under the laws of the State of California; 
+(b) Any certificates, instruments and documents, including, without limitation, Fictitious Business Name Statements, as may be required by, or may be appropriate under, the laws of  any state or other jurisdiction in which the Partnership is doing or intends to do business; and 
+(c) Any documents which may be required to effect the continuation of the Partnership, the admission of an additional or substituted Partner, or the dissolution and termination of  the Partnership. 
+Each Limited Partner hereby agrees to execute and deliver to the General Partners within five (5) days after receipt of the General Partners' written request therefore, such other and further statements of interest and holdings, designations, and further statements of interest and holdings, designations, powers of attorney and other instruments that the General Partners deem necessary to comply with any laws, rules or regulations relating to the Partnership's activities. 
+2.9 Nature of Power of Attorney. The foregoing grant of authority is a special power of attorney coupled with an interest, is irrevocable, and survives the death of the undersigned or the delivery of an assignment by the undersigned of a Limited Partnership Interest; provided, that where the assignee thereof has been approved by the General Partners for admission to the Partnership as a substituted Limited Partner, the Power of Attorney survives the delivery of such assignment for the sole purpose of enabling the General Partners to e xecute, acknowledge and file any instrument necessary to effect such substitution. 
+   
+ 5 
+ 
+ 
+ ARTICLE 3 
+ THE GENERAL PARTNERS 
+3.1 Authority of the General Partners. The General Partners shall have all of the rights and powers of a partner in a general partnership, except as otherwise provided herein. 
+3.2 General Management Authority of the General Partners. Except as expressly provided herein, the General Partners shall have sole and complete charge of the affairs of the Partnership and shall operate its business for the benefit of all Partners. Each of the General Partners, acting alone or together, shall have the authority to act on behalf of the Partnership as to any matter for which the action or consent of the General Partners is required or permitted. Without limitation upon the generality of the foregoing, the General Partn ers shall have the specific authority: 
+(a) To expend Partnership funds in furtherance of the business of the Partnership and to acquire and deal with assets upon such terms as they deem advisable, from affiliates and ot her persons; 
+(b) To determine the terms of the offering of Units, including the right to increase the size of the offering or offer additional securities, the amount for discounts allowable or  commissions to be paid and the manner of complying with applicable law; 
+(c) To employ, at the expense of the Partnership, such agents, employees, independent contractors, attorneys and accountants as they deem reasonable and necessary; 
+(d) To effect necessary insurance for the proper protection of the Partnership, the General Partners or Limited Partners; 
+(e) To pay, collect, compromise, arbitrate, or otherwise adjust any and all claims or demands against the Partnership; 
+(f) To bind the Partnership in all transactions involving the Partnership's property or business affairs, including the execution of all loan documents and the sale of notes and to change the Partnership's investment objectives, notwithstanding any other provision of this Agreement; provided, however, the General Partners may not, without the consent of a Majority of the Limited Partners, sell or exchange all or substantially all of the Partnership's assets, as those terms are defined in Section 9.1; 
+(g) To amend this Agreement with respect to the matters described in Subsections 12.4(a) through (k) below; 
+(h) To determine the accounting method or methods to be used by the Partnership, which methods may be changed at any time by written notice to all Limited Partners; 
+(i) To open accounts in the name of the Partnership in one or more banks, savings and loan associations or other financial institutions, and to deposit Partnership funds therein, s ubject to withdrawal upon the signature of the General Partners or any person authorized by them; 
+(j) To borrow funds for the purpose of making Loans, provided that the amount of borrowed funds does not exceed fifty percent (50%) of the Partnership's Loan portfolio and in connection with such borrowings, to pledge or hypothecate all or a portion of the assets of the Partnership as security for such loans; and 
+(k) To invest the reserve funds of the Partnership in cash, bank accounts, certificates of deposits, money market accounts, short-term bankers acceptances, publicly traded bond fun ds or any other liquid assets. 
+3.3 Limitations. Without a written consent of or ratification by all Limited Partners, the General Partners shall have no authority to do any act prohibited by law; or to admit a p erson as a Limited Partner other than in accordance with the terms of this Agreement. 
+3.4 No Personal Liability. The General Partners shall have no personal liability for the original invested capital of any Limited Partner or to repay the Partnership any portion or  all of any negative balance in their capital accounts, except as otherwise provided in Article 4. 
+   
+ 6 
+ 
+ 
+3.5 Compensation to General Partners. The General Partners shall be entitled to be compensated and reimbursed for expenses incurred in performing its management functions in accordance with the provisions of Article 10 thereof, and may receive compensation from parties other than the Partnership. 
+3.6 Fiduciary Duty. The General Partners shall have the fiduciary responsibility for the safekeeping and use of all funds and assets of the Partnership, and they shall not employ s uch funds or assets in any manner except for the exclusive benefit of the Partnership. 
+3.7 Allocation of Time to Partnership Business. The General Partners shall not be required to devote full time to the affairs of the Partnership, but shall devote whatever time, effort and skill they deem to be reasonably necessary for the conduct of the Partnership's business. The General Partners may engage in any other businesses or activities, including  businesses related to or competitive with the Partnership. 
+3.8 Assignment by a General Partner. A General Partner's interest in income, losses and distributions of the Partnership shall be assignable at the discretion of a General Partner, which, if made, may be converted, at a General Partner's option, into a limited partnership interest to the extent of the assignment. 
+3.9 Partnership Interest of General Partners. The General Partners shall be allocated a total of one percent (1%) of all items of Partnership income, gains, losses, deductions and  credits as described in Section 5.1, which shall be shared equally among them. 
+ 3.10 Removal of General Partners. A General Partner may be removed upon the following conditions: 
+(a) By written consent of a Majority of the Limited Partners. Limited Partners may exercise such right by presenting to the General Partner a notice, with their acknowledged signatures thereon, to the effect that the General Partner is removed; the notice shall set forth the grounds for removal and the date on which removal is to become effective; 
+(b) Concurrently with such notice or within thirty (30) days thereafter by notice similarly given, a Majority of the Limited Partners may also designate a successor as General Part ner; 
+(c) Substitution of a new General Partner, if any, shall be effective upon written acceptance of the duties and responsibilities of a General Partner by the new General Partner. Upon effective substitution of a new General Partner, this Agreement shall remain in full force and effect, except for the change in the General Partner, and business of the Partnership shall be continued by the new General Partner. The new General Partner shall thereupon execute, file and record an amendment to the Certificate of Limited Partnership in the ma nner required by law. 
+Failure of the Limited Partners giving notice of removal to designate a new General Partner within the time specified herein or failure of the new General Partner so designated to execute written acceptance of the duties and responsibilities of a General Partner hereunder within ten (10) days after such designation shall dissolve and terminate the Partnershi p, unless the business of the Partnership is continued by the remaining General Partners, if any. 
+If all or any one of the initial General Partners is removed as a General Partner by the vote of a majority of Limited Partners and a successor or additional General Partner(s) is thereafter designated, and if such successor or additional General Partner(s) begins using any other loan brokerage firm for the placement of loans, Redwood Mortgage Corp. will be immediately released from any further obligation under the Formation Loans (except for a proportionate share of the principal installment due at the end of that year, prorated acco rding to the days elapsed.) 
+In the event that all of the General Partners are removed, no other General Partners are elected, the Partnership is liquidated and Redwood Mortgage Corp. is no longer receiving payments for services rendered, the debt on the Formation Loans shall be forgiven by the Partnership and Redwood Mortgage Corp. will be immediately released from any further obligati on under the Formation Loans. 
+3.11 Commingling of Funds. The funds of the Partnership shall not be commingled with funds of any other person or entity. 
+3.12 Right to Rely on General Partners. Any person dealing with the Partnership may rely (without duty of further inquiry) upon a certificate signed by the General Partners as to: 
+ (a) The identity of any General Partner or Limited Partner; 
+(b) The existence or nonexistence of any fact or facts which constitute a condition precedent to acts by a General Partner or which are in any further manner germane to the affairs  of the Partnership; 
+   
+ 7 
+ 
+ 
+(c) The persons who are authorized to execute and deliver any instrument or document of the Partnership; or 
+(d) Any act or failure to act by the Partnership or any other matter whatsoever involving the Partnership or any Partner. 
+3.13 Sole and Absolute Discretion. Except as otherwise provided in this Agreement, all actions which any General Partner may take and all determinations which any General Partner may take and all determinations which any General Partners may make pursuant to this Agreement may be taken and made at the sole and absolute discretion of such General Partner. 
+3.14 Merger or Reorganization of the General Partners. The following is not prohibited and will not cause a dissolution of the Partnership: (a) a merger or reorganization of the General Partners or the transfer of the ownership interest of the General Partners; and (b) the assumption of the rights and duties of the General Partners by the transferee of the rights and duties of the General Partners by the transferee entity so long as such transferee is an Affiliate under the control of the General Partners. 
+3.15 Dissenting Limited Partners' Rights. If the Partnership participates in any acquisition of the Partnership by another entity, any combination of the Partnership with another entity through a merger or consolidation, or any conversion of the Partnership into another form of business entity (such as a corporation) that requires the approval of the outstanding limited partnership interest, the result of which would cause the other entity to issue securities to the Limited Partners, then each Limited Partner who does not approve of such reorganization (the "Dissenting Limited Partner") may require the Partnership to purchase for cash, at its fair market value, the interest of the Dissenting Limited Partner in the Partnership in accordance with Section 15679.2 of the California Corporations Code. The Partnership, however, may itself convert to another form of business entity (such as a corporation, trust or association) if the conversion will not result in a significant adverse change in (i) the voting rights of the Limited Partners, (ii) the termination date of the Partnership (currently, December 31, 2032, unless terminated earlier in accordance with the Partnership Agreement), (iii) the compensation payable to the General Partners or the ir Affiliates, or (iv) the Partnership's investment objectives. 
+The General Partners will make the determination as to whether or not any such conversion will result in a significant adverse change in any of the provisions listed in the preceding paragraph based on various factors relevant at the time of the proposed conversion, including an analysis of the historic and projected operations of the Partnership; the tax consequences (from the standpoint of the Limited Partners) of the conversion of the Partnership to another form of business entity and of an investment in a limited partnership as compared to an investment in the type of business entity into which the Partnership would be converted; the historic and projected operating results of the Partnership's Loans, and the then-current value and marketability of the Partnership's Loans. In general, the General Partners would consider any material limitation on the voting rights of the Limited Partners or any substantial increase in the compensation payable to the General Partners or their Affiliates to be a significant adverse change in the listed provisions. 
+3.16 Exculpation and Indemnification. The General Partners shall have no liability whatsoever to the Partnership or to any Limited Partner, so long as a General Partner determined in good faith, that the course of conduct which caused the loss or liability was in the best interests of the Partnership, and such loss or liability did not result from the gross negligence or gross misconduct of the General Partner being held harmless. The General Partners or any Partnership employee or agent shall be entitled to be indemnified by the Partnership, at the expense of the Partnership, against any loss or liability (including attorneys' fees, which shall be paid as incurred) resulting from assertion of any claim or legal proceeding relating to the activities of the Partnership, including claims, or legal proceedings brought by a third party or by Limited Partners, on their own behalf or as a Partnership derivative suit, so long as the party to be indemnified determined in good faith that the course of conduct which gave rise to such claim or proceeding was in the best interests of the Partnership and such course of conduct did not constitute gross negligence or gross misconduct; provided, however, any such indemnification shall only be recoverable out of the assets of the Partnership and not from Limited Partners. Nothing herein shall prohibit the Partnership from paying in whole or in part the premiums or other charge for any type of indemnity insurance by which the General Partners or other agents or employees of the Partnership are indemnified or insured against liability or loss arising out of their actual or asserted misfeasance or nonfeasance in the performance of their duties or out of any actual or asserted wrongful act against the Partnership including, but not limited to judgments, fines, settlements and expenses incurred in the defense of actions, proceedings and appeals therefrom. Notwithstanding the foregoing, neither the General Partners nor their affiliates shall be indemnified for any liability imposed by judgment (including costs and attorneys' fees) arising from or out of a violation of state or federal securities laws associated with the offer and sale of Units offered hereby. However, indemnification will be allowed for settlements and related expenses of lawsuits alleging securities law violations and for expenses incurred in successfully defending such lawsuits provided that (a) a court either approves indemnification of litigation costs if the General Partners are successful in defending the action; or (b) the settlement and indemnification is specifically approved by the court of law which shall have been advised as to the current position of the Securities and Exchange Commission (as to any claim involving allegations that the Securities Act of 1933 was violated) and California Commissioner of Corporations or the applicable state authority (as to any claim involving allegations that the applicable state's securities laws were violated). 
+   
+ 8 
+ 
+ 
+ ARTICLE 4 
+ CAPITAL CONTRIBUTIONS; THE LIMITED PARTNERS 
+4.1 Capital Contribution by General Partners. The General Partners, collectively, shall contribute to the Partnership an amount in cash equal to 1/10 of 1% of the aggregate capital  contributions of the Limited Partners. 
+ 4.2 Other Contributions. 
+(a) Capital Contribution by Initial Limited Partner. The Initial Limited Partner made a cash capital contribution to the Partnership of $1,000. Upon the admission of additional Limited Partners to the Partnership pursuant to Section 4.2(b) of this Agreement, the Partnership promptly refunded to the Initial Limited Partner its $1,000 capital contribution and upon receipt of such sum the Initial Limited Partner was withdrawn from the Partnership as its Initial Limited Partner. 
+(b) Capital Contributions of Existing Limited Partners. The existing Limited Partners have contributed in the aggregate to the capital of the Partnership an amount equal to $172,22 3,000 as of December 31, 2004. 
+(c) Capital Contributions of New Limited Partners. The new Limited Partners shall contribute to the capital of the Partnership an amount equal to one dollar ($1) for each Unit subscribed for by each such New Limited Partners, with a minimum subscription of two thousand (2000) Units per Limited Partner (including subscriptions from entities of which such limited partner is the sole beneficial owner). The total additional capital contributions of the New Limited Partners will not exceed $100,000,000. 
+(d) Escrow Account. No escrow account will be established and all proceeds from the sale of Units will be remitted directly to the Partnership. 
+Subscription Agreements shall be accepted or rejected within 30 days of their receipt. All subscription monies deposited by persons whose subscriptions are rejected shall be returned to such subscribers forthwith after such rejection without interest. The public offering of Units shall terminate one year from the effective date of the Prospectus unless fully subscribed at an earlier date or terminated on an earlier date by the General Partners, or unless extended by the General Partners for additional one year periods. 
+(e) Subscription Account. Subscriptions received after the activation of the Partnership will be deposited into a subscription account at a federally insured commercial bank or other depository and invested in short-term certificates of deposit, a money market or other liquid asset account. Prospective investors whose subscriptions are accepted will be admitted into the Partnership only when their subscription funds are required by the Partnership to fund a Loan, or the Formation Loan, to create appropriate reserves or to pay organizational expenses or other proper Partnership purposes. During the period prior to admittance of investors as Limited Partners, proceeds from the sale of Units are irrevocable, and will be held by the General Partners for the account of Limited Partners in the subscription account. Investors' funds will be transferred from the subscription account into the Partnership on a first-in, first-out basis. Upon admission to the Partnership, subscription funds will be released to the Partnership and Units will be issued at the rate of $1 per unit or fraction thereof. Interest earned on subscription funds while in the subscription account will be returned to the subscriber, or if the subscriber elects to compound earnings, the amount equal to such interest will be added to his investment in the Partnership, and the number of Units actually issued shall be increased accordingly. In the event only a portion of a subscribing Limited Partner's funds are required, then all funds invested by such subscribing Limited Partners at the same time shall be transferred. Any subscription funds remaining in the subscription account after the expiration of one (1) year from the date any such subscription funds were first received by the General Partners shall be retu rned to the subscriber. 
+(f) Admission of Limited Partners. Subscribers shall be admitted as Limited Partners when their subscription funds are required by the Partnership to fund a Loan, or the Formation Loan, to create appropriate reserves or to pay organizational expenses, as described in the Prospectus. Subscriptions shall be accepted or rejected by the General Partners on behalf of the Partnership within 30 days of their receipt. Rejected subscriptions and monies shall be returned to subscribers forthwith. 
+The Partnership shall amend Schedule A to the Limited Partnership Agreement from time to time to effect the substitution of substituted Limited Partners in the case of assignments, where the assignee does not become a substituted Limited Partner, the Partnership shall recognize the assignment not later than the last day of the calendar month following accept ance of the assignment by the General Partners. 
+No person shall be admitted as a Limited Partner who has not executed and filed with the Partnership the subscription form specified in the Prospectus used in connection with the public offering, together with such other documents and instruments as the General Partners may deem necessary or desirable to effect such admission, including, but not limited to, the execution, acknowledgment and delivery to the General Partners of a power of attorney in form and substance as described in Section 2.8 hereof. 
+   
+ 9 
+ 
+ 
+(g) Names, Addresses, Date of Admissions, and Contributions of Limited Partners. The names, addresses, date of admissions and capital contributions of the Limited Partners shall be set forth in Schedule A attached hereto, as amended from time to time, and incorporated herein by reference. 
+4.3 Election to Receive Monthly, Quarterly or Annual Cash Distributions. Upon subscription for Units, a subscribing Limited Partner must elect whether to receive monthly, quarterly or annual cash distributions from the Partnership or to have earnings retained in his Capital Account that will increase it in lieu of receiving periodic cash distributions. If the Limited Partner initially elects to receive monthly, quarterly or annual distributions, such election, once made, is irrevocable. However, a Limited Partner may change his election regarding whether he wants to receive such distributions on a monthly, quarterly or annual basis. If the Limited Partner initially elects to have earnings retained in his Capital Account in lieu of cash distributions, he may after three (3) years, change his election and receive monthly, quarterly or annual cash distributions. Earnings allocable to Limited Partners who elect to have earnings retained in their Capital Account will have earnings retained by the Partnership to be used for making further Loans or for other proper Partnership purposes. The Earnings from such further Loans will be allocated among all Partners; however, Limited Partners who elect to have earnings retained in their Capital Account will be credited with an increasingly larger proportionate share of such Earnings than Limited Partners who receive monthly, quarterly or annual distributions since Limited Partners' Capital Accounts who elect to have earnings retained in their Capital Accounts will increase over time. Annual distributions will be made at the end of the calendar year. 
+4.4 Interest. No interest shall be paid on, or in respect of, any contribution to Partnership Capital by any Partner, nor shall any Partner have the right to demand or receive cash  or other property in return for the Partner's capital contribution. 
+4.5 Loans. Any Partner or Affiliate of a Partner may, with the written consent of the General Partners, lend or advance money to the Partnership. If the General Partners or, with the written consent of the General Partners, any Limited Partner shall make any loans to the Partnership or advance money on its behalf, the amount of any such loan or advance shall not be treated as a contribution to the capital of the Partnership, but shall be a debt due from the Partnership. The amount of any such loan or advance by a lending Partner or an Affiliate of a Partner shall be repayable out of the Partnership's cash and shall bear interest at a rate of not in excess of the greater of (i) the prime rate established, from time to time, by any major bank selected by the General Partners for loans to the bank's most creditworthy commercial borrowers, plus 5% per annum, or (ii) the maximum rate permitted by law. None of the Partners or their Affiliates shall be obligated to make any loan or advance to the Partnership. 
+4.6 No Participation in Management. Except as expressly provided herein, the Limited Partners shall take no part in the conduct or control of the Partnership business and shall hav e no right or authority to act for or bind the Partnership. 
+4.7 Rights and Powers of Limited Partners. In addition to the matters described in Section 3.10 above, the Limited Partners shall have the right to vote upon and take any of the following actions upon the approval of a Majority of the Limited Partners, without the concurrence of the General Partners. 
+(a) Dissolution and termination of the Partnership prior to the expiration of the term of the Partnership as stated in Section 2.7 above 
+ (b) Amendment of this Agreement, subject to the limitations set forth in Section 12.4; 
+(c) Disapproval of the sale of all or substantially all the assets of the Partnership (as defined in Subsection 9.1(c) below); or 
+(d) Removal of the General Partners and election of a successor, in the manner and subject to the conditions described in Section 3.10 above. 
+Except as expressly set forth above or otherwise provided for in this Agreement, the Limited Partners shall have no other rights as set forth in the California Act. 
+4.8 Meetings. The General Partners, or Limited Partners representing ten percent (10%) of the outstanding Limited Partnership Interests, may call a meeting of the Partnership and, if desired, propose an amendment to this Agreement to be considered at such meeting. If Limited Partners representing the requisite Limited Partnership Interests present to the General Partners a statement requesting a Partnership meeting, the General Partners shall fix a date for such meeting and shall, within twenty (20) days after receipt of such statement, notify all of the Limited Partners of the date of such meeting and the purpose for which it has been called. Unless otherwise specified, all meetings of the Partnership shall be held at 2:00 P.M. at the office of the Partnership, upon not less than ten (10) and not more than sixty (60) days written notice. At any meeting of the Partnership, Limited Partners may vote in person or by proxy. A majority of the Limited Partners, present in person or by proxy, shall constitute a quorum at any Partnership meeting. Any question relating to the Partnership which may be considered and acted upon by the Limited Partners hereunder may be considered and acted upon by vote at a Partnership meeting, and any consent required to be in writing shall be deemed given by a vote by written ballot. Except as expressly provided above, additional meeting and voting procedures shall be in conformity with Secti on 15637 of the California Corporations Code, as amended. 
+   
+ 10 
+ 
+ 
+4.9 Limited Liability of Limited Partners. Units are non-assessable, and no Limited Partner shall be personally liable for any of the expenses, liabilities, or obligations of the Partnership or for any of the losses thereof beyond the amount of such Limited Partner's capital contribution to the Partnership and such Limited Partner's share of any undistributed net income and gains of the Partnership, provided, that any return of capital to Limited Partners (plus interest at the legal rate on any such amount from the date of its return) will remain liable for the payment of Partnership debts existing on the date of such return of capital; and, provided further, that such Limited Partner shall be obligated upon demand by the General Partners to pay the Partnership cash equal to the amount of any deficit remaining in his Capital Account upon winding up and termination of the Partnership. 
+4.10 Representation of Partnership. Each of the Limited Partners hereby acknowledges and agrees that the attorneys representing the Partnership and the General Partners and their Affiliates do not represent and shall not be deemed under the applicable codes of professional responsibility to have represented or be representing any or all of the Limited Partners in any respect at any time. Each of the Limited Partners further acknowledges and agrees that such attorneys shall have no obligation to furnish the Limited Partners with any information or documents obtained, received or created in connection with the representation of the Partnership, the General Partners and/or their Affiliates. 
+ ARTICLE 5 
+ PROFITS AND LOSSES; CASH DISTRIBUTIONS 
+5.1 Profits and Losses. All Profits and Losses of the Partnership shall be credited to and charged against the Partners in proportion to their respective "Partnership Interests", as hereafter defined. The Partnership Interest of the General Partners shall at all times be a total of one percent (1%), to be shared equally among them and the Partnership Interest of the Limited Partners collectively shall be ninety-nine percent (99%), which shall be allocated among them according to their respective Limited Partnership Interests. Profits and Losses realized by the Partnership during any month shall be allocated to the Partners as of the close of business on the last day of each calendar month, in accordance with their respective Limited Partnership Interests and in proportion to the number of days during such month that they owned such Limited Partnership Interests, without regard to Profits  and Losses realized with respect to time periods within such month. 
+5.2 Cash Earnings. Earnings as of the close of business on the last day of each calendar month shall be allocated among the Partners in the same proportion as Profits and Losses as described in Section 5.1 above. Earnings allocable to those Limited Partners who elect to receive cash distributions as described below shall be distributed to them in cash as soon as practicable after the end of each calendar month. The General Partners' allocable share of Earnings shall also be distributed concurrently with cash distributions to Limited Partners. Earnings allocable to those Limited Partners who elected to have earnings retained in his or her Capital Account shall be retained by the Partnership and credited to their respective Capital Accounts as of the first day of the succeeding calendar month. Earnings to Limited Partners shall be distributed only to those Limited Partners who elect in writing, upon their initial subscription for the purchase of Units or after three (3) years to receive such distributions during the term of the Partnership. Each Limited Partner's decision whether to receive such distributions shall be irrevocable, except as set forth in paragraph 4.3 above. 
+5.3 Cash Distributions Upon Termination. Upon dissolution and termination of the Partnership, Cash Available for Distribution shall thereafter be distributed to Partners in accorda nce with the provisions of Section 9.3 below. 
+ 5.4 Special Allocation Rules. 
+(a) For purposes of this Agreement, a loss or allocation (or item thereof) is attributable to non-recourse debt which is secured by Partnership property to the extent of the excess of the outstanding principal balance of such debt (excluding any portion of such principal balance which would not be treated as an amount realized under Internal Revenue Code Section 1001 and Paragraph (a) of Section 1.1001-2) if such debt were foreclosed upon over the adjusted basis of such property. This excess is herein defined as "Minimum Gain" (whether taxable as capital gain or as ordinary income) as more explicitly set forth in Treasury Regulation 1.704-2. Notwithstanding any other provision of Article 5, the allocation of loss or deduction or item thereof, attributable to non-recourse debt which is secured by Partnership property will be allowed only to the extent that such allocation does not cause the sum of the deficit capital account balances of the Limited Partners receiving such allocations to exceed the minimum gain determined at the end of the Partnership able year to which the allocations relate. The balance of such losses shall be allocated to the General Partners. Any Limited Partner with a deficit capital account balance resulting in whole or in part from allocations of loss or deduction (or item thereof) attributable to non-recourse debt which is secured by Partnership property shall, to the extent possible, be allocated income or gain (or item thereof) in an amount not less than the minimum gain at a time no later than the time at which the minimum gain is reduced below the sum of such deficit capital account balances. This section is intended and shall be interpreted to comply with the requirements of Treasury Regulation Section 1.704-2(f). 
+   
+ 11 
+ 
+ 
+(b) In the event any Limited Partner receives any adjustments, allocations or distributions, not covered by Section 5.4(a), so as to result in a deficit capital account, items of Partnership income and gain shall be specially allocated to such Limited Partners in an amount and manner sufficient to eliminate the deficit balances in their Capital Accounts created by such adjustments, allocations or distributions as quickly as possible. This Section shall operate a qualified income offset as utilized in Treasury Regulation Section 1.704- 1(b)(2)(ii)(d). 
+(c) Syndication expenses for any fiscal year or other period shall be specially allocated to the Limited Partners in proportion to their Units, provided that if additional Limited Partners are admitted to the Partnership on different dates, all syndication expenses shall be divided among the Persons who own Units from time to time so that, to the extent possible, the cumulative Syndication Expenses allocated with respect to each Unit at any time is the same amount. In the event the General Partners shall determine that such result is not likely to be achieved through future allocations of syndication expenses, the General Partners may allocate a portion of Net Profits or Losses so as to achieve the same effect on the Capital Accounts of the Limited Partners, notwithstanding any other provision of this Agreement. 
+(d) For purposes of determining the Net Profits, Net Losses, or any other items allocable to any period, Net Profits, Net Losses, and any such other items shall be determined on a daily, monthly, or other basis, as determined by the General Partners using any permissible method under Code Section 706 and the Treasury Regulations thereunder. 
+(e) Notwithstanding Section 5.1 and 5.2 hereof, (i) Net Losses allocable to the period prior to the admission of any additional Limited Partners pursuant to Section 4.2(b) and (e) hereof shall be allocated 99% to the General Partners and 1% to the Initial Limited Partner and Net Profits during that same period, if any, shall be allocated to the General Partners, and (ii) Profits or Losses allocable to the period commencing with the admission of any additional such Limited Partners and all subsequent periods shall be allocated pursuant  to Section 5.1. 
+(f) Except as otherwise provided in this Agreement, all items of Partnership profit, gain, loss, deduction, and any other allocations not otherwise provided for shall be divided among the Partners in the same proportions as they share Net Profits or Net Losses, as the case may be, for the year. 
+(g) The General Partners may adopt any procedure or convention they deem reasonable to account for unsolicited investments made by Limited Partners and the payment of a portion of  the Formation Loan to such Partners' Capital Account. 
+5.5 704(c) Allocations. In accordance with Code 704(c) and the Treasury Regulations thereunder income, gain, loss, and deduction with respect to any property contributed to the capital of the Partnership shall, solely for tax purposes, be allocated among the Partners so as to take account of any variation between the adjusted basis of such property to the Pa rtnership for federal income tax purposes and its initial fair market value. 
+Any elections or other decisions relating to such allocations shall be made by the General Partners in any manner that reasonably reflects the purpose and intention of this Agreement. Allocations pursuant to this Section 5.5 are solely for purposes of federal, state, and local taxes and shall not affect, or in any way be taken into account in computing, any Person's Capital Account or share of Profits, Losses, other items, or distributions pursuant to any provision of this Agreement. 
+5.6 Intent of Allocations. It is the intent of the Partnership that this Agreement comply with the safe harbor test set out in Treasury Regulation Sections 1.704-1(b)(2)(ii)(D) and 1.704-l(b)(4)(iv)(D) and the requirements of those Sections, including the qualified income offset and minimum gain chargeback, which are hereby incorporated by reference. If, for whatever reasons, the Partnership is advised by counsel or its accountants that the allocation provisions of this Agreement are unlikely to be respected for federal income tax purposes, the General Partners are granted the authority to amend the allocation provisions of this Agreement, to the minimum extent deemed necessary by counsel or its accountants to effect the plan of allocations and distributions provided in this Agreement. The General Partners shall have the discretion to adopt and revise rules, conventions and procedures as it believes appropriate with respect to the admission of Limited Partners to reflect Partners' interests in the Partnership at the close of the years. 
+   
+ 12 
+ 
+ 
+ ARTICLE 6 
+ BOOKS AND RECORDS, REPORTS AND RETURNS 
+ 6.1 Books and Records. The General Partners shall cause the Partnership to keep the following: 
+(a) Complete books and records of account in which shall be entered fully and accurately all transactions and other matters relating to the Partnership. 
+(b) A current list setting forth the full name and last known business or residence address of each Partner which shall be listed in alphabetical order and stating his respective c apital contribution to the Partnership and share in Profits and Losses. 
+ (c) A copy of the Certificate of Limited Partnership and all amendments thereto. 
+(d) Copies of the Partnership's federal, state and local income tax returns and reports, if any, for the six (6) most recent years. 
+(e) Copies of this Agreement, including all amendments thereto, and the financial statements of the Partnership for the three (3) most recent years. 
+All such books and records shall be maintained at the Partnership's principal place of business and shall be available for inspection and copying by, and at the sole expense of, an y Partner, or any Partner's duly authorized representatives, during reasonable business hours. 
+6.2 Annual Statements. The General Partners shall cause to be prepared at least annually, at Partnership expense, financial statements prepared in accordance with generally accepted accounting principles and accompanied by a report thereon containing an opinion of an independent certified public accounting firm. The financial statements will include a balance sheet, statements of income or loss, partners' equity, and changes in financial position. The General Partners shall have prepared at least annually, at Partnership expense: (i) a statement of cash flow; (ii) Partnership information necessary in the preparation of the Limited Partners' federal and state income tax returns; (iii) a report of the business of the Partnership; (iv) a statement as to the compensation received by the General Partners and their Affiliates, during the year from the Partnership which shall set forth the services rendered or to be rendered by the General Partners and their Affiliates and the amount of fees received; and (v) a report identifying distributions from (a) Earnings of that year, (b) Earnings of prior years, (c) working capital reserves and other sources, and (d) a report on the costs reimbursed to the General Partners, which allocation shall be verified by independent public accountants in accordance with generally accepted auditing standards. Copies of the financial statements and reports shall be distributed to each Limited Partner within 120 days after the close of each taxable year of the Partnership; provided, however, all Partnership information necessary in the preparation of the Limited Partners' federal income tax returns shall be distributed to each Limited Partner not later than 90 days after the close of each fiscal year of the Partnership. 
+6.3 Semi-Annual Report. Until the Partnership is registered under Section 12(g) of the Securities Exchange Act of 1934, the General Partners shall have prepared, at Partnership expense, a semi-annual report covering the first six months of each fiscal year, commencing with the six-month period ending after the Initial Closing Date, and containing unaudited financial statements (balance sheet, statement of income or loss and statement of cash flow) and a statement of other pertinent information regarding the Partnership and its activities during the six-month period. Copies of this report shall be distributed to each Limited Partner within 60 days after the close of the six-month period. 
+6.4 Quarterly Reports. The General Partners shall cause to be prepared quarterly, at Partnership expense: (i) a statement of the compensation received by the General Partners and Affiliates during the quarter from the Partnership, which statement shall set forth the services rendered by the General Partners and Affiliates and the amount of fees received, and (ii) other relevant information. Copies of the statements shall be distributed to each Limited Partner within 60 days after the end of each quarterly period. The information required by Form 10-Q (if required to be filed with the Securities and Exchange Commission) will be supplied to each Limited Partner within 60 days of each quarterly period. If the Partnership is registered under Section 12(g) of the Securities Exchange Act of 1934, as amended, the General Partners shall cause to be prepared, at Partnership expense, a quarterly report for each of the first three quarters in each fiscal year containing unaudited financial statements (consisting of a balance sheet, a statement of income or loss and a statement of cash flow) and a statement of other pertinent information regarding the Partnership and its activities during the period covered by the report. Copies of the statements and other pertinent information shall be distributed to each Limited Partner within 60 days after the close of the quarter covered by the report of the Partnership. The quarterly financial statements shall be accompanied by the report thereon, if any, of the independent accountants engaged by the Partnership or, if there is no such report, the certificate of the General Partners that the financial statements were prepared without audit from the books and records of the Partnership. Copies of the financial statements, if any, filed with the Securities and Exchange Commission shall be distributed to each Limited Partner within 60 days after the close of the quarterly period covered by the report of the Partnership. 
+   
+   
+ 13 
+ 
+ 
+6.5 Filings. The General Partners, at Partnership expense, shall cause the income tax returns for the Partnership to be prepared and timely filed with the appropriate authorities. The General Partners, at Partnership expense, shall also cause to be prepared and timely filed, with appropriate federal and state regulatory and administrative bodies, all reports required to be filed with those entities under then current applicable laws, rules and regulations. The reports shall be prepared by the accounting or reporting basis required by the regulatory bodies. Any Limited Partner shall be provided with a copy of any of the reports upon request without expense to him. The General Partners, at Partnership expense, shall file, with the securities administrators for the various states in which this Partnership is registered, as required by such states, a copy of each report referred to this Arti cle 6. 
+6.6 Suitability Requirements. The General Partners, at Partnership expense, shall maintain for a period of at least four years a record of the information obtained to indicate that  a Limited Partner complies with the suitability standards set forth in the Prospectus. 
+ 6.7 Fiscal Matters. 
+(a) Fiscal Year. The Partnership shall adopt a fiscal year beginning on the first day of January of each year and ending on the last day of December; provided, however, that the General Partners in their sole discretion may, subject to approval by the Internal Revenue Service and the applicable state taxing authorities at any time without the approval of the Limited Partners change the Partnership's fiscal year to a period to be determined by the General Partners. 
+(b) Method of Accounting. The accrual method of accounting shall be used for both income tax purposes and financial reporting purposes. 
+(c) Adjustment of Tax Basis. Upon the transfer of an interest in the Partnership, the Partnership may, at the sole discretion of the General Partners, elect pursuant to Section 754 of the Internal Revenue Code of 1986, as amended, to adjust the basis of the Partnership property as allowed by Sections 734(b) and 743(b) thereof. 
+6.8 Tax Matters Partner. In the event the Partnership is subject to administrative or judicial proceedings for the assessment or collection of deficiencies for federal taxes for the refund of overpayments of federal taxes arising out of a Partner's distributive share of profits, Michael R. Burwell, for so long as he is a General Partner, shall act as the Tax-Matters Partner ("TMP") and shall have all the powers and duties assigned to the TMP under Sections 6221 through 6232 of the Code and the Treasury Regulations thereunder. The Partners agree to perform all acts necessary under Section 6231 of the Code and Treasury Regulations thereunder to designate Michael R. Burwell as the TMP. 
+ ARTICLE 7 
+ TRANSFER OF PARTNERSHIP INTERESTS 
+7.1 Interest of General Partners. A successor or additional General Partner may be admitted to the Partnership as follows: 
+(a) With the consent of all General Partners and a Majority of the Limited Partners, any General Partner may at any time designate one or more Persons to be successors to such General Partner or to be additional General Partners, in each case with such participation in such General Partner's Partnership Interest as they may agree upon, provided that the Limited Partnership Interests shall not affected thereby; provided, however, that the foregoing shall be subject to the provisions of Section 9.1(d) below, which shall be controlling i n any situation to which such provisions are applicable. 
+(b) Upon any sale or transfer of a General Partner's Partnership Interest, the successor General Partner shall succeed to all the powers, rights, duties and obligations of the assigning General Partner hereunder, and the assigning General Partner shall thereupon be irrevocably released and discharged from any further liabilities or obligations of or to the Partnership or the Limited Partners accruing after the date of such transfer. The sale, assignment or transfer of all or any portion of the outstanding stock of a corporate General Partner, or of any interest therein, or an assignment of a General Partner's Partnership Interest for security purposes only, shall not be deemed to be a sale or transfer of such G eneral Partner's Partnership Interest subject to the provisions of this Section 7.1. 
+   
+ 14 
+ 
+ 
+(c) In the event that all or any one of the initial General Partners are removed by the vote of a Majority of Limited Partners and a successor or additional General Partner(s) is designated pursuant to Section 3.10, prior to a Person's admission as a successor or additional General Partner pursuant to this Section 7.1, such Person shall execute in writing (i) acknowledging that Redwood Mortgage Corp., a General Partner, has been repaying the Formation Loans, which are discussed in Section 10.9, with the proceeds it receives from loan brokerage commissions on Loans, fees received from the early withdrawal penalties and fees for other services paid by the Partnership, and (ii) agreeing that if such successor or additional General Partner(s) begins using the services of another mortgage loan broker or loan servicing agent, then Redwood Mortgage Corp. shall immediately be released from all further obligations under the Formation Loans (except for a proportionate share of the principal installment due at the end of that year, prorated according to the days elapsed). 
+7.2 Transfer of Limited Partnership Interest. No assignee of the whole or any portion of a Limited Partnership Interest in the Partnership shall have the right to become a substitu ted Limited Partner in place of his assignor, unless the following conditions are first met. 
+(a) The assignor shall designate such intention in a written instrument of assignment, which shall be in a form and substance reasonably satisfactory to the General Partners; 
+(b) The written consent of the General Partners to such substitution shall be obtained, which consent shall not be unreasonably withheld, but which, in any event, shall not be given if the General Partners determine that such sale or transfer (i) may jeopardize the continued ability of the Partnership to qualify as a "partnership" for federal income tax purposes or (ii) that such sale or transfer may violate any applicable laws, including, without limitation, applicable securities laws (including any investment suitability standards) or (iii) would jeopardize the partnership's existence or qualification as a limited partnership under California law and or under the applicable laws of any other jurisdiction in which the Partnership is then conducting business. In the case of a Limited Partner who is a Benefit Plan Investor, the consent of the General partners to any substitution of all or part of such Benefit Plan Investor's Units shall not be withheld unless such General Partners believe in good faith that (i) such sale or transfer may jeopardize the continued ability of the Partnership to qualify as a "partnership" for federal income tax purposes or that such sale or transfer may violate any applicable securities laws (including any investment suitability standards), or (ii) one of the other conditions in Sections 7.2 or 7.3 hereof would not be met; 
+(c) The assignor and assignee named therein shall execute and acknowledge such other instruments as the General Partners may deem necessary to effectuate such substitution, including, but not limited to, a power of attorney with provisions more fully described in Sections 2.8 and 2.9 above; 
+(d) The assignee shall accept, adopt and approve in writing all of the terms and provisions of this Agreement as the same may have been amended; 
+(e) Such assignee shall pay or, at the election of the General Partners, obligate himself to pay all reasonable expenses connected with such substitution, including but not limited  to reasonable attorneys' fees associated therewith; and 
+The Partnership has received, if required by the General Partners, a legal opinion satisfactory to the General Partners that such transfer will not violate the registration provisions of the Securities Act of 1933, as amended, which opinion shall be furnished at the Limited Partner's expense. 
+7.3 Further Restrictions on Transfers. Notwithstanding any provision to the contrary contained herein, the following restrictions shall also apply to any and all proposed sales, assignments and transfer of Limited Partnership Interests, and any proposed sale, assignment or transfer in violation of same to void ab initio. 
+(a) No Limited Partner shall make any transfer or assignment of all or any part of his Limited Partnership Interest if said transfer or assignment would, when considered with all other transfers during the same applicable twelve month period, cause a termination of the Partnership for federal or California state income tax purposes. 
+(b) Instruments evidencing a Limited Partnership Interest shall bear and be subject to legend conditions in substantially the following forms: 
+IT IS UNLAWFUL TO CONSUMMATE A SALE OR TRANSFER OF THIS SECURITY, OR ANY INTEREST THEREIN OR TO RECEIVE ANY CONSIDERATION THEREFOR, WITHOUT THE PRIOR WRITTEN CONSENT OF THE COMMISS IONER OF CORPORATIONS OF THE STATE OF CALIFORNIA, EXCEPT AS PERMITTED IN THE COMMISSIONER'S RULES. 
+(c) No Limited Partner shall make any transfer or assignment of all or any of his Limited Partnership Interest if the General Partners determine such transfer or assignment would result in the Partnership being classified as a "publicly traded partnership" with the meaning of Section 7704(b) of the Code or any regulations or rules promulgated thereunder. 
+   
+ 15 
+ 
+ 
+ ARTICLE 8 
+ WITHDRAWAL FROM PARTNERSHIP 
+8.1 Withdrawal by Limited Partners. No Limited Partner shall have the right to withdraw from the Partnership, receive cash distributions or otherwise obtain the return of all or any portion of his Capital Account balance for a period of one year after such Limited Partner's initial purchase of Units, except for monthly, quarterly or annual distributions of Cash Available for Distribution, if any, to which such Limited Partner may be entitled pursuant to Section 5.2 above and except in the event of the Limited Partner's death within the first year of his or her purchase of units. Withdrawal after a minimum one year holding period and before the five year holding period as set forth below shall be permitted in accordance with subsection (a) below. The General Partners shall have the right to liquidate the capital account of any investor whose capital account balance is less than $1,000. No penalty will be assessed in connection with a liquidation of a capital account of less than $1,000 by a General Partner. Additionally, as set forth below in subsection (g) there shall be a limited right of withdrawal upon the death of a Limited Partner. If a Limited Partner elects to withdraw either after the one (1) year holding period or the five (5) year holding period or his heirs elect to withdraw after his death, he will continue to receive distributions or have those Earnings compounded depending upon his initial election, based upon the balance of his capital account during the withdrawal period. Limited Partners may also withdraw after a five year holding period in accordance with subsection b(i) and (ii). A Limited Partner may withdraw or partially withdraw from the Partnership upon the following terms: 
+(a) A Limited Partner who desires to withdraw from the Partnership after the expiration of the above referenced one year period shall give written notice of withdrawal ("Notice of Withdrawal") to the General Partners, which Notice of Withdrawal shall state the sum or percentage interests to be withdrawn. Subject to the provisions of subsections (e) and (f) below, such Limited Partner may liquidate part or all of his entire Capital Account in four equal quarterly installments beginning the last day of the quarter following the quarter in which the Notice of Withdrawal is given, provided that such notice was received thirty (30) days prior to the end of the quarter. An early withdrawal under this subsection (a) shall be subject to a 10% early withdrawal penalty applicable to the sum withdrawn as stated in the Notice of Withdrawal. The 10% penalty shall be subject to and payable upon the te rms set forth in subsection (c) below. 
+(b) A Limited Partner who desires to withdraw from the Partnership after the expiration of the above referenced five year period shall give written notice of withdrawal ("Notice of Withdrawal") to the General Partners, and subject to the provisions of subsections (e) and (f) below such Limited Partner's Capital Account shall be liquidated as follows: 
+(i) Except as provided in subsection (b)(ii) below, the Limited Partner's Capital Account shall be liquidated in twenty (20) equal quarterly installments each equal to 5% of the total Capital Account beginning the last day of the calendar quarter following the quarter in which the Notice of Withdrawal is given, provided that such notice is received thirty (30) days prior to the end of the preceding quarter. Upon approval by the General Partners, the Limited Partner's Capital Account may be liquidated upon similar terms over a period l onger than twenty (20) equal quarterly installments. 
+(ii) Notwithstanding subsection (b)(i) above, any Limited Partner may liquidate part or all of his entire outstanding Capital Account in four equal quarterly installments beginning of the last day of the calendar quarter following the preceding quarter in which Notice of Withdrawal is given, provided that such notice was received thirty (30) days prior to the end of the preceding quarter. An early withdrawal under this subsection 8.1(b)(ii) shall be subject to a 10% early withdrawal penalty applicable to any sums prior to the time when such sums could have been withdrawn pursuant to the withdrawal provisions set forth in subsection (a)(i) above. 
+(c) The 10% early withdrawal penalty will be deducted pro rata from the Limited Partner's Capital Account. The 10% early withdrawal penalty will be received by the Partnership, and a portion of the sums collected as such early withdrawal penalty shall be applied by the Partnership toward the next installment(s) of principal under the Formation Loan owed to the Partnership by Redwood Mortgage Corp., a General Partner and any successor firm, as described in Section 10.9 below. This portion shall be determined by the ratio between the initial amount of the Formation Loan and the total amount of the organizational and syndication costs incurred by the Partnership in this offering of Units. After the Formation Loan has been paid, the 10% early withdrawal penalty will be used to pay the Continuing Servicing Fee, as set forth in Section 10.13 below. The balance of such early withdrawal penaltie s shall be retained by the Partnership for its own account. 
+(d) Commencing with the end of the calendar month in which such Notice of Withdrawal is given, and continuing on or before the twentieth day after the end of each month thereafter, any Cash Available for Distribution allocable to the Capital Account (or portion thereof) with respect to which Notice of Withdrawal has been given shall also be distributed in ca sh to the withdrawing Limited Partner in the manner provided in Section 5.2 above. 
+   
+ 16 
+ 
+ 
+(e) During the liquidation period described in subsections 8.1(a) and (b), the Capital Account of a withdrawing Limited Partner shall remain subject to adjustment as described in Section 1.4 above. Any reduction in said Capital Account by reason of an allocation of Losses, if any, shall reduce all subsequent liquidation payments proportionately. In no event shall any Limited Partner receive cash distributions upon withdrawal from the Partnership if the effect of such distribution would be to create a deficit in such Limited Partner's  Capital Account. 
+(f) Payments to withdrawing Limited Partners shall at all times be subject to the availability of sufficient cash flow generated in the ordinary course of the Partnership's business, and the Partnership shall not be required to liquidate outstanding Loans prior to their maturity dates for the purposes of meeting the withdrawal requests of Limited Partners. For this purpose, cash flow is considered to be available only after all current Partnership expenses have been paid (including compensation to the General Partners and Affiliates) and adequate provision has been made for the payment of all monthly or annual cash distributions on a pro rata basis which must be paid to Limited Partners who elected to receive such distributions upon subscription for Units pursuant to Section 4.3 or who changed their initial election to compound Earnings as set forth in Section 4.3. Furthermore, no more than 20% of the total Limited Partners' Capital Accounts outstanding for the beginning of any calendar year shall be liquidated during any calendar year. The General Partners also have the discretion to adjust the timing of withdrawals that would otherwise be made during a taxable year, including deferring withdrawals indefinitely, if the scheduled withdrawals could result in the Partnership being classified as a "publicly traded partnership" within the meaning of Section 7704(b) of the Code or any regulations of rules promulgated thereunder. If Notices of Withdrawal in excess of these limitations are received by the General Partners, the priority of distributions among Limited Partners shall be determined as follows: first, to those Limited Partners withdrawing Capital Accounts according to the 20 quarter or longer installment liquidation period described under subsection (b)(i) above, then to Benefit Plan Investors withdrawing Capital Accounts under subsection (b)(ii) above, then to all other Limited Partners withdrawing Capital Accounts under subsection (b)(ii) above, then to Administrators withdrawing Capital Accounts under subsection (g) below, and finally to all other Limited Partners withdrawing Capital Accounts under subsection (a) a bove. 
+(g) Upon the death of a Limited Partner, a Limited Partner's heirs or executors may, subject to certain conditions as set forth herein, liquidate all or a part of the deceased Limited Partner's investment without penalty. An executor, heir or other administrator of the Limited Partner's estate (for ease of reference the "Administrator") shall give written notice of withdrawal ("Notice of Withdrawal") to the General Partners within 6 months of the Limited Partner's date of death or the investment will become subject to the liquidation provisions set forth in Section 8.1 (a) through (f) above. The total amount available to be liquidated in any one year shall be limited to $50,000 per Limited Partner. The liquidation of the Limited Partner's Capital Account in any one year shall be made in four equal quarterly installments beginning the last day of the calendar quarter following the quarter in which time the Notice of Withdrawal is received. Due to the complex nature of administering a decedent's estate, the General Partners reserve the right and discretion to request any and all information they deem necessary and relevant in determining the date of death, the name of the beneficiaries and/or any other matters they deem relevant. The General Partners retain the discretion to refuse or to delay the liquidation of a deceased Limited Partner's investment unless or until the General Partners have received all such information they deem relevant. The liquidation of a Limited Partner's Capital Account pursuant to this subsection is subject to the provisions of subsections 8.1(d), (e) and (f) above. 
+8.2 Retirement by General Partners. Any one or all of the General Partners may withdraw ("retire") from the Partnership upon not less than six (6) months written notice of the same to all Limited Partners. Any retiring General Partner shall not be liable for any debts, obligations or other responsibilities of the Partnership or this Agreement arising after t he effective date of such retirement. 
+8.3 Payment to Terminated General Partner. If the business of the Partnership is continued as provided in Section 9.1(d) or 9.1(e) below upon the removal, retirement, death, insanity, dissolution, or bankruptcy of a General Partner, then the Partnership shall pay to such General Partner, or his/its estate, a sum equal to such General Partner's outstanding Capital Account as of the date of such removal, retirement, death, insanity, dissolution or bankruptcy, payable in cash within thirty (30) days after such date. If the business of the Partnership is not so continued, then such General Partner shall receive from the Partnership such sums as he may be entitled to receive in the course of terminating the Partners hip and winding up its affairs, as provided in Section 9.3 below. 
+ ARTICLE 9 
+ DISSOLUTION OF THIS PARTNERSHIP; MERGER OF THE PARTNERSHIP 
+9.1 Events Causing Dissolution. The Partnership shall dissolve upon occurrence of the earlier of the following events: 
+ (a) Expiration of the term of the Partnership as stated in Section 2.7 above. 
+ (b) The affirmative vote of a Majority of the Limited Partners. 
+   
+   
+ 17 
+ 
+ 
+(c) The sale of all or substantially all of the Partnership's assets; provided, for purposes of this Agreement the term "substantially all of the Partnership's assets" shall mean assets comprising not less than seventy percent (70%) of the aggregate fair market value of the Partnership's total assets as of the time of sale. 
+(d) The retirement, death, insanity, dissolution or bankruptcy of a General Partner unless, within ninety (90) days after any such event (i) the remaining General Partners, if any, elect to continue the business of the Partnership, or (ii) if there are no remaining General Partners, all of the Limited Partners agree to continue the business of the Partnership and to the appointment of a successor General Partner who executes a written acceptance of the duties and responsibilities of a General Partner hereunder. 
+(e) The removal of a General Partner, unless within ninety (90) days after the effective date of such removal (i) the remaining General Partners, if any, elect to continue the business of the Partnership, or (ii) if there are no remaining General Partners, a successor General Partner is approved by a majority of the Limited Partners as provided in Section 3.10 above, which successor executes a written acceptance as provided therein and elects to continue the business of the Partnership. 
+(f) Any other event causing the dissolution of the Partnership under the laws of the State of California. 
+9.2 Winding Up and Termination. Upon the occurrence of an event of dissolution, the Partnership shall immediately be terminated, but shall continue until its affairs have been wound up. Upon dissolution of the Partnership, unless the business of the Partnership is continued as provided above, the General Partners will wind up the Partnership's affairs as fol lows: 
+ (a) No new Loans shall be made or purchased; 
+(b) Except as may be agreed upon by a Majority of the Limited Partners in connection with a merger or consolidation described in Sections 9.5, 9.6 or 9.7, the General Partners shall liquidate the assets of the Partnership as promptly as is consistent with recovering the fair market value thereof, either by sale to third parties or by servicing the Partnership's outstanding Loans in accordance with their terms; provided, however, the General Partners shall liquidate all Partnership assets for the best price reasonably obtainable in order to completely wind up the Partnership's affairs within five (5) years after the date of dissolution; 
+(c) Except as may be agreed upon by a Majority of the Limited Partners in connection with a merger or consolidation described in Sections 9.5, 9.6 or 9.7, all sums of cash held by the Partnership as of the date of dissolution, together with all sums of cash received by the Partnership during the winding up process from any source whatsoever, shall be distrib uted in accordance with Section 9.3 below. 
+9.3 Order of Distribution of Assets. In the event of dissolution as provided in Section 9.1 above, the cash of the Partnership shall be distributed as follows: 
+(a) All of the Partnership's debts and liabilities to persons other than Partners shall be paid and discharged; 
+ (b) All of the Partnership's debts and liabilities to Partners shall be paid and discharged; 
+(c) The balance of the cash of the Partnership shall be distributed to the Partners in proportion to their respective outstanding Capital Accounts. 
+Upon dissolution, each Limited Partner shall look solely to the assets of the Partnership for the return of his capital contribution, and if the Partnership assets remaining after the payment or discharge of the debts and liabilities of the Partnership is insufficient to return the capital contribution of each Limited Partner, such Limited Partner shall have no recourse against the General Partners or any other Limited Partner. The winding-up of the affairs of the Partnership and the distribution of its assets shall be conducted exclusively by the General Partners. The General Partners are hereby authorized to do any and all acts and things authorized by law for these purposes. In the event of insolvency, dissolution, bankruptcy or resignation of all of the General Partners or removal of the General Partners by the Limited Partners, the winding up of the affairs of the Partnership and the distribution of its assets shall be conducted by such person or entity as may be selected by a vote of a Majority of the Limited Partners, which person or entity is hereby author ized to do any and all acts and things authorized by law for such purposes. 
+9.4 Compliance With Timing Requirements of Regulations. In the event the Partnership is "liquidated" within the meaning of Treasury Regulation Section 1.704-1(b)(2)(ii)(g), (a) distributions shall be made pursuant to this Article 9 (if such liquidation constitutes a dissolution of the Partnership) or Article 5 hereof (if it does not) to the General Partners and Limited Partners who have positive Capital Accounts in compliance with Treasury Regulation Section 1.704-1(b)(2)(ii)(b)(2) and (b) if the General Partners' Capital Accounts have a deficit balance (after giving effect to all contributions, distributions, and allocations for all taxable years, including the year during which such liquidation occurs), such General Partners shall contribute to the capital of the Partnership the amount necessary to restore such deficit balance to zero in compliance with Treasury Regulation Section 1.70 4-1(b)(2)(ii)(b)(3). 
+   
+ 18 
+ 
+ 
+9.5 Merger or Consolidation of the Partnership. The Partnership's business may be merged or consolidated with one or more limited partnerships that are Affiliates of the Partnership, provided the approval of the required percentage in interest of Partners is obtained pursuant to Section 9.6. Any such merger or consolidation may be effected by way of a sale of the assets of, or units in, the Partnership or purchase of the assets of, or units in, another limited partnership(s), or by any other method approved pursuant to Section 9.6. In any such merger or consolidation, the Partnership may be either a disappearing or surviving entity. 
+9.6 Vote Required. The principal terms of any merger or consolidation described in Section 9.5 must be approved by the General Partners and by the affirmative vote of a Majority of  the Limited Partners. 
+9.7 Sections Not Exclusive. Sections 9.5 and 9.6 shall not be interpreted as setting forth the exclusive means of merging or consolidating the Partnership in the event that the California Revised Limited Partnership Act, or any successor statute, is amended to provide a statutory method by which the Partnership may be merged or consolidated. 
+ ARTICLE 10 
+ TRANSACTIONS BETWEEN THE PARTNERSHIP, 
+ THE GENERAL PARTNERS AND AFFILIATES 
+10.1 Loan Brokerage Commissions. The Partnership will enter into Loan transactions where the borrower has employed and agreed to compensate Redwood Mortgage Corp. to act as a broker in arranging the loan. The exact amount of the loan brokerage commissions are negotiated with prospective borrowers on a case by case basis. It is estimated that such commissions will be approximately three percent (3%) to six percent (6%) of the principal amount of each Loan made during that year. The loan brokerage commissions shall be capped at 4% of th e Partnership's total assets per year. 
+10.2 Loan Servicing Fees. A General Partner or an Affiliate of a General Partner may act as servicing agent with respect to all Loans, and in consideration for such collection efforts he/it shall be entitled to receive a monthly servicing fee up to one-eighth of one percent (.125%) of the total unpaid principal balance of each Loan serviced, or such higher amount as shall be customary and reasonable between unrelated Persons in the geographical area where the property securing the Loan is located. The General Partners or an Affiliate  may lower such fee for any period of time and thereafter raise it up to the limit set forth above. 
+10.3 Escrow and Other Loan Processing Fees. The General Partners or an Affiliate of a General Partner may act as escrow agent for Loans made by the Partnership, and may also provide certain document preparation, notarial and credit investigation services, for which services the General Partners shall be entitled to receive such fees as are permitted by law and as are generally prevailing in the geographical area where the property securing the Loan is located. 
+10.4 Asset Management Fee. The General Partners shall receive a monthly fee for managing the Partnership's Loan portfolio and general business operations in an amount up to 1/32 of one percent (.03125%) of the total "net asset value" of all Partnership assets (as hereafter defined), payable on the first day of each calendar month until the Partnership is finally wound up and terminated. "Net asset value" shall mean total Partner's capital, determined in accordance with generally accepted accounting principles as of the last day of the preceding calendar month. The General Partners, in their discretion, may lower such fee for any period of time and thereafter raise it up to the limit set forth above. 
+10.5 Reconveyance Fees. The General Partners may receive a fee from a borrower for reconveyance of a property upon full payment of a loan in an amount as is generally prevailing in  the geographical area where the property is located. 
+10.6 Assumption Fees. A General Partner or an Affiliate of the General Partners may receive a fee payable by a borrower for assuming a Loan in an amount equal to a percentage of th e Loan or a set fee. 
+10.7 Extension Fee. A General Partner or an Affiliate of the General Partners may receive a fee payable by a borrower for extending the Loan period in an amount equal to a percenta ge of the loan. 
+10.8 Prepayment and Late Fees. Any prepayment and late fees collected by a General Partner or an Affiliate of the General Partners in connection with Loans shall be paid to the Par tnership. 
+   
+ 19 
+ 
+ 
+10.9 Formation Loans to Redwood Mortgage Corp. The Partnership may lend to Redwood Mortgage Corp., a sum not to exceed 9% of the total amount of capital contributions to the Partnership by the Limited Partners, the proceeds of which shall be used solely for the purpose of paying selling commissions and all amounts payable in connection with unsolicited orders received by the General Partners. The Formation Loans shall be unsecured and shall be evidenced by a non-interest bearing promissory note executed by Redwood Mortgage Corp. in favor of the Partnership. The First Formation Loan is being repaid in ten (10) equal annual installments of principal without interest, commencing on December 31, 1996. As of December 31, 2004, the total aggregate amount of the First Formation Loan equaled $1,074,840 of which $785,000 had been repaid by Redwood Mortgage Corp. The Second Formation Loan will be repaid as follows: Upon the commencement of the offering in December, 1996, Redwood Mortgage Corp. made annual installments of one-tenth of the principal balance of the Formation loan as of December 31 of each year. Upon completion of the offering in August 2000, Redwood Mortgage commenced paying ten equal annual installments of principal only on December 31 of each year. Such payment shall be due and payable by December 31 of the following year. As of December 31, 2004, the Partnership had loaned $2,271,916 to Redwood Mortgage Corp. of which $1,013,000 had been repaid. The Third Formation will be repaid as follows: Since commencement of the offering in August, 2000, Redwood Mortgage Corp. has made annual installments of one-tenth of the principal balance of the Formation Loan as of December 31 of each year. Such payment shall be due and payable by December 31 of the following year. Upon completion of the offering in April, 2002, Redwood Mortgage Corp. commenced paying ten equal annual installments of principal only on December 31 of each year. As of December 31, 2004, the Partnership had loaned $2,217,952 to Redwood Mortgage Corp. of which $558,000 had been repaid. The Fourth Formation Loan will be repaid as follows: Upon commencement of the offering in October, 2002, Redwood Mortgage Corp. will make annual installments of one-tenth of the principal balance of the Formation Loan as of December 31 of each year. Such payment shall be due and payable by December 31 of the following year. Upon completion of the offering, Redwood Mortgage Corp will commence paying ten equal annual installments of principal only on December 31 of each year. As of December 31, 2004, the Partnership had loaned $3,777,000 to Redwood Mortgage Corp. of which $495,000 had been repaid. 
+The Fifth Formation Loan will be repaid as follows: Upon the commencement of the offering in October, 2003, Redwood Mortgage Corp. made annual installments of one-tenth of the principal balance of the Formation Loan as of December 31 of each year. Upon completion of the offering, Redwood Mortgage Corp. will commence paying ten equal annual installments of principal only on December 31 of each year. As of December 31, 2004, the Partnership had loaned $3,570,000 to Redwood Mortgage Corp. of which $45,000 had been repaid. 
+The amount of the annual installment payment to be made by Redwood Mortgage Corp. during the offering stage, will be determined by the principal balance of the Sixth Formation Loan on December 31 of each year. The Sixth Formation Loan will be repaid under the same terms and conditions as the Second, Third, Fourth and Fifth Formation Loans. With respect to this offering, the formation loan could range from a minimum of $5,000,000 assuming all investors elected to receive current cash distributions to a maximum of $9,000,000 assuming all investors elected to compound their earnings. Redwood Mortgage Corp. at its option may prepay all or any part of the Formation Loans. Redwood Mortgage Corp. will repay the Formation Loans principally from loan brokerage commissions earned on Loans, early withdrawal penalties and other fees paid by the Partnership. Since Redwood Mortgage Corp. will use the proceeds from loan brokerage commissions on Loans to repay the Formation Loans and, with respect to the initial offering of 150,000 Units, for the continued payment of the Continuing Servicing Fees, if all or any one of the initial General Partners is removed as a General Partner by the vote thereafter designated, and if such successor or additional General Partner(s) begins using any other loan brokerage firm for the placement of Loans, Redwood Mortgage Corp. will be immediately released from any further obligation under the Formation Loans (except for a proportionate share of the principal installment due at the end of that year, pro rated according to the days elapsed and for the continued payment of the Continuing Servicing Fees with respect to the initial offering of 150,000 Units.) In addition, if all of the General Partners are removed, no successor General Partners are elected, the Partnership is liquidated and Redwood Mortgage Corp. is no longer receiving any payments for services rendered, the debt on the Formation Loans shall be forgiven and Redwood Mortgage Corp. will be immediately released from any further obligations under the Formation Loans or Continuing Servicing Fees with respect to the initial offering of 150,000 Units. 
+10.10 Sale of Loans and Loans Made to General Partners or Affiliates. The Partnership may sell existing Loans to the General Partners or their Affiliates, but only so long as the Partnership receives net sales proceeds from such sales in an amount equal to the total unpaid balance of principal, accrued interest and other charges owing under such Loan, or the fair market value of such Loan, whichever is greater. Notwithstanding the foregoing, the General Partners shall be under no obligation to purchase any Loan from the Partnership or to guarantee any payments under any Loan. Generally, Loans will not be made to the General Partners or their Affiliates. However, the Partnership may make the Formation Loans to Redwood Mortgage Corp. and may in certain limited circumstances, loan funds to Affiliates to purchase real estate owned by the Partnership as a result of foreclosure. 
+10.11 Purchase of Loans from General Partners or Affiliates. The Partnership may purchase existing Loans from the General Partners or Affiliates, provided that the following condit ions are met: 
+ (a) At the time of purchase the borrower shall not be in default under the Loan; 
+(b) No brokerage commissions or other compensation by way of premiums or discounts shall be paid to the General Partners or their Affiliates by reason of such purchase; and 
+(c) If such Loan was held by the seller for more than 180 days, the seller shall retain a ten percent (10%) interest in such Loan. 
+   
+ 20 
+ 
+ 
+10.12 Interest. Redwood Mortgage Corp. shall be entitled to keep interest if any, earned on the Loans between the date of deposit of borrower's funds into Redwood Mortgage Corp.'s  trust account and date of payment of such funds by Redwood Mortgage Corp. 
+ 10.13 Sales Commissions. 
+(a) The Units are being offered to the public on a best efforts basis through the participating broker-dealers. The participating broker-dealers may receive commissions as follows: at the rate of either (5%) or (9%) (depending upon the investor's election to receive cash distributions or to compound earnings) of the gross proceeds on all of their sales. In no event will the total of all compensation payable to participating broker dealers, including sales commissions, expense reimbursements, including reimbursements for education meetings for associated persons of an NASD member, and/or due diligence expenses exceed ten percent (10%) of the program proceeds received plus an additional (0.5%) for bona fide due diligence expenses as set forth in Rule 2810 of the NASD Conduct Rules. Further, in no event shall any individual participating broker dealer receive total compensation including sales commissions, expense reimbursements, including reimbursements for education meetings for associated persons of an NASD member, or expense reimbursement exceed (10%) of the gross proceeds of their sales plus an additional (0.5%) for bona fide due diligence expenses as set forth in Rule 2810 of the NASD Conduct Rules (the "Compensation Limitation"). In the event the Partnership receives any unsolicited orders directly from an investor who did not utilize the services of a participating broker dealer, Redwood Mortgage Corp. through the Formation Loans may pay to the Partnership an amount equal to the amount of the sales commissions otherwise attributable to a sale of a Unit through a participating broker dealer. The Partnership will in turn credit such amounts received from Redwood Mortgage Corp. to the account of the Investor who placed the unsolicited order. All unsolicited orders wil l be handled only by the General Partners. 
+Sales commissions will not be paid by the Partnership out of the offering proceeds. All sales commissions will be paid by Redwood Mortgage Corp., which will also act as the mortgage loan broker for all Loans as set forth in Section 10.1 above. With respect to the initial offering of 150,000 Units, the Continuing Servicing Fee will be paid by Redwood Mortgage Corp., but will not be included in the first Formation Loan. The Partnership will loan to Redwood Mortgage Corp. funds in an amount equal to the sales commissions and all amounts payable in connection with unsolicited sales by the General Partners, as a Formation Loan. With respect to the initial offering of 150,000 Units, Redwood Mortgage Corp. will use the proceeds from loan brokerage commissions on Loans to pay the Continuing Servicing Fees, and if all or any one of the initial General Partners is removed as a General Partner by the vote thereafter designated, if such successor or additional General Partner(s) use any other loan brokerage firm for the placement of Loans, Redwood Mortgage Corp. will be immediately released from any further obligation to continue to pay any Continuing Servicing Fees. In addition, if all of the General Partners are removed, no successor General Partners are elected, the Partnership is liquidated and Redwood Mortgage Corp. is no longer receiving any payments for services rendered, Redwood Mortgage Corp. will be immediately released from any further obligation to continue to pay any Continuing Servicing Fee in connection with the initial offering of 150,000 Units. Units may also be offered or sold directly by the General Partners for which they will receive no sales commissions. The Partnership shall reimburse Participating Broker-Dealers for bona fide due diligence expenses in an amo unt up to (.5%) of the Gross Proceeds. 
+(b) Sales by Registered Investment Advisors. The General Partners may accept unsolicited orders received directly from Investors if an investor utilizes the services of a registered investment advisor. A registered investment advisor is an investment professional retained by a Limited Partner to advise him regarding all of his assets, not just an investment in the Partnership. Registered investment advisors are paid by the investor based upon the total amount of the investor's assets being managed by the registered investment advisor. 
+If an investor utilizes the services of a registered investment advisor, Redwood Mortgage Corp. may pay to the Partnership an amount equal to the sales commission otherwise attributable to a sale of Units through a participating broker dealer. The Partnership will in turn credit such amounts received by Redwood Mortgage Corp. to the account of the investor who placed the unsolicited order. If an investor acquires Units directly through the services of a registered investment advisor, the investor will have the election to authorize the Partnership to pay the registered investment advisor an estimated monthly amount of no more than 2% annually of his capital account that would otherwise be paid as periodic cash distributors or compounded as earnings. For ease of reference, these fees are referred to as "Client Fees." The payment of Client Fees will be paid from those amounts that would otherwise be distributable to a Limited Partner or compounded in a Limited Partner's capital account. The payment of Client Fees is noncumulative and subject to the availability of sufficient earnings in your capital account. In no event will any such Client Fees be paid to us as sales commissions or other compensation. The Partnership is merely agreeing as an administrative convenience to pay the registered investment advisor a portion of those amounts that would be paid to you. 
+All registered investment advisors will be required to represent and warrant to the Partnership, that among other things, the investment in the units is suitable for the Investor, that he has informed the Investor of all pertinent facts relating to the liquidating and marketability of the units, and that if he is affiliated with a NASD registered broker or dealer, that all Client Fees received by him in connection with any transactions with the Partnership will be run through the books and records of the NASD member in compliance with  Notice to Members 96-33 and Rules 3030 and 3040 of the NASD Conduct Rules. 
+   
+ 21 
+ 
+ 
+10.14 Reimbursement of Offering Expenses. The General Partners may be reimbursed for, or the Partnership may pay directly, all expenses in connection with the organization or offering of the Units including, without limitation, attorneys' fees, accounting fees, printing costs and other selling expenses (other than underwriting commissions) in an amount equal to the lesser of ten percent (10%) of the gross proceeds of the Offering or $4,000,000. The General Partners may, at their election, pay any offering and organization expenses in  excess of this amount. 
+10.15 Reimbursement. The Partnership shall reimburse the General Partners or their Affiliates for the actual cost to the General Partners or their Affiliates (or pay directly), the cost of goods and materials used for or by the Partnership and obtained from entities unaffiliated with the General Partners or their Affiliates. The Partnership shall also pay or reimburse the General Partners or their Affiliates for the cost of administrative services necessary to the prudent operation of the Partnership, provided that such reimbursement will be at the lower of (A) the actual cost to the General Partners or their Affiliates of providing such services, or (B) 90% of the amount the Partnership would be required to pay to non affiliated persons rendering similar services in the same or comparable geographical location. The cost of administrative services as used in this subsection shall mean the pro rata cost of personnel, including an allocation of overhead directly attributable to such personnel, based on the amount of time such personnel spent on such services, or oth er method of allocation acceptable to the program's independent certified public accountant. 
+10.16 Non-reimbursable Expenses. The General Partners will pay and will not be reimbursed by the Partnership for any general or administrative overhead incurred by the General Partners in connection with the administration of the Partnership which is not directly attributable to services authorized by Sections 10.14, 10.15 or 10.17. 
+10.17 Operating Expenses. Subject to Sections 10.14 and 10.15 and 10.16 all expenses of the Partnership shall be billed directly to and paid by the Partnership which may include, but are not limited to: (i) all salaries, compensation, travel expenses and fringe benefits of personnel employed by the Partnership and involved in the business of the Partnership including persons who may also be employees of the General Partners or Affiliates of the General Partners, but excluding control persons of either the General Partners or Affiliates of the General Partners, (ii) all costs of borrowed money, taxes and assessments on Partnership properties foreclosed upon and other taxes applicable to the Partnership, (iii) legal, audit, accounting, and brokerage fees, (iv) printing, engraving and other expenses and taxes incurred in connection with the issuance, distribution, transfer, registration and recording of documents evidencing ownership of an interest in the Partnership or in connection with the business of the Partnership, (v) fees and expenses paid to leasing agents, consultants, real estate brokers, insurance brokers, and other agents, (vi) costs and expenses of foreclosures, insurance premiums, real estate brokerage and leasing commissions and of maintenance of such property, (vii) the cost of insurance as required in connection with the business of the Partnership, (viii) expenses of organizing, revising, amending, modifying or terminating the Partnership, (ix) expenses in connection with distributions made by the Partnership, and communications, bookkeeping and clerical work necessary in maintaining relations with the Limited Partners and outside parties, including the cost of printing and mailing to such persons certificates for Units and reports of meetings of the Partnership, and of preparation of proxy statements and solicitations of proxies in connection therewith, (x) expenses in connection with preparing and mailing reports required to be furnished to the Limited Partners for investor, tax reporting or other purposes, or other reports to the Limited Partners which the General Partners deem to be in the best interests of the Partnership, (xi) costs of any accounting, statistical or bookkeeping equipment and services necessary for the maintenance of the books and records of the Partnership including, but not limited to, computer services and time, (xii) the cost of preparation and dissemination of the information relating to potential sale, refinancing or other disposition of Partnership property, (xiii) costs incurred in connection with any litigation in which the Partnership is involved, as well as in the examination, investigation or other proceedings conducted by any regulatory agency with jurisdiction over the Partnership including legal and accounting fees incurred in connection therewith, (xiv) costs of any computer services used for or by the Partnership, (xv) expenses of professionals employed by the Partnership in connection with any of the foregoing, including attorneys, accountants and appraisers. For the purposes of Sections 10.17(i), a control person is someone holding a 5% or greater equity interest in the General Partners or Affiliate or a person having the power to direct or cause the direction of the General Partners or Affiliate, whether through the ownership of voting securities, by contract or otherwise. 
+10.18 Deferral of Fees and Expense Reimbursement. The General Partners may defer payment of any fee or expense reimbursement provided for herein. The amount so deferred shall be treated as a non-interest bearing debt of the Partnership and shall be paid from any source of funds available to the Partnership, including cash available for Distribution prior to  the distributions to Limited Partners provided for in Article 5. 
+10.19 Payment upon Termination. Upon the occurrence of a terminating event specified in Article 9 of the termination of an affiliate's agreement, any portion of any reimbursement or interest in the Partnership payable according to the provisions of this Agreement if accrued, but not yet paid, shall be paid by the Partnership to the General Partners or Affiliates in cash, within thirty (30) days of the terminating event or termination date set forth in the written notice of termination. 
+   
+ 22 
+ 
+ 
+ ARTICLE 11 
+ ARBITRATION 
+11.1 Arbitration. As between the parties hereto, all questions as to rights and obligations arising under the terms of this Agreement are subject to arbitration, including any question concerning any right or duty under the Securities Act of 1933, the Securities Exchange Act of 1934 and the securities laws of any state in which Units are offered, and such ar bitration shall be governed by the rules of the American Arbitration Association. 
+11.2 Demand for Arbitration. If a dispute should arise under this Agreement, any Partner may within 60 days make a demand for arbitration by filing a demand in writing with the Gen eral Partners. 
+11.3 Appointment of Arbitrators. The parties may agree upon one arbitrator, but in the event that they cannot agree, there shall be three, one named in writing by each of the parties within five (5) days after demand for arbitration is given and a third chosen by the two appointed. Should either party refuse or neglect to join in the appointment of the arbitrator(s) or to furnish the arbitrator(s) with any papers or information demanded, the arbitrator(s) are empowered by both parties to proceed ex parte. 
+11.4 Hearing. Arbitration shall take place in San Mateo, California, and the hearing before the arbitrator(s) of the matter to be arbitrated shall be at the time and place within said city as is selected by the arbitrator(s). The arbitrator(s) shall select such time and place promptly after his (or their) appointment and shall give written notice thereof to each party at least sixty (60) days prior to the date so fixed. At the hearing any relevant evidence may be presented by either party, and the formal rules of evidence applicable to judicial proceedings shall not govern. Evidence may be admitted or excluded in the sole discretion of the arbitrator(s). Said arbitrator(s) shall hear and determine the matter and shall execute and acknowledge their award in writing and cause a copy thereof to be delivered to each of the parties. 
+11.5 Arbitration Award. If there is only one arbitrator, his decision shall be binding and conclusive on the parties, and if there are three arbitrators the decision of any two shall be binding and conclusive. The submission of a dispute to the arbitrator(s) and the rendering of his (or their) decision shall be a condition precedent to any right of legal action on the dispute. A judgment confirming the award of the arbitrator(s) may be rendered by any Court having Jurisdiction; or such Court may vacate, modify, or correct the award in  accordance with the prevailing sections of California State Law. 
+11.6 New Arbitrators. If three arbitrators are selected under the foregoing procedure but two of the three fail to reach an Agreement in the determination of the matter in question, the matter shall be decided by three new arbitrators who shall be appointed and shall proceed in the same manner, and the process shall be repeated until a decision is finally re ached by two of the three arbitrators selected. 
+11.7 Costs of Arbitration. The costs of such arbitration shall be borne by the losing party or in such proportions as the arbitrators shall determine. 
+ ARTICLE 12 
+ MISCELLANEOUS 
+12.1 Covenant to Sign Documents. Without limiting the power granted by Sections 2.8 and 2.9, each Partner covenants, for himself and his successors and assigns, to execute, with acknowledgment or verification, if required, any and all certificates, documents and other writings which may be necessary or expedient to form the Partnership and to achieve its purposes, including, without limitation, the Certificate of Limited Partnership and all amendments thereto, and all such filings, records or publications necessary or appropriate laws  of any jurisdiction in which the Partnership shall conduct its business. 
+12.2 Notices. Except as otherwise expressly provided for in this Agreement, all notices which any Partner may desire or may be required to give any other Partners shall be in writing and shall be deemed duly given when delivered personally or when deposited in the United States mail, first-class postage pre-paid. Notices to Limited Partners shall be addressed to the Limited Partners at the last address shown on the Partnership records. Notices to the General Partners or to the Partnership shall be delivered to the Partnership's principal place of business, as set forth in Section 2.3 above or as hereafter charged as provided herein. Notice to any General Partner shall constitute notice to all General Partners. 
+12.3 Right to Engage in Competing Business. Nothing contained herein shall preclude any Partner from purchasing or lending money upon the security of any other property or rights therein, or in any manner investing in, participating in, developing or managing any other venture of any kind, without notice to the other Partners, without participation by the other Partners, and without liability to them or any of them. Each Limited Partner waives any right he may have against the General Partners for capitalizing on information received  as a consequence of the General Partners management of the affairs of this Partnership. 
+   
+ 23 
+ 
+ 
+12.4 Amendment. This Agreement is subject to amendment by the affirmative vote of a Majority of the Limited Partners in accordance with Section 4.7, provided, however, that no such amendment shall be permitted if the effect of such amendment would be to increase the duties or liabilities of any Partner or materially change any Partner's interest in Profits, Losses, Partnership assets, distributions, management rights or voting rights, except as agreed by that Partner. In addition, and notwithstanding anything to the contrary contained in this Agreement, the General Partners shall have the right to amend this Agreement, without the vote or consent of any of the Limited Partners, when: 
+(a) There is a change in the name of the Partnership or the amount of the contribution of any Limited Partner; 
+ (b) A Person is substituted as a Limited Partner; 
+ (c) An additional Limited Partner is admitted; 
+(d) A Person is admitted as a successor or additional General Partner in accordance with the terms of this Agreement; 
+(e) A General Partner retires, dies, files a petition in bankruptcy, becomes insane or is removed, and the Partnership business is continued by a remaining or replacement General P artner; 
+ (f) There is a change in the character of the business of the Partnership; 
+(g) There is a change in the time as stated in the Agreement for the dissolution of the Partnership, or the return of a Partnership contribution; 
+(h) To cure any ambiguity, to correct or supplement any provision which may be inconsistent with any other provision, or to make any other provisions with respect to matters or questions arising under this Agreement which will not be inconsistent with the provisions of this Agreement; 
+(i) To delete or add any provision of this Agreement required to be so deleted or added by the Staff of the Securities and Exchange Commission or by a State "Blue Sky" Administrator or similar official, which addition or deletion is deemed by the Administrator or official to be for the benefit or protection of the Limited Partners; 
+(j) To elect for the Partnership to be governed by any successor California statute governing limited partnerships; and 
+(k) To modify provisions of this Agreement as noted in Sections 1.2 and 5.6 to cause this Agreement to comply with Treasury Regulation Section 1.704-1(b). 
+The General Partners shall notify the Limited Partners within a reasonable time of the adoption of any such amendment. 
+12.5 Entire Agreement. This Agreement constitutes the entire Agreement between the parties and supersedes any and all prior agreements and representations, either oral or in writin g, between the parties hereto with respect to the subject matter contained herein. 
+12.6 Waiver. No waiver by any party hereto of any breach of, or default under, this Agreement by any other party shall be construed or deemed a waiver of any other breach of or default under this Agreement, and shall not preclude any party from exercising or asserting any rights under this Agreement with respect to any other. 
+12.7 Severability. If any term, provision, covenant or condition of this Agreement is held by a court of competent jurisdiction to be invalid, void or unenforceable, the remainder of the provisions of this Agreement shall remain in full force and effect and shall in no way be affected, impaired or invalidated. 
+12.8 Application of California law. This Agreement and the application or interpretation thereof shall be governed, construed, and enforced exclusively by its terms and by the law  of the State of California. 
+12.9 Captions. Section titles or captions contained in this Agreement are inserted only as a matter of convenience and for reference and in no way define, limit, extend or describe  the scope of this Agreement. 
+   
+ 24 
+ 
+ 
+12.10 Number and Gender. Whenever the singular number is used in this Agreement and when required by the context, the same shall include the plural, and the masculine gender shall  include the feminine and neuter genders. 
+12.11 Counterparts. This Agreement may be executed in counterparts, any or all of which may be signed by a General Partner on behalf of the Limited Partners as their attorney-in-fa ct. 
+12.12 Waiver of Action for Partition. Each of the parties hereto irrevocably waives during the term of the Partnership any right that it may have to maintain any action for partiti on with respect to any property of the Partnership. 
+12.13 Defined Terms. All terms used in this Agreement which are defined in the Prospectus of Redwood Mortgage Investors VIII, dated July 28, 2005 shall have the meanings assigned to them in said Prospectus, unless this Agreement shall provide for a specific definition in Article 1. 
+12.14 Assignability. Each and all of the covenants, terms, provisions and arguments herein contained shall be binding upon and inure to the benefit of the successors and assigns of  the respective parties hereto, subject to the requirements of Article 7. 
+   
+ 25 
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have hereunto set their hand the day and year first above written. 
+   
+ GENERAL PARTNERS:     
+   
+     Michael R. Burwell     GYMNO CORPORATION     A California Corporation     By:   
+   
+       Michael R. Burwell, President     REDWOOD MORTGAGE CORP.     A California Corporation     By:   
+   
+       Michael R. Burwell, President LIMITED PARTNERS:     GYMNO CORPORATION     (General Partner and Attorney-in-Fact)     By:   
+   
+       Michael R. Burwell, President 
+   
+ 26 
+ 
+ 
+ SUBSCRIPTION AGREEMENT AND POWER OF ATTORNEY 
+ REDWOOD MORTGAGE INVESTORS VIII 
+ A CALIFORNIA LIMITED PARTNERSHIP 
+The undersigned hereby applies to become a limited partner in REDWOOD MORTGAGE INVESTORS VIII, a California limited partnership (the "partnership"), and subscribes to purchase the number of units specified herein in accordance with the terms and conditions of the limited partnership agreement attached as Exhibit A to the prospectus dated July 28, 2005. 
+1. Representations and Warranties. The undersigned represents and warrants to the partnership and its general partners as follows: 
+(a) I have received, read and understand the prospectus dated July 28, 2005, and in making this investment I am relying only on the information provided therein. I have not relied  on any statements or representations inconsistent with those contained in the prospectus. 
+(b) I, or the fiduciary account for which I am purchasing, meet the applicable suitability standards and financial requirements set forth in the prospectus under "INVESTOR SUITABIL ITY STANDARDS" as they pertain to the state of my primary residence and domicile. 
+(c) I am aware that this subscription may be rejected in whole or in part by the general partners in their sole and absolute discretion; that my investment, if accepted, is subject to certain risks described in part in "RISK FACTORS" set forth in the prospectus; and that there will be no public market for units, and accordingly, it may not be possible for me  to readily liquidate my investment in the partnership. 
+(d) I have been informed by the participating broker-dealer firm specified herein, if any, of all pertinent facts relating to the lack of liquidity or marketability of this investment. I understand that units may not be sold or otherwise disposed of without the prior written consent of the general partners, which consent may be granted or withheld in their sole discretion, that any transfer is subject to numerous other restrictions described in the prospectus and in the limited partnership agreement, and that if I am a resident of California or if the transfer occurs in California, any such transfer is also subject to the prior written consent of the California Commissioner of Corporations. I have liquid assets sufficient to assure myself that such purchase will cause me no undue financial difficulties and that I can provide for my current needs and possible personal contingencies, or if I am the trustee of a retirement trust, that the limited liquidity of the units will not cause difficulty in meeting the trust's obligations to make distributions to plan particip ants in a timely manner. 
+(e) I am of the age of majority (as established in the state in which I am domiciled) if I am an individual, and in any event, I have full power, capacity, and authority to enter into a contractual relationship with the partnership. If acting in a representative or fiduciary capacity for a corporation, partnership or trust, or as a custodian or agent for any person or entity, I have full power or authority to enter into this subscription agreement in such capacity and on behalf of such corporation, partnership, trust, person or entity . 
+(f) By virtue of my own investment acumen and experience or financial advice from my independent advisors (other than a person receiving commissions by reason of my purchase of uni ts), I am capable of evaluating the risks and merits of an investment in the partnership. 
+(g) I am buying the units solely for my own account, or for the account of a member or members of my immediate family or in a fiduciary capacity for the account of another person o r entity and not as an agent for another. 
+(h) I acknowledge and agree that counsel representing the partnership, the general partners and their affiliates does not represent me and shall not be deemed under the applicable codes of professional responsibility to have represented or to be representing me or any of the limited partners in any respect. 
+(i) If I am buying the units in a fiduciary capacity or as a custodian for the account of another person or entity, I have been directed by that person or entity to purchase the unit(s), and such person or entity is aware of my purchase of units on their behalf, and consents thereto and is aware of the merits and risks involved in the investment in the partn ership. 
+BY MAKING THESE REPRESENTATIONS, THE SUBSCRIBER HAS NOT WAIVED ANY RIGHT OF ACTION AVAILABLE UNDER APPLICABLE FEDERAL OR STATE SECURITIES LAWS INCLUDING BUT NOT LIMITED TO THE SECU RITIES ACT OF 1933. 
+   
+ 27 
+ 
+ 
+2. Power of Attorney. The undersigned hereby irrevocably constitutes and appoints the general partners, and each of them, either one acting alone, as his true and lawful attorney-in-fact, with full power and authority for him, and in his name, place and stead, to execute, acknowledge, publish and file: 
+(a) The limited partnership agreement and any amendments thereto or cancellations thereof required under the laws of the State of California; 
+(b) Any other instruments, and documents as may be required by, or may be appropriate under, the laws of any state or other jurisdiction in which the partnership is doing or intend s to do business; and 
+(c) Any documents which may be required to effect the continuation of the partnership, the admission of an additional or substituted limited partner, or the dissolution and termina tion of the partnership. 
+The power of attorney granted above is a special power of attorney coupled with an interest, is irrevocable, and shall survive the death or incapacity of the undersigned or, if the undersigned is a corporation, partnership, trust or association, the dissolution or termination thereof. The power of attorney shall also survive the delivery of an assignment of units by a limited partner; provided, that where the assignee thereof has been approved by the general partners for admission to the partnership as a substituted limited partner, such power of attorney shall survive the delivery of such assignment for the sole purpose of enabling the general partners to execute, acknowledge, file and record any instrument ne cessary to effect such substitution. 
+3. Acceptance. This subscription agreement will be accepted or rejected by a general partner within thirty (30) days of its receipt by the partnership. The general partners also reserve the right to revoke its acceptance within such thirty (30) day period. Upon acceptance, this subscription will become irrevocable, and will obligate the undersigned to purchase the number of units specified herein, for the purchase price of $1 per unit. The general partners will return a countersigned copy of this subscription agreement to accepted sub scribers, which copy (together with my canceled check) will be evidence of my purchase of units. 
+4. Payment of Subscription Price. The full purchase price for units is $1 per unit, payable in cash concurrently with delivery of this subscription agreement. I understand that my subscription funds will be held by the general partners until my funds are needed by the partnership to fund a mortgage investment or for other proper partnership purposes, and only then will I actually be admitted to the partnership. In the interim, my subscription funds will earn interest at passbook savings accounts rates. If I elect to receive monthly, quarterly or annual cash distributions, then such interest will be returned to me after I am admitted to the partnership. If I elect to allow my share of partnership income to be paid in the form of additional units that will be reinvested by the partnership, then such interest will be invested in the partnership in which case I understand that the number of units I initially subscribed for will be increased accordingly. If I initially elect to receive additional units and reinvest my share of partnership income, I may after three (3) years change my election and receive monthly, quarterly or annual cash distributions. I understand that if I initially elect to receive monthly, quarterly or annual cash distributions, my election to receive cash distributions is irrevocable. However, I understand that I may change whether I receive such distributions on a monthly, quarterly or annual basis. 
+5. THE UNDERSIGNED AGREES TO INDEMNIFY AND HOLD REDWOOD MORTGAGE INVESTORS VIII, A CALIFORNIA LIMITED PARTNERSHIP, AND ITS GENERAL PARTNERS AND OTHER AGENTS AND EMPLOYEES HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS, DEMANDS, LIABILITIES, AND DAMAGES, INCLUDING, WITHOUT LIMITATION, ALL ATTORNEYS' FEES WHICH SHALL BE PAID AS INCURRED) WHICH ANY OF THEM MAY INCUR, IN ANY MANNER OR TO ANY PERSON, BY REASON OF THE FALSITY, INCOMPLETENESS OR MISREPRESENTATION OF ANY INFORMATION FURNISHED BY THE UNDERSIGNED HEREIN OR IN ANY DOCUMENT SUBMITT ED HEREWITH. 
+6. Signature. The undersigned represents that: (a) I have read the foregoing and that all the information provided by me is accurate and complete; and (b) I will notify the general partners immediately of any material adverse change in any of the information set forth herein which occurs prior to the acceptance of my subscription. 
+   
+ 28 
+ 
+ 
+ REDWOOD MORTGAGE INVESTORS VIII 
+ SUBSCRIPTION AGREEMENT 
+ PLEASE READ THIS AGREEMENT BEFORE SIGNING 
+ Type of Ownership: (check one) 
+   
+      Â¨    INDIVIDUAL    Â¨    PENSION PLAN (Trustee signature required)      Â¨    
+ TRUST (Trustee signature required) 
+ (Title page, Successor Trustee page and signature pages of the Trust Agreement MUST be enclosed) 
+    Â¨    PROFIT SHARING PLAN (Trustee signature required)       Â¨    KEOGH (H.R.10) (Custodian signature required) *   Â¨    JOINT TENANTS WITH RIGHTS OF SURVIVORSHIP (All parties must sign)    Â¨    CUSTODIAL/UGMA (circle one) (Custodian signature required) *   Â¨    COMMUNITY PROPERTY    Â¨   TOD - Transfer On Death (must be titled as an Individual or as Joint Tenants only - special form required) 
+   
+ *   Â¨ 
+    
+   
+ TENANTS IN COMMON 
+ (All parties must sign) 
+       *   Â¨    IRA    Â¨    401(k) (Trustee signature required)    (Individual Retirement Account)          (Investor and Custodian must sign)             Â¨    OTHER (Please describe) *   Â¨    ROTH IRA          (Investor and Custodian must sign)       
+   
+ *   Â¨    SEP/IRA       
+   
+    (Investor and Custodian must sign)       
+   
+   
+          
+   
+          
+   
+          
+   
+ 
+   
+ * Two or more signatures required. Complete Sections 1 through 6 where applicable 
+   
+ 29 
+ 
+ 
+ 
+ 1.       
+   INVESTOR NAME AND ADDRESS   Type or print your name(s) exactly as the title should appear in the account records of the partnership. Complete this section for all trusts other than IRA/Keogh or other qualified plans. If IRA/Keogh or qualified plan, Section 2 must also be completed. All checks and correspondence will go to this address unless another address is listed in Sections 2 or 5  below.      Â¨  Mr.         Â¨  Mrs.         Â¨  Ms.         Â¨  Dr.                       Name as it will appear on the account (How title should be held)                       (Additional Name(s) if held in joint tenancy, community property, tenants-in-common)                       Street Address                             City    State        Zip Code                     Home Phone Number       Social Security #/ Taxpayer ID# 
+A social security number or taxpayer identification number is required for each individual investor. (For IRAs, Keoghs (HR10) and qualified plans, the taxpayer identification number is your plan or account tax or employer identification number. For most individual taxpayers, it is your social security number. NOTE: If the units are to be held in more than on e name, only one number will be used and will be that of the first person listed). 
+   
+ 
+ 2.       
+   CUSTODIAN/ TRUST COMPANY REGISTRATION    Name of Custodian/Trust Company:        
+   
+        Please print here the exact name of Custodian/Trust Company      
+   
+      Address           
+   
+      City   State        Zip Code      
+   
+      Taxpayer ID#   Client Account Number      SIGNATURE:                                                                                                                   (X)    (Custodian/Trust Company)      
+ 3.       
+   INVESTMENT    Number of units to be purchased      
+   
+  Minimum subscription is 2,000 units at $1 per unit ($2,000), with additional investments of any amount with minimum of 1,000 units ($1,000) for existing limited partners.                        Amount of payment enclosed      
+   
+                               
+ Please make check payable to "Redwood Mortgage Investors VIII" 
+   
+ 30 
+ 
+ 
+If the investor has elected to compound their share of monthly, quarterly or annual income (see 4. below), then the interest earned on subscription funds until admission to the partnership will be invested in additional units on behalf of the investor; therefore, the actual number of units to be issued to the investor upon admission to the partnership will b e increased. 
+ Check one:             Â¨   Initial Investment             Â¨   Additional Investment* 
+   
+ * A completed Subscription Agreement is required for each initial and additional investment 
+   
+ 
+ 4. 
+    DISTRIBUTIONS    Does the investor wish to have his income compounded or distributed?       Check One:   Â¨  Compounded or   Â¨  Distributed The election to compound income may be changed after three (3) years.       The election to distribute income is irrevocable.       If income is to be distributed:       Check One:   Â¨  Monthly   Â¨  Quarterly  Â¨   **Annually (**payable only on 12/31) 
+   
+ 5.    SPECIAL ADDRESS FOR CASH DISTRIBUTIONS    
+   
+    (If the same as in Sections 1 or 2, please disregard)    Name       Client Account #       
+   
+       Address             
+   
+       City    State        Zip Code 
+If cash distributions are to be sent to an address other than that listed, in Sections 1 or 2, please enter the information here. All other communications will be mailed to the investor's registered address of record under Sections 1 or 2. In no event will the partnership or its affiliates be responsible for any adverse consequences of direct deposits. 
+   
+ DIRECT DEPOSIT    Check one:    Checking:   Â¨    Savings:   Â¨    Account #                                                  ABA (Routing) #                                                
+(Must attach original voided check for checking account deposits, deposit slip for savings account deposits) 
+   
+ 6.    SIGNATURES    IN WITNESS WHEREOF, the undersigned has executed below this        day of               , 200     at                                    (City)       Investor's primary residence is in                        (State)    (X)    
+   
+       (Investor Signature and Title)    (X)    
+   
+       (Investor Signature and Title) 
+   
+ 31 
+ 
+ 
+ 7.    BROKER-DEALER DATA   The undersigned broker-dealer hereby certifies that (i) a copy of the (To be completed by selling prospectus, as amended and/or supplemented to date, has been delivered to the broker-dealer) above investor; and (ii) that the appropriate suitability determination as set forth in the prospectus has been made and that the appropriate records are being maintaine d.    (X)    
+   
+       Broker-Dealer Authorized Signature (Required on all Applications)       Broker-Dealer Name:    
+   
+       Street Address:    
+   
+       City, State, Zip Code:    
+   
+       Registered Representative       Name (Last, First):    
+   
+       Street Address:    
+   
+       City, State, Zip Code    
+   
+       Phone No.:    
+   
+ 
+The registered representative, by signing below, certifies that he has reasonable grounds to believe, on the basis of information obtained from the investor concerning his investment objectives, other investments, financial situation and needs and any other information known by the selling broker-dealer, that investment in the units is suitable for the investor and that suitability records are being maintained; and that he has informed the investor of all pertinent facts relating to the liquidity and marketability of the units. 
+   
+      Registered Representative's Signature:      (X)   
+   
+ 8.    
+ ACCEPTANCE 
+This subscription will not be an effective agreement until it or a facsimile is signed by a general partner of Redwood Mortgage Investors VIII, a California limited partnership 
+   
+ This subscription accepted 
+   
+REDWOOD MORTGAGE INVESTORS VIII, A California Limited Partnership 900 Veterans Blvd., Suite 500 Redwood City CA 94063 
+   
+ (650) 365-5341 
+        By:                                                                                                        (Office Use Only)             Partner #:   
+   
+      Date Entered:   
+   
+      Check Amount:   
+ $             
+      Check Date:   
+   
+      Check Number:   
+   
+        
+   
+ 32 
+ 
+ 
+ SPECIAL NOTICE FOR CALIFORNIA RESIDENTS ONLY 
+ COMMISSIONER'S RULE 260.141.11 
+ 260.141.11 Restriction on Transfer 
+(a) The issuer of any security upon which a restriction on transfer has been imposed pursuant to Sections 260.102.6, 260.141.10 or 260.534 shall cause a copy of this section to be  delivered to each issuee or transferee of such security. 
+(b) It is unlawful for the holder of any such security to consummate a sale or transfer of such security, or any interest therein, without the prior written consent of the Commissi oner (until this condition is removed pursuant to Section 260.141.12 of these rules), except: 
+ (1) to the issuer; 
+ (2) pursuant to the order or process of any court; 
+(3) to any person described in Subdivision (i) of Section 25102 of the Code or Section 260.105.14 of these rules; 
+(4) to the transferor's ancestors, descendants or spouse or any custodian or trustee for the account of the transferor or the transferor's ancestors, descendants or spouse; or to a transferee by a trustee or custodian for the account of the transferee or the transferee's ancestors, descendants or spouse; 
+ (5) to the holders of securities of the same class of the same issuer; 
+ (6) by way of gift or donation inter vivos or on death; 
+(7) by or through a broker-dealer licensed under the Code (either acting as such or as a finder) to a resident of a foreign state, territory or country who is neither domiciled in this state to the knowledge of the broker-dealer, nor actually present in this state if the sale of such securities is not in violation of any securities law of the foreign state,  territory or country concerned; 
+(8) to a broker-dealer licensed under the Code in a principal transaction, or as an underwriter or member of an underwriting syndicate or group; 
+(9) if the interest sold or transferred is a pledge or other lien given by the purchaser to the seller upon a sale of the security for which the Commissioner's written consent is o btained or under this rule is not required; 
+(10) by way of a sale qualified under Sections 25111, 25112, or 25113, or 25121 of the Code, of the securities to be transferred, provided that no order under Section 25140 or Subd ivision (a) of Section 25143 is in effect with respect to such qualification; 
+(11) by a corporation to a wholly owned subsidiary of such corporation, or by a wholly owned subsidiary of a corporation to such corporation; 
+(12) by way of an exchange qualified under Section 25111, 25112, or 25113 of the Code, provided that no order under Section 25140 or Subdivision (a) of Section 25148 is in effect w ith respect to such qualification; 
+(13) between residents of foreign states, territories or countries who are neither domiciled nor actually present in this state; 
+(14) to the State Controller pursuant to the Unclaimed Property Law or to the administrator of the unclaimed property law of another state; or 
+(15) by the State Controller pursuant to the Unclaimed Property Law or to the administrator of the unclaimed property law of another state, if, in either such case, such person (i) discloses to potential purchasers at the sale that transfer of the securities is restricted under this rule, (ii) delivers to each purchaser a copy of this rule, and (iii) advises  the Commissioner of the name of each purchaser; 
+(16) by a trustee to a successor trustee when such transfer does not involve a change in the beneficial ownership of the securities, provided that any such transfer is on the condition that any certificate evidencing the security issued to such transferee shall contain the legend required by this section. 
+   
+ 33 
+ 
+ 
+        (c) The certificates representing all such securities subject to such a restriction on transfer, whether upon initial issuance or upon any transfer thereof, shall bear on their face a legend, prominently stamped or printed thereon in capital letters of not less than 10-point size, reading as follows: 
+"IT IS UNLAWFUL TO CONSUMMATE A SALE OR TRANSFER OF THIS SECURITY, OR ANY INTEREST THEREIN, OR TO RECEIVE ANY CONSIDERATION THEREFOR, WITHOUT THE PRIOR WRITTEN CONSENT OF THE COMMISSIONER OF CORPORATIONS OF THE STATE OF CALIFORNIA, EXCEPT AS PERMITTED IN THE COMMISSIONER'S RULES." 
+   
+ 34 
+ 
+ 
+ SUBSCRIPTION AGREEMENT AND POWER OF ATTORNEY 
+ REDWOOD MORTGAGE INVESTORS VIII, 
+ A California Limited Partnership 
+ UNSOLICITED SALES 
+The undersigned hereby applies to become a limited partner in REDWOOD MORTGAGE INVESTORS VIII, a California limited partnership (the "partnership"), and subscribes to purchase the number of units specified herein in accordance with the terms and conditions of the limited partnership agreement attached as Exhibit A to the prospectus dated July 28, 2005. 
+1. Representations and Warranties. The undersigned represents and warrants to the partnership and its general partners as follows: 
+(a) I have received, read and understand the prospectus dated July 28, 2005, and in making this investment I am relying only on the information provided therein. I have not relied  on any statements or representations inconsistent with those contained in the prospectus. 
+(b) I, or the fiduciary account for which I am purchasing, meet the applicable suitability standards and financial requirements set forth in the prospectus under "INVESTOR SUITABIL ITY STANDARDS" as they pertain to the state of my primary residence and domicile. 
+(c) I am aware that this subscription may be rejected in whole or in part by the general partners in their sole and absolute discretion; that my investment, if accepted, is subject to certain risks described in part in "RISK FACTORS" set forth in the prospectus; and that there will be no public market for units, and accordingly, it may not be possible for me  to readily liquidate my investment in the partnership. 
+(d) I have been informed by the participating broker-dealer firm specified herein, if any, of all pertinent facts relating to the lack of liquidity or marketability of this investment. I understand that units may not be sold or otherwise disposed of without the prior written consent of the general partners, which consent may be granted or withheld in their sole discretion, that any transfer is subject to numerous other restrictions described in the prospectus and in the limited partnership agreement, and that if I am a resident of California or if the transfer occurs in California, any such transfer is also subject to the prior written consent of the California Commissioner of Corporations. I have liquid assets sufficient to assure myself that such purchase will cause me no undue financial difficulties and that I can provide for my current needs and possible personal contingencies, or if I am the trustee of a retirement trust, that the limited liquidity of the units will not cause difficulty in meeting the trust's obligations to make distributions to plan particip ants in a timely manner. 
+(e) I am of the age of majority (as established in the state in which I am domiciled) if I am an individual, and in any event, I have full power, capacity, and authority to enter into a contractual relationship with the partnership. If acting in a representative or fiduciary capacity for a corporation, partnership or trust, or as a custodian or agent for any person or entity, I have full power or authority to enter into this subscription agreement in such capacity and on behalf of such corporation, partnership, trust, person or entity . 
+(f) By virtue of my own investment acumen and experience or financial advice from my independent advisors (other than a person receiving commissions by reason of my purchase of uni ts), I am capable of evaluating the risks and merits of an investment in the partnership. 
+(g) I am buying the units solely for my own account, or for the account of a member or members of my immediate family or in a fiduciary capacity for the account of another person o r entity and not as an agent for another. 
+(h) I acknowledge and agree that counsel representing the partnership, the general partners and their affiliates does not represent me and shall not be deemed under the applicable codes of professional responsibility to have represented or to be representing me or any of the limited partners in any respect. 
+(i) If I am buying the units in a fiduciary capacity or as a custodian for the account of another person or entity, I have been directed by that person or entity to purchase the unit(s), and such person or entity is aware of my purchase of units on their behalf, and consents thereto and is aware of the merits and risks involved in the investment in the partn ership. 
+   
+ 35 
+ 
+ 
+BY MAKING THESE REPRESENTATIONS, THE SUBSCRIBER HAS NOT WAIVED ANY RIGHT OF ACTION AVAILABLE UNDER APPLICABLE FEDERAL OR STATE SECURITIES LAWS INCLUDING BUT NOT LIMITED TO THE SECU RITIES ACT OF 1933. 
+2. Power of Attorney. The undersigned hereby irrevocably constitutes and appoints the general partners, and each of them, either one acting alone, as his true and lawful attorney-in-fact, with full power and authority for him, and in his name, place and stead, to execute, acknowledge, publish and file: 
+(a) The limited partnership agreement and any amendments thereto or cancellations thereof required under the laws of the State of California; 
+(b) Any other instruments, and documents as may be required by, or may be appropriate under, the laws of any state or other jurisdiction in which the partnership is doing or intend s to do business; and 
+(c) Any documents which may be required to effect the continuation of the partnership, the admission of an additional or substituted limited partner, or the dissolution and termina tion of the partnership. 
+The power of attorney granted above is a special power of attorney coupled with an interest, is irrevocable, and shall survive the death or incapacity of the undersigned or, if the undersigned is a corporation, partnership, trust or association, the dissolution or termination thereof. The power of attorney shall also survive the delivery of an assignment of units by a limited partner; provided, that where the assignee thereof has been approved by the general partners for admission to the partnership as a substituted limited partner, such power of attorney shall survive the delivery of such assignment for the sole purpose of enabling the general partners to execute, acknowledge, file and record any instrument ne cessary to effect such substitution. 
+3. Acceptance. This subscription agreement will be accepted or rejected by a general partner within thirty (30) days of its receipt by the partnership. The general partners also reserve the right to revoke its acceptance within such thirty (30) day period. Upon acceptance, this subscription will become irrevocable, and will obligate the undersigned to purchase the number of units specified herein, for the purchase price of $1 per unit. The general partners will return a countersigned copy of this subscription agreement to accepted sub scribers, which copy (together with my canceled check) will be evidence of my purchase of units. 
+4. Payment of Subscription Price. The full purchase price for units is $1 per unit, payable in cash concurrently with delivery of this subscription agreement. I understand that my subscription funds will be held by the general partners until my funds are needed by the partnership to fund a mortgage investment or for other proper partnership purposes, and only then will I actually be admitted to the partnership. In the interim, my subscription funds will earn interest at passbook savings accounts rates. If I elect to receive monthly, quarterly or annual cash distributions, then such interest will be returned to me after I am admitted to the partnership. If I elect to allow my share of partnership income to be paid in the form of additional units that will be reinvested by the partnership, then such interest will be invested in the partnership in which case I understand that the number of units I initially subscribed for will be increased accordingly. If I initially elect to receive additional units and reinvest my share of partnership income, I may after three (3) years change my election and receive monthly, quarterly or annual cash distributions. I understand that if I initially elect to receive monthly, quarterly or annual cash distributions, my election to receive cash distributions is irrevocable. However, I understand that I may change whether I receive such distributions on a monthly, quarterly or annual basis. 
+5. THE UNDERSIGNED AGREES TO INDEMNIFY AND HOLD REDWOOD MORTGAGE INVESTORS VIII, A CALIFORNIA LIMITED PARTNERSHIP, AND ITS GENERAL PARTNERS AND OTHER AGENTS AND EMPLOYEES HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS, DEMANDS, LIABILITIES, AND DAMAGES, INCLUDING, WITHOUT LIMITATION, ALL ATTORNEYS' FEES WHICH SHALL BE PAID AS INCURRED) WHICH ANY OF THEM MAY INCUR, IN ANY MANNER OR TO ANY PERSON, BY REASON OF THE FALSITY, INCOMPLETENESS OR MISREPRESENTATION OF ANY INFORMATION FURNISHED BY THE UNDERSIGNED HEREIN OR IN ANY DOCUMENT SUBMITT ED HEREWITH. 
+6. Signature. The undersigned represents that: (a) I have read the foregoing and that all the information provided by me is accurate and complete; and (b) I will notify the general partners immediately of any material adverse change in any of the information set forth herein which occurs prior to the acceptance of my subscription. 
+   
+ 36 
+ 
+ 
+ REDWOOD MORTGAGE INVESTORS VIII 
+ SUBSCRIPTION AGREEMENT 
+ PLEASE READ THIS AGREEMENT BEFORE SIGNING 
+   
+ Type of Ownership: (check one)      Â¨    INDIVIDUAL    Â¨    PENSION PLAN (Trustee signature required)      Â¨    
+ TRUST (Trustee signature required) 
+ (Title page, Successor Trustee page and signature pages of the Trust Agreement MUST be enclosed) 
+    Â¨    PROFIT SHARING PLAN (Trustee signature required)       Â¨    KEOGH (H.R.10) (Custodian signature required) *   Â¨    
+ JOINT TENANTS WITH RIGHTS OF SURVIVORSHIP 
+ (All parties must sign) 
+    Â¨    CUSTODIAL/UGMA (circle one) (Custodian signature required) *   Â¨    COMMUNITY PROPERTY    Â¨   TOD - Transfer On Death (must be titled as an Individual or as Joint Tenants only - special form required) 
+   
+ *   Â¨ 
+    
+   
+ TENANTS IN COMMON 
+ (All parties must sign) 
+       *   Â¨    
+ IRA 
+ (Individual Retirement Account) 
+ (Investor and Custodian must sign) 
+    Â¨    401(k) (Trustee signature required)       Â¨    OTHER (Please describe) *   Â¨    ROTH IRA          (Investor and Custodian must sign)       
+   
+ *   Â¨    SEP/IRA       
+   
+    (Investor and Custodian must sign)       
+   
+   
+          
+   
+          
+   
+          
+   
+ 
+   
+ * Two or more signatures required. Complete Sections 1 through 6 where applicable 
+   
+ 37 
+ 
+ 
+ 
+ 1.       
+   INVESTOR NAME AND ADDRESS   Type or print your name(s) exactly as the title should appear in the account records of the partnership. Complete this section for all trusts other than IRA/Keogh or other qualified plans. If IRA/Keogh or qualified plan, Section 2 must also be completed. All checks and correspondence will go to this address unless another address is listed in Sections 2 or 5  below.      Â¨  Mr.          Â¨  Mrs.         Â¨  Ms.          Â¨  Dr.                       Name as it will appear on the account (How title should be held)                 (Additional Name(s) if held in joint tenancy, community property, tenants-in-common)                 Street Address                           City    State        Zip Code                 Home Phone Number       Social Security#/ Taxpayer ID# 
+A social security number or taxpayer identification number is required for each individual investor. (For IRAs, Keoghs (HR10) and qualified plans, the taxpayer identification number is your plan or account tax or employer identification number. For most individual taxpayers, it is your social security number. NOTE: If the units are to be held in more than on e name, only one number will be used and will be that of the first person listed). 
+   
+ 
+ 2.       
+   CUSTODIAN/ TRUST COMPANY REGISTRATION    Name of Custodian/Trust Company:    
+   
+         Please print here the exact name of Custodian/ Trust Company                 Address                           City    State        Zip Code                 Taxpayer ID#       Client Account Number      SIGNATURE:                    (X)        (Custodian/Trust Company)    
+ 3.       
+   
+ INVESTMENT 
+Minimum subscription is 2,000 units at $1 per unit ($2,000), with additional investments of any amount with minimum of 1,000 units ($1,000) for existing limited partners. 
+    
+ Number of units to be purchased 
+   
+ Amount of payment enclosed 
+       
+                                                                                                             
+   
+                                                                                                             
+   Please make check payable to "Redwood Mortgage Investors VIII" 
+   
+ 38 
+ 
+ 
+If the investor has elected to compound their share of monthly, quarterly or annual income (see 4. below), then the interest earned on subscription funds until admission to the partnership will be invested in additional units on behalf of the investor; therefore, the actual number of units to be issued to the investor upon admission to the partnership will b e increased. 
+ Check one:             Â¨   Initial Investment             Â¨   Additional Investment* 
+   
+ * A completed Subscription Agreement is required for each initial and additional investment 
+   
+ 4.    DISTRIBUTIONS    Does the investor wish to have his income compounded or distributed?       Check One:   Â¨  Compounded or   Â¨  Distributed       The election to compound income may be changed after three (3) years.       The election to distribute income is irrevocable.       If income is to be distributed:          Check One:   Â¨  Monthly   Â¨  Quarterly   Â¨  **Annually (**payable only on 12/31) 5.    SPECIAL ADDRESS FOR CASH DISTRIBUTIONS    
+   
+    (If the same as in Sections 1 or 2, please disregard)    Name       Client Account#       
+   
+       Address             
+   
+       City    State            Zip Code 
+If cash distributions are to be sent to an address other than that listed, in Sections 1 or 2, please enter the information here. All other communications will be mailed to the investor's registered address of record under Sections 1 or 2. In no event will the partnership or its affiliates be responsible for any adverse consequences of direct deposits. 
+   
+ 
+ DIRECT DEPOSIT 
+    
+ Check one: 
+    
+ Checking:   Â¨ 
+    
+ Savings:   Â¨ 
+    
+ Account#                                        
+    ABA (Routing)#                                       
+(Must attach original voided check for checking account deposits, deposit slip for savings account deposits) 
+   
+ 6.    SIGNATURES       IN WITNESS WHEREOF, the undersigned has executed below this        day of               , 200     at                                    (City)          Investor's primary residence is in                        (State)       (X)    
+   
+          (Investor Signature and Title)       (X)    
+   
+          (Investor Signature and Title) 
+   
+ 39 
+ 
+ 
+ 7. ADVISOR DATA (To be completed by recommending advisor) 
+The undersigned advisor hereby certifies that (i) a copy of the prospectus, as amended and/or supplemented to date, has been delivered to the above investor; and (ii) that the appropriate suitability determination as set forth in the prospectus has been made and that the appropriate records are being maintained. 
+   
+ 
+ Advisor: 
+     
+ Last Name First: 
+   
+   
+   
+ Street Address: 
+   
+   
+   
+ City, State, Zip Code: 
+   
+   
+   
+ Telephone Number 
+   
+   
+   
+ Broker-Dealer Affiliated?     Â¨   YES     Â¨   NO    Broker-Dealer Name                       
+ Are you a registered investment advisor ("RIA") under applicable state or federal law?     Â¨   YES     Â¨   NO 
+The advisor, by signing below, (1) certifies that he has reasonable grounds to believe, on the basis of information obtained from the investor concerning his investment objectives, other investments, financial situation and needs and any other information known by the advisor, that investment in the units is suitable for the investor and that suitability records are being maintained; (2) certifies that if the advisor is affiliated with an NASD firm, that all fees received by him in connection with this transaction will be run through the books and records of the NASD member firm in compliance with Notice to Members 96-33 and Rules 3030 and 3040 of the NASD Conduct Rules; (3) that he has informed the investor of all pertinent facts relating to the liquidity and marketability of the units; (4) the undersigned agrees and acknowledges that the general partners are relying upon the certification of the undersigned herein with respect to the suitability of the client to purchase limited partnership units in the partnership; (5) that if the undersigned's client has elected to pay client fees from earnings, the undersigned hereby represents and warrants that he is a registered investment advisor under applicable federal and/or state securities laws; (6) that, if applicable, he understands and acknowledges that neither the partner- ship or the general partners shall have any liability to him with respect to any client fees paid from investors' earnings under the authorization agreement and that the general partners and the partnership in no way guarantee that there will be sufficient cash for distribution to investors and, thus in the case of a signed authorization agreement, sufficient cash for the investor to pay his client fees from earnings; and (7) that, in any dispute between the undersigned and the investor regarding payment of client fees, the partnership and the general partners will respect the wishes of the investor and that the general partner s and the partnership will have no liability to the undersigned as a result thereof. 
+   
+ 
+ Advisor's Signature 
+   
+   
+   
+ Print or Type Name: 
+   
+   
+   
+Please check applicable box. (Only clients of RIAs may elect to have client fees paid, provided such client fees are no more than 2% annually of the RMI VIII assets under managemen t which, for purposes of this subscription agreement is the investor's capital account.): 
+ Â¨ Yes, client fees paid. If client fees are to be paid, a completed authorization to make payments of client fees ("authorization") attached hereto must be completed, signed and ret urned to the general partners along with this subscription agreement. 
+If the investor has elected to receive cash distributions, client fees will be calculated on a monthly basis, based upon the capital account balance of the investor at the end of t he month. Such client fees will be paid to the advisor on a monthly basis. 
+If the Investor has elected to reinvest their earnings in lieu of receiving periodic cash distributions, client fees will be calculated on a monthly basis, based upon the capital account balance of the investor at the end of the month. Such client fees shall be paid to the advisor on a monthly basis. 
+ Â¨  No client fees paid from earnings or distributions 
+   
+ 40 
+ 
+ 
+ 8.    
+ ACCEPTANCE 
+This subscription will not be an effective agreement until it or a facsimile is signed by a general partner of Redwood Mortgage Investors VIII, a California limited partnership 
+   
+ This subscription accepted 
+   
+ REDWOOD MORTGAGE INVESTORS VIII, 
+ A California Limited Partnership 
+ 900 Veterans Blvd., Suite 500 
+ Redwood City CA 94063 
+   
+ (650) 365-5341 
+        By:                                                                                                        (Office Use Only)             Partner #:   
+   
+      Date Entered:   
+   
+      Check Amount:   
+ $             
+      Check Date:   
+   
+      Check Number:   
+   
+        
+   
+ 41 
+ 
+ 
+ REDWOOD MORTGAGE INVESTORS VIII 
+ AUTHORIZATION TO MAKE PAYMENTS OF CLIENT FEES 
+ FOR INVESTORS WHO UTILIZE THE SERVICES OF REGISTERED INVESTMENT ADVISORS 
+The undersigned limited partner hereby certifies that the undersigned is a limited partner owning units in Redwood Mortgage Investors VIII (the "partnership" or "RMI VIII"). By signing and delivering this authorization to the partnership and the general partners, the undersigned hereby authorizes and directs the partnership to pay to the person or entity set forth below as the payee an estimated annual amount equal to     % (not more than 2% annually) of the undersigned's capital account ("client fees"). All client fees payable will be calculated on a monthly basis based upon the capital account balance of the investor at the end of the month. If the investor elected to receive periodic cash distributions, such client fees will be paid at the same time the investor receives distributions, either monthly, quarterly or annually. If the investor has elected to reinvest earnings in lieu of receiving periodic cash distributions, such client fees shall be paid to the advisor on either a monthly, quarterly or annual basis as determined by the investor in the completed subscription agreement. The capital accounts of the limited partners who elect to pay client fees through the partnership will be less than the capital accounts of limited partners w ho do not pay client fees or who do pay client fees through the partnership. 
+The undersigned acknowledges and agrees that neither the partnership nor the general partners shall have any liability for disbursements made pursuant to this authorization. The undersigned acknowledges that all periodic cash distributions by the partnership are non-cumulative. Further, the undersigned acknowledges that the general partners are in no way guaranteeing that there will be sufficient cash flow for periodic cash distributions or that such distributions will be sufficient to make the payments authorized by this agreement. In the event of insufficient earnings, the partnership and the general partners shall have no liability to the undersigned or the payee. The undersigned further acknowledges and agrees that the partnership is authorized to comply with this request unless and until this authorization is expressly revoked in writing and terminated by the undersigned limited partner. Any revocation of this authorization shall be effective the quarter after the quarter in which it is received by the partnership. 
+   
+ PAYEE (1)     LIMITED PARTNER Please designate whether Advisor or Broker/Dealer Firm 
+   
+     
+   
+ Name of Payee - Please Print     Name of Limited Partner - Please Print 
+   
+     
+   
+ Authorized Signature of Payee     Signature of Limited Partner (or Trustee) 
+   
+     
+   
+ Firm Name     Signature of Joint Owner (if applicable) 
+   
+     
+   
+ Street Address     Date of Admission 
+   
+ 
+   
+   City,    State,    Zip Code   
+Limited partners in RMI VIII (the "partnership") who utilized the services of an advisor may authorize the direct payment by the partnership of a portion of the earnings otherwise distributable to them or otherwise used to acquire additional units by executing this authorization and delivering it to the partnership. Execution of the authorization is at the option of the limited partner and is not required in connection with an investment in the partnership. This authorization is not intended to describe an investment in the partnership or to be used as sales material or in any other manner in connection with the offer or sale of units in the partnership. An offer to sell units of the partnership may only be made by the prospectus. This document is not authorized to be used in any way in connection with the offer or sale of units in the partnership, and unauthorized use of this document i s strictly prohibited and may constitute a violation of federal and state securities laws. 
+ PLEASE INCLUDE DOCUMENT WITH THE COMPLETED SUBSCRIPTION AGREEMENT 
+   
+   
+ (1)If the advisor is affiliated with an NASD broker-dealer firm, all fees received by him in connection with this transaction will be run through the books and records of the NASD mem ber in compliance with Notice to Members 96-33 and Rules 3030 and 3040 of the NASD Conduct Rules 
+   
+ 42 
+ 
+ 
+ SPECIAL NOTICE FOR CALIFORNIA RESIDENTS ONLY 
+ COMMISSIONER'S RULE 260.141.11 
+ 260.141.11 Restriction on Transfer 
+(a) The issuer of any security upon which a restriction on transfer has been imposed pursuant to Sections 260.102.6, 260.141.10 or 260.534 shall cause a copy of this section to be  delivered to each issuee or transferee of such security. 
+(b) It is unlawful for the holder of any such security to consummate a sale or transfer of such security, or any interest therein, without the prior written consent of the Commissi oner (until this condition is removed pursuant to Section 260.141.12 of these rules), except: 
+ (1) to the issuer; 
+ (2) pursuant to the order or process of any court; 
+(3) to any person described in Subdivision (i) of Section 25102 of the Code or Section 260.105.14 of these rules; 
+(4) to the transferor's ancestors, descendants or spouse or any custodian or trustee for the account of the transferor or the transferor's ancestors, descendants or spouse; or to a transferee by a trustee or custodian for the account of the transferee or the transferee's ancestors, descendants or spouse; 
+ (5) to the holders of securities of the same class of the same issuer; 
+ (6) by way of gift or donation inter vivos or on death; 
+(7) by or through a broker-dealer licensed under the Code (either acting as such or as a finder) to a resident of a foreign state, territory or country who is neither domiciled in this state to the knowledge of the broker-dealer, nor actually present in this state if the sale of such securities is not in violation of any securities law of the foreign state,  territory or country concerned; 
+(8) to a broker-dealer licensed under the Code in a principal transaction, or as an underwriter or member of an underwriting syndicate or group; 
+(9) if the interest sold or transferred is a pledge or other lien given by the purchaser to the seller upon a sale of the security for which the Commissioner's written consent is o btained or under this rule is not required; 
+(10) by way of a sale qualified under Sections 25111, 25112, or 25113, or 25121 of the Code, of the securities to be transferred, provided that no order under Section 25140 or Subd ivision (a) of Section 25143 is in effect with respect to such qualification; 
+(11) by a corporation to a wholly owned subsidiary of such corporation, or by a wholly owned subsidiary of a corporation to such corporation; 
+(12) by way of an exchange qualified under Section 25111, 25112, or 25113 of the Code, provided that no order under Section 25140 or Subdivision (a) of Section 25148 is in effect w ith respect to such qualification; 
+(13) between residents of foreign states, territories or countries who are neither domiciled nor actually present in this state; 
+(14) to the State Controller pursuant to the Unclaimed Property Law or to the administrator of the unclaimed property law of another state; or 
+(15) by the State Controller pursuant to the Unclaimed Property Law or to the administrator of the unclaimed property law of another state, if, in either such case, such person (i) discloses to potential purchasers at the sale that transfer of the securities is restricted under this rule, (ii) delivers to each purchaser a copy of this rule, and (iii) advises  the Commissioner of the name of each purchaser; 
+(16) by a trustee to a successor trustee when such transfer does not involve a change in the beneficial ownership of the securities, provided that any such transfer is on the condition that any certificate evidencing the security issued to such transferee shall contain the legend required by this section. 
+   
+ 43 
+ 
+ 
+        (c) The certificates representing all such securities subject to such a restriction on transfer, whether upon initial issuance or upon any transfer thereof, shall bear on t heir face a legend, prominently stamped or printed thereon in capital letters of not less than  10-point  size, reading as follows: 
+"IT IS UNLAWFUL TO CONSUMMATE A SALE OR TRANSFER OF THIS SECURITY, OR ANY INTEREST THEREIN, OR TO RECEIVE ANY CONSIDERATION THEREFOR, WITHOUT THE PRIOR WRITTEN CONSENT OF THE COMMISSIONER OF CORPORATIONS OF THE STATE OF CALIFORNIA, EXCEPT AS PERMITTED IN THE COMMISSIONER'S RULES." 
+   
+ 44 

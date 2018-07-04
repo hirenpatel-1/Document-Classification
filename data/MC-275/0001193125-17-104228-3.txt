@@ -1,0 +1,117 @@
+ htm 35786 Material contracts 10 2017-03-30T16:31:34.345072-05:00 Filing 0001193125-17-104228 2017-03-30 10-K Annual  & Quarterly Reports 0001341235 Aldeyra Therapeutics, Inc. ALDX COM Nasdaq Capital Market 2834 Pharmaceutical Preparations No MASSACHUSETTS DELAWARE DELAWARE Aldexa Therapeutics, Inc.;Neuron Systems Inc false Small Reporting Company 001-36332 EX-10.25 Exhibit Exhibit 3 d318309dex1025.htm EX-10.25 3 d318309dex1025.htm EX-10.25 
+ Exhibit 10.25 
+ A LDEYRA  T HERAPEUTICS , I NC . 
+ C HANGE   IN  C ONTROL  P LAN 
+ ARTICLE 1. INTRODUCTION. 
+ The Aldeyra Therapeutics, Inc. Change in Control Plan (the " Plan ") is established effective March 28, 2017 (the " Effective Date"). The purpose of the Plan is to provide for the accelerated vesting for outstanding unvested equity awards held by eligible employees of Aldeyra Therapeutics, Inc. and its Affili ates (the " Company") if such employees are subject to a qualifying employment termination in connection with a Change in Control. This Plan shall supersede (i) any generally applicable severance or change in control plan, policy or practice, whether written or unwritten, and (ii) any individually negotiated and signed employment contract or agreement solely with respect to the vesting of equity awards in connection with a Change in Control with respect to each employee who becomes a Participant in the Plan. In addition, the Plan does not modify any post-employment covenants of a Participant pursuant to Company policies or agreements between the Participant and the Company. 
+ ARTICLE 2. DEFINITIONS. 
+ For purposes of the Plan, the following terms are defined as follows: 
+ (a) " Affiliate" means an entity that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with the Company. 
+ (b) " Board " means the Board of Directors of Aldeyra Therapeutics, Inc. 
+ (c) " Cause" shall mean the Company's good faith determination that any one or more of the following has occurred with respect to the participant: 
+(i) an act or acts of personal dishonesty taken by the Participant and intended to result in substantial personal enrichment of the Participant at the expense of the Company; 
+(ii) repeated violations by the Participant of the Participant's duties and obligations (other than as a result of incapacity due to physical or mental illness) which are demonstrably willful and deliberate on the Participant's part, which are committed in bad faith or without reasonable belief that such violations are in the best interests of the Company and which are not remedied in a reasonable period of time after receipt of written notice from the Company; 
+ (iii) indictment or plea of  nolo contendere  of Participant of a felony involving moral turpitude; or 
+ (iv) the material breach of the Participant's Proprietary Information and Inventions Agreement. 
+ (d) " Change in Control " shall mean any of the following has occurred: 
+   
+ 1 
+ 
+ 
+(i) Any "person" (as such term is used in Sections 13(d) and 14(d) of the Exchange Act) becomes the "beneficial owner" (as defined in Rule 13d-3 of the Exchange Act), directly or indirectly, of securities of the Company representing more than fifty percent (50%) of the total voting power represented by the Company's then-outstanding voting securities; 
+(ii) The consummation of the sale or disposition by the Company of all or substantially all of the Company's assets; 
+(iii) The consummation of a merger or consolidation of the Company with or into any other entity, other than a merger or consolidation which would result in the voting securities of the Company outstanding immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity or its parent) more than fifty percent (50%) of the total voting power represented by the voting securities of the Company or such surviving entity or its parent outstanding immediat ely after such merger or consolidation; or 
+ (iv) Individuals who are members of the Board (the " Incumbent Board") cease for any reason to constitute at least a majority of the members of the Board over a period of 12 months; provided, however, that if the appointment or election (or nomination for election) of any new Board member was approved or recommended by a majority vote of the members of the Incumbent Board then still in office, such new member shall, for purp oses of this Plan, be considered as a member of the Incumbent Board. 
+(v) A transaction shall not constitute a Change in Control if its sole purpose is to change the state of the Company's incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Company's securities immediately before such transaction.  In addition, if a Change in Control constitutes a payment event with respect to any Award which provides for a deferral of compensation and is subject to Code Section 409A, then notwithstanding anything to the contrary in the Plan or applicable Award Agreement the transaction with respect to such Award must also constitute a "change in control event" as defi ned in Treasury Regulation Section 1.409A-3(i)(5) to the extent required by Code Section 409A. 
+ (e) " Change in Control Termination" means either an Involuntary Termination or a termination for Good Reason, in each case, that occurs within three (3) months prior to or within twelve (12) months following the ef fective date of a Change in Control. 
+ (f) " Code " means the Internal Revenue Code of 1986, as amended. 
+ (g) " Company" means Aldeyra Therapeutics, Inc., its Affiliates, any successor to Aldeyra Therapeutics, Inc. and, following a Change in Control, the surviving or controlling entity resulting from such a Change in Control or the entity to which the Company's assets were transferred in the case where the Change in Control is an asset sale. 
+ (h) " Exchange Act " means the Securities Exchange Act of 1934, as amended. 
+   
+ 2 
+ 
+ 
+ (i)  Good Reason " shall mean with respect to a Category I Participant: 
+(i) a material diminution in a Participant's base salary or target bonus by more than 10% (unless in connection with a company wide cost reduction); 
+(ii) a material diminution in Participant's authority, duties or responsibilities with respect to the Company or any successor or acquiring entity, including, without limitation, any requirement that a Participant who is the Chief Executive Officer report to anyone other than to the Board of Directors of the ultimate parent entity of the Company (the " Ultimate Parent Company") or that a Participant (other than the Chief Executive Officer) report to anyone other than the Chief Executive Officer of the Ultimate Parent Company; 
+(iii) a breach of a material provision of Participant's employment or other written agreement governing employment with the Company (it being understand that a change in title with out Participant's consent shall be a material breach); or 
+(iv) without Participant's prior consent, a relocation of his/her principal workplace by more than fifty (50) miles away from the location which the Participant was working immedia tely prior to the required relocation. 
+A termination shall not be a Good Reason unless (x) the Participant gives the Company written notice of such condition within 90 days after such condition first comes into existence, (y) the Company fails to remedy such condition within 30 days after receiving the Participant's written notice, and (z) the Participant has a Separation within 30 days of the expiration of the cure period described in clause (y) provided that the Company has not cured the Good Reason event or condition. 
+ (j) " Good Reason " shall mean with respect to a Category II Participant: 
+(i) a material diminution in the Participant's base compensation, except in connection with across-the-board salary reductions for all similarly situated employees; or 
+(ii) without Participant's prior consent, a relocation of his/her principal workplace by more than fifty (50) miles away from the location which the Participant was working immedia tely prior to the required relocation. 
+A termination shall not be a Good Reason unless (x) the Participant gives the Company written notice of such condition within 90 days after such condition first comes into existence, (y) the Company fails to remedy such condition within 30 days after receiving the Participant's written notice, and (z) the Participant has a Separation within 30 days of the expiration of the cure period described in clause (y) provided that the Company has not cured the Good Reason event or condition. 
+ (k) " Involuntary Termination" means a Participant's involuntary termination of employment by the Company resulting in a Separation for a reason other than 
+   
+ 3 
+ 
+ 
+Cause, provided that the Participant is willing and able to continue performing services within the meaning of Treasury Regulation Section 1.409A-1(n)(1). 
+ (l) " Participant " means an individual who is employed by the Company or its Affiliates. " Category I Participant," is an employee of the Company or Affiliate who has one of the following job titles: Chief Executive Officer, Chief Financial Officer or Chief Medical Officer or any other office rs of the Company under  Rule 16a-1(f)  of the Securities Exchange Act of 1934 who report to Chief Executive Officer of the Company. " Category II Participant ," is all other employees of the Company other than Category I Participants. 
+ (m) " Plan Administrator" means the Company or any person or committee duly authorized by the Company to administer the Plan. 
+ (n) " Separation" means a "separation from service" with the Company within the meaning of Treasury Regulation Section 1.409A-1(h), without regard to any permissible alternative definition thereun der. 
+ ARTICLE 3. ELIGIBILITY FOR BENEFITS. 
+ (a)  General Rules. Subject to the provisions set forth in this Article 3 and Article 5, in the event of a Change in Control Termination, the Company will provide the benefits described in Article 4  of the Plan to each affected Participant. 
+ (b)  Exceptions to Benefit Entitlement. An employee, including an employee who otherwise is a Participant, will not receive benefits under the Plan (or will receive reduced benefits under the Plan) in the following cir cumstances, as determined by the Plan Administrator in its sole and reasonable discretion: 
+(i) The employee voluntarily terminates employment with the Company in order to accept employment with another entity that is controlled (directly or indirectly) by the Company or  is otherwise an Affiliate of the Company. 
+(ii) The employee terminates or is terminated for any reason other than a Change in Control Termination. 
+(iii) The employee has failed to return all company property, including but not limited to, keys (electronic and mechanical), laptop, projector, pager, software, training manuals, credit cards, access badges, and all hard copy and soft copy files and/or documents (including copies thereof). If any Company property is lost, the employee may cure his or her failure to return such property by signing a declaration under oath that the property has been lost and reimbursing the Company for its replacement cost. As a condition to receiving benefits under the Plan, Participants must not make or retain copies, reproductions or summaries of any such Company documents, materials or property. However, a Participant is not required to return his or her personal copies of documents evidencing the Participant's hire, termination, compensation, benefits and equity awards and any other documentation rec eived as a stockholder of the Company. 
+   
+ 4 
+ 
+ 
+ (c)  Termination of Benefits. A Participant's right to receive the payment of benefits under this Plan shall terminate immediately if, at any time prior to or during the period for which the Participant is receiving benefits hereunder, the Participant, without the prior written approval of the Plan Administrator: 
+(i) willfully breaches a material provision of the Participant's Proprietary Information and Inventions Agreement with the Company; 
+(ii) willfully encourages or solicits any of the Company's then current employees to leave the Company's employ; 
+(iii) willfully disparages, defames, libels or slanders the Company, its Affiliates, business concerns, past and present, and each of them, as well as each of their partners, trustees, directors, officers, agents, attorneys, servants and employees, past and present, and each of them; or 
+(iv) willfully violates any post-employment covenants contained in any other agreement between the Participant and the Company. 
+ ARTICLE 4. CHANGE IN CONTROL TERMINATION BENEFITS. 
+ (a)  Outstanding Equity. If a Category I Participant or a Category II Participant experiences a Change in Control Termination, then notwithstanding anything to the contrary in the Company's 2013 Equity Incentive Plan, 2010 Employee, Director and Consultant Equity Incentive Plan and any other equity or stock option plan governing equity awards or stock option agreements or other plan or agreements, then all outstanding unvested options and equity awards shall be fully vested and non-forfeitable. 
+ (b)  Other Employee Benefits. If a Participant experiences a Change in Control Termination, all other benefits (such as life insurance, disability coverage, and 401(k) plan coverage) shall terminate as of the date of such Change in Control Termination (except to the extent that a conversion privilege may be available thereunder). 
+ ARTICLE 5. LIMITATION ON BENEFITS. 
+ (a)  Non-Duplication of Benefits. Except as otherwise specifically provided for herein, no Participant is eligible to receive benefits under this Plan or pursuant to other contractual obligations more than one time. This Plan is designed to provide change in control benefits to Participants pursuant to the terms and conditions set forth in this Plan. The payments pursuant to this Plan are in addition to, and not in lieu of, any unpaid salary, bonuses or benefits (other than change in control vesting benefits) to which a Participant may be entitled for the period end ing with the Participant's Change in Control Termination. 
+ (b)  Parachute Payments. Except as otherwise provided in an agreement between a Participant and the Company, if any payment or benefit the Participant would receive in connection with a Change in Control  from the Company or otherwise (" Payment") would (i) constitute a "parachute payment" within the meaning of Section 280G of the Code, and (ii) but for this sentence, be subject to the excise tax imposed by Section 4999 o f the Code 
+   
+ 5 
+ 
+ 
+ (the " Excise Tax"), then such Payment shall be equal to the Reduced Amount. The "Reduced Amount" shall be either (x) the largest portion of the Payment that would result in no portion of the Payment being subject to the Excise Tax, or (y) the largest portion, up to and including the total, of the Payment, whichever amount, after taking into account all applicable federal, state and local employment taxes, income taxes, and the Excise Tax (all computed at the highest applicable marginal rate), results in the Participant's receipt of the greatest economic benefit notwithstanding that all or some portion of the Payment may be subject to the Excise Tax. If a reduction in payments or benefits constituting "parachute payments" is ne cessary so that the Payment equals the Reduced Amount, any reduction shall be applied first, on a  pro rata basis, to amounts that constitute deferred compensation within the meaning of Section 409A of the Code, and, in the event that the reductions pursuant to this Article 5(b) exceed payments that are subject to Section 409A of the Code, the remaining reductions shall be applied, on a  pro rata basis, to any other remaining payments. The Company's determinations hereunder shall be final, binding and conclusive on all interested parties. 
+ ARTICLE 6. RIGHT TO INTERPRET PLAN; AMENDMENT AND TERMINATION. 
+ (a)  Exclusive Discretion. The Plan Administrator shall have the discretion and authority to establish rules, forms, and procedures for the administration of the Plan and to construe and interpret the Plan and to decide any and all questions of fact, interpretation, definition, computation or administration arising in connection with the operation of the Plan, including, but not limited to, the eligibility to participate in the Plan and amount of benefits paid under the Plan. The rules, interpretations, computations and other actions of the Plan Administrator  shall be binding and conclusive on all persons. 
+ (b)  Amendment. The Company reserves the right to amend this Plan (including but not limited to changing the designation of any Participant as a Category I Participant or Category II Participant , and the benefits provided hereunder at any time;  provided, however, that (i) no such amendment shall reduce or otherwise adversely affect the benefits provided in Article 4 to a Participant unless such Participant consents in writing to such amendment, and (ii) no such amendment shall occur following the date of entry into a definitive agreement that would result in a Change in Control as to any Participant who would be ad versely affected by such amendment unless such Participant consents in writing to such amendment. 
+ (c)  Initial Term, Automatic Renewal and Termination. The Plan shall have an initial three-year term that expires on December 31, 2019. The Plan shall automatically renew for a series of additional one-year terms, unless the Plan Administrator provides written notification to Participants, at least six months prior to the intended Plan termination date, of the Company's intent to terminate the Plan effective as of the end of the current term. Notwithstanding the foregoing, upon the occurrence of a Change in Control, the Plan shall be extended to terminate upon the later of (i) the end of the current term, or (ii) the second anniversary of the effective date of such Change in Control. 
+   
+ 6 
+ 
+ 
+ ARTICLE 7. NO IMPLIED EMPLOYMENT CONTRACT. 
+The Plan shall not be deemed (a) to give any employee or other person any right to be retained in the employ of the Company, or (b) to interfere with the right of the Company to discharge any employee or other person at any time, with or without cause, and with or without advance notice, which right is hereby reserved. 
+ ARTICLE 8. LEGAL CONSTRUCTION. 
+This Plan shall be governed by and shall be construed in accordance with the laws of the Commonwealth of Massachusetts (without regard to principles of conflict of laws). 
+ ARTICLE 9. GENERAL PROVISIONS. 
+ (a)  Notices. Any notice, demand or request required or permitted to be given by either the Company or a Participant pursuant to the terms of this Plan shall be in writing and shall be deemed given when delivered personally or deposited in the U.S. mail, First Class with postage prepaid, and addressed to the parties, in the case of a Participant, at the address as set forth in the Company's employment file maintained for the Participant as previously furnished by the Participant or such other address as a party may request by notifying the other  in writing. 
+ (b)  Employment at Will. Employment with the Company is for no specific period of time. Participation in the Plan does not confer any right to continued employment, and a Participant's employment with the  Company is "at will." 
+ (c)  Transfer and Assignment. The rights and obligations of a Participant under this Plan may not be transferred or assigned without the prior written consent of the Company. This Plan shall be binding upon any surviving entity resulting from a Change in Control and upon any other person who is a successor by merger, acquisition, consolidation or otherwise to the business formerly carried on by the Company without regard to whether or not such person or entity actively assumes the obligations hereunder. 
+ (d)  Waiver and Costs of Enforcement. Any party's failure to enforce any provision or provisions of this Plan shall not in any way be construed as a waiver of any such provision or provisions, nor prevent any party from thereafter enforcing each and every other provision of this Plan. The rights granted to the parties herein are cumulative and shall not constitute a waiver of any party's right to assert all other legal remedies available to it under the circumstances. All out-of-pocket costs and expenses reasonably incurred by a Participant (including attorneys' fees) in connection with enforcing the Participant's rights under the Plan shall be paid by the Company if such rights relate to a Change in Control Termination that occurs any time after the effective date of the first Change in Control that occurs after the Participant commences participation in the Plan. Notwithstanding the foregoing, if the Participant initiates any claim or action and the claim or action is either totally without merit or frivolous, the Participant shall be responsible for the Participant's own costs and expenses. 
+   
+ 7 
+ 
+ 
+ (e)  Jurisdiction. The parties hereto intend to and hereby confer jurisdiction to enforce the Plan upon the state and federal courts sitting in the Commonwealth of Massachusetts. 
+ (f)  Severability. Should any provision of this Plan be declared or determined to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall n ot in any way be affected or impaired. 
+ (g)  Survival. The rights and obligations of the parties under the provisions of this Plan shall survive, and remaining binding and enforceable, notwithstanding the termination of Participant's employment hereunder or otherwise, to the extent necessary to preserve the intended benefits of such provision. 
+ (h)  Article Headings. Article headings in this Plan are included for convenience of reference only and shall not be considered part of this Plan for any other purpose. 
+ ARTICLE 10. EXECUTION 
+To record the adoption of the Plan as set forth herein, Aldeyra Therapeutics, Inc. has caused its duly authorized officer to execute the same as of the Effective Date. 
+   
+ 
+ ALDEYRA THERAPEUTICS, INC. By:   /s/ Todd C. Brady 
+ Name: 
+ Title: 
+   
+ Todd C. Brady 
+ President and Chief Executive Officer 
+ 
+ 
+   
+ 8 

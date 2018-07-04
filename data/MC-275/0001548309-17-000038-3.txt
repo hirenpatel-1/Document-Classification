@@ -1,0 +1,147 @@
+ htm 26382 Material contracts 10 2017-03-31T05:34:28.667992-05:00 Filing 0001548309-17-000038 2017-03-31 10-K Annual  & Quarterly Reports 0001548309 SEARS HOMETOWN  & OUTLET STORES, INC. SHOS COMMON STOCK Nasdaq Capital Market 5311 Department Stores No ILLINOIS DELAWARE DELAWARE Sears Hometown  & Outlet Stores, Inc. false Accelerated Filer 001-35641 EXHIBIT 10.19 Exhibit Exhibit 3 sho2017exh1019shopyourwayr.htm EX-10.19 3 sho2017exh1019shopyourwayr.htm EXHIBIT 10.19 
+ 
+ 
+The use of "[***]" in this Exhibit indicates that a confidential portion has been omitted pursuant to a request for confidential treatment a nd the omitted material has been filed separately with the Securities and Exchange Commission. 
+ 
+ 
+ 
+ Exhibit 10.19 
+ 
+ AMENDMENT #2 TO THE SHOP YOUR WAY REWARDS ESTABLISHMENT AGREEMENT 
+ 
+ Dated: February 2, 2017 
+ 
+ THIS AMENDMENT #2 , is made as of the date listed above (" Amendment   Effective Date "), by and between Sears Hometown and Outlet Stores, Inc., on behalf of itself and its subsidiaries   (collectively " SHO"), and Sears Holdings Management Corporation, on behalf of itself and for the benefit of its Affiliates (collectively " SHMC") and amends that certain Shop Your Way Rewards Establishment Agreement, dated August 8, 2012, by and between SHO and SHMC (" Agreement ").  All terms capitalized herein, but not defined herein, shall have the meanings ascribed to them in the Agreement. 
+ 
+ WHEREAS , the Parties wish to amend certain terms in the Agreement; 
+ 
+ NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, SHO and SHMC (individually or collectively referred to as the " Party " or " Parties ") agree as follows: 
+ 
+ 1.      Amendments . As of the Amendment Effective Date, the Agreement shall be modified as follows: 
+ (a)     Section VI.C of the Agreement is hereby amended by deleting the language of the section and substituting the following language. 
+Appendix VI.C describes the Points Fee that SHO will pay to SHMC in accordance with this Agreement with respect to the issuance and redemption of Points, all of which fees are non- refundable regardless of the extent to which Points are redeemed. 
+ (b)     Section VII of the Agreement is hereby by amended by inserting the following, new subsection VII.D, which shall immediately follow subsection VII.C: 
+ 
+ VII.D . 
+ 
+ SHO's Other Obligations . 
+ 
+ 
+ 1. 
+ 
+SHO at each of its store locations shall display and promote, at the point of sale, marketing collateral for the SYW branded CITI credit card ("CITI Card"). SHMC at its expense wil l provide each SHO location with such marketing collateral to be displayed. 
+ 
+ 
+ 2. 
+ 
+For transactions occurring in store, SHO will maintain a process that requires inquiring of each customer whether or not the customer is a Member and if the answer is affirmative asking for the customer's Member Number. Such process will be executed prior to transaction completion. 
+ 
+ 
+ 3. 
+ 
+SHO will maintain a process in its POS System 1) that requires inquiring of each customer that does not self-identify as Member if the customer would like to 
+ 
+ 
+ 
+      
+ - 1 - 
+ 
+ 
+ 
+The use of "[***]" in this Exhibit indicates that a confidential portion has been omitted pursuant to a request for confidential treatment a nd the omitted material has been filed separately with the Securities and Exchange Commission. 
+ 
+ 
+ 
+enroll into the Program, and 2) to enroll into the Program those of SHO's customers that request to enroll. 
+ 
+ 4. 
+ 
+ SHO will maintain a process in its POS System for SHO's customers to apply for the CITI Card. 
+ 
+ 
+ 5. 
+ 
+SHO will allow for the earning, awarding, and redeeming of Points at the SHO Sites (defined below). In order to accomplish this, SHO will connect the SHO Sites (or, as applicable, the shopping cart at such sites) to the appropriate SHMC API's allowing for the earning, awarding, and redeeming of Points online. "SHO Sites" means the websites, apps, and similar  digital properties that SHO owns or operates where customers purchase products. 
+ 
+ 
+ (c)     Section IX (Enrollment of New Members) is hereby amended by inserting the following at the end of Section IX: 
+SHMC will share with SHO (1) the email addresses of all Members who had enrolled in the Program at a SHO POS on or before February 2, 2017 and (2) the email addresses of all Members who enroll in the Program at a SHO POS after February 2, 2017 (the email addresses described in (1) and (2), the "SHO email addresses"); provided, however that the email addresses of Members who have opted out of receiving email communications will not be shared with SHO. Use of the SHO email addresses provided by SHMC will be subject to Section VII(C) of this Agreement. Furthermore, SHO may use the SHO email addresses to communicate with its customers (including Members who are customers) and for the purpose of conducting its business, each in accordance with its privacy policy and applicable law, and for no other purpose of any kind whatsoever, including, without limitation, the sale or renting of such emai l addresses to third parties. 
+ (d)     Appendix VI.C is hereby deleted in its entirety and replaced with the Appendix VI.C attached hereto. 
+ 2.           Governing Law .   Section XXXVI of the Agreement is specifically restated herein by reference. 
+ 3.           No Other Amendments. Except as expressly amended herein, the Agreement shall continue in full force and effect, in accordance with its   terms, without any waiver, amendment or other modification of any provision thereof. 
+ 
+ Signature Page Follows 
+ 
+ 
+      
+ - 2 - 
+ 
+ 
+ 
+ 
+The use of "[***]" in this Exhibit indicates that a confidential portion has been omitted pursuant to a request for confidential treatment a nd the omitted material has been filed separately with the Securities and Exchange Commission. 
+ 
+ 
+ 
+ 
+ IN WITNESS WHEREOF , the Parties hereto have executed this Amendment #2 as of the Amendment Effective Date. 
+ 
+ 
+ 
+ 
+ Sears Holdings Management Corporation 
+ 
+ 
+ By:   /s/ ERIC JAFFE 
+ Eric Jaffee 
+ Senior Vice President, Shop Your Way 
+ 
+ Sears Hometown and Outlet Stores, Inc. 
+ 
+ 
+ By:   /s/ CHARLES J. HANSEN 
+ Charles J. Hansen 
+ Vice President, General Counsel, and Secretary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Signature Page 
+ Amendment #2 
+ 
+ Appendix VI.C 
+[***] A total of three pages were omitted and filed separately with the Securities and Exchange Commission 
+ 
+ 
+ - 3 - 
+ 

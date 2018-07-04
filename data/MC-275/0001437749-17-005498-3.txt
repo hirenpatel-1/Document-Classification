@@ -1,0 +1,86 @@
+ htm 21521 Material contracts 10 2017-03-29T15:00:45.785513-05:00 Filing 0001437749-17-005498 2017-03-29 10-K Annual  & Quarterly Reports 0000736012 INTRUSION INC INTZ COMMON OTC 3576 Computer Communications Equipment No TEXAS DELAWARE DELAWARE INTRUSION COM INC;ODS NETWORKS INC;OPTICAL DATA SYSTEMS INC false Small Reporting Company 000-20191 EXHIBIT 10.25 Exhibit Exhibit 3 ex10-25.htm EX-10.25 3 ex10-25.htm EXHIBIT 10.25 
+ EXHIBIT 10.25 
+ AMENDED AND RESTATED PROMISSORY NOTE 
+ (Revolving Loan) 
+   
+   
+ 
+ $3,400,000.00  
+ 
+ Effective February 9, 2017 
+ 
+   
+ FOR VALUE RECEIVED, on or before March 31, 2019 (" Maturity Date "), INTRUSION INC., a Delaware corporation (" Borrower "), promises to pay to the order of G. WARD PAXTON, of Richardson, TX (" Payee"), at 1101 E. Arapaho Road, Suite 200, the principal amount of THREE MILLION AND NO/100 DOLLARS ($3,400,000.00), or such lesser amount as may have been advanced by Payee to Borrow er pursuant to this Amended and Restated Promissory Note (" Note"), together with interest on the unpaid principal balance of this Note from time to time outstanding at a floating rate per annum equal to one percent (1%) above the Prime Rate (as hereinafter defined), calculated on the basis of actual days elapsed but computed as if each year consisted of 360 days. This Note amends, restates and replaces in full that certain Promissory Note dated January 30, 2008, in the original principal amount of $3,400,000.00, executed by Borrower and originally payable to the order of Payee on or before Decemb er 31, 2008. As used herein, the term " Prime Rate" shall mean the most recently announced "prime rate" of Silicon Valley Bank, even if it is not such bank's lowest rate. Changes to the interest rate on this Note based upon changes in the Prime Rate shall be effective on the effective date of any changes to the Prime Rate and to the extent of any such change. 
+   
+The outstanding principal balance of this Note, together with all accrued but unpaid interest, shall be due and payable in full on the Maturity Date. 
+   
+Subject to the terms and conditions of this Note, Payee has agreed to make advances during the period beginning on the date of this Note and ending on the Maturity Date in an aggregate principal amount of up to $3,400,000 outstanding at any date upon three (3) Business Days prior written notice. Payee is authorized to endorse on the schedule annexed hereto and made a part hereof amounts advanced to Borrower through the Maturity Date. Borrower and Payee have agreed that Payee shall be obligated to make such advances to Borrower only so long as of the date of each such advance, no Event of Default (as hereinafter defined) exists or would occur by reason of the making of such advance. Subject to the foregoing, amo unts repaid may be reborrowed by Borrower. 
+   
+Borrower may from time to time prepay all or any portion of the principal of this Note without premium or penalty. Unless otherwise agreed to in writing, or otherwise required by applicable law, payments will be applied first to unpaid accrued interest, then to principal, and any remaining amount to any unpaid collection costs; provided, however, upon delinquency or other Event of Default, Payee reserves the right to apply payments among principal, interest and collection cost, at its discretion. All prepayments shall be applied to the indebtedness owing hereunder in such order and manner as Payee may from time to time determine in its sole discretion. All payments and prepayments of principal of or interest on this Note shall be made in lawful money of the United States of America in immediately available funds, at the address of Payee indicated above, or such other place as the holder of this Note shall designate in writing to Borrower. If any payment of principal of or interest on this Note shall become due on a day which is not a Business Day (as hereinafter defined), such payment shall be made on the next succeeding Business Day and any such extension of time shall be included in computing interest in connection with such payment. As u sed herein, the term " Business Day" shall mean any day other than a Saturday, Sunday or any other day on which national banking associations are authorized to be closed. 
+   
+ Borrower represents and warrants to Payee as follows: 
+   
+(a)     This Note is the legal, valid and binding obligation of Borrower, enforceable against it in accordance with its terms. 
+   
+(b)     The approval, execution, delivery and performance of, and compliance by Borrower with the terms of this Note, will not cause Borrower to be in violation of any applicable law or regulation, or of any order or regulation applicable to it. The approval, execution, delivery and performance of, and compliance by Borrower with the terms of, this Note will not conflict with or result in a breach of any of the terms of any material agreement or instrument to which Borrower is a party or by which it is bound, or constitute a default t hereunder. 
+   
+ 
+   
+ 
+ AMENDED AND RESTATED PROMISSORY NOTE (Revolving Loan) - Page 1   
+ 
+ 
+   
+ 
+   
+ Borrower agrees that upon the occurrence of any one or more of the following events of default (" Event of Default "): 
+   
+(a)     failure of Borrower to pay any installment of principal of or interest on this Note or on any other indebtedness of Borrower to Payee when due; or 
+   
+(b)     any representation or warranty made by Borrower in this Note shall be untrue in any material respect when made; or 
+   
+(c)     the bankruptcy or insolvency of, the assignment for the benefit of creditors by, or the appointment of a receiver for any of the property of, or the liquidation, termination, dissolution or death or legal incapacity of, any party liable for the payment of this Note, whether as maker, endorser, guarantor, surety or otherwise; 
+   
+the holder of this Note may, at its option, without further notice or demand, (i) declare the outstanding principal balance of and accrued but unpaid interest on this Note at once due and payable, (ii) refuse to advance any additional amounts under this Note, (iii) pursue any and all other rights, remedies and recourses available to the holder hereof, including but not limited to any such rights, remedies or recourses at law or in equity, or (iv) pursue any combination of the foregoing. 
+   
+The failure to exercise the option to accelerate the maturity of this Note or any other right, remedy or recourse available to the holder hereof upon the occurrence of an Event of Default hereunder shall not constitute a waiver of the right of the holder of this Note to exercise the same at that time or at any subsequent time with respect to such Event of Default or any other Event of Default. The rights, remedies and recourses of the holder hereof, as provided in this Note, shall be cumulative and concurrent and may be pursued separately, successively or together as often as occasion therefore shall arise, at the sole discretion of the holder hereof. The acceptance by the holder hereof of any payment under this Note which is less than the payment in full of all amounts due and payable at the time of such payment shall not (i) constitute a waiver of or impair, reduce, release or extinguish any right, remedy or recourse of the holder hereof, or nullify any prior exercise of any such right, remedy or recourse, or (ii) impair, reduce, release or extinguish the obliga tions of any party liable under this Note as originally provided herein. 
+   
+Notwithstanding anything herein to the contrary, if at any time the interest rate set forth above, together with all fees, charges and other amounts which are treated as interest o n the indebtedness evidenced by this Note under applicable law (collectively the " Charges "), shall exceed the maximum lawful rate (the " Maximum Rate") which may be contracted for, charged, taken, received or reserved by Payee in accordance with applicable law, the rate of interest payable hereunder in respect of such indebtedn ess, together with all Charges payable in respect thereof, shall be limited to the Maximum Rate. 
+   
+If this Note is placed in the hands of an attorney for collection, or is collected in whole or in part by suit or through probate, bankruptcy or other legal proceedings of any kind, Borrower agrees to pay, in addition to all other sums payable hereunder, all costs and expenses of collection, including but not limited to reasonable attorneys' fees. 
+   
+Borrower and any and all endorsers and guarantors of this Note severally waive presentment for payment, notice of nonpayment, protest, demand, notice of protest, notice of intent to accelerate, notice of acceleration and dishonor, diligence in enforcement and indulgences of every kind and without further notice hereby agree to renewals, extensions, exchanges or releases of collateral, taking of additional collateral, indulgences or partial payments, either before or after maturity. 
+   
+THIS NOTE HAS BEEN EXECUTED UNDER, AND SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS. 
+   
+ [Signature Page Follows] 
+   
+ 
+   
+ 
+ AMENDED AND RESTATED PROMISSORY NOTE (Revolving Loan) - Page 2 
+ 
+ 
+   
+ 
+   
+ BORROWER: 
+   
+ INTRUSION INC. 
+ 
+ 
+By:       /s/ Michael L. Paxton                                            
+Name:      Michael L. Paxton                                            
+Title:      Vice President and Chief Financial Officer     
+   
+   
+   
+ ACKNOWLEDGED AND AGREED: 
+   
+   
+   
+   /s/ G. Ward Paxton                                       
+ G. WARD PAXTON 
+   
+   
+ AMENDED AND RESTATED PROMISSORY NOTE (Revolving Loan) - Page 3 

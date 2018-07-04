@@ -1,0 +1,241 @@
+ htm 52692 Material contracts 10 2017-03-23T17:01:04.627098-05:00 Filing 0001326428-17-000008 2017-03-23 10-K Annual  & Quarterly Reports 0001326428 LINN ENERGY, INC. LINE UNITS REP LTD LIABILITY COMPAN Nasdaq Global Market 1311 Crude Petroleum  & Natural Gas Yes TEXAS DELAWARE DELAWARE LINN ENERGY, LLC;Linn Energy, LLC false Large Accelerated Filer 000-51719 FORM OF AWARD AGREEMENT (APPRECIATION INTERESTS) Exhibit Exhibit 4 ye2016exhibit108.htm EX-10.8 4 ye2016exhibit108.htm FORM OF AWARD AGREEMENT (APPRECIATION INTERESTS) 
+ 
+ 
+ Exhibit 10.8 
+ Appreciation Grants 
+ 
+ 
+ LINN ENERGY HOLDCO LLC INCENTIVE UNIT PLAN 
+ FORM OF AWARD AGREEMENT 
+ This AWARD AGREEMENT (this " Agreement "), dated as of [______] (the " Issue Date "), is by and between   Linn Energy Holdco LLC (the " Company "), and [______] (the " Participant "). 
+WHEREAS, the Plan Administrator has determined that it is in the best interests of the Company to issue to the Participant a number of Interests, on the terms and subject to the co nditions set forth in this Agreement, the  Linn Energy Holdco LLC Incentive Unit Plan (as it may be amended or restated from time to time, the " Plan ") and the LLC Agreement; and 
+ WHEREAS, the Company has received any and all necessary approvals from the Plan Administrator. 
+ NOW, THEREFORE, IT IS HEREBY AGREED AS FOLLOWS: 
+ 1. Certain Definitions. Any capitalized term that is used but not otherwise defined in this Agreement shall have the meaning assigned to such term in the Plan (including any capitalized terms used there in which are defined in the LLC Agreement). 
+ 2.      Issuance of Interests . 
+ (a)      Issuance of Interests. The Company hereby issues and awards to the Participant, and the Participant hereby accepts such issuance and award from the Company, effective as of the Issue Date, the number o f Interests set forth on   Schedule A   annexed hereto, in exchange for the services performed by the Participant. 
+ (b)      Joinder. As a condition to the issuance of Interests hereunder, to the extent the Participant has not already executed the signature page of the LLC Agreement or a joinder agreement thereto, the Participant shall, as a condition precedent to receiving the issuance of Interests, execute a joinder agreement to the LLC Agreement in the form attached hereto as   Exhibit A , thereby agreeing to be bound by the terms of the LLC Agreement. 
+ (c)      Section 83(b) Election. The Participant shall, within 30 days after the Issue Date, file a Section 83(b) election with the Internal Revenue Service via certified mail, return receipt requested, and shall thereafter notify the Company that such election has been timely filed and, if requested by the Company, shall provide the Company with a copy of such election.  The Participant should consult the Participant's tax advisor regarding the consequences of a Section 83(b) election, as well as the receipt, vesting, holding and sale of the unvest ed Interests issued hereunder . 
+ (d)      Investment Intent; Other Representations. The Participant hereby represents and warrants that the Interests issued hereunder must be held for investment purposes and are not being received with a view to distribution thereof, and the Participant covenants and agrees to make such other reasonable and customary representations as reasonably requested by the Company regarding matters relevant to compliance with applicable securities laws as are deemed reasonably necessary by counsel to the Company. The Participant acknowledges and agrees that, in making the Participant's inves tment decision with respect to the receipt of the Interests issued hereunder, 
+ 
+ 
+ 
+the Participant has not relied upon the Company, or any of its respective Affiliates, or any representative of any of the foregoing, for any advice of any sort, including, but not  limited to, tax or securities law advice. 
+ 3.      Vesting; Forfeiture. 
+ (a)      Vesting Generally. The Interests will vest only to the extent the conditions set forth in each of Section 3(b) (the " Time Condition ") and Section 3(c) (the " Performance Condition ") have both been satisfied. 
+ (b)      Time Condition . The Time Condition with respect to the Interests will be satisfied as follows,   provided   that the Participant has not incurred a Termination prior to each such vesting date: 
+ 
+ 
+ 
+ Vesting Date 
+ 
+ Percentage of Interests 
+ 
+ Emergence Date 
+ First Anniversary of Emergence Date 
+ Second Anniversary of Emergence Date 
+ Third Anniversary of Emergence Date 
+ 
+ 25% 
+ 25% 
+ 25% 
+ 25% 
+ 
+ 
+ 
+There shall be no proportionate or partial vesting in the periods prior to each vesting date and all vesting shall occur only on the appropriate vesting date, subject to the Participant not incurring a Termination prior to the applicable vesting date. The continuous employment or service of the Participant shall not be deemed interrupted, and the Participant shall not be deemed to have incurred a Termination, by reason of the transfer of the Participant's employment or service among the Company and/or its Subsidiaries and/or Affiliate s. 
+ (c)      Performance Condition. The Performance Condition will be satisfied with respect to 100% of the Interests if, on any date following the Issue Date and before the date of the Participant's Termination, the Equity Value equals or exceeds $2,007,673,414.50. The Plan Administrator shall determine the Equity Value on a quarterly basis. In the event that there is a sale or disposition of 50% or more of the Emergence Assets, determined based on their Fair Market Value as of the Emergence Date, the Performance Condition will be deemed to have been satisfied upon t he consummation of such transaction. For purposes of this Section 3(c), " Emergence Assets" means all of the assets of the Company and its Subsidiaries (on a consolidated basis) as of the Emergence Date. Notwithstanding anything to the contrary in the foregoing, the Performance Condition will be satisfied with respect to 100% of the Interests upon the first to occur of: (i) any "person," as such term is used in Sections 13(d) and 14(d) of the Exchange Act (other than Linn Newco Corporation (as such term is defined in the LLC Agreement), any trustee or other fiduciary holding securities under any employee benefit plan of Linn Newco Corporation, or any company owned, directly or indirectly, by the stockholders of Linn Newco Corporation in substantially the same proportions as their ownership of Common  Stock of Linn Newco Corporation), becoming the 
+ 
+ 
+ 2 
+ 
+ 
+ 
+beneficial owner (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of Linn Newco Corporation representing more than 50% of the combined voting power of Linn Newco Corporation's then outstanding securities; or (ii) the consummation of a reorganization, merger, consolidation or other business combination (any of the foreg oing, a " Business Combination") of Linn Newco Corporation or any direct or indirect Subsidiary with any other corporation, in any case with respect to which Linn Newco Corporation voting securities outstanding immediately prior to such Business Combination do not, immediately following such Business Combination, continue to represent (either by remaining outstanding or being converted into voting securities of Linn Newco Corporation or any ultimate parent thereof) more than 50% of the then outstanding voting securities entitled to vote generally in the election of directors of Linn Newco Corporation (or its successor) or any ultimate parent thereof after the Business Combination. 
+ (d)      Death or Disability; Termination Without Cause; Resignation for Good Reason. In the event of the Participant's Termination (i) by reason of death or Disability, (ii) by the Company Group without Cause or (iii) by the Participant for Good Reason, additional vesting following such Termination will be determined pursuant to the terms of the Employment Agreement. 
+ (e)      Change of Control. All of the unvested and non-forfeited Interests shall become fully vested upon the consummation of a Change of Control,   provided   that the Participant has not incurred a Termination prior to such date. 
+ (f)      Committee Discretion to Accelerate Vesting. In addition to the foregoing, the Plan Administrator may, in its sole discretion, accelerate vesting of the Interests at any time and for any reason;   provided  that the Committee may not accelerate, without the Participant's written consent, the vesting of the Interests if, at the time of such acceleration, the Interests would not be entitled to receive a distribution under Section 5.1(a)(iii) of the LLC Agreement if the Company's assets were sold for Fair Market Value and the proceeds resulting from such sale were  distributed pursuant to Section 5.1(a) of the LLC Agreement. 
+ (g)      Forfeiture. Subject to the terms of this Section 3, all unvested Interests shall be immediately forfeited upon the Participant's Termination for any reason. 
+ 4.      Rights With Respect to Interests. The Participant will have all of the rights of a holder of Interests with respect to the Interests issued hereunder, in accordance with the terms and conditions of the LLC Agreem ent. 
+ 5.      Transferability. Except as provided in the LLC Agreement, including Section 9.2 of the LLC Agreement dealing with permissible transfers upon death, or in the Plan, including Section 6(c) and Section 7 of the Plan, the Interests issued hereunder are not transferable by the Participant. Any purported transfer of such Interests inconsistent with the terms of the LLC Agreement or the Plan shall be void. Notwithstanding the foregoing, with the approval of the Plan Administrator, the Participant may make transfers of Interests to immediate family members or to a trust, the sole beneficiaries of which are immediate family members, in each case solely for estate planning purposes. 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 6.      Restrictive Covenants. As a condition precedent to the Participant's receipt of the Interests issued hereunder, the Participant agrees to continue to be bound by the restrictive covenant obligations se t forth in the Employment Agreement. 
+ 7.      Repurchase . The Interests issued hereunder shall be subject to repurchase as set forth in the Plan. 
+ 8.      Miscellaneous . 
+ (a)      Governing Law. All questions concerning the construction, validity and interpretation of this Agreement shall be governed by, and construed in accordance with, the laws of the State of Texas, w ithout regard to the choice of law principles thereof. 
+ (b)      Notices. Any notice hereunder by the Participant shall be given to the Company in writing and such notice shall be deemed duly given only upon receipt thereof by the General Counsel of the Company. Any notice hereunder by the Company shall be given to the Participant in writing and such notice shall be deemed duly given only upon receipt thereof at such address as  the Participant may have on file with the Company. 
+ (c)      Withholding of Taxes; Tax Distributions. The Company may withhold from any amounts payable with respect to the Interests all federal, state, city or other taxes as shall be required to be withheld pursuant to any applicable law or government regulation or ruling. Notwithstanding any other provision of this Agreement to the contrary, the Company and the Company Group shall not be obligated to guarantee any particular tax result for the Participant with respect to any (direct or indirect) payment or benefit provided to the Participant relating to the Interests, and the Participant shall be responsible for any taxes imposed on the Participant with respect to any such payment or benefit. 
+ (d)      No Waiver. No waiver or non-action by either party hereto with respect to any breach by the other party of any provision of this Agreement or the LLC Agreement shall be deemed or construed  to be a waiver of any succeeding breach of such provision, or as a waiver of the provision itself. 
+ (e)      Entire Agreement; Amendment. This Agreement, together with the Plan and the LLC Agreement, contains the entire agreement between the parties hereto with respect to the subject matter contained herein and supersedes all prior agreements or prior understandings, whether written or oral, between the parties relating to such subject matter. The Plan Administrator shall have the right, in its sole discretion, to modify or amend this Agreement from time to time in accordance with and as provided in the Plan. This Agreement may also be modified or amended by a writing signed by both the Company and the Participant. The Company shall give written notice to the Participant of any such modification or amendment of this Agreement as soon as practic able after the adoption thereof. 
+ (f)      No Right to Employment or Service. Any questions as to whether and when there has been a Termination and the cause of such Termination shall be determined in the sole discretion of the Plan Administrator. Nothing in this Agreement shall interfere with or limit in any way the right of the Company Group to terminate the Participant's employment or service at any 
+ 
+ 
+ 4 
+ 
+ 
+ 
+time, for any reason and with or without Cause, in accordance with and subject to the terms and conditions of the Employment Agreement. 
+ (g)      Binding Agreement; Assignment. This Agreement shall inure to the benefit of, be binding upon, and be enforceable by the Company and its successors and assigns. The Participant shall not assign any part of this  Agreement without the prior express written consent of the Company. 
+ (h)      Headings. The titles and headings of the various sections of this Agreement have been inserted for convenience of reference only and shall not be deemed to be a part of this Agreement. 
+ (i)      Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original, but all of which shall constitute one and the same instrument. 
+ (j)      Further Assurances. Each party hereto shall do and perform (or shall cause to be done and performed) all such further acts and shall execute and deliver all such other agreements, certificates, instruments and documents as either party hereto reasonably may request in order to carry out the intent and accomplish the purposes of this Agreement and the Plan and the consummation  of the transactions contemplated thereunder;   provided  that no such additional documents shall contain terms or conditions inconsistent with the terms and conditions of this Agreement. 
+ (k)      Severability. The invalidity or unenforceability of any provisions of this Agreement in any jurisdiction shall not affect the validity, legality or enforceability of the remainder of this Agreement in such jurisdiction or the validity, legality or enforceability of any provision of this Agreement in any other jurisdiction, it being intended that all rights and obligatio ns of the parties hereunder shall be enforceable to the fullest extent permitted by law. 
+ (l)      Change of Control and Changes in Capital Structure. The Participant acknowledges and agrees that, in the event of a Change of Control, a similar corporate event or a change in capital structure, any Interests issued hereunder that vest or become payable as a result of or in connection with the applicable event or circumstances shall be subject to the same terms and conditions applicable to the proceeds realized by the Company, its members, or the holders of Interests in connection therewith with respect to payment timing and any escrows, indemnities, payment contingencies or holdback s. 
+ [Signature page follows.] 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties have duly executed this Agreement to be effective as of the Issue Date. 
+ 
+ 
+ 
+   
+ 
+ LINN ENERGY HOLDCO LLC 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+   
+ 
+   
+ 
+   
+ 
+ Name: 
+ 
+   
+ 
+   
+ 
+ Title: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ [__________] 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SCHEDULE A 
+ 
+ Award Schedule 
+ 
+ 
+ 
+ Number of Interests 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXHIBIT A 
+ Form of Joinder 
+ 
+ LINN ENERGY HOLDCO LLC 
+ Joinder Agreement to the 
+ Limited Liability Company Agreement 
+ 
+Upon execution of this joinder agreement, the undersigned shall, from the date set forth below, become a party to that certain Limited Liability Company Operating Agreement of Linn Energy Holdco LLC, dated as of February 28, 2017 (as amended, modified and supplemented from time to time, the " LLC Agreement"). The undersigned acknowledges that it has been furnished with and has carefully read a copy of the LLC Agreement prior to its execution of this joinder agreement. The undersigned hereby agrees to be fully bound by all of the terms, conditions, obligations and restrictions set forth in the LLC Agreement as a Member  (as defined in the LLC Agreement) thereunder as though an original party to the LLC Agreement. The undersigned authorizes this joinder agreement to be attached to and made part of  the LLC Agreement. 
+ 
+ 
+ 
+ 
+ _____________________________   
+Print Name of Participant 
+ 
+ 
+ _____________________________ 
+   
+Signature of Participant 
+ 
+ 
+   
+ 
+ Address for Notices : 
+ 
+   
+ 
+ 
+ _____________________________ 
+ Address - Line 1 
+ _____________________________   
+ Address - Line 2 
+ _____________________________   
+ Address - Line 3 
+ _____________________________   
+ Attention 
+ _____________________________   
+ Facsimile 
+ _____________________________   
+ Telephone 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

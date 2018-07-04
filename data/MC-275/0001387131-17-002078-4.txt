@@ -1,0 +1,646 @@
+ htm 195952 Material contracts 10 2017-04-14T14:00:26.989485-05:00 Filing 0001387131-17-002078 2017-04-14 10-K Annual  & Quarterly Reports 0001011395 Geospatial Corp GSPH COMMON OTC 1623 Water, Sewer, Pipeline  & Communications  & Power Lines No PENNSYLVANIA NEVADA NEVADA GEOSPATIAL HOLDINGS, INC.;KAYENTA KREATIONS INC false Small Reporting Company 333-04066 NOTE AND WARRANT PURCHASE AGREEMENT Exhibit Exhibit 4 ex10-39.htm EX-10.39 4 ex10-39.htm NOTE AND WARRANT PURCHASE AGREEMENT 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Geospatial Corporation - 10-K 
+ Exhibit 10.39 
+   
+ NOTE AND WARRANT PURCHASE AGREEMENT 
+   
+ THIS NOTE AND WARRANT PURCHASE AGREEMENT (the " Agreement") is dated as of December 14, 2016, by and between Geospatial Corporation, a Nevada corporation (the " Company" ), and David M. Truitt, an individual resident of Virginia (the " Purchaser "). 
+   
+ RECITALS : 
+   
+WHEREAS, the Company issued and sold to Purchaser a Secured Promissory Note dated April 2, 2015 in the principal amount of $1,000,000, which was amended pursuant to Agreements and  Amendments dated as of January 27, 2016 and August 12, 2016 (as so amended, the " First Note "); and 
+   
+WHEREAS, the Company issued and sold to Purchaser its Secured Promissory Note dated January 27, 2016, which was amended pursuant to an Agreement and Amendment dated as of August 12 , 2016 in the principal amount of $250,000.00 (as so amended, the " Second Note "); and 
+   
+ WHEREAS, the First Note and the Second Note (collectively, the " Notes") are secured by a first priority security interest in (i) all of the Company's assets pursuant to the terms of a Security Agreement dated as of April 2, 2015 between the Company  and Purchaser (the " Security Agreement") and (ii) all of the assets of the Company's wholly-owned subsidiary, Geospatial Mapping Systems, Inc. (" Mapping") pursuant to the terms of a Security Agreement dated as of April 2, 2015 between Mapping and Purchaser (the " Mapping Security Agreement "); and 
+   
+WHEREAS, the Company made a payment on the Notes in the amount of $200,000.00 on November 9, 2016; and 
+   
+WHEREAS, the Purchaser desires to make an additional loan to the Company in the amount of $100,000.00 and the Company desires to issue to Purchaser a warrant to purchase 100,000 sh ares of the Company's common stock, par value $0.001 per share ("Common Stock"). 
+   
+NOW, THEREFORE, in consideration of the foregoing recitals and the respective representations and warranties, covenants and agreements contained herein, and other good and valuable consideration, the adequacy and receipt of which are hereby acknowledged, the parties hereto, intending to be legally bound, agree as follows: 
+   
+ 1.             Sale and Purchase. Subject to the terms and conditions hereof, the Company hereby issues and sells to Purchaser, and Purchaser hereby purchases from the Company, a Secured Promissory Note in the pr incipal amount of $100,000.00 in the form attached hereto as  Exhibit A  (the " Note ") and a Warrant to purchase 100,000 shares of Common Stock (the " Warrant Shares ") in the form attached hereto as  Exhibit B  (the " Warrant"). Purchaser shall hereby pay to the Company the purchase price for the Note and Warrant in the amount of $100,000.00, by wire transfer of immediately available funds to an account designated in writing by the Company, and the Company hereby delivers the executed Note and Warrant to Purchaser. As set forth in the Note, the Note may be converted into shares  of Company Common Stock (" Conversion Shares ") at any time at the election of Purchaser. 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 2.             Security. Both the Notes and the Note shall be secured by all of the assets of the Company on the terms and conditions set forth in the Security Agreement and by all of the assets of the Mapping pursuant on the terms and conditions set forth in the Mapping Security Agreement, and each of the Security Agreement and Mapping Security Agreement shall be deemed amended a ccordingly. 
+   
+ 3.             Representations and Warranties of the Company . The Company represents to Purchaser, as of the date hereof, as follows: 
+   
+ (a)           Organization and Standing. The Company is a corporation duly organized and validly existing in good standing under the laws of its jurisdiction of organization, with all requisite corporate power and authority to own and operate its properties and assets and to execute and deliver this Agreement, the Note and the Warrant. The Company and each of its subsidiaries is duly qualified and is authorized to do business and is in good standing as a foreign corporation in all jurisdictions in which the nature of its activities and of its properties (both owned and leased) makes such qualification necessary, except for those jurisdictions in which failure to do so would not have a material adverse effect on such corporation or its business. All of the issued shares of capital stock or other ownership interests of each subsidiary of the Company have been duly and validly authorized and issued, are fully paid and non-assessable and are owned directly by the Company and are free and clear of all liens, encumbrances, equities or claims, other than a security interest in all of the Company's assets gran ted to Purchaser pursuant to the Security Agreement. 
+   
+ (b)           Authorization; Binding Obligation. All corporate action on the part of the Company necessary for the authorization, execution and delivery of this Agreement, the Note and the Warrant and the performance of all obligations of the Company hereunder and thereunder has been taken. This Agreement, the Note and the Warrant constitute valid and binding obligations of the Company enforceable in accordance with their terms, except as limited by (i) applicable bankruptcy, insolvency, reorganization, moratorium or other laws of general application affecting enforcement of creditors' rights, and (ii) general principles of equity that restrict the availability of equitable remedies. 
+   
+ (c)           Capitalization. Immediately prior to giving effect to the transactions contemplated by this Agreement, the authorized capital stock of the Company consists of (i) 750,000,000 shares of Common Stock, of which 226,229,740 shares are issued and outstanding, and (ii) 25,000,000 shares of preferred stock, par value $.001 per share, 5,000,000 shares of which are designated as "Series B Convertible Preferred Stock", none of which are issued and outstanding. As of the date hereof 9,050,000 shares of Common Stock are reserved for issuance upon exercise of stock options granted under the Company's 2007 Stock Option Plan and 25,000,000 shares of Common Stock are reserved for issuance upon exercise of stock options and other stock awards to be granted under the Company's 2013 Equity Incentive Plan (18,358,500 of which have been granted as of the date hereof). As of the date hereof there are outstanding warrants to purchase 50,075,088 shares of Common Stock, and warrants to purchase 344,993 shares of Series B Convertible Preferred Stock. All of the outstanding shares of capital stock of the Company have been duly and validly authorized and issued, are fully paid and non-assessable and are subject to no preemptive rights (and were not issued in violation of any preemptive rights). Except as provided in the Note and the Warrant, the Company does not have outstanding any securities or other obligations providing the holder the right to acquire Common Stock or other equity security that is not reserved for issuance as specified in this subsection 5(c), and the Company has not made any other commitment to authorize, issue or  sell any Common Stock or other equity security. 
+   
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+ 
+   
+ (d)           Proceeds. The Company shall use the proceeds from the issuance and sale of the Note and Warrant for working capital and other general corporate purposes. 
+   
+ (e)           Reservation of Shares. The Company has reserved from its authorized and unissued Common Stock a sufficient number of shares, free from preemptive rights, to provide for the issuance of the Conversion S hares and Warrant Shares. 
+   
+ (f)            Issuance of Shares. The Conversion Shares and Warrant Shares are duly authorized and reserved for issuance and, upon conversion of the Note or exercise of the Warrant in accordance with their respective terms, will be validly issued, fully paid and non-assessable, and free from all taxes, liens, claims and encumbrances with respect to the issue thereof and shall not be subject to preemptive rights or other similar rights of shareholders of the Company and will not impose personal liability upon the holder thereof. 
+   
+ (g)           No Conflicts. The execution, delivery and performance of this Agreement, the Note and the Warrant by the Company and the consummation by the Company of the transactions contemplated hereby and thereby (including, without limitation, the issuance and reservation for issuance of the Conversion Shares and Warrant Shares) will not (i) conflict with or result in a violation of any provision of the Company's Articles of Incorporation or By-laws, or (ii) violate or conflict with, or result in a breach of any provision of, or constitute a default (or an event which with notice or lapse of time or both could become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of, or result in the creation of any lien, security interest, charge or encumbrance upon any of the properties or assets of the Company or any of its subsidiaries under, any agreement, indenture, patent, patent license or instrument to which the Company or any of its subsidiaries is a party, other than pursuant to the Security Agreement, or (iii) result in a violation of any law, rule, regulation, order, judgment or decree (including federal and state securities laws and regulations and regulations of any self-regulatory organizations to which the Company or its securities are subject) applicable to the Company or any of its subsidiaries or by which any property or asset of the Company or any of its subsidiaries is bound or affected, except, with respect to clauses (ii) and (iii), for such conflicts, defaults, terminations, amendments, accelerations, cancellations and violations as would not, individually or in the aggregate, have a material adverse effect on the Company or its business. No notice to, filing with, exemption or review by, or authorization, consent or approval of, any governmental body or agency is required to be made or obtained by the Company in connection with the performance by the Company of its obligations under this Agreement, the No te or the Warrant, except for notice filings under applicable securities laws. 
+   
+ 
+ 
+ 3 
+ 
+ 
+   
+ 
+ 
+   
+ 4.            Representations and Warranties of Purchaser . Purchaser represents and warrants to the Company, as of the date hereof, as follows: 
+   
+ (a)           Requisite Power and Authority. All action on the part of Purchaser necessary for the authorization of this Agreement and the performance of all obligations of Purchaser hereunder has been taken. This Agreement constitutes the valid and binding obligation of Purchaser enforceable in accordance with its terms, except as limited by (i) applicable bankruptcy, insolvency, reorganization, moratorium or other laws of general application affecting enforcement of creditors' rights, and (ii) general principles of equity that restrict the availability of equitable remedies. 
+   
+ (b)           Investment Representations. Purchaser understands that the Note and the Warrant issued to Purchaser hereunder, and the Warrant Shares have not been registered under the Securities Act of 1933, as amended (t he " Securities Act"). Purchaser also understands that the Note and the Warrant are being offered and sold pursuant to an exemption from registration contained in the Securities Act based in part upo n Purchaser's representations contained in this Agreement. 
+   
+ (c)           Experience; Risk. Purchaser has such knowledge and experience in financial and business matters that Purchaser is capable of evaluating the merits and risks of the purchase of the Note, the Warrant and the Warrant Shares and of protecting Purchaser's interests in connection therewith. Purchaser is able to fend for himself in the transactions contemplated by this Agreement and has the ability to bear the economic risk of the investment, including complete loss of the investment. 
+   
+ (d)           Investment. Purchaser is acquiring the Note, the Warrant and the Warrant Shares for investment for his own account, not as a nominee or agent, and not with a view to, or for resale in connection with, any distribution thereof, and Purchaser has no present intention of selling, granting any participation in, or otherwise distributing the same. Purchaser understands that the Note, the Warrant and the Warrant Shares have not been registered under the Securities Act and applicable state securities laws (collectively, the " Acts") by reason of a specific exemption from the registration provisions of the Acts which depends upon, among other things, the bona fide nature of the investment intent and the accu racy of Purchaser's representations as expressed herein. 
+   
+ (e)           Information. Purchaser has been furnished with all information which he deems necessary to evaluate the merits and risks of purchasing the Note and the Warrant and has had the opportunity to ask questions concerning the Note, the Warrant and the Company and all questions posed have been answered to his satisfaction. Purchaser has been given the opportunity to obtain any additional information he deems necessary to verify the accuracy of any information obtained concerning the Note, the Warrant and the Company. Neither such inquiries nor any other investigation conducted by or on behalf of Purchaser or its representatives or counsel shall modify, amend or affect Purchaser's right to rely on the truth, accuracy and completeness of the Company's representations and warranties contained in this Agreement. Purchaser understands that an investment in the Note and Warrant involves significant risks. 
+   
+ (f)            Accredited Investor. Purchaser is an "accredited investor" within the meaning of Rule 501 promulgated under the Securities Act. Purchaser has considered the federal and state income tax implications of an investment in the Note and Warrant and has consulted with his own advisors with respect thereto. 
+   
+ 
+ 
+ 4 
+ 
+ 
+   
+ 
+ 
+   
+ (g)           Residence. The place where Purchaser's investment decision was made is located at the address of Purchaser set forth on the signature page hereto. 
+   
+ (h)           Legends . Purchaser understands and agrees that the Note will bear a legend as set forth on  Exhibit A  and, the Warrant will bear a legend as set forth on  Exhibit B. In addition, the Note, the Warrant and any certificate or other instrument representing the Warrant Shares and the Conversion Shares will bear any other legend that may be required by applicable law, by the Company's Articles of Incorporation or Bylaws, or by any agreement between the Company and Purchaser. 
+   
+ 5.            Reservation of Shares. The Company agrees to take any and all action as is necessary or desirable to authorize, reserve and issue any shares of the Company's capital stock issuable upon exercise of the  Warrant and upon conversion of the Note. 
+   
+ 6.            Registration Rights . 
+   
+ (a)           Definitions . As used in this  Section 6 and unless the context requires a different meaning, the following terms have the meanings indicated: 
+   
+ " Register ," " registered " and " registration" refer to a registration effected by preparing and filing a registration statement in compliance with the Securities Act, and the declaration or ordering of effectiveness of such  registration statement or document by the Commission. 
+   
+ " Registration Expenses " means all expenses incurred by the Company in complying with this  Section 6, including, without limitation, all registration and filing fees, printing expenses, fees and disbursements of counsel for the Company, blue sky fees and expenses and the expense  of any special audits incident to or required by any such registration. 
+   
+ " Selling Expenses " means all underwriting discounts and broker commissions applicable to the sale. 
+   
+ (b)           Piggyback Registration. The Company shall notify Purchaser in writing at least thirty (30) days prior to the filing of any registration statement under the Securities Act for purposes of a public offering of securities of the Company (including, but not limited to, registration statements relating to secondary offerings of securities of the Company, but excluding registration statements relating to employee benefit plans or with respect to corporate reorganizations or other transactions under Rule 145 of the Securities Act), which notice will specify the proposed offering price, the kind and number of securities proposed to be registered, the distribution arrangements and such other information that at the time would be appropriate to include in such notice, and will afford each Purchaser an opportunity to include in such registration statement all or part of the Warrant Shares held by Purchaser on terms and conditions at least as favorable as those applicable to the securities to be sold by the Company and by any other person thereunder. Purchaser desires to include in any such registration statement all or any part of the Warrant Shares he shall, within fifteen (15) days after the above-described notice from the Company, so notify the Company in writing. If Purchaser decides not to include some or all of his Warrant Shares in any registration statement thereafter filed by the Company or decides to withdraw his Registrable Shares from an y underwriting or registration pursuant to  Section 6(b)(i), Purchaser shall nevertheless continue to have the right to include any Warrant Shares in any subsequent registration statement or registration statements as may be filed by the Company with respect to offerings of its securities, all upon the terms and conditions set forth herein. 
+   
+ 
+ 
+ 5 
+ 
+ 
+   
+ 
+ 
+   
+ (i)        Right to Terminate Registration. The Company shall have the right to terminate or withdraw any registration initiated by it under this  Section 6(b) prior to the effectiveness of such registration whether or not Purchaser has elected to include Warrant Shares in such registration. The Registration Expenses of such withdrawn re gistration shall be borne by the Company in accordance with  Section 6(b)  hereof. 
+   
+ (c)           Expenses of Registration. Except as specifically provided herein, all Registration Expenses incurred in connection with any registration, qualification or compliance pursuant to  Section 6(b) herein shall be borne by the Company. All Selling Expenses applicable to Warrant Shares sold by Purchaser incurred in connection with any registrations hereunder shall be borne by  Purchaser. 
+   
+ 7.             Confirmations. The Company confirms that the Existing Note remains outstanding without defense, set off, counterclaim, discount or charge of any kind as of the date of this Agreement and the security interests granted pursuant to the Security Agreement and the Mapping Security Agreement shall continue unimpaired by this Agreement and in full force and effect, and nothing in this Agreement shall alter the priority of any such lien, security interest, mortgage, guarantee or pledge. 
+   
+ 8.             No Other Changes. Except as modified by this Agreement, each of the Existing Note, the Existing Warrant, the Security Agreement and the Mapping Security Agreement shall remain in full force and ef fect and is hereby in all respects ratified and confirmed. 
+   
+ 9.             Miscellaneous . 
+   
+ (a)           Governing Law; Arbitration. This Agreement and the Note shall be governed, construed and interpreted in accordance with the laws of the Commonwealth of Pennsylvania without giving effect to principles of conflicts of law and choice of law that would cause the laws of any other jurisdiction to apply. Any dispute or claim arising to or in any way related to this Agreement or the Note or the rights and obligations of each of the parties hereto shall be settled by binding arbitration in Pittsburgh, Pennsylvania. All arbitration shall be conducted in accordance wit h the rules and regulations of the American Arbitration Association (" AAA"). AAA shall designate an arbitrator from an approved list of arbitrators following both parties' review and deletion of those arbitrators on the approved list having a conflict of interest with either party. The Company agrees that a final non-appealable judgment in any such suit or proceeding shall be conclusive and may be enforced in other jurisdictions  by suit on such judgment or in any other lawful manner. 
+   
+ 
+ 
+ 6 
+ 
+ 
+   
+ 
+ 
+   
+ (b)           Indemnification. In consideration of Purchaser's execution and delivery of this Agreement and purchase of the Note and the Warrant hereunder, and in addition to all of the Company's other obligations under this Agreement, the Company shall defend, protect, indemnify and hold harmless Purchaser from and against any and all actions, causes of action, suits, claims, losses, costs, penalties, fees, liabilities and damages, and expenses in connection therewith (irrespective of whether Purchaser is a party to the action for which indemnification hereunder  is sought), and including reasonable attorneys' fees and disbursements (the " Indemnified Liabilities"), incurred by Purchaser as a result of, or arising out of, or relating to (a) any material misrepresentation by Company or any material breach of any covenant, agreement, obligation, representation or warranty by the Company contained in this Agreement, or (b) after any applicable notice and/or cure periods, any breach or default in performance by the Company of any covenant or undertaking to be performed by the Company hereunder. To the extent that the foregoing undertaking by the Company may be unenforceable for any reason, the Company shall make the maximum contribution to the payment and satisfaction of each of the Indemnified Liabilities, which is permissible under applicable law. 
+   
+ (c)           Successors and Assigns. This Agreement may not be assigned, conveyed or transferred by either party without the prior written consent of the other party. Subject to the foregoing, the rights and obligations of the Company and Purchaser under this Agreement shall be binding upon and benefit their respective permitted successors, assigns, heirs, administrators and transferees. The terms and provisions of this Agreement are for the sole benefit of the parties hereto and thereto and their respective permitted successors and assigns, and are not intended to con fer any third-party benefit on any other person. 
+   
+ (d)           Entire Agreement. This Agreement, the exhibits and schedules hereto and the Note, the Warrant and the Security Agreement delivered pursuant to the terms hereof constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof and no party shall be liable or bound to any other in any manner by any representations, warranties, covenants and agreements except as specifically set forth herein and therein. Any previous agreement among the parties relative to the specific subject matter hereof is superseded b y this Agreement, the Note and the Warrant 
+   
+ (e)           Severability. In case any provision of the Agreement shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be a ffected or impaired thereby. 
+   
+ (f)            Amendment or Waiver. This Agreement, the Note, the Warrant and the Security Agreement may be amended, and any term or provision of this Agreement, the Note and the Warrant may be waived, (either generally or in a particular instance and either retroactively or prospectively) upon the written consent of the Company and Purchaser. 
+   
+ (g)           Notices. All notices required or permitted hereunder shall be in writing and shall be deemed effectively given: (i) upon personal delivery to the party to be notified, including, with respect to Purchaser, upon delivery by electronic mail to Purchaser's e-mail address; (ii) when sent by confirmed facsimile if sent during normal business hours of the recipient, if not, then on the next business day; (iii) five days after having been sent by registered or certified mail, return receipt requested, postage prepaid; or (iv) the next business day after deposit with a nationally recognized overnight courier, specifying next day delivery, with written verification of receipt. All communications shall be sent to the Company and to Purchaser at the address or facsimile number set forth on such party's signature page hereof or at such other address as the Company or Purchaser may designate by 10 days' adv ance written notice to the other parties hereto. 
+   
+ 
+ 
+ 7 
+ 
+ 
+   
+ 
+ 
+   
+ (h)           Expenses. Each party shall pay all costs and expenses that it incurs with respect to the negotiation, execution, delivery and performance of this Agreement, the Note and the Warrant. 
+   
+ (i)            Titles and Subtitles. The titles of the sections and subsections of the Agreement are for convenience of reference only and are not to be considered in construing this Agreement. 
+   
+ (j)            Counterparts. This Agreement may be executed in any number of counterparts (and by facsimile or .PDF), each of which shall be an original, but all of which together shall constitute one instru ment. 
+   
+ 
+ 
+ 8 
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF the parties hereto have executed this Agreement and Amendment as of the date set forth in the first paragraph hereof. 
+   
+   COMPANY:             GEOSPATIAL CORPORATION             By: /s/ Mark Smith       Mark Smith       Chief Executive Officer   
+         Address:           229 Howes Run Road     Sarver, PA 16055           PURCHASER:           /s/ David M. Truitt     David M. Truitt           Address:           Discover Technologies, LLC     13241 Woodland Park Road     Suite 610     Herndon, VA 20171     United States           For Purposes of Agreeing to Section 2:         GEOSPATIAL MAPPING SYSTEMS, INC. 
+           By: /s/ Mark Smith       Mark Smith       Chief Executive Officer   
+ 
+   
+ 
+ 
+ 9 
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT A 
+   
+ FORM OF NOTE 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+THIS NOTE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR ANY STATE SECURITIES LAWS. THIS NOTE MAY NOT BE TRANSFERRED EXCEPT (A) PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND APPLICABLE STATE SECURITIES LAWS, OR (B) IN A TRANSACTION WHICH IS EXEMPT FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND APPLICABLE STATE SECURITIES LAWS. THIS NOTE IS SUBJECT TO THAT CERTAIN AGREEMENT AND AMENDMENT, DATED AS OF JANUARY 26, 2016, BY AND BETWEEN THE C OMPANY AND THE HOLDER OF THIS NOTE. 
+   
+ SECURED PROMISSORY NOTE 
+ 
+     $100,000.00 Issue Date:      December 14, 2016   
+   
+ 
+For value received, Geospatial Corporation, a Nevada corporation (together with its successors and assigns, the " Company "), promises to pay to David M. Truitt (the " Holder," which term shall include any holder or other transferee of this Note), the principal sum of one hundred thousand ($100,000.00) together with any and all interest accrued but unpaid thereon. This Note is issued pursuant to that certain Note and Warrant Purchase Agreement dated as of December 14, 2016, by and between the Company and the Holder (as may from t ime to time be modified, supplemented and replaced, the " Agreement"). This Note is subject to the terms of the Agreement and the following additional terms and conditions. 
+   
+ 1.             Definitions; Security. Capitalized terms used herein and not otherwise defined have the meanings given such terms in the Agreement. As used herein, the term " Loan Documents" shall mean this Note, the Agreement, the Security Agreement, the Mapping Security Agreement, any other instrument or agreement which now or hereafter evidences, governs, secures or guaranties the indebtedness evidenced by this Note, including any loan agreement, deed of trust, security agreement or guaranty, and all renewals, extensions and modifications thereof and substitutions therefor. This Note is secured pursuant to the terms of a Security Agreement dated as of April 2, 2015 between the Company and the Holder (as may from time  to time be modified, supplemented and replaced, the " Security Agreement") and a Security Agreement dated as of April 2, 2015 between the Company and Mapping (as may from time to time be modified, supplemented and replaced, the " Mapping Security Agreement "). 
+   
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+ 
+   
+ 2.             Payment Terms . 
+   
+ 2.1           Maturity Date. This Note will automatically mature and all unpaid principal and accrued and unpaid interest will be due and payable on the earlier of (a) January 31, 2017; (the " Maturity Date "), or (b) the occurrence of an Event of Default (as defined in Section 5). 
+   
+ 2.2           Interest . Subject to  Section 4.2, interest shall accrue on the unpaid principal amount of this Note at a fixed rate per annum of (10%) from the date hereof until paid in full. 
+   
+ 2.3           Prepayment. The Company shall have the right to prepay all or any portion of this Note, at any time and from time to time, by paying the amount to be prepaid and interest thereon. A partial prepayment of principal shall not affect the obligation of the Company to make subsequent scheduled principal payments at the times and in the amounts required until this Note is p aid in full. 
+   
+ 3.             Payment. Except as set forth herein, all payments shall be made in immediately available funds in lawful money of the United States of America to the Holder, without offset, at 13241 Woodland Park Road Suite 610 Herndon, VA 20171 (or at such other address as the Holder shall designate). The making of any payment in other than immediately available funds which the Holder, at its option, elects to accept shall be subject to collection, and interest shall continue to accrue until the funds by which payment is made are available to the Holder for its use. Payment shall be credited first to any accrued interest then due and payable and the remainder applied to principal. 
+   
+ 4.             Events of Default . 
+   
+4.1          The entire unpaid principal sum of this Note, together with any and all interest accrued but unpaid thereon, shall become immediately due and payable upon the occurren ce of an Event of Default. Subject to the foregoing, an " Event of Default " shall be deemed to have occurred upon the occurrence of any of the following: 
+   
+(a)          the nonpayment of any principal, interest or other amounts due under this Note or the Existing Note within ten (10) calendar days after when due; 
+   
+(b)          any default under the terms of any of the Loan Documents, or the failure to perform or observe any warranty, covenant, or other condition of any of the Loan Documents, which, in any such case, has not been cured within 20 days after notice in writing has been sent to the Company; 
+   
+(c)          the merger, consolidation, reorganization, dissolution, or termination of existence of the Company; or the pledge, lease or other disposition of all or substantially a ll of the assets of the Company; 
+   
+(d)          the filing by or against the Company of any proceeding in bankruptcy, receivership, insolvency, reorganization, liquidation, conservatorship or similar proceeding (and, in the case of any such proceeding instituted against any obligor, such proceeding is not dismissed or stayed within 60 days of the commencement thereof); 
+   
+ 
+ 
+ 3 
+ 
+ 
+   
+ 
+ 
+   
+ (e)          any assignment by the Company for the benefit of creditors; 
+   
+(f)           a default with respect to any other indebtedness of the Company for borrowed money, if the effect of such default is to cause or permit the acceleration of such debt, unless the holder of such debt waives such default or otherwise agrees to forbear from exercising its rights with respect to such default; 
+   
+(g)          the entry of a final judgment against the Company in an amount exceeding $100,000 and the failure of the Company to discharge the judgment within thirty (30) days of t he entry thereof; 
+   
+ (h)          the Company ceases doing business as a going concern; or 
+   
+(i)           any agreement or other document granting the Holder security for the payment of this Note shall cease for any reason to be in full force and effect as such security with the priority stated to be created thereby, or the grantor of such security shall contest the validity or enforceability of the security or deny that it has any further liabilit y or obligation under such agreement or other document. 
+   
+4.2          Upon the occurrence of an Event of Default, interest shall accrue on the unpaid principal of this Note at a fixed rate of 20% per annum from the date of such Event of Default until the date such Event of Default has been waived by the Holder or cured to the reasonable satisfaction of the Holder. 
+   
+4.3          Upon the occurrence of an Event of Default, and at any time thereafter unless and until such Event of Default has been waived by the Holder or cured to the reasonable satisfaction of the Holder, the Holder may, by notice to the Company declare the unpaid principal of and any accrued interest in respect of or under this Note to be due whereupon the same shall be immediately due and payable. The Holder shall also have any other rights which the Holder may have pursuant to the Loan Documents and applicable law. Notwithstandi ng the foregoing, if an Event of Default specified in  Section 4.1(b) shall occur, then the aggregate principal amount of this Note (together with all accrued interest thereon), shall become immediately due and payable without any action on the part of the Holder and the Company shall immediately pay to the Holder all amounts due and payable with respect to this Note. 
+ 
+   
+ 
+ 
+ 4 
+ 
+ 
+   
+ 
+ 
+   
+ 5.              Conversion . 
+   
+ 5.1           Conversion. The Holder shall have the right, at any time and from time to time, to convert the unpaid principal and accrued interest, if any, of this Note, in whole or in part, into shares o f common stock, par value $ .001 per share, of the Company (" Common Stock " or " Conversion Shares ") at a price per share (the " Conversion Price") equal to 75% of (i) if the Common Stock is then traded on a national securities exchange or the Nasdaq Stock Market (or a similar national quotation system), the average of the closing "bid" prices of the Common Stock on such exchange or system for the ten (10) trading days ending on the date of delivery to the Company of a Notice of Conversion in the for m annexed hereto as  Exhibit A, or (ii) if the Common Stock is then actively traded over-the-counter, the average of the closing bid prices for the ten (10) trading days ending on the date of delivery to the Co mpany of a Notice of Conversion in the form annexed hereto as  Exhibit A. The number of shares of Common Stock to be issued upon each conversion of this Note shall be determined by dividing the Conversion Amount (as defined below) by the applicable Conversion Price then in effect on the date specified in the notice of conversion; provided that the Notice of Conversion is submitted by facsimile or e-mail (or by other means resulting in, or reasonably expected to result in, notice) to the Company before 6:00 p.m., New York, New York time on such conversion date (the " Conversion Date "). The term " Conversion Amount" means, with respect to any conversion of this Note, the sum of (1) the principal amount of this Note to be converted in such conversion plus (2) at the Holder's option, accrued and unpaid interest, if any, on such principal amount at the interest rates provided in this Note to the Conversion Date. 
+   
+ 5.2           Mechanics and Effect of Conversion . 
+   
+(a)          No fractional shares will be issued upon conversion of this Note. In lieu of any fractional share to which the Holder would otherwise be entitled, the Company will pay to the Holder in cash the unconverted balance that would otherwise be converted into such fractional share. 
+   
+ (b)          In the event that this Note is converted in full pursuant to  Section 5.1 , the Holder shall surrender this Note, and the Notice of Conversion annexed hereto as  Exhibit A by e-mail or facsimile, duly endorsed (but without the requirement of a medallion signature guarantee), to the Company and the Note shall thereupon be canceled; provided that if this Note is converted only in part, then only the Notice of Conversion, duly endorsed (but without the requirement of a medallion signature guarantee), shall be required to be delivered by e-mail or facsimile to the Company. As soon as practicable following the Company's receipt of a Notice of Conversion and at its expense, but not later than ten business days after receipt of a Notice of Conversion, the Company will issue and deliver to the Holder, a certificate or certificates representing the number of shares of the Company's Common Stock to which the Holder is entitled upon conversion, together with (i) a check payable to the Holder for any cash amounts in lieu of fractional shares as described in clause (a) above and (ii) to the extent that the Holder has converted this Note only in part, a replacement Note in the form hereof in the principal amount equal to the remaining principal  balance of this Note (the " Replacement Note"). If permissible under Rule 144 under the Securities Act of 1933, as amended, or if the Conversion Shares have been registered for re-sale, all shares shall be delivered without legend and if, the Company is so eligible, by electronic delivery to a brokerage account designated by Holder. The Company shall pay the cost of any legal opinion that may be neces sary for the delivery of the Conversion Shares. 
+   
+ 
+ 
+ 5 
+ 
+ 
+   
+ 
+ 
+   
+ 5.3           Termination of Rights . Upon conversion of this Note in accordance with  Section 5.1, all rights with respect to the converted portion of this Note shall terminate, whether or not the Note has been surrendered for cancellation, and the Company will be forever released from all of its obligations and liabilities under the converted portion of this Note except its obligations pursuant to  Section 5.2 . 
+   
+ 5.4           Buy-In. In addition to any other rights available to the Holder, if the Company fails to deliver to a Holder the Conversion Shares as required pursuant to this Note, and the Holder purchases (in an open market transaction or otherwise) shares of Common Stock (or a broker or trading counterparty through which the Holder has agreed to sell shares makes such purchase) to deliver in satisfaction of a sale by such Holder of the Conversion Shares which the Holder was entitled to receive from the Company (a " Buy-In"), then the Company shall pay in cash to the Holder (in addition to honoring its obligation to deliver to Holder a certificate or certificates representing the Conversion Shares and any remedies available to or elected by the Holder) the amount by which (A) the Holder's total purchase price (including brokerage commissions, if any) for the shares of common stock so purchased exceeds (B) the aggregate Conversion Price of the Conversion Shares required to have been delivered together with interest thereon at a rate of 5% per annum, accruing until such amount and any accrued interest thereon is paid in full (which amount shall be paid as liquidated damages and not as a penalty). For example, if a Holder purchases shares of Common Stock having a total purchase price of $11,000 to cover a Buy-In with respect to a Conversion Amount of $10,000 to have been received upon conversion of this Note, the Company shall be required to pay the Holder $1,000, plus interest. The Holder shall provide the Company written notice indicating the amounts payable to the Holder in respect  of the Buy-In, along with the appropriate supporting documentation for such purchase. 
+   
+ 6.             Transfer; Successors and Assigns. Subject to the restrictions set forth in the Agreement, this Note may be transferred only upon surrender of the original Note for registration of transfer, duly endorsed, or accompanied by a duly executed written instrument of transfer in form satisfactory to Holder. Thereupon, a new note for the same principal amount and interest will be issued to, and registered in the name, of, the transferee. Interest and principal are payable only to the registered holder of this Note. The terms and conditions of this Note shall inure to the be nefit of and binding upon the respective successors and assigns of the parties. 
+   
+ 7.              Governing Law. This Note and all acts and transactions pursuant hereto and the rights and obligations of the parties hereto shall be governed, construed and interpreted in accordance with the laws of the Commonwealth of Virginia, without giving effect to principles of conflicts of law and choice of law that would cause the laws of any other jurisdiction to apply. 
+   
+ 
+ 
+ 6 
+ 
+ 
+   
+ 
+ 
+   
+ 8.             Notices. Any notice or other communication required or permitted to be given hereunder shall be in writing by facsimile, e-mail, mail or personal delivery and shall be effective upon delivery of such notice. The addresses for such communications shall be to the addresses as shown on the books of the Company or to the Company at the address set forth in the Agreement. A party may from time to time change the address to which notices to it are to be delivered or mailed hereunder by notice in accordance with the provisions of this  Section 8 . 
+   
+ 9.             Amendments and Waivers. This Note and any term hereof may be amended, waived, discharged or terminated only by an instrument in writing signed by the party against whom enforcement of such amendment, waiver, discharge or termination is sought. No waivers of any term, condition or provision of this Note, in any one or more instances, shall be deemed to be, or construed as, a furth er or continuing waiver of any such term, condition or provision. 
+   
+ 10.           Stockholders, Officers and Directors Not Liable. In no event shall any stockholder, officer or director of the Company be liable for any amounts due or payable pursuant to this Note. 
+   
+ 11.           Headings. The headings in this Note are for purposes of reference only, and shall not limit or otherwise affect the meaning hereof. 
+   
+ 12.           Benefits of this Note. Nothing in this Note shall be construed to give any person or corporation other than the Company and the Holder any legal or equitable right, remedy or claim under this Note and this Note shall be for the sole and exclusive benefit of the Company and the Holder and any other permitted holder or holders of the Note. 
+   
+ 13.           Jurisdiction. The Company irrevocably (i) submit to the exclusive jurisdiction of any Virginia state court or federal court sitting in the Commonwealth of Virginia with respect to any suit, action, or proceeding relating to this Note, (ii) waives any objection which it may now or hereafter have to the laying of venue of any such suit, action, or proceeding brought in any such court and any claim that any such suit, action, or proceeding brought in any such court has been brought in an inconvenient forum, (iii) waives the right to object that any such court does not have jurisdiction over it, and (iv) consents to the service of process in any such suit, action, or proceeding by the mailing of copies of such process to it by certified mail at the addresses indicated in this Note or at such other addresses of which the Holder shall have received notice. Nothing in this paragraph shall affect the Holder's right to serve process in any other manner permitted by law or to bring proceedings against the Company in any other court having jurisdiction. 
+   
+ 
+ 
+ 7 
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the Company has caused this Note to be duly executed and delivered by its authorized officer, as of the date first above written. 
+   
+ 
+   GEOSPATIAL CORPORATION     [SEAL]         By:       Mark A. Smith     Chief Executive Officer 
+ 
+   
+ 
+ 
+ 8 
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT A 
+   
+ NOTICE OF CONVERSION 
+   
+ (To be Executed by the Registered Holder in order to Convert the Note) 
+   
+ The undersigned hereby irrevocably elects to convert $                         of the Note (defined below) into shares of common stock, par value $.001 per share (" Common Stock "), of Geospatial Corporation, a Nevada corporation (the " Company ") according to the conditions of the Company's Secured Promissory Note dated as of                          (the " Note"), as of the date written below. If securities are to be issued in the name of a person other than the undersigned, the undersigned will pay all transfer taxes payable with respect thereto and is delivering herewith such certificates. No fee will be charged to the Holder for any conversion, except for transfer taxes, if any. A copy of the Note is attached h ereto (or evidence of loss, theft or destruction thereof). 
+   
+The undersigned hereby requests that the Company issue a certificate or certificates for the number of shares of Common Stock set forth below (which numbers are based on the Holder's calculation attached hereto) in the name(s) specified immediately below or, if additional space is necessary, on an attachment hereto: 
+   
+ Name:             Address:           Tax ID/SS #:     
+ 
+   
+The undersigned represents and warrants that all offers and sales by the undersigned of the securities issuable to the undersigned upon conversion of the Note shall be made pursuan t to registration of the securities under the Securities Act of 1933, as amended (the " Act "), or pursuant to an exemption from registration under the Act. 
+   
+ Date of Conversion:      
+   
+ Applicable Conversion Price:      
+   
+ Number of Shares of Common Stock to be Issued   Pursuant to Conversion of the Notes:      
+ 
+   
+ 
+ 
+ 9 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Signature:         Name:           Address:       
+   
+ 
+ 
+ 10 
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT B 
+   
+ FORM OF WARRANT 
+   
+ 
+ 
+ 11 
+ 
+ 
+   
+ 
+ 
+   
+NEITHER THIS WARRANT NOR THE SECURITIES ISSUABLE UPON EXERCISE HEREOF HAVE BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR ANY STATE SECURITIES LAWS. NEITHER THIS WARRANT NOR THE SECURITIES ISSUABLE UPON EXERCISE HEREOF MAY BE TRANSFERRED EXCEPT (A) PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND APPLICABLE STATE SECURITIES LAWS, OR (B) IN A TRANSACTION WHICH IS EXEMPT FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND APPLICABLE STATE SECURITIES LAWS. 
+   
+ Warrant Issue Date: December 14, 2016 
+   
+ COMMON STOCK PURCHASE WARRANT 
+   
+ For value received, Geospatial Corporation (the " Company "), a Nevada corporation, hereby certifies that David M. Truitt (the " Holder") or its permitted assign(s) is entitled to purchase from the Company, at any time or from time to time during the Exercise Period (as defined below), in whole or in part, one hun dred thousan (100,000) shares of the Company's common stock, par value $.001 per share (" Common Stock " or " Warrant Shares ") at a price of $0.01 per share (the " Exercise Price"). This Warrant is issued pursuant to that certain Note and Warrant Purchase Agreement dated as of December 14, 2016, by and between the Company and the Holder (the " Purchase Agreement"). This Warrant is subject to the terms of the Purchase Agreement and the following additional terms and conditions. 
+   
+ 1.             Certain Definitions . 
+   
+ (a)          " Change in Control" means any sale of capital stock of the Company or consolidation or merger of the Company with or into any other corporation or other entity or person, or any other corporate reorganization, in which the stockholders of the Company immediately prior to such sale, consolidation, merger or reorganization, do not hold at least a majority of the resulting or surviving corporation's voting power immediately after such consolidation, merger or reorganization, or the sale, lease, or other disposition of all or substantially all of the asset s of the Company. 
+   
+ (b)          " Exercise Period" means the period commencing on the date of this Warrant and ending on 5:00 p.m. (prevailing local time at the principal executive office of the Company) on the tenth anniversary  of the date of this Warrant. 
+   
+ 
+ 
+ 12 
+ 
+ 
+   
+ 
+ 
+   
+ (c)          " Fair Market Value" means, for any date, the price determined by the first of the following clauses that applies: (a) if the Common Stock is then listed or quoted on a Trading Market, the daily volume weighted average price of the Common Stock for such date (or the nearest preceding date) on the Trading Market on which the Common Stock is then listed or quoted as reported by Bloomberg L.P. (based on a Trading Day from 9:30 a.m.(New York City time) to 4:02 p.m. (New York City time)), (b) if the OTC Markets, Inc. OTCQB is not a Trading Market, the volume weighted average price of the Common Stock for such date (or the nearest preceding date) on the OTCQB, (c) if the Common Stock is not then listed or quoted for trading on the OTCQB and if prices for the Common Stock are then reported in the "Pink Sheets" published by Pink OTC Markets, Inc. (or a similar organization or agency succeeding to its functions of reporting prices), the most recent bid price per share of the Common Stock so reported, or (d) in all other cases, the fair market value of a share of Common Stock as determined by an independent appraiser selected in good faith by the Holder and reasonably acceptable to the Company, the fees and expenses of which shall be paid by the Company. 
+   
+ (d)         " Trading Day" means (x) if the Common Stock is not listed on the NYSE Euronext or NYSE AMEX but sale prices of the Common Stock are reported on Nasdaq Global Market, Nasdaq Global Select Market, Nasdaq Capital Market or another automated quotation system, a day on which trading is reported on the principal automated quotation system on which sales of the Common Stock are reported, (y) if the Common Stock is listed on the NYSE Euronext or NYSE AMEX, a day on which there is trading on such stock exchange, or (z) if the foregoing provisions are inap plicable, a day on which quotations are reported by National Quotation Bureau Incorporated. 
+   
+ (e)          " Trading Market" means any of the following markets or exchanges on which the Common Stock is listed or quoted for trading on the date in question: the NYSE AMEX, the Nasdaq Capital Market, the Nasdaq Global Market, the Nasdaq Global Select Market, the New York Stock Exchange or the OTCQB operated by OTC Markets, Inc. (or any successors to any of the foregoing). 
+   
+ (f)          " VWAP" means, for any date, the price determined by the first of the following clauses that applies: (a) if the Common Stock is then listed or quoted on a Trading Market, the daily volume weighted average price of the Common Stock for the preceding 10 Trading Days on the Trading Market on which the Common Stock is then listed or quoted as reported by Bloomberg L.P. (based on a Trading Day from 9:30 a.m. (New York City time) to 4:02 p.m. (New York City time), (b) if the OTCQB operated by OTC Markets, Inc. is not a Trading Market, the volume weighted average price of the Common Stock for the nearest preceding 10 days on the OTCQB, (c) if the Common Stock is not then listed or quoted for trading on the OTCQB and if prices for the Common Stock are then reported in the "Pink Sheets" published by Pink OTC Markets, Inc. (or a similar organization or agency succeeding to its functions of reporting prices), the last reported bid price averaged over the preceding 10 days per share of the Common Stock so reported, or (d) in all other cases, the fair market value of a share of Com mon Stock as determined by the Company's board of directors. 
+   
+ 
+ 
+ 13 
+ 
+ 
+   
+ 
+ 
+   
+ 2.             Exercise of Warrant . 
+   
+(a)          The purchase rights represented by this Warrant are exercisable by the Holder, in whole or in part, during the Exercise Period by delivery of the form of Notice of Exe rcise attached hereto as  Annex A  (the " Notice of Exercise") duly completed and executed by the Holder by e-mail or facsimile, to the Company at its principal executive office. The Holder shall deliver to the Company payment in cash, in lawful money of the United States of America, including by certified or official bank check made payable to the order of the Company or by wire transfer of immediately available funds to an account designated by the Company, of an amount equal to the Exercise Price multiplied by the number of shares of Common being purchased pursuant to such exercise of the Warrant within two (2) business days of delivery of the Notice of Exercise. The number of shares of Common Stock to be issued upon each exercise of this Warrant shall be as set forth in the Notice of Exercise delivered to the Company by the Holder; provided that the Notice of Exercise is submitted by facsimile or e-mail (or by other means resulting in, or reasonably expected to result in, notice) to the Company before 6:00 p.m., New York, New York time on such exercise date. 
+   
+(b)          This Warrant may be exercised for less than the full number of shares of Common Stock calculated above,  provided   that this Warrant may not be exercised in part for less than a whole number of shares of Common Stock. Upon any such partial exercise, the Company at its expense will forthwith issue to the Holder a new Warrant or Warrants of like tenor exercisable for the number of shares of Common Stock as to which rights have not been exercised (subject to adjustment as herei n provided), such Warrant or Warrants to be issued in the name of the Holder or its nominee. 
+   
+(c)         As soon as practicable after the exercise of this Warrant and in any event within ten (10) business days after the Exercise Price is paid as set forth above for an exercise for cash, the Company, at its expense, will cause to be issued in the name of and delivered to the Holder a certificate or certificates for the number of duly authorized, validly issued, fully paid and non-assessable shares of Common Stock to which the Holder shall be entitled upon such exercise, plus, in lieu of any fractional share to which the Holder  would otherwise be entitled, cash in an amount determined in accordance with  Section 3(d) hereof. The Company agrees that the shares so purchased shall be deemed to be issued to the Holder as the record owner of such shares as of the close of business on the date on wh ich this Warrant shall have been surrendered and payment made for such shares as aforesaid. 
+   
+(d)         Prior to the exercise of this Warrant, the Holder shall not be entitled to any rights of a stockholder of the Company with respect to shares for which this Warrant shall be exercisable, including, without limitation, the right to vote, to receive dividends or other distributions or to exercise any preemptive rights, and shall not be entitled to r eceive any notice of any proceedings of the Company. 
+   
+ 
+ 
+ 14 
+ 
+ 
+   
+ 
+ 
+   
+(e)          In the event that the Company proposes to engage in a Change in Control, it shall give the Holder written notice of its intention not less than ten (10) days prior to the date of the proposed closing of such transaction. The notice shall describe the material terms and conditions upon which the Company proposes to consummate such transaction. 
+   
+ 3.             Adjustments . 
+   
+ (a)           Adjustments Generally. In order to prevent dilution of the rights granted hereunder in the specific circumstances contemplated by this  Section 3 , the Exercise Price shall be subject to adjustment from time to time in accordance with this  Section 3 . Upon each adjustment of the Exercise Price pursuant to  Section 3(b) and 3(c) (but not Section 3(d)), the Holder shall thereafter be entitled to acquire upon exercise, at the Exercise Price resulting from such adjustment, the number of shares of Common Stock determined by (i) multiplying (A) the Exercise Price in effect immediately prior to such adjustment by (B) the number of shares of Common Stock issuable upon exercise hereof immediately prior to such adjustment, and (ii) dividing the product thereof by the Exercise Price resulting from such adjustment;  provided   that no such adjustments shall be made in the Exercise Price and/or the number of shares of Common Stock subject to this Warrant if the conversion ratio of the Common Stock already ref lects such event. 
+   
+ (b)           Subdivisions, Stock Dividends and Recapitalizations. In case the Company shall at any time subdivide its outstanding shares of Common Stock into a greater number of shares (including, without limitation, through any stock split effected by means of a dividend on the Common Stock which is payable in Common Stock), the Exercise Price in effect immediately prior to such subdivision shall be proportionately reduced, and, conversely, in case the outstanding shares of Common Stock of the Company shall be combined into a smaller number of shares, the Exercise Price in effect immediately prior to such combination shall be proportionately increased, unless the conversion ratio of such Common Stock already reflects such event. 
+   
+ (c)           Reorganization, Reclassification, Consolidation, Merger or Sale of Assets. If any capital reorganization or reclassification of the capital stock of the Company, or consolidation or merger of the Company with another corporation, or the sale of a significant amount of assets to another corporation shall be effected in such a way that (i) does not constitute a Change in Control, and (ii) holders of Common Stock shall be entitled to receive stock, securities, cash or other property with respect to or in exchange for Common Stock, then, as a condition of such reorganization, reclassification, consolidation, merger or sale, lawful and adequate provision shall be made whereby the Holder shall have the right to acquire and receive upon exercise of this Warrant such shares of stock, securities, cash or other property of the successor corporation that a holder of the shares deliverable upon exercise of this Warrant would have been entitled to receive in such reorganization, reclassification, consolidation, merger or sale if this Warrant had been exercised immediately before such reorganization, reclassification, consolidation, merger or sale. The foregoing provisions shall similarly apply to successive reorganizations, reclassifications, consolidations, mergers or sales and to the stock or securities of any other corporation that are at the time receivable upon the exercise of this Warrant. In all events, appropriate adjustments (as determined by the Board of Directors of the Company) shall be made in the application of the provisions of this Warrant with respect to the rights and interests of the Holder after the transaction, to the end that the provisions of this Warrant shall be applicable after that event, as near as reasonably may be, in relation to any shares or other property deliverable after that event upon exercise of this Warrant. 
+   
+ 
+ 
+ 15 
+ 
+ 
+   
+ 
+ 
+   
+ (d)           Share Issuance. If, at any time after the date hereof while the Warrant is outstanding, the Company shall make a Dilutive Issuance (as defined below), for a price per share that is less than the Exercise Price that would be in effect at the time of such Dilutive Issuance, then, and thereafter successively upon each such Dilutive Issuance, the Exercise Price shall be reduced to the price per share in the Dilutive Issuance and if more than one Dilutive Issuance occurs while this Warrant is exercisable, the Exercise Price shall be reduced to the price per share in the Dilutive Issuance with the lowest price per share. In such event, the number of shares of Common Stock which may be acquired upon exercise of this Warrant shall not change. The reduction of the Exercise Price described in this paragraph is in addition to the other rights hereunder. 
+   
+ A " Dilutive Issuance" shall mean the issuance by the Company, other than an Excepted Issuance (as defined below) of any Common Stock, security or debt instrument carrying the right to convert such security or debt instrument into Common Stock, or of any warrant, right or option to purchase Common Stock with a purchase price, exercise price or conversion price less than the Exercise Price. A Dilutive Issuance for no consideration will be deemed issuable or to have been issued for $0.001 per share of Common Stock. 
+   
+ For purposes of this Warrant, " Excepted Issuance" shall mean (i) any issuance or sale by the Company of its securities as full or partial consideration in connection with a strategic merger, acquisition, consolidation or purchase of the securities or assets of a corporation or other entity (or any division or business unit thereof) so long as such issuances are not for the purpose of raising capital, (ii) any issuance of securities in connection with strategic supply, sale or license agreements and other partnering arrangements so long as such issuances are not for the purpose of raising capital, (iii) any issuance of securities upon the conversion or exercise of options or convertible securities issued on or prior to the date hereof, or (iv) any issuance of shares of Common Stock in connection with employee benefit plans and compensation related arrangements in the ordinary course and consistent with past practice approved by the Boa rd of Directors. 
+   
+ (e)           Fractional Shares. The Company shall not issue fractions of shares of Common Stock upon exercise of this Warrant or scrip in lieu thereof. If any fraction of a share of Common Stock would, except f or the provisions of this  Section 3(e), be issuable upon exercise of this Warrant, then the Company shall in lieu thereof pay to the person entitled thereto an amount in cash equal to the current value of such fraction, calculated to the nearest one-hundredth (1/100) of a share, to be computed on the basis of the fair market value per share as determined in good faith by the Board of Directors o f the Company. 
+   
+ 
+ 
+ 16 
+ 
+ 
+   
+ 
+ 
+   
+ (e)           Certificate as to Adjustments . Whenever the Exercise Price shall be adjusted as provided in  Section 3 hereof, the Company shall promptly compute such adjustment and furnish to the Holder a certificate setting forth such adjustment and showing in reasonable detail the facts requiring such adjustment, the Exercise Price that will be effective after such adjustment and the number of shares and the amount, if any, of other property that at the time would be rec eived upon the exercise of this Warrant. 
+   
+ 4.             Reservation of Stock Issuable on Exercise of Warrants. The Company shall at all times reserve and keep available out of its authorized but unissued stock, solely for the issuance and delivery upon the exercise of this Warrant and other similar Warrants, such number of its duly authorized shares of Common Stock as from time to time shall be issuable upon the exercise of this Warrant and other similar Warrants. All of the shares of Common Stock issuable upon exercise of this Warrant and other similar Warrants, when issued and delivered in accordance with the terms hereof and thereof, will be duly authorized, validly issued, fully paid and non-assessable, subject to no lien or other encumbrance other than restrictions on transfer arising under applicable securities  laws and restrictions imposed by  Section 6(a)  hereof and the Agreements to which reference is made in  Section 6(c)  hereof. 
+   
+ 5.             Replacement of Warrant. Upon receipt of evidence reasonably satisfactory to the Company of the loss, theft, destruction or mutilation of this Warrant and (in the case of loss, theft or destruction) upon delivery of an indemnity agreement reasonably satisfactory to the Company (with surety if reasonably required), or (in the case of mutilation) upon surrender and cancellation ther eof, the Company will issue, in lieu thereof, a new Warrant of like tenor and amount. 
+   
+ 6.             Negotiability . This Warrant is issued upon the following terms: 
+   
+ (a)           Transfer. By acceptance hereof, the Holder acknowledges and agrees that the Holder is acquiring the Warrant and the shares of Common Stock issuable upon exercise hereof for investment for its own account, not as a nominee or agent, and not with a view to, or for resale in connection with, any distribution thereof, and Holder has no present intention of selling, gran ting any participation in, or otherwise distributing the same. 
+   
+(b)          Subject to compliance with clause (e) of this Section 6, this Warrant and all rights hereunder are transferable, in whole or in part, upon the books of the Company by the registered holder hereof in person or by duly authorized attorney, and a new warrant shall be made and delivered by the Company, of the same tenor and date as this Warrant but registered in the name of one or more transferees, upon surrender of this Warrant, duly endorsed, to the Company. All expenses (other than stock transfer taxes) and other charges payable in connection with the preparation, execution and delivery of the new warrants pursuant to this Section 6 shall be paid by the Company. 
+   
+ 
+ 
+ 17 
+ 
+ 
+   
+ 
+ 
+   
+ (c)           Agreements. As a condition to the Company's obligation to issue shares of Common Stock upon exercise hereof, the Holder shall execute the Notice of Exercise attached hereto as  Annex A . 
+   
+ (d)           Transfer Taxes. The Company shall not be required to pay any federal or state transfer tax or charge that may be payable in respect of any transfer involved in the transfer or delivery of this Warrant or the issuance or delivery of certificates for Common Stock in a name other than that of the Holder or to issue or deliver any certificates for Common Stock upon the exercise of this Warrant until any and all such taxes and charges shall have been paid by the Holder or until it has been established to the Company's reasonable satisfaction that no suc h tax or charge is due. 
+   
+ (e)           Compliance with Securities Laws. The Holder, by acceptance hereof, acknowledges that this Warrant, the shares of Common Stock to be issued upon exercise hereof are being acquired solely for the Holder's own account and not as a nominee for any other party, and for investment, and that the Holder will not offer, sell or otherwise dispose of this Warrant, any shares of Common Stock to be issued upon exercise hereof except under circumstances that will not result in a violation of applicable federal and state securities laws. 
+   
+ 7.             Subdivision of Rights . Subject to  Section 6 , this Warrant (as well as any new Warrants issued pursuant to the provisions of this  Section 7) is exchangeable, upon the surrender hereof by the Holder, at the principal executive office of the Company for any number of new Warrants of like tenor and date representing in the aggregate the right to subscribe for and purchase the number of shares of Common Stock of the Company which may be subscribed for and purchased hereunder. 
+   
+ 8.             Miscellaneous . 
+   
+ (a)           Notices. Any notice or other communication required or permitted to be given hereunder shall be in writing by facsimile, e-mail, mail or personal delivery and shall be effective upon delivery of such notice. The addresses for such communications shall be to the addresses as shown on the books of the Company or to the Company at the address set forth in the Purchase Agreement. A party may from time to time change the address to which notices to it are to be delivered or mailed hereunder by notice in accordance with the provisions of this  Section 8(a) . 
+   
+ (b)           Books of the Company. The Company may treat the holder hereof as appearing on the Company's books at any time as the holder for all purposes. 
+   
+ (c)           Headings. The headings in this Warrant are for purposes of reference only, and shall not limit or otherwise affect the meaning hereof. 
+   
+ 
+ 
+ 18 
+ 
+ 
+   
+ 
+ 
+   
+ (d)           Amendment; Waiver. This Warrant and any term hereof may be amended, waived, discharged or terminated only by an instrument in writing signed by the party against whom enforcement of such amendment, waiver, discharge or termination is sought. No waivers of any term, condition or provision of this Warrant, in any one or more instances, shall be deemed to be, or construed as, a  further or continuing waiver of any such term, condition or provision. 
+   
+ (e)           Benefits of this Warrant. Nothing in this Warrant shall be construed to give any person or corporation other than the Company and the Holder any legal or equitable right, remedy or claim under this Warrant and this Warrant shall be for the sole and exclusive benefit of the Company and the Holder and any other permitted holder or holders of the Warrant. 
+   
+ [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+   
+ 
+ 
+ 19 
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the Company has caused this Warrant to be duly executed and delivered by its authorized officer, as of the date first above written. 
+ 
+ 
+       Geospatial Corporation         By:     Mark Smith   Chief Executive Officer   
+ 
+   
+ 
+ 
+ 20 
+ 
+ 
+   
+ 
+ 
+   
+ ANNEX A 
+   
+ NOTICE OF EXERCISE 
+   
+ To:            GEOSPATIAL CORPORATION 
+   
+(1)            The undersigned hereby elects to exercise the attached Warrant (i) for and to purchase thereunder, ______ shares of Common Stock, and herewith makes payment therefor  of $_______. 
+   
+(2)            Please issue a certificate or certificates representing said shares of Common Stock in the name of the undersigned or in such other name as is specified below: 
+ 
+         (Name)           (Address)         
+ 
+   
+(3)            Please issue a new Warrant for the unexercised portion of the attached Warrant in the name of the undersigned or in such other name as is specified below: 
+   
+ Dated:               (Name)                   (Signature)                   (Address)   
+ 
+   
+ 
+ Dated:                       (Signature)     
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ ASSIGNMENT FORM 
+   
+ (To assign the foregoing warrant, execute 
+ 
+ this form and supply required information. 
+ 
+ Do not use this form to exercise the warrant.) 
+   
+FOR VALUE RECEIVED, the foregoing Warrant and all rights evidenced thereby are hereby assigned to ________________________________________ whose address is ________________________ _________________________________ 
+   
+ Dated: ______________ 
+   
+   Holder's Signature:               Holder's Address:                     
+ 
+   
+ 
+ Signature Guaranteed:     
+ 
+   
+NOTE: The signature to this Assignment Form must correspond with the name as it appears on the face of the Warrant, without alteration or enlargement or any change whatsoever, and must be guaranteed by a bank or trust company. Officers of corporations and those acting in a fiduciary or other representative capacity should file proper evidence of authority to  assign the foregoing Warrant. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 

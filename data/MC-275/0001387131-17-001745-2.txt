@@ -1,0 +1,310 @@
+ htm 92387 Material contracts 10 2017-03-30T17:00:42.082626-05:00 Filing 0001387131-17-001745 2017-03-30 10-K Annual  & Quarterly Reports 0000887247 Adamis Pharmaceuticals Corp ADMP COMMON Nasdaq Capital Market 2834 Pharmaceutical Preparations No CALIFORNIA DELAWARE DELAWARE CELLEGY PHARMACEUTICALS INC false Small Reporting Company 001-36242 RESTRICTED STOCK UNIT AWARD GRANT NOTICE AND AWARD AGREEMENT Exhibit Exhibit 2 ex10-4.htm EX-10.4 2 ex10-4.htm RESTRICTED STOCK UNIT AWARD GRANT NOTICE AND AWARD AGREEMENT 
+ 
+ 
+   
+ 
+ 
+ ADAMIS PHARMACEUTICALS CORPORATION 10-K 
+   
+   
+ Exhibit 10.4 
+   
+ ADAMIS PHARMACEUTICALS CORPORATION 
+   
+ RESTRICTED STOCK UNIT AWARD GRANT NOTICE 
+AND AWARD AGREEMENT 
+   
+ (2009 EQUITY INCENTIVE PLAN) 
+   
+Capitalized terms used but not otherwise defined herein shall have the meanings given to them in the Adamis Pharmaceuticals Corporation 2009 Equity Incentive Plan (the " Plan "). 
+   
+ Participant Name:________________________ 
+   
+ NOTICE OF RESTRICTED STOCK UNIT GRANT 
+   
+ Adamis Pharmaceuticals Corporation (the " Company ") has granted the individual (" Participant ") named above an Award of Restricted Stock Units (the " RSUs " or " Restricted Stock Units"), on the terms and conditions of the Plan and this Restricted Stock Unit Award Grant Notice and Award Agreement, including the Terms and Conditions of Restricted Stock Unit Grant  attached hereto as  Exhibit A  (the " Terms and Conditions"), each of which is incorporated herein in its entirety and made a part hereof (collectively, the " Award Agreement "), as follows: 
+   
+ Grant Number:_______________________________ 
+   
+ Date of Grant:_______________________________ 
+   
+ Vesting Commencement Date:___________________ 
+   
+ Number of RSUs:_____________________________ 
+   
+ Vesting Schedule: See below 
+   
+ Vesting Schedule 
+   
+ The shares subject to this RSU Award Agreement shall vest as follows: 
+   
+ (a)                  [Sample vesting language:] [__% of the total number of RSUs will vest on the _______ anniversary of the Vesting Commencement Date, and ___% of the total number of RSUs will vest on each _______ anniversary thereafter, subject to Participant's Continuous Service to the Company through the vesting date, and shall vest earlier in the circumstances described in this Award Agreement.] [In the event of a Change in Control (as defined in the Plan and provided that the Change in Control constitutes a change in control event described in paragraph (a)(2)(A)(v) of Section 409A or any other applicable provisions of Section 409A regarding change in control events) before Participant's RSUs are fully vested, then all of the unvested RSUs subject to this Award shall become fully vested immediately prior to the effective date of such Change in Control and the Shares subject to this RSU shall be issued immediately prior to such Change in Control.] [Note: actual vesting language to match vesting schedule approved by the Board or the Committee.] In addition, vesting of the Restricted Stock Units may be subject to acceleration to the extent provided in this Award Agreement or in the Plan. 
+   
+ 
+ 
+ 1   
+ 
+ 
+   
+ 
+ 
+   
+ (b)                 [Sample vesting language:] [Vesting shall cease upon the termination of Participant's Continuous Service except as otherwise provided herein.] 
+   
+ (c)                  [Sample vesting language:] In the event of Participant's separation from service, as defined in Section 409A, and cessation of Continuous Service due to Participant's death before the RSUs are fully vested, then the unvested RSUs subject to this Award shall vest as follows: _____________________________. 
+   
+ (d)                 [Sample vesting language] In the event of Participant's separation from service, as defined in Section 409A, and cessation of Continuous Service due to Participant's Disability, as defined in the Plan and provided that such Disability constitutes "disability" as defined in Section 409A, then the unvested RSUs subject to this Award shall vest as follows: ____ _________________. 
+   
+ (e)                  [Sample vesting language] In the event that Participant's Continuous Service to the Company terminates or ceases in circumstances other than as described above, then unless expressly otherwise provided in a written agreement executed by the Company and Participant, any unvested Restricted Stock Units will terminate immediately (regardless of the reason for such termination and whether or not later found to be invalid or in breach of employment laws in the jurisdiction where Participant is providing services) and, unless otherwise expressly provided in the Award Agreement or otherwise determined by the Company, Participant's right to vest in the Restricted Stock Units under the Plan, if any, will terminate as of  such date and will not be extended by any notice or severance period. 
+   
+ For purposes of this Award Agreement, " Section 409A" means Section 409A of the Code, and any U.S. Treasury Regulations and U.S. Internal Revenue Service guidance thereunder, as each may be amended from time to time. 
+   
+ Additional Terms/Acknowledgements 
+   
+By accepting (whether in writing, electronically or otherwise) the Restricted Stock Units, Participant acknowledges and agrees to the following: Participant understands that Participant's employment or consulting relationship or service with the Company or a Parent or Subsidiary is for an unspecified duration, can be terminated at any time ( i.e., is at will), except where otherwise prohibited by applicable law, and that nothing in this Notice, the Award Agreement or the Plan changes the nature of that relationship. Participant acknowledges that the vesting of the Restricted Stock Units pursuant to this Award Agreement is earned only by Continuous Service to the Company or Parent or Subsidiary. By accepting the Restricted Stock Units, Participant consents to the electronic delivery of materials as set forth in the Award Agreement. 
+   
+By Participant's signature and the signature of the Company's representative below, Participant and the Company agree that this Award of Restricted Stock Units is granted under and governed by the terms and conditions of the Award Agreement. Participant acknowledges that he or she has reviewed the Plan and the Award Agreement, has had an opportunity to obtain the advice of counsel prior to executing this Award Agreement, and fully understands all provisions of the Plan and the Award Agreement. Participant hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Committee upon any questions relating to the Plan or the Award Agreement. 
+   
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+Participant acknowledges that as of the Date of Grant, this Restricted Stock Unit Grant Notice, the Award Agreement and the Plan set forth the entire understanding between Participant and the Company regarding the acquisition of the RSU pursuant to the Award specified above and supersede all prior oral and written agreements on the terms of this Award with the exception, if applicable, of any compensation recovery policy that is adopted by the Company or is otherwise required by applicable law. 
+    
+ PARTICIPANT: 
+   
+     Signature       Print Name   
+   
+ ADAMIS PHARMACEUTICALS CORPORATION 
+   
+ By:     
+ Name:     
+ Title:     
+   
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT A 
+   
+ TERMS AND CONDITIONS OF RESTRICTED STOCK UNIT GRANT 
+   
+ 1.                Grant . The Company has granted to Participant an Award of Restricted Stock Units (the " RSUs " or " Restricted Stock Units") in the amount set forth on the first page of the Restricted Stock Unit Grant Notice and Award Agreement (the " Notice of Grant"), subject to all of the terms and conditions of this Award Agreement and of the Plan. In the event of a conflict between the terms and conditions of the Plan and the terms and conditions of this Award Agreement, the terms and conditions of the Plan will prevail. Capitalized terms used but not otherwise defined herein shall have the meanings given to them i n the Plan. 
+   
+ 2.                Settlement; Issuance of Shares . 
+   
+ (a)                  Each Restricted Stock Unit represents the right to receive one share of common stock of the Company (" Share") on the date such Restricted Stock Unit vests. Unless and until the Restricted Stock Units have vested in the manner set forth in the Award Agreement, Participant will have no right to Shares pursuant to any such Restricted Stock Units. Any Restricted Stock Units that vest in accordance with the Award Agreement will be settled and paid to Participant (or in the event of Participant's death, to his or her estate) in whole Shares, subject to Participant satisfying any obligations for Tax-Related Items (as defined in Section 7). Subject to the provisions of Section 4, such vested Restricted Stock Units will be settled and paid in whole Shares as soon as reasonably practicable after vesting, but in each such case  within thirty (30) days following the vesting date (the " Original Issuance Date") (or as otherwise provided below). In no event will Participant be permitted, directly or indirectly, to specify the taxable year of the payment of any Shares under this Award. Settlement of RSUs shall be in Shares. Settlement means the delivery to Participant of the Shares vested under the RSUs. Fractional Shares will not be issued, and any fraction of a share will be rounded down to the nearest whole share. Prior to actual settlement of any vested Restricted Stock Units, such Restricted Stock Units will represent an unsecured obligation of the Company, payable (if at all) only from the general assets of the Company. The RSU Award is unfunded, and Participant shall be considered an unsecured creditor of the Company with respect to the Company's obligation, if any, to issue Shares pursuant to this Award Agreement. Participant shall not have voting or any other rights as a stockholder of the Company with respect to the Shares that are issuable pursuant to this Award Agreement until such Shares are issued to Participant pursuant to this Award Agreement. Upon such issuance, Participant will obtain full voting and other rights as a stockholder of the Company. Nothing contained in this Award Agreement, and no action taken pursuant to its provisions, shall create or be construed to create a trust of any kind or a fiduciary relationship between Participant and the Company or any other person. 
+   
+ 
+ 
+ -  1  -  
+ 
+ 
+   
+ 
+ 
+   
+ (b)                 Except with respect to issuance of Shares upon vesting and settlement of this RSU immediately before the occurrence of a Change in Control as described in the Notice of Grant, if (i) the Original Issuance Date does not occur (1) during an "open window period" applicable to Participant, as determined by the Company in accordance with the Company's then-effective policy on trading in Company securities, or (2) on a date when Participant is otherwise permitted to sell shares of Common Stock on an established stock exchange, stock market or quotation system (including, but not limited to, under a previously established Rule 10b5-1 trading plan) and sale of such shares would not violate any "lock-up" agreement undertaken in connection with an issuance of securities by the Company or any applicable registration requirements under the Securities Act of 1933, as amended, or any provision of the  federal securities laws,  and (ii) either withholding taxes do not apply or the Company elects, prior to the Original Issuance Date, (1) not to satisfy the Tax-Related Items described in Section 7 by withholding shares of Common Stock from the shares otherwise due, on the Original Issuance Date, to Participant under this Award, (2) not to permit Participant to enter into a "same day sale" or other similar commitment with a broker-dealer pursuant to Section 7 of this Agreement (including, but not limited to, a commitment under a previously established Rule 10b5-1 trading plan) and (3) not to permit Participant to pay Participant's Tax-Related Items in cash, then the shares that would otherwise be issued to Participant on the Original Issuance Date will not be delivered on such Original Issuance Date and will instead be delivered on the first business day when Participant is not prohibited under the Company's policies, applicable laws or any applicable lock-up agreement from selling shares of the Company's Common Stock in the open public market, but in no event later than December 31 of the calendar year in which the Original Issuance Date occurs (that is, the last day of Participant's taxable year in which the Original Issuance Date occurs), or, if and only if permitted in a manner that complies with Treasury Regulation Section 1.409A-1(b)(4), no later than the date that is the 15th day of the third calendar month of the year following the year in which the shares of Common Stock under this Award are no longer subject to a "substantial risk of forfeiture" within the meaning of Treasury Regulation Section 1.409A-1(d). Delivery of the shares pursuant to the provisions of this Section is intended to comply with the requirements for the short-term deferral exemption available under Section 409A (as defined below, and including Treasury Regulations Section 1.409A-1(b)(4)) and shall be construed and administered in such manner. The form of delivery ( e.g., a stock certificate or electronic entry evidencing such shares) shall be determined by the Company. 
+   
+ 3.                Vesting . 
+   
+ (a)                  Except as otherwise provided herein, the Restricted Stock Units to which this Award Agreement relates will vest in accordance with the vesting provisions set forth in the Notice of Grant, and vesting will cease upon the termination of Participant's Continuous Service. Except with respect to vesting of this RSU upon the occurrence of certain events as described in the Notice of Grant, upon termination of Participant's Continuous Service, the unvested portion of the RSU on the date of such termination will be forfeited at no cost to the Company and Participant will have no further right, title or interest in or to such RSU or the Shares of Common Stock underlying such RSU . 
+   
+ (b)                 The Committee or the Board may at any time accelerate the vesting schedule specified in this Award Agreement. 
+   
+ 4.                Committee Discretion . 
+   
+ (a)                  The Committee, in its discretion, may accelerate the vesting of the balance, or some lesser portion of the balance, of the unvested Restricted Stock Units at any time, subject to the terms of the Plan. If so accelerated, such Restricted Stock Units will be considered as having vested as of the date specified by the Committee. The payment of Shares vesting pursuant to this Section will in all cases be paid at a time or in a manner that is intended to be exempt from, or comply with, Section 409A. For purposes of the Award Agreement, " Section 409A" means Section 409A of the Code, and any U.S. Treasury Regulations and U.S. Internal Revenue Service guidance thereunder, as each may be amended from time to time. 
+   
+ 
+ 
+ -  2  -  
+ 
+ 
+   
+ 
+ 
+   
+ (b)                 Notwithstanding anything in the Plan or the Award Agreement to the contrary, if the vesting of the balance, or some lesser portion of the balance, of the Restricted Stock Units is accelerated in connection with the termination of Participant's providing Continuous Service (and provided that such termination constitutes a "separation from service" within the meaning of Section 409A, as determined by the Company), other than due to Participant's death, and if (x) Participant is a "specified employee" within the meaning of Section 409A at the time of such cessation of Participant's providing Continuous Service and (y) the payment of Shares pursuant to such accelerated Restricted Stock Units will result in the imposition of additional tax under Section 409A if paid to Participant on or within the six (6) month period following the cessation of Participant's providing Continuous Service, then the payment of such accelerated Restricted Stock Units will not be made until the date that is six (6) months and one (1) day following the date of termination of Participant's providing Continuous Service, except in the event of Participant's death following the cessation of Participant's providing Continuous Service, in which case, the Restricted Stock Units will be paid in Shares to Participant's estate as soon as practicable following his or her death. It is the intent of the Award Agreement that the Award Agreement and all payments and benefits hereunder be exempt from, or comply with, the requirements of Section 409A so that none of the Restricted Stock Units provided under the Award Agreement or Shares issuable thereunder will be subject to the additional tax imposed under Section 409A, and any ambiguities herein will be interpreted to be so exempt or so comply. Each payment payable under the Award Agreement is intended to constitute a separate payment for purposes of Section 409A (including U.S. Treasury Regulation Section 1.409A-2(b)(2)). 
+   
+ 5.                Forfeiture upon Termination of Providing Continuous Service. Subject to the vesting provisions set forth in the Notice of Grant, the balance of the Restricted Stock Units that have not vested as of the time of the termination of Participant's providing Continuous Service (regardless of the reason for such termination and whether or not later found to be invalid or in breach of labor laws in the jurisdiction where Participant is employed or the terms of Participant's employment or service agreement, if any, and will not be extended by any notice period mandated under local employment laws), and Participant's right to acquire any Shares hereunder, will terminate immediately in accordance with the provisions set forth in the Notice of Grant, without payment of any consideration to Participant. In case of any dispute as to whether termination of Continuous Service has occurred, the Committee will have sole discretion to determine whether such termination has occurred (including whether you may still be considered to be providing Services while on a leave of absence) and the effective date of such termination. 
+   
+ 6.                Death of Participant. Any distribution or delivery to be made to Participant under the Award Agreement will, if Participant is then deceased, be made to the administrator or executor of Participant's estate. Any such transferee must furnish the Company with (a) written notice of his or her status as transferee, and (b) evidence satisfactory to the Company to establish the valid ity of the transfer and compliance with any laws or regulations pertaining to said transfer. 
+   
+ 
+ 
+ -  3  -  
+ 
+ 
+   
+ 
+ 
+   
+ 7.                Tax Obligations . 
+   
+ (a)                   Responsibility for Taxes. Notwithstanding any contrary provision of the Award Agreement, no certificate representing the Shares (or proceeds from the sale of Shares) will be issued to Participant, unless and until satisfactory arrangements (as determined by the Company) will have been made by Participant with respect to the payment of income, employment, social insurance, payroll tax, fringe benefit tax, tax withholding obligations, or other tax-related items related to Participant's participation in the Plan and legally applicable to Participant or deemed b y the Company or Participant's employer (the " Employer") in its discretion to be an appropriate charge to Participant (even if legally applicable to the Company or the Employer) (" Tax-Related Items") which the Company determines must be withheld with respect to the Restricted Stock Units or the Shares. Participant acknowledges that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the Restricted Stock Units, including, but not limited to, the grant or vesting of the Restricted Stock Units, the subsequent sale of Shares acquired upon vesting of the Restricted Stock Units and the receipt of any dividends; and (ii) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the Restricted Stock Units to reduce or eliminate Participant's liability for Tax-Related Items or achieve any particular tax result. Participant acknowledges and agrees that the ultimate liability for all Tax-Related Items legally due by Participant is and remains Participant's responsibility. Further, if Participant is subject to tax in more than one jurisdiction between the Date of Grant and the date of any relevant taxable or tax withholding event, as applicable, Participant acknowledges and agrees that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction. Participant acknowledges that the Company has advised Participant to consult a tax adviser regarding Participant's tax obligations prior to settlement of this RSU or issuance or disposition of any Shares in the jurisdiction where Participant is subject to tax. 
+   
+ (b)                  Tax Withholding. Prior to the vesting of the Restricted Stock Units and settlement and issuance of Shares, Participant will pay or make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all withholding and payment obligations of Tax-Related Items of Participant, the Company and/or the Employer. In this regard, Participant authorizes the Company and/or the Employer, or their respective agents, at their discretion, to satisfy the obligations with regard to all Tax-Related Items by withholding from Participant's wages or other cash compensation paid to Participant by the Company and/or the Employer, or withholding from proceeds of the sale of Shares acquired upon vesting of the Restricted Stock Units either through a voluntary sale or through a mandatory sale arranged by the Company (on Participant's behalf pursuant to this authorization) without further consent from Participant. If withholding is performed from proceeds from the sale of Shares acquired upon vesting of the Restricted Stock Units, the Company may withhold or account for Tax-Related Items by considering maximum applicable rates, in which case Participant will receive a refund of any over-withheld amount in cash and will have no entitlement to the Common Stock equivalent. Alternatively, or in addition, if permissible under applicable local law, the Committee, in its sole discretion and pursuant to such procedures as it may specify from time to time, may permit or require Participant to satisfy his or her obligations for Tax-Related Items, in whole or in part (without limitation) by (i) delivery of cash or check to the Company or the Employer, (ii) electing to have the Company withhold otherwise deliverable Shares having a Fair Market Value (measured as of the delivery date) equal to the minimum statutory amounts required to be withheld for federal, state, and local tax purposes, (iii) selling a sufficient number of Shares otherwise deliverable to Participant through such means as the Company may determine in its sole discretion (whether through a broker or otherwise) equal to the amount required to be withheld, or (iv) any other arrangement approved by the Company or the Committee (and in compliance with the Company's insider trading policy, if applicable; provided, that if Participant is a Section 16 officer of the Company under the Securities Exchange Act of 1934, as amended, then the Committee (as constituted in accordance with Rule 16b-3 under the Exchange Act) shall establish the method of withholding from the alternatives above, any share withholding procedure will be subject to the express prior approval of the Committee, and the Committee shall establish the method pr ior to the taxable or withholding event.    Further, to the extent determined appropriate by the Company in its discretion, the Company will have the right (but not the obligation) to satisfy any obligations for Tax-Related Items by reducing the number of Shares otherwise deliverable to Participant. If the obligation for Tax-Related Items is satisfied by withholding in Shares, for tax purposes, Participant is deemed to have been issued the full number of Shares subject to the vested Restricted Stock Units, notwithstanding that a number of the Shares are held back solely in respect of the Tax-Related Items. In the event the Company's obligation to withhold arises prior to the delivery to Participant of Common Stock or it is determined after the delivery of Common Stock to Participant that the amount of the Company's withholding obligation was greater than the amount withheld by Participant, Participant agrees to indemnify and hold  the Company harmless from any failure by the Company to withhold the proper amount. 
+   
+ 
+ 
+ -  4  -  
+ 
+ 
+   
+ 
+ 
+   
+ 8.                Rights as Stockholder. Neither Participant nor any person claiming under or through Participant will have any of the rights or privileges of a stockholder of the Company in respect of any Shares deliverable hereunder, unless and until certificates representing such Shares will have been issued, recorded on the records of the Company or its transfer agents or registrars, and delivered to Participant. After such issuance, recordation and delivery, Participant will have all the rights of a stockholder of the Company with respect to voting such Shares and rec eipt of dividends and distributions on such Shares. 
+   
+ 9.                No Guarantee of Continued Service. PARTICIPANT ACKNOWLEDGES AND AGREES THAT THE VESTING OF THE RESTRICTED STOCK UNITS PURSUANT TO THE VESTING SCHEDULE HEREOF IS EARNED ONLY BY CONTINUING TO PROVIDE CONTINUOUS SERVICE TO THE EMPLOYER, OR THE COMPANY (OR A PARENT OR SUBSIDIARY OF THE COMPANY) AND NOT THROUGH THE ACT OF BEING HIRED, BEING GRANTED THIS AWARD OF RESTRICTED STOCK UNITS OR ACQUIRING SHARES HEREUNDER. PARTICIPANT FURTHER ACKNOWLEDGES AND AGREES THAT THE AWARD AGREEMENT, THE TRANSACTIONS CONTEMPLATED HEREUNDER AND THE VESTING SCHEDULE SET FORTH HEREIN DO NOT CONSTITUTE AN EXPRESS OR IMPLIED PROMISE OF CONTINUED EMPLOYMENT OR CONSTINUOUS SERVICE FOR THE VESTING PERIOD, FOR ANY PERIOD, OR AT ALL, AND WILL NOT INTERFERE IN ANY WAY WITH PARTICIPANT'S RIGHT OR THE RIGHT OF THE EMPLOYER, THE COMPANY OR ANY PARENT OR SUBSIDIARY OF THE COMPANY TO TERMINATE PARTICIPANT'S RELATIONSHIP AS A SERVICE PROVIDER OR AS PROVIDING  CONTINUOUS SERVICE AT ANY TIME. 
+   
+ 
+ 
+ -  5  -  
+ 
+ 
+   
+ 
+ 
+   
+ 10.              Nature of Grant . In accepting the grant, Participant acknowledges, understands and agrees that: 
+   
+ (a)                 the Award of the Restricted Stock Units is voluntary and occasional and does not create any contractual or other right to receive future Awards of Restricted Stock Units, or benefi ts in lieu of Restricted Stock Units, even if Restricted Stock Units have been granted in the past; 
+   
+ (b)                 all decisions with respect to future Awards of Restricted Stock Units or other awards, if any, will be at the sole discretion of the Company; 
+   
+ (c)                   Participant is voluntarily participating in the Plan; 
+   
+ (d)                  the Restricted Stock Units and the Shares subject to the Restricted Stock Units are not intended to replace any pension rights or compensation; 
+   
+ (e)                  the Restricted Stock Units and the Shares subject to the Restricted Stock Units, and the income and value of same, are not part of normal or expected compensation or salary for any purpose including, but not limited to, calculating any severance, resignation, termination, redundancy, dismissal, end-of-service payments, bonuses, long-service awards, pension o r retirement or welfare benefits or similar payments; 
+   
+ (f)                  the future value of the underlying Shares is unknown, indeterminable and cannot be predicted with certainty; 
+   
+ (g)                 unless otherwise provided in the Plan or by the Company in its discretion, the Restricted Stock Units and the benefits evidenced by the Award Agreement do not create any entitlement to have the Restricted Stock Units or any such benefits transferred to, or assumed by, another company nor be exchanged, cashed out or substituted for, in connection with any cor porate transaction affecting the Shares; 
+   
+ (h)                 the Restricted Stock Units and the Shares subject to the Restricted Stock Units are not part of normal or expected compensation or salary for any purpose; 
+   
+ (i)                   no claim or entitlement to compensation or damages shall arise from forfeiture of the Restricted Stock Units resulting from the termination of Participant's employment or status as providing Continuous Service to the Employer, the Company or any Parent or Subsidiary of the Company (for any reason whatsoever whether or not later found to be invalid or in breach of employment laws in the jurisdiction where Participant is a service provider or the terms of Participant's employment or service agreement, if any), and in consideration of the Award of the Restricted Stock Units to which Participant is otherwise not entitled, Participant irrevocably agrees never to institute any claim against the Employer, the Company or any Parent or Subsidiary of the Company, waives his or her ability, if any, to bring any such claim, and releases the Company, any Parent, any Subsidiary and the Employer from any such claim; if, notwithstanding the foregoing, any such claim is allowed by a court of competent jurisdiction, then, by participating in the Plan, Participant shall be deemed irrevocably to have agreed not to pursue such claim and agrees to execute any and all documents necessary to request dismissal or withdrawal of such claim; 
+   
+ 
+ 
+ -  6  -  
+ 
+ 
+   
+ 
+ 
+   
+ (j)                   the Plan is established voluntarily by the Company, it is discretionary in nature and it may be modified, amended, suspended or terminated by the Company at any time, to the extent  permitted by the Plan; 
+   
+ (k)                  nothing in this Award Agreement (including, but not limited to, the vesting of the RSU or the issuance of the Shares subject to the RSU), the Plan or any covenant of good faith and fair dealing that may be found implicit in this Award Agreement or the Plan shall: (i) confer upon Participant any right to continue in the employ of, or affiliation with, the Company or an Affiliate; (ii) constitute any promise or commitment by the Company or an Affiliate regarding the fact or nature of future positions, future work assignments, future compensation or any other term or condition of employment or affiliation; (iii) confer any right or benefit under this Award Agreement or the Plan unless such right or benefit has specifically accrued under the terms of this Agreement or Plan; or (iv) deprive the Company of the right to terminate Participant at will and without regard to any future vesting oppo rtunity that Participant may have; and 
+   
+ (l)                   the Company has the right to reorganize, sell, spin-out or otherwise restructure one or more of its businesses or Affiliates at any time or from time to time, as it deems appropria te (a " reorganization"). Such a reorganization could result in the termination of Participant's Continuous Service, or the termination of Affiliate status of Participant's employer and the loss of benefits available to Participant under this Agreement, including but not limited to, the termination of the right to continue vesting in the RSU. This Award Agreement, the Plan, the transactions contemplated hereunder and the vesting schedule set forth herein or any covenant of good faith and fair dealing that may be found implicit in any of them do not constitute an express or implied promise of continued engagement as an employee or consultant for the term of this Agreement, for any period, or at all, and shall not interfere in any way  with the Company's right to conduct a reorganization. 
+   
+ 11.              No Advice Regarding Grant. The Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding Participant's participation in the Plan, or Participant's acquisition or sale of the underlying Shares. Participant is hereby advised to consult with his or her own personal tax, legal and financial advisors regarding his or her particip ation in the Plan before taking any action related to the Plan. 
+   
+ 
+ 
+ -  7  -  
+ 
+ 
+   
+ 
+ 
+   
+ 12.             Data Privacy . Participant understands that the Company and the Employer may hold certain personal information about Participant, including, but not limited to, Participant's name, home address and telephone number, date of birth, social insurance number or other identification number, salary, nationality, job title, any shares or directorships held in the Company, details of all Restricted Stock Units or any other entitlement to shares awarded, canceled, exercised, vested, unvested or outstanding in Participant's favor (" Data"), for the exclusive purpose of implementing, administering and managing the Plan. Participant understands that Data may be transferred to a stock plan service provider or other third party as may be selected by the Company to assist the Company with the implementation, administration and management of the Plan. Participant understands that the recipients of the Data may be located in the United States or elsewhere, and that a recipient's country of operations may have different data privacy laws and protections than Participant's country of residence. Participant understands that if Participant resides outside the United States, Participant may request a list with the names and addresses of any potential reci pients of Data by contacting Participant's local human resources representative.  Participant authorizes the Company, any stock plan service provider or other third party selected by the Company and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing his or her participation in the Plan. Participant understands that Data will be held only as long as is necessary to implement, administer and manage Participant's participation in the Plan. Participant understands that if Participant resides outside the United States, Participant may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing Participant's local human resources representative. Further, Participant understands that he or she is providing the consents herein on a purely voluntary basis. If Participant does not consent, or if Participant later seeks to revoke his or her consent, his or her employment status or service and career with the Employer will not be adversely affected; the only adverse consequence of refusing or withdrawing Participant's consent is that the Company might not be able to grant Participant Restricted Stock Units or other equity awards or administer or maintain such awards. Therefore, Participant understands that refusing or withdrawing his or her consent may affect Participant's ability to participate in the Plan. Participant hereby explicitly and unambiguously (i) consents to the collection, use and transfer, in electronic or other form, of Participant's Data as described in this Award Agreement and any other RSU grant materials by and among, as applicable, the Company, the Employer and any other Parent or Subsidiaries, for the exclusive purpose of implementing, administering and managing Participant's participation in the Plan, (ii) waives any privacy rights that Participant may have with respect to the Data, (iii) authorizes the Company and the Employer to store and transmit such information in electronic form, and (iv) authorizes the transfer of the Data to any jurisdiction that the Com pany or the Employer consider appropriate. 
+   
+ 13.             Address for Notices. Any notice to be given to the Company under the terms of the Award Agreement will be addressed to the Company, Attention: President, at the Company's principal executive office as reflected in its periodic filings with the Securities and Exchange Commission, or at such other address as the Company may hereafter designate in writing. 
+   
+ 14.              Transferability; Domestic Relations Order. Except to the limited extent provided in Section 6, this Award of Restricted Stock Units and the rights and privileges conferred hereby will not be transferred, assigned, pledged or hypothecated in any way (other than by will or by the laws of descent or distribution or court order, or unless otherwise permitted by the Committee on a case-by-case basis) and will not be subject to sale under execution, attachment or similar process. Upon any attempt to transfer, assign, pledge, hypothecate or otherwise dispose of this Award of Restricted Stock Units, or any right or privilege conferred hereby, or upon any attempted sale under any execution, attachment or similar process, this Award of Restricted Stock Units and the rights and privileges conferred hereby immediately will become null and void. Notwithstanding the foregoing, upon receiving written permission from the Board or the Committee, and provided that Participant and the designated transferee enter into transfer and other agreements required by the Company, Participant may transfer Participant's right to receive the distribution of Shares hereunder, pursuant to a domestic relations order or marital settlement agreement that contains the information required by the Company to effectuate the transfer. Participant is encouraged to discuss the proposed terms of any division of this RSU with the Company prior to finalizing the domestic relations order or marital settlement agreement to verify that Participant may make such transfer, and if so, to help ensure the required information is contained within the domestic relations order or marital s ettlement agreement. 
+   
+ 
+ 
+ -  8  -  
+ 
+ 
+   
+ 
+ 
+   
+ 15.              Binding Agreement. Subject to the limitation on the transferability of this Award of Restricted Stock Units contained herein, the Award Agreement will be binding upon and inure to the benefit of th e heirs, legatees, legal representatives, successors and assigns of the parties hereto. 
+   
+ 16.              Additional Conditions to Issuance of Shares. If at any time the Company will determine, in its discretion, that the listing, registration, qualification or rule compliance of the Shares upon any securities exchange or under any state, federal or foreign law, the tax code and related regulations or the consent or approval of any governmental regulatory authority is necessary or desirable as a condition to the issuance of Shares to Participant (or his or her estate) hereunder, such issuance will not occur, unless and until such listing, registration, qualification, rule compliance, consent or approval will have been completed, effected or obtained free of any conditions not acceptable to the Company. Where the Company determines that the delivery of the payment of any Shares will violate federal securities laws or other applicable laws, the Company will defer delivery until the earliest date at which the Company reasonably anticipates that the delivery of Shares no longer will cause such violation. The Company will make all reasonable efforts to meet the requirements of any such state, federal or foreign law or securities exchange and to obtain any such consent or approval of any such governmental authority or securities exchange. Subject to Section 22 of the Award Agreement, the Company reserves the right to impose other requirements on Participant's participation in the Plan, on the Restricted Stock Units and on any Shares acquired upon vesting of the Restricted Stock Units to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require Participant to sign any additional agreements  or undertakings that may be necessary to accomplish the foregoing. 
+   
+ 17.              Plan Governs. The Award Agreement is subject to all terms and provisions of the Plan. In the event of a conflict between one or more provisions of this Award Agreement and one or more provisio ns of the Plan, the provisions of the Plan will govern. 
+   
+ 18.              Committee Authority. The Committee will have the power to interpret the Plan and the Award Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules (including, but not limited to, the determination of whether or not any Restricted Stock Units have vested). All actions taken and all interpretations and determinations made by the Committee in good faith will be final and binding upon Participant, the Company and all other interested persons. No member of the Committee will be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Award Agreement. 
+   
+ 
+ 
+ -  9  -  
+ 
+ 
+   
+ 
+ 
+   
+ 19.             Electronic Delivery and Acceptance. The Company may, in its sole discretion, decide to deliver any documents related to this Award of Restricted Stock Units or future Restricted Stock Units that may be awarded under the Plan by electronic means or request Participant's consent to participate in the Plan by electronic means. Participant hereby consents to receive such documents by electronic delivery and agrees to participate in the Plan through any online or electronic system established and maintained by the Company or a third party designated by the Company, and consents to the electronic delivery of the Notice, this Agreement, the Plan, account statements, Plan prospectuses, financial reports of the Company, and all other documents that the Company is required to deliver to its security holders (including, without limitation, annual reports and proxy statements) or other communications or information related to the Restricted Stock Units and current or future participation in the Plan. Electronic delivery may include the delivery of a link to a Company intranet or the internet site of a third party involved in administering the Plan, the delivery of the document via e-mail or such other delivery determined at the Company's discretion. Participant acknowledges that Participant may receive from the Company a paper copy of any documents delivered electronically at no cost if Participant contacts the Company by telephone, through a postal service or electronic mail. Participant further acknowledges that Participant will be provided with a paper copy of any documents delivered electronically if electronic delivery fails; similarly, Participant understands that Participant must provide on request to the Company or any designated third party a paper copy of any documents delivered electronically if electronic delivery fails. Also, Participant understands that Participant's consent may be revoked or changed, including any change in the electronic mail address to which documents are delivered (if Participant has provided an electronic mail address), at any time by notifying the Company of such revised or revoked consent by telephone, postal service or electronic mail to the chief financial officer of the Company. Finally, Participant understands that Participant is not required to consent to electronic delivery. 
+   
+ 20.             Insider Trading Restrictions/Market Abuse Laws. Participant acknowledges that, depending on Participant's country, Participant may be subject to insider trading restrictions and/or market abuse laws, which may affect Participant's ability to acquire or sell the Shares under the Plan during such times as Participant is considered to have "inside information" or material non-public information regarding the Company. Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under any applicable Company insider trading policy. Participant acknowledges that it is Participant's responsibility to comply with any applicable restrictions, and Participant is advised to speak to Participant's personal a dvisors regarding such matters. 
+   
+ 21.             Imposition of Other Requirements. The Company reserves the right to impose other requirements on participation in the Plan, on the RSUs and on any Shares acquired under the Plan or this Award Agreement, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require Participant to sign any additional agreements or undertakings that may  be necessary to accomplish the foregoing. 
+   
+ 
+ 
+ -  10  -  
+ 
+ 
+   
+ 
+ 
+   
+ 22.                 Clawback or Recoupment. The RSUs, and any compensation paid or Shaers issued pursuant to the RSU, shall be subject to clawback or recoupment pursuant to any compensation clawback or recoupment policy adopted by the Board or the Company, or as may be required by law including without limitation the Dodd-Frank Wall Street Reform and Cnosumer Protection Act and implementing regulations thereunder, during the term of Participant's employment or other service that is applicable to executive officers, employees, directors or other service providers of the Company, which policies or law may, in addition to any other remedies available under such policies or laws, require the cancellation of Participant's RSUs (whether vested or unvested) and the recoupment of any gains realized with respect to Participant's RSUs. No recovery of compensation under such a clawback policy or applicable law will be an event giving rise to a right to voluntarily terminate employment upon a resignation for "good reason," or for a "constructive termination" or any similar term under any plan of or agreement with the  Company. 
+   
+ 23.                 Effect on Other Employee Benefit Plans. The value of the RSU subject to this Award Agreement shall not be included as compensation, earnings, salaries, or other similar terms used when calculating benefits under any employee benefit plan (other than the Plan) sponsored by the Company or any Affiliate except as such plan otherwise expressly provides. The Company expressly reserves its rights to amend, modify, or terminate any or all of the employee benefit plans of the Company or any Affiliate. 
+   
+ 24.                 Captions. Captions provided herein are for convenience only and are not to serve as a basis for interpretation or construction of the Award Agreement. 
+   
+ 25.                 Agreement Severable. In the event that any provision in the Award Agreement is held invalid or unenforceable, such provision will be severable from, and such invalidity or unenforceability will not b e construed to have any effect on, the remaining provisions of the Award Agreement. 
+   
+ 26.                 Modifications to the Award Agreement. The Award Agreement constitutes the entire understanding of the parties concerning the subjects covered. Participant expressly warrants that he or she is not accepting the Award Agreement in reliance on any promises, representations, or inducements other than those contained herein. Unless otherwise set forth herein, modifications to the Award Agreement or the Plan can be made only in an express written contract executed by a duly authorized officer of the Company. Notwithstanding anything to the contrary in the Plan or the Award Agreement, the Company reserves the right to revise the Award Agreement as it deems necessary or advisable, in its sole discretion and without the consent of Participant, to comply with Section 409A or to otherwise avoid imposition of any additional tax or income recognition under Section 409A in connection to this Award of Restricted Stock Units. 
+   
+ 27.                 Amendment, Suspension or Termination of the Plan. By accepting this Award of Restricted Stock Units, Participant expressly warrants that he or she has received an Award of Restricted Stock Units under the Plan, and has received, read and understood a description of the Plan. Participant understands that the Plan is discretionary in nature, is established voluntarily by the Company, and may be amended, sus pended or terminated by the Company at any time, to the extent permitted by the Plan. 
+   
+ 
+ 
+ -  11  -  
+ 
+ 
+   
+ 
+ 
+   
+ 28.                 Waiver. Participant acknowledges that a waiver by the Company of breach of any provision of the Award Agreement by Participant shall not operate or be construed as a waiver of any other provision of the Award Agreement, or of any subsequent breach by Participant or any other participant. 
+   
+ 29.                 Governing Law and Venue. The Award Agreement will be governed by the laws of Delaware without giving effect to the conflict of law principles thereof. For purposes of litigating any dispute that arises under this Award of Restricted Stock Units or the Award Agreement, the parties hereby submit to and consent to the exclusive jurisdiction of the federal and states for the judicial district in which San Diego County, California, is located, and agree that such litigation will be conducted in the courts of San Diego County, California, or the federal courts fo r the district in which San Diego County, California is located, and no other courts. 
+   
+ 30.                 Language. If Participant has received the Award Agreement or any other document related to this Award of Restricted Stock Units and/or the Plan translated into a language other than English and if the meaning of the translated version is different than the English version, the English version will control. 
+   
+ 31.                 Capitalization Adjustments. The number of Restricted Stock Units subject to this Award and the number of Shares deliverable with respect to such Restricted Stock Unit may be adjusted from time to time for Capitalization Adjustments as described in the Plan relating to a Capitalization Adjustment. Participant shall receive no benefit or adjustment to Participant's Award with respect to any cash dividend or other distribution that does not result from a Capitalization Adjustment as described in Section 9(a) of the Plan;  provided, however, that this sentence shall not apply with respect to any Shares that are delivered to Participant in connection with Participant's Award after such shares have been delivered to Participant. Any additional Restricted Stock Units, Shares, cash or other property that becomes subject to the Award pursuant to this Section shall be subject, in a manner determined by the Committee, to the same forfeiture restrictions, restrictions on transferability, and time and manner of delivery as applicable to the other Restricted Stock Units and Shares  covered by this Award. 
+   
+ 32.                 Code Section 409A. It is the intent of the Award Agreement that the Award Agreement and all payments and benefits hereunder be exempt from, or comply with, the requirements of Section 409A so that none of the Restricted Stock Units provided under the Award Agreement or Shares issuable thereunder will be subject to the additional tax imposed under Section 409A, and any ambiguities herein will be interpreted to be so exempt or so comply. Each payment payable under the Award Agreement is intended to constitute a separate payment for purposes of Section 409A (including U.S. Treasury Regulation Section 1.409A-2(b)(2)). For purposes of this Award Agreement, a termination of employment will be determined consistent with the rules relating to a "separation from service" as defined in Section 409A. Notwithstanding anything else provided herein, to the extent any payments provided under this Award Agreement in connection with Participant's termination of employment constitute deferred compensation subject to Section 409A, and Participant is deemed at the time of such termination of employment to be a "specified employee" under Section 409A, then such payment shall not be made or commence until the earlier of (i) the expiration of the six-month period measured from Participant's separation from service from the Company or (ii) the date of Participant's death following such a separation from service; provided, however, that such deferral shall only be effected to the extent required to avoid adverse tax treatment to Participant including, without limitation, the additional tax for which Participant would otherwise be liable under Section 409A(a)(1)(B) in the absence of such a deferral. To the extent any payment under this Award Agreement may be classified as a "short-term deferral" within the meaning of Section 409A, such payment shall be deemed a short-term deferral, even if it may also qualify for an exemption from Section 409A under another provision of Section 409A. Each separate payment pursuant to this Award Agreement is intended to constitute a separate payment for purposes of Section 1.409A-2(b)(2) of the Treasury Regulations. 
+   
+ 
+ 
+ -  12  -  
+ 
+ 
+   

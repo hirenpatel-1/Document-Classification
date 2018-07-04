@@ -1,0 +1,74 @@
+ htm 25065 Material contracts 10 2017-04-13T17:00:31.65387-05:00 Filing 0001193125-17-123414 2017-04-13 10-K Annual  & Quarterly Reports 0000884940 STEIN MART INC SMRT COM Nasdaq Global Market 5651 Family Clothing Stores No FLORIDA FLORIDA FLORIDA false Accelerated Filer 000-20052 FORM OF RESTRICTED STOCK AWARD AGREEMENT Exhibit Exhibit 8 d262560dex1013.htm EX-10.13 8 d262560dex1013.htm FORM OF RESTRICTED STOCK AWARD AGREEMENT 
+ Exhibit 10.13 
+ STEIN MART, INC. 
+ 2001 OMNIBUS PLAN 
+ RESTRICTED STOCK AWARD AGREEMENT 
+ (NON-EMPLOYEE  DIRECTOR) 
+ THIS RESTRICTED STOCK AWARD AGREEMENT  (NON-EMPLOYEE  DIRECTOR)  (the " Award Agreement ") is made and entered into as of the date set forth on the signature page hereof (the " Grant Date ") by and between  STEIN MART, INC.,  a Florida corporation (" Company "), and the  Non-Employee  Director of the Company whose signature is set forth on the signature page hereof (the " Non-Employee  Director "). 
+ W I T N E S S E T H 
+ WHEREAS, the Company has adopted the Stein Mart, Inc. 2001 Omnibus Plan, as amended and restated effective June 21, 2016 (the " Plan"), the terms of which, to the extent not stated herein, are specifically incorporated by reference in this Award Agreement; 
+ WHEREAS,  one of the purposes of the Plan is to permit Awards under the Plan to be granted to certain  Non-Employee Directors of the Company and its Affiliates and to further specify the terms and conditions under which such individuals may receive such Awards; 
+ WHEREAS,  the  Non-Employee  Director is now engaged by the Company or an Affiliate in a  Non-Employee Director capacity, and the Company desires him or her to remain in such capacity and to secure or increase his or her ownership of Shares in order to increase his or her incentive  and personal interest in the success and growth of the Company; and 
+ WHEREAS, defined terms used herein and not otherwise defined herein shall have the meanings set forth in the Plan. 
+ NOW, THEREFORE, in consideration of the premises and of the covenants and agreements herein set forth, the parties hereby mutually covenant and agree as follows: 
+ 1.     Restricted Stock Grant .  Subject to the terms and conditions set forth herein, the Company hereby grants to the  Non-Employee  Director the number of Shares of Restricted Stock set forth on the signature page hereof. 
+ 2.     Nontransferability of Shares . The Shares of Restricted Stock are not transferable other than by will or by the laws of descent and distribution. 
+ 3.     Risk of Forfeiture; Vesting . 
+ (a)    The Shares of Restricted Stock subject to this Award Agreement shall vest as follows (the " Service Condition"): One thirty-sixth (1/36) of the Shares of Restricted Stock shall vest on the last day of each consecutive calendar month (each, a " Vesting Date ") beginning the month of the Grant Date if the  Non-Employee  Director receiving such Award remains a  Non-Employee  Director of the Company on such Vesting Date. 
+   
+ 1 
+ 
+ 
+ (b)    Notwithstanding the foregoing, if the  Non-Employee  Director's service as a  Non-Employee Director with the Company is terminated due to death or Disability, or retirement at age 72 or above, or a Change of Control (as defined in the Plan) on or after the Grant Date, the Service Condition shall be deemed to have been met and the Shares of Restricted Stock will fully vest on the occurrence of such event and the risk of forfeiture with respect the reto will be removed. 
+ (c)    For purposes of this Award Agreement, " Disability " shall mean that the  Non-Employee Director is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment. The determination of whether a  Non-Employee Director has a Disability shall be determined under procedures established by the Board; provided, however, that, if any Award is subject to Code Section 409A, Disability shall on ly be given effect to the extent consistent with a "disability" as defined under Code Section 409A. 
+ 4.     Certificate Retained. The certificate(s) evidencing the Shares of Restricted Stock that are the subject of this Award Agreement will be held by the Company in safekeeping and delivered to the  Non-Employee Director upon vesting as provided in Section 3 above. If the Shares of Restricted Stock are forfeited, then the Company retains the right to cause the certificate(s) to be cancelled of record and the Shares of Restricted Stock shall thereupon be cancelled and no longer outstanding. 
+ 5.     Rights As Shareholder; No Right to Continuation as  Non-Employee  Director . The  Non-Employee Director shall have all rights as a holder of the Shares of Restricted Stock until and unless the Shares of Restricted Stock are forfeited and cancelled as provided in Section 3 above; provided, however, that dividends otherwise payable with respect to such Shares of Restricted Stock shall accrue and not be paid unless and until the vesting of the Shares of Restricted Stock with respect to which such dividends have accrued. Neither the Plan nor this Award Agreement shall confer upon the  Non-Employee  Director any right to be retained in any position, including as a  Non-Employee Director of the Company. Further, nothing in the Plan or in this Award Agreement shall be construed to limit the authority of the Company to terminate the service of the  Non-Employee  Director at any time, with or without cause. 
+ 6.     Tax Withholding . 
+(a) It shall be a condition of the Award of the Shares of Restricted Stock provided herein that the  Non-Employee  Director, and the  Non-Employee Director hereby acknowledges and agrees, shall pay to the Company upon the Company's demand, such amount as may be requested by the Company for the purpose of satisfying the Company's liability to withhold federal, state, or local income, employment or other taxes incurred by reason of the Award provided herein or upon the vesting of the Shares of Restricte d Stock. The amount that will be due from the  Non-Employee Director, if any, will be determined at the time the risk of forfeiture is removed and vesting occurs, or if a Section 83(b) election (discussed below) is made, as of the Grant Da te. 
+   
+ 2 
+ 
+ 
+ (b)    In the event that a Section 83(b) election is not made, the  Non-Employee Director may elect to have the Company withhold that number of Shares of Restricted Stock otherwise deliverable to the  Non-Employee Director upon the vesting of the Shares of Restricted Stock or to deliver to the Company a number of shares of common stock of the Company, par value $0.01 per share, in each case having a Fair Market Value on the Vesting Date equal to the maximum amount required to be withheld as a result of the vesting of the Shares of Restricted Stock. The election must be made in writing and must be delivered to the Company prior to the Vesting Date of the Shares of Restricted Stock. If the number of Shares so determined shall include a fractiona l share, the  Non-Employee Director shall deliver cash in lieu of such fractional share. All elections shall be made in a form approved by the Board and shall be subject to disapproval, in whole or in part  by the Board. 
+ (c)    The  Non-Employee  Director has reviewed with the  Non-Employee Director's own tax advisors the federal, state, local and foreign tax consequences of the transactions contemplated by this Award Agreement. The  Non-Employee Director is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The  Non-Employee  Director understands that the  Non-Employee  Director (and not the Company) shall be responsible for the  Non-Employee Director's own tax liability that may arise as a result of the transactions contemplated by this Award Agreement. The  Non-Employee  Director understands that Section 83 of the Internal Revenue Code of 1986, as amended (the " Code"), taxes as ordinary income the fair market value of the Shares of Restricted Stock as of the date the restrictions on the Shares lapse. In this context, "restriction" includes th e Service Condition set forth in Section 3 hereof. The  Non-Employee  Director understands that the  Non-Employee Director may elect to be taxed at the time the Shares of Restricted Stock are granted under this Award Agreement rather than when they become vested and no longer subject to a substantial risk of forfeiture by filing an election under Section 83(b) of the Code with the I.R.S. within 30 days of the Grant Date. 
+ THE  NON-EMPLOYEE  DIRECTOR ACKNOWLEDGES THAT IT IS THE  NON-EMPLOYEE DIRECTOR'S SOLE RESPONSIBILITY AND NOT THE COMPANY'S TO TIMELY FILE THE ELECTION UNDER SECTION 83(b) WITHIN 30 DAYS OF THE GRANT DATE, EVEN IF THE  NON-EMPLOYEE  DIRECTOR REQUESTS THE COMPANY OR ITS REPRESENTATIVES TO MAKE THIS FILING ON THE  NON-EMPLOYEE  DIRECTOR'S BEHALF. THE  NON-EMPLOYEE  DIRECTOR FURTHER ACKNOWLEDGES AND AGREES THAT IT IS THE  NON-EMPLOYEE  DIRECTOR'S SOLE RESPONSIBILITY TO NOTIFY THE COMPANY OF THE  NON-EMPLOYEE  DIRECTOR'S DECISION SO THE COMPANY CAN ACCOUNT FOR THE SHARES APPROPRIATELY. 
+ 7.     Powers of Company Not Affected . The existence of the Shares of Restricted Stock shall not affect in any way the right or power of the Company or its shareholders to make or authorize any combinations, subdivision or reclassification of the Shares or any reorganization, merger, consolidation, business combination, exchange of shares, or other change in the Company's capital structure or its business, or any issue of bonds, debentures or stock having rights or preferences equal, superior or affecting the Restricted Stock or the rights thereof or dissolution or liquidation of the Company, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise. 
+   
+ 3 
+ 
+ 
+ 8.      Interpretation by Board . The Non-Employee Director agrees that any dispute or disagreement which may arise in connection with this Award Agreement shall be resolved by the Board, in its sole discretion, and that any interpretation by the Board of the terms of this Award Agreement or the Plan and any determination made by the Board under this Award Agreement or the Plan may be made in the sole discretion of the Board and shall be final, binding, and conclusive. Any such determination need not be uniform and may be made differently among  Non-Employee Directors awarded Shares of Restricted Stock. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms a nd provisions of the Plan shall govern and prevail. 
+ 9.      Compliance with Law. The issuance and/or transfer of the Shares of Restricted Stock shall be subject to compliance by the Company and the Participant with all applicable requirements of federal and state securities laws and with all applicable requirements of any stock exchange on which the Company's Shares may be listed. No Shares shall be issued pursuant to this Award Agreement unless and until any then applicable requirements of state or federal laws and regulatory agencies have been fully complied with to the satisfaction of the Company and its counsel. The Participant understands that the Company is under no obligation to register the Shares with the Securities and Exchange Commission, any state securities commission or any  stock exchange to effect such compliance. 
+ 10.     Miscellaneous . 
+(a)    This Award Agreement shall be governed and construed in accordance with the laws of the State of Florida applicable to contracts made and to be performed therein between res idents thereof. 
+(b)    This Award Agreement may not be amended or modified except by the written consent of the parties hereto. 
+(c)    The captions of this Award Agreement are inserted for convenience of reference only and shall not be taken into account in construing this Award Agreement. 
+(d)    Any notice, filing or delivery hereunder or with respect to the Award of Shares of Restricted Stock shall be given to the  Non-Employee Director at either his usual work location or his home address as indicated in the records of the Company and shall be given to the Board or the Company at 1200 Riverplace Boulevard, Jacksonville, Florida 32202, Attention Corporate Secretary. All such notices shall be given by first class mail, postage prepaid, or by personal delivery. 
+(e)    This Award Agreement shall be binding upon and inure to the benefit of the Company and its successors and assigns and shall be binding upon and inure to the personal benefit  of the  Non-Employee  Director, any beneficiary and the personal representative(s) and heirs of the  Non-Employee  Director. 
+(f)    This Award Agreement may be executed in counterparts, each of which shall be deemed an original but all of which together will constitute one and the same instrument. Counterpart signature pages to this Award Agreement transmitted by facsimile transmission, by electronic mail or by any other electronic means will have the same effect as physical deliv ery of the paper document bearing an original signature. 
+   
+ 4 
+ 
+ 
+ (g)    The  Non-Employee  Director hereby acknowledges receipt of a copy of the Plan and this Award Agreement. The  Non-Employee Director has read and understands the terms and provisions thereof, and accepts the Restricted Stock subject to all of the terms and conditions of the Plan and this Award Agreemen t. 
+ [Signature Page Follows] 
+   
+ 5 
+ 
+ 
+IN WITNESS WHEREOF, the Company has caused this Award Agreement to be executed by its duly authorized officer, and the  Non-Employee  Director has hereunto affixed his hand, all on the day and year set forth below. 
+   
+ 
+   STEIN MART, INC By:   
+ 
+   
+ Its:   
+ D. Hunt Hawkins - Chief Executive Officer 
+   NON-EMPLOYEE  DIRECTOR   
+ Signed Electronically 
+   Name 
+ 
+ No. of Shares of Restricted Stock:                  
+ Grant Date:                      
+   
+ 6 

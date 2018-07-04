@@ -1,0 +1,708 @@
+ htm 191261 Articles of incorporation 3 2017-04-06T15:00:48.350919-05:00 Filing 0001387131-17-001968 2017-04-06 10-K/A Annual  & Quarterly Reports 0001494538 Corporate Capital Trust, Inc. CPTC COMMON OTC FLORIDA MARYLAND MARYLAND false 814-00827 SECOND ARTICLES OF AMENDMENT AND RESTATEMENT Exhibit Exhibit 2 ex3-3.htm EX-3.3 2 ex3-3.htm SECOND ARTICLES OF AMENDMENT AND RESTATEMENT 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Corporate Capital Trust, Inc. - 10-K/A 
+   
+ Exhibit 3.3 
+   
+ 
+ ARTICLES OF AMENDMENT AND RESTATEMENT OF 
+ CORPORATE CAPITAL TRUST, INC. 
+   
+FIRST: Corporate Capital Trust, Inc., a Maryland corporation, desires to amend and restate its articles of incorporation as currently in effect. 
+   
+SECOND: The provisions of the articles of incorporation of the Company (as defined below), dated June 9, 2010, which are now in effect and as amended and restated hereby, in accord ance with the Maryland General Company Law, are as follows: 
+   
+ SECOND AMENDED AND RESTATED ARTICLES OF INCORPORATION 
+ OF 
+ CORPORATE CAPITAL TRUST, INC. 
+   
+ * * * * * * * * * * 
+   
+ ARTICLE I 
+ NAME; DEFINITIONS 
+   
+ Section 1.1.  Name . The name of the corporation (the "Company") is Corporate Capital Trust, Inc. 
+   
+So far as may be practicable, the business of the Company shall be conducted and transacted under that name, which name (and the word "Company" whenever used in these Articles of Amendment and Restatement of Corporate Capital Trust, Inc. (the "Articles of Incorporation"), except where the context otherwise requires) shall refer to the Board of Directors collectively but not individually or personally and shall not refer to the Shareholders or to any officers, employees or agents of the Company or of such Directors. 
+   
+Under circumstances in which the Directors determine that the use of the name "Corporate Capital Trust, Inc." is not practicable, they may use any other designation or name for the  Company, subject to applicable law. 
+   
+ Section 1.2.  Definitions. As used in these Articles of Incorporation, the following terms shall have the following meanings unless the context otherwise requires: 
+   
+ " Acquisition Expenses" means expenses, including but not limited to legal fees and expenses, travel and communication expenses, costs regarding determination of creditworthiness and due diligence on prospective portfolio holding companies, non-refundable option payments on assets not acquired, accounting fees and expenses, and miscellaneous expenses relating to the purchase or a cquisition of assets, whether or not acquired. 
+   
+ " Acquisition Fees" means any and all fees and commissions, exclusive of Acquisition Expenses, paid by any Person to any other Person (including any fees or commissions paid by or to any Affiliate of the Company or the Adviser) in connection with the initial purchase or acquisition of assets by the Company. Included in the computation of such fees or commissions shall be any commission, selection fee, supervision fee, financing fee, non-recurring management fee or any fee of a similar nature, however designated. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ " Administrator" means the Person or Persons, if any, appointed, employed or contracted with by the Company pursuant to an Administrative Services Agreement to provide the administrative services necessary for the operation of the Company, including any Person to whom the Administrator subcontracts any and all such services and including any successor to an Administrator who enters into an administrative services agreement with the Company or who subcontracts with a successor Administrator. 
+   
+ " Adviser " or " Advisers" means the Person or Persons, if any, appointed, employed or contracted with by the Company pursuant to an Advisory Agreement to provide investment advisory services to the Company and who is registered as an investment adviser under the Investment Advisers Act of 1940, as amended, including any Person to whom the Adviser subcontracts any and all such services pursuant to a sub-advisory agreement and including any successor to an Adviser who enters into an Advisory Agreement with the Company or who subcontracts with a successor Advis er. 
+   
+ " Advisory Agreement" means that certain investment advisory agreement between the Company and the Adviser named therein pursuant to which the Adviser will act as the adviser to the Company and provide investment advisory, investment management and other specified services to the Company, including any sub-advisory agreement. 
+   
+ " Affiliate " or " Affiliated " means, with respect to any specified Person: 
+   
+(a)       any other Person directly or indirectly owning, controlling or holding, with the power to vote, ten percent (10%) or more of the outstanding voting securities of such spe cified Person; 
+   
+(b)       any other Person ten percent (10%) or more of whose outstanding voting securities are directly or indirectly owned, controlled or held, with the power to vote, by such sp ecified Person; 
+   
+(c)       any other Person directly or indirectly controlling, controlled by or under common control with such specified Person; 
+   
+(d)       any officer, director, trustee, partner, copartner or employee of such specified Person; and 
+   
+(e)       if such specified person is an investment company, any investment adviser thereof or any member of an advisory board thereof. 
+   
+ " assessment" means, additional amount of capital that may be mandatorily required of, or paid voluntarily by, a Shareholder beyond his or her subscription commitment excluding deferred paymen ts. 
+   
+ " Bylaws " means the bylaws of the Company, as the same are in effect and may be amended from time to time. 
+   
+ " capital contribution" means the total investment, including the original investment and amounts reinvested pursuant to distribution reinvestment plan in a program by a participant, or by all participants, as the case may be. Unless otherwise specified, capital contributions shall be deemed to include principal amounts to be received on account of deferred payments. 
+   
+ 
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+ " cash available for distribution" means Cash Flow plus cash funds available for distribution from Company reserves less amounts set aside for restoration or creation of reserves. 
+   
+ " Cash Flow" means Company cash funds provided from operations, without deduction for depreciation, but after deducting cash funds used to pay all other expenses, debt payments, capital impro vements and replacements. Cash withdrawn from reserves is not Cash Flow. 
+   
+ " Code" means the Internal Revenue Code of 1986, as amended from time to time, or any successor statute thereto. Reference to any provision of the Code shall mean such provision as in effect from time to time, as the same may be amended, and any successor provision thereto, as interpreted by any applicable regulations as in effect from time to time. 
+   
+ " Common Stock" means the common stock, par value $0.001 per share, of the Company that may be issued from time to time in accordance with the terms of these Articles of Incorporation and applic able law, as described in Article V hereof, including any class or series of Common Stock. 
+   
+ " Controlling Person" means, as to any specified Person, any other Person, whatever such other Person's title, who perform functions for such specified Person, as applicable, similar to those of: (a) a chairman or member of a board of directors of such specified Person; (b) an executive officer of such specified Person; or (c) those holding ten percent (10%) or more equity voting securities or interests in such specified Person, or having the power to direct or cause the direction of the such specified Person, whether through the ownership of voting secu rities, by contract, or otherwise. 
+   
+ " Directors ," " Board of Directors " or " Board" means, collectively, the individuals named in Section 4.1 of these Articles of Incorporation so long as they continue in office and all other individuals who have been duly elect ed and qualify as Directors of the Company hereunder. 
+   
+ " Exchange Act" means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder. 
+   
+ " Front End Fees" means fees and expenses paid by any party for any services rendered to organize the Company and to acquire assets for the Company, including Organization and Offering Expenses, A cquisition Fees, Acquisition Expenses, and any other similar fees, however designated by the Board. 
+   
+ " GAAP" means generally accepted accounting principles as in effect in the United States of America from time to time or such other accounting basis mandated by the SEC. 
+   
+ " Independent Director" means a Director who is not an "interested person" as that term is defined under Section 2(a)(19) of the 1940 Act. 
+   
+ " Independent Expert" means a Person with no material current or prior business or personal relationship with the Company or the Adviser, who is engaged to a substantial extent in the business of rendering opinions regarding the value of assets of the type held by the Company, and who is qualified to perform such work. 
+   
+ 
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+ " Investment in program assets" means the amount of capital contributions actually paid or allocated to the purchase or development of assets acquired by the program (including working capital reserves allocable thereto, except that working capital reserves in excess of three percent shall not be included) and other cash payments such as interest and taxes, but excluding front-end fees. 
+   
+ " Liquidity Event" means a Listing or any merger, reorganization, business combination, share exchange, acquisition by any Person or related group of Persons of beneficial ownership of all or substantially all of the shares of capital stock in the Company in one or more related transactions, or similar transaction involving the Company pursuant to which the Shareholders receive for their shares of capital stock, as full or partial consideration, cash, Listed or non-Listed equity Securities or combination thereof: (a) a Listing; (b) a sale or merger in a transaction that provides Shareholders with cash and/or securities of a publicly traded company; or (c) a sale of all or substantially all of the assets of the Company for cash  or other consideration. 
+   
+ " Listing" means the listing of the shares of Common Stock (or any successor thereof) on a national securities exchange or national securities association registered with the SEC or the receipt by the Shareholders of Securities that are approved for trading on a national securities exchange or national securities association registered with the SEC in exchange for Common Stock. The term "Listed" shall have the correlative meaning. With regard to the Common Stock, upon commencement of trading of the Common Stock on a national securities exchange or national securities association registered with the SEC, the Common Stock shall be deemed Listed. 
+   
+ " MGCL" means Titles 1 through 3 of the Corporations and Associations Article of the Annotated Code of Maryland as amended from time to time, or any successor statute thereto. 
+   
+ " Net Asset Value " has the meaning ascribed to it in Section 5.6 hereof. 
+   
+ " Net Worth " means the excess of total assets over total liabilities as determined by GAAP. 
+   
+ " 1940 Act" means the Investment Company Act of 1940, as amended from time to time, and the rules and regulations promulgated thereunder. 
+   
+ " Organization and Offering Expenses" means any and all costs and expenses incurred by and to be paid from the assets of the Company in connection with and in preparing for the formation, qualification and registration of the Company, and the marketing and distribution of shares, including, without limitation, total underwriting and brokerage discounts and commissions (including fees of the underwriters' attorneys), expenses for printing, engraving, amending, supplementing, mailing and distributing costs, salaries of employees while engaged in sales activity, telephone and other telecommunications costs, all advertising and marketing expenses (including the costs related to investor and broker-dealer sales meetings), charges of transfer agents, registrars, trustees, escrow agents or holders, depositories, experts, fees, expenses and taxes related to the filing, registration and qualification of the sale of the shares under  federal and state laws, including taxes and fees and accountants' and attorneys' fees. 
+   
+ 
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+   
+ " Person" means an individual, corporation, partnership, estate, trust joint venture, limited liability company or other entity or association. 
+   
+ " Roll-Up Entity" means a partnership, trust, corporation, or similar entity that would be created or would survive after the successful completion of a proposed Roll-Up Transaction. 
+   
+ " Roll-Up Transaction" means a transaction involving the acquisition, merger, conversion or consolidation either directly or indirectly of the Company and the issuance of securities of a Roll-Up Entity  to the Shareholders. Such term does not include: 
+   
+(a)         a transaction involving Securities of the Company that have been Listed for at least twelve (12) months; or 
+   
+(b)         a transaction involving the conversion to another corporate form or to a trust or association form of only the Company, if, as a consequence of the transaction, there w ill be no significant adverse change in any of the following: 
+   
+ (i)       Shareholders' voting rights; 
+   
+ (ii)       the term of existence of the Company; 
+   
+ (iii)       Adviser compensation; or 
+   
+ (iv)       the Company's investment objectives. 
+   
+ " SEC " means the U.S. Securities and Exchange Commission. 
+   
+ " Securities" means Common Stock, any other capital stock, shares or other evidences of equity or beneficial or other interests, voting trust certificates, bonds, debentures, notes or other evidences of indebtedness, secured or unsecured, convertible, subordinated or otherwise, or in general any instruments commonly known as "securities" or any certificates of interest, shares or participations in, temporary or interim certificates for, receipts for, guarantees of, or warrants, options or rights to subscribe to, purchase or acquire, any of the foregoing if and only if any such item is treated as a "security" under the Exchange Act, or applicable state securities laws. 
+   
+ " Shareholders " means the registered holders of the shares of the Company's capital stock. 
+   
+ " Shares " means the unit of ownership interest in the Company. 
+   
+ " specified asset program" means a program where, at the time a securities registration is ordered effective, at least 75% of the net proceeds from the sale of program interests are allocable to the purchase, construction, renovation, or improvement of individually identified assets or assets that provide a reasonably objective basis in conformity with the Guidelines of the American Institute of Certified Public Accountants to allow the issuance of prospective financial statements. Reserves shall not be included in the 75%. 
+   
+ 
+ 
+ 
+ 5   
+ 
+ 
+   
+ 
+ 
+   
+ " Sponsor" means any person directly or indirectly instrumental in organizing, wholly or in part, a program or any person who will control, manage or participate in the management of a program, and any affiliate of such person. Not included is any person whose only relation with the program is that of an independent manager of a portion of program assets, and whose only compensation is as such. "Sponsor" does not include wholly independent third parties such as attorneys, accountants, and underwriters whose only compensation is for professional services rendered in connection with the offering of program interests. A person may also be deemed a Sponsor of the program by: 
+   
+(a)       taking the initiative, directly or indirectly, in founding or organizing the business or enterprise of the program, either alone or in conjunction with one or more other  persons; 
+   
+(b)       receiving a material participation in the program in connection with the founding or organizing of the business of the program, in consideration of services or property,  or both services and property; 
+   
+ (c)       having a substantial number of relationships and contacts with the program; 
+   
+ (d)       possessing significant rights to control program properties; 
+   
+(e)       receiving fees for providing services to the program which are paid on a basis that is not customary in the industry; or 
+   
+(f)       providing goods or services to the program on a basis which was not negotiated at arm's length with the program. 
+   
+ ARTICLE II 
+ NATURE AND PURPOSE 
+   
+ The Company is a Maryland corporation within the meaning of the MGCL. 
+   
+The purpose of the Company is to conduct, operate and carry on the business of a non-diversified closed-end investment company operating as a business development company, as such terms are defined in the 1940 Act, subject to making an election therefor under the 1940 Act, and to carry on such other business as the Directors may from time to time determine pursuant to their authority under this Agreement. The Company may not, without the affirmative vote of holders of more than fifty percent (50%) of the outstanding shares of capital stock of the Company entitled to vote on the matter, change the nature of the Company's business so that the Company ceases to be, or withdraws the Company's election to be, treate d as a business development company under the 1940 Act. 
+   
+ 
+ 
+ 
+ 6   
+ 
+ 
+   
+ 
+ 
+   
+ ARTICLE III 
+ RESIDENT AGENT AND PRINCIPAL OFFICE 
+   
+The name and address of the resident agent of the Company in Maryland is The Corporation Trust Incorporated, 351 West Camden Street, Baltimore, Maryland 21201. The Company may have such principal office within the State of Maryland as the Directors may from time to time determine. The principal address of the Company within the State of Maryland is 351 West  Camden Street, Baltimore, Maryland 21201. 
+   
+The Company also may have such other offices or places of business within or without the State of Maryland as the Directors may from time to time determine. 
+   
+ ARTICLE IV 
+ PROVISIONS FOR DEFINING, LIMITING 
+ AND REGULATING CERTAIN POWERS OF THE 
+ CORPORATION AND OF THE SHAREHOLDERS AND DIRECTORS 
+   
+ Section 4.1.  Number of Directors. The business and affairs of the Company shall be managed under the direction of the Board of Directors. The number of Directors of the Company is five (5), which number may be increased or decreased from time to time only by the Directors pursuant to the Bylaws, but shall never be less than the minimum number required by the MGCL. The names of the initial Directors and their respective classification in accordance with Section 4.2 below are as follows: Thomas K. Sittema (Class II), Matthew W. King (Class III), Kenneth C. Wright (Cla ss I), Frederick Arnold (Class II) and James H. Kropp (Class III). 
+   
+A majority of the Board of Directors shall be Independent Directors, except for a period of up to sixty (60) days after the death, removal or resignation of an Independent Director  pending the election of such Independent Director's successor. 
+   
+The Company elects that, at all times that it is eligible to so elect, to be subject to the provisions of Section 3-804(c) of the MGCL, subject to applicable requirements of the 1940 Act, in order that any and all vacancies on the Board may be filled only by the affirmative vote of a majority of the remaining Directors in office, even if the remaining Directors do not constitute a quorum, and any Director elected to fill a vacancy shall serve for the remainder of the full term of the directorship in which such vacancy occurred and unt il a successor is duly elected and qualifies. 
+   
+ Section 4.2.  Classes of Directors. The Board of Directors shall be divided into three classes, designated Class I, Class II and Class III, as nearly equal in number as possible, and the term of office of Directors of one class shall expire at each annual meeting of Shareholders, and in all cases as to each Director such term shall extend until his or her successor shall be elected and shall qualify or until his or earlier resignation, removal from office, death or incapacity. Additional directorships resulting from an increase in number of Directors shall be apportioned among the classes as equally as possible. Class I initially shall consist of one Independent Director, Class II initially shall consist of one Independent Director and one non-Independent Director, and Class III initially shall consist of one Independent Director and one non-Independent Director. The initial term of office of Directors of Class I shall expire at the Company's first annual meeting of Shareholders; the initial term of office of Directors of Class II shall expire at the Company's second annual meeting of Shareholders; and the initial term of office of Directors of Class III shall expire at the Company's third annual meeting of Shareholders. Following such initial terms, at each annual meeting of Shareholders, a number of Directors equal to the number of Directors of the class whose term expires at the time of such meeting (or, if less, the number of Directors properly nominated and qualified for election) shall be elected to hold office until the third succeeding annual meeting of Shareholders after their election. Each Director may be reelected  to an unlimited number of succeeding terms in accordance with these provisions. 
+   
+ 
+ 
+ 
+ 7   
+ 
+ 
+   
+ 
+ 
+   
+At each annual election, Directors chosen to succeed those whose terms then expire shall be of the same class as the Directors they succeed, unless by reason of any intervening changes in the authorized number of Directors, the Board of Directors shall designate one or more directorships whose term then expires as directorships of another class in order to m ore nearly achieve equality of number of Directors among the classes. 
+   
+Notwithstanding the rule that the three classes shall be as nearly equal in number of Directors as possible, in the event of any change in the authorized number of Directors, each Director then continuing to serve as such shall nevertheless continue as a Director of the class of which such Director is a member until the expiration of his or her current term, or his or her prior death, resignation or removal. If any newly created directorship may, consistently with the rule that the three classes shall be as nearly equal in number of Directors as possible, be allocated to any class, the Board of Directors shall allocate it to that of the available class whose term of office is due to expire at the earliest date  following such allocation. 
+   
+The voting procedures and the number of votes required to elect a Director shall be as set forth in the Bylaws, which may be amended by the Board. 
+   
+ Section 4.3.  Shareholder Voting. Except as provided in Article II, Section 4.8, Section 6.2, Section 6.3, Section 10.2, Section 11.1 and Section 13.2 of these Articles of Incorporation, notwithstanding any provision of law requiring any particular action to be approved by the affirmative vote of the holders of shares of the Company's capital stock entitled to cast a greater number of votes, any such action shall be effective and valid if declared advisable and approved by the Board of Directors, and approved by a majority of the votes entitled to be cast at a meeting of Shareholders at which a quorum is present. All shares of all classes shall vote together as a single class provided that: (a) as to any matter with respect to which a separate vote of any class is required by the 1940 Act or any orders issued thereunder, or by the MGCL, such requirement as to a separate vote by that class shall apply in lieu of a general vote of all classes; (b) in the event that separate voting requirements apply with respect to one or more classes, then subject to subparagraph (c), the shares of all other classes not entitled to a separate vote shall vote together as a single class; and (d) as to any matter which in the judgment of the Board (which judgment shall be conclusive) does not affect the interest of a particular class, such class shall not be entitled to any vote and only the holders of shares of the one or more affected classes shall be entitled to vote. Notwithstanding any other provisions of these Articles of Incorporation or the Bylaws to the contrary, for such matters that require the vote of a majority of the outstanding voting capital stock of the Company under the 1940 Act, such majority vote shall be determined as set forth in Section 2(a)(42) of the 1940 Act. The provisions of this Section 4.3 shall be subject to the limitations of the MGCL, the 1940 Act and other applicable statutes or regulations. 
+   
+ 
+ 
+ 
+ 8   
+ 
+ 
+   
+ 
+ 
+   
+ Section 4.4.  Quorum. The determination of whether a quorum has been established for a meeting of the Company's Shareholders shall be as set forth in the Bylaws. 
+   
+ Section 4.5.  Preemptive Rights. Except as may be provided by the Board of Directors in setting the terms of classified or reclassified capital stock or as may otherwise be provided by contract approved by the Board, no Shareholder shall, as such Shareholder, have any preemptive right to purchase or subscribe for any additional capital stock of the Company or any other Security of the Com pany that it may issue or sell. 
+   
+ Section 4.6.  Appraisal Rights. Except as may be provided by the Board of Directors in setting the terms of any class or series of capital stock and except as contemplated by Section 3-708 of the MGCL, no Shareholder shall be entitled to exercise the rights of an objecting Shareholder under Title 3, Subtitle 2 of the MGCL or any successor provision thereto in connection with any transact ion. 
+   
+ Section 4.7.  Determinations by Board. The determination as to any of the following matters, made in good faith by or pursuant to the direction of the Board of Directors consistent with these Articles of Incorporation shall be final and conclusive and shall be binding upon the Company and every Shareholder: (i) the amount of the net income of the Company for any period and the amount of assets at any time legally available for the payment of dividends, redemption of its capital stock or the payment of other distributions on its capital stock; (ii) the amount of stated capital, capital surplus, net assets, other surplus, annual or other net profit, net assets in excess of capital, undivided profits or excess of profits over losses on sales of assets; (iii) the amount, purpose, time of creation, increase or decrease, alteration or cancellation of any reserves or charges and the propriety thereof (whether or not any obligation or liability for which such reserves or charges shall have been created shall have been paid or discharged); (iv) any interpretation of the terms, preferences, conversion or other rights, voting powers or rights, restrictions, limitations as to dividends or other distributions, qualifications or terms or conditions of redemption of any class or series of capital stock of the Company; (v) the fair value, or any sale, bid or asked price to be applied in determining the fair value, of any asset owned or held by the Company or any capital stock of the Company; (vi) any matter relating to the acquisition, holding and disposition of any assets by the Company; or (vii) any other matter relating to the business and affairs of the Company or required or permitted by applicable law, these Articles of Incorporation or the Bylaws or otherwise to be determined by the Board provided, however, that any determination by the Board as to any of the preceding matters shall not render invalid or improper any action taken or omitted prior to such determination and no Director shall b e liable for making or failing to make such a determination. 
+   
+ Section 4.8.  Removal of Directors. Subject to the rights of holders of one or more classes or series of capital stock to remove one or more Directors, any Director, or the entire Board may be removed from office at any time only for cause and only by the affirmative vote of holders of at least two-thirds of the shares of common stock entitled to be cast generally in the election of Directors. For the purpose of this paragraph, "cause" shall mean, with respect to any particular director, conviction of a felony or a final judgment of a court of competent jurisdiction holding that such director caused demonstrable, material harm to the Company through bad faith or active and deliberate dishonesty. 
+   
+ 
+ 
+ 
+ 9   
+ 
+ 
+   
+ 
+ 
+   
+ Section 4.9.  Business Combination Statute. Notwithstanding any other provision of these Articles of Incorporation or any contrary provision of law, the Maryland Business Combination Statute, found in Title 3, subtitle 6 of the MGCL, as amended from time to time, or any successor statute thereto, shall not apply to any "business combination" (as defined in Section 3-601(e) of the MGCL) of the Compan y and any Person. 
+   
+ ARTICLE V 
+ CAPITAL STOCK 
+   
+ Section 5.1.  Authorized Capital Stock. The amount of capital stock that the Company has authority to issue is one billion (1,000,000,000) shares of capital stock, $0.001 par value per share. All shares of capital stock shall be fully paid and nonassessable when issued, and the Company shall not make any mandatory assessment against any Shareholder beyond such Shareholder's subscription commitme nt. 
+   
+ Section 5.2.  Authorization by Board of Stock Issuance. The Board of Directors may authorize the issuance from time to time of shares of capital stock of the Company of any class or series, whether now or hereafter authorized, or securities or rights convertible into capital stock of any class or series, whether now or hereafter authorized, for such consideration as the Board may deem advisable (or without consideration in the case of a stock split or stock dividend), subject to such restrictions or limitations, if any, as may be set forth in these Articles of Incorporation or the Bylaws . 
+   
+ Section 5.3.  Authorization by Board of Classes and Series of Stock. A majority of the entire Board of Directors, including a majority of the Independent Directors, without any action by the Shareholders, may amend these Articles of Incorporation from time to time to increase or decrease the aggregate number of shares of capital stock or the number of shares of capital stock of any class or series that the Company has autho rity to issue. 
+   
+ Section 5.4.  Classification by Board. Without the assent or vote of the Shareholders, the Board of Directors may classify and reclassify any unissued shares of capital stock into one or more additional or other classes, including without limitation, preferred stock, or series as may be established from time to time, in its discretion by setting or changing in any one or more respects the designations, preferences, conversion or other rights, voting powers, restrictions, limitations as to dividends, qualifications or terms or conditions of redemption of such shares of capital stock and pursuant to such classification or reclassification to increase or decrease the number of authorized shares of any existing class or series. 
+   
+ Section 5.5.  Dividends and Distributions . 
+   
+(a)       Unless otherwise expressly provided in these Articles of Incorporation, the holders of each class or series of capital stock shall be entitled to dividends and distributions in such amounts and at such times as may be determined by the Board, and the dividends and distributions paid with respect to the various classes or series of capital stock may vary among such classes or series. Expenses related to the distribution of, and other identified expenses that properly should be allocated to the shares of, a particular class or series may be appropriately reflected (in a manner determined by the Board, in its discretion) and cause a difference in the Net Asset Value attributable to, and the dividend, red emption and liquidation rights of, the shares of each such class or series of capital stock. 
+   
+ 
+ 
+ 
+ 10   
+ 
+ 
+   
+ 
+ 
+   
+(b)       The Board of Directors shall cause the Company to provide for adequate reserves for normal replacements and contingencies (but the Company shall not be required to maintain reserves for payment of fees payable to the Adviser) by causing the Company to retain a reasonable percentage of proceeds from offerings and revenues. 
+   
+(c)       From time to time and not less than quarterly, the Company shall review the Company's accounts to determine whether cash distributions are appropriate. The Company may, subject to authorization by the Board of Directors, distribute to the Shareholders funds received by the Company that the Board of Directors deems unnecessary to retain in the Company. The Board may authorize the Company to declare and pay to Shareholders such dividends or distributions, in cash or other assets of the Company or in Securities of the Company or from any other source, as the Board in its discretion shall determine. The Board shall endeavor to authorize the Company to declare and pay such dividends and distributions (i) as shall be necessary for the Company to qualify as a "Regulated Investment Company" under the Code and a business development company under the 1940 Act, and (ii) to the extent that the Board deems it unnecessary for the Company to retain funds received by it; provided, however, that in each case Shareholders shall have no right to any dividend or distribution unless and until authorized by the Board and declared by the Company. The exercise of the powers and rights of the Board pursuant to this Section 5.5 shall be subject to the provisions of any class or series of shares at the time outstanding. The receipt by any Person in whose name any shares are registered on the records of the Company or by his or her duly authorized agent shall be a sufficient discharge for all dividends or distributions payable or deliverable in respect of such shares and from all liability to see to the application thereof. Distributions in kind shall not be permitted, except for distributions of readily marketable Securities, distributions of cash from a liquidating trust established for the dissolution of the Company and the liquidation of its assets in accordance with the terms of these Articles of Incorporation or distributions in which (i) the Board advises each Shareholder of the risks associated with direct ownership of the property, (ii) the Board offers each Shareholder the election of receiving such in-kind distributions, and (ii i) in-kind distributions are made only to those Shareholders that accept such offer. 
+   
+ Section 5.6.  Net Asset Value. The "Net Asset Value" per share of any class shall be the quotient obtained by dividing the value of the net assets of that class (being the value of the Securities and other assets attributable to that class less the liabilities attributable to that class) by the total number of shares of that class outstanding, all as determined by or under the direction of the Board of Directors in accordance with GAAP and the 1940 Act. Subject to the applicable provisions of the 1940 Act, the Board, in its sole discretion, may prescribe and shall set forth in the Bylaws of the Company or in a duly adopted resolution of the Board such bases and times for determining the value of the assets attributable to, and the Net Asset Value per share of outstanding shares of, each class, or the net income attributable to such shares, as the Board deems necessary or desirable. The Board shall have full discretion, to the extent not inconsistent with the MGCL and the 1940 Act, to determine which items shall be treated as income and which items as capital and whether any item of expense shall be charged to income or capital. Each such determination and allocation shall be conclusive and binding for all purposes. 
+   
+ 
+ 
+ 
+ 11   
+ 
+ 
+   
+ 
+ 
+   
+ Section 5.7.  Proportionate Rights. All shares of each particular class shall represent an equal proportionate interest in the assets attributable to the class (subject to the liabilities of that class), and each share of any particular class shall be equal to each other share of that class. The Board of Directors may, from time to time, divide or combine the shares of any particular class into a greater or lesser number of shares of that class without thereby changing the proportionate interest in the assets attributable to that class or in any way affecting the righ ts of holders of shares of any other class. 
+   
+ Section 5.8.  Distributions in Liquidation. Unless otherwise expressly provided in these Articles of Incorporation, in the event of any liquidation, dissolution or winding up of the Company, whether voluntary or involuntary, the holders of all classes of capital stock of the Company shall be entitled, after payment or provision for payment of the debts and other liabilities of the Company (as such liability may affect one or more of the classes and series of shares of capital stock of the Company), to share ratably in the remaining net assets of the Company. 
+   
+ Section 5.9.  Deferred Payments. The Company shall not have authority to make arrangements for deferred payments on account of the purchase price of shares of the Company's capital stock unless all of the following conditions are met: (a) such arrangements are warranted by the Company's investment objectives; (b) the period of deferred payments coincides with the anticipated cash needs of the Company; (c) the deferred payments shall be evidenced by a promissory note of the Shareholder, which note shall be with recourse, shall not be negotiable, shall be assignable only subject to defenses of the maker and shall not contain a provision authorizing a confession of judgment; and (d) selling commissions and Front End Fees paid upon deferred payments are payable when payment is made on the note. The Company shall not sell or assign the deferred obligation notes at a discount. In the event of default in the payment of defer red payments by a Shareholder, the Shareholder may be subjected to a reasonable penalty. 
+   
+ Section 5.10.  Fractional Shares. The Company shall have authority to issue fractional shares. Any fractional shares of capital stock shall carry proportionately all of the rights of a whole share, including, wit hout limitation, the right to vote and the right to receive dividends and other distributions. 
+   
+ Section 5.11.  Temporary Investments. The Board of Directors shall, in its sole discretion, cause to be temporarily placed the proceeds from offerings by the Company into short-term, highly liquid investments that, in the reasonable judgment of the Board, afford appropriate safety of principal during such time as it is determining the composition and allocation of the portfolio of the Company and the nature, timing and implementation of any changes thereto; provided, however, that the Board shall have no fiduciary or other obligation to select any short-term, highly liq uid investment based solely on any yield or return of such investment. 
+   
+ 
+ 
+ 
+ 12   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ Section 5.12.  Articles of Incorporation and Bylaws. All persons who shall acquire capital stock in the Company shall acquire the same subject to the provisions of these Articles of Incorporation and the Bylaws. 
+   
+ ARTICLE VI 
+ AMENDMENTS; CERTAIN EXTRAORDINARY ACTIONS 
+   
+ Section 6.1.  Amendments Generally. The Company reserves the right from time to time to make any amendment to these Articles of Incorporation, now or hereafter authorized by law, including any amendment altering the terms or contract rights, as expressly set forth in these Articles of Incorporation, of any shares of outstanding capital stock. All rights and powers conferred by these Articles  of Incorporation on Shareholders, Directors and officers are granted subject to this reservation. 
+   
+ Section 6.2.  Approval of Certain Articles of Incorporation Amendments. The affirmative vote of the holders of capital stock entitled to cast at least two-thirds (2/3) of all shares of capital stock of the Company entitled to vote on the matter shall  be necessary to effect: 
+   
+(a)       Any amendment to these Articles of Incorporation to make the Common Stock a "redeemable security" or to convert the Company, whether by merger or otherwise, from a "close d-end company" to an "open-end company" (as such terms are defined in the 1940 Act); and 
+   
+ (b)       Any amendment to Section 4.3, 4.8, Section 6.1 or this Section 6.2. 
+   
+ Section 6.3.   Approval of Certain Amendments to Bylaws. The Board of Directors shall have the exclusive power to adopt, alter or repeal any provision of the Bylaws and to make new Bylaws; provided, however, that any amendment to the Bylaws and any addition of new Bylaws that adversely affects the rights of Shareholders must be approved by holders of more than fifty percent (50%) of the outstanding shares of capi tal stock of the Company entitled to vote thereon. 
+   
+ ARTICLE VII 
+ LIMITATION OF LIABILITY; INDEMNIFICATION AND 
+ ADVANCE OF EXPENSES 
+   
+ Section 7.1.  Limitation of Shareholder Liability. No Shareholder shall be liable for any debt, claim, demand, judgment or obligation of any kind of, against or with respect to the Company by reason of being a Shareholder, nor shall any Shareholder be subject to any personal liability whatsoever, in tort, contract or otherwise, to any Person in connection with the Company's assets or the affairs of the Com pany by reason of being a Shareholder. 
+   
+ Section 7.2.  Limitation of Director and Officer Liability. To the fullest extent permitted by Maryland law, subject to any limitation set forth under the federal securities laws, or in this Article VII, no Director or officer of the Company shall be liable to the Company or its Shareholders for money damages. Neither the amendment nor repeal of this Section 7.2, nor the adoption or amendment of any other provision of these Articles of Incorporation or Bylaws inconsistent with this Section 7.2, shall apply to or affect in any respect the applicability of the preceding sentence with respect to any act or failure to act that occurred prior to such amendment, repeal or adoption. The Company may not incur the cost of that portion of liability insurance which insures the A dviser for any liability as to which the Adviser is prohibited from being indemnified. 
+   
+ 
+ 
+ 
+ 13 
+ 
+ 
+   
+ 
+ 
+   
+ Section 7.3.  Indemnification . 
+   
+(a)       Each Person who was or is made a party or is threatened to be made a party to or is otherwise involved in any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative, or investigative (hereinafter a "proceeding"), by reason of the fact: 
+   
+(i)       that he or she is or was a Director, officer, employee, Controlling Person or agent of the Company, or 
+   
+(ii)       that he or she, being at the time a Director, officer, employee or agent of the Company, is or was serving at the request of the Company as a director, trustee, officer, employee or agent of another corporation or of a partnership, joint venture, trust or other enterprise, including service with respect to an employee benefit plan (collectively, " another enterprise" or "other enterprise"), 
+   
+whether either in case (i) or in case (ii) the basis of such proceeding is alleged action or inaction (x) in an official capacity as a Director, officer, employee, Controlling Person or agent of the Company, or as a director, trustee, officer, employee or agent of such other enterprise, or (y) in any other capacity related to the Company or such other enterprise while so serving as a director, trustee, officer, employee or agent, shall be indemnified and held harmless by the Company to the fullest extent not prohibited by Maryland law and subject to paragraphs (b) and (c) below, from and against all liability, loss, judgments, penalties, fines, settlements, and reasonable expenses (including, without limitation, attorneys' fees and amounts paid in settlement) (collectively, "Liability and Losses") actually incurred or suffered by such Person in connection therewith. The Persons indemnified hereunder are hereinafter referred to as "Indemnitees." Such indemnification as to such alleged action or inaction shall continue as to an Indemnitee who has after such alleged action or inaction ceased to be a Director, officer, employee, Controlling Person or agent of the Company, or director, officer, employee or agent of another enterprise; and shall inure to the benefit of the Indemnitee's heirs, executors and administrators. The right to indemnification conferred under this Article VII: (A) shall be a contract right; (B) shall not be affected adversely as to any Indemnitee by any amendment or repeal of these Articles of Incorporation with respect to any action or inaction occurring prior to such amendm ent or repeal; and (C) shall vest immediately upon election or appointment of such Indemnitee. 
+   
+ 
+ 
+ 
+ 14 
+ 
+ 
+   
+ 
+ 
+   
+(b)       Notwithstanding anything to the contrary herein, the Company shall not provide any indemnification of an Indemnitee pursuant to paragraph (a) above, unless all of the fol lowing conditions are met: 
+   
+(i)       The Indemnitee has determined, in good faith, that any course of conduct of such Indemnitee giving rise to the Liability and Losses was in the best interests of the Compa ny. 
+   
+ (ii)       The Indemnitee was acting on behalf of or performing services for the Company. 
+   
+(iii)       Such Liability and Losses were not the result of (1) negligence or misconduct, in the case that the Indemnitee is a Director (other than an Independent Director), or (2) gross negligence or willful misconduct, in the case that the Indemnitee is an Independent Director. The determination required by this subparagraph (b)(iii) shall be made in the  manner specified in MGCL Section 2-418(e)(2). 
+   
+(iv)       Such indemnification is recoverable only out of the net assets of the Company and not from the Shareholders. 
+   
+(c)       Notwithstanding anything to the contrary herein, the Company shall not provide any indemnification of an Indemnitee pursuant to paragraph (a) above for any Liability and Losses arising from or out of an alleged violation of federal or state securities laws by such Indemnitee unless one or more of the following conditions are met: (i) there has been a successful adjudication on the merits of each count involving alleged material securities law violations as to the Indemnitee, (ii) such claims have been dismissed with prejudice on the merits by a court of competent jurisdiction as to the Indemnitee or (iii) a court of competent jurisdiction approves a settlement of the claims against the Indemnitee and finds that indemnification of the settlement and the related costs should be made, and the court considering the request for indemnification has been advised of the position of the SEC and of the published position of any state securities regulatory authority in which securities were offered or sold as to indemnification for violations of securities laws. 
+   
+ Section 7.4.  Payment of Expenses. The Company shall pay or reimburse reasonable legal expenses and other costs incurred by an Indemnitee in advance of final disposition of a proceeding if all of the following are satisfied: (i) the proceeding relates to acts or omissions with respect to the performance of duties or services on behalf of the Company, (ii) the Indemnitee provides the Company with written affirmation of the Indemnitee's good faith belief that the Indemnitee has met the standard of conduct necessary for indemnification by the Company as authorized by Section 7.3 hereof, (iii) the legal proceeding was initiated by a third party who is not a Shareholder or, if by a Shareholder of the Company acting in his or her capacity as such, a court of competent jurisdiction approves such advancement, and (iv) the Indemnitee provides the Company with a written agreement to repay the amount paid or reimbursed by the Company, together with the applicable legal rate of interest thereon, if it is ultimately determined by final, non-appealable decision of a court of competent jurisdiction, that the Indemnitee is not entitled to indemnification. The determination of reasonableness of such legal expenses and other costs shall be made in the manner specified in MGCL Section 2-418( e)(2) and (3). 
+   
+ 
+ 
+ 
+ 15 
+ 
+ 
+   
+ 
+ 
+   
+ Section 7.5.  Limitations to Indemnification . The provisions of this Article VII shall be subject to the limitations of the 1940 Act. 
+   
+ Section 7.6.  Express Exculpatory Clauses in Instruments. Neither the Shareholders nor the Directors, officers, employees or agents of the Company shall be liable under any written instrument creating an obligation of the Company by reason of their being Shareholders, Directors, officers, employees or agents of the Company, and all Persons shall look solely to the Company's net assets for the payment of any claim under or for the performance of that instrument. The omission of the foregoing exculpatory language from any instrument shall not affect the validity or enforceability of such instrument and shall not render any Shareholder, Director, officer, employee or agent liable thereunder to any third party, nor shall the Directors or any officer, employee or agent o f the Company be liable to anyone as a result of such omission. 
+   
+ Section 7.7.  Non-exclusivity. The indemnification and advancement of expenses provided or authorized by this Article VII shall not be deemed exclusive of any other rights, by indemnification or otherwise, to which any Indemnitee may be entitled under the Bylaws, a resolution of Shareholders or Directors, an agreement or otherwise. 
+   
+ ARTICLE VIII 
+ ADVISER AND ADMINISTRATOR 
+   
+ Section 8.1.  Supervision of Adviser and Administrator . 
+   
+(a)       Subject to the requirements of the 1940 Act, the Board of Directors may exercise broad discretion in allowing the Adviser and, if applicable, an Administrator, to administer and regulate the operations of the Company, to act as agent for the Company, to execute documents on behalf of the Company and to make executive decisions that conform to general policies and principles established by the Board. The Board shall monitor the Adviser, or if any, the Administrator, to assure that the administrative procedures, operations and programs of the Company are in the best interests of the Shareholders and are fulfilled and that (i) the expenses incurred are reasonable in light of the investment performance of the Company, its net assets and its net income, (ii) all Front End Fees shall be reasonable and shall not exceed 18% of the gross proceeds of any offering, regardless of the source of payment, and (iii) the percentage of gross proceeds of any offering committed to investment shall be at least eighty-two percent (82%). All items of compensation to underwriters or dealers, including, but not limited to, selling commissions, expenses, rights of first refusal, consulting fees, finders' fees and all other items of compensation of any kind or description paid by the Company, directly or indirectly, shall be taken into consideration in computing the amount of allowable Front End Fees. 
+   
+(b)       The Board of Directors is responsible for determining that compensation paid to the Adviser is reasonable in relation to the nature and quality of services performed and the investment performance of the Company and that the provisions of the Advisory Agreement are being carried out. The Board may consider all factors that they deem relevant in making these determinations. So long as the Company is a business development company under the 1940 Act, compensation to the Adviser shall be considered presumptively reasonable if t he incentive fee is limited to the participation in net gains allowed by the 1940 Act. 
+   
+ 
+ 
+ 
+ 16 
+ 
+ 
+   
+ 
+ 
+   
+ Section 8.2.  Fiduciary Obligations. The Board of Directors shall have a fiduciary responsibility for the safekeeping and use of all funds and assets of the Company, whether or not in the Company's immediate possession or control. The Board shall not employ, or permit another to employ, such funds or assets in any manner except for the exclusive benefit of the Company. The Board of Directors shall not permit any Shareholder to contract away any fiduciary obligation owed by the Board of Directors under common law. 
+   
+ Section 8.3.  Experience. The Board of Directors shall determine the sufficiency and adequacy of the relevant experience and qualifications for the officers of the Company given the business objective of the Company. The Board shall determine whether any Adviser possesses sufficient qualifications to perform the advisory function for the Company and whether the compensation provide d for in its contract with the Company is justified. 
+   
+ Section 8.4.  Termination. The Advisory Agreement shall provide that it is terminable (a) by the Company upon 60 days' written notice to the Adviser: (i) upon the affirmative vote of holders of a majority of the outstanding voting securities of the Company entitled to vote on the matter (as "majority" is defined in Section 2(a)(42) of the 1940 Act) or (ii) by the vote of the Independent Directors; or (b) by the Adviser upon not less than 120 days' written notice to the Company, in each case without cause or penalty, and shall provide that in each case the Adviser will cooperate with the Company and the Board of Directors in making an orderly transition of the advisory function. The Advisers have agreed that in the event of such a termination by an Adviser, such Adviser shall pay all direct expenses incurred as a direct result of its withdrawal. 
+   
+ Section 8.5.  Organization and Offering Expenses Limitation. Unless otherwise provided in any resolution adopted by the Board of Directors, the Company shall reimburse the Adviser and its Affiliates for Organization and Offering Expenses incurred by the Adviser or its Affiliates; provided, however, that the total amount of all Organization and Offering Expenses shall be reasonable, as determined by the Board, and shall be included in Front End Fees for purposes of the limit on such Front End Fees set forth in Section 8.1. 
+   
+ Section 8.6.  Acquisition Fees. The Company may pay the Adviser and/or its Affiliates fees for the review and evaluation of potential investments; provided, however, that the Board of Directors shall conclude t hat the total of all Acquisition Fees and Acquisition Expenses shall be reasonable. 
+   
+ Section 8.7.  Reimbursement of Advisor. The Company shall not reimburse the Adviser or its Affiliates for services for which the Adviser or its Affiliates are entitled to compensation in the form of a separate fee. Excluded from the allowable reimbursement shall be: (a) rent or depreciation, utilities, capital equipment, other administrative items of the Adviser; and (b) salaries, fringe benefits, travel expenses and other administrative items incurred or allocated to any Controlling Person of the Adviser. 
+   
+ 
+ 
+ 
+ 17 
+ 
+ 
+   
+ 
+ 
+   
+ Section 8.8.  Reimbursement of Administrator. In the event the Company executes an agreement for the provision of administrative services, then the Company may reimburse the Administrator, at the end of each fiscal quarter, for all expenses of the Company incurred by the Administrator as well as the actual cost of goods and services used for or by the Company and obtained from entities not Affiliated with the Company. The Administrator may be reimbursed for the administrative services necessary for the prudent operation of the Company performed by it on behalf of the Company; provided, however, the reimbursement shall be an amount equal to the lower of the Administrator's actual cost or the amount the Company would be required to pay third parties for the provision of comparable administrative services in the same geographic location; and provided, further, that such costs are reasonably allocated to the Company on the basis of assets, revenues, time records or other method conforming with generally accepted accounting principles. Except as otherwise provided herein, no reimbursement shall be permitted for  services for which the Administrator is entitled to compensation by way of a separate fee. 
+   
+Notwithstanding the foregoing, the Company may reimburse the Administrator, under an agreement between the Company and the Administrator whereby the Administrator shall provide certain administrative services for the Company, for the salaries, rent and travel expenses of executive officers of the Administrator also serving in the capacity of chief financial officer or chief compliance officer of the Company, provided such reimbursement is approved annually by the Independent Directors. 
+   
+ ARTICLE IX 
+ INVESTMENT OBJECTIVES AND LIMITATIONS 
+   
+ Section 9.1.  Investment Objective. The Company's investment objective is to generate current income and, to a lesser extent, long-term capital appreciation. The Independent Directors shall review the investment policies of the Company with sufficient frequency (not less often than annually) to determine that the policies being followed by the Company are in the best interests of its Shareholders. Each such determination and the basis therefor shall be set forth in the minutes of the meetings of the Board of Directors. 
+   
+ Section 9.2.  Investments, Generally. All transactions entered into by the Company shall be consistent with the investment permissions and limitations as established for business development companies under the 1940 Act, including any applicable exemptive orders that have been or may be issued in the future by the SEC. 
+   
+ Section 9.3.  Investments in Programs. For purposes of this Section, "Program" shall be defined as a limited or general partnership, joint venture, unincorporated association or similar organization, other than a corporation, formed and operated for the primary purpose of investment in and the operation of or gain from and interest in the assets to be acquired by such entity. A Program shall no t include an Eligible Portfolio Company as defined by the 1940 Act. 
+   
+(a)       The Company shall not invest in Programs with non-Affiliates that own and operate specific assets, unless the Company, alone or together with any publicly registered Affiliate of the Company meeting the requirements of subsection (b) below, acquires a controlling interest in such a Program, but in no event shall the Adviser be entitled to duplicate fees; provided, however that the foregoing is not intended to prevent the Company from carrying out its business of investing and reinvesting its assets in Securities of other issuers. For purposes of this Section, "controlling interest" means an equity interest possessing the power to direct or cause the direction of the management and policies of the Program, including the authority to: (i) review all contracts entered into by the Program that will have a material effect on its business or assets; (ii) cause a sale or refinancing of the assets or its interest therein subject, in certain cases where required by the Program agreement, to limits as to time, minimum amounts and/or a right of first refusal by the Program or consent of the Program; (iii) approve budgets and major capital expenditures, subject to a stated minimum amount; (iv) veto any sale or refinancing of the assets, or alternatively, to receive a specified preference on sale or refinancing proceeds; and (v) exercise a right of first refusal on any desired sale or refinancing by the Program of its i nterest in the assets, except for transfer to an Affiliate of the Program. 
+   
+ 
+ 
+ 
+ 18 
+ 
+ 
+   
+ 
+ 
+   
+(b)       The Company shall have the authority to invest in Programs with other publicly registered Affiliates of the Company if all of the following conditions are met: (i) the Affiliate and the Company have substantially identical investment objectives; (ii) there are no duplicate fees to the Adviser; (iii) the compensation payable by the Program to the Advisers in each Company that invests in such Program is substantially identical; (iv) each of the Company and the Affiliate has a right of first refusal to buy if the other party wishes to sell assets held in the joint venture; (v) the investment of each of the Company and its Affiliate is on substantially the same terms and conditions; and (vi) any prospectus of the Company in use or proposed to be used when such an investment has been made or is contemplated discloses the potential risk of impasse on joint venture decisions since neither the Company nor its Affiliate controls the Program, and the potential risk that while the Company or its Affiliate may have the right to buy the assets from the Program, it ma y not have the resources to do so. 
+   
+(c)       The Company shall have the authority to invest in Programs with Affiliates other than publicly registered Affiliates of the Company only if all of the following conditions are met: (i) the investment is necessary to relieve the Adviser from any commitment to purchase the assets entered into in compliance with Section 10.1 prior to the closing of the offering period of the Company; (ii) there are no duplicate fees to the Adviser; (iii) the investment of each entity is on substantially the same terms and conditions; (iv) the Company has a right of first refusal to buy if the Adviser wishes to sell assets held in the joint venture; and (v) any prospectus of the Company in use or proposed to be used when such an investment has been made or is contemplated discloses the potential risk of impasse on joint venture decisions. 
+   
+(d)       The Company may be structured to conduct operations through separate single-purpose entities managed by the Adviser (multi-tier arrangements); provided, that the terms of any such arrangements do not result in the circumvention of any of the requirements or prohibitions contained herein or under applicable federal or state securities laws. Any agreements regarding such arrangements shall accompany any prospectus of the Company, if such agreement is then available, and the terms of such agreement shall contain provisions assuring that all of the following restrictions apply: (i) there will be no duplication or increase in Organization and Offering Expenses, fees payable to the Adviser, program expenses or other fees and costs; (ii) there will be no substantive alteration in the fiduciary and contractual relationship between the Adviser, the Company and the Shareholders; and (iii ) there will be no diminishment in the voting rights of the Shareholders. 
+   
+ 
+ 
+ 
+ 19 
+ 
+ 
+   
+ 
+ 
+   
+(e)       Other than as specifically permitted in subsections (b), (c) and (d) above, the Company shall not invest in Programs with Affiliates. 
+   
+(f)       The Company shall be permitted to invest in general partnership interests of limited partnership Programs only if the Company, alone or together with any publicly registered Affiliate of the Company meeting the requirements of subsection (b) above, acquires a "controlling interest" as defined in subsection (a) above, the Adviser is not entitled to any duplicate fees, no additional compensation beyond that permitted under applicable law is paid to the Adviser, and the limited partnership Program agreement or other applicable  agreement complies with this Section. 
+   
+ Section 9.4.  Other Goods or Services . 
+   
+(a)       The Company may accept goods or other services provided by the Administrator in connection with the operation of assets, provided that (i) the Administrator determines such self-dealing arrangement is in the best interest of the Company; (ii) the terms pursuant to which all such goods or services are provided to the Company by the Administrator shall be embodied in a written contract, the material terms of which must be fully disclosed to the Shareholders; (iii) the contract shall contain a clause allowing termination without penalty on sixty (60) days' prior notice. Without limitation to the foregoing, arrangements to provide such goods or other services must meet all of the following criteria: (X) the Administrator must be independently engaged in the business of providing such goods or services to persons other than its Affiliates and at least thirty-three percent (33%) of the Administrator's associated gross revenues must come from persons other than its Affiliates; (Y) the compensation, price or fee charged for providing such goods or services must be comparable and competitive with the compensation, price or fee charged by persons other than the Administrator in the same geographic location who provide comparable goods or services which could reasonably be made available to the Company; and (Z) except in extraordinary circumstances, the compensation and other material terms of the arrangement must be fully disclosed to the Shareholders. Extraordinary circumstances are limited to instances when immediate action is required and the goods or services are not immediately available  from persons other than the Administrator. 
+   
+(b)       Notwithstanding the foregoing subsection (a)(X), if the Administrator is not engaged in the business to the extent required by such clause, the Administrator may provide to the Company administrative services if all of the following additional conditions are met: (i) the Administrator can demonstrate the capacity and capability to provide such goods or services on a competitive basis; (ii) the goods or services are provided at the lesser of cost or the competitive rate charged by persons other than the Administrator in the same geographic location who are in the business of providing comparable goods or services; (iii) the cost is limited to the reasonable necessary and actual expenses incurred by the Administrator on behalf of the Company in providing such goods or services, exclusive of expenses of the type which may not be reimbursed under applicable federal or state securities laws; and (iv) expenses are allocated in accordance with generally accepted accounting principles and are made subject to any special audit required by applicable federal and s tate securities laws. 
+   
+ 
+ 
+ 
+ 20 
+ 
+ 
+   
+ 
+ 
+   
+ ARTICLE X 
+ CONFLICTS OF INTEREST 
+   
+ Section 10.1.  Sales and Leases to Company. The Company shall not purchase or lease assets in which the Adviser or any Affiliate thereof has an interest unless all of the following conditions are met: (a) the transaction is fully disclosed to the Shareholders either in a periodic report filed with the SEC or otherwise; and (b) the assets are sold or leased upon terms that are reasonable to the Company and at a price not to exceed the lesser of cost or fair market value as determined by an Independent Expert. Notwithstanding anything to the contrary in this Section 10.1, the Adviser may purchase assets in its own name (and assume loans in connection therewith) and temporarily hold title thereto, for the purposes of facilitating the acquisition of the assets, the borrowing of money, obtaining financing for the Company, or the completion of construction of the assets, provided that all of the following conditions are met: (i) the assets are purchased by the Company at a price no greater than the cost of the assets to the Adviser; (ii) all income generated by, and the expenses associated with, the assets so acquired shall be treated as belonging to the Company; and (iii) there are no other benefits arising out of such transaction to the Adviser. 
+   
+ Section 10.2.  Sales and Leases to the Adviser, Directors or Affiliates. The Company shall not sell assets to the Adviser or any Affiliate thereof unless such sale is duly approved by the holders of more than fifty percent (50%) of the outstanding voting securities of the Company. The Company shall not lease assets to the Adviser or any Director or Affiliate thereof unless all of the following conditions are met: (i) the transaction is fully disclosed to the Shareholders either in a periodic report filed with the SEC or otherwise; and (ii) the terms of the transaction are fair and reasonable to the Compa ny. 
+   
+ Section 10.3.  Loans. Except for the advancement of funds pursuant to 0, no loans, credit facilities, credit agreements or otherwise shall be made by the Company to the Adviser or any Affiliate thereo f. 
+   
+ Section 10.4.  Commissions on Financing, Refinancing or Reinvestment. The Company shall not pay, directly or indirectly, a commission or fee to the Adviser or any Affiliate thereof (except as otherwise specified in this Article X) in connection with the reinvestment of cash available for distribution and available reserves or of the proceeds of the resale, exchange or refinancing of assets. 
+   
+ Section 10.5.  Exchanges. The Company may not acquire assets in exchange for capital stock of the Company without approval of a majority of the Board of Directors, including a majority of the Independent  Directors. 
+   
+ 
+ 
+ 
+ 21 
+ 
+ 
+   
+ 
+ 
+   
+ Section 10.6.  Other Transactions. The Company shall not engage in any other transaction with the Adviser or a Director or Affiliate thereof unless (a) such transaction complies with all applicable law and (b) a majority of the Directors (including a majority of the Independent Directors) not otherwise interested in such transaction approve such transaction as fair and reasonable to the Company and on terms and conditions not less favorable to the Company than those available from non-Affiliated third parties. 
+   
+ Section 10.7.  Lending Practices. On financings made available to the Company by the Adviser, the Adviser may not receive interest in excess of the lesser of the Adviser's cost of funds or the amounts that would be charged by unrelated lending institutions on comparable loans for the same purpose. The Adviser shall not impose a prepayment charge or penalty in connection with such financings and the Adviser shall not receive points or other financing charges. The Adviser shall be prohibited from providing permanent financing for the Company. For purposes of this Section 10.7, "permanent financing" shall mean any financing with a term in excess of twelve (12) months. 
+   
+ ARTICLE XI 
+ SHAREHOLDERS 
+   
+ Section 11.1.  Certain Voting Rights of Shareholders. Subject to the provisions of any class or series of shares then outstanding and the mandatory provisions of any applicable laws or regulations or other provisions of these Articles of Incorporation, the following actions may be taken by the Shareholders, without concurrence by the Board of Directors, upon a vote by the holders of more than fifty percent (50%) of the outstanding shares of capital stock of the Company entitled to vote on the matters; and, if the Company seeks to take any of the following actions, such shall require the affirmative vote of holders of fifty percent (50%) of the outstanding shares of capital stock of the Company entitled to vote thereon: 
+   
+(a)       modify these Articles of Incorporation in a way that would materially adversely affect the rights of the shareholders, including those rights relating to voting, the nonassessability of shares of capital stock of the Company, and proportionality, as provided in Section 5.1 and Section 5.7 respectively; 
+   
+ (b)       appoint a new Adviser; or 
+   
+(c)       sell all or substantially all of the Company' assets other than in the ordinary course of the Company's business. 
+   
+ Section 11.2.  Voting Limitations on Shares Held by the Adviser, Directors and Affiliates. With respect to shares owned by the Adviser, any Director, or any of their respective Affiliates, neither the Adviser, nor such Director(s), nor any of their Affiliates may vote or consent on matters submitted to the Shareholders regarding the removal of the Adviser, such Director(s) or any of their Affiliates or any transaction between the Company and any of them. In determining the requisite percentage in interest of shares necessary to approve a matter on which the Adviser, such Director(s) and any of their Affiliates may not vot e or consent, any shares owned by any of them shall not be included. 
+   
+ 
+ 
+ 
+ 22 
+ 
+ 
+   
+ 
+ 
+   
+ Section 11.3.  Right of Inspection . 
+   
+(a)       Any Shareholder may: (i) in person or by agent, on written request, inspect and obtain copies during normal business hours the Company's books and records and stock ledger; and (ii) present to any officer of the Company or its resident agent a written request for a statement if its affairs. 
+   
+(b)       Any person or group of persons who together are and for at least six months have been Shareholders of record of at least five percent (5%) of the Company's outstanding equity Securities of the Company of any class may: (i) in person or by agent, on written request, inspect and copy during usual business hours the books and records and stock ledger of the Company; (ii) present to any officer or resident agent of the Company a written request for a statement of its affairs; and (iii) in the event the Company does not maintain the original or a duplicate stock ledger at its principal office, present to any officer or resident agent of the Company a written request for the Shareholder List. As used in this Section 11.3, the term "Shareholder List" means an alphabetical list of names and addresses of the Shareholders of the Company along with the number of equity shares held by each  of them. 
+   
+(c)       A copy of the Shareholder List, requested in accordance with this Section, shall be mailed within ten business days of the request and shall be printed in alphabetical or der, on white paper, and in readily readable type size (no smaller than 10 point font). 
+   
+(d)       The Company may impose a reasonable charge for expenses incurred in reproduction pursuant to the Shareholder request. A holder of Common Stock may request a copy of the Shareholder List in connection with matters relating to Shareholders' voting rights, the exercise of Shareholder rights under federal proxy laws or for any other proper and legitimate purpose. Each Shareholder who receives a copy of the Shareholder List shall keep such list confidential and shall sign a confidentiality agreement to the effect that such Shareholder will keep the Shareholder List confidential and share such list only with its employees, representatives or agents who agree in writing to maintain the confidentiality of the  Shareholder List. 
+   
+(e)       If the Adviser or Directors neglect or refuse to exhibit, produce or mail a copy of the Shareholder List as requested, the Adviser and the Directors shall be liable to any Shareholder requesting the list for the costs, including attorneys' fees, incurred by that Shareholder for compelling the production of the Shareholder List, and for actual damages suffered by any Shareholder by reason of such refusal or neglect. It shall be a defense that the actual purpose and reason for the requests for inspection or for a copy of the Shareholder List is to secure such list of Shareholders or other information for the purpose of selling such list or copies thereof, or of using the same for a commercial purpose other than in the interest of the applicant as a Shareholder relative to the affairs of the Company. The Company may require the Shareholder requesting the Shareholder List to represent that the list is not requested for a commercial purpose unrelated to the Shareholder's interest in the Company. The remedies provided hereunder to Shareholders requesting copies of the Shareholder List are in addition, to and shall not in any way limit, other remedies available to Shareholders under federal law, or the laws of any state. 
+   
+ 
+ 
+ 
+ 23 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ Section 11.4.  Shareholder Reports . 
+   
+(a)       The Directors, including the Independent Directors, shall take reasonable steps to insure that the Company shall cause to be prepared and mailed or delivered by any reasonable means, including an electronic medium, to each Shareholder as of a record date after the end of the fiscal year within one hundred twenty (120) days after the end of the fiscal year to which it relates an annual report for each fiscal year ending after the commencement of the Company's initial public offering that shall include: (i) financial statements prepared in accordance with GAAP that are audited and reported on by independent certified public accountants; (ii) a report of the activities of the Company during the period covered by the report; and (iii) where forecasts have been provided to the Shareholders, a table comparing the forecasts previously provided with the actual results during the period covered by the report; and (iv) a report setting forth distributions to Shareholders for the period covered thereby and separately identifying distributions from: (A) Cash Flow from operations during the period; (B) Cash Flow from operations during a prior period which have been held as reserves; (C) proceeds from disposition of assets of the Company; and (D) reserves from the gross proceeds. Such annual report must also contain a breakdown of the costs reimbursed to the Adviser. 
+   
+(b)       The Directors, including the Independent Directors, shall take reasonable steps to ensure that the Company shall cause to be prepared and filed within sixty (60) days aft er the end of each fiscal quarter of the Company, a Form 10-Q if required under the Exchange Act. 
+   
+(c)       The Directors, including the Independent Directors, shall take reasonable steps to ensure that the Company shall cause to be prepared and mailed within seventy-five (75) days after the end of each fiscal year of the Company to each Person who was at any time during such fiscal year a Shareholder all information necessary for the preparation of the  Shareholders' federal income tax returns. 
+   
+(d)       If capital stock has been purchased on a deferred payment basis, on which there remains an unpaid balance during any period covered by any report required by subsections (a) and (b) above; then such report shall contain a detailed statement of the status of all deferred payments, actions taken by the Company in response to any defaults, and a discu ssion and analysis of the impact on capital requirements of the Company. 
+   
+(e)       The Board of Directors shall cause the Company, upon request from any state official or agency or official administering the securities laws of such state (a "State Administrator"), to submit to such State Administrator the reports and statements required to be distributed to Shareholders pursuant to this Section 11.4. 
+   
+ Section 11.5.  Shareholder Suitability . 
+   
+(a)       During any public offering of its securities, the Company and those selling shares on its behalf shall, with respect to share offers and sales in which they are broker of record, assure that such shares are offered and sold pursuant only to prospective investors who, in each case, meet the income and Net Worth "Suitability Standards" as specified in the registration statement for the current offering of securities as declared effective by the SEC. 
+   
+ 
+ 
+ 
+ 24 
+ 
+ 
+   
+ 
+ 
+   
+(b)       The determination of suitability shall be based upon information obtained from each prospective investor, including but not limited to, such prospective investor's age, investment objectives, investment experience, income, Net Worth, financial situation, other investments and any other pertinent factors. 
+   
+ ARTICLE XII 
+ ROLL-UP TRANSACTIONS 
+   
+ Section 12.1.  Roll-up Transactions. In connection with any proposed Roll-Up Transaction, an appraisal of all of the Company's assets shall be obtained from a competent Independent Expert. The Company's assets shall be appraised on a consistent basis, and the appraisal shall be based on the evaluation of all relevant information and shall indicate the value of the assets as of a date immediately prior to the announcement of the proposed Roll-Up Transaction. The appraisal shall assume an orderly liquidation of the assets over a twelve-month period. The terms of the engagement of the Independent Expert shall clearly state that the engagement is for the benefit of the Company and the Shareholders. A summary of the appraisal, indicating all material assumptions underlying the appraisal, shall be included in a report to Shareholders in connection with a proposed Roll-Up Transaction. In connection with a proposed Roll-Up Transaction, the Person sponsoring the Roll-Up Transaction shall offer to Shareholders who vote against the proposed Roll-Up Transaction the choice of: 
+   
+(a)       accepting the securities of a Roll-Up Entity offered in the proposed Roll-Up Transaction; or 
+   
+ (b)       one of the following: 
+   
+  (i)       remaining as Shareholders and preserving their interests therein on the same terms and conditions as existed previously; or 
+   
+ (ii)      receiving cash in an amount equal to the Shareholder's pro rata share of the appraised value of the net assets of the Company. 
+   
+ The Company is prohibited from participating in any proposed Roll-Up Transaction: 
+   
+(c)       that would result in the Shareholders having voting rights in a Roll-Up Entity that are less than the rights provided for in Section 11.1 hereof; 
+   
+(d)       that includes provisions that would operate as a material impediment to, or frustration of, the accumulation of capital stock by any purchaser of the securities of the Roll-Up Entity (except to the minimum extent necessary to preserve the tax status of the Roll-Up Entity), or which would limit the ability of an investor to exercise the voting right s of its securities of the Roll-Up Entity on the basis of the capital stock held by that investor; 
+   
+ 
+ 
+ 
+ 25 
+ 
+ 
+   
+ 
+ 
+   
+(e)       in which investor's rights to access of records of the Roll-Up Entity will be less than those described in Section 11.3 hereof; or 
+   
+(f)       in which any of the costs of the Roll-Up Transaction would be borne by the Company if the Roll-Up Transaction is rejected by the Shareholders. 
+   
+ ARTICLE XIII 
+ DURATION OF THE COMPANY 
+   
+ Section 13.1.  Duration of the Company. The Company shall continue perpetually unless terminated pursuant to the provisions contained herein or pursuant to any applicable provision of the MGCL. 
+   
+ Section 13.2.  Dissolution by Shareholder Vote. The Company may be dissolved at any time, without the necessity for concurrence by the Board, upon affirmative vote by the holders of more than fifty percent (50%) of the outstan ding shares of capital stock entitled to vote on the matter. 
+   
+ Section 13.3.  Consideration of Liquidity Event. If the Company has not had a Liquidity Event on or before December 31, 2018, the Board of Directors shall be required to consider, but shall not be required to recommend, a Liqui dity Event of the Company. 
+   
+ Section 13.4.  Merger or Other Reorganization of the Company. The Company may not cause the merger or other reorganization of the Company without the affirmative vote by the holders of more than fifty percent (50%) of the outstanding shares  of capital stock of the Company entitled to vote on the matter. 
+   
+ RECITALS CONTINUED: 
+   
+THIRD: The amendment and restatement of the Articles of Incorporation as hereinabove set forth has been duly advised by the Board of Directors and approved by the Shareholders of t he Company as required by law. 
+   
+FOURTH: The current address of the principal executive office of the Company is 450 South Orange Avenue, Orlando, Florida 23801, and the name and address of the Company's current resident agent the Company's principal office within the State of Maryland are as set forth in Article III of the foregoing amendment of the Articles of Incorporation. 
+   
+FIFTH: The number of Directors of the Company and the names of those currently in office are as set forth in Section 4.1 of Article IV of the foregoing amendment and restatement of  the Articles of Incorporation. 
+   
+SIXTH: The total number of shares of capital stock which the Company had authority to issue immediately prior to the foregoing amendment and restatement of the Articles of Incorpor ation was one billion shares of Common Stock, $0.001 par value per share. 
+   
+SEVENTH: The total number of shares of capital stock which the Company has authority to issue after giving effect to the amendments set forth in the foregoing amendment and restatement of the Articles of Incorporation is one billion shares of Common Stock, $0.001 par value per share. 
+   
+ 
+ 
+ 
+ 26 
+ 
+ 
+   
+ 
+ 
+   
+EIGHTH: The undersigned President acknowledges these Articles of Amendment and Restatement to be the corporate act of the Company and as to all matters or facts required to be verified under oath, the undersigned President acknowledges that, to the best of his knowledge, information and belief, these matters and facts are true in all material respects and th at this statement is made under the penalties for perjury. 
+   
+IN WITNESS WHEREOF, the Company has caused these Amended and Restated Articles of Incorporation to be signed in its name and on its behalf by its President on May 8, 2011. 
+   
+     CORPORATE CAPITAL TRUST, INC.       Attest: /s/ Paul S. Saint-Pierre   By: /s/ Andrew A. Hyltin   Secretary     Andrew A. Hyltin       President and Chief Executive Officer 
+   
+ 
+ 
+ 
+ 27 
+ 
+ 

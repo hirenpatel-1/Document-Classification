@@ -1,0 +1,425 @@
+ htm 77401 Articles of incorporation 3 2016-07-19T08:06:10.475146-05:00 Filing 0001185185-16-004208 2016-04-14 10-K Annual  & Quarterly Reports 0001408299 Entia Biosciences, Inc. ERGO COM OTC 2833 Medicinal Chemicals  & Botanical Products No OREGON NEVADA NEVADA Total Nutraceutical Solutions, Inc.;Total Nutraceutical Solutions;Generic Marketing Services, Inc. true Small Reporting Company 000-52864 EX-3.1 Exhibit Exhibit 2 ex3-1.htm EX-3.1 2 ex3-1.htm EX-3.1 
+   
+ Exhibit 3.1 
+   
+ 
+ AMENDED AND RESTATED 
+ ARTICLES OF INCORPORATION OF 
+ ENTIA BIOSCIENCES, INC. 
+ 
+ 
+ 
+ 
+ 1.   
+ 
+ Name of Corporation 
+ 
+ 
+ 
+ The name of the Corporation is "ENTIA BIOSCIENCES, INC." 
+ 
+ 
+ 
+ 2.   
+ 
+ Registered Agent for Service of Process 
+ 
+ 
+ 
+The name of the Corporation's registered agent is Ryan Edington, 4129 Galapagos Avenue, North Las Vegas, Nevada 89084. 
+ 
+ 
+ 
+ 3.   
+ 
+ Authorized Stock 
+ 
+ 
+ 
+ A.   General.  The Corporation shall be authorized to issue two classes of stock to be designated, respectively, "Common Stock" and "Preferred Stock."  The total number of shares of all classes of stock that the Corporation shall have authority to issue shall be 155,000,000, divided as follows: the total number of shares of Common Stock that the Corporation shall have authority to issue shall be 150,000,000, and each share of Common Stock shall have a par value of $0.001; the total number of shares of Preferred Stock that the Corporation shall have the authority to issue shall be 5,000,000, and each share of Preferred Stock shall have a par value of $0.001. 
+ 
+ B.   Authority of the Board of Directors.  The Board of Directors is expressly authorized to provide for the issuance of all or any shares of Preferred Stock in one or more series, and to fix for each such series such voting powers, full or limited, or no voting powers, and such distinctive designations, preferences and relative, participating, optional or other special rights and such qualifications, limitations or restrictions thereof, as shall be stated and expressed in the resolutions adopted by the Board of Directors providing for the issuance of such series and as may be permitted by the Nevada Revised Statutes, including, without limitation, the authority to provide that any such series may be (i) subject to redemption at such time or times and at such price or prices; (ii) entitled to receive dividends (which may be cumulative or non-cumulative) at such rates, on such conditions, and at such times, and payable in preference to, or in such relation to, the dividends payable on any other class or classes or any other series; or (iii) entitled to such rights upon the dissolution of, or upon any distribution of the assets of, the corporation, all as may be stated in such resolution or resolutions. 
+ 
+ C.   Designation of Series A Preferred Stock .  350,000 shares of Preferred Stock, $0.001 par value, of the  Corporation shall be designated as "Series A Preferred Stock" and shall have the following designations, powers, preferences and relative, participating, optional and other special rights, an d the qualifications, limitations and restrictions: 
+ 
+ (1)   Definitions .  As used herein, the following terms shall have the following meanings: 
+ 
+ (a)   "Board" shall mean the Board of Directors of the Corporation. 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED ARTICLES 
+ OF INCORPORATION OF ENTIA BIOSCIENCES, INC. 
+ 
+ PAGE 1  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ (b)   "Common Stock" shall mean the Corporation's common stock, par value $0.001 per share. 
+ 
+ (c)   "Issuance Date" shall mean the date on which the first share of Series A Preferred Stock is issued. 
+ 
+ (d)  "Junior Stock" shall mean, with respect to the Series A Preferred Stock, all other classes and series of equity securities of the Corporation now existing or hereafter created, which are junior, among other things, in right of payment of dividends or on liquidation to the Series A Preferred Stock. 
+ 
+ (e)  "Liquidation" shall mean any voluntary or involuntary liquidation, dissolution or winding up of the Corporation. 
+ 
+ (f)   "Preferred Stock" shall mean the Corporation's preferred stock, par value $0.001 per share. 
+ 
+ (g)   "Securities Act" shall mean the Securities Act of 1933, as amended. 
+ 
+ (2)   Rank.  In respect of rights to the payment of dividends and the distribution of assets in the event of any liquidation, dissolution or winding up of the Corporation, the Series A Preferred Stock shall rank prior to the Common Stock.  The Series A Preferred Stock shall also rank prior to subsequent series of Preferred Stock. 
+ 
+ (3)   Dividends.  Holders of outstanding Series A Preferred Stock are entitled to participate, out of funds legally available, dividends in cash, on the same basis as Common Stock, based on the n umber of shares of Common Stock into which such Series A Preferred Stock is then convertible. 
+ 
+ (4)   Voting Rights.  Each share of Series A Preferred Stock shall entitle the holder thereof to such number of votes per share as shall equal the number of shares of Common Stock (rounded to the nearest whole number) into which such share of Series A Preferred Stock is then convertible as provided in  Paragraph (6) below and except as required by law, shall further entitle the holder thereof to vote on all matters as to which holders of Common Stock shall be entitled to vote (with the number  of votes specified in this  Paragraph (4)), together with such holders of Common Stock as one class and in the same manner and with the same effect as such holders of Common Stock.  However, the Series A Preferred Stock shall also entitle the holder to a class vote as provided by law and, so long as at least 50,000 shares of Preferred Stock are outstanding, a majority vote of Preferred Stock is req uired for: (i) the creation of any senior or  pari passu security beyond the 350,000 shares of Series A, (ii) payment of dividends on Common Stock, (iii) repurchase of Common Stock except upon termination of employment, (iv) any transaction in which control of the Corporation is transferred, (v) an increase in the number of authorized shares of Preferred Stock, (vi) any adverse change to the rights, preferences and privileges of the Preferred Stock, (vii) any IRC Section 305 transaction, and (viii) an increase in the size of the Board of Directors. 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED ARTICLES 
+ OF INCORPORATION OF ENTIA BIOSCIENCES, INC. 
+ 
+ PAGE 2  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ (5)   Liquidation Preference . 
+ 
+ (a)  Upon any Liquidation, and before any distribution or payment shall be made to the holders of any later series of Preferred Stock, or to Junior Stock, the holders of the shares of Series A Preferred Stock then outstanding shall be entitled to receive and be paid out of the assets of the Corporation legally available for distribution to its stockholders liquidating distributions in cash or property at its fair market value as determined by the Board (the "Liquidation Preference") in an amount equal to the greater of (a) $5.00 per share  (as adjusted pursuant to  Paragraph (6) below) or (b) the pro rata amount payable on an "as if converted" basis.  A merger, reorganization or other transaction in which control of the Corporation is transferred will be  treated as a liquidation. 
+ 
+ (b)  After payment to the holders of the Series A Preferred Stock of the full amount of the liquidating distributions to which they are entitled, the holders of Series A Preferred Stock , as such, shall have no right or claim to any of the remaining assets of the Corporation. 
+ 
+ (c)  If, upon Liquidation, the assets of the Corporation legally available therefor are insufficient to pay the full amount of the liquidating distributions on all outstanding shares of Series A Preferred Stock, then the holders of the Series A Preferred Stock will share ratably in any such distribution of assets in proportion to the full liquidating distribution s to which they would otherwise be entitled. 
+ 
+ (d)  If liquidating distributions shall have been made in full to all holders of Series A Preferred Stock, the remaining assets of the Corporation shall be distributed among the holders of any other classes or series of capital stock of the Corporation ranking junior to the Series A Preferred Stock as to the distribution of assets upon Liquidation according to th eir respective rights and preferences. 
+ 
+ (6)   Conversion Rights .  The holders of shares of Series A Preferred Stock shall have the following conversion rights: 
+ 
+ (a)       At Option of the Holder .  Subject to and in compliance with the provisions of this  Paragraph (6), any shares of Series A Preferred Stock may, at the option of the holder thereof, be converted at any time or from time to time into fully paid and non-assessable shares of Common Stock.  Each share of Series A Preferred Stock is convertible into one hundred shares of Common Stock (the "Conversion Ratio," subject to the anti-dilution adjustments below) at a ny time at the option of the holder. 
+ 
+ (b)  Automatic Conversion . 
+ 
+ (i)  Mandatory Conversion.  Upon the anniversary of a continuously effective registration statement for the Common Stock into which the Series A Preferred Stock is convertible, or within thirty days following the (i) closing of an equity financing exceeding $5 million, (ii) conversion of 70% of the issued shares of Series A Preferred Stock, or (iii) approval by a majority of Series  A Preferred shares outstanding, all outstanding shares of Series A 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED ARTICLES 
+ OF INCORPORATION OF ENTIA BIOSCIENCES, INC. 
+ 
+ PAGE 3  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+Preferred Stock shall be converted automatically into the number of shares of Common Stock into which such shares of Series A Preferred Stock are then convertible pursuant to this  Paragraph (6)  (subject to adjustment as provided in this  Paragraph (6)) without any further action by the holders of such shares and whether or not the certificates representing such shares of Series A Preferred Stock are surrendered to the Corporati on or its transfer agent. 
+ 
+ (ii)  Procedure Upon Mandatory Conversion .  Upon the effectiveness of the conversion of the Series A Preferred Stock specified in  Paragraph (6)(b)(i) above (the date and time of such effectiveness being referred to as the "Mandatory Conversion Date"), the holders of shares of Series A Preferred Stock so converted shall surrender the certificates representing such shares at the office of the Corporation or of its transfer agent for the Common Stock. Thereupon, there shall be issued and delivered to each such holder a certificate or certificates for the number of shares of Common Stock into which such shares of Series A Preferred Stock so surrendered were convertible on the Mandatory Conversion Date and cash, in respect of any fraction of a share of Common Stock issuable upon such conversion.  Upon such Mandatory Conversion Date, the rights of the holder as holder of the converted shares of Series A Preferred Stock shall cease and the person or persons in whose name or names any certificate or certificates for shares of Common Stock shall be issuable upon such conversion shall be deemed to have become the holder or holders of record of the shares of Common Stock represented thereby.  The Corporation shall not be obligated to issue certificates evidencing the shares of Common Stock issuable upon such conversion unless certificates evidencing such shares of Series A Preferred Stock so converted are either delivered to the Corporation or any such transfer agent or the holder notifies the Corporation or any such transfer agent that such certificates have been lost, stolen or destroyed and executes an agreement satisfactory to the Corporation to indemnify the Corporation from any loss incurred by it in connection therewith. 
+ 
+ (c)  Adjustments to Conversion Ratio . 
+ 
+ (i)  Adjustments for Stock Splits and Stock Dividends.  Proportional adjustments to the Conversion Ratio will be made for stock splits and stock dividends. 
+ 
+ (ii)  Adjustments for Dilutive Issuances of Common Stock.  The Conversion Ratio will also be adjusted on a weighted average basis in the event of dilutive issuances, subject to the exceptions in  Paragraph (6)(c)(v)  below. 
+ 
+ (iii)  Adjustments for Issuance of Warrants, Options and Rights to Common Stock or Convertible Securities .  For the purposes of this  Paragraph (6)(c), the issuance, whether directly or indirectly, of any warrants, options, subscriptions, convertible notes or purchase rights with respect to shares of Common Stock and the issuance, whether directly or indirectly, of any securities convertible into or exercisable or exchangeable for shares of Common Stock, or the issuance of any warrants, options, subscriptions, convertible notes or purchase rights with respect to such convertible or exercisable or exchangeable securities (collectively, "Common Stock Equivalents") shall be deemed an issuance at such time of Common Stock if the Net Consideration Per Share (as hereinafter determined) which may be received by the Corporation for such Common Stock shall be less th an the Conversion Ratio in effect at the 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED ARTICLES 
+ OF INCORPORATION OF ENTIA BIOSCIENCES, INC. 
+ 
+ PAGE 4  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+time of such issuance.  Any obligation, agreement or undertaking to issue Common Stock Equivalents at any time in the future shall be deemed to be an issuance at the time such obligation, agreement or undertaking is made or arises.  No adjustment of the Conversion Ratio shall be made under this  Paragraph (6)(c) upon the issuance of any shares of Common Stock, which are issued pursuant to the exercise, conversion or exchange of Common Stock Equivalents if any adjustment shall previously h ave been made upon the issuance of any such Common Stock Equivalents as above provided. 
+ 
+The "Net Consideration Per Share" received by the Corporation in respect of the issuance of any Common Stock Equivalents means the amount equal to the total amount of consideration, if any, received by the Corporation (or in the case of convertible notes, the aggregate amount of principal and interest converted) for the issuance of such Common Stock Equivalents plus the minimum amount of consideration, if any, payable to the Corporation upon purchase, exercise, conversion or exchange thereof, divided by the maximum aggregate number of shares of Common Stock that would be issued if all such Common Stock Equivalents were purchased, exercised, exchanged or converted.  The Net Consideration Per Share received by the Corporation shall be determined in each instance as of the date of issuance of any Common Stock Equivalents without giving effect to any possible future upward price adjustments or possible future upward rate adjustments which may be applicable with respect to such Common Stock Equivalents. 
+ 
+ (iv) Decreases in Conversion Value; Expiration or Cancellation of Warrants, Options or Rights without Exercise.  Should the Net Consideration Per Share for any previously issued Common Stock Equivalents be decreased or increased from time to time for which an adjustment was made to the Conversion Value, then, upon the effectiveness of each such change, the Conversion Value shall be adjusted to such Conversion Value as would have been obtained (1) had the adjustments made upon the issuance of such Common Stock Equivalents been made upon the basis of the actual Net Consideration Per Share of such securities, and (2) had any adjustments made to the Conversion Value since the date of issuance of such Common Stock Equivalents been made to the Conversion Value as adjusted pursuant to clause (1) immediately above.  Any adjustment of the Conversion Value which relates to the issuance of particular Common Stock Equivalents shall be disregarded if, as, and when all of such Common Stock Equivalents; lapse, terminate, expire or are cancelled without being exercised, exchanged or converted, so that the Conversion Value effective immediately upon such lapse, termination, cancellation or expiration shall be equal to the Conversion Value in effect at the time of the issuance of the lapsed, terminated, expired or cancelled Common Stock Equivalents, with such additional adjustments as would have been made to the Conversion Value had the lapsed, terminated, expired or cancelled Common Stock Equivalents not been issued. 
+ 
+ (v)  Exceptions to Adjustments For Dilutive Issuances .  This  Paragraph (6)(c)  shall not apply to the issuance of: 
+ 
+1) shares of capital stock granted or sold to directors, officers, employees, consultants or others providing services to the Corporation or any of its subsidiaries 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED ARTICLES 
+ OF INCORPORATION OF ENTIA BIOSCIENCES, INC. 
+ 
+ PAGE 5  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+pursuant to any stock option plan, stock purchase plan, or other stock plan approved by the Board or otherwise; 
+ 
+2) shares of capital stock issued to investors at a price exceeding four hundred percent (400%) of the Conversion Ratio in effect at the time of such issuance; 
+ 
+3) shares of capital stock issuable upon conversion or exercise of (A) any shares of Preferred Stock, whether or not outstanding as of the date hereof or (B) any Common Stock Equiv alents outstanding as of the date hereof; 
+ 
+4) Common Stock Equivalents or shares of capital stock issued in connection with bona fide mergers, acquisitions or similar transactions; or 
+ 
+5) shares issued many other transaction as to which the holders of a majority of the shares of Series A Preferred Stock then outstanding shall have waived in writing any anti-dilut ion adjustment hereunder. 
+ 
+ (d)   Exercise of Conversion Privilege .  To exercise the conversion right set forth in  Paragraph (6)(b) above, a holder of shares of Series A Preferred Stock shall surrender the certificates representing the shares being converted to the Corporation at its principal office, and shall give written notice to the Corporation at that office that such holder elects to convert such shares.  Such notice shall also state the name or names (with address or addresses) in which the certificates for shares of Common Stock issuable upon such conversion shall be issued.  The certificates for shares of Series A Preferred Stock surrendered for conversion shall be accompanied by proper assignment thereof to the Corporation or in blank.  The date when such written notice is received by the Corporation, together with the certificates representing the shares of Series A Preferred Stock being converted, shall be deemed the "Conversion Date."  As promptly as practicable after the Conversion Date, the Corporation shall issue and deliver certificates to each holder of shares of Series A Preferred Stock so converted, or on its written order, such certificates as it may request, for the number of whole shares of Common Stock issuable upon the conversion of such shares of Series A Preferred Stock in accordance with the provisions of this  Paragraph (6) , and cash as provided in  Paragraph (6)(e) below, in respect of any fraction of a share of Common Stock issuable upon such conversion.  Such conversion shall be deemed to have been effected immediately prior to the close of business on the Conversion Date, and at such time the rights of the holder as holder of the converted shares of Series A Preferred Stock shall cease and the person or persons in whose name or names any certificates for shares of Common Stock shall be issuable upon such conversion shall be deemed to have become the holder or holders of record of the shares  of Common Stock represented thereby. 
+ 
+ (e)   Cash in Lieu of Fractional Shares. No fractional shares of Common Stock or scrip representing fractional shares shall be issued upon any conversion of shares of Series A Preferred Stock.  Instead of any fractional shares of Common Stock which would otherwise be issuable upon conversion of shares of Series A Preferred Stock, the Corporation shall pay to the holder of shares of Series A Prefe rred Stock which were converted a cash adjustment in 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED ARTICLES 
+ OF INCORPORATION OF ENTIA BIOSCIENCES, INC. 
+ 
+ PAGE 6  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+respect of such fractional shares in an amount equal to the same fraction of the Market Price per share of the Common Stock at the close of business on the Conversion Date.  The determination as to whether or not any fractional shares are issuable shall be based upon the total number of shares of Series A Preferred Stock so converted at any one time by any h older thereof, and not upon each share of Series A Preferred Stock so converted. 
+ 
+ (f)   Partial Conversion.  In the event some but not all of the shares of Series A Preferred Stock represented by a certificate surrendered by a holder are converted, the Corporation shall execute and deliver to or on the order of the holder, at the expense of the Corporation, a new certificate representing the number of shares of Series A Preferred Stock which were not converted. 
+ 
+ (g)   Reservation of Common Stock.  The Corporation shall at all times reserve and keep available out of its authorized but unissued shares of Common Stock, solely for the purpose of effecting the conversion of shares of Series A Preferred Stock, such number of shares of Common Stock as shall from time to time be sufficient to effect the conversion of all outstanding shares of Series A Preferred Stock, and if at any time the number of authorized but unissued shares of Common Stock shall not be sufficient to effect the conversion of all then outstanding shares of Series A Preferred Stock, the Corporation shall take such corporate action as may be necessary to increase its authorized but unissued shares of Common Stock to such number of shares a s shall be sufficient for such purpose. 
+ 
+ (h)   No Reissuance of Series A Preferred Stock.  Shares of Series A Preferred Stock which are converted into shares of Common Stock as provided herein shall not be reissued. 
+ 
+ (i)   Issue Tax.  The issuance of certificates for shares of Common Stock upon conversion of any shares of Series A Preferred Stock shall be made without charge to the holders thereof for any issuance tax in respect thereof; provided that the Corporation shall not be required to pay any tax which may be payable in respect of any transfer involved in the issuance and delivery of any certificate in a name other than that of the holder of the shares of Series A Preferred Stock which are being converted. 
+ 
+ (j)   Closing of Books. The Corporation will at no time close its transfer books against the transfer of any shares of Series A Preferred Stock or of any shares of Common Stock issued or issuable upon the conversion of any shares of Series A Preferred Stock in any manner which interferes with the timely conversion of such shares of Series A Preferred Stock, except as may otherwis e be required to comply with applicable securities laws. 
+ 
+ (7)   Miscellaneous . 
+ 
+(a) The Corporation covenants that all shares of Common Stock which may be issued upon conversions of shares of Series A Preferred Stock will upon issuance be duly and validly issued, fully paid and non-assessable, free of all liens and charges and not subject to any preemptive rights. 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED ARTICLES 
+ OF INCORPORATION OF ENTIA BIOSCIENCES, INC. 
+ 
+ PAGE 7  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+(b) No share or shares of Series A Preferred Stock acquired by the Corporation by reason of redemption, purchase, conversion or otherwise, shall be reissued, and all such shares shall be cancelled, retired and eliminated from the shares which the Corporation shall be authorized to issue. 
+ 
+ * * * * * 
+ 
+The vote by which the stockholders holding shares in the Corporation entitling them to exercise at least a majority of the voting power, or such greater proportion of the voting power as may be required in the case of a vote by classes or series, or as may be required by the provisions of the articles of incorporation, have voted in favor of this amendment a nd restatement is 17,916,583. 
+ 
+ 
+ 
+ 
+                                                                            
+ Timothy A. Timmins 
+ Executive Vice President 
+ Chief Operating and Financial Officer 
+   
+   
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED ARTICLES 
+ OF INCORPORATION OF ENTIA BIOSCIENCES, INC. 
+ 
+ PAGE 8  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+   
+ 
+ 
+ ENTIA BIOSCIENCES INC. 
+ CERTIFICATE OF VALIDATION 
+ February 16, 2016 
+ 
+ 
+This Certificate of Validation (this "Certificate") is filed on behalf of ENTIA BIOSCIENCES INC., a Nevada corporation (the "Corporation"), pursuant to paragraph 4 of Section 1 of Nevada Senate Bill No. 446, 2015 Nevada Laws Ch. 514 (to be codified as part of NRS Chapter 78) ("S.B. 446"), which provides that, if a corporate act ratified or validated pursuant to Section 1 of S.B. 446 would have required any filing with the Nevada Secretary of State pursuant to NRS Chapter 78, or if such ratification or validation would cause any such filing to be inaccurate or incomplete in any material respect, then the corporation shall make, amend or correct each such filing in accordance with NRS Chapter 78 (including S.B. 446), and that any such filing, amendment or correction must be accompanied by a certificate of validation indicating that the filing, amendment or correction is being made in connection with a ratification or validation of a corporate act in accordance with Section 1 of S.B. 446 and specifying the effective date and time of the filing, amendment or correctio n, which may be before the date and time of filing. 
+ 
+I, Timothy Timmins, Executive Vice President, Chief Operating and Financial Officer of the Corporation, hereby certify on behalf of the Corporation as follows: 
+ 
+ 
+ 
+ 1.   
+ 
+This Certificate accompanies, and has been appended to, those certain Amended and Restated Articles of Incorporation of the Corporation (the "Articles"), which are being concurrent ly filed on the date hereof with the Nevada Secretary of State in accordance with NRS Chapter 78. 
+ 
+ 
+ 
+ 
+ 
+ 2.   
+ 
+The Articles are a filing, amendment or correction being made in connection with a ratification or validation of a corporate act in accordance with Section 1 of S.B. 446.  Such ratification or validation was adopted and approved by unanimous written consent of the Corporation's board of directors at a duly called teleconference meeting of the board of directors held on November 1, 2015, and by the written consent of the requisite majority of the Corporation's shareholders entitled to vote thereon (including after giving effect to the  provisions of paragraph 2 of Section 1 of S.B. 446) effective as of February 16, 2016. 
+ 
+ 
+ 
+ 
+ 
+ 3.   
+ 
+ The effective date and time of the Articles is May 26, 2011, at 12:01 a.m. (Pacific Time). 
+ 
+ 
+ 
+ [SIGNATURE PAGE FOLLOWS] 
+   
+   
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ ENTIA BIOSCIENCES, INC. - CERTIFICATE OF VALIDATION 
+ 
+ PAGE 1 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the undersigned has executed this Certificate on behalf of the Corporation as of the date set forth above. 
+ 
+ ENTIA BIOSCIENCES INC. 
+ a Nevada corporation 
+ 
+ 
+ 
+ 
+ By:                                                                  
+ Timothy A. Timmins 
+ Executive Vice President 
+ Chief Operating and Financial Officer 
+ 
+The undersigned hereby certifies that the person named above is the duly elected, qualified and acting Executive Vice President, Chief Operating and Financial Officer of the Corpor ation, and that the signature appearing above is his true and genuine signature. 
+ 
+ 
+ 
+                                                                        
+ Carl J. Johnson 
+ Chief Executive Officer 
+   
+   
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ ENTIA BIOSCIENCES, INC. - CERTIFICATE OF VALIDATION 
+ 
+ PAGE 2 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 

@@ -1,0 +1,363 @@
+ htm 127581 Material contracts 10 2017-03-22T05:31:45.236347-05:00 Filing 0001493152-17-002701 2017-03-22 10-K Annual  & Quarterly Reports 0001505497 BioRestorative Therapies, Inc. BRTX BRTXW COMMON OTC 8090 Miscellaneous Health  & Allied Services, Not Elsewhere Classified No NEW YORK DELAWARE DELAWARE Stem Cell Assurance, Inc. false Small Reporting Company 001-37603 EX-10.65 Exhibit Exhibit 12 ex10-65.htm EX-10.65 12 ex10-65.htm 
+   
+ Exhibit 10.65 
+   
+ VOID AFTER 5:00 P.M., EASTERN TIME, ON SEPTEMBER 26, 2021 
+   
+NEITHER THIS WARRANT NOR THE WARRANT STOCK (AS HEREINAFTER DEFINED) HAVE BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "ACT"), OR THE SECURITIES LAWS OF ANY STATE. THIS WARRANT AND THE WARRANT STOCK MAY BE TRANSFERRED ONLY IN COMPLIANCE WITH THE ACT AND SUCH LAWS. THIS LEGEND SHALL BE ENDORSED UPON ANY WARRANT ISSUED IN EXCHANGE FOR THIS  WARRANT. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ BIORESTORATIVE THERAPIES, INC. 
+   
+ (Incorporated under the laws of the State of Delaware) 
+   
+ Warrant 
+   
+ 80,000 Shares September 26, 2016 
+   
+ FOR VALUE RECEIVED, BIORESTORATIVE THERAPIES, INC. , a Delaware corporation (the "Company"), hereby certifies that  JOHN DESMARAIS (the "Holder") is entitled, subject to the provisions of this Warrant, to purchase from the Company up to  EIGHTY THOUSAND (80,000) SHARES OF COMMON STOCK , $.001 par value per share, of the Company ("Common Shares") at a price of  FOUR DOLLARS ($4.00) per share (the "Exercise Price") during the period commencing on the date hereof and terminating at 5:00 P.M. on the fifth anniversary of the date hereof. 
+   
+The number of Common Shares to be received upon the exercise of this Warrant may be adjusted from time to time as hereinafter set forth. The Common Shares deliverable upon such exe rcise, and as adjusted from time to time, are hereinafter sometimes referred to as "Warrant Stock." 
+   
+The Holder agrees with the Company that this Warrant is issued, and all the rights hereunder shall be held subject to, all of the conditions, limitations and provisions set forth h erein. 
+   
+ 1.  Exercise of Warrants . 
+   
+ 1.1  Exercise. Exercise of this Warrant shall be made upon surrender of this Warrant with the Warrant Exercise Form attached hereto duly completed and signed and delivered to the Company, at its address 40 Marcus Drive, Suite One, Melville, New York 11747 (or such office or agency of the Company as it may designate in writing to the Holder hereof). Payment upon exercise shall be made at the written option of the Holder either (i) in cash, wire transfer or by certified or official bank check payable to the order of the Company equal to the applicable aggregate Exercise Price, (ii) by the withholding of shares of Warrant Stock otherwise issuable upon exercise of this Warrant, in accordance with Section 1.2 or (iii) by a combination of either of the foregoing methods, for the number of shares of Warrant Stock specified in such form (as such number shall be adjusted to reflect any adjustment in the total number of shares of Warrant Stock issuable to the Holder pursuant to the terms of this Warrant) and the Holder shall thereupon be entitled to receive the number of duly authorized, validly issued, fully-paid and non-assessable shares of Warrant Stock determined as provided herein. The Company shall promptly (but in no event later than five (5) business days after the date on which the Company receives this Warrant, the executed Warrant Exercise Form and payment of the Exercise Price, if any (the "Exercise Date")), issue or cause to be issued and cause to be delivered to or upon the written order of the Holder and in such name or names as the Holder may designate (subject to the restrictions on transfer described in the legend set forth on the face of this Warrant), a certificate for the shares of Warrant Stock issuable upon such exercise, with such restrictive legend as required by the Act, as applicable. Subject to the delivery of this Warrant, the executed Warrant Exercise Form and payment of the Exercise Price, if any, any person so designated by the Holder to receive Warrant Stock shall be deemed to have become the holder of record of such shares of Warrant Stock as of the Exercise Date. If this Warrant is exercised in part only, the Company shall, upon surrender of this Warrant for cancellation, execute and deliver a new Warrant evidencing the rights of the Holder hereof to purchase the balance of the shares pu rchasable hereunder. 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ 1.2  Net Exercise. If the Fair Market Value (as hereinafter defined) of one Common Share is greater than the Exercise Price of one share of Warrant Stock (at the date of calculation as set forth below), in lieu of exercising this Warrant for cash, the Holder may elect to receive shares of Warrant Stock equal to the number of Common Shares computed using the following formula : 
+   
+   X=   Y*(A-B)/A           Where X=   the number of Common Shares to be issued to the Holder           Y=  the number of Common Shares purchasable under this Warrant or, if only a portion of this Warrant is being exercised, the portion of this Warrant being exercised (at the date of suc h calculation)           A=   the Fair Market Value of one Common Share           B=   the Exercise Price (as adjusted to the date of such calculation). 
+   
+ 1.3  Fair Market Value . For purposes hereof, "Fair Market Value" shall be determined as follows: 
+   
+(a) if the Common Shares of the Company are listed on any established stock exchange or a national market system, including, without limitation, The Nasdaq Stock Market, or quoted on any other market for which closing sales prices are available, including, without limitation, the OTCQB, Fair Market Value shall be the average of the closing sales prices for the Common Shares, as quoted on such exchange, system or other market, on the five (5) trading days immediately preceding the Exercise Date; 
+   
+(b) if the Common Shares of the Company are quoted but closing sales prices are not reported, then Fair Market Value shall be the average of the mean between the high bid and low asked prices for the Common Shares on the five (5) trading days immediately preceding the Exercise Date; or 
+   
+ 
+ 
+   2   
+ 
+ 
+   
+ 
+ 
+   
+(c) in the absence of any quotations for the Common Shares of the Company during the five (5) trading days immediately preceding the Exercise Date, Fair Market Value shall be deter mined in good faith by the Board of Directors of the Company. 
+   
+ 2.  Registered Owner. The Company may consider and treat the person in whose name this Warrant shall be registered as the absolute owner thereof for all purposes whatsoever and the Company shall not be affected by any notice to the contrary. Subject to the provisions hereof, the registered owner of this Warrant shall have the right to transfer it by assignment and the transferee thereof, upon his registration as owner of this Warrant, shall become vested with all the powers and rights of the transferor. Registration of any new owner shall take place upon presentation of this Warrant to the Company at its offices together with the Warrant Assignment Form attached hereto duly executed. In case of transfers by operation of law, the transferee shall notify the Company of such transfer and of his address, and shall submit appropriate evidence regarding the transfer so that this Warrant may be registered in the name of the transferee. This Warrant is transferable only on the books of the Company by the Holder on the surrender hereof, duly endorsed. Communications sent to any registered owner shall be effective as against all holders or transferees of this Warrant not registered at the time of sending the communication. 
+   
+ 3.  Reservation of Shares. During the period within which the rights represented by this Warrant may be exercised, the Company shall, at all times, reserve and keep available out of its authorized capital stock, solely for the purposes of issuance upon exercise of this Warrant, such number of its Common Shares as shall be issuable upon the exercise of this Warrant; and if at any time the number of authorized Common Shares shall not be sufficient to effect the exercise of this Warrant, the Company will take such corporate action as may be necessary to increase its authorized but unissued Common Shares to such number of shares as shall be sufficient for such purpose; the Company shall have analogous obligations with respect to any other  securities or property issuable upon exercise of this Warrant. 
+   
+ 4.  Fractional Shares. The Company shall not be required to issue certificates representing fractions of Common Shares, nor shall it be required to issue scrip or pay cash in lieu of fractional interests, it being the intent of the Company and the Holder that all fractional interests shall be eliminated. 
+   
+ 5.  Rights of the Holder. The Holder shall not, by virtue hereof, be entitled to any voting or other rights of a stockholder of the Company, either at law or in equity, and the rights of the Holder are li mited to those expressed in this Warrant. 
+   
+ 6.  Anti-Dilution Provisions . 
+   
+ 6.1  Adjustments for Stock Dividends; Combinations, Etc . (a) In case the Company shall do any of the following (an "Event"): 
+   
+(i) declare a dividend or other distribution on its Common Shares payable in Common Shares of the Company, 
+   
+ 
+ 
+   3   
+ 
+ 
+   
+ 
+ 
+   
+   
+ (ii) subdivide the outstanding Common Shares pursuant to a stock split or otherwise, 
+   
+(iii) combine the outstanding Common Shares into a smaller number of shares pursuant to a reverse split or otherwise, or 
+   
+ (iv) reclassify its Common Shares, 
+   
+then the Exercise Price in effect at the time of the record date for such dividend or other distribution or of the effective date of such subdivision, combination or reclassification shall be changed to a price determined by dividing (a) the product of the number of Common Shares outstanding immediately prior to such Event, multiplied by the Exercise Price in effect immediately prior to such Event by (b) the number of Common Shares outstanding immediately after such Event. Each such adjustment of the Exercise Price shall be calculated to the nearest one-hundredth of a cent. Such adjustment shall be made successively whenever any Event listed above shall occur. 
+   
+(b) Whenever the Exercise Price is adjusted as set forth in Section 6.1 (whether or not the Company then or thereafter elects to issue additional Warrants in substitution for an adjustment in the number of shares of Warrant Stock), the number of shares of Warrant Stock specified in each Warrant which the Holder may purchase shall be adjusted, to the nearest full share, by multiplying such number of shares of Warrant Stock immediately prior to such adjustment by a fraction, of which the numerator shall be the Exercise Price immediately  prior to such adjustment and the denominator shall be the Exercise Price immediately thereafter. 
+   
+ 6.2  Adjustment for Reorganization, Consolidation or Merger. In case of any reorganization of the Company (or any other entity, the securities of which are at the time receivable on the exercise of this Warrant) after the date hereof or in case after such date the Company (or any such other entity) shall consolidate with or merge with or into another entity, then, and in each such case, the Holder of this Warrant upon the exercise thereof as provided in Section l at any time after the consummation of such reorganization, consolidation or merger, shall be entitled to receive, in lieu of the securities and property receivable upon the exercise of this Warrant prior to such consummation, the securities or property to which such Holder would have been entitled upon such consummation if such Holder had exercised this Warrant immediately prior thereto, all subject to further adjustment as provided in Section 6.l; in each such case, the terms of this Warrant shall be applicable to the securities or property receivable upon the exercise of this Warrant after such consummation. 
+   
+ 7.  Investment Intent. Unless, prior to the exercise of this Warrant, the issuance of the Warrant Stock has been registered with the Securities and Exchange Commission pursuant to the Act, the Warrant Exercise Form shall be accompanied by the Investment Representation Letter attached hereto, duly executed by the Holder. 
+   
+ 8.  Restrictions on Transfer . 
+   
+ 8.1  Transfer to Comply with the Securities Act of 1933. Neither this Warrant nor any Warrant Stock may be sold, assigned, transferred or otherwise disposed of except as follows: (1) to a person who, in the opinion of counsel, is a person to whom this Warrant or the Warrant Stock may legally be transferred without registration and without the delivery of a current prospectus under the Act with respect thereto and then only against receipt of an agreement of such person to comply with the provisions of this Section 8 with respect to any resale, assignment, transfer or other disposition of such securities; or (2) to any person upon delivery of a prospectus then meeting the requirements of the Act relating to such securities and the offering thereof for such sale, ass ignment, transfer or disposition. 
+   
+ 
+ 
+   4   
+ 
+ 
+   
+ 
+ 
+   
+ 8.2  Legend. Subject to the terms hereof, upon exercise of this Warrant and the issuance of the Warrant Stock, all certificates representing such Warrant Stock shall bear on the face or rever se thereof substantially the following legend: 
+   
+"The securities which are represented by this certificate have not been registered under the Securities Act of 1933, and may not be sold, transferred, hypothecated or otherwise disposed of until a registration statement with respect thereto is declared effective under such act, or the Company receives an opinion of counsel for the Company that an exemption f rom the registration requirements of such act is available." 
+   
+ 9.  Lost, Stolen or Destroyed Warrant. In the event that the Holder notifies the Company that this Warrant has been lost, stolen or destroyed and provides (a) a letter, in form satisfactory to the Company, to the effect that it will indemnify the Company from any loss incurred by it in connection therewith, and/or (b) an indemnity bond in such amount as is reasonably required by the Company, the Company having the option of electing either (a) or (b) or both, the Company may, in its sole discretion, accept such letter and/or indemnity bond in lieu of the surrender of thi s Warrant as required by Section 1 hereof. 
+   
+ 10.  Notices. All notices required hereunder shall be given by first-class mail, postage prepaid, or overnight mail or courier and, if given by the Holder addressed to the Company at 40 Marcus Drive, Suite One, Melville, New York 11747, Attention: Chief Executive Officer, or such other address as the Company may designate in writing to the Holder; and if given by the Co mpany, addressed to the Holder at the address of the Holder shown on the books of the Company. 
+   
+ 11.  Applicable Law; Jurisdiction. This Warrant is issued under, and shall for all purposes be governed by and construed in accordance with, the laws of the State of Delaware, excluding choice of law principles thereof. The Company and, by its acceptance of this Warrant, the Holder hereby irrevocably consent and submit to the exclusive jurisdiction of any federal or state court located within Nassau or Suffolk County, New York over any dispute arising out of or relating to this Warrant and each party hereby irrevocably agrees that all claims in respect of such dispute or any legal action related thereto may be heard and determined in such courts. Each of the Company and the Holder hereby irrevocably waives, to the fullest extent permitted by applicable law, any objection that it or he may now or hereafter have to the laying of venue of any such dispute brought in such court or any defense of inconvenient forum for the m aintenance of such dispute. 
+   
+ [Remainder of page intentionally left blank. Signature page follows.] 
+   
+ 
+ 
+   5   
+ 
+ 
+   
+ 
+ 
+   
+ IN WITNESS WHEREOF, the Company has caused this Warrant to be signed on its behalf, in its corporate name, by its duly authorized officer, all as of the day and year first above written. 
+   
+   BIORESTORATIVE THERAPIES, INC.         By:       Mark Weinreb     Chief Executive Officer 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ BIORESTORATIVE THERAPIES, INC. 
+   
+ WARRANT EXERCISE FORM 
+   
+ To: BIORESTORATIVE THERAPIES, INC. 
+   
+The undersigned, pursuant to the provisions set forth in the attached Warrant, dated September 26, 2016, hereby irrevocably elects to purchase (check applicable box): 
+   
+ [  ] 
+ ________ shares of the Common Stock covered by such Warrant; or 
+ 
+     [  ]the maximum number of shares of Common Stock covered by such Warrant pursuant to the cashless exercise procedure set forth therein. 
+   
+The undersigned herewith makes payment of the full purchase price for such shares of $_______ at the price per share provided for in such Warrant. Such payment takes the form of (c heck applicable box or boxes): 
+   
+ [  ] 
+ $__________ in lawful money of the United States; and/or 
+ 
+     [  ]the cancellation of such portion of the attached Warrant as is exercisable for a total of _______ shares of Common Stock (using a Fair Market Value of $_______ per share, or an agg regate Fair Market Value of $__________, for purposes of this calculation); 
+   
+ 
+ TO BE COMPLETED BY INDIVIDUAL 
+ HOLDER, JOINT TENANTS, TENANTS 
+ IN COMMON OR AS HOLDERS OF 
+ COMMUNITY PROPERTY 
+   
+ TO BE COMPLETED BY CORPORATE, 
+ PARTNERSHIP, LIMITED LIABILITY 
+ COMPANY OR TRUST HOLDER 
+ 
+             Name(s) of Holder(s) [Please Print]   
+ Name of Holder [Please Print] 
+ 
+             By: 
+ 
+   
+ Signature of Holder     Authorized Signatory               Signature of Holder, if jointly held   
+ Name and Title of Authorized Signatory 
+ 
+     
+ [Please Print] 
+ 
+             Address(es) of Holder(s)   
+ Address of Holder 
+             Social Security Number(s) of Holder(s)   
+ Tax Identification Number of Holder 
+               Date   
+ Date 
+ 
+   
+ Signature(s) must conform in all respects to the 
+ name of the Holder on the face of the attached Warrant. 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ BIORESTORATIVE THERAPIES, INC. 
+ WARRANT ASSIGNMENT FORM 
+   
+ FOR VALUE RECEIVED, _________________________ hereby sells, assigns and transfers unto _____________________________ (please type or print name of assignee) with an address at ______________________ ________________________________________ the right to purchase shares of Common Stock of  BIORESTORATIVE THERAPIES, INC. (the "Company") represented by this Warrant dated as of September 26, 2016 to the extent of ___________ shares and does hereby irrevocably constitute and appoint ___________________ attorney to transfer the same on the books of the Company with full power of substitution in the premises. 
+   
+ 
+ 
+ TO BE COMPLETED BY INDIVIDUAL 
+ HOLDER, JOINT TENANTS, TENANTS 
+ IN COMMON OR AS HOLDERS OF 
+ COMMUNITY PROPERTY 
+   
+ TO BE COMPLETED BY CORPORATE, 
+ PARTNERSHIP, LIMITED LIABILITY 
+ COMPANY OR TRUST HOLDER 
+ 
+             Name(s) of Holder(s) [Please Print]   
+ Name of Holder [Please Print] 
+ 
+             By: 
+ 
+   
+ Signature of Holder     Authorized Signatory               Signature of Holder, if jointly held   
+ Name and Title of Authorized Signatory 
+ 
+     
+ [Please Print] 
+ 
+       Date   
+ Date 
+ 
+   
+ Signature(s) Guaranteed : 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ BIORESTORATIVE THERAPIES, INC. 
+   
+ FORM OF INVESTMENT REPRESENTATION LETTER 
+   
+ BioRestorative Therapies, Inc. 
+ 40 Marcus Drive 
+ Suite One 
+ Melville, New York 11747 
+   
+ Gentlemen: 
+   
+ In connection with the acquisition of _______________ shares of Common Stock (the "Shares") of  BIORESTORATIVE THERAPIES, INC., a Delaware corporation (the "Company"), by the undersigned from the Company pursuant to the exercise of a Warrant, dated as of September 26, 2016, the undersigned does hereby rep resent and warrant to the Company as follows: 
+   
+   (a)The undersigned represents and warrants that the Shares acquired by it are being acquired for its own account, for investment purposes and not with a view to any distribution within the meaning of the Securities Act of 1933, as amended (the "Securities Act"). The undersigned will not sell, assign, mortgage, pledge, hypothecate, transfer or otherwise dispose of any of the Shares unless (i) a registration statement under the Securities Act with respect thereto is in effect and the prospectus included therein meets the requirements of Section 10 of the Securities Act, or (ii) the Company has received a written opinion of its counsel that, after an investigation of the relevant facts, such counsel is of the opinion that such proposed sale, assignment, mortgage, pledge, hypothecation, transfer or disposition does not require registration under the Securities Act or any state securities law.         (b)The undersigned understands that the resale of the Shares is not, and is not being, registered under the Securities Act and the Shares must be held indefinitely unless they are sub sequently registered thereunder or an exemption from such registration is available.         (c)The undersigned recognizes that the acquisition of the Shares involves a high degree of risk and is suitable only for persons of adequate financial means who have no need for liquidity with respect to the Shares in that (a) it may not be able to liquidate the Shares in the event of emergency; (b) transferability is extremely limited; and (c) it could sustain  a complete loss of its investment.         (d)The undersigned represents and warrants that it (a) is competent to understand and does understand the nature of its investment; and (b) is able to bear the economic risk of an acq uisition of the Shares. 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+   (e)The undersigned represents and warrants that it is an "accredited investor," as such term is defined in Rule 501 of Regulation D promulgated under the Securities Act. The undersigned meets the requirements of at least one of the suitability standards for an "accredited investor" as set forth on the Accredited Investor Certification attached hereto.         (f)The undersigned has reviewed the Company's filings with the Securities and Exchange Commission, including the risk factors set forth therein, and has been afforded the opportunity to obtain such information regarding the Company as it has reasonably requested to evaluate the merits and risks of the undersigned's investment in the Shares. No oral or written representations have been made or oral information furnished to the undersigned or its advisers in connection with the investment in the Shares.         (g)The undersigned confirms that the representations and warranties set forth in the Subscription Agreement pursuant to which the Warrant was issued are true and correct as of the dat e hereof as if made on and as of the date hereof with respect to the purchase of the Shares.         (h)The undersigned acknowledges that counsel to the Company will be relying, and may rely, upon the foregoing in connection with any opinion of counsel it may give with regard to the issuance of the Shares by the Company to the undersigned, and any subsequent transfer of the Shares by the undersigned, and agrees to advise the Company and its counsel in writing  in the event of any change in any of the foregoing. 
+   
+ 
+     Very truly yours,       
+ TO BE COMPLETED BY INDIVIDUAL 
+ HOLDER, JOINT TENANTS, TENANTS 
+ IN COMMON OR AS HOLDERS OF 
+ COMMUNITY PROPERTY 
+   
+ TO BE COMPLETED BY CORPORATE, 
+ PARTNERSHIP, LIMITED LIABILITY 
+ COMPANY OR TRUST HOLDER 
+ 
+             Name(s) of Holder(s) [Please Print]   
+ Name of Holder [Please Print] 
+ 
+             By: 
+ 
+   
+ Signature of Holder     Authorized Signatory               Signature of Holder, if jointly held   
+ Name and Title of Authorized Signatory 
+ 
+     
+ [Please Print] 
+ 
+       Date   
+ Date 
+ 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ BIORESTORATIVE THERAPIES, INC. 
+   
+ WARRANT EXERCISE 
+   
+ Accredited Investor Certification 
+ (Initial the appropriate box(es)) 
+   
+The undersigned represents and warrants that it, he or she is an "accredited investor" based upon the satisfaction of one or more of the following criteria: 
+   
+ _____(1) he or she is a natural person who has a net worth or joint net worth with his or her spouse in excess of $1,000,000 at the time of his or her purchase 1 ; or     _____(2) he or she is a natural person who had an individual income in excess of $200,000 in each of the two most recent years or a joint income with his or her spouse in excess of $300,000 in each of those years and has a reasonable expectation of reaching the same income level in the current year; or     _____ (3) he or she is a director or executive officer of the Company; or     _____(4) it is either (a) a bank as defined in Section 3(a)(2) of the Securities Act or a savings and loan association or other institution as defined in Section 3(a)(5)(A) of the Securities Act, whether acting in its individual or fiduciary capacity, (b) a broker or dealer registered pursuant to Section 15 of the Securities Exchange Act of 1934, (c) an insurance company as defined in Section 2(13) of the Securities Act, (d) an investment company registered under the Investment Company Act of 1940 or a business development company as defined in Section 2(a)(48) of such act, (e) a small business investment company licensed by the United States Small Business Administration under Section 301(c) or (d) of the Small Business Investment Act of 1958, (f) a plan established and maintained by a state or its political subdivisions, or any agency or instrumentality of a state or its political subdivisions, for the benefit of its employees, if such plan has total assets in excess of $5,000,000 or (g) an employee benefit plan within the meaning of Title I of the Employee Retirement Income Security Act of 1974, if the investment decision is made by a plan fiduciary, as defined in Section 3(21) of such act, which plan fiduciary is a bank, savings and loan association, an insurance company or a registered investment advisor, or if the employee benefit plan has total assets in excess of $5,000,000 or, if a self-directed plan, with invest ment decisions made solely by persons who otherwise meet these suitability standards; or 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 1 For purposes of calculating net worth: 
+ (i) The undersigned's primary residence shall not be included as an asset; 
+(ii) Indebtedness that is secured by the undersigned's primary residence, up to the estimated fair market value of the primary residence at the date hereof, shall not be included as a liability (except that if the amount of such indebtedness outstanding at the date hereof exceeds the amount outstanding 60 days before the date hereof, other than as a result of the acquisition of the primary residence, the amount of such excess shall be included as a liability); and 
+ (iii)  Indebtedness that is secured by the undersigned's primary residence in excess of the estimated fair market value of the primary residence at the date hereof shall be included as a  liability. 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ _____(5) it is a private business development company as defined in Section 202(a)(22) of the Investment Advisers Act of 1940; or     _____(6) it is an organization described in Section 501(c)(3) of the Internal Revenue Code of 1986, as amended, a corporation, a Massachusetts or similar business trust or a partnership not formed for the specific purpose of acquiring the Shares offered hereby, with total assets in excess of $5,000,000; or     _____(7) it is a trust, with total assets in excess of $5,000,000, not formed for the specific purpose of acquiring the Shares, whose purchase is directed by a sophisticated person who has such knowledge and experience in financial and business matters that he or she is capable of evaluating the merits and risks of the prospective investment; or     _____(8) it is a corporation, partnership or other entity, and each and every equity owner of such entity initials a separate Accredited Investor Certification pursuant to which it, he or she certifies that it, he or she meets the qualifications set forth in either (1), (2), (3), (4), (5), (6) or (7) above. 
+   
+If the Warrant Holder is an INDIVIDUAL, or if the Shares are being acquired as JOINT TENANTS, as TENANTS IN COMMON, or as COMMUNITY PROPERTY:   
+ If the Warrant Holder is a PARTNERSHIP, CORPORATION, LIMITED LIABILITY COMPANY or TRUST : 
+             Name(s) of Warrant Holder   Name of Warrant Holder           By: Signature of Warrant Holder     Signature of Authorized Representative               Signature, if jointly held   Name and Title of Authorized Representative               Date   Date 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+ 
+ 

@@ -1,0 +1,57 @@
+ htm 15121 Material contracts 10 2017-04-14T14:00:39.005318-05:00 Filing 0001493152-17-003856 2017-04-14 10-K Annual  & Quarterly Reports 0001429764 Car Charging Group, Inc. CCGI COM OTC 4911 Electric Services No FLORIDA NEVADA NEVADA NEW IMAGE CONCEPTS, INC false Small Reporting Company 333-149784 EX-10.26 Exhibit Exhibit 3 ex10-26.htm EX-10.26 3 ex10-26.htm 
+   
+ 
+ AMENDMENT #1 
+ TO THE SECURITIES PURCHASE AGREEMENT AND 
+ 
+ TO THE $3,725,000 PROMISSORY NOTE 
+   
+This Amendment No. 1, dated March 23, 2017 (this "Amendment"), is by and between Car Charging Group, Inc., a Nevada corporation (the " Issuer ") and JMJ Financial (the " Investor ") (referred to collectively herein as the " Parties ") 
+   
+WHEREAS, the Issuer and the Investor entered into a Securities Purchase Agreement Document SPA-10052016 (the " SPA") dated as of October 7, 2016, pursuant to which the Issuer issued to the Investor a $3,725,000 Promissory Note (the " Note"), a Warrant, and Origination Shares. All capitalized terms not otherwise defined herein shall have the meanings given such terms in the SPA. 
+   
+ NOW, THEREFORE, the Issuer and the Investor agree as follows: 
+   
+ 1.  Extension of Maturity Date. The sentence in the Note that commences with "The Maturity Date is the earlier of …" shall be amended and replaced in its entirety with the following: 
+   
+"The Maturity Date is the earlier of May 15, 2017 or the third business day after the closing of the Public Offering." 
+   
+ 2.  Origination Shares . Section 1.3 of the SPA shall be amended and replaced in its entirety with the following: 
+   
+ 1.3  Origination Shares . The Issuer shall deliver the Origination Shares to the Investor as follows: 
+   
+ 1.3.1 Origination Share Pricing. On the fifth (5 th) trading day after the pricing of the Public Offering, but in no event later than May 15, 2017, the Issuer shall deliver to the Investor such number of duly and validly issued, fully paid and non-assessable Origination Shares as equals 48% of the Consideration paid by the Investor to the Issuer under the Note (the " Origination Dollar Amount") divided by the lowest of (i) $0.70 per share, or (ii) the lowest daily closing price of the Issuer's common stock during the ten days prior to delivery of the Origination Shares (subject to adjustment for stock splits), or (iii) 80% of the common stock offering price of the Public Offering, or (iv) 80% of the unit price offering price of the Public Offering (if applicable), or (v) the exercise price of any warrants issued in the Public Offering. It is the Issuer's and the Investor's expectation that the issuance date of the Origination Shares dates back to the effective date of this Agreement for purposes of Rule 144 under the Securities Act of 1933, as amended (" Rule 144 "). 
+   
+1.3.2 Origination Share Pricing Reset. In the event that the Public Offering is not completed before May 15, 2017, so long as the Investor owns any of the Origination Shares at the time of a subsequent public offering where the pricing terms from paragraph 1.3.1 above would result in a lower Origination Share pricing, the Origination Shares pricing shall be subject to a reset based on the same pricing terms as described in paragraph 1.3.1 above (such that the Origination Shares issuance price would be reduced and the number of Origination Shares issued would be increased to equal the Origination Dollar Amount). It is the Issuer's and the Investor's expectation that the issuance date of any repriced Origination Shares dates back to the effective date of this Agreement for purposes of Rule 144 under the Securities Act of 1933, as amended (" Rule 144 "). 
+   
+1.3.3 Origination Share Beneficial Ownership Limitation. Unless otherwise agreed by both Parties, at no time will the Issuer issue to the Investor such number of Origination Shares that would result in the Investor owning more than 9.99% of the number of shares of common stock outstanding of the Issuer immediately after giving effect to the issuance of the Origination Shares (the "Beneficial Ownership Limitation"). In the event that the number of Origination Shares deliverable to the Investor pursuant to Section 1.3.1 or 1.3.2 above would cause the Investor to exceed the Beneficial Ownership Limitation, the Issuer shall deliver to the Investor such lesser number of Origination Shares the Investor requests that would result in the Investor owning less than the Beneficial Ownership Limitation and the Issuer shall deliver to the Investor the remaining number of Origination Shares at such time as the Investor notifies the Issuer that delivery of such remaining Origination Shares would not cause the Investor to exceed the Beneficial Ownership Limitation. 
+   
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+   
+ 3.  Conditional Waiver of Default. The Investor conditionally waives the defaults for the Issuer's failure to meet the original Maturity Date of the Note and delivery date for the Origination Shares, but the Investor does not waive any damages, fees, penalties, liquidated damages, or other amounts or remedies otherwise resulting from such defaults (which damages, fees, penalties, liquidated damages, or other amounts or remedies the Investor may choose in the future to assess, apply or pursue in its sole discretion) and the Investor's conditional waiver is conditioned on the Issuer's not being in default of and not breaching any term of the Note or the SPA or any other Transaction Documents at any time subsequent to the date of this Amendment (if the Issuer triggers an event of default or breaches any term of the Note, the SPA, or the Transaction Documents at any time subsequent to the date of this Amendment, the Investor may issue a notice of default for the Issuer's failure to meet the original Maturity Date of the Note and delivery date of the Origination Shares. 
+   
+ ALL OTHER TERMS AND CONDITIONS OF THE SPA AND THE NOTE REMAIN IN FULL FORCE AND EFFECT. 
+   
+ Please indicate acceptance and approval of this Amendment by signing below: 
+   
+ 
+ 
+     Michael J. Calise   JMJ Financial Car Charging Group, Inc.   Its Principal Chief Executive Officer     
+   
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+   
+ 

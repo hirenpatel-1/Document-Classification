@@ -1,0 +1,298 @@
+ htm 62482 Material contracts 10 2017-03-27T15:30:43.728255-05:00 Filing 0001387131-17-001659 2017-03-27 10-K Annual  & Quarterly Reports 0000803164 CHOICEONE FINANCIAL SERVICES INC COFS COMMON OTC 6022 State Commercial Banks No MICHIGAN MICHIGAN MICHIGAN 1ST COMMUNITY BANCORP INC false Small Reporting Company 000-19202 AMENDED AND RESTATED EXECUTIVE STOCK INCENTIVE PLAN Exhibit Exhibit 2 ex10-3.htm EX-10.3 2 ex10-3.htm AMENDED AND RESTATED EXECUTIVE STOCK INCENTIVE PLAN 
+ 
+ 
+   
+ 
+ 
+ 
+ ChoiceOne Financial Services, Inc. - 10-K 
+ EXHIBIT 10.3 
+   
+ CHOICEONE FINANCIAL SERVICES, INC. 
+AMENDED AND RESTATED EXECUTIVE STOCK INCENTIVE PLAN 
+   
+ SECTION 1 
+   
+ Establishment of Plan; Purpose of Plan 
+   
+ 1.1          Establishment of Plan.  The Company hereby establishes the AMENDED AND RESTATED EXECUTIVE STOCK INCENTIVE PLAN (the "Plan") for its corporate and Subsidiary officers and other key employees. The Plan p ermits the grant and award of Stock Options, Stock Appreciation Rights and Stock Awards. 
+   
+ 1.2          Purpose of Plan.  The purpose of the Plan is to provide officers and key management employees of the Company and its Subsidiaries with an increased incentive to make significant and extraordinary contributions to the long-term performance and growth of the Company and its Subsidiaries, to join the interests of officers and key employees with the interests of the Company's shareholders through the opportunity for increased stock ownership and to attract and retain officers and key employees of exceptional abilities. The Plan is further intended to provide flexibility to the Company in structuring long-term incentive compensation to best promote the foregoing objectives. 
+   
+ SECTION 2 
+   
+ Definitions 
+   
+The following words have the following meanings unless a different meaning is plainly required by the context: 
+   
+ 2.1         "Act" means the Securities Exchange Act of 1934, as amended. 
+   
+ 2.2          "Board" means the Board of Directors of the Company. 
+   
+2.3          "Change in Control," unless otherwise defined in an Incentive Award agreement, means an occurrence of a nature that would be required to be reported in response to Item 6(e) of Schedule 14A of Regulation 14A issued under the Act. Without limiting the inclusiveness of the definition in the preceding sentence, a Change in Control of the Company shall be deemed to have occurred as of the first day that any one or more of the following conditions is satisfied: (a) any Person is or becomes the "beneficial owner" (as defined in Rule 13d-3 under the Act), directly or indirectly, of securities of the Company representing 25% or more of the combined voting power of the Company's then outstanding securities; (b) the failure at any time of the Continuing Directors to constitute at least a majority of the Board; or (c) any of the following occur: (i) any merger or consolidation of the Company, other than a merger or consolidation in which the voting securities of the Company immediately prior to the merger or consolidation continue to represent (either by remaining outstanding or being converted into securities of the surviving entity) 60% or more of the combined voting power of the Company or surviving entity immediately after the merger or consolidation with another entity; (ii) any sale, exchange, lease, mortgage, pledge, transfer or other disposition (in a single transaction or a series of related transactions) of assets or earning power aggregating more than 50% of the assets or earning power of the Company on a consolidated basis; (iii) any complete liquidation or dissolution of the Company; (iv) any reorganization, reverse stock split or recapitalization of the Company which would result in a Change in Control as otherwise defined in this Plan; or (v) any transaction or series of related transactions having, directly or indirectly, the same effect as any of the foregoing. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 2.4         "Code" means the Internal Revenue Code of 1986, as amended. 
+   
+2.5         "Committee" means the Personnel and Benefits Committee of the Board or such other committee as the Board shall designate to administer the Plan. The Committee shall consist of at least two members of the Board and all of its members shall be "non-employee directors" as defined in Rule 16b-3 issued under the Act. 
+   
+ 2.6         "Common Stock" means the Common Stock of the Company. 
+   
+2.7         "Company" means ChoiceOne Financial Services, Inc., a Michigan corporation, and its successors and assigns. 
+   
+2.8         "Consensual Severance" means the voluntary termination of all employment by the Participant with the Company or any of its Subsidiaries that the Committee determines to  be in the best interests of the Company. 
+   
+2.9         "Continuing Directors" means the individuals constituting the Board as of the date this Plan was adopted and any subsequent directors, if appointed or nominated by at least a majority of the Continuing Directors in office at the time of the nomination or appointment, but specifically excluding any individual whose initial assumption of office occurs as a result of either an actual or threatened solicitation in opposition to any Continuing Director subject to Rule 14a-12(c) of Regulation 14A issued under the Act) or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board. 
+   
+2.10       "Employee Benefit Plan" means any plan or program established by the Company or a Subsidiary for the compensation or benefit of employees of the Company or any of its Su bsidiaries. 
+   
+2.11       "Incentive Award" means the award or grant of a Stock Option, Stock Appreciation Right or Stock Award to a Participant pursuant to the Plan. 
+   
+2.12       "Market Value" of any security on any given date means: (a) if the security is listed for trading on The Nasdaq Stock Market or one or more national securities exchanges, the last reported sales price on the date in question, or if the security shall not have been traded on the principal exchange on the applicable date, the last reported sales price on the first day before that date on which such security was so traded; (b) if the security is not so listed for trading but is traded in the over-the-counter market, the mean of highest bid and lowest asked prices for the security on the date in question, or if there are no bid and asked prices for the security on that date, the mean of the highest bid and lowest asked prices on the first day before that date on which such prices existed; or (c) if neither (a) nor (b) is applicable, the value as determined by any means considered fair and reasonable by the Committee, which determination shall be final and binding on all parties. 
+   
+ 
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+2.13       "Participant" means a corporate officer or any key employee of the Company or its Subsidiaries who is granted an Incentive Award under the Plan. 
+   
+ 2.14       "Person" has the same meaning as set forth in Sections 13(d) and 14(d)(2) of the Act. 
+   
+2.15       "Plan Year" means the 12-month period beginning January 1 of each year, except that the Plan Year for purposes of the year in which the Plan becomes effective shall be t hat period between the effective date of the Plan and December 31 of such year. 
+   
+2.16       "Retirement" means the voluntary termination of all employment by the Participant after the Participant has attained 55 years of age and completed six years of service with the Company or any of its Subsidiaries or as otherwise may be set forth in the Incentive Award agreement or other grant document with respect to a Participant and a particular  Incentive Award. 
+   
+2.17       "Stock Appreciation Right" means any right granted to a Participant pursuant to Section 6 of the Plan. 
+   
+2.18       "Stock Award" means an award of Common Stock awarded to a Participant pursuant to Section 7 of the Plan. 
+   
+2.19       "Stock Option" means the right to purchase Common Stock at a stated price for a specified period of time. For purposes of the Plan, a Stock Option may be either an incen tive stock option within the meaning of Section 422(b) of the Code or a nonqualified stock option. 
+   
+2.20       "Subsidiary" means any corporation or other entity of which 50% or more of the outstanding voting stock or voting ownership interest is directly or indirectly owned or c ontrolled by the Company or by one or more Subsidiaries of the Company. 
+   
+ 
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+ SECTION 3 
+   
+ Administration 
+   
+ 3.1           Power and Authority.  The Committee shall administer the Plan. The Committee may delegate record keeping, calculation, payment and other ministerial administrative functions to individuals designated by the Committee, who may be employees of the Company and its Subsidiaries. Except as limited in this Plan, the Committee shall have all of the express and implied powers and duties set forth in this Plan, shall have full power and authority to interpret the provisions of the Plan and Incentive Awards granted under the Plan and shall have full power and authority to supervise the administration of the Plan and Incentive Awards granted under the Plan and to make all other determinations considered necessary or advisable for the administration of the Plan. All determinations, interpretations and selections made by the Committee regarding the Plan shall be final and conclusive. The Committee shall hold its meetings at such times and places as it deems advisable. Action may be taken by a written instrument signed by a majority of the members of the Committee and any action so taken shall be fully as effective as if it had been taken at a meeting duly called and held. The Committee shall make such rules and regulations for the conduct of its business as it deems advis able. 
+   
+ 3.2           Grants or Awards to Participants.  In accordance with and subject to the provisions of the Plan, the Committee shall have the authority to determine all provisions of Incentive Awards as the Committee may deem necessary or desirable and as are consistent with the terms of the Plan, including, without limitation, the following: (a) the persons who shall be selected as Participants; (b) the nature and extent of the Incentive Awards to be made to each Participant (including the number of shares of Common Stock to be subject to each Incentive Award, any exercise price, the manner in which an Incentive Award will vest or become exercisable and the form of payment for the Incentive Award); (c) the time or times when Incentive Awards will be granted; (d) the duration of each Incentive Award; and (e) the restrictions and other conditions to which payment or vesting of Incentive Awards may be subject. 
+   
+ 3.3           Amendments or Modifications of Awards.  The Committee shall have the authority to amend or modify the terms of any outstanding Incentive Award in any manner, provided that the amended or modified terms are not prohibited by the Plan as then in effect, including, without limitation, the authority to: (a) modify the number of shares or other terms and conditions of an Incentive Award; (b) extend the term of an Incentive Award; (c) accelerate the exercisability or vesting or otherwise terminate any restrictions relating to an Incentive Award; (d) accept the surrender of any outstanding Incentive Award; and (e) to the extent not previously exercised or vested, authorize the grant of new Incentive Awards in substitution for surrendered Incentive Awards . 
+   
+ 3.4           Indemnification of Committee Members.  Neither any member or former member of the Committee nor any individual to whom authority is or has been delegated shall be personally responsible or liable for any act or omission in connection with the performance of powers or duties or the exercise of discretion or judgment in the administration and implementation of the Plan. Each person who is or shall have been a member of the Committee shall be indemnified and held harmless by the Company from and against any cost, liability or expense imposed or incurred in connection with such person's or the Committee's taking or failing to take any action under the Plan. Each such person shall be justified in relying on information furnished in connection with the  Plan's administration by any appropriate person or persons. 
+   
+ 
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+   
+ SECTION 4 
+   
+ Shares Subject to the Plan 
+   
+ 4.1          Number of Shares.  Subject to adjustment as provided in Section 4.2 of the Plan, the total number of shares of Common Stock available for Incentive Awards under the Plan shall be (a) for the initial Plan Year, 5% of the total number of shares of Common Stock outstanding at the time the Plan becomes effective; plus (b) in each subsequent Plan Year, an additional number of shares of Common Stock not to exceed 2% of the number of shares of Common Stock outstanding as reported in the Company's Annual Report on Form 10-K for the fiscal year ending immediately before such Plan Year such that at the beginning of each Plan Year after the initial Plan Year there shall be available, in addition to any amount of shares remaining from the 5% authorization for the initial Plan Year, a minimum number of shares equal to 2% of the number of shares of Common Stock outstanding; plus (c) there shall be carried forward and available for Incentive Awards under the Plan all of the following (subject to adjustment as provided in Section 4.2): (i) shares subject to Incentive Awards that are canceled, surrendered, modified, exchanged for substitute Incentive Awards or expire or terminate prior to the exercise or vesting of the Incentive Award in full; (ii) with respect to any succeeding Plan Year, any unused portion of the amount set forth in subsection (a) above; and (iii) shares that are surrendered to the Company in connection with the exercise or vesting of an Incentive Award, whether previously owned or otherwise subject to such Incentive Award. Such shares shall be authorized and may be either unissued or treasury shares. 
+   
+ 4.2          Adjustments . 
+   
+ (a)        Stock Dividends and Distributions.  If the number of shares of Common Stock outstanding changes by reason of a stock dividend, stock split, recapitalization or other general distribution of Common Stock or other securities to holders of Common Stock, the number and kind of securities subject to Incentive Awards and reserved for issuance under the Plan, together with applicable exercise prices, as well as the number of shares available for issuance under the Plan, shall be adjusted appropriately. No fractional shares shall be issued pursuant to the Plan and any fractional shares resulting from such adjustments shall be eliminated from the respective Incentive Awards. 
+   
+ 
+ 
+ 
+ 5   
+ 
+ 
+   
+ 
+ 
+   
+ (b)        Other Actions Affecting Common Stock.  If there occurs, other than as described in the preceding subsection, any merger, business combination, recapitalization, reclassification, subdivision or combination approved by the Board that would result in the Persons who were shareholders of the Company immediately prior to the effective time of any such transaction owning or holding, in lieu of or in addition to shares of Common Stock, other securities, money and/or property (or the right to receive other securities, money and/or property) immediately after the effective time of such transaction, then the outstanding Incentive Awards and reserves for Incentive Awards under this Plan shall be adjusted in such manner and at such time as shall be equitable under the circumstances. It is intended that in the event of any such transaction, Incentive Awards under this Plan shall entitle the holder of each Incentive Award to receive (upon exercise in the case of Stock Options), in lieu of or in addition to shares of Common Stock, any other securities, money and/or property receivable upon consummation of any such transaction by holders of Common Stock with respect to each share of Common Stock outstanding immediately prior to the effective time of such transaction; upon any such adjustment, holders of Incentive Awards under this Plan shall have only the right to receive in lieu of or in addition to shares of Common Stock such other securities, money and/or other property as provided by the adjustment. If the agreement, resolution or other document approved by the Board to effect any such transaction provides for the adjustment of Incentive Awards under the Plan in connection with such transaction, then the adjustment provisions contained in such agreement, resolution or other document shall be final and conclusive. 
+   
+ SECTION 5 
+   
+ Stock Options 
+   
+ 5.1           Grant.  A Participant may be granted one or more Stock Options under the Plan. The Committee, in its discretion, may provide in the initial grant of a Stock Option for the subsequent automatic grant of additional Stock Options for the number of shares that are subject to the initial Stock Option and surrendered to the Company in connection with the exercise of the initial or any subsequently granted Stock Option. Stock Options shall be subject to such terms and conditions, consistent with the other provisions of the Plan, as may be determined by the Committee in its sole discretion. The Committee may vary, among Participants and among Stock Options granted to the same Participant, any and all of the terms and conditions of the Stock Options granted under the Plan. The Committee shall have complete discretion in determining the number of Stock Options granted to each Participant. The Committee may designate whether or not a Stock Option is to be considered an incentive stock option as defined in Section 422(b) of the Code;  provided, that the number of shares of Common Stock that may be designated as subject to incentive stock options for any given Participant shall be limited to that number of shares that become exercisable for the first time by the Participant during any Plan Year (under all plans of the Company and its Subsidiaries) and have an aggregate Market Value less than or equal to $100,000 (or such other amount as may be set forth in the Code) and all shares subject to an Incentive Award that have a Market Value in excess of such aggregate amount shal l automatically be subject to Stock Options that are not incentive stock options. 
+   
+ 
+ 
+ 
+ 6   
+ 
+ 
+   
+ 
+ 
+   
+ 5.2           Stock Option Agreements.  Stock Options shall be evidenced by stock option agreements containing such terms and conditions, consistent with the provisions of the Plan, as the Committee shall from time to time determine. To the extent not covered by the stock option agreement, the terms and conditions of this Section 5 shall govern. 
+   
+ 5.3           Stock Option Price.  The per share Stock Option price shall be determined by the Committee, but shall be a price that is equal to or higher than the par value of the Company's Common Stock;  provided that the per share Stock Option price for any shares designated as incentive stock options shall be equal to or greater than 100% of the Market Value on the date of grant. 
+   
+ 5.4           Medium and Time of Payment.  The exercise price for each share purchased pursuant to a Stock Option granted under the Plan shall be payable in cash or, if the Committee consents, in shares of Common Stock (including Common Stock to be received upon a simultaneous exercise) or other consideration substantially equivalent to cash. The time and terms of payment may be amended with the consent of a Participant before or after exercise of a Stock Option. The Committee may from time to time authorize payment of all or a portion of the Stock Option price in the form of a promissory note or other deferred payment installments according to such terms as the Committee may approve. The Board may restrict or suspend the power of the Committee to pe rmit such loans and may require that adequate security be provided. 
+   
+ 5.5           Stock Options Granted to Ten Percent Shareholders.  No Stock Option granted to any Participant who at the time of such grant owns, together with stock attributed to such Participant under Section 424(d) of the Code, more than 10% of the total combined voting power of all classes of stock of the Company or any of its Subsidiaries may be designated as an incentive stock option, unless such Stock Option provides an exercise price equal to at least 110% of the Market Value of the Common Stock and the exercise of the Stock Option after the expiration of five years from the date of grant  of the Stock Option is prohibited by its terms. 
+   
+ 5.6           Limits on Exercisability.  Except as provided in Section 5.5, Stock Options shall be exercisable for such periods, not to exceed 10 years from the date of grant, as may be fixed by the Committee. At the time of the exercise of a Stock Option, the holder of the Stock Option, if requested by the Committee, must represent to the Company that the shares are being acquired for investment and not with a view to the distribution thereof. The Committee may in its discretion require a Participant to continue the Participant's service with the Company and its Subsidiaries for a certain length of time prior to a Stock Option becoming exercisable and may eliminate such delayed vesting provisions. 
+ 
+ 
+ 
+ 7   
+ 
+ 
+   
+ 
+ 
+   
+ 5.7           Restrictions on Transferability . 
+   
+ (a)        General.  Unless the Committee otherwise consents (before or after the option grant) or unless the stock option agreement or grant provides otherwise; (i) no incentive stock options granted under the Plan may be sold, exchanged, transferred, pledged, assigned or otherwise alienated or hypothecated except by will or the laws of descent and distribution; and (ii) all  Stock Options that are not incentive stock options may be transferred,  provided, that as a condition to any such transfer the transferee must execute a written agreement permitting the Company to withhold from the shares subject to the Stock Option a number of shares having a Market Value at least equal to the amount of any federal, state or local withholding or other taxes associated with or resulting from the exercise of the Stock Option. All provisions of a Stock Option that are determined with reference to the Participant, including without limitation those that refer to the Participant's employment with the Company or its Subsidiaries, shall continue to be determined with reference to the Participant after any transfer of a Stock Option. 
+   
+ (b)        Other Restrictions.  The Committee may impose other restrictions on any shares of Common Stock acquired pursuant to the exercise of a Stock Option under the Plan as the Committee deems advisable, in cluding, without limitation, restrictions under applicable federal or state securities laws. 
+   
+ 5.8           Termination of Employment . 
+   
+ (a)  General.  If a Participant is no longer employed by the Company or its Subsidiary for any reason other than the Participant's Consensual Severance, Retirement, death, disability or termination for cause, the Participant may exercise his or her Stock Options in accordance with their terms for a period of three months after such termination of employment unless the terms of the applicable stock option agreement or grant provide otherwise, but only to the extent the Participant was entitled to exercise the Stock Options on the date of termination. For purposes of the Plan: (i) a transfer of an employee from the Company to any Subsidiary; (ii) a leave of absence, duly authorized in writing by the Company, for military service or for any other purpose approved by the Company if the period of such leave does not exceed 90 days; and (iii) a leave of absence in excess of 90 days, duly authorized in writing by the Company, provided the employee's right to reemployment is guaranteed either by statute, contract or written policy of the Company shall not be deemed a termination of employment. For purposes of the Plan, termination of employment shall be considered to occur on the date on which the employee is no longer obligated to perform services for the Company or any of its Subsidiaries and the employee's right to reemployment is not guaranteed either by statute, contract or written policy of the Company, regardless of whether the employee continues to receive compensation from the Company or any of its Subsidiaries after such date. 
+   
+ (b)  Consensual Severance.  If a Participant ceases to be employed by the Company or one of its Subsidiaries due to Consensual Severance, the Committee may, in its sole discretion, permit the Participant to exercise his or her Stock Options in accordance with their terms and to the extent that the Participant was entitled to exercise the Stock Options on the date of termination for a period of time after such termination of employment as may be determined by the Committee, provided, that such period may not extend beyond the earlier of three years after the d ate of termination or the dates on which such Stock Options expire by their terms. 
+   
+ 
+ 
+ 
+ 8   
+ 
+ 
+   
+ 
+ 
+   
+ (c)  Retirement.  If a Participant ceases to be employed by the Company or one of its Subsidiaries due to Retirement, the Participant may exercise his or her Stock Options in accordance with their terms for a period of three years after such termination of employment unless such Stock Options earlier expire by their terms, but only to the extent that the Participant was en titled to exercise the Stock Options on the date of termination. 
+   
+ (d)  Disability.  If a Participant ceases to be employed by the Company or one of its Subsidiaries due to the Participant's disability, he or she may exercise his or her Stock Options in accordance with their terms for one year after he or she ceases to be employed unless such Stock Options earlier expire by their terms, but only to the extent that the Participant was enti tled to exercise the Stock Options on the date of such termination. 
+   
+ (e)  Death.  If a Participant dies either while an employee or otherwise during a time when the Participant could have exercised a Stock Option, the Stock Options issued to such Participant shall be exercisable in accordance with their terms by the personal representative of such Participant or other successor to the interest of the Participant for a period of one year after such Participant's death to the extent that the Participant was entitled to exercise the Stock Options on the date of death but not beyond the original term of the Stock Op tions. 
+   
+ (f)   Termination for Cause.  If a Participant's employment is terminated for cause, the Participant shall have no further right to exercise any Stock Options previously granted him or her. 
+   
+ SECTION 6 
+   
+ Stock Appreciation Rights 
+   
+ 6.1           Grant.  A Participant may be granted one or more Stock Appreciation Rights under the Plan and such Stock Appreciation Rights shall be subject to such terms and conditions, consistent with the other provisions of the Plan, as shall be determined by the Committee in its sole discretion. A Stock Appreciation Right may relate to a particular Stock Option and may be granted simultaneously with or subsequent to the Stock Option to which it relates. Stock Appreciation Rights shall be subject to the same restrictions and conditions as Stock Options under subsections 5.6, 5.7 and 5.8 of the Plan. To the extent granted in tandem with a Stock Option, the exercise of a Stock Appreciation Right shall, in exchange for the right to exercise a related Stock Option, entitle a Participant to an amount equal to the appreciation in value of the shares covered by the related Stock Option surrendered. Such appreciation in value shall be equal to the excess of the Market Value of such shares at the time of the exercise of the Stock Appreciation Right over the option price of such shares. 
+   
+ 
+ 
+ 
+ 9   
+ 
+ 
+   
+ 
+ 
+   
+ 6.2            Exercise ;  Payment.  To the extent granted in tandem with a Stock Option, Stock Appreciation Rights may be exercised only when a related Stock Option could be exercised and only when the Market Value of the stock subject to the Stock Option exceeds the exercise price of the Stock Option. The Committee shall have discretion to determine the form of payment made upon the exerci se of a Stock Appreciation Right, which may take the form of shares of Common Stock. 
+   
+ SECTION 7 
+   
+ Stock Awards 
+   
+ 7.1           Grant.  A Participant may be granted one or more Stock Awards under the Plan. Stock Awards shall be subject to such terms and conditions, consistent with the other provisions of the Pla n, as may be determined by the Committee in its sole discretion. 
+   
+ 7.2            Rights as a Shareholder.  A Participant shall have all voting, dividend, liquidation and other rights with respect to shares of Common Stock issued to the Participant as a Stock Award under this Section 7 upon the Participant becoming the holder of record of the Common Stock granted pursuant to such Stock Awards;  provided, that the Committee may impose such restrictions on the assignment or transfer of Common Stock awarded pursuant to a Stock Award as it deems appropriate and may require the Participant to continue in the employ of the Company or a Subsidiary for a specified period of time after the award. 
+   
+ SECTION 8 
+   
+ Change in Control 
+   
+Without in any way limiting the Committee's discretion, the Committee may include in any Incentive Award provisions for acceleration of any vesting or other similar requirements or for the elimination of any restrictions upon Incentive Awards upon a Change in Control of the Company. The Committee also may include provisions for Participants to receive cash i n lieu of outstanding Stock Options upon a Change in Control of the Company. 
+   
+ SECTION 9 
+   
+ General Provisions 
+   
+ 9.1            No Rights to Awards.  No Participant or other person shall have any claim to be granted any Incentive Award under the Plan and there is no obligation of uniformity of treatment of Participants or holders or beneficiaries of Incentive Awards under the Plan. The terms and conditions of Incentive Awards of the same type and the determination of the Committee to grant a waiver or modification of any Incentive Award and the terms and conditions thereof need not be the same with respect to each Participant or among awards to the same Participant. 
+   
+ 
+ 
+ 
+ 10   
+ 
+ 
+   
+ 
+ 
+   
+ 9.2           Withholding.  The Company or a Subsidiary shall be entitled to (a) withhold and deduct from future wages of a Participant (or from other amounts that may be due and owing to a Participant from the Company or a Subsidiary), or make other arrangements for the collection of, all amounts necessary to satisfy any and all federal, state and local withholding and employment-related tax requirements attributable to an Incentive Award or any action related to an Incentive Award, including, without limitation, the grant, exercise or vesting of, or payment of dividends with respect to, an Incentive Award or a disqualifying disposition of Common Stock received upon exercise of an incentive stock option; or (b) require a Participant promptly to remit the amount of such withholding to the Company before taking any action with respect to an Incentive Award. Unless the Committee determines otherwise, withholding may be satisfied by withholding Common Stock to be received upon exercise or by delivery to the Company of previously owned Common Stock. The Company may establish such rules and pr ocedures concerning timing of any withholding election as it deems appropriate. 
+   
+ 9.3           Compliance With Laws ;  Listing and Registration of Shares.  All Incentive Awards granted under the Plan (and all issuances of Common Stock or other securities under the Plan) shall be subject to all applicable laws, rules and regulations and to the requirement that if at any time the Committee shall determine, in its discretion, that the listing, registration or qualification of the shares covered thereby upon any securities exchange or under any state or federal law, or the consent or approval of any governmental regulatory body, is necessary or desirable as a condition of, or in connection with, the grant of such Incentive Award or the issue or purchase of shares thereunder, such Incentive Award may not be exercised in whole or in part, or the restrictions on such Incentive Award shall not lapse, unless and until such listing, registration, qualification, consent or approval shall have been effected or obtained free of any conditions not acc eptable to the Committee. 
+   
+ 9.4           No Limit on Other Compensation Arrangements.  Nothing contained in the Plan shall prevent the Company or any Subsidiary from adopting or continuing in effect other or additional compensation arrangements, including the grant of stock options and other stock-based awards and such arrangements may be either generally applicable or applicable only in specific cases. 
+   
+ 9.5           No Right to Employment.  The grant of an Incentive Award shall not be construed as giving a Participant the right to be retained in the employ of the Company or any Subsidiary. The Company or any Subsidiary may at any time dismiss a Participant from employment, free from any liability or any claim under the Plan, unless otherwise expressly provided in the Plan or in any written a greement with a Participant. 
+   
+ 9.6           Suspension of Rights under Incentive Awards.  The Company, by written notice to a Participant, may suspend a Participant's and any transferee's rights under any Incentive Award for a period not to exceed 30 days while the termination for cause of that Participant's employment with the Company and its Subsidiaries is under consideration. 
+   
+ 
+ 
+ 11   
+ 
+ 
+   
+ 
+ 
+   
+ 9.7           Governing Law.  The validity, construction and effect of the Plan and any rules and regulations relating to the Plan shall be determined in accordance with the laws of the State of Michigan and  applicable federal law. 
+   
+ 9.8           Severability.  If any provision of the Plan shall be held illegal or invalid for any reason, the illegality or invalidity shall not affect the remaining provisions of the Plan and the Plan sha ll be construed and enforced as if the illegal or invalid provision had not been included. 
+   
+ 9.9           Change of Name .  The Plan shall be automatically amended to reflect any change in the name of the Company. 
+   
+ SECTION 10 
+   
+ Termination and Amendment 
+   
+The Board may terminate the Plan at any time, or may from time to time amend the Plan as it deems proper and in the best interests of the Company, provided that no such amendment may impair any outstanding Incentive Award without the consent of the Participant, except according to the terms of the Plan or the Incentive Award. No termination, amendment or modification of the Plan shall become effective with respect to any Incentive Award previously granted under the Plan without the prior written consent of the Participant holding such Incentive Award unless such amendment or modification operates solely to the benefit of the Participant. 
+   
+ SECTION 11 
+   
+ Effective Date and Duration of the Plan 
+   
+This Plan shall take effect April 27, 2000, subject to approval by the shareholders. No Incentive Award shall be granted under the Plan after April 26, 2010. 
+   
+ 
+ 
+ 12   
+ 
+ 
+   

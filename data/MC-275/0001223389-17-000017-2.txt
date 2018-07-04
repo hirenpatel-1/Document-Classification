@@ -1,0 +1,413 @@
+ htm 73117 Material contracts 10 2017-04-04T15:31:25.867441-05:00 Filing 0001223389-17-000017 2017-04-04 10-K Annual  & Quarterly Reports 0001223389 CONNS INC CONN COMMON Nasdaq Global Market 5731 Radio, Television  & Consumer Electronics Stores Yes TEXAS DELAWARE DELAWARE false Large Accelerated Filer 001-34956 EXHIBIT 10.5.3 Exhibit Exhibit 2 conns01312017ex1053.htm EX-10.5.3 2 conns01312017ex1053.htm EXHIBIT 10.5.3 
+ 
+ 
+ 
+ 
+ 
+ Exhibit 10.5.3 
+ PERFORMANCE-BASED RESTRICTED STOCK UNIT AWARD AGREEMENT 
+ CONN'S, INC. 
+ 2016 OMNIBUS INCENTIVE PLAN 
+THIS PERFORMANCE-BASED RESTRICTED STOCK UNIT AWARD AGREEMENT (this "Agreement") is made by and between CONN'S, INC., a Delaware corporation (the "Company"), and                          ("Recipient") as of                       , pursuant to the Company's 2016 Omnibus Incentive Plan (the "Plan"), which is incorporated by reference herein in its entirety. 
+ RECITALS 
+The Committee, acting on behalf of the Company, wishes to grant Recipient the number of Performance-Based Restricted Stock Units ("PSUs") set forth in Exhibit "A", on the terms and  subject to the conditions set forth in Exhibit "A", below and in the Plan. 
+Capitalized terms used in this Agreement and not otherwise defined in this Agreement will have the meaning assigned to them in the Plan. 
+ AGREEMENT 
+ It is hereby agreed as follows: 
+ 1. Award of Restricted Stock Units. The Company hereby grants to Recipient, subject to the terms and conditions set forth in the Plan and in this Agreement, the number of PSUs, effective as of                         (the "Date of Grant"). Each PSU represents the unfunded, unsecured right to receive one share of the Company's $0.01 par value common stock, subject to the terms and conditions set forth in the Plan, in Exhibit "A" and in this Agreement. The shares of stock that are issuable upon vesting of the PSUs granted to Recipient pursuant to this Agreement are referre d to in this Agreement as the "Shares". 
+ 2.      Vesting . 
+ 2.1     Except as otherwise provided in the Plan or in Section 2.2, the PSUs will vest as described in Exhibit "A". 
+ 2.2     In addition to the vesting provisions contained in Section 2.1 above, the PSUs will automatically and immediately vest in full (at 100% of target) if Recipient's employment with the Company is terminated within a period of six months following a Change in Control (i) by the Company for a reason other than Cause, as defined in the Plan, or (ii) by Recipient f or Good Reason, as defined below. 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.3     For purposes of this Agreement, "Good Reason" shall have the meaning, and be subject to the terms and conditions, as set forth in the severance agreement between the Company and th e Recipient or the severance plan in which the Recipient is eligible to participate, as applicable. 
+ 3.      Delivery upon Vesting . 
+ 3.1     Subject to Section 3.3, within thirty (30) days following vesting of any PSUs, the Company or, at the Company's instruction, its authorized representative, will deliver to Recipient the underlying Shares. Unless otherwise determined by the Committee, delivery of Shares pursuant to this Agreement may be accomplished in any manner that the Company or its authorized representatives deem appropriate including, without limitation, electronic registration, book-entry registration or issuance of a stock certificate or certificates in the nam e of Recipient. 
+ 3.2     The delivery of Shares is net shares after any applicable withholding taxes in accordance with Section 12 of the Plan. 
+ 3.3     This Agreement is intended to comply with the requirements of Section 409A of the Internal Revenue Code of 1986, as amended (the "Code"), and shall be interpreted and construed consistently with such intent. In the event the terms of this Agreement would subject Recipient to taxes or penalties under Section 409A of the Code ("409A Penalties"), the Company and Recipient shall cooperate diligently to amend the terms of the Agreement to avoid such 409A Penalties, to the extent possible; provided that in no event shall the Company be responsible for any 409A Penalties that arise in connection with any amounts payable under this Agreement. To the extent any amounts under this Agreement are payable by reference to Recipient's "termination of employment," such term shall be deemed to refer to Recipient's "separation from service," within the meaning of Section 409A of the Code. Notwithstanding any other provision in this Agreement, if Recipient is a "specified employee," as defined in Section 409A of the Code, as of the date of Recipient's separation from service, then to the extent any amount payable under this Agreement (i) constitutes the payment of nonqualified deferred compensation, within the meaning of Section 409A of the Code, (ii) is payable upon Recipient's separation from service and (iii) under the terms of this Agreement would be payable prior to the six-month anniversary of Recipient's separation from service, such payment shall be delayed until the earlier to occur of (a) the six-month anniversary of the separation from service or (b) the date of Recipient's death. 
+ 4.      Effect of Termination of Employment or Other Service. If Recipient's employment or other service with the Company terminates, the effect of the termination on Recipient's PSUs under this Agreement will be as set forth in Section 12  of the Plan.  
+ 5.      Restrictions on Transfer of PSUs. The PSUs will not be transferable, either voluntarily or by operation of law, except as provided in Section 14.3 of the Plan. 
+ 6.      Rights as a Stockholder. Except as set forth in the Plan, neither Recipient nor any person claiming under or through Recipient shall be, or have any of the rights or privileges of, a 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 2 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+stockholder of the Company in respect of a Share issuable pursuant to this Award unless and until such Share shall have been delivered. 
+ 7.      No Right to Employment. Nothing contained in this Agreement obligates the Company to employ or have another relationship with Recipient for any period or interfere in any way with the right of the Company to reduce Recipient's compensation or to terminate the employment of or relationship with Recipient at any time. 
+ 8.      Clawback. Any portion of the payments, equity grants, equity vesting, including those under the Plan and this Agreement, as well as any other equity payments which Recipient receives pursuant to a Company plan or other arrangement, shall be subject to recoupment and clawback in the event of Recipient's termination for cause or violation of Plan terms, and to the extent necessary to comply with the requirements of the Dodd-Frank Wall Street Reform and Consumer Protection Act, any Securities and Exchange Commission rule, and any implementing rules and regulations thereunder, or as required by law. Recipient agrees to fully cooperate with Company in assuring compliance with such policies and provisions of applicable law. 
+ 9.      Miscellaneous . 
+ 9.1      Binding Effect, Successors. This Agreement shall bind and inure to the benefit of the successors, assigns, transferees, agents, personal representatives, heirs and legatees of the respective parties. 
+ 9.2      Further Acts. Each party will perform any further acts and execute and deliver any documents which may be necessary to carry out the provisions of this Agreement and to comply with applicable  law. 
+ 9.3      Amendment . This Agreement may be amended at any time by the written agreement of the Company and Recipient. 
+ 9.4      Choice of Law and Severability. This Agreement shall be construed, enforced and governed by the laws of the State of Delaware. The invalidity of any provision of this Agreement will not affect any other provisi on of this Agreement, which will remain in full force and effect. 
+ 9.5      Notices. All notices and demands to Recipient or the Company may be given to them at the following addresses: 
+ 
+ If to Recipient: 
+ 
+ ____________________________________ 
+ 
+                               
+                               
+ Electronic Mail:                    
+ 
+ 
+ If to Company: 
+ 
+ Conn's, Inc. 
+ 
+ Attn:   Office of General Counsel 
+ 4055 Technology Forest Blvd., Ste. 210 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 3 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Woodlands, TX 77381 
+ Electronic Mail: generalcounsel@conns.com 
+ 
+The parties may designate in writing from time to time such other place or places that notices and demands may be given. 
+ 9.6      Entire Agreement. This Agreement, as governed by and interpreted in accordance with the Plan, and the Plan constitute the entire agreement between the parties hereto pertaining to the subject matter hereof, this Agreement supersedes all prior and contemporaneous agreements and understandings of the parties, and there are no warranties, representations or other agreements between the parties in connection with the subject matter hereof except as set forth or referred to herein. No supplement, modification or waiver or termination of this Agreement shall be binding unless executed in writing by the party to be bound thereby. No waiver of any of the provisions of this Agreement shall constitute a waiver of any other provision her eof (whether or not similar) nor shall such waiver constitute a continuing waiver. 
+ 9.7      Grant Subject to Terms of Plan and this Agreement.  Recipient acknowledges and agrees that the grant of the PSUs is made pursuant to and governed by the terms of the Plan and this Agreement. Recipient, by execution of this Agreement, acknowledges having received a copy of the Plan. The provisions of this Agreement will be interpreted as to be consistent with the Plan, and any ambiguities in this Agreement will be interpreted by reference to the Plan. In the case of a conflict between the terms of the Plan and this Agreement, the terms of the Plan will control. 
+ 
+ [ Signature Page Follows ] 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 4 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties have entered into this Agreement as of the date first set forth above. 
+ CONN'S, INC., 
+ a Delaware corporation 
+ By: _______________________________________ 
+ Name:                                  
+ Tile:                                       
+ 
+ RECIPIENT 
+ __________________________________________ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 5 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXHIBIT "A" 
+ 
+ [Name of recipient] 
+ 
+ Performance-Based Restricted Stock Units ("PSUs") 
+ 
+ Awarded by the Compensation Committee effective                        
+ 
+ 
+ 
+ 1. 
+ 
+ Target Number of PSUs:                        
+ 
+ 
+ 
+ 
+ 
+ Number of Shares Granted 
+ 
+ Number of Shares Contingent On Shareholder Approval; 
+ Assuming Target Performance Conditions are Met 
+ 
+ 
+ 
+ 
+ 
+ 
+ [____] 
+ 
+ [____] 
+ 
+ 
+ 
+ 
+ 2.    Timing of Vesting 
+ 
+The PSUs will vest, if at all, upon the certification (the "Certification") by the Compensation Committee of the Company's Board of Directors of the satisfaction of the Earnings Before Interest, Taxes, Depreciation and Amortization ("EBITDA"). Further, Total Shareholder Return ("TSR") metrics described in Section 3 of this Exhibit "A" will be applied based upon certain shareholder return criteria. For avoidance of doubt, no PSUs will vest prior to the completion of all relevant performance periods (and the Certification). 
+ 
+ 3.    Number of PSUs Earned 
+ 
+ The extent to which the Target PSUs are earned will be determined as follows: 
+ 
+ EBITDA Performance Condition: 
+ 
+ (a) One-third of the Target PSUs will be earned according to the following schedule: 
+ 
+ 
+ 
+ 
+ 
+ EBITDA for fiscal 2018 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ Percentage of Target PSUs Earned 
+ 
+ 0% 
+ 
+ 50% 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+ 
+ (b) One-third of the Target PSUs will be earned according to the following schedule: 
+ 
+ 
+ 
+ 
+ EBITDA for fiscal 2019 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ Percentage of Target PSUs Earned 
+ 
+ 0% 
+ 
+ 50% 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) One-third of the Target PSUs will be earned according to the following schedule: 
+ 
+ 
+ 
+ 
+ EBITDA for fiscal 2020 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ Percentage of Target PSUs Earned 
+ 
+ 0% 
+ 
+ 50% 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+ 
+(d) Following the end of fiscal 2020, the Company shall recalculate the aggregate percentage of Target PSUs earned based on the cumulative EBITDA for fiscal years 2018, 2019 and 2020, according to the following schedule: 
+ 
+ 
+ 
+ 
+ Cumulative EBITDA for fiscal 2018, 2019 and 2020 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ [$ ] 
+ 
+ Percentage of Target PSUs Earned 
+ 
+ 0% 
+ 
+ 50% 
+ 
+ 100% 
+ 
+ 150% 
+ 
+ 
+ 
+ 
+(e) The aggregate number of PSUs earned shall be based on either the sum of the number of PSUs earned based on the annual EBITDA for each of fiscal years 2018, 2019 and 2020, determined in accordance with subsections (a), (b) and (c) above, or on the cumulative EBITDA for fiscal years 2018, 2019 and 2020, determined in accordance with subsection (d) above, whichever is greater. 
+ 
+(f) The percentage of the Target PSUs earned shall be determined using straight-line interpolation between the performance levels set forth above, provided that no PSUs shall be earned for performance at levels below that indicated under the 50% column. The number of PSUs that are earned shall be rounded up to the nearest whole share. 
+ 
+(g) For purposes of this award, EBITDA for each year shall be calculated as net income plus interest expense plus provision for income taxes plus depreciation plus amortization plus charges and credits, adjusted by the Committee for Extraordinary Events. 
+ 
+"Extraordinary Events" means foreign exchange gains and losses, asset write downs, acquisitions and divestitures, change in fiscal year, unbudgeted capital expenditures, special charges such as restructuring or impairment charges, debt refinancing costs, extraordinary or noncash items, unusual, infrequently occurring, nonrecurring or one-time events affecting the Company or its  financial statements or changes in law or accounting principles. 
+ 
+ TSR Modifier 
+ 
+(a) The number of PSUs, if any, that is determined to have been earned pursuant to the cumulative EBITDA Performance Condition at the end of the fiscal three year period shall be subject to adjustment on the basis of the Company's TSR Performance Quotient, as per the table 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 7 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ below;   provided   that in no event shall the number of PSUs earned exceed 150% of the number of Target PSUs: 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ [____] 
+ 
+ [____] 
+ 
+ [____] 
+ 
+ TSR Performance Quotient 
+ 
+ Less than 1.15 
+ 
+ 1.15-1.30 
+ 
+ Greater than 1.30 
+ 
+ 
+ 
+ 
+(b) TSR Performance Quotient shall be determined by dividing (i) the average closing price of a share of the Company's Common Stock on the NASDAQ Global Select Market (or, if different, the principal market on which the Company's stock then trades) for each of the trading days in February 2020 by (ii) the average closing price of a share of the Company's Common Stock on the NAS DAQ Global Select Market for each of the trading days in February 2017. 
+ 
+ 
+ 4.    Additional Terms 
+ 
+(a) Subject to, and except as otherwise provided by, the Agreement or the Plan, the PSUs that are earned pursuant to the attainment of the performance conditions set forth in Section 3 shall vest only if the Recipient remains employed by the Company through the date of the Certification. 
+(b) The number of PSUs granted pursuant to the Agreement and this Exhibit "A" has been approved by the Committee, with any PSUs categorized as "contingent" in Box 1 above being contingent on the approval of a Plan amendment by the stockholders of the Company at its 2017 annual meeting, which increases both the number of shares available for awards under the Plan and the annual limit on awards that may be granted to any one recipient in any tax year of the Company. If the stockholders of the Company do not approve such amendment, the number of PSUs that may be earned hereunder shall be reduced, assuming a target level of performance, by the number of PSUs that are contingent on shareholder approval, as shown in Box 1, above. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 8 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,434 @@
+ htm 94393 Filing 0001171843-16-008096 2016-02-24 0001407623 RETAIL OPPORTUNITY INVESTMENTS CORP NRDC Acquisition Corp. 001-33749 333-189057-01 EXHIBIT 3.5 Exhibit Exhibit 3 exh_35.htm Articles of incorporation 3 2017-02-24T21:56:08.214958-06:00 10-K Large Accelerated Filer COM Nasdaq Global Market ROIC Yes CALIFORNIA CA 6798 Holding  & Other Investment Offices:Real Estate Investment Trusts Holding  & Other Investment Offices Real Estate Investment Trusts Annual  & Quarterly Reports MARYLAND MD MARYLAND true EX-3.5 3 exh_35.htm EXHIBIT 3.5 
+ EXHIBIT 3.5 
+   
+ 
+ ADMISSION AMENDMENT 
+   
+ THIRD AMENDMENT 
+ TO 
+ SECOND AMENDED AND RESTATED AGREEMENT OF LIMITED PARTNERSHIP 
+ OF 
+ RETAIL OPPORTUNITY INVESTMENTS PARTNERSHIP, LP 
+ This Third Amendment (this " Amendment") to the Partnership Agreement (as defined below) of Retail Opportunity Investments Partnership, LP, a Delaware limited partnership (the " Partnership"), is made and entered as of December 10, 2015 by Retail Opportunity Investments GP, LLC, a Delaware limited liability company, which is the sole general partner of the Partnershi p (the " General Partner "). 
+WHEREAS, an Amendment to the Certificate of Limited Partnership of the Partnership was filed in the office of the Secretary of State of the State of Delaware on January 5, 2010; 
+WHEREAS, the General Partner and the limited partners of the Partnership entered into an Agreement of Limited Partnership of the Partnership, dated as of January 5, 2010, pursuant  to which the Partnership was formed; 
+ WHEREAS, the General Partner and the limited partners of the Partnership (the " Limited Partners") entered into the Second Amended and Restated Agreement of Limited Partnership of the Partnership, dated as of September 27, 2013, as amended on December 11, 2014, and as further  amended on December 4, 2015 (the " Partnership Agreement "); 
+WHEREAS, capitalized terms used but not defined herein shall have the meanings ascribed to them in the Partnership Agreement; 
+ WHEREAS, pursuant to the terms and provisions of that certain Contribution Agreement (the " Contribution Agreement"), dated December 1, 2015, by and among Retail Opportunity Investments Corp., a Maryland corporation (the " REIT"), the Partnership and Sternco Center (f/k/a N.E. 20th Street Properties), a Washington General Partnership (" Owner"), the Partnership, or its assignee, intends to purchase the real property and improvements commonly known as the Sternco Shopping Center located at or near 14625 NE 20 th  Street, Bellevue, King County, Washington (the " Property ") from the Owner; 
+WHEREAS, in accordance with terms of the Contribution Agreement, Owner shall contribute the Property to the Partnership (the " Contribution") and, in exchange for the Property, the Partnership has agreed to issue to Owner units of limited partnership interest in the Partnership (" OP Units "), some which will have modified redemption and related rights as described in this Amendment; and 
+WHEREAS, pursuant to Section 4.03(a) and 7.03(c) of the Partnership Agreement, the General Partner has the power, without the consent of the Limited Partners, to cause the Partnership to issue such OP Units to Owner and to amend the Partnership Agreement to reflect such issuance. 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+NOW, THEREFORE, the General Partner desires to effect this Amendment to the Partnership Agreement as provided herein: 
+ 1.            
+On the date of this Amendment, an aggregate of 2,823,790 additional OP Units are hereby issued to Owner and Exhibit A to the Partnership Agreement is hereby amended and restated as  set forth on  Schedule A hereto to reflect such issuance. The OP Units being issued to Owner shall carry with them the rights, preferences, and obligations of other OP Units, except that (i) the redemption rights under Section 8.06 of the Partnership Agreement applicable to the 1,946,483 OP Units designated on  Schedule A  as " SC Redeemable OP Units" shall be modified as specified in paragraph 2 below, and (ii) the redemption rights under Section 8.06 of the Partnership Agreement and the amounts payable upon liquidation of the Partnership as provided in Article XIII of the Partnership Agreement with respect to the 282,379 OP Units designated on  Schedule A  as " SC Limited Participation OP Units " shall be modified as provided in paragraph 3 below. 
+In exchange for the Contribution, the Owner shall be deemed to have contributed to the Partnership Property having an aggregate value of $48,851,565.54, or a per OP Unit value of $ 17.30 (the " Unit Valuation "). 
+ 2.           If on or before January 31, 2016, the General Partner receives one or more Notices of Redemption, in the form attached as Exhibit A to this Amendment, pursuant to Section 8.06(a) o f the Partnership Agreement relating to OP Units designated on  Schedule A as SC Redeemable OP Units (which notice may be delivered prior to January 1, 2016), the General Partner shall, notwithstanding anything to the contrary contained in Section 8.06 of the Partnership Agreement, cause the Partnership to pay cash for such OP Units at a price per redeemed SC Redeemable OP Unit equal to the Unit Valuation no later than five busine ss days from receipt of such notice, but in no event prior to January 4, 2016. 3.            
+ If the General Partner receives one or more Notices of Redemption, in the form attached as  Exhibit A to this Amendment, pursuant to Section 8.06(a) of the Partnership Agreement relating to OP Units designated on  Schedule A as SC Limited Participation OP Units, the Value of a REIT Share for purposes of determining the Cash Amount payable upon such redemption shall equal the Value as specified in the  Partnership Agreement, except that: 
+(i)	if such Value as so calculated is less than 90% of the Unit Valuation, then the Value of a REIT Share for purposes of determining the Cash Amount payable upon such redemption s hall be adjusted to equal to 90% of such Unit Valuation; or 
+(ii)	if such Value as so calculated is greater than 115% of the Unit Valuation, then the Value of a REIT Share for purposes of determining the Cash Amount payable upon such redempt ion shall be adjusted to equal 115% of such Unit Valuation. 
+Should the Corporation make an election pursuant to Section 8.06(b) of the Partnership Agreement to redeem any OP Units designated on  Schedule A as SC Limited Participation OP Units for REIT Shares, the REIT Shares Amount for purposes of such redemption shall equal the REIT Shares Amount as specified in the Partnership Agr eement, except that 
+(i)	if the Value of a REIT Share used for purposes of such redemption is less than 90% of the Unit Valuation, then the number of REIT Shares to be issued upon redemption of each such SC Limited Participation OP Unit the Corporation has elected to redeem for REIT Shares shall be equal to the quotient determined by dividing (x) 90% of the Unit Valuation by (y)  the Value of a REIT Share; or 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+                   
+ 
+(ii)	if the Value of a REIT Share used for purposes of such redemption is greater than 115% of the Unit Valuation, then the number of REIT Shares to be issued upon redemption of each such SC Limited Participation OP Unit the Corporation has elected to redeem for REIT Shares shall equal the quotient determined by dividing (x) 115% of the Unit Valuation by (y)  the Value of a REIT Share. 
+ In addition, notwithstanding anything to the contrary contained in the Partnership Agreement: 
+(i)	if the amount to be distributed under Article XIII of the Partnership Agreement in respect of each OP Unit designated on  Schedule A as an SC Limited Participation OP Unit is less than 90% of the Unit Valuation, then the value of the amount that will be distributed pursuant to Article XIII in respect of each su ch SC Limited Participation OP Unit shall be adjusted to equal to 90% of the Unit Valuation; or 
+(ii)	if the amount to be distributed under Article XIII of the Partnership Agreement in respect of each OP Unit designated on  Schedule A as an SC Limited Participation OP Unit is greater than 115% of the Unit Valuation, then the value of amount that will be distributed pursuant to Article XIII in respect of each su ch SC Limited Participation OP Unit shall be adjusted to equal to 115% of the Unit Valuation. 
+The foregoing calculations shall be adjusted in the reasonable discretion of the General Partner to take into account events including but not limited to distributions, splits, subdivisions or other combinations of REIT Shares, in order to prevent dilution or enlargement of the rights of a holder of OP Units issued in connection with the Contribution Agreeme nt. 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 4.           Notwithstanding anything to the contrary contained in the Partnership Agreement or this Amendment, in no event may OP Units issued pursuant to the Contribution Agreement be redeemed for REIT Shares if the issuance of such REIT Shares would require the prior approval of shareholders of the REIT under the rules and regulations of the NASDAQ Stock Market or otherwise, and provided that in such event such OP Units shall be redeemed for cash in accordance with Section 3 of this Amendment for SC Limited Participation OP Units and in accorda nce with the Partnership Agreement for all other OP Units. 5.           The General Partner agrees not to unreasonably withhold its consent to, and will not require a legal opinion to be delivered in connection with, a Transfer by a constituent member  of Owner identified on Exhibit D to the Contribution Agreement (each a " Sternco Holder " and collectively, the " Sternco Holders") if such Transfer is made to the immediate family members, the estate or to the legal representatives of such Sternco Holder or to trusts formed for such Sternco Holder's benefit, provided that such transferee is an "accredited investor" as such term is defined in Rule 501 under Regulation D of the Securities Act of 1933, as amended, and certifies as to such status by executing and timely delivering to the Partnership an Accredited Investor Questionnaire in the form attached as Exhibit M to the Contribution Agreement, and provided further that such Transfer is made in connection with bona fide estate planning purposes, or in connection with a Transfer by such Sternco Holder to its estate. 6.            No Amendment.  The provisions Sections 1 through 7 of this Amendment may not be amended without the consent of a majority of the Notice Partners ( as such term is defined in the Tax Protection Agreement ). 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 7.            Effective Date of Transfer.  The Transfer of the OP Units set forth on Schedule A hereto from Owner to Sternco Holders, and any Transfer by a Sternco Holder of such OP Units in compliance with Section 5 hereof and the Partnership Agreement, as amended, shall be effective as of the effective date of such Transfer. 8.            Partnership Agreement .  Except as set forth herein, the Partnership Agreement shall remain in full force and effect. 9.            Governing Law.  This Amendment shall be governed by, and construed in accordance with, the laws of the State of Delaware. 
+   
+ [The remainder of this page has been intentionally left blank] 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+IN WITNESS WHEREOF, this Third Amendment to the Partnership Agreement has been executed as of the date first written above. 
+ GENERAL PARTNER: 
+ Retail Opportunity Investments GP, LLC, 
+ a Delaware limited liability company, 
+   
+ 
+ By: Retail Opportunity Investments Corp.,   a Maryland corporation   its sole member           By:  /s/ Michael B. Haines   Name: Michael B. Haines   Title:   Chief Financial Officer 
+ 
+   
+   
+   
+   
+  [Signature Page to Third Amendment to Partnership Agreement] 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+  Exhibit A 
+ NOTICE OF REDEMPTION 
+ To: 
+ Retail Opportunity Investments GP, LLC 
+ 8905 Towne Centre Drive, Suite 108, 
+ San Diego, California 92122 
+         Via Email: Michael Haines     mhaines@roireit.net 
+   
+   
+   
+ 
+ Reference is made to the Third Amendment dated December 10, 2015 (the " Amendment") to the Second Amended and Restated Agreement of Limited Partnership of Retail Opportunity Investments Partnership, LP, dated as of September 27, 2013 (the " Agreement "), and the Redemption rights referred to therein. 
+The undersigned Limited Partner or Assignee hereby irrevocably tenders for Redemption the following: 
+ _______ OP Units shown on Exhibit A to the Amendment as "SC Redeemable" 
+ _______ OP Units shown on Exhibit A to the Amendment as "SC Limited Participation" 
+ _______ OP Units 
+ The undersigned Limited Partner or Assignee: 
+(a)	undertakes to surrender such OP Units and any certificate therefor at the closing of the Redemption; 
+(b)	directs that the certified check representing the Cash Amount Cash Amount or the REIT Shares Amount, as applicable, deliverable upon the closing of such Redemption be delivered  to the address specified below; 
+ (c)	represents, warrants, certifies and agrees that: 
+ (i)	the undersigned Limited Partner or Assignee is a Qualified Transferee, 
+(ii)	the undersigned Limited Partner or Assignee has, and at the closing of the Redemption will have, good, marketable and unencumbered title to such OP Units, free and clear of th e rights or interests of any other person or entity, 
+(iii)	the undersigned Limited Partner or Assignee has, and at the closing of the Redemption will have, the full right, power and authority to tender and surrender such OP Units as  provided herein, and 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+(iv)	the undersigned Limited Partner or Assignee has obtained the consent or approval of all persons and entities, if any, having the right to consent to or approve such tender and  surrender; and 
+(d)	acknowledges that he will continue to own such OP Units until and unless, as applicable, either (1) such OP Units are acquired by the General Partner pursuant to  Section 8.06(b)  of the Agreement or (2) such redemption transaction closes. 
+   
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ All capitalized terms used herein and not otherwise defined shall have the same meaning ascribed to them respectively in the Agreement. 
+ Dated: _____________________________ 
+   
+ Name of Limited Partner or Assignee: 
+ _____________________________________ 
+ _____________________________________ 
+(Signature of Limited Partner or Assignee) 
+ _____________________________________ 
+(Street Address) 
+ _____________________________________ 
+_____________________________________ 
+_____________________________________ 
+(City)            (State)             (Zip Code) 
+   
+ Issue Wire/REIT Shares to:    _ ___________________________________ _ Wire Instructions:   _____________________________________ 
+ 
+   _____________________________________ 
+ 
+  _____________________________________ 
+ 
+  _____________________________________ 
+ 
+ Name:    _____________________________________ Please insert social security or identifying number:     _____________________________________ 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ STATE OF ____________	) 
+ ) 
+ COUNTY OF ____________________	) 
+   
+   
+On _____________________, 2___, before me, ______________________________, Notary Public, personally appeared ____________________________________________, who proved to me on the basis of satisfactory evidence to be the person(s) whose name(s) is/are subscribed to the within instrument and acknowledged to me that he/she/they executed the same in his/her/their authorized capacity(ies), and that by his/her/their signature(s) on the instrument the person(s), or the entity upon behalf of which the person(s) acted, executed the instrument . 
+   
+   
+I certify under PENALTY OF PERJURY under the laws of the State of ___________________ that the foregoing paragraph is true and correct. 
+   
+   
+ WITNESS my hand and official seal. 
+   
+   
+ Signature ______________________________ 
+   
+ (SEAL) 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ SCHEDULE A 
+ PARTNERS AND PARTNERSHIP UNITS 
+ As of December 10, 2015 
+ Name of Partner Partnership Units (Amount) Type Address General Partner : Retail Opportunity Investments GP, LLC 1,069,392 OP Units 
+ 8905 Towne Centre Drive, Suite 108, 
+ San Diego, California 92122 
+ Attention: Chief Financial Officer 
+Facsimile No.: (858) 408-3810 
+ Limited Partners : Retail Opportunity Investments Corp. 98,067,242 OP Units 
+ 8905 Towne Centre Drive, Suite 108, 
+ San Diego, California 92122 
+ Attention: Chief Financial Officer 
+Facsimile No.: (858) 408-3810 
+ Abby Sher 23,986 OP Units 
+ 15935 Alcima Ave. 
+ Pacific Palisades, CA 90272 
+ Ari Blum 14,290 OP Units 
+ 68 Madrone Avenue 
+ Larkspur, CA 94939 
+ Blum Family Trust 48,010 OP Units 
+ c/o Rawson, Blum  & Co. 
+ 505 Sansome Street, Suite 450 
+ San Francisco, CA 94111 
+ Blum Irrev. Trust, The Joseph 4,602 OP Units 
+ c/o Rawson, Blum  & Co. 
+ 505 Sansome Street, Suite 450 
+ San Francisco, CA 94111 
+ Circe Sher 14,919 OP Units 
+ 681 So. Fitch Mountain Road 
+ Healdsburg, CA 95448 
+ Clahan Revocable Trust 46,840 OP Units 
+ c/o Eugene Clahan 
+ 16 Meadow Avenue 
+ Kentfield, CA 94904 
+ Justin Sher 14,371 OP Units 268 Bush Street, #3133 
+ San Francisco, CA 94104 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ Name of Partner   Partnership Units (Amount) Type Address Lacey Sher 11,850 OP Units 
+ 10500 NE 8th St, Suite 850 
+ Bellevue, WA 98004 
+ Morgan Blum 14,290 OP Units 
+ 3678 23 rd  Street 
+ San Francisco, CA 94110 
+ Nigel Sher 10,889 OP Units 
+ 10500 NE 8th St, Suite 850 
+ Bellevue, WA 98004 
+ Rachel Sher 8,295 OP Units 
+ 10500 NE 8th St, Suite 850 
+ Bellevue, WA 98004 
+ Rawson, Blum  & Co. 732 OP Units 
+ c/o Rawson, Blum  & Co. 
+ 505 Sansome Street, Suite 450 
+ San Francisco, CA 94111 
+ Rawson, Living Trust 79,562 OP Units 
+ c/o David Rawson 
+ 2744 Green Street 
+ San Francisco, CA 94123 
+ Rebecca Wellington 10,889 OP Units 
+ 2729 51 st  Avenue SW 
+ Seattle, WA 98116 
+ SARM Enterprises 566,499 OP Units 
+ 10500 NE 8th St, Suite 850 
+ Bellevue, WA 98004 
+ Sher GP, Inc. 4,196 OP Units 
+ c/o Ronald Sher 
+ 10500 NE 8 th  St., Suite 850 
+ Bellevue, WA 98004 
+ Sher, Merritt  & Pamela Living Trust 128,632 OP Units 
+ c/o Sher Partners 
+ 10500 NE 8 th  St., Suite 850 
+ Bellevue, WA 98004 
+ Sher, Ronald 143,160 OP Units 
+ 10500 NE 8 th  St., Suite 850 
+ Bellevue, WA 98004 
+ TCA Holdings LLC 1,581,813 OP Units 
+ 10500 NE 8 th  St., Suite 850 
+ Bellevue, WA 98004 
+ Terranomics 2,209 OP Units 
+ c/o Sher Partners 
+ 10500 NE 8 th  St., Suite 850 
+ Bellevue, WA 98004 
+ Thomas Bomar 24,236 OP Units 
+ 71 Reed Ranch Road 
+ Tiburon, CA 94920 
+ W &P Stewart Trust dated 9/13/11 2,813 OP Units 
+ 27482 Willowbank Road 
+ Davis, CA 95618 
+ WS Harrison, LLC 989,272 OP Units 
+ 33855 Van Duyn Road 
+ Eugene, Oregon 97408 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ Name of Partner Partnership Units (Amount) Type Address Donald F. Gaube 377,788 OP Units 
+ 287 Cross Road 
+ Alamo, CA 94507 
+ Frank K. Boscow and Sue C. Boscow Revocable Trust U/A dated December 12, 1996 113,657 OP Units 
+ 287 Cross Road 
+ Alamo, CA 94507 
+ 2015 JSG Separate Property Trust dated as of November 24, 2015 20,254 OP Units 
+ 287 Cross Road 
+ Alamo, CA 94507 
+ Thomas Boscow 20,254 OP Units 
+ 3411 Gold Nugget Way 
+ Placerville, CA 95667 
+ LaFrance Family Trust dated January 6, 1993 150,503 OP Units 
+ 500 Fairview Blvd. 
+ Incline Village, NV 89451 
+ Deborah DeDomenico 32,210 OP Units 
+ 13424 Chalk Hill Road 
+ Healdsburg, CA 95448 
+ Dennis T. DeDomenico 32,210 OP Units 
+ 650 Alvarado Road 
+ Berkeley, CA 94705 
+ Claudia DeDomenico 32,210 OP Units 
+ 82 Beach St. 
+ Belvedere, CA 94920 
+ Lois M. DeDomenico QTIP Trust dated April 28, 1988 32,210 OP Units 
+ 2 Requa Place 
+ Piedmont, CA 94611 
+ Donna Holpainen 32,210 OP Units 
+ 4727 W. Roberts Way 
+ Seattle, WA 98199 
+ CDD &D Management, LLC 1,627 OP Units 
+ 650 Alvarado Road 
+ Berkeley, CA 94705 
+ Cesped 1992 Family Trust dated February 26, 1992 65,065 OP Units 
+ 970 Wedge Court 
+ Incline Village, NV 89451 
+ David E. Cesped 16,271 OP Units 
+ 13148 Freemanville Rd 
+ Milton, GA 30004 
+ Vidano 2005 Family Trust 16,271 OP Units 
+ 784 Cordilleras Ave 
+ San Carlos, CA 94070 
+ Holpainen Holdings, LLC 32,533 OP Units 
+ 4727 W. Roberts Way 
+ Seattle, WA 98199 
+ Sean Rhatigan  & Ellen Rhatigan 16,267 OP Units 
+ 1347 Court St. 
+ Alameda, CA 94501 
+ Engstrom Family Trust dated May 21, 2004 32,556 OP Units 
+ 837 Jefferson Blvd. 
+ West Sacramento, CA 95691 
+ Jim and Marsha Engstrom Family Revocable Trust Established May 1,2006 40,685 OP Units 
+ 837 Jefferson Blvd. 
+ West Sacramento, CA 95691 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ Name of Partner Partnership Units (Amount)   Type Address Eric A. Engstrom and Sheila Engstrom 40,685 OP Units 
+ 837 Jefferson Blvd. 
+ West Sacramento, CA 95691 
+ Matthew K. Engstrom and Jennifer Engstrom 8,141 OP Units 
+ 837 Jefferson Blvd. 
+ West Sacramento, CA 95691 
+ Richard A. Bruzzone 118,787 OP Units 
+ 892 Broadmoor Court 
+ Lafayette, CA 94549 
+ ACSW, LLC 705,947 (SC Redeemable) OP Units 
+ 4437 Lake Washington Blvd. NE # 101 
+ Kirkland, WA 98033 
+ Ellen Burt LLC 705,947 (SC Redeemable) OP Units 
+ 3864 W. Mercer Way, 
+ Mercer Island, WA 98040 
+ Jay Sternoff 
+ 70,595 (SC Redeemable) 
+ 94,126 (SC Limited Participation) 
+ 305,911 
+ OP Units 
+ 22440 NE Union Hill Road 
+ Redmond, WA 98053 
+ Nancy Sternoff 
+ 282,379 (SC Redeemable) 
+ 188,253 (SC Limited Participation) 
+ OP Units 
+ 1 Grand Army Plaza #11a 
+ Brooklyn, NY 11238 
+ Richard Sternoff 
+ 181,615 (SC Redeemable) 
+ 289,017 
+ OP Units 
+ 5320 Lansdowne Lane 
+ Mercer Island, WA 98040 
+ TOTALS 106,939,173 OP Units   
+   

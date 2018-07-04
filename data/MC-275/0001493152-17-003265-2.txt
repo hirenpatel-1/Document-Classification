@@ -1,0 +1,153 @@
+ htm 60885 Material contracts 10 2017-03-31T17:01:08.597575-05:00 Filing 0001493152-17-003265 2017-03-31 10-K Annual  & Quarterly Reports 0001106838 Chanticleer Holdings, Inc. HOTR HOTRW WTS Nasdaq Capital Market 8742 No NORTH CAROLINA DELAWARE DELAWARE TULVINE SYSTEMS INC false Small Reporting Company 001-35570 EX-10.28 Exhibit Exhibit 2 ex10-28.htm EX-10.28 2 ex10-28.htm 
+   
+ 
+ EXCHANGE AGREEMENT 
+   
+ This Exchange Agreement (the " Agreement") is entered into as of the 10th of March, 2017, by and among Chanticleer Holdings, Inc., a Delaware corporation with offices located at 7621 Little Avenue, Suite 414, Charlotte,  North Carolina 28226 (the " Company "), and the investor signatory hereto (the " Investor "), with reference to the following facts: 
+   
+A. On or about December 31, 2014, pursuant to that Subscription Agreement, dated as of December 31, 2014, by and among the Company and the Investor (the " December 2014 Subscription Purchase Agreement"), the Company issued a 8% Convertible Note to Purchase Common Stock to the Investor, certain of which are currently held by the Investor in such aggregate amounts as set forth below the signature of the Investor hereto (without regard to any limitations on exercise set forth therein) (collectively, the " Investor Note ", as exercised, the " Investor Note Shares "); 
+   
+B. The Company has duly authorized the issuance to the Investor of new note in the form attached hereto as  Exhibit A  in the principal face amount of $[ ] to be exchanged for the Investor Note (the " Exchanged Note ", as exercised, the " Exchanged Note Shares ", and together with the Exchanged Note, the " Exchanged Securities "); 
+   
+C. Each of the Company and the Investor desire to effectuate such exchanges on the basis and subject to the terms and conditions set forth in this Agreement; 
+   
+D. The exchange of the Investor Note for the Exchanged Note is being made in reliance upon the exemption from registration provided by Section 3(a)(9) of the Securities Act of 1933 , as amended (the " Securities Act "); 
+   
+E. Capitalized terms used but not otherwise defined herein shall have the meanings set forth in the December 2014 Subscription Agreement. 
+   
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants hereinafter contained, the parties hereto agree as follows: 
+   
+ 1.        Exchange of Securities. On the Effective Date (as defined below), pursuant to Section 3(a)(9) of the Securities Act, the Investor hereby agrees to convey, assign and transfer the Investor Note to the Company in exchange for which the Company agrees to issue the Exchanged Note to the Investor as follows (such transactions in this Section 1, the " Exchange "). 
+   
+(a)       In exchange for the Investor Note, on the date hereof the Company shall deliver or cause to be delivered to the Investor (or its designee) the Exchanged Note at the address for delivery set forth on the signature page of the Investor. The Exchanged Note shall be issued without any restrictive legend. 
+   
+(b)       The Investor shall deliver or cause to be delivered to the Company (or its designee) the Investor Note as soon as commercially practicable following the date hereof. Immediately following the delivery of the Exchanged Note to the Investor (or its designee) (such time, the " Effective Date "), the Investor Note shall be cancelled. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+(c)       The Company and the Investor shall execute and/or deliver such other documents and agreements as are customary and reasonably necessary to effectuate the Exchange. 
+   
+ 2.        Representations and Warranties of the Company. The Company represents and warrants to the Investor, as of the date hereof, and as of the time of consummation of the Exchange, that: 
+   
+ (a)        Organization and Qualification. The Company and each Subsidiary are duly incorporated or otherwise organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation or organization (as applicable), with the requisite power and authority to own and use its properties and assets and to carry on its business as currently conducted. Neither the Company nor any Subsidiary is in violation of any of the provisions of its respective certificate or articles of incorporation, bylaws or other organizational or charter documents except, with respect to the Subsidiaries, for violations which would not, individually or in the aggregate, have or reasonably be expected to result in a Material Adverse Effect. The Company and each Subsidiary are duly qualified to conduct its respective businesses and are in good standing as a foreign corporation or other entity in each jurisdiction in which the nature of the business conducted or property owned by it makes such qualification necessary, except where the failure to be so qualified or in good standing, as the case may be, would not, individually or in the aggregate, have or reasonably be expected to result in a Material Adverse Effect. 
+   
+ (b)        Authorization and Binding Obligation. The Company has the requisite power and authority to enter into and perform its obligations under this Agreement and each of the other agreements and certificates entered into by the parties hereto in connection with the transactions contemplated by this Agreement (collectively, the " Exchange Documents") and to issue the Exchanged Securities in accordance with the terms hereof and thereof. The execution and delivery of the Exchange Documents by the Company and the consummation by the Company of the transactions contemplated hereby and thereby, including, without limitation, the issuance of the Exchanged Securities, have been duly authorized by the Board of Directors of the Company and, other than (i) such filings required under applicable securities or "Blue Sky" laws of the states of the United States, (ii) no further filing, consent, or authorization is required by the Company or of its Board of Directors or its shareholders. This Agreement and the other Exchange Documents have been duly executed and delivered by the Company and constitute the legal, valid and binding obligations of the Company enforceable against the Company in accordance with their respective terms, except as such enforceability may be limited by general principles of equity or applicable bankruptcy, insolvency, reorganization, moratorium, liquidation or similar laws relating to, or affecti ng generally, the enforcement of applicable creditors' rights and remedies. 
+   
+ (c)        No Conflict; Required Filings and Consents . 
+   
+ 
+ 
+ 
+   2   
+ 
+ 
+     
+ 
+ 
+   
+(i)       The execution, delivery and performance of the Exchange Documents by the Company and the consummation by the Company of the transactions contemplated hereby and thereby will not (A) result in a violation of the Certificate of Incorporation, the terms of any share capital of the Company or any of its Subsidiaries, the Bylaws or any of the organizational documents of the Company or any of its Subsidiaries or (B) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement, indenture or instrument to which the Company or any of its Subsidiaries is a party, or (C) result in a violation of any law, rule, regulation, order, judgment or decree (including U.S. federal and state securities laws, rules, and regulations, an d the rules and regulations of the NASDAQ Capital Market (the " Principal Market") applicable to the Company or any of its Subsidiaries or by which any property or asset of the Company or any of its Subsidiaries is bound or affected. 
+   
+(ii)       Neither the Company nor any of its Subsidiaries is required to obtain any consent, authorization or order of, or, make any filing or registration with, any court, governmental agency or any regulatory or self-regulatory agency or any other Person in order for it to execute, deliver or perform any of its obligations under or contemplated by the Exchange Documents, in each case in accordance with the terms hereof or thereof. All consents, authorizations, orders, filings and registrations (which the Company is required to obtain pursuant to the preceding sentence) have been obtained or effected, or will have been obtained or effected, on or prior to the date hereof, and the Company and its Subsidiaries are unaware of any facts or circumstances that might prevent the Company from obtaining or effecting any of the registration, application or filings pursuant to the preceding sente nce. 
+   
+ (d)        No Integration. None of the Company, its Subsidiaries, any of their affiliates, or any Person acting on their behalf has, directly or indirectly, made any offers or sales of any security or solicited any offers to buy any security, under circumstances that would require registration of any of Exchanged Securities under the Securities Act or cause this offering of the Exchanged Securities to be integrated with prior offerings by the Company for purposes of the Securities Act or any applicable shareholder approval provisions, including, without limitation, under the rules and regulations of any exchange or automated quotation system on which any of the securities of the Company are listed or designated. None of the Company, its Subsidiaries, their affiliates or any Person acting on their behalf will take any action or steps referred to in the preceding sentence that would require registration of any of Exchanged Securities under the Securities Act or cause the offering of the Exchanged Securities to be integrated with other offerings. 
+   
+ (e)        Securities Law Exemptions. Assuming the accuracy of the representations and warranties of the Investor contained herein, the offer and issuance by the Company of the Exchanged Securities is exempt from registration under the Securities Act and all applicable state securities laws. The offer and issuance of the Exchanged Securities is exempt from registration under the Securities Act  pursuant to the exemption provided by Section 3(a)(9) thereof. 
+   
+ 
+ 
+   3   
+ 
+ 
+     
+ 
+ 
+   
+ (f)        Issuance of Exchanged Securities. The issuance of the Exchanged Securities is duly authorized and upon issuance in accordance with the terms of the Exchange Documents shall be validly issued, fully paid and non-assessable and free from all taxes, liens, charges and other encumbrances with respect to the issue thereof. Upon conversion, the Exchange Note Shares shall be (i) issued in electronic form, (ii) freely tradable and transferable and without restriction on resale, and (iii) timely credited by the Company to the Investor's or its designee's specified Deposit/Withdrawal at Custodian account with DTC under its Fast Automated Securities Transfer Program, or any similar program hereafter adopted by the Depository Trust Company (" DTC ") performing substantially the same function (" DWAC Shares"). The Company shall take all action necessary to ensure that its Common Stock can be transferred electronically as DWAC Shares. 
+   
+ (g)        Disclosure. Other than as set forth in the Press Release (as defined below), the Company confirms that neither it nor any other Person acting on its behalf has provided the Investor or its agents or counsel with any information that constitutes or could reasonably be expected to constitute material, nonpublic information. The Company understands and confirms that the Investor will rely on the foregoing representations in effecting transactions in the Exchanged Securities. All disclosure provided to the Investor regarding the Company and its Subsidiaries, their business and the transactions contemplated hereby, including the schedules to this Agreement, furnished by or on behalf of the Company is true and correct and does not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements made therein, in the light of the circumstances under which they were made, not misleading. No event or circumstance has occurred or information exists with respect to the Company or any of its Subsidiaries or its or their business, properties, prospects, operations or financial conditions, which, under applicable law, rule or regulation, requires public disclosure or announcement by the Company but which h as not been so publicly announced or disclosed. 
+   
+ (h)        Shell Company Status. The Company is not currently, and has never been, an issuer identified in Rule 144(i)(1) under the Securities Act. 
+   
+ (i)        SEC Documents. The Company has filed all reports, schedules, forms, statements and other documents required to be filed by the Company under the Securities Act and the Exchange Act of 1934, as  amended (the " Exchange Act"), including pursuant to Section 13(a) or 15(d) thereof, for the 24 months preceding the date hereof (or such shorter period as the Company was required by law or regulation to file such material) (the foregoing materials, including the exhibits thereto and documents incorporated by reference therein, being collectively referred to herein as the " SEC Documents") on a timely basis or has received a valid extension of such time of filing and has filed any such SEC Documents prior to the expiration of any such extension. As of their respective dates, the SEC Documents complied in all material respects with the requirements of the Securities Act and the Exchange Act, as applicable. None of the SEC Documents, when filed, contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein, in the  light of the circumstances under which they were made, not misleading. 
+   
+ 3.        Representations and Warranties of Investors . The Investor represents and warrants to the Company , as of the date hereof, as follows: 
+   
+ 
+ 
+ 
+   4   
+ 
+ 
+     
+ 
+ 
+ 
+   
+ (a)        Organization and Authority. The Investor has the requisite power and authority to enter into and perform its obligations under this Agreement. The execution and delivery of this Agreement by the Investor and the consummation by Investor of the transactions contemplated hereby has been duly authorized by Investor's board of directors or other governing body. This Agreement has been duly executed and delivered by Investor and constitutes the legal, valid and binding obligation of Investor, enforceable against Investor in accordance with its terms. 
+   
+ (b)        Ownership of Investor Note . The Investor owns the Investor Note free and clear of any liens (other than the obligations pursuant to this Agreement, the Transaction Documents and applicable securities laws) . 
+   
+ (c)        Reliance on Exemptions. The Investor understands that the Exchanged Securities are being offered and exchanged in reliance on specific exemptions from the registration requirements of United States federal and state securities laws and that the Company is relying in part upon the truth and accuracy of, and the Investor's compliance with, the representations, warranties, agreements, acknowledgments and understandings of the Investor set forth herein and in the Exchange Documents in order to determine the availability of such exemptions and the eligibility o f the Investor to acquire the Exchanged Securities. 
+   
+ (d)        Validity; Enforcement. This Agreement and the Exchange Documents to which the Investor is a party have been duly and validly authorized, executed and delivered on behalf of the Investor and shall constitute the legal, valid and binding obligations of the Investor enforceable against the Investor in accordance with their respective terms, except as such enforceability may be limited by general principles of equity or to applicable bankruptcy, insolvency, reorganization, moratorium, liquidation and other similar laws relating to, or affecting generally, the  enforcement of applicable creditors' rights and remedies. 
+   
+ (e)        No Conflicts. The execution, delivery and performance by the Investor of this Agreement and the Exchange Documents to which the Investor is a party, and the consummation by the Investor of the transactions contemplated hereby and thereby will not (i) result in a violation of the organizational documents of the Investor or (ii) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement, indenture or instrument to which the Investor is a party, or (iii) result in a violation of any law, rule, regulation, order, judgment or decree (including federal and state securities laws) applicable to the Investor, except in the case of clauses (ii) and (iii) above, for such conflicts, defaults, rights or violations which would not, individually or in the aggregate, reasonably be expected to have a material adverse effect on the ability of the Investor to perform its obligations hereunder. 
+   
+ 4.        Disclosure of Transaction. The Company shall, on or before 8:30 a.m., New York City Time, on the first business day after the date of this Agreement, issue a press release and/or Current Report on Form 8-K  (collectively, the " Press Release") disclosing all material terms of the transactions contemplated hereby. From and after the issuance of the Press Release, the Investor shall not be in possession of any material, nonpublic information received from the Company or any of its respective officers, directors, employees or agents, that is not disclosed in the Press Release. The Company shall not, and shall cause its officers, directors, employees and agents, not to, provide the Investor with any material, nonpublic information regarding the Company from and after the filing of the Press Release without the express written consent of the Investor. The Company shall not disclose the name of the Investor in any filing, announcement, release or otherw ise, unless such disclosure is required by law or regulation. 
+   
+ 
+ 
+   5   
+ 
+ 
+     
+ 
+ 
+   
+ 5.        No Integration. None of the Company, its Subsidiaries, any of their affiliates, or any Person acting on their behalf shall, directly or indirectly, make any offers or sales of any security (as defined in the Securities Act) or solicit any offers to buy any security or take any other actions, under circumstances that would require registration of any of the Exchanged Securities under the Securities Act or cause this offering of the Exchanged Securities to be integrated with such offering or any prior offerings by the Company for purposes of the Securities Act or any applicable shareholder approval provisions, including, without limitation, under the rules and regulations of the Principal Market and/or any exchange or automate d quotation system on which any of the securities of the Company are listed or designated. 
+   
+ 6.        Listing. The Company shall maintain the Common Stock's authorization for quotation on the Principal Market. Neither the Company nor any of its Subsidiaries shall take any action which would be reasonably expected to result in the delisting or suspension of the Common Stock on the Principal Market. The Company shall pay all fees and expenses in connection with satis fying its obligations under this Section 6. 
+   
+ 7.        Holding Period . For the purposes of Rule 144, the Company acknowledges that the holding period of the Exchanged Note may be tacked onto the holding period of the Investor Note, and the Company agrees not to take a position contrary to this Section 7. The Company agrees to take all actions, including, without limitation, the issuance by its legal counsel of any necessary legal opinions, necessary to issue the Exchanged Note that are freely tradable on the Principal Market without restriction and not containing any restrictive legend without the need  for any action by the Investor. 
+   
+ 8.        Regulatory Filings. The Company shall make all filings and reports relating to the Exchange required under applicable securities or "Blue Sky" laws of the states of the United States following the d ate hereof, if any. 
+   
+ 9.        No Commissions. Neither the Company nor the Investor has paid or given, or will pay or give, to any person, any commission, fee or other remuneration, directly or indirectly, in connection with  the transactions contemplated by this Agreement. 
+   
+ 10.        Termination. Notwithstanding anything contained in this Agreement to the contrary, if the Effective Date has not occurred and the Company does not deliver the Exchanged Note to the Investor in accordance with Section 1 hereof, then, at the election of the Investor delivered in writing to the Company at any time after the fifth (5th) business day immediately following the date of this Agreement, this Agreement shall be terminated and be null and void ab initio and the Investor Note shall not be terminated hereunder and shall remain outstanding as  if this Agreement never existed. 
+   
+ [The remainder of the page is intentionally left blank] 
+   
+ 
+ 
+   6   
+ 
+ 
+     
+ 
+ 
+   
+ IN WITNESS WHEREOF, Investor and the Company have executed this Agreement as of the date set forth on the first page of this Agreement. 
+   
+   INVESTOR:         By:                                                  Name:           Amount of principal of the Investor Note*:         $[  ] in Principal         Amount of principal of the Exchanged Note in the Exchange*:         $[  ] in Principal         Delivery Information:                                 *  Without regard to any limitations on exercise set forth therein 
+   
+   THE COMPANY:   Chanticleer Holdings, Inc.       By:                                               Name:     Title:   
+   
+ 
+ 
+     
+ 
+ 
+     
+ 
+ 
+   
+   
+ 

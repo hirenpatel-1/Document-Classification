@@ -1,0 +1,315 @@
+ htm 71603 Articles of incorporation 3 2017-02-24T14:31:40.532546-06:00 Filing 0001394074-17-000003 2017-02-24 10-K Annual  & Quarterly Reports 0001394074 Spectra Energy Partners, LP SEP UNITS NYSE 4922 Natural Gas Transmission Yes TEXAS DELAWARE DELAWARE false Large Accelerated Filer 001-33556 EXHIBIT 3.2 Exhibit Exhibit 2 sep-20161231exx32.htm EX-3.2 2 sep-20161231exx32.htm EXHIBIT 3.2 
+ 
+ 
+ EXHIBIT 3.2 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THIRD AMENDED  & RESTATED 
+ AGREEMENT OF LIMITED PARTNERSHIP 
+ OF 
+ SPECTRA ENERGY PARTNERS (DE) GP, LP 
+ A Delaware Limited Partnership 
+ 
+ 
+ 
+ Dated as of 
+ January 4, 2017 
+ 
+ 
+ 
+      
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AMENDED AND RESTATED AGREEMENT OF 
+ LIMITED PARTNERSHIP OF 
+ SPECTRA ENERGY PARTNERS (DE) GP, LP 
+ THIS THIRD AMENDED AND RESTATED AGREEMENT OF LIMITED PARTNERSHIP   (this " Agreement"), dated as of January 4, 2017, is entered into and executed by Spectra Energy Partners GP, LLC, a Delaware limited liability company, as General Partner, and Spectra Energy Trans mission, LLC, a Delaware limited liability company, as Limited Partner. 
+WHEREAS, the Partnership was organized as a Delaware limited partnership pursuant to an Agreement of Limited Partnership of the Partnership dated as of March 20, 2007 (the " Original Agreement "); 
+WHEREAS, on July 2, 2007, the Limited Partner conveyed its limited partner interest in the Partnership to Spectra Energy Southeast Pipeline Corporation, a Delaware corporation (" SEPL "), as a capital contribution; 
+WHEREAS, on July 2, 2007, the General Partner and SEPL entered into the First Amended and Restated Agreement of Limited Partnership of the Partnership (the " First Amended Agreement ") to reflect the reorganization of the ownership of the Partnership and certain other matters; 
+WHEREAS, on December 31, 2015, SEPL conveyed fifty percent (50%) of its ninety-nine percent (99%) limited partnership interest in the Partnership to the Limited Partner pursuant to  a plan of complete liquidation of SEPL; 
+WHEREAS, on December 31, 2015, the General Partner, SEPL and the Limited Partner entered into the Second Amended and Restated Agreement of Limited Partnership of the Partnership (t he " Second Amended Agreement ") to reflect the reorganization of the ownership of the Partnership and certain other matters; 
+WHEREAS, on the date hereof, SEPL merged with and into the Limited Partner, with the Limited Partner continuing as the surviving company in the merger; and 
+WHEREAS, the General Partner and the Limited Partner now desire to amend and restate the Second Amended Agreement as provided herein to reflect the reorganization of the ownership  of the Partnership and certain other matters. 
+NOW, THEREFORE, the General Partner and the Limited Partner do hereby amend and restate the Second Amended Agreement in its entirety to provide as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ARTICLE I 
+ 
+ DEFINITIONS 
+ 
+The following definitions shall for all purposes, unless otherwise clearly indicated to the contrary, apply to the terms used in this Agreement. 
+ " Affiliate " has the meaning set forth in the MLP Agreement. 
+ " Certificate of Limited Partnership" means the Certificate of Limited Partnership filed with the Secretary of State of the State of Delaware as described in the first sentence of Section 2.5 as amended or restated f rom time to time. 
+ " Delaware Act" means the Delaware revised Uniform Limited Partnership Act, as amended from time to time, and any successor to such act. 
+ " General Partner " means Spectra Energy Partners GP, LLC, a Delaware limited liability company. 
+ " Limited Partner" means Spectra Energy Transmission, LLC, a Delaware limited liability company, and any other limited partner admitted to the Partnership from time to time. 
+ " Indemnitee" means each of (a) the General Partner, (b) any Person who is or was an Affiliate of the General Partner (other than the MLP and its Subsidiaries), (c) any Person who is or was a member, partner, director, officer, fiduciary or trustee of the General Partner or any Affiliate of the General Partner, (d) any Person who is or was serving at the request of the General Partner or any Affiliate of the General Partner as an officer, director, member, partner, fiduciary or trustee of another Person;   provided  that a Person shall not be an Indemnitee by reason of providing, on a fee-for-services basis, trustee, fiduciary or custodial services, and (e) any Person the General Partner desig nates as an "Indemnitee" for purposes of this Agreement. 
+ " MLP " means Spectra Energy Partners, LP, a Delaware limited partnership. 
+ " MLP Agreement" means the Second Amended and Restated Agreement of Limited Partnership of the MLP, dated as of November 1, 2013, as amended or restated from time to time. 
+ " Partner " means the General Partner or the Limited Partner. 
+ " Partnership " means Spectra Energy Partners (DE) GP, LP, a Delaware limited partnership. 
+ " Percentage Interest" means, with respect to any Partner, the percentage of cash contributed by such Partner to the Partnership as a percentage of all cash contributed by all the Partners to the Partn ership. 
+ " Person " has the meaning set forth in the MLP Agreement. 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ " Subsidiary " has the meaning set forth in the MLP Agreement. 
+ ARTICLE   II 
+ 
+ ORGANIZATIONAL   MATTERS 
+ 
+ 2.1     Formation. The Partnership was previously formed as a limited partnership pursuant to the provisions of the Delaware Act. The General Partner and SEPL amended and restated the Original Agreement on July 2, 2007 by execution of the First Amended Agreement, and the General Partner, SEPL and the Limited Partner amended and restated the First Amended Agreement on December 31, 2015 by execution of the Second Amended Agreement. The General Partner and the Limited Partner hereby enter into this Agreement to set forth the rights and obligations of the Partnership and certain matters related thereto. Except as expressly provided herein to the contrary, the rights and obligations of the Partners and the administration, dissolutio n and termination of the Partnership shall be governed by the Delaware Act. 
+ 
+ 2.2     Name. The name of the Partnership shall be, and the business of the Partnership shall be conducted under the name of, "Spectra Energy Partners (DE) GP, LP." 
+ 
+ 2.3     Principal Office; Registered Office . 
+ 
+(a)    The principal office of the Partnership shall be at 5400 Westheimer Court, Houston, Texas 77056 or such other place as the General Partner may from time to time designate. 
+ 
+(b)    The address of the Partnership's registered office in the State of Delaware shall be the Corporation Trust Center, 1209 Orange Street, Wilmington, Delaware 19801, and the name of the Partnership's registered agent for service of process at such address shall be the Corporation Trust Center. 
+ 
+ 2.4     Term. The Partnership shall continue in existence until an election to dissolve the Partnership by the General Partner. 
+ 
+ 2.5     Organizational Certificate. A Certificate of Limited Partnership of the Partnership has been filed by the General Partner with the Secretary of State of the State of Delaware as required by the Delaware Act. The General Partner shall cause to be filed such other certificates or documents as may be required for the formation, operation and qualification of a limited partnership in the State of Delaware and any state in which the Partnership may elect to do business. The General Partner shall thereafter file any necessary amendments to the Certificate of Limited Partnership and any such other certificates and documents and do all things requisite to the maintenance of the Partnership as a limited partnership (or as a partnership in which the Limited Partner has limited liability) under the laws of Delaware and any state or jurisdiction in which the Partnership may elect to do business. 
+ 
+ 2.6     Partnership Interests. Effective as of the date hereof, the General Partner shall have a 1.00% Percentage Interest and the Limited Partner shall have a 99.00% Percentage Interest. 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ ARTICLE   III 
+ 
+ PURPOSE 
+ 
+The purpose and business of the Partnership shall be to (i) act as the general partner of the MLP (and acquire, hold and dispose of partnership interests and related rights in the MLP in connection with such purpose) and only undertake activities that are ancillary or related thereto and (ii), in connection with acting in such capacity, carry on any lawful b usiness or activity permitted by the Delaware Act. 
+ ARTICLE   IV 
+ 
+ CAPITAL   CONTRIBUTIONS 
+ 
+The Limited Partner contributed to the Partnership $990.00 in cash and the General Partner contributed to the Partnership $10.00 in cash in accordance with the terms of the Original Agreement. The Limited Partner, with the consent of the General Partner, may, but shall not be obligated to, make additional capital contributions to the Partnership. Upon any such additional capital contributions by the Limited Partner, the General Partner shall be obligated to make an additional capital contribution to the Partnership such that the General Partner shall at all times have a capital account equal to 1.00% of the capital accounts of all Partners of the Partnership. 
+ ARTICLE   V 
+ 
+ CAPITAL   ACCOUNT   ALLOCATIONS AND DISTRIBUTIONS 
+ 
+ 5.1     Capital Accounts. The Partnership shall maintain a capital account for each of the Partners in accordance with the regulations issued pursuant to Section 704 of the Internal Revenue Code of 1986,  as amended (the " Code "), and as determined by the General Partner as consistent therewith. 
+ 
+ 5.2     Allocations. For federal income tax purposes, each item of income, gain, loss, deduction and credit of the Partnership shall be allocated among the Partners in accordance with their Percentage Interests, except that the General Partner shall have the authority to make such other allocations as are necessary and appropriate to comply with Section 704 of the Code and the  regulations pursuant thereto. 
+ 
+ 5.3     Distributions. From time to time, but not less often than quarterly, the General Partner shall review the Partnership's accounts to determine whether distributions are appropriate. The General Partner may make such cash distribution as it, in its sole discretion, may determine without being limited to current or accumulated income or gains from any Partnership funds, including, without limitation, Partnership revenues, capital contributions or borrowed funds; provided, however, that no such distribution shall be made if, after giving effect thereto, the liabilities of the Partnership exceed the fair market value of the assets of the Partnership. In its sole discretion, the General Partner may, subject to the foregoing proviso, also distribute to the Partners other Partnership property, or other securities of the Partnership or other entities. All distributions by the General Partner shall be made to  all Partners simultaneously and in accordance with the Percentage Interests of the Partners. 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ ARTICLE   VI 
+ 
+ MANAGEMENT   AND   OPERATIONS   OF   BUSINESS 
+ 
+Except as otherwise expressly provided in this Agreement, all powers to control and manage the business and affairs of the Partnership shall be vested exclusively in the General Pa rtner. The Limited Partner shall not have any power to control or manage the Partnership. 
+ ARTICLE   VII 
+ 
+ RIGHTS   AND   OBLIGATIONS   OF   LIMITED   PARTNERS 
+ 
+ The Limited Partner shall have no liability under this Agreement except as provided in Article IV. 
+ ARTICLE   VIII 
+ 
+ DISSOLUTION   AND   LIQUIDATION 
+ 
+The Partnership shall be dissolved, and its affairs shall be wound up upon the first to occur of (i) an election to dissolve the Partnership by the General Partner or (ii) the entry of a decree of judicial dissolution of the Partnership pursuant to the provisions of the Delaware Act. 
+ ARTICLE   IX 
+ 
+ AMENDMENT   OF   PARTNERSHIP   AGREEMENT 
+ 
+The General Partner may amend any provision of this Agreement without the consent of the Limited Partner and may execute, swear to, acknowledge, deliver, file and record whatever d ocuments may be required in connection therewith. 
+ ARTICLE   X 
+ 
+ INDEMNIFICATION AND LIMITATION OF LIABILITY 
+ 
+ 10.1     Indemnification 
+ 
+(a)    To the fullest extent permitted by law but subject to the limitations expressly provided in this Agreement, all Indemnitees shall be indemnified and held harmless by the Partnership from and against any and all losses, claims, damages, liabilities, joint or several, expenses (including legal fees and expenses), judgments, fines, penalties, interest, settlements or other amounts arising from any and all claims, demands, actions, suits or proceedings, whether civil, criminal, administrative or investigative, in which any Indemnitee may be involved, or is threatened to be involved, as a party or otherwise, by reason of its status as an Indemnitee;   provided, that the Indemnitee shall not be indemnified and held harmless if there has been a final and non-appealable judgment entered by a court of competent jurisdiction determining that, in respect of the matter for which the Indemnitee is seeking indemnification pursuant to this Section 10.1, the Indemnitee acted in bad faith or engaged in fraud, willful miscond uct or, in the case of 
+ 
+ 
+ 5 
+ 
+ 
+ 
+a criminal matter, acted with knowledge that the Indemnitee's conduct was unlawful. Any indemnification pursuant to this Section 10.1 shall be made only out of the assets of the Partnership, it being agreed that the General Partner shall not be personally liable for such indemnification and shall have no obligation to contribute or loan any monies or propert y to the Partnership to enable it to effectuate such indemnification. 
+ 
+(b)    To the fullest extent permitted by law, expenses (including legal fees and expenses) incurred by an Indemnitee who is indemnified pursuant to Section 10.1(a) in defending any claim, demand, action, suit or proceeding shall, from time to time, be advanced by the Partnership prior to a determination that the Indemnitee is not entitled to be indemnified upon receipt by the Partnership of any undertaking by or on behalf of the Indemnitee to repay such amount if it shall be determined that the Indemnitee is not entitled to be indemn ified as authorized in this Section 10.1. 
+ 
+(c)    The indemnification provided by this Section 10.1 shall be in addition to any other rights to which an Indemnitee may be entitled under any agreement as a matter of law or otherwise, both as to actions in the Indemnitee's capacity as an Indemnitee and as to actions in any other capacity (including any capacity under the Purchase Agreement (as defined in the MLP Agreement), and shall continue as to an Indemnitee who has ceased to serve in such capacity and shall inure to the benefit of the heirs, successors, assigns and administ rators of the Indemnitee. 
+ 
+(d)    The Partnership may purchase and maintain (or reimburse the General Partner or its Affiliates for the cost of) insurance, on behalf of the Indemnitees, the General Partner and its Affiliates and such other Persons as the General Partner shall determine, against any liability that may be asserted against, or expense that may be incurred by, such Person in connection with the Partnership's activities or such Person's activities on behalf of the Partnership, regardless of whether the Partnership would have the power to indemnify s uch Person against such liability under the provisions of this Agreement. 
+ 
+(e)    For purposes of this Section 10.1, the Partnership shall be deemed to have requested an Indemnitee to serve as fiduciary of an employee benefit plan whenever the performance by it of its duties to the Partnership also imposes duties on, or otherwise involves services by, it to the plan or participants or beneficiaries of the plan; excise taxes assessed on an Indemnitee with respect to an employee benefit plan pursuant to applicable law shall constitute " fines" within the meaning of Section 10.1(a); and action taken or omitted by it with respect to any employee benefit plan in the performance of its duties for a purpose reasonably believed by it to be in the best interest of the participants and beneficiaries of the plan shall be deemed to be for a purpose that is in the best interests of the Partnership. 
+ 
+(f)    In no event may an Indemnitee subject the Limited Partner to personal liability by reason of the indemnification provisions set forth in this Agreement. 
+ 
+(g)    An Indemnitee shall not be denied indemnification in whole or in part under this Section 10.1 because the Indemnitee had an interest in the transaction with respect to which the indemnification applies if the transaction was otherwise permitted by the terms of this Agreement. 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+(h)    The provisions of this Section 10.1 are for the benefit of the Indemnitees, their heirs, successors, assigns and administrators and shall not be deemed to create any rights  for the benefit of any other Persons. 
+ 
+(i)    No amendment, modification or repeal of this Section 10.1 or any provision hereof shall in any manner terminate, reduce or impair the right of any past, present or future Indemnitee to be indemnified by the Partnership, nor the obligations of the Partnership to indemnify any such Indemnitee under and in accordance with the provisions of this Section 10.1 as in effect immediately prior to such amendment, modification or repeal with respect to claims arising from or relating to matters occurring, in whole or in part, prior to suc h amendment, modification or repeal, regardless of when such claims may arise or be asserted. 
+ 
+(j)    THE PROVISIONS OF THE INDEMNIFICATION PROVIDED IN THIS SECTION 10.1 ARE INTENDED BY THE PARTIES TO APPLY EVEN IF SUCH PROVISIONS HAVE THE EFFECT OF EXCULPATING THE INDEMNITEE FROM LEGAL RESPONSIBILITY FOR THE CONSEQUENCES OF SUCH PERSON'S NEGLIGENCE, FAULT OR OTHER CONDUCT. 
+ 
+ 10.2     Liability of Indemnitees . 
+ 
+(a)    Notwithstanding anything to the contrary set forth in this Agreement, no Indemnitee shall be liable for monetary damages to the Partnership, the MLP, the Limited Partner or any other Persons who have acquired interests in the Partnership, for losses sustained or liabilities incurred as a result of any act or omission of an Indemnitee unless there has been a final and non-appealable judgment entered by a court of competent jurisdiction determining that, in respect of the matter in question, the Indemnitee acted in bad faith or engaged in fraud, willful misconduct or, in the case of a criminal matter, acted with knowledge that the Indemnitee's conduct was criminal. 
+ 
+(b)    Subject to its obligations and duties as General Partner set forth in Article VI, the General Partner may exercise any of the powers granted to it by this Agreement and perform any of the duties imposed upon it hereunder either directly or by or through its agents, and the General Partner shall not be responsible for any misconduct or negligence on th e part of any such agent appointed by the General Partner in good faith. 
+ 
+(c)    To the extent that, at law or in equity, an Indemnitee has duties (including fiduciary duties) and liabilities relating thereto to the Partnership or to the Partners, the General Partner and any other Indemnitee acting in connection with the Partnership's business or affairs shall not be liable to the Partnership or to any Partner for its good faith r eliance on the provisions of this Agreement.     
+ 
+(d)    Any amendment, modification or repeal of this Section 10.2 or any provision hereof shall be prospective only and shall not in any way affect the limitations on the liability of the Indemnitees under this Section 10.2 as in effect immediately prior to such amendment, modification or repeal with respect to claims arising from or relating to matters occurring, in whole or in part, prior to such amendment, modification or repeal, regardless of when such claims may arise or be asserted. 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ ARTICLE   XI 
+ 
+ GENERAL   PROVISIONS 
+ 
+ 11.1     Addresses and Notices. Any notice to the Partnership, the General Partner or the Limited Partner shall be deemed given if received by it in writing at the principal office of the Partnership designated  pursuant to Section 2.3(a). 
+ 
+ 11.2     Binding Effect. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their successors and assigns. 
+ 
+ 11.3     Entire Agreement; Supersedure. This Agreement constitutes the entire agreement of the General Partner and the Limited Partner and their respective Affiliates relating to the subject matter hereof and supersede s all prior contracts or agreements with respect to such subject matter, whether oral or written. 
+ 
+ 11.4     Severability. If any provision of this Agreement is or becomes invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions hereof, o r of such provision in other respects, shall not be affected thereby. 
+ 
+ 11.5     Applicable Law. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED AND ENFORCED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE (EXCLUDING ITS CONFLICT OF LAW RULES). 
+ 
+ 11.6     Counterparts. This Agreement may be executed in any number of counterparts, including facsimile or e-mail counterparts, with the same effect as if all signing parties had signed the same docum ent. All counterparts shall be construed together and constitute the same instrument. 
+ 
+ [ Signature Page Follows ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IN WITNESS WHEREOF, this Agreement has been duly executed by the General Partner and the Limited Partner as of the date first set forth above. 
+ 
+ GENERAL PARTNER : 
+ 
+ SPECTRA ENERGY PARTNERS GP, LLC 
+ 
+ 
+ By:   /s/ Annachiara Jones                                 
+ Name:    Annachiara Jones 
+ 
+ Title: 
+ 
+ Corporate Secretary 
+ 
+                              
+ LIMITED PARTNER: 
+ Spectra Energy TRANSMISSION, LLC 
+      
+ By:   /s/ Guy G. Buckley                                  
+ Name:    Guy G. Buckley 
+ Title:    Vice President 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SIGNATURE PAGE 
+ THIRD AMENDED AND RESTATED AGREEMENT OF LIMITED PARTNERSHIP OF 
+ SPECTRA ENERGY PARTNERS (DE) GP, LP 
+ 

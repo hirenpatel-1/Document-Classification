@@ -1,0 +1,362 @@
+ htm 107482 Material contracts 10 2017-04-14T15:30:52.855406-05:00 Filing 0001397403-17-000009 2017-04-14 10-K Annual  & Quarterly Reports 0001397403 IMH Financial Corp 6500 Real Estate No ARIZONA DELAWARE DELAWARE IMH Secured Loan Fund, LLC false Small Reporting Company 000-52611 EXHIBIT 10.31 Exhibit Exhibit 5 ifcn-20161231xexx1031.htm EX-10.31 5 ifcn-20161231xexx1031.htm EXHIBIT 10.31 
+ 
+ 
+ 
+ Exhibit 10.31 
+ 
+ 
+ 
+ INVESTMENT AGREEMENT 
+ This INVESTMENT AGREEMENT (this " Agreement") is entered into as of the 11th day of April, 2017 by and among JPMorgan Chase Funding Inc., a Delaware corporation (" JPM "), JCP Realty Partners, LLC, a Delaware limited liability company (" JCP "), Juniper NVM, LLC, a Delaware limited liability company (" Juniper " and together with JPM and JCP, " Investors "), and IMH Financial Corporation, a Delaware corporation (the " Company " and, together with Investors, the " Parties "). 
+WHEREAS, concurrently with the execution of this Agreement, the Company, JPM and SRE Monarch, LLC, a Delaware limited liability company (" Seller") are entering into that certain Preferred Stock Purchase Agreement dated as the date hereof (the " Purchase Agreement "), pursuant to which JPM is purchasing from Seller all of the outstanding shares (the " Purchased Shares") of the Company's Series B-2 Cumulative Convertible Preferred Stock, $0.01 par value per share (the " Series B-2 Stock "), on the terms and conditions set forth in the Purchase Agreement; 
+WHEREAS, in connection with the transactions contemplated by the Purchase Agreement, the Certificate of Designation of the Company's Series B Cumulative Preferred Stock (the " Existing Certificate ") will be amended and restated in the form attached as Exhibit A hereto (the " Restated Certificate ") concurrently with the closing of the transactions contemplated by the Purchase Agreement; 
+WHEREAS, pursuant to the Existing Certificate, the approval of JCP and Juniper, in their respective capacity as a holder of shares of the Company's Series B-1 Cumulative Convertibl e Preferred Stock, $0.01 par value per share (the " Series B-1 Stock"), is required for the transactions contemplated by the Purchase Agreement and the amendment and restatement of the Existing Certificate; and 
+WHEREAS, in order to induce JPM, and as a condition to JPM's willingness, to enter into the Purchase Agreement and purchase the Purchased Shares, and in order to induce JCP and Juniper to approve the transactions contemplated by the Purchase Agreement and this Agreement, the Company and Investors are entering into this Agreement in order to set forth their rights and obligations with respect to certain matters related to the Company, the Purchased Shares and Investors' ownership of Series B-1 Stock and Series B-2 Stock, as applicable. 
+NOW, THEREFORE, in consideration of the premises and the mutual agreements hereinafter set forth, the Parties hereby agree as follows: 
+ Article 1 
+ REPRESENTATIONS AND WARRANTIES OF THE COMPANY 
+ The Company represents and warrants to Investors that: 
+ Section 1.1      Representations in the Purchase Agreement. Each of the representations and warranties of the Company set forth in Article 3 of the Purchase Agreement is true and correct. 
+ 
+ 
+ 34358671.7 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ Section 1.2      Authority; Execution; Enforceability. The Company has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement, the performance of its obligations hereunder, and the consummation of the transactions contemplated hereby, including the filing of the Restated Certificate with the Secretary of State of the State of Delaware, by the Company have been duly authorized by all requisite action on the part of the Company and its stockholders and no other action on the part of the Company or its stockholders is necessary to authorize the execution, delivery and performance of this Agreement by the Company or the consummation of the transactions contemplated hereby. Assuming due execution and delivery of this Agreement by Investors, this Agreement constitutes the valid and legally binding obligation of the Company, enforceable against it in accordance with its terms and conditions, subject to (a) bankruptcy, insolvency, reorganization, moratorium and similar laws affecting creditors' rights and remedies generally and (b ) general principles of equity. 
+ Section 1.3      No Conflicts. Neither the execution and delivery of this Agreement nor the consummation of the transactions contemplated by this Agreement will conflict with or constitute on the part of the Company a breach of or default (or an event which, with notice or lapse of time or both, would constitute a default) or give rise to any right of termination, amendment, cancellation or acceleration under (a) its certificate of incorporation, as amended, including the certificates of designation of any preferred stock of the Company; (b) its by-laws, as amended; (c) any loan or credit agreement, note, bond, mortgage, indenture, lease, permit, concession, franchise, license, contract, agreement or other instrument, arrangement, understanding or obligation to which the Company or any of its subsidiaries is a party or by which any of them or any of their properties or assets may be bound; or (d) the Delaware Genera l Corporation Law (the " DGCL"), or any other federal, state or local law, statute, ordinance, rule, regulation or any decree, writ, injunction, judgment or order from any court or governmental or regulatory a uthority of the United States, any State or locality thereof or any foreign jurisdiction (each, a " Governmental Authority") or any arbitration award which is either applicable to, binding upon or enforceable against the Company. Notwithstanding the generality of the foregoing, the Company's grant to Investors of the rights set forth in Article 4 do not, and when and if exercised by Investors in accordance with their terms will not, conflict with or constitute a default or breach under any of the items described in clauses (a), (b), (c) or (d) that are applicable to the Company, including the Restated Certificate (it being understood that the Company is not representing that the exercise of the rights set forth in Article 4 would not result, directly or indirectly, in a Noncompliance Event (as defined in the Restated Certificate)  under the Restated Certificate). 
+ Section 1.4      Consents and Approvals. Other than the filing of a Current Report on Form 8-K with the Securities and Exchange Commission (" SEC"), no notices, reports, registrations or other filings are required to be made by the Company with, nor are any consents, approvals or authorizations required to be obtained by the Company from any Governmental Authority or any other person under any contract, agreement or other obligation to which the Company is party or by which its assets are bound, in connection with the valid execution, delivery or performance of this Agreement and all other agreements and instruments contemplated hereby by the Company or the consummation by the Company of the transactions contemplated by this Agreement and all other agreements and instruments contemplated hereby that has not already been obtained in each 
+ 
+ 
+ 34358671.7     2 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+case except for such notices, reports, registrations and other filings or consents, approvals or authorizations the failure of which to make or obtain, individually or in the aggregate, are not material to the Company's ability to perform its obligations hereunder and would not reasonably be expected to have a material adverse effect on the Company, its assets, properties, liabilities or condition (financial or otherwise). Notwithstanding the generality of the foregoing, the Company's grant to Investors of the rights set forth in Article 4 do not, and, if exercised by Investors in accordance with their terms immediately following the date hereof (assuming such rights were then exercisable) would not, require any such notices, filings or consents with or from any Governmental Authority (other than the filing of a Current Report on Form 8-K with the SEC), the Company's Board of Directors, any stockholder of the Company or any other person, or under the Restated Certificate (it being understood that the Company is not representing that the exercise of the rights set forth in Article 4 would not result, directly or indirectly, in a Noncompliance Event (as defined in the Restated Certificate) under the Restated Certificate). 
+ Section 1.5      Litigation; Compliance with Laws . Except as set forth in   Schedule 1.5 (a)  attached hereto and incorporated herein, there is no action, claim, dispute, arbitration, audit, hearing, inquiry, investigation, administrative enforcement proceeding, litigation or suit (whether civil, criminal, administrative or investigative) commenced, brought, conducted, or heard by or before, or otherwise involving, any Governmental Authority or arbitration tribunal pending or, to the knowledge of the Company, threatened against the Company, and there is no judgment, decree or order against the Company, in each case, that would be reasonably likely to adversely affect the Company's ability to perform its obligations under this Agreement or to have a material adverse effect on the Company, its assets, properties, liabilities or condition (financial or otherwise). The Company is in compliance in all material respects with all laws applicable to the Company's business as presently conducted, except where the failure to be in compliance would not be reasonably likely to adversely affect the Company's ability to perform its obligations under this Agreement or to have a material adverse effect on the Company, its assets, properties, liabilities or condition (financial or otherwise). Except as set forth in   Schedule 1.5(b)  attached hereto and incorporated herein, neither the Company nor any of its subsidiaries has received written notice that it is in default in any material respect with respect to any judgment, order, writ, injunction, decree, rule or regulation of any arbitrator or Governmental Authority. 
+ Section 1.6      Net Operating Losses. As of the end of its 2016 taxable year, the Company had a net operating loss carryover for federal income tax purposes of at least $300,000,000.  The net operating loss carryover of the Company is not subject to any annual use limitation pursuant to Section 382 of the Internal Revenue Code of 1986, as amended (the "Code"), or any use limitation pursuant to  the separate return limitation year provisions of Treasury Regulation Section 1.1502-21(c). 
+ Section 1.7      Real Estate Holdings. At least twenty-five (25) percent of the Company's consolidated gross revenues for the 12 months ended March 31, 2017 were, and at least twenty-five (25) percent of the Company's consolidated total assets as of the date hereof (measured on a fair value basis as determined by the Company's management) are, derived from the Company's and its subsidiaries' direct ownership of real property or ownership of interests in limited liability companies, limited partnerships and other business entities that directly own real property. 
+ 
+ 
+ 34358671.7     3 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ Section 1.8      Investment Company Act. The Company is not an "investment company" as defined in Section 3(a)(1) of the Investment Company Act of 1940, as amended (the " 1940 Act"), and it is not relying on an exclusion from the definition of "investment company" in Section 3(b) or Section 3(c) of the 1940 Act or an exclusion in any rule promulgated under  the 1940 Act. 
+ Section 1.9      Ability to Perform. The Company does not believe, and to the knowledge of the Company it does not have any reason or cause to believe, that it cannot perform each and every covenant of the Company contained in this Agreement, the Purchase Agreement or any of the documents and agreements delivered pursuant hereto or thereto to which it is a party. 
+ Section 1.10      Taxes. The Company has timely filed or caused to be filed all required federal and other material tax returns and has paid all U.S. federal and other material taxes imposed on it and any of its assets by any Governmental Authority except for any such taxes as are being contested in good faith by appropriate proceedings and with respect to which adequate reserves  have been provided in accordance with United States Generally Accepted Accounting Principles (" GAAP"). No tax liens have been filed against any of the Company's assets and no claims are being asserted in writing with respect to any such taxes (except for (i) liens and with respect to taxes not yet due and payable or liens or claims with respect to taxes that are being contested in good faith and for which adequate reserves have been established in accordance with GAAP and (ii) any such liens and claims that in the aggregate are not in excess of $1,000,000). 
+ Section 1.11      Adequate Capital. To the knowledge of the Company, the Company has adequate capital for the normal obligations foreseeable in a business of its size and character and in light of its contemplated business operations. The Company is generally able to pay, and as of the date hereof is paying, its debts as they come due. The Company has not become, or is not presently, financially insolvent within the meaning of the bankruptcy laws or the insolvency laws of any jurisdiction. 
+ Section 1.12      Financial Information. Complete and accurate copies of the Company's audited financial statements consisting of the balance sheet of the Company as at December 31 in each of the years 2016 (in draft form), 2015 and 2014 and the related statements of income and retained earnings, stockholders' equity and cash flow for the years then ended (the " Financial Statements") have been delivered to Buyer. The Financial Statements have been prepared in accordance with GAAP applied on a consistent basis throughout the periods involved. The Financial Statements are based on the books and records of the Company, and fairly present in all material respects the financial condition of the Company as of the respective dates they were prepared and the results of the operations of the Company for the periods indicated. The Company maintains a standard system of accounting established and administered in accordance with GAAP. Other than such adjustments that are proposed by the Company's independent accountants that are both, individually and in the aggregate, immaterial to the Financial Statements, taken as a whole, neither the Company nor any subsidiary has received any advice or notification from its independent accountants that it has used any improper accounting practice that would have the effect of not reflecting or incorrectly reflecting in the books and records of any of the Company's or its subsidiaries' properties, assets, liabiliti es, revenues, expenses, equity accounts or other accounts. 
+ 
+ 
+ 34358671.7     4 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ Section 1.13      No Other Representations or Warranties. Except for the representations and warranties contained in this Article 1 (including the related portions of the Schedules incorporated therein), neither the Company nor any other person or entity has made or makes any other express or implied representation or warranty, either written or oral, on behalf of the Company, including any representation or warranty as to the accuracy or completeness of any information regarding the Purchased Shares or the Company, its assets, properties, liabilities, condition (financial or otherwise) or future prospects, furnished or made available to Investors and its directors, officers, employees, consultants, financial advisors, counsel, accountants and other agents (including, without limitation, any information, documents or material delivered or made available to Investors in expectation of the transactions contemplated hereby) or as to the future revenue, profitability or success of the Company's operations, or any representation or warranty arising from statute or otherwise in law. 
+ Section 1.14      Knowledge of the Company.    As used in this Article 1 or elsewhere in this Agreement, the phrases "to the knowledge of the Company", "the Company's knowledge" or similar language, shall mean the knowledge as of the date of this Agreement of any member of the Company's management team (which shall include any individual who is as of the date hereof a Vice President or a more senior employee of the Company and the Company's associate general counsel), including knowledge any such person would reasonably be expected to obtain in the ordinary course of their po sition and supervision of their direct reports. 
+ Article 2 
+ REPRESENTATIONS AND WARRANTIES OF INVESTORS 
+Each Investor, severally and not jointly, represents and warrants to the Company that (except, however, that neither JCP nor Juniper will be deemed to make the representation and w arranty contained in Section 2.1 or 2.4): 
+ Section 2.1      Representations in the Purchase Agreement. Each of the representations and warranties of JPM set forth in Article 4 of the Purchase Agreement is true and correct. 
+ Section 2.2      Authority; Execution; Enforceability. Such Investor has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement, the performance of its obligations hereunder, and the consummation of the transactions contemplated hereby, by such Investor have been duly authorized by all requisite action on the part of such Investor and no other action on the part of such Investor is necessary to authorize the execution, delivery and performance of this Agreement by such Investor or the consummation of the transactions contemplated hereby. Assuming due execution and delivery of this Agreement by the Company and the other Investors, this Agreement constitutes the valid and legally binding obligation of such Investor, enforceable against it in accordance with its terms and conditions, subject to (a) bankruptcy, insolvency, reorganization, moratorium and similar laws affecting creditors' rights and remedies generally and (b) general principles of equity. 
+ Section 2.3      Consents and Approvals. No notices, reports, registrations or other filings are required to be made by such Investor with, nor are any consents, approvals or authorizations required to be obtained by In vestor from, any Governmental Authority or any other person under 
+ 
+ 
+ 34358671.7     5 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+any contract, agreement or other obligation to which such Investor is party or by which its assets are bound, in connection with the valid execution, delivery or performance of this Agreement and all other agreements and instruments contemplated hereby by such Investor or the consummation by such Investor of the transactions contemplated by this Agreement and all other agreements and instruments contemplated hereby, in each case except for such notices, reports, registrations and other filings the failure of which to make or obtain, individually or in the aggregate, are not material to such Investor's ability to perform its obligations hereunder. 
+ Section 2.4      Independent Investigation. JPM has conducted its own independent investigation, review and analysis of the Company and the Purchased Shares, and acknowledges that it has been provided with such access to the personnel, properties, assets, premises, books and records, and other documents and data of the Company that it has requested for such purpose. JPM acknowledges and agrees that: (a) in making its decision to enter into the Purchase Agreement and this Agreement and to consummate the transactions contemplated hereby, JPM has relied solely upon its own investigation and the express representations and warranties of the Company set forth in Article 1 of this Agreement (including related portions of the Schedules incorporated therein) and in the Purchase Agreement; and (b) neither the Company nor any other person or entity has made any representation or warranty as to the Purchased Shares or the Company, its assets, properties, liabilities, condition (financial or otherwise) or future prospects or this Agreement, except as expressly set forth in the Purchase Agreement or in Article 1 of this Agreement (including the related portions of the Schedules incorporated therein) and JPM expressly disclaims reliance on any representation or warranty of the Company not contai ned in Article 1 of this Agreement or in the Purchase Agreement. 
+ Section 2.5      No Other Representations or Warranties. No Investor (nor any other person or entity on behalf of an Investor) has made or makes to any other Investor, any representation or warranty, express or implied, written or oral, with respect to any matter pertaining to the Company, the Purchased Shares, this Agreement, the Purchase Agreement, the Existing Certificate, the Restated Certificate, or any transactions contemplated by, or any matter pertaining to, any of the foregoing agreements or instruments. 
+ Article 3 
+ COVENANTS OF THE COMPANY 
+ Section 3.1      Compliance and Reporting Obligations of the Company . 
+ (a)     Until such time as it becomes eligible for the Designated Exclusion, the Company covenants and agrees that it shall not be an "investment company" as defined in Section 3(a)(1) of the 1940 Act without relying on an exclusion from the definition of "investment company" in Section 3(b) or Section 3(c) of the 1940 Act or an exclusion in any rule promulgated und er the 1940 Act. 
+ (b)     The Company shall proceed in good faith and take all commercially reasonable actions as are reasonably necessary for the Company to be eligible to rely on the exclusion from the de finition of "investment company" set forth in Section 3(c)(5)(C) of the 1940 Act (the 
+ 
+ 
+ 34358671.7     6 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ " Designated Exclusion") and use its best efforts to remain eligible for the Designated Exclusion at all times thereafter. Promptly (and in any event no more than five (5) days) after the Company has become eligible for the Designated Exclusion, the Company shall deliver a 1940 Act Compliance Statement (defined below) to each Investor evidencing the Company's eligibility for the Designated Exclusion. Without the prior written consent of each Investor, which consent may be withheld for any or no reason, the Company will not take any action the result of which would reasonably be expected to cause the Company to become ineligible for the Designated Exclusion (whether or not the Company is then eligible for any other exclusion from the definition of "investment company" in Section 3(b) or Section 3(c) of the 1940 Act or in any rule promulgated thereunder). 
+ (c)     Within five (5) days after the earlier of (i) the date the Company files with the SEC its quarterly report on Form 10-Q, or annual report on From 10-K, with respect to the fiscal quarter, or year, then ended (beginning with the quarter ending June 30, 2017) and (ii) the last date on which the Company could timely file the report in respect of the applicable fiscal quarter, or year, referenced in clause (i) in accordance with applicable law, the Company shall deliver to each Investor a written statement in the form attached as Exhibit  B attached hereto (a " 1940 Act Compliance Statement") setting forth in reasonable detail the information and calculations contemplated thereby and otherwise reasonably necessary for such Investor to determine whether the Company is then in compliance with the Designated Exclusion, based on fair value accounting and all guidance issued by the Staff of the SEC with respect to calculations under Section 3(c)(5)(C) asset composition requirements under the 1940 Act. If, at any time after the Company relies on the Designated Exclusion, the Company becomes aware of any fact or circumstance, or any action is taken or not taken (including any agreement to act or not act) by or on behalf of the Company or any of its subsidiaries, the result of which would be that the Company is then not in compliance, or would be reasonably likely to be out of compliance, with the Designated Exclusion, the Company will provide prompt (in any event within 2 calendar days) written notice to each Investor describing the circumstances thereof, and including a 1940 Act Compliance Statement illustrating such non-compliance or expected non-compliance. The Company shall provide each Investor with access to records of the Company as are reasonably requested by such Investor in connection with its review of any 1940 Act Compli ance Statement. 
+ Section 3.2      Compliance Breach. Notwithstanding anything to the contrary in this Agreement, each Investor hereby agrees that JPM shall have the sole and exclusive power under this Agreement to determine, in its sole discretion, on behalf of the Investors (i) whether the Company has failed, in whole or in part, to perform or comply with any of the covenants and agreements set forth in Section 3.1, (ii) whether or not any failure by the Company shall be excused modified or waived by the Investors, and (iii) whether or not to pursue any one or more of the remedies contemplated by this Agreement with respect to such failure, including, without limitation, whether the Investors shall have the right to exercise the Put Right as a result of such f ailure. 
+ 
+ 
+ 
+ 34358671.7     7 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ Article 4 
+ INVESTOR PUT RIGHT 
+ Section 4.1      Grant . Subject to Section 4.2, the Company hereby grants to each Investor an irrevocable, perpetual, right to require the Company to purchase (the " Put Right"), and upon exercise of the Put Right in accordance with this Article 4, the Company shall have the unconditional obligation to purchase from such Investor up to all of the shares of Series B-1 Stock or Series B-2 Stock then held by such Investor (or any affiliate of such Investor then holding any such shares) for a price per share equal to the Required Red emption Price (as defined in the Restated Certificate) (the " Put Price "). 
+ Section 4.2      Exercise Mechanics. Subject in all cases to Section 3.2, if (a) the Company breaches any covenant set forth in Article 3 or (b) at any time after becoming eligible for the Designated Exclusion, the Company is not eligible for the Designated Exclusion, and such breach or ineligibility is not cured within sixty (60) calendar days of the occurrence of such breach or ineligibilit y ( provided  that the cure period for failure to deliver a 1940 Act Compliance Statement within the time periods required therefor shall be five (5) calendar days) (the end of such cure period,  the " Put Activation Date"), JPM may in its discretion exercise the Put Right by providing written notice of such exercise to the Company and the other Investors, and if and only if JPM exercises the Put Right, each other Investor may in its discretion exercise the Put Right by providing written notice of such exercise to the Company, in any case, specifying the number of shares of Series B-1 Stock or Series B-2 Stock, as the case may be, for which the Put Right is being exercised, and the aggregate Put Price therefor (an " Exercise Notice"), at any time (i) in the case of JPM, after the Put Activation Date and (ii) in the case of the other Investors, after receipt of JPM's Exercise Notice, unless such breach or ineligibility is cured (and the Company has delivered written notice setting forth in reasonable detail how such breach or ineligibility has been cured and evidence thereof) prior to  the delivery of an Exercise Notice;   provided  that unless such Investor otherwise informs the Company in writing prior to the Put Closing Date, in the event JPM (or any of its affiliates) provides the Company with an Exercise Notice, each Investor (other than JPM) and its affiliates (if any) shall be deemed to have provided the Company with an Exercise Notice with respect to all (or a proportionate portion thereof in the event the Exercise Notices of JPM and its affiliates are for less than all of the Series B Preferred Stock held by them) of the Series B Preferred Stock of such Investor (or affiliate). As between JPM and the other Investors, any determination as to whether any breach or ineligibility by the Company giving rise to the right to exercise the  Put Right has been cured will be made by JPM in its sole discretion. 
+ Section 4.3      Closing of Put Right Purchase. If the Company receives an Exercise Notice from JPM, then the Company shall promptly, but no later than three calendar days after its receipt of such Exercise Notice, notify the other Investors in writing of such Exercise Notice and provide such other Investors with a copy of such Exercise Notice. On the thirtieth (30th) day after receipt of JPM's Exercise  Notice (the " Put Closing Date"), the Company shall purchase from JPM (and its affiliates, as applicable) and from all other Investors who provide (including for the avoidance of doubt, those Investors and their affiliates who are deemed to have provided) an Exercise Notice to the Company prior to the Put Closing Date, the number of shares of Series B-1 Stock or Series 
+ 
+ 
+ 34358671.7     8 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ B-2 Stock, as applicable, set forth in such Exercise Notices (the " Subject Shares"). To the extent that the Company fails to purchase any of the Subject Shares as required by the preceding sentence (such Subject Shares not purchased, the " Remaining Shares"), dividends shall continue to accrue on the Remaining Shares as provided in the Restated Certificate, whether or not declared, until all such Remaining Shares are purchased and all rights of such shares shall remain in full force and effect until purchased by the Company. If the Company does not have sufficient funds available to purchase all of the Subject Shares, the Company shall purchase from all such Investors, on a pro rata basis in proportion to their ownership of the Subject Shares, as many of such shares as it is able out of any available funds, and shall purchase the Remaining Shares from all such Investors, on a pro rata basis in proportion to their ownership of the Remaining Shares, that are not transferred as provided in Section 4.4 with all available funds of the Company thereafter until all of such Remaining Shares have been purchased and the Put Price therefor (and the  interest thereon, if any, as set forth in Section 4.4) has been paid in full. 
+ Section 4.4      Put Closing Default. In addition to the provisions of Section 4.3, if the Company fails to consummate the purchase of all of the Subject Shares set forth in any Exercise Notices delivered in accordan ce with this Article 4 on or prior to the applicable Put Closing Date (a " Put Closing   Default "), any portion of the applicable Put Price not then paid  shall bear interest at a rate of thirteen percent (13%) per annum compounding monthly until the Remaining Shares   that are not transferred as provided in the following sentence  are purchased and the applicable Put Price is paid in full. In addition and notwithstanding anything to the contrary herein, from and after a Put Closing Default, each Investor to whom such Put Closing Default relates may, in its discretion, Transfer (as defined in the Restated Certificate) any Remaining Shares to any third party (to the extent of any Remaining Shares not purchased by the Company prior to such Transfer as required by Section 4.3) without obtaining any consent of the Board or the holders of the Series B Preferred Stock . 
+ Article 5 
+ SURVIVAL; INDEMNIFICATION 
+ 
+ Section 5.1      Survival. All representations and warranties contained in this Agreement shall survive the execution and delivery of this Agreement and the consummation of the transactions contemplated he reby until the date that is one year from the date of this Agreement;   provided, that the representations and warranties in Section 1.10 shall survive until 30 days after the expiration of the applicable statute of limitations, and Sections 1.1, 1.2, 1.3, 1.6, 1.7, 1.12, 1.13 and Sections 2.1, 2.2, 2.3 and 2.4 shall survive indefinitely. All covenants and agreements of the parties contained herein shall survive the execution and delivery of this Agreement and the consummation of the transactions contemplated hereby indefinitely or for the period explicitly specified therein. 
+ Section 5.2      Indemnification by Company . 
+ (a)      The Company (the " Company Indemnifying Party") shall indemnify and hold harmless each Investor, its affiliates and stockholders, directors and officers (collectively, the " Company Indemnified Parties ") from and against any and all liabilities, obligations, deficiencies, 
+ 
+ 
+ 34358671.7     9 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+demands, claims, suits, actions, causes of action, assessments, losses, costs and expenses (including reasonable attorneys' fees) (collectively, " Claims"), sustained or incurred by any such Company Indemnified Party, resulting from (i) any breach of a representation or warranty made by the Company Indemnifying Party in this Agreement, and (ii) any breach of a covenant made by the Company Indemnifying Party in this Agreement. The provisions of this   Section 5.2  are intended to be for the benefit of, and shall be enforceable by, each Company Indemnified Party. In no event shall any Company Indemnifying Party be liable to any Company Indemnified Party for any punitive, incidental, consequential, special or indirect damages, including loss of future revenue or income, loss of business reputation or opportunity relating to the breach or alleged breach of this Agreement, or diminution of value or any damages based on any type of multiple, except to the extent paid by a Company Indemnified Party to a third party in respect of the claim for which such Company Indemnified Party is entitled to indemnification hereunder. For the avoidance of doubt, the Company shall not be in breach of its representations and warranties in Section 1.6 unless and until there is a "determination," as such term is defined in Section 1313(a) of the Code, that results in any such representation or warranty not being true and correct as of the date such representation or warranty was made. 
+ (b)     Without limiting the foregoing, in the event one or more Company Indemnified Parties receive one or more payments from the Company (" Indemnity Proceeds") in respect of any Claim for a breach of a representation or warranty of the Company in Article 1 (including, as a result of Section 1.1, any breach of a representation or warranty of the Company in Article 3 of the Purchase Agreement) or a covenant made by the Company in this Agreement or any other Claim ancillary or related to any such breach (a " Specified Breach "), such Indemnity Proceeds (net of the costs of obtaining such Indemnity Proceeds, including attorneys' fees and expenses, which costs shall be reimbursed from the Indemnity Proceed s to the applicable Investor Indemnified Party(ies) incurring such costs, the " Net Indemnity Proceeds") shall be allocated among, and disbursed to, all of the Investors in respect of such Specified Breach, on a pro rata basis in proportion to the number of the Company's Series B Preferred Stock they own at the time the Company pays the Indemnity Proceeds (which for this purpose shall include any shares of the Company's Common Stock they acquire upon conversion of any of the Series B Preferred Stock). Each Investor agrees to cooperate in the determination of any required allocation of Net Indemnity Proceeds pursuant to this Section 5.2(b), and agrees, if applicable, to pay to the other Investors such portion of the Net Indemnity Proceeds received by such Investor as is required hereunder. For the avoidance of doubt: (i) in the event JPM asserts Claims against the Company that are not with respect to a Specified Breach but that are based upon facts that would support a Claim for a Specified Breach, then for purposes of this Section 5.2(b), all of the recoveries by JPM from the Company in respect of such Claims shall be deemed to have arisen from a Specified Breach and shall be allocated among, and disbursed to, all of the Investors pursuant to and in accordance with this Section 5.2(b), regardless of whether the other Investors have asserted or are able to assert such Claims; and (ii) the provisions of this Section 5.2(b) shall not apply to any Claims asserted against the Company by JPM or any of its affiliates or direct or indirect subsidiaries with respect to any agreement (including, without limitation, any loan made to the Company by JPM or any of its affiliates or direct or indirect subsid iaries) other than this Agreement. 
+ 
+ 
+ 34358671.7     10 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ Section 5.3      Indemnification by Investors . Each Investor (the " Investor Indemnifying Party") shall indemnify and hold harmless, individually and not jointly and severally, the Company, its affiliates and stockholders, directors and officers (collectively, the " Investor Indemnified Parties") from and against any and all Claims sustained or incurred by any such Investor Indemnified Party, resulting from (i) any breach of a representation or warranty made by the Investor Indemnifying Party in this Agreement, and (ii) any breach of a covenant made by the Investor Indemnifying Party in this Agreement. The provisions of this   Section 5.3  are intended to be for the benefit of, and shall be enforceable by, each Investor Indemnified Party. In no event shall any Investor Indemnifying Party be liable to any Investor Indemnified Party for any punitive, incidental, consequential, special or indirect damages, including loss of future revenue or income, loss of business reputation or opportunity relating to the breach or alleged breach of this Agreement, or diminution of value or any damages based on any type of multiple, except to the extent paid by an Investor Indemnified Party to a third party in respect of the claim for which such Investor Indemnified Party is entitled to indemnification hereunder. 
+ Section 5.4      Parity of Investors.  Notwithstanding anything to the contrary in any of this Agreement, the Purchase Agreement or the Restated Certificate, and except to the extent (i) provided in Section 3.2 of this Agreement and (ii) provided in Section 11 of the Restated Certificate and Section 1.1.5 of Schedule I to the Restated Certificate as relates to a Preâ€‘Authorized Transfer to a JPM Permitted Transferee (each as defined in the Restated Certificate), each Party acknowledges that it is the intent and desire of the Parties, and each Party agrees, that, the terms of the Purchase Agreement, the Restated Certificate and this Agreement shall not modify or otherwise alter the parity between the Series B-1 Stock and the Series B-2 Stock that existed pursuant to the terms of the Existing Certificate immediately prior to the date hereof.  In the event of any such modification or alteration of such parity in a manner that is adverse to an Investor, then: (a) the other Parties shall reasonably cooperate with such Investor to attempt to restore or otherwise accomplish such parity; and (b) if, after reasonably cooperating, the Parties are unable to restore or otherwise accomplish such parity, then the Company shall indemnify such Investor for the damages and other losses (including diminution in value) suffered by such Investor from such absence of parity, and such indemnification shall be such Investor's sole remedy with respect to such inability to restore or otherwise accomplish parity unless the Company is unable to restore or otherwise accomplish such parity in full.   Each Investor hereby agrees that the maximum amount it shall, and shall be entitled to, claim and recover as damages and other losses pursuant to this Section 5.4 from another Investor (the " Advantaged Investor") is: (x) one hundred fifty percent (150%) of the sum of (A) the Original Price (as defined in the Restated Certificate) per share of all the Series B Preferred Stock held by such Investor plus (B) the Dividends (as defined in the Restated Certificate) accrued and unpaid thereon, whether or not declared, through the date such Investor brings its claim again st the Advantaged Investor;   minus  (y) any amounts such Investor (or its affiliates) recover from the Advantaged Investor with respect to its (or their) claim pursuant to Section 5.2(b). For the avoidance of doubt, the immediately preceding sentence does not limit any Investor's ability to claim and recover against the Company pursuant to this Section 5.4. 
+ 
+ 
+ 34358671.7     11 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ Article 6 
+ GENERAL PROVISIONS 
+ Section 6.1      Notices .  All notices, requests and other communications to any Party shall be in writing and shall be delivered in person, by electronic mail, mailed by certified or registered mail, return  receipt requested, or sent by facsimile transmission. 
+ If to JPM, to: 
+ JPMorgan Chase Funding Inc. 
+ 270 Park Avenue 
+ New York, New York 10017 
+ Attention: Chad Parson 
+ Email: chad.s.parson@jpmorgan.com 
+ Fax: 212-834-6671 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ With a copy which shall not constitute notice, to: 
+ 
+ Fried, Frank, Harris, Shriver  & Jacobsen LLP 
+ One New York Plaza 
+ New York, New York 10004 
+ Attention: 
+ Email: 
+ Fax: (212) 859-4000 
+ 
+ If to JCP or Juniper, to: 
+ 
+ 11150 Santa Monica Blvd., Suite 1400 
+ Los Angeles, California 90025 
+ Attention: Jay Wolf 
+ Email: jay@junipercptl.com 
+ Fax: (213) 633-2323 
+ With a copy which shall not constitute notice, to: 
+ 
+ Munger, Tolles  & Olson LLP 
+ 350 South Grand Avenue, 50th Floor 
+ Los Angeles, California 90071 
+ Attention: C. David Lee 
+ Email: david.lee@mto.com 
+ Fax: (213) 593-2885 
+ 
+ If to the Company, to: 
+ 
+ 
+ 34358671.7     12 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ IMH Financial Corporation 
+ 7001 N. Scottsdale Rd, Suite 2050 
+ Scottsdale, Arizona 85253 
+ Attention: Lawrence D. Bain, CEO 
+ Email: ldb@imhfc.com 
+ Fax: (480) 840-8401 
+ 
+ And to: 
+ IMH Financial Corporation 
+ 7001 N. Scottsdale Rd, Suite 2050 
+ Scottsdale, Arizona 85253 
+ Attention: Legal Department 
+ Email: legal@imhfc.com 
+ Fax: (480) 840-8401 
+ With a copy which shall not constitute notice, to: 
+ 
+ Ulmer  & Berne LLP 
+ 1660 West 2nd Street, Suite 1100 
+ Cleveland, Ohio 44113-1448 
+ Attention: Howard M. Groedel, Esq. 
+ Email: hgroedel@ulmer.com   
+ Fax: (216) 583-7119 
+ 
+ Section 6.2      Fees and Expenses. Each Party shall pay its own costs and expenses incurred in connection with the preparation, negotiation, execution and delivery of this Agreement and the consummation of the tra nsactions contemplated hereby;   provided,  that the prevailing Party in any litigation, arbitration or other proceeding arising out of this Agreement shall be reimbursed by the non-prevailing Party for all costs and expense s incurred in such proceeding, including reasonable attorneys' fees and expenses. 
+ Section 6.3      Entire Agreement; Amendments .  This Agreement (together with the Restated Certificate, the Purchase Agreement and the Investors' Rights Agreement (as defined in the Purchase Agreement)) is the entire agreement of the Parties and supersedes all prior agreements and understandings with respect to the subject matter hereof. No amendment or modification (or termination or cancellation unless pursuant to the express terms) of this Agreement shall be effective unless made in writing by each Party. 
+ Section 6.4      Severability. Any provision of this Agreement that is invalid, unenforceable or illegal in any jurisdiction shall, as to such jurisdiction, be ineffective only to the extent of such invalidity, unenforceability or illegality without affecting the remaining provisions hereof and without affecting the validity, enforceability or legality of such provision in any other jur isdiction. 
+ Section 6.5        Specific Enforcement; Cumulative Remedies. The Parties acknowledge that money damages may not be an adequate remedy for violations of this Agreement and that any Party, 
+ 
+ 
+ 34358671.7     13 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+in addition to any other rights and remedies which the Parties may have hereunder or at law or in equity, may, in its sole discretion, apply to a court of competent jurisdiction for specific performance or injunction or such other relief as such court may deem just and proper in order to enforce this Agreement or prevent any violation hereof and, to the extent permitted by applicable law, each party waives any objection to the imposition of such relief. All rights, powers and remedies provided under this Agreement or otherwise available in respect hereof at law or in equity shall be cumulative and not alternative, and the exercise or beginning of the exercise of any thereof by any party shall not preclude the s imultaneous or later exercise of any other such rights, powers or remedies by such Party.  In no event shall either Party be liable to the other Party for any punitive, incidental, consequential, special or indirect damages, including loss of future revenue or income, loss of business reputation or opportunity relating to the breach or alleged breach of this Agreement, or diminution of value or any damages based on any type of multiple, except to the extent paid by a Party to a third party in respect of a claim arising from such breach or alleged breach. 
+ Section 6.6      Amendment; Waiver. Any term of this Agreement may be amended and the observance of any term of this Agreement may be waived (either generally or in a particular instance, and either retroactively o r prospectively) only with the written consent of the Parties;   provided, that any provision hereof may be waived by any waiving Party on its own behalf, without the consent of the other Party. 
+ Section 6.7      Succession and Assignment. This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns, and no other person or entity shall have any rights, interests or claims hereunder or be entitled to any benefits under or on account of this Agreement as a third party beneficiary or otherwise except the Company Indemnified Parties and the Investor Indemnified Parties and their respective rights under Article 5. No Party may assign either this Agreement or any of its rights, interests or obligations he reunder without the prior written approval of the other Party;   provided  that each Investor may assign its rights under this Agreement without the consent of the Company to any such Investor's affiliate to which shares of Series B-1 Stock or Series B-2 Stock, as applicable, are transferred pursuant to a transfer permitted under the Restated Certificate. Any purported assignment in violation of this Section shall be void and of no  effect. 
+ Section 6.8      Applicable Law; Jurisdiction; Waiver of Jury Trial. This Agreement shall be governed in all respects, including but not limited to, validity, interpretation and effect, by the laws of the State of New York regardless of the laws that might otherwise govern under applicable principles of conflicts of laws thereof. Any litigation against any party to this Agreement arising out of or in any way relating to this Agreement shall be brought solely in any federal or state court located in the State of New York in New York County and each of the Parties submits to the exclusive jurisdiction of such courts for the purpose of any such litigation. Each party irrevocably and unconditionally agrees not to assert (a) any objection which it may ever have to the laying of venue of any such litigation in any federal or state court located in the State of New York in New York County, (b) any claim that any such litigation brought in any such court has been brought in an inconvenient forum and (c) any claim that such court does not have jurisdiction with respect to such litigation. Each Party irrevocably and unconditionally waives,  to the extent permitted by applicable law, any right to a trial by jury. 
+ 
+ 
+ 34358671.7     14 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ Section 6.9      Interpretation. The section headings contained herein are for reference purposes only and will not in any way affect the interpretation or meaning of this Agreement. 
+ Section 6.10      Counterparts. This Agreement may be executed in one or more original or electronic counterparts, each of which shall be deemed an original, but all of which shall constitute the same instrumen t. 
+ [ Remainder of page left intentionally blank .] 
+ 
+ 
+ 
+ 
+ 34358671.7     15 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ 
+ IN WITNESS WHEREOF, the Parties have set their hands to this Investment Agreement to be effective as of the date first written above. 
+ THE COMPANY: 
+ 
+ 
+ 
+ 
+   
+ 
+ IMH Financial Corporation 
+ 
+ 
+ 
+ By:     /s/ Lawrence D. Bain                 
+ Name: Lawrence D. Bain 
+ Title: Chairman  & CEO 
+ 
+ 
+ JPM: 
+ 
+ JPMorgan Chase Funding Inc. 
+ 
+ 
+ 
+ By:_/s/ Chad Parson____________ 
+ Name: Chad Parson 
+ Title: Managing Director 
+ 
+ 
+ JCP: 
+ 
+ JCP Realty Partners, LLC 
+ 
+ 
+ 
+ By:_/s/ Jay Wolf_______________ 
+ Name: Jay Wolf 
+ Title: Managing Member 
+ 
+ 
+ JUNIPER: 
+ 
+ Juniper NVM, LLC 
+ 
+ 
+ 
+ By:__/s/ Jay Wolf_____________ 
+ Name: Jay Wolf 
+ Title: Managing Member 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34358671.7     16 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ 
+ Exhibit A 
+ 
+ Restated Certificate of Designation 
+ 
+ See attached. 
+ 
+ 
+ 
+ 34358671.7     17 
+ US\WOLFERI\13443347.3 
+ 
+ 
+ 
+ 
+ 
+ Exhibit 10.31 
+ 
+ 
+ 
+ Exhibit B 
+ 
+ 1940 Act Compliance Statement 
+ 
+ See attached. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 34358671.7        
+ US\WOLFERI\13443347.3 
+ 

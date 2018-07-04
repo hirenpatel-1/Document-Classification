@@ -1,0 +1,1026 @@
+ htm 288164 Material contracts 10 2017-03-31T14:30:56.592523-05:00 Filing 0001213900-17-003130 2017-03-31 10-K Annual  & Quarterly Reports 0000086264 Carbon Natural Gas Co CRBO COM OTC 1311 Crude Petroleum  & Natural Gas No COLORADO DELAWARE DELAWARE ST LAWRENCE SEAWAY CORP false Small Reporting Company 000-02040 SECURITY AGREEMENT Exhibit Exhibit 6 f10k2016ex10ib_carbonnatural.htm EX-10.1B 6 f10k2016ex10ib_carbonnatural.htm SECURITY AGREEMENT 
+ 
+ Exhibit 10.1B 
+   
+ SECURITY AGREEMENT 
+   
+THIS SECURITY AGREEMENT (this agreement, together with all amendments and restatements and Joinders, this " Agreement "), dated as of October 3, 2016, is made by CARBON NATURAL GAS COMPANY, a Delaware corporation (" Borrower"), NYTIS EXPLORATION COMPANY LLC, a Delaware limited liability company, NYTIS EXPLORATION (USA) INC., a Delaware corporation, each of the other signatories party hereto and each o ther Person who becomes a party hereto pursuant to  Section 6.15  (together with Borrower and including any permitted successors and assigns, collectively, the " Debtors " and each a " Debtor"), in favor of LEGACYTEXAS BANK, as administrative agent for the benefit of each of the Secured Parties (in such capacity, " Administrative Agent "). 
+   
+ BACKGROUND . 
+   
+ Borrower, the lenders from time to time party thereto (the " Lenders"), and LegacyTexas Bank, as Administrative Agent and L/C Issuer, have entered into the Credit Agreement dated as of the date hereof (such agreement, together with all amendments a nd restatements, the " Credit Agreement "). 
+   
+Borrower and each other Debtor are members of the same affiliated group of companies and are engaged in operations which require financing on a basis in which credit can be made available from time to time to Borrower and the other Debtors, and Debtors will derive direct and indirect economic benefit from the Loans, Letters of Credit and other financial accommodations under the Credit Agreement and other Loan Documents and financial accommodations under Bank Product Agreements. 
+   
+It is the intention of the parties hereto that this Agreement create a first priority security interest in the Collateral in favor of Administrative Agent for the benefit of the Se cured Parties securing the payment and performance of the Obligations. 
+   
+ AGREEMENT . 
+   
+NOW, THEREFORE, in consideration of the premises set forth herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and in order to induce Secured Parties to (a) make Loans and issue Letters of Credit under the Credit Agreement and to extend other credit and financial accommodations under the Loan Documents, and (b) make financial accommodations under Bank Product Agreements, each Debtor hereby agrees with Administrative Agent, for the benefit of Secured Parties, as follows: 
+   
+ ARTICLE I 
+DEFINITIONS 
+   
+ 1.01.        Definitions . For purposes of this Agreement: 
+   
+ " Accession" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to an accession (as defined in the UCC), and (whether or not included in that definition), a good that is physically united with another good in such a manner that the identity of the original good is not lost. 
+   
+ " Account" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to an account (as defined in the UCC), and (whether or not included in such definition), a right to payment of a monetary obligation, whether or not earned by performance for property that has been or is to be sold, leased, licensed, assigned, or otherwise disposed of, and for service rendered or to be rendered, and all right, title, and interest in any returned property, together with all rights, titles, securities, and guarantees with respect thereto, including any rights to stoppage in transit, replevin, reclamation, and resales, and all related Liens whether voluntary or  involuntary. 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ " Account Debtor" means any Person who is or who may become obligated to each Debtor under, with respect to or on account of an Account. 
+   
+ " Acquisition Rights" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to each warrant, option, instrument, subscription right, redemption right and other right (including any instrument or right convertible into an Equity Interest) to acquire or sell any Equity Interest in any Person. 
+   
+ " As-Extracted Collateral" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to as-extracted collateral (as defined in the UCC), and (whether or not included in that definition), (a) oil, gas, or other minerals that are subject to a security interest that (i) is created by such Debtor before extraction, and (ii) attaches to the minerals as extracted, or (b) Accounts arising out of the sale at the wellhead or minehead of oil, gas, or other minerals in which such Debtor had a n interest before extraction. 
+   
+ " Chattel Paper" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to chattel paper (as defined in the UCC), and (whether or not included in such definition), a Record or Records that evidence both a monetary obligation and a security interest in specific Goods, a security interest in specific Goods and Software used in the Goods, or a lease of specific Goods. "Chattel Paper" includes Electronic Chattel Paper and Tangible Chattel Paper. 
+   
+ " Collateral " has the meaning specified in  Section 2.01 . 
+   
+ " Collateral Records" means books, records, ledger cards, files, correspondence, customer lists, blueprints, technical specifications, manuals, computer software, computer printouts, tapes, disks and related data processing software and similar items that at any time evidence or contain information relating to any of the Collateral or are otherwise necessary or helpful in the c ollection thereof or realization thereupon. 
+   
+ " Commercial Tort Claim" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a commercial tort claim (as defined in the UCC), and (whether or not included in such definition), all claims arising in tort with respect to which the claimant (a) is an organization, or (b) an individual and the claim (i) arose in the course of the claimant's business or profession, and (ii) does not include damages arising out of personal injury to or the death of an individual. 
+   
+ " Commodity Account" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a commodity account (as defined in the UCC), and (whether or not included in such definition), an account maintained by a Commodity Intermediary in which a Commodity Contract is carried for such Debtor. 
+   
+ " Commodity Contract" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a commodity futures contract, an option on a commodity futures contract, a commodity option, or any other contract if the contract or option is (a) traded on or subject to the rules of a board of trade that has been designated as a contract market for such a contract pursuant to the federal commodities Laws, or (b) traded on a foreign commodity board of trade, exchange, or market, and is carried  on the books of a Commodity Intermediary for such Debtor. 
+   
+ 
+ 
+ Security agreement-Page   2   
+ 
+   
+ 
+   
+ " Commodity Intermediary" means (a) a Person that is registered as a futures commission merchant under the federal commodities Laws or (b) a Person that in the ordinary course of its business provides clearance or settlement services for a board of trade that has been designated as a contract market pursuant to federal commodities Laws. 
+   
+ " Copyright License" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to any written agreement, now or hereafter in effect, granting any right to any third party under any Copyright now or hereafter owned by such Debtor or which such Debtor otherwise has the right to license, or granting any right to such Debtor under any Copyright now or hereafter owned by any third party, and all rights of such Debtor under any such agreement. 
+   
+ " Copyrights" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to (a) all copyright rights in any work subject to the copyright Laws of any Governmental Authority, whether as author, assignee, transferee, or otherwise, (b) all registrations and applications for registration of any such copyright in any Governmental Authority, including registrations, recordings, supplemental registrations, and pending applications for registration in any jurisdiction, and (c)  all rights to use and/or sell any of the foregoing. 
+   
+ " Deposit Account" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a deposit account (as defined in the UCC), and (whether or not included in such definition), a demand, time, savings, passbook, or similar account maintained at a bank (as defined in the UCC). 
+   
+ " Document" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a document (as defined in the UCC), and (whether or not included in such definition), a document of title, bill of lading, dock warrant, dock receipt, warehouse receipt, or order for the delivery of Goods. 
+   
+ " Electronic Chattel Paper" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to electronic chattel paper (as defined in the UCC), and (whether or not included in such definition), chattel paper evidenced by a Record or Records consisting of information stored in electronic medium. 
+   
+ " Entitlement Holder" means a Person identified in the records of a Securities Intermediary as the Person having a Security Entitlement against the Securities Intermediary. If a Person acquires a Security Entitlement by virtue of Â§ 8.501(b)(2) or (3) of the UCC, such Person is the Entitlement Holder. 
+   
+ " Equipment" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to equipment (as defined in the UCC), and (whether or not included in such definition), all Goods other than Inventory or consumer goods, and all improvements, accessions, or appurtenances thereto. 
+   
+ " Equity Interests" means, with respect to any Person, all of the shares of capital stock of (or other ownership or profit interests, other than a net profits based bonus program solely for the benefit of employees, in) such Person, all of the warrants, options or other rights for the purchase or acquisition from such Person of shares of capital stock of (or other ownership or profit interests in) such Person, all of the securities convertible into or exchangeable for shares of capital stock of (or other ownership or profit interests in) such Person or warrants, rights or options for the purchase or acquisition from such Person of such shares (or such other interests), and all of the other ownership or profit interests in such Person (including partnership, member or trust interests therein), whether voting or nonvoting, and whether or not such shares, warrants, options, rights or other interests are outs tanding on any date of determination. 
+   
+ 
+ 
+ Security agreement-Page   3   
+ 
+   
+ 
+   
+ " Event of Default " has the meaning provided in  Section 5.03 . 
+   
+ " Farm Products" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to all farm products (as defined in the UCC), and (whether or not included in such definition), Goods (other than standing timber) with respect to which a Person is engaged in raising, cultivating, propagating, fattening, grazing, or any other farming, livestock, or aquiculture operation, and which are (a) crops grown, growing, or to be grown including (i) crops produced on trees, vines, and bushes, and (ii) aquatic goods produced in aquacultural operations; (b) livestock born or unborn, including aquatic goods produced in aquacultural operations; (c) supplies used or produc ed in a farming operation; or (d) products of crops or livestock in their unmanufactured states. 
+   
+ " Financial Asset" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a financial asset (as defined in the UCC), and (whether or not included in such definition), (a) a Security, (b) an obligation of a Person or a share, participation or other interest in a Person or in property or an enterprise of a Person, that is, or is of a type, dealt in or traded on financial markets or that is recognized in any area in which it is issued or dealt in as a medium for investment, or (c) any property that is held by a Securities Intermediary for another Person in a Securities Account if the Securities Intermediary has expressly agreed with the other Person that the property is to be treated as a financial asset under Chapter 8 of the UCC. As the context requires, "Financial Asset" means either the interest itself or the means by which a Person's claim to it is evidenced, including a certificated or uncertificated Security, a certificate representing a Security, or a Security Entitlement. 
+   
+ " Fixtures" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to fixtures (as defined in the UCC), and (whether or not included in such definition), all Goods that have become so related to particular real property that an interest in them arises under the real property Law of the s tate in which the real property is situated. 
+   
+ " Foreign Subsidiary" means any Subsidiary of any Person that is organized under the Laws of a jurisdiction other than the United States or a political subdivision of the United States. 
+   
+ " General Intangible" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a general intangible (as defined in the UCC), and (whether or not included in such definition), all personal property, including things in action, other than Accounts, Chattel Paper, Commercial Tort Claims, Deposit Accounts, Documents, Goods, Instruments, Investment Property, Letter-of-Credit Rights, Letters of Credit, money, and oil, gas or other minerals before extraction. 
+   
+ " Goods" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to goods (as defined in the UCC), and (whether or not included in such definition), all things that are movable when a security interest attaches. 
+   
+ " Instrument" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to an instrument (as defined in the UCC), and (whether or not included in such definition), a negotiable instrument or any other writing that evidences a right to the payment of a monetary obligation, is not itself a security agreement or lease, and is of a type that in ordinary course of business is transferred by delivery with any necessary endorsement or assignment. 
+   
+ 
+ 
+ Security agreement-Page   4   
+ 
+   
+ 
+   
+ " Insurance" means all insurance policies for which each Debtor is the owner, an insured, an additional insured, a beneficiary or loss payee, including any policy covering any or all of the Collateral (regardless of whether Administrative Agent is the loss payee or an additional insured thereof). 
+   
+ " Intellectual Property" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to all intellectual and similar property of every kind and nature, including inventions, designs, Patents, Copyrights, Licenses, Trademarks, Trade Secrets, confidential or proprietary technical and business information, know-how, show-how or other data or information, Software and databases and all embodiments or fixations thereof and related documentation, registrations and franchises, and all additions, improvements and accessions to, and books and records describing or used in connection with, any of the foregoing. 
+   
+ " Inventory" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to inventory (as defined in the UCC), and (whether or not included in such definition), Goods that (a) are leased by a Person as lessor, (b) are held by a Person for sale or lease or to be furnished under a contract of service, (c) are furnished by a Person under a contract of service, or (d) consist of raw materials, work in process, or materials used or consumed in a business, including packaging materials, scrap material, manufacturing supplies and spare parts, and all such Goods that have been returned to or repossessed by or on behalf of such Person. 
+   
+ " Investment Property" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to investment property (as defined in the UCC), and (whether or not included in such definition), a Security (whether certificated or uncertificated), a Commodity Contract, a Commodity Account, a Security Entitlement and  Securities Account. 
+   
+ " Joinder " means a Security Agreement Joinder in substantially the form of  Exhibit A . 
+   
+ " Letter of Credit" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a letter of credit (as defined in the  UCC). 
+   
+ " Letter-of-Credit Right" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a letter-of-credit right (as defined in the UCC), and (whether or not included in such definition), (a) a right to payment or performance under a letter of credit, whether or not the beneficiary has demanded or is at the time entitled to demand payment or performance, and (b) the right of a beneficiary to demand payment or performance under a letter of credit. 
+   
+ " License" means any Patent License, Trademark License, Copyright License, or other similar license or sublicense. 
+   
+ " Money " means "money" as defined in the UCC. 
+   
+ " Patent License" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to any written agreement, now or hereafter in effect, granting to any third party any right to make, use or sell any invention on which a Patent, now or hereafter owned by such Debtor or which such Debtor otherwise has the right to license, is in existence, or granting to such Debtor any right to make, use or sell any invention on which a Patent, now or hereafter owned by any third party, is in exi stence, and all rights of such Debtor under any such agreement. 
+   
+ 
+ 
+ Security agreement-Page   5   
+ 
+   
+ 
+   
+ " Patents" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to (a) all letters patent of any Governmental Authority, all registrations and recordings thereof, and all applications for letters patent of any Governmental Authority, and (b) all reissues, continuations, divisions, continuations-in-part, renewals, or extensions thereof, and the inventions disclosed or claimed therein, including the right to make, use and/or sell the inventions disclosed or claim ed therein. 
+   
+ " Payment Intangible" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a payment intangible (as defined in the UCC), and (whether or not included in such definition), a General Intangible under which the Account Debtor's principal obligation is a monetary obligation. 
+   
+ " Permit" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to any authorization, consent, approval, permit, license or exemption of, registration or filing with, or report or notice to, any Governmental Authority. 
+   
+ " Pledged Debt" means all indebtedness owed to each Debtor, the instruments evidencing such indebtedness, and all interest, cash, instruments and other property or proceeds from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such indebtedness. 
+   
+ " Pledged Equity Interests" means all Acquisition Rights, Pledged Stock, Pledged LLC Interests, Pledged Partnership Interests and Pledged Trust Interests;  provided ,  however, notwithstanding anything herein to the contrary, the amount of pledged Equity Interests of any Foreign Subsidiary shall be limited to 65% of the issued and outstanding Equity Int erests of such Foreign Subsidiary. 
+   
+ " Pledged LLC Interests" means, with respect to each Debtor, all interests of such Debtor in any limited liability company and the certificates, if any, representing such limited liability company interests and any limited liability company interest of such Debtor on the books and records of such limited liability company or on the books and records of any securities intermediary pertaining to each such limited liability company interest, and all dividends, distributions, cash, warrants, rights, options, instruments, securities and other property or proceeds from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such limited liability company interests;  provided ,  however, notwithstanding anything herein to the contrary, the amount of pledged limited liability company interests of any Foreign Subsidiary shall be limited to 65% of the issued and out standing limited liability company interests of such Foreign Subsidiary. 
+   
+ " Pledged Partnership Interests" means, with respect to each Debtor, all interests of such Debtor in any general partnership, limited partnership, limited liability partnership or other partnership and the certificates, if any, representing such partnership interests and any partnership interest of such Debtor on the books and records of each such partnership or on the books and records of any securities intermediary pertaining to such partnership interests and all dividends, distributions, cash, warrants, rights, options, instruments, securities and other property or proceeds from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such partnership interests;  provided ,  however, notwithstanding anything herein to the contrary, the amount of pledged general partnership, limited partnership, limited liability partnership or other partnership interests of any Foreign Subsidiary shall be limited to 65% of the issued and outstanding general partnership, limited partnership, limited liability partnership or other partnership interests o f such Foreign Subsidiary. 
+   
+ " Pledged Stock" means, with respect to each Debtor, all shares of capital stock of such Debtor in any corporation and the certificates, if any, representing such shares and any equity interest of such Debtor on the books of the issuer of such shares or on the books of any securities intermediary pertaining to such shares, and all dividends, distributions, cash, warrants, rights, options, instruments, securities and other property or proceeds from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all  of such shares;  provided ,  however, notwithstanding anything herein to the contrary, the amount of pledged capital stock of any Foreign Subsidiary shall be limited to 65% of the issued and outstanding capital stock  of such Foreign Subsidiary. 
+   
+ 
+ 
+ Security agreement-Page   6   
+ 
+   
+ 
+   
+ " Pledged Trust Interests" means, with respect to each Debtor, all interests of such Debtor in a business trust or other trust and the certificates, if any, representing such trust interests and any interest of such Debtor on the books and records of such trust or on the books and records of any securities intermediary pertaining to such interest and all dividends, distributions, cash, warrants, rights, options, instruments, securities and other property or proceeds from time to time received, receivable or otherwise distributed in respect of or in exchange f or any or all of such trust interests. 
+   
+ " Proceeds" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to proceeds (as defined in the UCC), and (whether or not included in such definition), (a) whatever is acquired upon the sale, lease, license, exchange, or other disposition of the Collateral, (b) whatever is collected on, or distributed on account of, the Collateral, (c) rights arising out of the Collateral, (d) claims arising out of the loss, nonconformity, or interference with the use of, defects or infringement of rights in, or damage to the Collateral, (e) proceeds of insurance, including insurance payable by reason of the loss or nonconformity of, defects or infringement of rights in, or damage to the Collateral, and (f) any and all other amounts from time to time paid or payable under or in connection with any of the Collateral. 
+   
+ " Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form. 
+   
+ " Release Date" means the last to occur of the dates on which Liens securing the Obligations may be released pursuant to Section 11.9(a)(i) of the Credit Agreement. 
+   
+ " Schedule Effective Date" means, with respect to any Schedule to this Agreement, the effective date of such Schedule or any restatement of such Schedule, which effective date shall be stated on such Sched ule or restatement and agreed to by Administrative Agent as provided in  Section 4.16 . 
+   
+ " Secured Parties" means the collective reference to Administrative Agent, each Lender, L/C Issuer, each Bank Product Provider and any other Person the Obligations owing to which are, or are purpor ted to be, secured by the Collateral under the terms hereof. 
+   
+ " Securities Account" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to an account to which a Financial Asset is or may be credited in accordance with an agreement under which the Person maintaining the account undertakes to treat the Person for whom the account is maintained as entitled t o exercise rights that comprise the Financial Asset. 
+   
+ " Securities Act " has the meaning provided in  Section 5.04(d) . 
+   
+ " Securities Intermediary" means (a) a clearing corporation, or (b) a Person, including a bank or broker, that in the ordinary course of its business maintains securities accounts for others and is acting  in that capacity. 
+   
+ " Security" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to any obligations of an issuer or any shares, participations or other interests in an issuer or in property or an enterprise of an issuer which (a) are represented by a certificate representing a security in bearer or registered form, or the transfer of which may be registered upon books maintained for that purpose by or on behalf of the issuer, (b) are one of a class or series or by its terms is divisible into a class or series of shares, participations, interests or obligations, and (c)(i) are, or are of a type, dealt with or traded on securities exchanges or securities markets or (ii) are a medium for investment and by their terms expressly provide that they are a security governed by Chapter 8 of the UCC. 
+   
+ 
+ 
+ Security agreement-Page   7   
+ 
+   
+ 
+   
+ " Security Entitlements" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to the rights and property interests as a nd of an Entitlement Holder with respect to a Financial Asset. 
+   
+ " Software" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to software (as defined in the UCC), and (whether or not included in such definition), a computer program (including both source and object code) and any supporting information provided in connection with a transaction re lating to the program. 
+   
+ " Supporting Obligations" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to a supporting obligation (as defined in the UCC), and whether or not included in such definition, a Letter-of-Credit Right or secondary obligation that supports the payment or performance of an Account, Chattel Paper, a  Document, a General Intangible, an Instrument, or Investment Property. 
+   
+ " Tangible Chattel Paper" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to tangible chattel paper (as defined in the UCC), and (whether or not included in such definition), chattel paper evidenced by a Record or Records consisting of information that is inscribed on a tangible medium. 
+   
+ " Trade Secrets" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to trade secrets, all know-how, inventions, processes, methods, information, data, plans, blueprints, specifications, designs, drawings, engineering reports, test reports, materials standards, processing standards and performance standards, and all Software directly related thereto, and all Licenses or other agreements to which such Debtor is a party with respect to any of the foregoing. 
+   
+ " Trademark License" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to any written agreement, now or hereafter in effect, granting to any third party any right to use any Trademark now or hereafter owned by such Debtor or which such Debtor otherwise has the right to license, or granting to such Debtor any right to use any Trademark now or hereafter owned by any third party, and all rights of such Debtor under any such agreement. 
+   
+ " Trademarks" means all right, title, and interest of each Debtor (in each case whether now or hereafter existing, owned, arising, or acquired) in and to (a) all trademarks, service marks, trade names, corporate names, company names, business names, fictitious business names, trade styles, trade dress, logos, other source or business identifiers, designs and general intangibles of like nature, all registrations and recordings thereof, and all registration and recording applications filed with any Governmental Authority in connection therewith, and all extensions or renewals thereof, (b) all goodwill associated therewith or symbolized thereby, (c) all other assets, rights and interests that uniquely reflect or embody such goodwill, (d) all rights to use and/or sell any of the foregoing, and (e) the portion of the business to which each trademark pertains. 
+   
+ " UCC" means Chapters 1, 8 and 9 of the Uniform Commercial Code as in effect from time to time in the State of Texas or, where applicable as to specific items or types of Collateral, an y other relevant state. 
+   
+ 
+ 
+ Security agreement-Page   8   
+ 
+   
+ 
+   
+ 1.02.        Other Definitional Provisions. Capitalized terms not otherwise defined herein have the meaning specified in the Credit Agreement, and, to the extent of any conflict, terms as defined herein shall control ( provided , that a more expansive or explanatory definition shall not be deemed a conflict). 
+   
+ 1.03.        Construction. Unless otherwise expressly provided in this Agreement or the context requires otherwise, (a) the singular shall include the plural, and  vice versa, (b) words of a gender include the other gender, (c) monetary references are to Dollars, (d) time references are to central time, (e) references to the "Agreement" and to "Articles," "Sections," "Exhibits," and "Schedules" are to this Agreement and to the Articles, Sections, Exhibits, and Schedules of and to this Agreement, together with all amendments and restatements thereto, (f) headings used in this Agreement are for convenience only and shall not be used in connection with the interpretation of any provision hereof, (g) references to any Person include that Person's heirs, personal representatives, successors, trustees, receivers, and permitted assigns, that Person as a debtor-in possession, and any receiver, trustee, liquidator, conservator, custodian, or similar party appointed for such Person or all or substantially all of its assets, (h) references to any Law include every amendment or restatement to it, rule and regulation adopted under it, and successor or replacement for it, (i) references to a particular Loan Document include each amendment or restatement to it made in accordance with the Credit Agreement and such Loan Document, (j) references to a particular Bank Product Agreement include each amendment or restatement to it made in accordance with such Bank Product Agreement, and (k) the inclusion of Proceeds in the definition of "Collateral" shall not be deemed a consent by Administrative Agent or any other Secured Party to any sale or other disposition of any Collateral not otherwise specifically permitted by the terms of the Credit Agreement or this Agreement. This Agreement  is a Loan Document. 
+   
+ ARTICLE II 
+GRANT OF SECURITY INTEREST 
+   
+ 2.01.        Assignment and Grant of Security Interest. As security for the payment and performance, as the case may be, in full of the Obligations, each Debtor hereby assigns, pledges and grants to Administrative Agent, for it and the benefit of Secured Parties, a security interest in the entire right, title, and interest of such Debtor in and to all property of such Debtor, whether now or hereafter existing, owned, arising or acquired, including all of the following property of such Debtor, whether now or hereafter existing, owned, arising or acquired: (a) Accounts, (b) Accessions, (c) As-Extracted Collateral, (d) Chattel Paper, (e) Collateral Records, (f) Commercial Tort Claims, including but not limited to the specific Commercial Tort Claims described on  Schedule 6, (g) Commodity Accounts, (h) Commodity Contracts, (i) Deposit Accounts, (j) Documents, (k) Equipment, (l) Financial Assets, (m) Fixtures, (n) General Intangibles, (o) Goods, (p) Instruments, (q) Insurance, (r) Intellectual Property, (s) Inventory, (t) Investment Property, (u) Letters of Credit, (v) Letter-of-Credit Rights, (w) Licenses, (x) Money, (y) Payment Intangibles, (z) Permits, (aa) Pledged Debt, (bb) Pledged Equity Interests, (cc) Securities, (dd) Securities Accounts, (ee) Security Entitlements, (ff) Software, (gg) Supporting  Obligations, and (hh) Proceeds of the foregoing (collectively, the " Collateral "). 
+   
+ 2.02.        Debtors Remain Liable. Anything herein to the contrary notwithstanding, (a) each Debtor shall remain liable with respect to and under all Collateral, (b) the exercise by Administrative Agent or any other Secured Party of any of the rights hereunder shall not release any Debtor from any of its duties or obligations with respect to or under any Collateral or under this Agreement, and (c) neither Administrative Agent nor any other Secured Party shall have any obligation or liability with respect to or under any Collateral by reason of this Agreement, nor shall Administrative Agent or any other Secured Party be obligated to perform any of the obligations or duties of any Debtor thereunder or to take any action to collect or enforce any  claim for payment assigned or in which a security interest is granted hereunder. 
+   
+ 
+ 
+ Security agreement-Page   9   
+ 
+   
+ 
+   
+ 2.03.        Rights Retained by Debtor. So long as no Event of Default shall have occurred and be continuing and the Borrower has not received notice from the Administrative Agent terminating such rights, the Debtors shall be entitled (a) to receive and retain all revenues and other moneys pledged hereby as Collateral and the proceeds of any Disposition of any of its Properties constituting Collateral provided that such Disposition is permitted under the Credit Agreement, and (b) protect, enforce and exercise its rights under any contracts; provided that the Debtors shall not exercise nor shall any Debtor refrain from exercising any such right if such action or inaction, as applicable, would have a materially adverse effect on the value of the appl icable Collateral. 
+   
+ 2.04.        Delivery of Security and Instrument Collateral. All certificates, if any, or Instruments constituting or evidencing the Collateral shall be delivered to and held by or on behalf of Administrative Agent pursuant hereto and shall be in suitable form for transfer by delivery, or shall be accompanied by undated and duly executed stock powers or instruments of transfer or assignment in blank, all in form and substance reasonably satisfactory to Administrative Agent. If an Event of Default exists, Administrative Agent has the right without notice to any Debtor to transfer to or to register in the name of Administrative Agent or any of its nominees any or all of such Collateral. In addition, Administrative Agent has the right, if Administrative Agent reasonably determines that the exercise of such right is necessary to protect its rights, at any time to exchange certificates or Instruments representing or evidencing Collateral for certific ates or Instruments of smaller or larger denominations. 
+   
+ 2.05.        Agreement With Respect to Collateral. Each Debtor and Administrative Agent agree that to the extent that any of the Collateral may be deemed to be a Fixture as opposed to Equipment, Inventory, or any other form of Collateral that may be perfected by the filing of a UCC financing statement, it is the intention of Debtors, Administrative Agent and Secured Parties that such Collateral be deemed to be Equipment, Inventory, or any other form of Collateral that, to the extent not prohibited by Law, may be perfected by the filing of a UCC financing statement and such Collatera l not be deemed to be a Fixture. 
+   
+ 2.06.        Future Advances. Each Debtor acknowledges that the Loan Documents and each Bank Product Agreement provide for future advances and financial accommodations, and this Agreement secures performance  of such future advances and financial accommodations. 
+   
+ 2.07.        Limited Exclusions. Notwithstanding anything herein to the contrary, in no event shall the security interest granted in  Section 2.01 attach to any lease, license, contract, property rights or agreement to which a Debtor is a party or any of its rights or interests thereunder if and for so long as the grant of such security interest would constitute or result in the abandonment, termination pursuant to the terms of, or a breach or default under, any such lease, license, contract, property rights or agreement (other than to the extent that any such term would be rendered ineffective pursuant to Sections 9.406, 9.407, 9.408 or 9.409 of the UCC of any relevant jurisdi ction or any other applicable Law (including any Debtor Relief Law) or principles of equity);  provided ,  however, that such security interest shall attach immediately at such time as the condition causing such abandonment, invalidation or unenforceability shall be remedied and to the extent severable, shall attach immediately to any portion of such lease, license, contract, property rights or agreement that does not result in any of the consequences specified above. S o long as any property of a Debtor is excluded from the security interest granted in  Section 2.01 pursuant to the immediately preceding sentence, such property shall be excluded from the term "Collateral" for all purposes hereunder. If the grant of a security interest in any lease, license, contract, property right or agreement existing on the date of this Agreement to which a Debtor is a party, or in any of its rights or interests thereunder, would constitute or result in the abandonment, termination pursuant to the terms of, or a breach or default under, any such lease, license, contract, property right or agreement (other than to the extent that any such term is rendered ineffective pursuant to Sections 9.406, 9.407, 9.408 or 9.409 of the UCC of any relevant jurisdiction or any other applicable Law (including any Debtor Relief Law) or principles of equity), such Debtor shall use commercially reasonable efforts to remove such term from such lease, license, contract, property right or agreement at the time of the next amendment to, extension of or restatement of such lease, license, contract, property right or agreement. With respect to each lease, license, contract, property right or agreement entered into by a Debtor after the date of this Agreement, each Debtor shall use commercially reasonable efforts to assure that such Debtor can grant to Administrative Agent a security interest in such lease, license, contract, property right or agreement and that such security interest can be perfected and that such grant and perfection will not result in the abandonment, termination or breach of or default under, any such lease, license, contract, property right or agreement. 
+   
+ 
+ 
+ Security agreement-Page   10   
+ 
+   
+ 
+   
+ 2.08.        Maximum Liability. Anything in this Agreement to the contrary notwithstanding, the obligations of each Debtor (other than Borrower) hereunder shall be limited to a maximum aggregate amount equal to the largest amount that would not render its obligations hereunder subject to avoidance as a fraudulent transfer or conveyance under Section 548 of Title 11 of the United States C ode or any applicable provisions of comparable Law (collectively, the " Fraudulent Transfer Laws"), in each case after giving effect to all other liabilities of such Debtor, contingent or otherwise, that are relevant under the Fraudulent Transfer Laws (specifically excluding, however, any liabilities of such Debtor in respect of intercompany indebtedness to other Obligated Parties or Affiliates of other Obligated Parties to the extent that such indebtedness would be discharged in an amount equal to the amount paid or property conveyed by such Debtor under the Loan Documents) and after giving effect as assets, subject to  Section 6.01, to the value (as determined under the applicable provisions of the Fraudulent Transfer Laws) of any rights to subrogation or contribution of such Debtor pursuant to (a) applicable Law or (b) any agreement providing for an equitable allocation among such Debtor and other Obligated Parties of obligations arising under the Loan Documents and Bank Product Agre ements. 
+   
+ ARTICLE III 
+REPRESENTATIONS AND WARRANTIES 
+   
+ 3.01.        Representations and Warranties - All Debtors. Each Debtor represents and warrants to Administrative Agent and each Secured Party with respect to itself and its Collateral that: 
+   
+(a)       This Agreement and the grant of the security interest in the Collateral pursuant to this Agreement create a valid security interest in the Collateral in favor of Administrative Agent for the benefit of Secured Parties, securing the payment and performance of the Obligations, and upon (i) the filing of UCC-1 financing statements for such Debtor, in the form delivered by such Debtor to Administrative Agent on or prior to the date of this Agreement and in the appropriate filing offices listed on  Schedule 1 ,  Section (h), (ii) the granting of control (as defined in the UCC) to Administrative Agent, (iii) the delivery to and continuing possession by Administrative Agent of all certificates evidencing the Pledged Equity Interests, and (iv) the filing of an appropriate notice with the United States Patent and Trademark office or the United States Copyright Office, as appropriate for the item and type of Collateral in question, shall constitute a valid, first priority, perfected security interest in such Collateral (subject (A) in the case of Collateral other than Pledged Equity Interests, to Permitted Liens, and (B) in the case of Pledged Equity Interests, to Liens arising under the Loan Documents and Liens for taxes not yet due or which are being contested in good faith and by appropriate proceedings diligently conducted, if adequate reserves with respect thereto are maintained on the books of such Debtor in accordance with GAAP) to the extent such security interests can be perfected by taking the actions described in  clauses (i) - (iv), and all filings and other actions necessary to perfect and protect such security interest and such priority have been duly taken (or will be taken upon such Debtor obtaining righ ts in Collateral after the date hereof). 
+   
+(b)       No authorization, approval, or consent of, and no filing or registration with, any Governmental Authority, issuer, manager, member, stockholder, director or any other third party (other than filings required by the UCC or such authorization, approval, or consent that has already been obtained) is or will be necessary (i) for the pledge by such Debt or of the Collateral, including without limitation, the Pledged Equity Interests set forth on  Schedule 7, pledged by it hereunder, for the grant by such Debtor of the security interest granted hereby, or for the execution, delivery, or performance of this Agreement by such Debtor, (ii) for the perfection or maintenance of the pledge, assignment, and security interest created hereby (including the first priority nature of such pledge, assignment, and security interest, subject to Permitted Liens) or (iii) for the enforcement of remedies by Administrative Agent or any other Secured Party. 
+   
+ 
+ 
+ Security agreement-Page   11   
+ 
+   
+ 
+   
+(c)       This Agreement constitutes, and the other Loan Documents to which such Debtor is a party, when delivered, shall constitute, legal, valid and binding obligations of such Debtor, enforceable against such Debtor in accordance with their respective terms, except as limited by Debtor Relief Laws. 
+   
+(d)       Such Debtor has good and indefeasible title to, or valid leasehold interests in, all of the Collateral, and none of the Collateral is subject to any Lien, except for Permitted Liens. Such Debtor has not granted a security interest or other Lien in or made an assignment of any of the Collateral (except for the security interest and Lien granted by this Agreement and Permitted Liens). Such Debtor has neither entered into nor is it or any of its Property subject to any agreement limiting the ability of such Debtor to grant a Lien in any of the Collateral, or the ability of such Debtor to agree to grant or not grant a Lien in any of the Collateral. None of the Collateral is consigned goods, subject to any agreement of repurchase, or subject to any dispute, defense, or counterclaim. No effective financing statement or other similar effective document used to perfect and preserve a security interest or other Lien under the Laws of any jurisdiction covering all or any part of the Collateral is on file in any recording office, except such as may have been filed (i) pursuant to this Agreement or another Loan Document, or (ii) relating to Permitted Liens. Such Debtor has not sold any interest in any of its Accounts, Chattel Paper, promissory notes, Payment Intangibles, or consigned any of its Goods or been a party to any securitization of any of its property. No control agreement in favor of anyone other than Adminis trative Agent exists with respect to any Collateral. 
+   
+(e)       All of the Pledged Equity Interests have been duly and validly issued, and the Pledged Equity Interests (other than any general partner interest, if any), are fully paid and non-assessable. None of the Pledged Equity Interests were issued in violation of the preemptive rights of any Person or any agreement to which such Debtor or the issuer thereof is a party or the Pledged Equity Interest is subject. All capital contributions required to be made by the terms of the Constituent Documents of each issuer of Pledged Equity Interests have been made. All Pledged Equity Interests that are certificated have been delivered and pledged to Administrative Agent duly endorsed and accompanied by such duly executed instruments of transfer or assignment as are necessary for such pledge to be held as pledged collateral. Except with respect to partnership or limited liability company interests of issuers the Constituent Documents of which do not provide that any interest in such issuer is a security governed by Chapter 8 of the UCC, there are no Pledged Equity Interests other than those represented by certificated securities in the possession of Administrative Agent. The Pledged Equity Interests include (i) the percentage set forth on  Schedule 7 of the issued and outstanding Equity Interests of each Person in which such Debtor owns a direct interest and which Person is not a Foreign Subsidiary, and (ii) 65% of the issued and outstanding Equity Interests of each first-tier Foreign Subsidiary, if any, of such Debtor. There are no restrictions (which have not been effectively waived by all necessary Persons) in any Constituent Document governing any Pledged Equity Interest or any other document related thereto which would limit or restrict (A) the grant of a Lien in the Pledged Equity Interests, (B) the perfection of such Lien, (C) the exercise of remedies in respect of such perfected Lien in the Pledged Equity Interests as contemplated by this Agreement or (D) the admission of any transferee of the Pledged Equity Interests as a shareholder, member, partner or equity holder of the issuer of such Pledged Equity Interests. Such Debtor has delivered to Administrative Agent complete and correct copies of all Constituent Documents for each issuer of Pledged Equity Interests. Except as set forth on  Schedule 7, the Constituent Documents of each issuer which is a partnership or limited liability company do not provide that any interest in such issuer is a security governed by Chapter 8 of the UCC, and no Equity Interest of such issuer is evidenced by a certificate or other instrument. Upon the exercise of remedies in respect of Pledged Equity Interests, a transferee or assignee of any Pledged Equity Interests shall become a shareholder, partner or member, as the case may be, of the issuer thereof, entitled to participate in the management thereof and, upon the transfer of the entire interest of such Debtor in such issuer, such Debtor shall cease to be a shareholder, partner or member, as the case may be, of such issu er. 
+   
+ 
+ 
+ Security agreement-Page   12   
+ 
+   
+ 
+   
+ (f)       As of each Schedule Effective Date: 
+   
+ (i)        Schedule 1 ,  Section (a) states the exact name of such Debtor, as such name appears in its currently effective Constituent Documents as filed with the appropriate authority of the jurisdiction of such Deb tor's organization. 
+   
+ (ii)        Schedule 1 ,  Section (b) states the jurisdiction of organization of such Debtor, and such Debtor is not organized in more than one jurisdiction. 
+   
+ (iii)        Schedule 1 ,  Section (c)  sets forth the current type of entity of such Debtor. 
+   
+ (iv)        Schedule 1 ,  Section (d) states each other entity type, jurisdiction of organization and name such Debtor has had in the five-year period preceding such Schedule Effective Date, together with the date of  the relevant change. Except as set forth on  Schedule 1 ,  Section (d), such Debtor has not changed its identity or type of entity, jurisdiction of organization or name in any way within the five-year period preceding such Schedule Effective Date (changes in identity or type of entity include mergers, consolidations, acquisitions (including both equity and asset acquisitions), and any change in the form, nature or jurisdiction  of organization). 
+   
+ (v)        Schedule 1 ,  Section (e) states all other names (including trade, assumed and similar names) used by such Debtor or any of its divisions or other business units at any time during the five-year period pre ceding such Schedule Effective Date. 
+   
+ (vi)        Schedule 1 ,  Section (f)  states the Federal Taxpayer Identification Number of such Debtor. 
+   
+ (vii)        Schedule 1 ,  Section (g) states the corporate or other organizational number of such Debtor issued by such Debtor's jurisdiction of organization (or "N/A" if such jurisdiction does not issue an organizati onal number for such Debtor's entity type). 
+   
+ (g)       As of each Schedule Effective Date,  Schedule 2 is a complete and correct list of such Debtor's chief executive office and each other location where such Debtor maintains any Collateral or any books and records relating to any Collateral or where such Debtor conducts any business, including for each such location, a description of the Collateral maintained at such location, the name of all Persons other than such Debtor who have possession of any of the Collateral or other property of such Debtor at such location, and whether such location is owned or leased by such Debtor. 
+   
+(h)       All Accounts have been originated by such Debtor and all Inventory has been acquired by such Debtor in the ordinary course of business. 
+   
+(i)       Such Debtor has exclusive possession and control of the Equipment and Inventory (other than Inventory leased by such Debtor to third parties in the ordinary course of bus iness) pledged by it hereunder. 
+   
+ 
+ 
+ Security agreement-Page   13   
+ 
+   
+ 
+   
+ (j)       As of each Schedule Effective Date,  Schedule 3 is a complete and correct list of all Pledged Debt, promissory notes and other instruments evidencing indebtedness held by such Debtor, including all intercompany notes and other  instruments between such Debtor and each Subsidiary, and each Subsidiary and each other Subsidiary. 
+   
+ (k)       As of each Schedule Effective Date,  Schedule 4 is a complete and correct list of each Trademark registration, Patent, Patent application or Copyright in which such Debtor has any interest (whether as owner, licensee, or otherw ise), including: 
+   
+(i)       for each Trademark registration or application in which such Debtor has any interest, the name of the registered owner or Person applying to be the registered owner and the nature of such Debtor's interest if not owned by such Debtor, the registered or to be registered Trademark, the Trademark application serial and/or registration number, the date of Trademark registration or application, and the country or state registering the Trademark or with which the Trademark application was filed; 
+   
+(ii)       for each Patent or Patent application in which such Debtor has any interest (whether as owner, licensee, or otherwise), the name of the registered owner or Person applying to be the registered owner and the nature of such Debtor's interest if not owned by such Debtor, the Patent number or application, the date of Patent issuance or application fil ing, and the country issuing the Patent or with which the Patent application was filed; and 
+   
+(iii)       for each Copyright (regardless of whether registered) in which such Debtor has any interest (whether as owner, licensee, or otherwise), if applicable, the name of the registered owner (or owner, if not registered) or the Person applying to be the registered owner and the nature of such Debtor's interest if such Debtor is not the owner, the title of the work which is the subject of the registered or applied for Copyright (or, if not registered or applied for, a description of the work subject to such unregistered Copyright), the date of Copyright issuance or application, the registration or application number (if applicable) and the country issuing the Copyright or with which the Copyright applicatio n was filed. 
+   
+ (l)       As of each Schedule Effective Date,  Schedule 5 is a complete and correct list of each Deposit Account, Securities Account or Commodity Account maintained by or in which such Debtor has any interest, including: (i) for each Deposit Account, the bank in which such account is maintained and ABA number of such bank, the account number, and account type; (ii) for each Securities Account, the complete name and identification number of the account, the jurisdiction the Law of which governs such account, and the name and street address of the Securities Intermediary maintaining such account; and (iii) for each Commodity Account, the complete name and identification number of the account, the jurisdiction the Law of which governs such account, and the name and stre et address of the Commodity Intermediary maintaining such account. 
+   
+ (m)       As of each Schedule Effective Date,  Schedule 6 is a complete and correct list of all Commercial Tort Claims in which such Debtor has any interest, including the complete case name or style, the case number, and the court or ot her Governmental Authority in which the case is pending. 
+   
+ (n)       As of each Schedule Effective Date, (i)  Schedule 7 is a complete and correct list of all Equity Interests in which such Debtor has a direct ownership interest, (ii)  Schedule 7 contains a complete and correct description of each certificate or other instrument included in or evidencing Pledged Equity Interests, (iii)  Schedule 7 is a complete and correct list of the exact name of each issuer of Pledged Equity Interests described on  Schedule 7, its jurisdiction of organization, and the authorized, issued and outstanding Equity Interests of such issuer, and (iv) such Debtor's interest in each such issuer is as stated on  Schedule 7 . 
+   
+ 
+ 
+ Security agreement-Page   14   
+ 
+   
+ 
+   
+ (o)       Such Debtor has no interest in any Farm Products. 
+   
+ 3.02.        Representations and Warranties - Subsidiaries. Each Debtor (other than Borrower) represents and warrants to Administrative Agent and each Secured Party with respect to itself and its Collateral that this Agreement may reasonably be expected to benefit, directly or indirectly, such Debtor, and the board of directors of such Debtor, the requisite number of its partners, the requisite number of its members or the requisite number of the appropriate governance body or equity holders, as appropriate, have determined that this Agreement may reasonably be expected to benefit, directly or indirectly, such Debtor. Such Debtor is familiar with, and has independently reviewed the books and records regarding, the financial condition of Borrower and is familiar with the value of any and all collateral intended to be security for the payment of all or any part of the Obligations;  provided ,  however, such Debtor is not relying on such financial condition or collateral as an inducement to enter into this Agreement. 
+   
+ 3.03.        Survival. All representations and warranties made hereunder and in any other Loan Document or other document delivered pursuant hereto or thereto or in connection herewith or therewith shall survive the execution and delivery hereof and thereof and any update of any Schedule. Such representations and warranties have been or will be relied upon by Administrative Agent and each Secured Party, regardless of any investigation made by Administrative Agent or any Secured Party or on their behalf and notwithstanding that Administrative Agent or any Secured Party may have had notice or knowledge of any Default at the time of any credit extension, and shall continue in full force and survive the Release Date. 
+   
+ ARTICLE IV 
+COVENANTS 
+   
+ 4.01.        Further Assurances. 
+   
+(a)       Each Debtor will, from time to time and at such Debtor's expense, promptly execute and deliver all further instruments and documents (including the delivery of certificated securities, if any, and supplements to all schedules), authenticate, execute and file such financing or continuation statements, or amendments thereto, and such other instruments or notices, as may be reasonably necessary, or as Administrative Agent may reasonably request, in order to perfect and preserve the pledge, assignment, and security interest granted or purported to be granted hereby, and take all further action that Administrative Agent may reasonably request in order to perfect and protect any pledge, assignment, or security interest granted or purported to be granted hereby, and the priority thereof, or to enable Administrative Agent to exercise and enforce Administrative Agent's and other Secured  Parties' rights and remedies hereunder with respect to any Collateral. 
+   
+(b)       In addition to such other information as shall be specifically provided for herein, each Debtor shall furnish to Administrative Agent such other information (including copies of documents) with respect to such Debtor and the Collateral as Administrative Agent may reasonably request. 
+   
+(c)       Each Debtor authorizes Administrative Agent to file one or more financing or continuation statements, and amendments thereto, relating to all or any part of the Collateral without the authentication of any Debtor where permitted by Law and that (i) indicate the Collateral (A) as all assets of such Debtor (or words of similar effect), regardless of whether any particular asset included in the Collateral is within the scope of Article or Chapter 9 of the UCC of the applicable state or jurisdiction or whether such assets are included in the Collateral, or (B) as being of an equal or lesser scope or with greater detail, and (ii) contain any other information required by Article or Chapter 9 of the UCC of the applicable state or jurisdiction for the sufficiency or filing office acceptance of any financing statement, continuation or amendment, including (A) whether such Debtor is an organization, the type of organization, and any organization identification number issued to such Debtor and, (B) in the case of a financing statement indicating Collateral to be Fixtures, As-Extracted Collateral or timber to be cut, a sufficient description of real property to which such Collateral relates. Each Debtor agrees to furnish any such information to Administrative Agent promptly upon request. A photocopy or other reproduction of this Agreement or any financing statement covering the Collateral or any part thereof shall be sufficient as a financing statement where permitted by Law. Each Debtor ratifies its authentication, execution and delivery of, and the filing of, any financing statement or amendm ent thereto describing any of the Collateral which was filed prior to the date of this Agreement. 
+   
+ 
+ 
+ Security agreement-Page   15   
+ 
+   
+ 
+   
+(d)       Each Debtor shall cooperate to determine what may or shall be required to satisfy the Laws or regulations throughout the world with respect to the recordation and validation of the license of and Lien in Intellectual Property as Administrative Agent may reasonably require, or otherwise to render this Agreement and the security interest in such Debtor's Intellectual Property effective, and shall execute all documents which may be necessary or desirable to implement this  Section 4.01(e), including registered user statements or other documents suitable for filing with the appropriate Governmental Authorities. 
+   
+ 4.02.        Place of Perfection; Records; Collection of Accounts, Chattel Paper and Instruments. 
+   
+(a)       No Debtor shall change the jurisdiction of its organization from the jurisdiction specified in  Schedule 1 ,  Section (b) , its type of entity from the type of entity specified in  Schedule 1 ,  Section (c) , its name from the name specified in  Schedule 1 ,  Section (a) or its organizational identification number from the organizational identification number specified in  Schedule 1 ,  Section (g), unless such Debtor has delivered to Administrative Agent 30 days' prior written notice (unless Administrative Agent has agreed in writing to a shorter period) and taken such actions as Administrative Agent may reasonably require with respect to such change. With respect to each location on  Schedule 2, such Debtor shall keep its chief executive office at the address specified therein and the office where it keeps its Records concerning the Accounts, and the originals of all Cha ttel Paper and Instruments, at the address specified in  Schedule 2, unless such Debtor has delivered to Administrative Agent 30 days' prior written notice (unless Administrative Agent has agreed in writing to a shorter period) and taken such actions as Administrative Agent may reasonably require with respect to such change. Each Debtor will hold and preserve such Records and Chattel Paper and Instruments in a commercially reasonable manner and will permit representatives of Administrative Agent or any Lender to visit and inspect its Properties and make abstracts from and copies of such Records and C hattel Paper and Instruments in accordance with Section 7.6 of the Credit Agreement. 
+   
+ (b)       Except as otherwise provided in this  Section 4.02(b), each Debtor shall continue to collect, in accordance with commercially reasonable procedures and at its own expense, all amounts due or to become due such Debtor under its Accounts, Chattel Paper, and Instruments. In connection with such collections, each Debtor may take (and, at Administrative Agent's direction, shall take) such action as such Debtor or Administrative Agent may deem necessary or advisable to enforce collection of such Debtor's Accounts, Chattel Paper, and Instruments;  provided ,  however, that Administrative Agent shall have the right, if an Event of Default exists, to notify the Account Debtors or obligors under any Accounts, Chattel Paper, and Instruments of the assignment to Administrative Agent of such Accounts, Chattel Paper, and Instruments and to direct such Account Debtors or obligors to make payment of all amounts due or to become due to such Debtor thereunder directly to Administrative Agent and, at the expense of such Debtor, to enforce collection of any such Accounts, Chattel Paper, and Instruments, and to adjust, settle or compromise the amount or payment thereof, in the same manner and to the same extent as such Debtor might have done or as Administrative Agent reasonably deems appropriate. If any Event of Default exists, all amounts and proceeds (including Instruments) received by any Debtor in respect of the Accounts, Chattel Paper, and Instruments constituting Collateral shall be received in trust for the benefit of Administrative Agent hereunder, shall be segregated from other funds and property of such Debtor and shall be forthwith paid or delivered over to Administrative Agent in the same form as so received (with any necessary endorsement) to be held as Cash Collateral, thereafter to be applied as provided in the Credit Agreement and the other Loan Documents. No Debtor shall adjust, settle, or compromise the amount or payment of any Account, Chattel Paper, or Instrument, release wholly or partly any Account Debtor or obligor thereof, or allow any credit or discount thereon, except in the ordinary course of business. Notwithstanding the foregoing, any failure of Administrative Agent to notify Debtor of any actions taken hereunder shall not affect the validity of such actions or any other rights and remedies of Administrative Agent o r each Lender hereunder. 
+   
+ 
+ 
+ Security agreement-Page   16   
+ 
+   
+ 
+   
+ 4.03.        Equipment, Fixtures, and Inventory. 
+   
+(a)       Each Debtor shall keep its Equipment, Fixtures, and Inventory (other than Inventory sold in the ordinary course of business) at the addresses specified in  Schedule 2 or, upon 30 days' prior written notice to Administrative Agent, at such other places in such jurisdiction where all action required by  Section 4.01  shall have been taken with respect to the Equipment, Fixtures, and Inventory. 
+   
+(b)       Each Debtor shall cause its Equipment and Fixtures to be maintained, kept and preserved in good working order and condition and shall forthwith or, in the case of any loss or damage to any of the Equipment and Fixtures, as quickly as practicable after the occurrence thereof, make or cause to be made all repairs, replacements, and other improvements in connection therewith which are necessary or desirable to such end. Each Debtor shall promptly furnish to Administrative Agent a statement respecting any loss or damage to any of the Equipment and Fixtures which singly or in the aggregate equals or exceeds $100,000. Each Debtor shall promptly furnish to Administrative Agent a statement respecting any loss  or damage to any Inventory which singly or in the aggregate equals or exceeds $100,000. 
+   
+(c)       Each Debtor shall comply with, and shall cause its licensees and subcontractors to comply with, all requirements of the Fair Labor Standards Act. 
+   
+ 4.04.        Chattel Paper and Instruments. a) Each Debtor will: (i) mark conspicuously each item of Tangible Chattel Paper and Instruments in the original amount of $100,000 or greater and all Tangible Chattel Paper if the aggregate original amount of all Tangible Chattel Paper and Instruments is $100,000 or greater and each of its Records pertaining to the Collateral with the following legend: 
+   
+THIS *[INSTRUMENT]*[OTHER RECORD]* IS SUBJECT TO THE SECURITY INTEREST AND LIEN PURSUANT TO THE SECURITY AGREEMENT DATED OCTOBER 3, 2016 (AS THE SAME MAY BE AMENDED OR RESTATED) MA DE BY *[DEBTOR NAME]*, IN FAVOR OF LEGACYTEXAS BANK, AS ADMINISTRATIVE AGENT. 
+   
+or such other legend, in form and substance reasonably satisfactory to and as specified by Administrative Agent, indicating that such Tangible Chattel Paper or Collateral is subject to the pledge, assignment, and security interest granted hereby; and (ii) if any Collateral shall be or be evidenced by a promissory note or other Instrument or be Tangible Chattel Paper, and is, in each case, in the original amount of $100,000 or greater or the aggregate original amount of all promissory notes, other Instruments and Tangible Chattel Paper is $100,000 or greater, pledge to Administrative Agent hereunder and deliver to Administrative Agent such note, Instrument, or Chattel Paper duly indorsed and accompanied by duly executed instruments of transfer or assignment, all in form and substance satisfactory to Administrative Agent;  provided ,  however, during the existence of an Event of Default, such Debtor shall deliver to Administrative Agent all Tangible Chattel Paper and all Collateral evidenced by a promissory note or other Instrument accompanied by duly executed instruments of transfer or assignment, all in form and substance satisfactory to Administrative Agent. 
+   
+ 
+ 
+ Security agreement-Page   17   
+ 
+   
+ 
+   
+(b)       No Debtor shall have any rights in any Electronic Chattel Paper unless such Debtor has taken all actions reasonably necessary to establish in Administrative Agent control (as that term is defined in the UCC) of such Electronic Chattel Paper and Administrative Agent (and no other Person) has control of each item of Electronic Chattel Paper in the original amount of $100,000 or greater and all Electronic Chattel Paper if the aggregate original amount of all Electronic Chattel Paper is $100,000 or greater;  provided ,  however, during the existence of an Event of Default, such Debtor shall take all actions reasonably necessary to establish in Administrative Agent control (as that term is defined in the  UCC) of all Electronic Chattel Paper. 
+   
+(c)       Each Debtor shall pledge to Administrative Agent all Tangible Chattel Paper, promissory notes or other Instruments constituting or securing intercompany loans or intercompany leases and shall deliver to Administrative Agent such notes, Instruments, or Tangible Chattel Paper duly indorsed and accompanied by duly executed instruments of transfer or a ssignment, all in form and substance satisfactory to Administrative Agent. 
+   
+ 4.05.        Deposit Accounts, Securities Accounts, Commodity Accounts and Letter-of-Credit Rights. Each Debtor shall use Administrative Agent as its principal depository bank in accordance with Section 7.12 of the Credit Agreement. No Debtor shall establish or maintain any Dep osit Account, Securities Account or Commodity Account not listed on  Schedule 5  (other than  de minimis accounts, so long as the balance in all such accounts, collectively, does not exceed $100,000 at any time), unless prior to the establishment of such new Deposit Account, Securities Account, or Commodity Account such Debtor (i) delivers to Administrative Agent an updated Schedule as required by the first sentence of  Section 4.16 and executes and delivers to Administrative Agent assignments of, and control agreements with respect to, such new Deposit Account, Securities Account, or Commodity Account, as applicable, in such form as Administrative Agent may reasonably request, (ii) causes the bank, Securities Intermediary or Commodity Intermediary, as appropriate, in which such account is or will be maintained, to deliver to Administrative Agent acknowledgments of the assignment of, and control agreements with respect to, such account, in form and substance satisfactory to Administrative Agent, and (iii) takes all actions necessary to establish in Administrative Agent control (as that term is defined in the UCC) with respect to such Deposit Account, Securities Account, or Commodity Account. Contemporaneously with the acquisition by any Debtor of any rights in a Letter of Credit (other than rights as an account party), such Debtor shall (x) execute and deliver to Administrative Agent assignments of, and control agreements with respect to, such Letter of Credit and Letter-of-Credit Right in such form as Administrative Agent may reasonably request, (y) cause the bank or other Person that is the issuer of such Letter of Credit to deliver to Administrative Agent acknowledgments of the assignment of, and control agreements with respect to, such Letter of Credit and Letter-of-Credit Right in form and substance satisfactory to Administrative Agent, and (z) take all actions necessary to establish control (as that term is defined in the UCC) by Administrative Agent with respect to such Letter of Credit and Letter-of-Credit Right. No Debtor shall obtain or maintain any interest in any Securities Entitlement other than Securities Entitlements held in and subject to a Securities Account described in  Schedule 5  with respect to which such Debtor has complied with this  Section 4.05. No Debtor shall obtain or maintain any interest in any Commodity Contract other than Commodity Contracts held in and subject to a Commodity Account described in  Schedule 5  with respect to which such Debtor has complied with this  Section 4.05 . 
+   
+ 4.06.        Transferable Record. Each Debtor shall, upon acquisition by such Debtor of any transferable record, as that term is defined in the federal Electronic Signatures in Global and National Commerce Act or in the Uniform Electronic Transactions Act as in effect in any relevant jurisdiction, promptly notify Administrative Agent thereof and take such action as Administrative Agent may reasonably request to vest in Administrative Agent control (as that term is defined in the UCC) of such transferable record or control under the federal Electronic Signatures in Global and National Commerce Act or, as the case may be, the Uniform Electronic Transactions Act, as so in effect in such jurisdiction, of such transferable record. 
+   
+ 
+ 
+ Security agreement-Page   18   
+ 
+   
+ 
+   
+ 4.07.        Patents, Trademarks, and Copyrights. 
+   
+(a)       Each Debtor shall ensure that an acknowledgment (approved in form and substance by Administrative Agent) containing a description of all Collateral consisting of Intellectual Property has been received by and recorded with (i) the United States Patent and Trademark Office, with respect to United States Patents and Trademarks, and (ii) the United States Copyright Office, with respect to United States registered Copyrights pursuant to 35 U.S.C. Â§ 261, 15 U.S.C. Â§ 1060 or 17 U.S.C. Â§ 205, and each Debtor shall take such other actions as may be required pursuant to the Laws of any other applicable jurisdiction to protect the validity of and to establish a legal, valid, and perfected security interest in favor of Administrative Agent in respect of all Collateral consisting of Patents, Trademarks, and Copyrights in which a security interest may be perfected by filing, recording, or registration in the United States and its territories and possessions, or in such other jurisdictions as may be required by Administrative Agent, such that no further or subsequent filing, refiling, recording, rerecording, registration, or reregistration is necessary (other than such actions as are necessary to perfect the security interest with respect to any Collateral consisting of Patents, Trademarks, and Copyrights (or registration or application for registration thereof) acquired or developed after the date hereof). 
+   
+(b)       Except as permitted pursuant to the Loan Documents and where an act or failure to act could not reasonably be expected to result in a Material Adverse Event, no Debtor (either itself or through licensees or sublicensees) will do any act, or omit to do any act, whereby any Patent may become invalidated or dedicated to the public, and shall continue to mark any products covered by a Patent with the relevant patent number as necessary and sufficient to establish and preserve its maximum rights under applicable Laws. 
+   
+(c)       Except where the failure to do so could not reasonably be expected to result in a Material Adverse Event, each Debtor (either itself or through licensees or sublicensees) will, for each Trademark, (i) maintain such Trademark in full force free from any claim of abandonment or invalidity for non-use, except as permitted pursuant to the Loan Documents, (ii) maintain the quality of products and services offered under such Trademark, except products and services offered under Trademarks disposed of as permitted pursuant to the Loan Documents, (iii) display such Trademark with notice of United States federal or foreign registration to the extent necessary and sufficient to establish and preserve its maximum rights under applicable Law, except as to Trademarks disposed of as permitted pursuant to the Loan Documents, and (iv) not use or permit the use of such Trademark in violation of  any third party rights. 
+   
+(d)       Except where the failure to do so could not reasonably be expected to result in a Material Adverse Event, each Debtor (either itself or through licensees or sublicensees) will, for each work covered by a Copyright, continue to publish, reproduce, display, adopt, and distribute the work with appropriate copyright notice as necessary and sufficient t o establish and preserve its maximum rights under applicable Laws. 
+   
+(e)       Each Debtor shall notify Administrative Agent immediately if it knows or has reason to know that any Intellectual Property may become abandoned, lost, or dedicated to the public, or of any adverse determination or development (including the institution of, or any such determination or development in, any proceeding in the United States Patent and Trademark Office, United States Copyright Office, or any Governmental Authority in any jurisdiction) regarding such Debtor's ownership of any Intellectual Property, its right to register the same, or its rights with respect to a License, or to keep and maintain the same, except to the extent that the abandonment, loss, or dedication to the public, or any adverse determination or development regarding such Debtor's ownership of any Intellectual Property, its right to register the same, or to keep and maintain the same, is permitted pursuant to the Loan Documents and could not reasonably be expected to result in a Material Adverse Event. 
+   
+ 
+ 
+ Security agreement-Page   19   
+ 
+   
+ 
+   
+(f)       In no event shall any Debtor, either itself or through any agent, employee, licensee, or designee, file an application for any Patent, Trademark, or Copyright (or for the registration of any Trademark or Copyright) with the United States Patent and Trademark Office, the United States Copyright Office, or any Governmental Authority in any jurisdicti on unless it complies with  Section 4.16 within the time period specified therein, and, upon request of Administrative Agent, executes and delivers any and all agreements, instruments, documents, and papers as Administrative Agent may reasonably request to evidence Administrative Agent's and Secured Parties' security interest in such Patent, Trademark, or Copyright, and each Debtor hereby appoints Administrative Agent as its attorney-in-fact to execute and file such writings for the foregoing purposes. 
+   
+(g)       Except where the failure to do so could not reasonably be expected to result in a Material Adverse Event, each Debtor will take all necessary steps that are consistent with the practice in any proceeding before the United States Patent and Trademark Office, United States Copyright Office, or any Governmental Authority in any other jurisdiction as may be reasonably required by Administrative Agent, to maintain and pursue each application relating to the Patents, Trademarks, and/or Copyrights (and to obtain the relevant grant or registration), and to maintain each issued Patent and each registration of the Trademarks and Copyrights, including timely filings of applications for renewal, affidavits of use, affidavits of incontestability and payment of maintenance fees, and, if consistent with good business judgment, to initiate opposition, interference, and cancellation proceedings  against third parties. 
+   
+(h)       If any Debtor has reason to believe that any Collateral consisting of a Patent, Trademark, or Copyright has been or is about to be infringed, misappropriated, or diluted by a third party, such Debtor promptly shall notify Administrative Agent and shall, if consistent with good business judgment, unless such Debtor shall reasonably determine that such Patent, Trademark or Copyright is not material to the conduct of its business or operations, promptly sue for infringement, misappropriation, or dilution and to recover any and all damages for such infringement, misappropriation, or dilution, and take such other actions as are appropriate under the circumstances to protect such Collateral. 
+   
+(i)       Upon the request of Administrative Agent, each Debtor shall use commercially reasonable efforts to obtain all requisite consents or approvals by the licensor of each Copyright License, Patent License, or Trademark License to effect the assignment of all of such Debtor's right, title, and interest thereunder to Administrative Agent or its designee. 
+   
+(j)       In no event shall any Debtor acquire or purchase any Patent, Trademark, or Copyright unless it complies with  Section 4.16 within the time period specified therein, and, upon request of Administrative Agent, executes and delivers any and all agreements, instruments, documents, and papers as Administrative Agent may request to evidence Administrative Agent's and Secured Parties' security interest in such purchased or acquired Patent, Trademark, or Copyright. Each Debtor hereby appoints Administrative Agent as its attorney-in-fact to execute and file any application for any Patent, Trademark, or Copyright (or for the registration of any Trademark or Copyright) with the United States Patent and Trademark Office, United States Copyright Office, or any Governmental Authority in any other jurisdiction as may be required by Administrativ e Agent in connection with such purchase or acquisition of any Patent, Trademark, or Copyright. 
+   
+(k)       The parties acknowledge and agree that the Intellectual Property is the sole and exclusive property of each Debtor, subject to the terms and conditions stated in this Agreement. Other than in connection with any security interest in the Intellectual Property that a Debtor has granted to Administrative Agent, or any rights and remedies of Administrative Agent and Secured Parties under Laws, Administrative Agent shall not challenge such Debtor's ownership of the Intellectual Property. Each Debtor expressly retains all rights, at such times when no Event of Default exists, to license third parties to use the Intellectual Property for any purpose whatsoever not in violation of the Loan Documents and which  are not exclusive as to prevent Administrative Agent from using any of the Intellectual Property. 
+   
+ 
+ 
+ Security agreement-Page   20   
+ 
+   
+ 
+   
+(l)       The license granted to Administrative Agent hereunder shall include the right of Administrative Agent to grant sublicenses to others to use the Intellectual Property, and to enable such sublicensees to exercise any rights and remedies of Administrative Agent with respect to the Collateral, as Administrative Agent reasonably deems necessary or appropriate in the exercise of the rights and remedies of Administrative Agent. In any country where sublicenses are incapable of registration or where registration of a sublicense will not satisfactorily protect the rights of each Debtor and Administrative Agent, Administrative Agent shall also have the right to designate other parties as direct licensees of such Debtor to use the Intellectual Property if an Event of Default exists and to enable such direct licensees to exercise any rights and remedies of Administrative Agent as such licensees reasonably deem necessary or appropriate and each Debtor agrees to enter into direct written licenses with the parties as designated on the same terms as would be applicable to a sublicense, and any such direct license may, depending on the relevant local requirements, be either (i)  in lieu of a sublicense or (ii) supplemental to a sublicense. In either case, the parties hereto shall cooperate to determine what shall be necessary or appropriate in the circumstances. For each sublicense to a sublicensee and direct license to a licensee, each Debtor appoints Administrative Agent its agent for the purpose of exercising quality control over the sublicensee. Each Debtor shall execute this Agreement and each other agreement necessary to effect the purposes of this Agreement in any form, content and language suitable for recordation, notice and/or registration in all available and appropriate agencies of foreign countries as Administrative Agent may reasonably require. 
+   
+(m)       In connection with the assignment or other transfer (in whole or in part) of its obligations to any other Person, Administrative Agent may assign the license granted herein without any Debtor's consent (other than any consent required by the Credit Agreement) and upon such assignment or transfer such other Person shall thereupon become vested with all rights and benefits in respect thereof granted to Administrative Agent under this Agreement (to the extent of such assignment or transfer). 
+   
+(n)       The parties hereto shall take reasonable action to preserve the confidentiality of the Intellectual Property;  provided, that Administrative Agent shall not have any liability to any Person for any disclosure of the Intellectual Property in connection with Administrative Agent's enforcement of its  rights under this Agreement or Laws. 
+   
+ 4.08.        Equity Interests; Dilution of Ownership. No Debtor will, or permit any Person to, revise, modify, amend or restate the Constituent Documents of any issuer of Pledged Equity Interests in a manner that adversely affects the security interest of Administrative Agent therein (except as permitted by the Loan Documents), or terminate, cancel, or dissolve any such Person (except as permitted by the Loan Documents). As to any Pledged Equity Interests, no Debtor will consent to or approve of the issuance of (a) any additional shares or units of any class of Equity Interests of such issuer (unless, promptly upon issuance, additional Equity Interests are pledged and delivered to Administrative Agent pursuant to the terms hereof to the extent necessary to give Administrative Agent a security interest after such issuance in at least the same percentage of such issuer's outstanding Equity Interests as Administrative Agent had before such issuance), (b) any instrument convertible voluntarily by the holder thereof or automatically upon the occurrence or non-occurrence of any event or condition into, or exchangeable for, any Equity Interests, or (c) any warrants, options, contracts or other commitments entitling any third party to purchase or otherwise acquire any Equity Interests. 
+   
+ 
+ 
+ Security agreement-Page   21   
+ 
+   
+ 
+   
+ 4.09.        Waiver. To the extent not prohibited by applicable Laws or Permits, each Debtor agrees that any provision of any Constituent Document of any issuer of Collateral, any applicable Law, any certificate or instrument evidencing Collateral, or any other governance document that in any manner restricts, prohibits or provides conditions to (a) the grant of a Lien on any Equity Interest of such issuer or any other Collateral, (b) any transfer of any Equity Interest of such issuer or any other Collateral, (c) any change in management or control of such issuer or any other Collateral, (d) the admission of any transferee of any Collateral as a shareholder, member, partner or other equity holder of the issuer of such Collateral, or (e) any other exercise by Administrative Agent or any other Secured Party of any rights pursuant to this Agreement, any other Loan Document or Law, in each case shall not apply to (i) the grant of any Lien hereunder, (ii) the execution, delivery and performance of this Agreement by such Debtor, (iii) the foreclosure or other realization upon any interest in any Collateral, or (iv) the exercise of rights with respect to such Collateral, including the right to participate in the management of such issuer. Furthermore, to the extent not prohibited by applicable Laws or Permits, no Debtor will permit any amendment to or restatement of any Constituent Document or any other governance document or enter into or permit to exist any agreement that in any manner adversely affects Administrative Agent's ability to foreclose on any Collateral or which conflicts with the provisions of this  Section 4.09 . 
+   
+ 4.10.        Restrictions on Securities. No issuer of any Pledged Equity Interests which is either a partnership or limited liability company shall amend or restate its Constituent Documents (if its Constituent Documents do not provide that any Equity Interest in such issuer is a security governed by Chapter 8 of the UCC or that any Equity Interest in such issuer is evidenced by a certificate or other instrument) to provide that any Equity Interest in such issuer is a security governed by Chapter 8 of the UCC or permit any Equity Interest in such issuer to be evidenced by a certificate or other instrument. No certificate or other instrument evidencing or constituting any Pledged Equity Interest shall contain any restriction on transfer or other legend not reasonably acceptable to Administrative Agent. With respect to each certificate that contains any such legend that is not reasonably acceptable to Administrative Agent, each Debtor shall cause the issuer of each such certificate to issue one or more certificates in a form reasonably acceptable to Administrative Agent. 
+   
+ 4.11.        Rights to Dividends and Distributions. With respect to any certificates, bonds, or other Instruments or Securities constituting a part of the Collateral, Administrative Agent shall have authority, if an Event of Default exists, either to have the same registered in Administrative Agent's name or in the name of a nominee, and, with or without such registration, to demand of the issuer thereof, and to receive and receipt for, any and all dividends and distributions (including any stock or similar dividend or distribution) payable in respect thereof, whether they be ordinary or extraordinary. If any Debtor shall become entitled to receive or shall receive any interest in or certificate (including, without limitation, any interest in or certificate representing a dividend or a distribution in connection with any reclassification, increase, or reduction of capital, or issued in connection with any reorganization), or any option or rights arising from or relating to any of the Collateral, whether as an addition to, in substitution of, as a conversion of, or in exchange for any of the Collateral, or otherwise, such Debtor agrees to accept the same as Administrative Agent's agent and to hold the same in trust on behalf of and for the benefit of Administrative Agent, and to deliver the same immediately to Administrative Agent in the exact form received, with appropriate undated stock or similar powers, duly executed in blank, to be held by Administrative Agent, subject to the terms hereof, as Collateral. Unless an Event of Default exists or will result therefrom and subject to the other Loan Documents, such Debtor shall be entitled to receive all cash dividends and distributions not representing a return of capital or liquidating dividend paid or distributed with respect to the Securities, other than dividends or distributions or interests payable in Securities of the issuer of such Securities (which, if evidenced by certificated securities, shall be delivered to Administrative Agent as set forth in the immediately preceding sentence, whether or not an Event of Default exists). Administrative Agent shall be entitled to all dividends and distributions, and to any sums paid upon or in respect of any Collateral, upon the liquidation, dissolution, or reorganization of the issuer thereof, which shall be paid to Administrative Agent to be held by it as additional collateral security for and application to the Obligations as provided in the Loan Documents. All dividends, distributions and Proceeds paid or distributed in respect of the Collateral which are received by any Debtor in violation of this Agreement shall, until paid or delivered to Administrative Agent, be held by such Debtor in trust as additional Collateral for the Obligations. Notwithstanding the foregoing, any failure of Administrative Agent to notify Debtor of any actions taken hereunder shall not affect the validity of such actions or any other rights and remedies of Administrative Agent or each Lender hereunder. 
+   
+ 
+ 
+ Security agreement-Page   22   
+ 
+   
+ 
+   
+ 4.12.        Right of Administrative Agent to Notify Issuers. If an Event of Default exists and at such other times as Administrative Agent is entitled to receive dividends, distributions and other property in respect of or consisting of any Collateral which is or represents a Security or an Equity Interest, Administrative Agent may notify issuers of such Security or Equity Interest to make payments of all dividends and distributions directly to Administrative Agent and Administrative Agent may take control of all Proceeds of any Securities and Equity Interests. Until Administrative Agent elects to exercise such rights, each Debtor, as agent of Administrative Agent, shall collect, segregate and hold in trust all dividends and other amounts paid or distributed with respe ct to Securities and Equity Interests. 
+   
+ 4.13.        Insurance. Each Debtor shall, at its own expense, maintain insurance in accordance with the Credit Agreement. 
+   
+ 4.14.        Transfers and Other Liens. Except as permitted by the Loan Documents, no Debtor shall (a) sell, assign (by operation of Law or otherwise) or otherwise Dispose of, or grant any option with respect to, any of the Collateral, or (b) create or permit to exist any Lien, option, or other charge or encumbrance upon or with respect to any of the Collateral. 
+   
+ 4.15.        Administrative Agent Appointed Attorney-in-Fact. Each Debtor hereby irrevocably appoints Administrative Agent such Debtor's attorney-in-fact, with full authority in the place and stead of such Debtor and in the name of such Debtor or otherwise to take any action and to execute any instrument which Administrative Agent may deem necessary or advisable to accomplish the purposes of this Agreement, including , without limitation ( provided , Administrative Agent shall not have any duty to take any such action or execute any instrument): 
+   
+ (a)       to obtain and adjust insurance required to be paid to Administrative Agent pursuant to  Section 4.13 ; 
+   
+(b)       to ask, demand, collect, sue for, recover, compromise, receive, and give acquittance and receipts for moneys due and to become due under or in connection with the Collate ral; 
+   
+(c)       to receive, indorse, and collect any drafts or other Instruments, Documents, and Chattel Paper in connection therewith; and 
+   
+(d)       to file any claims or take any action or institute any proceedings which Administrative Agent may deem necessary or desirable for the collection of any of the Collateral or otherwise to enforce compliance with the terms and conditions of any Collateral or the rights of Administrative Agent with respect to any of the Collateral. 
+   
+EACH DEBTOR HEREBY IRREVOCABLY GRANTS TO ADMINISTRATIVE AGENT SUCH DEBTOR'S PROXY (EXERCISABLE IF AN EVENT OF DEFAULT EXISTS) TO VOTE ANY SECURITIES INCLUDED IN COLLATERAL AND APPOINTS ADMINISTRATIVE AGENT SUCH DEBTOR'S ATTORNEY-IN-FACT (EXERCISABLE IF AN EVENT OF DEFAULT EXISTS) TO PERFORM ALL OBLIGATIONS OF SUCH DEBTOR UNDER THIS AGREEMENT AND TO EXERCISE ALL OF ADMINISTRATIVE AGENT'S AND EACH OTHER SECURED PARTY'S RIGHTS HEREUNDER. THE PROXY AND EACH POWER OF ATTORNEY HEREIN GRANTED, AND EACH STOCK POWER AND SIMILAR POWER NOW OR HEREAFTER GRANTED (INCLUDING ANY EVIDENCED BY A SEPARATE WRITING), ARE COUPLED WITH AN INTEREST AND ARE IRREVOCABLE BEFORE THE RELEASE DATE. 
+   
+ 
+ 
+ Security agreement-Page   23   
+ 
+   
+ 
+   
+ 4.16.        Changes to Representations, Schedules. Not later than 30 days after the last day of each fiscal quarter of each Debtor during which any information disclosed on any Schedule to this Agreement changed and at such other times as required by this Agreement, each such Debtor shall deliver to Administrative Agent an updated Schedule (which updates shall restate (and not supplement) such Schedule in  its entirety);  provided, the delivery of any updated Schedule shall not be (a) deemed a waiver of any (i) obligation of any Debtor under any Loan Document, or (ii) representation or warranty of any Debtor with respect to a Schedule during the period such Schedule was effective, and (b) effective until Administrative Agent agrees in writing to (i) the substitution of such updated Schedule, and (ii) the Schedule Effective Date of such updated Schedule. Each Debtor shall promptly notify Administrative Agent of any change in any representation herein and any information on any Schedule hereto if such change could reasonably be expected to result in a Material Adverse Event. Each representation and warranty made as of a particular Schedule Effective Date shall be deemed made as of such Schedule Effective Date and at all times thereafter until the Schedule Effective Date of the next effective succeeding restated Sch edule. 
+   
+ ARTICLE V 
+RIGHTS AND POWERS OF ADMINISTRATIVE AGENT. 
+   
+ 5.01.        Administrative Agent May Perform. If any Debtor fails to perform any agreement contained herein, Administrative Agent may itself perform, or cause performance of, such agreement, and the expenses of Administrativ e Agent incurred in connection therewith shall be payable by Debtors under  Section 5.07 . 
+   
+ 5.02.        Administrative Agent's Duties. The powers conferred on Administrative Agent hereunder are solely to protect Administrative Agent's and Secured Parties' interest in the Collateral and shall not impose any duty upon it to exercise any such powers. Except for the safe custody of any Collateral in its possession and the accounting for moneys actually received by Administrative Agent and Secured Parties hereunder, neither Administrative Agent nor any other Secured Party shall have any duty as to any Collateral, as to ascertaining or taking action with respect to calls, conversions, exchanges, maturities, tenders, or other matters relative to any Collateral, whether or not Administrative Agent or any other Secured Party has or is deemed to have knowledge of such matters, or as to the taking of any necessary steps to preserve rights against prior parties or any other rights pertaining to any reasonable care in the custody and preservation of any Collateral in its possession if such Collateral is accorded treatment substantially equal to that which Administrative Agent accords its own property. Excep t as provided in this  Section 5.02, neither Administrative Agent nor any other Secured Party shall have any duty or liability to protect or preserve any Collateral or to preserve rights pertaining thereto. Nothing contained in this Agreement shall be construed as requiring or obligating Administrative Agent or any other Secured Party, and neither Administrative Agent nor any other Secured Party shall be required or obligated, to (a) present or file any claim or notice or take any action with respect to any Collateral or in connection therewith or (b) notify any Debtor  of any decline in the value of any Collateral. This  Section 5.02 shall survive the termination of this Agreement, and any satisfaction and discharge of each Debtor by virtue of any payment, court order, or Law. 
+   
+ 5.03.        Events of Default. The occurrence of an Event of Default under the Credit Agreement shall constitute an Event of Default under this Agreement (each, an " Event of Default "). 
+   
+ 
+ 
+ Security agreement-Page   24   
+ 
+   
+ 
+   
+ 5.04.        Remedies . If an Event of Default exists: 
+   
+(a)       Administrative Agent may exercise in respect of the Collateral, in addition to other rights and remedies provided for herein or otherwise available to it or any other Secured Party pursuant to any applicable Laws, all the rights and remedies of a secured party on default under the UCC (whether or not the UCC applies to the affected Collateral) and also may require each Debtor to, and each Debtor will at its expense and upon request of Administrative Agent forthwith, assemble all or part of the Collateral as directed by Administrative Agent and make it available to Administrative Agent at a place to be designated by Administrative Agent which is reasonably convenient to both parties for public or private sale, at any of Administrative Agent's offices or elsewhere, for cash, on credit or for future delivery and upon such other terms as Administrative Agent may deem commercially reasonable. Each Debtor agrees that, to the extent notice of sale shall be required by Law, 10 days' notice to such Debtor of the time and place of any public sale or the time after which any private sale is to be made shall constitute reasonable notification. Administrative Agent shall not be obligated to make any sale of Collateral regardless of notice of sale having been given. Administrative Agent may adjourn any public or private sale from time to time by announcement at the time and place fixed therefor, and such sale may, withou t further notice, be made at the time and place to which it was so adjourned. 
+   
+(b)       All proceeds received by Administrative Agent upon any sale of, collection of, or other realization upon, all or any part of the Collateral shall be applied as set forth  in the Credit Agreement and the other Loan Documents. 
+   
+(c)       All payments received by each Debtor under or in connection with any Collateral shall be received in trust for the benefit of Administrative Agent, shall be segregated from other funds of such Debtor, and shall be forthwith paid or delivered over to Administrative Agent in the same form as so received (with any necessary endorsement). 
+   
+ (d)       Because of the Securities Act of 1933, as amended (the " Securities Act"), and other Laws, including without limitation state "blue sky" Laws, or contractual restrictions or agreements, there may be legal restrictions or limitations affecting Administrative Agent in any attempts to dispose of the Collateral and Administrative Agent's enforcement of its rights under this Agreement. For these reasons, Administrative Agent is authorized by each Debtor, but not obligated, if any Event of Default exists, to sell or otherwise dispose of any of the Collateral at private sale, subject to an investment letter, or in any other manner which will not require the Collateral, or any part thereof, to be registered in accordance with the Securities Act or any other Law. Administrative Agent is also hereby authorized by each Debtor, but not obligated, to take such actions, give such notices, obtain such consents, and do such other things as Administrative Agent may deem required or appropriate under the Securities Act or other securities Laws or other Laws or contractual restrictions or agreements in the event of a sale or disposition of any Collateral. Each Debtor understands that Administrative Agent may in its discretion approach a restricted number of potential purchasers and that a sale under such circumstances may yield a lower price for the Collateral than would otherwise be obtainable if the same were registered and/or sold in the open market. No sale so made in good faith by Administrative Agent shall be deemed to be not "commercially reasonable" because so made. Each Debtor agrees that if an Event of Default exists and Administrative Agent sells the Collateral or any portion thereof at any private sale or sales, Administrative Agent shall have the right to rely upon the advice and opinion of appraisers and other Persons, which appraisers and other Persons are acceptable to Administrative Agent, as to the best price reasonably obtainable upon such a private sale thereof. In the absence of fraud or gross negligence, such reliance shall be conclusive evidence that Administrative Agent and the other Secured Parties handled such matter in a commercially reasonable manner under applicable Law. 
+   
+ 
+ 
+ Security agreement-Page   25   
+ 
+   
+ 
+   
+(e)       After notice to any Debtor, Administrative Agent and such Persons as Administrative Agent may reasonably designate shall have the right, at such Debtor's own cost and expense, to verify under reasonable procedures the validity, amount, quality, quantity, value, condition, and status of, or any other matter relating to, the Collateral, including, in the case of Accounts or Collateral in the possession of any third Person, by contacting Account Debtors or the third Person possessing such Collateral for the purpose of making such a verification. Administrative Agent shall have the absolute right to share any information it gains from such inspection or verification with any Secured Party. 
+   
+(f)       For purposes of enabling Administrative Agent to exercise rights and remedies under this Agreement, each Debtor grants to Administrative Agent an irrevocable, nonexclusive license (exercisable without payment of royalty or other compensation to any Debtor or any other Person;  provided, that if the license granted to Administrative Agent is a sublicense, each Debtor shall be solely responsible for, and indemnify Administrative Agent and each Secured Party against, any royalty or other compensation payable to such Debtor's licensor or other Person) to use all of such Debtor's Software, and including in such license reasonable access to all media in which any of the licensed items may be recorded and all related manuals. The use of such license by Administrative Agent shall be exercised, at the option of Administrati ve Agent, if an Event of Default exists;  provided, that any license, sub-license, or other transaction entered into by Administrative Agent in accordance herewith shall be binding upon such Debtor notwithstanding any subsequent c ure or waiver of an Event of Default. 
+   
+(g)       For the purpose of enabling Administrative Agent to exercise rights and remedies under this Agreement, each Debtor grants (to the extent not otherwise prohibited by a license with respect thereto) to Administrative Agent an irrevocable, nonexclusive license (exercisable without payment of royalty or other compensation to any Debtor or any other Per son;  provided, that if the license granted to Administrative Agent is a sublicense, such Debtor shall be solely responsible for, and indemnify Administrative Agent and Secured Parties against, any royalty or other compensation payable to such Debtor's licensor or other Person) to use, license, or sub-license any of the Collateral consisting of Intellectual Property wherever the same may be located, and including in such license reasonable access to all media in which any of the licensed items may be recorded or stored and to all Software used for the use, compilation, or printout thereof. In connection therewith, each Debtor shall execute and deliver a license agreement to Administrative Agent to evidence the grant of such license. The use of such license by Administrative Agent shall be exercised, at the option of Administrative Agent, if an Event of Default exists;  provided, that any license, sub-license, or other transaction entered into by Administrative Agent in accordance herewith shall be binding upon each Debtor notwithstanding any subsequent c ure or waiver of an Event of Default. 
+   
+ 5.05.        Appointment of Receiver or Trustee. In connection with the exercise of Administrative Agent's rights under this Agreement or any other Loan Document, Administrative Agent may, if an Event of Default exists, obtain the appointment of a receiver or trustee to assume, upon receipt of any necessary judicial or other Governmental Authority consents or approvals, control or ownership of any Collateral. Such receiver or trustee shall have all rights and powers provided to it by Law or by court order or provided to Administrative Agent under this Agreement or any other Loan Document. Upon the appointment of such trustee or receiver, each Debtor shall cooperate, to the extent necessary or appropriate, in the expeditious preparation, execution, and filing of an application to any Governmental Authority or for consent to the transfer, control or assignment of such Collateral to the receiver or trustee. To the extent required by applicable Law, Administrative Agent shall provide to each Debtor notice of the request for or appointment of such receiver or trustee. 
+   
+ 
+ 
+ Security agreement-Page   26   
+ 
+   
+ 
+   
+ 5.06.        Further Approvals Required . 
+   
+(a)       In connection with the exercise by Administrative Agent of rights under this Agreement that affects the disposition of or use of any Collateral (including rights relating to the disposition of or operation under any Permit), it may be necessary to obtain the prior consent or approval of Governmental Authorities and other Persons to a transfer or assignment of Collateral. Each Debtor shall execute, deliver, and file, and hereby appoints (to the extent not prohibited by applicable Law) Administrative Agent as its attorney-in-fact (exercisable if an Event of Default exists), to execute, deliver, and file on such Debtor's behalf and in such Debtor's name all applications, certificates, filings, instruments, and other documents (including without limitation any application for an assignment or transfer of control or ownership) that may be necessary or appropriate, in Administrative Agent's reasonable opinion, to obtain such consents or approvals. Each Debtor shall use commercially reasonable efforts to obtain the foregoing consents, waivers, and approvals, including receipt of consents, waivers, and approvals under applicable agreements regardless of whether a Default or Event of Default exists. 
+   
+(b)       Each Debtor acknowledges that there is no adequate remedy at Law for failure by it to comply with the provisions of this  Section 5.06 and that such failure would not be adequately compensable in damages, and therefore agrees that this  Section 5.06  may be specifically enforced. 
+   
+ 5.07.        INDEMNITY AND EXPENSES . 
+   
+ (a)       EACH DEBTOR SHALL INDEMNIFY ADMINISTRATIVE AGENT, L/C ISSUER, EACH LENDER AND EACH RELATED PARTY THEREOF FROM, AND HOLD EACH OF THEM HARMLESS AGAINST, ANY AND ALL LOSSES, LIABILITIES, CLAIMS, DAMAGES, PENALTIES, JUDGMENTS, DISBURSEMENTS, REASONABLE AND DOCUMENTED OUT-OF-POCKET COSTS, AND EXPENSES (INCLUDING ATTORNEYS' FEES) TO WHICH ANY OF THEM MAY BECOME SUBJECT WHICH DIRECTLY OR INDIRECTLY ARISE FROM OR RELATE TO (i) THE NEGOTIATION, EXECUTION, DELIVERY, PERFORMANCE, ADMINISTRATION, OR ENFORCEMENT OF THIS AGREEMENT, (ii) ANY OF THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT, (iii) ANY BREACH BY SUCH DEBTOR OF ANY REPRESENTATION, WARRANTY, COVENANT, OR OTHER AGREEMENT CONTAINED HEREIN, (iv) THE PRESENCE, RELEASE, THREATENED RELEASE, DISPOSAL, REMOVAL, OR CLEANUP OF ANY HAZARDOUS MATERIAL LOCATED ON, ABOUT, WITHIN, OR AFFECTING ANY OF THE PROPERTIES OR ASSETS OF SUCH DEBTOR OR ANY OF ITS SUBSIDIARIES, OR (v) ANY INVESTIGATION, LITIGATION, OR OTHER PROCEEDING, INCLUDING, WITHOUT LIMITATION, ANY THREATENED INVESTIGATION, LITIGATION, OR OTHER PROCEEDING, RELATING TO ANY OF THE FOREGOING. WITHOUT LIMITING ANY PROVISION OF THIS AGREEMENT OR OF ANY OTHER LOAN DOCUMENT, IT IS THE EXPRESS INTENTION OF THE PARTIES HERETO THAT EACH PERSON TO BE INDEMNIFIED UNDER THIS SECTION SHALL BE INDEMNIFIED FROM AND HELD HARMLESS AGAINST ANY AND ALL LOSSES, LIABILITIES, CLAIMS, DAMAGES, PENALTIES, JUDGMENTS, DISBURSEMENTS, REASONABLE AND DOCUMENTED OUT-OF-POCKET COSTS, AND EXPENSES (INCLUDING ATTORNEYS' FEES) ARISING OUT OF OR RESULTING FROM THE SOLE CONTRIBUTORY OR ORDINARY NEGLIGENCE OF SUCH PERSON. 
+   
+ (b)       Any amount to be paid under this  Section 5.07 shall be a demand obligation owing by Debtors and if not paid within 10 days of demand shall bear interest, to the extent not prohibited by and not in violation of applicable Law, from the date of expenditure until paid at a rate per annum equal to the Default Interest Rate. The obligations of Debtors under this  Section 5.07 shall survive payment of the Notes and other obligations hereunder and the assignment of any right hereunder. 
+   
+ 
+ 
+ Security agreement-Page   27   
+ 
+   
+ 
+   
+ ARTICLE VI 
+MISCELLANEOUS 
+   
+ 6.01.        Waiver of Subrogation. Until the Release Date, no Debtor shall assert, enforce, or otherwise exercise (a) any right of subrogation to any of the rights or Liens of Administrative Agent, any other Secured Party or any Person acting for the benefit of Administrative Agent or any other Secured Party against any other Obligated Party or any Collateral or other security, or (b) any right of recourse, reimbursement, contribution, indemnification, or similar right against any other Obligated Party on all or any part of the Obligations or any other Obligated Party, and until the Release Date, each Debtor hereby waives any and all of the foregoing rights and the benefit of, and any right to participate in, and Collateral or other security given to Administrative Agent or any other Secured Party or any other Person acting for the benefit of Administrative Agent or any other Secured Party, to secure payment of the Obli gations. This  Section 6.01 shall survive the termination of this Agreement, and any satisfaction and discharge of each Debtor by virtue of any payment, court order, or Law. 
+   
+ 6.02.        Cumulative Rights. All rights of Administrative Agent and each other Secured Party under the Loan Documents and Bank Product Agreements are cumulative of each other and of every other right which Administrative Agent and each other Secured Party may otherwise have at Law or in equity or under any other agreement. The exercise of one or more rights shall not prejudice or impa ir the concurrent or subsequent exercise of other rights. 
+   
+ 6.03.        Amendments; Waivers. No amendment or waiver of any provision of this Agreement, and no consent to any departure by any Debtor, shall be effective unless in writing signed by Administrative Agent and each Debtor, and each such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given. No election not to exercise, failure to exercise or delay in exercising any right, nor any course of dealing or performance, shall operate as a waiver of any right of Administrative Agent or any Secured Party under this Agreement or applicable Laws, nor shall any single or partial exercise of any such right preclude any other or further exercise thereof or the exercise of any other right of Admini strative Agent or any Secured Party under this Agreement or applicable Laws. 
+   
+ 6.04.        Continuing Security Interest; Release. This Agreement creates a continuing security interest in the Collateral and shall (a) remain in full force and effect until the Release Date, (b) be binding upon each Debtor and its successors and assigns, and (c) inure to the benefit of, and be enforceable by, Administrative Agent and its successors, transferees and assigns. Upon the occurrence of the Release Date, this Agreement and all obligations (other than those expressly stated to survive such termination) of Administrative Agent and each Debtor hereunder shall terminate, all without delivery of any instrument or performance of any act by any party, and all rights to the Collateral shall revert to the granting parties and Administrative Agent will, at each Debtor's expense, execute and deliver to each Debtor such documents (including without limitation UCC termination statements) as such Debtor shall reasonably request to evidence such termination and shall deliver to such Debtor any Collateral held by Administrative Agent hereunder. Each Debtor agrees that to the extent that Administrative Agent or any other Secured Party receives any payment or benefit and such payment or benefit, or any part thereof, is subsequently invalidated, declared to be fraudulent or preferential, set aside or is required to be repaid to a trustee, receiver, or any other Person under any Debtor Relief Law, common law or equitable cause, then to the extent of such payment or benefit, the Obligations or part thereof intended to be satisfied shall be revived and continued in full force and effect as if such payment or benefit had not been made and, further, any such repayment by Administrative Agent or any other Secured Party, to the extent that Administrative Agent or any other Secured Party did not directly receive a corresponding cash payment, shall be added to and be additional Obligations payable upon demand by Administrative Agent or any other Secured Party and secured hereby, and, if the Lien and security interest, any power of attorney, proxy or license hereof shall have been released, such Lien and security interest, power of attorney, proxy and license shall be reinstated with the same effect and priority as on the date of execution hereof all as if no release of such Lien or security interest, power of attorney, proxy or license had ever occurred. This  Section 6.04 shall survive the termination of this Agreement, and any satisfaction and discharge of each Debtor by virtue of any payment, court order, or Law. 
+   
+ 
+ 
+ Security agreement-Page   28   
+ 
+   
+ 
+   
+ 6.05.        Governing Law; Jurisdiction; Venue; Service of Process . 
+   
+ (a)        Governing Law. This Agreement and the other Loan Documents and any claims, controversy, dispute or cause of action (whether in contract or tort or otherwise) based upon, arising out of or relating to this Agreement or any other Loan Document (except, as to any other Loan Document, as expressly set forth therein) and the transactions contemplated hereby and thereby shall be governed by, and construed in accordance with, the law of the State of Texas (without reference to applicable rules of conflicts of laws). 
+   
+ (b)        Jurisdiction. Each Debtor irrevocably and unconditionally agrees that it will not commence any action, litigation or proceeding of any kind or description, whether in law or equity, whether in contract or in tort or otherwise, against Administrative Agent, any Lender, L/C Issuer or any Related Party of the foregoing in any way relating to this Agreement or any other Loan Document or the transactions relating hereto or thereto, in any forum other than the courts of the State of Texas sitting in Dallas County, and of the United States District Court of the Northern District of Texas, and any appellate court from any thereof, and each of the parties hereto irrevocably and unconditionally submits to the jurisdiction of such courts and agrees that all claims in respect of any such action, litigation or proceeding may be heard and determined in such Texas State court or, to the fullest extent permitted by applicable law, in such federal court. Each of the parties hereto agrees that a final judgment in any such action, litigation or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Agreement or in any other Loan Document shall affect any right that Administrative Agent, any Lender, or L/C Issuer may otherwise have to bring any action or proceeding relating to this Agreement or any other Loan Document against any Debtor or its propert ies in the courts of any jurisdiction. 
+   
+ (c)        Waiver of Venue. Each Debtor irrevocably and unconditionally waives, to the fullest extent permitted by applicable Law, any objection that it may now or hereafter have to the laying of venue of any action or proceeding arising out of or relating to this Agreement or any other Loan Document in any court referred to in  paragraph (b) of this Section. Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by applicable Law, the defense of an inconvenient forum to the maintenance o f such action or proceeding in any such court. 
+   
+ (d)        Service of Process. Each party hereto irrevocably consents to service of process in the manner provided for notices in  Section 6.11. Nothing in this Agreement will affect the right of any party hereto to serve process in any other manner permitted by applicable law. 
+   
+ 6.06.        Waiver of Right to Trial by Jury. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE OTHER LOA N DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS  SECTION 6.06 . 
+   
+ 
+ 
+ Security agreement-Page   29   
+ 
+   
+ 
+   
+ 6.07.        Administrative Agent's Right to Use Agents. Administrative Agent may exercise its rights under this Agreement through an agent or other designee. 
+   
+ 6.08.        No Interference, Compensation or Expense. Administrative Agent may exercise its rights under this Agreement (a) without resistance or interference by any Debtor and (b) without payment of any rent, license fee, or compen sation of any kind to any Debtor. 
+   
+ 6.09.        Waivers of Rights Inhibiting Enforcement. Each Debtor waives (a) any claim that, as to any part of the Collateral, a private sale, should Administrative Agent elect so to proceed, is, in and of itself, not a commercially reasonable method of sale for such Collateral, (b) except as otherwise provided in this Agreement, TO THE FULLEST EXTENT NOT PROHIBITED BY APPLICABLE LAW, NOTICE OR JUDICIAL HEARING IN CONNECTION WITH ADMINISTRATIVE AGENT'S DISPOSITION OF ANY OF THE COLLATERAL INCLUDING ANY AND ALL PRIOR NOTICE AND HEARING FOR ANY PREJUDGMENT REMEDY OR REMEDIES AND ANY SUCH RIGHT THAT SUCH DEBTOR WOULD OTHERWISE HAVE UNDER ANY LAW AND ALL OTHER REQUIREMENTS AS TO THE TIME, PLACE AND TERMS OF SALE OR OTHER REQUIREMENTS WITH RESPECT TO THE ENFORCEMENT OF ADMINISTRATIVE AGENT'S OR SECURED PARTIES' RIGHTS HEREUNDER  and (c) all rights of redemption, appraisement or valuation. 
+   
+ 6.10.        Obligations Not Affected. To the fullest extent not prohibited by applicable Laws, the obligations of each Debtor under this Agreement shall remain in full force and effect without regard to, and shall no t be impaired or affected by: 
+   
+(a)       any amendment, addition, or supplement to, or restatement of any Loan Document, Bank Product Agreement or any instrument delivered in connection therewith or any assignme nt or transfer thereof; 
+   
+(b)       any exercise, non-exercise, or waiver by Administrative Agent or any other Secured Party of any right, remedy, power, or privilege under or in respect of, or any release of any guaranty, any collateral, or the Collateral or any part thereof provided pursuant to, this Agreement, any Loan Document or any Bank Product Agreement; 
+   
+(c)       any waiver, consent, extension, indulgence, or other action or inaction in respect of this Agreement, any other Loan Document or any Bank Product Agreement or any assignm ent or transfer of any thereof; 
+   
+(d)       any bankruptcy, insolvency, reorganization, arrangement, readjustment, composition, liquidation, or the like of any Obligated Party or any other Person, whether or not an y Debtor shall have notice or knowledge of any of the foregoing; or 
+   
+(e)       any other event which may give any Debtor or any other Obligated Party a defense to, or a discharge of, any of its obligations under any Loan Document or any Bank Product  Agreement. 
+   
+ 6.11.        Notices and Deliveries. All notices and other communications provided for herein to Administrative Agent or to any Debtor shall be effectuated in the manner provided for in the Credit Agreement. Each Debtor appoints Borrower such Debtor's agent, and Borrower shall act as agent for each other Debtor, for receipt of notices and other communications pursuant to the Loan Documents. 
+   
+ 
+ 
+ Security agreement-Page   30   
+ 
+   
+ 
+   
+ 6.12.        Severability. Any provision of this Agreement held by a court of competent jurisdiction to be invalid or unenforceable shall not impair or invalidate the remainder of this Agreement and the ef fect thereof shall be confined to the provision held to be invalid or illegal. 
+   
+ 6.13.        Successors and Assigns. The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns (including, as to each Debtor, a ll Persons who may become bound as a debtor or a new debtor to this Agreement);  provided , no Debtor may assign any of its rights or obligations under this Agreement. 
+   
+ 6.14.        Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Agreement shall become effective when it shall have been executed by Administrative Agent and when Administrative Agent shall have received counterparts hereof that, when taken together, bear the signatures of each of the other parties hereto. Delivery of an executed counterpart of a signature page of this Agreement by facsimile or other electronic imaging means (e.g. "pdf" or "tif") shall be effective as delivery of a manually executed counterpart of this Agreement. 
+   
+ 6.15.        Additional Debtors. Any Person who was not a "Debtor" under this Agreement at the time of initial execution hereof shall become a "Debtor" hereunder if required pursuant to the terms of the Loan Documents by executing and delivering to Administrative Agent a Joinder. Such Person shall also deliver such items to Administrative Agent in connection with the execution of such Joinder as required by the terms of the Loan Documents and this Agreement. Any such Person shall thereafter be deemed a "Debtor" for all purposes under this Agreement. 
+   
+ 6.16.        ENTIRE AGREEMENT . THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL  AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. 
+   
+ [Remainder of Page Intentionally Left Blank; Signature Pages Follow] 
+   
+ 
+ 
+ 
+ Security agreement-Page   31   
+ 
+   
+ 
+   
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed and delivered by their respective duly authorized officers as of the date first above written. 
+   
+ 
+   DEBTORS:         CARBON NATURAL GAS COMPANY         By:     Patrick R. McDonald     Chief Executive Officer 
+     
+ 
+   NYTIS EXPLORATION COMPANY LLC           By: Nytis Exploration (USA) Inc.,     its sole Manager             By:       Patrick R. McDonald           Chief Executive Officer 
+   
+   NYTIS EXPLORATION (USA) INC.         By:     Patrick R. McDonald     Chief Executive Officer 
+   
+   ADMINISTRATIVE AGENT:       LEGACYTEXAS BANK       By:       Alison White     Senior Vice President 
+   
+   
+ 
+ Security Agreement - Signature Page 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ Schedule 1 
+   
+ Organization and Names 
+   
+ (Schedule Effective Date: October 3, 2016) 
+   
+ Carbon Natural Gas Company : 
+   
+ (a)	Name: Carbon Natural Gas Company (b)	Jurisdiction of Organization Delaware (c)	Entity type: Corporation (d)	Changes in jurisdiction of organization, name or entity type:   (e)	Trade names: None (f)	Federal Taxpayer Identification Number: 26-0818050 (g)	Organizational number: 4411454 (h)	UCC Filing Office Delaware 
+   
+ Nytis Exploration Company LLC : 
+   
+ (a)	Name: Nytis Exploration Company LLC (b)	Jurisdiction of Organization Delaware (c)	Entity type: Limited Liability Company (d)	Changes in jurisdiction of organization, name or entity type:   (e)	Trade names: None (f)	Federal Taxpayer Identification Number: 20-2621412 (g)	Organizational number: 3946676 (h)	UCC Filing Office Delaware 
+   
+ Nytis Exploration (USA) Inc. : 
+   
+ (a)	Name: Nytis Exploration (USA) Inc. (b)	Jurisdiction of Organization Delaware (c)	Entity type: Corporation (d)	Changes in jurisdiction of organization, name or entity type:   (e)	Trade names: None (f)	Federal Taxpayer Identification Number: 20-1941946 (g)	Organizational number: 3878062 (h)	UCC Filing Office Delaware 
+   
+ [Remainder of Page Intentionally Left Blank] 
+   
+ 
+ Schedule 1 - Page 1 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ Schedule 2 
+   
+ Addresses 
+   
+(Schedule Effective Date: October 3, 2016) 
+   
+ Carbon Natural Gas Company : 
+   
+ 1700 Broadway, Suite 1170 
+ Denver, Colorado 80290 
+   
+ Nytis Exploration Company LLC : 
+   
+ 2480 Fortune Drive, Suite 300 
+ Lexington, Kentucky 40509 
+   
+ Nytis Exploration (USA) Inc. : 
+   
+ 1700 Broadway, Suite 1170 
+ Denver, Colorado 80290 
+   
+ [Remainder of Page Intentionally Left Blank] 
+   
+ 
+ Schedule 2 - Page 1 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ Schedule 3 
+   
+ Pledged Debt; Indebtedness Evidenced by Instruments 
+ 
+(Schedule Effective Date: October 3, 2016) 
+   
+ Carbon Natural Gas Company : 
+   
+ None. 
+   
+ Nytis Exploration Company LLC : 
+   
+ None. 
+   
+ Nytis Exploration (USA) Inc. : 
+   
+ None. 
+   
+ [Remainder of Page Intentionally Left Blank] 
+   
+ 
+ Schedule 3 - Page 1 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ Schedule 4 
+ 
+ Intellectual Property 
+   
+ (Schedule Effective Date: October 3, 2016) 
+ 
+   
+ Carbon Natural Gas Company : 
+   
+ None. 
+   
+ Nytis Exploration Company LLC : 
+   
+ None. 
+   
+ Nytis Exploration (USA) Inc. : 
+   
+ None. 
+   
+ [Remainder of Page Intentionally Left Blank] 
+   
+ 
+ Schedule 4 - Page 1 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ Schedule 5 
+ 
+Subject to Confidential Treatment Status 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ [Remainder of Page Intentionally Left Blank] 
+   
+ 
+ Schedule 5 - Page 1 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ Schedule   6 
+   
+ 
+ Commercial Tort Claims  
+ (Schedule Effective Date: October 3, 2016) 
+   
+ Carbon Natural Gas Company : 
+   
+ None. 
+   
+ Nytis Exploration Company LLC : 
+   
+ None. 
+   
+ Nytis Exploration (USA) Inc. : 
+   
+ None. 
+   
+ [Remainder of Page Intentionally Left Blank] 
+   
+ 
+ Schedule 6 - Page 1 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ Schedule   7 
+   
+ Equity Interests 
+   
+ (Schedule Effective Date: October 3, 2016) 
+   
+ Carbon Natural Gas Company: 
+   
+ 
+ Issuer Name:   Nytis Exploration (USA) Inc. Jurisdiction of Organization:   Delaware Entity Type:   Corporation Equity Interests of issuer owned by Debtor:   100 shares of common stock Percentage of the issued and outstanding Equity Interests of issuer owned by Debtor:   100% Authorized Capital Stock:   
+ 101,000 
+ 100,000 shares of common; 
+ 1,000 shares of preferred 
+ Issued Capital Stock:   100 shares of common stock Outstanding Capital Stock:   100 shares of common stock Certificates representing Equity Interest of issuer:   No. 24 Constituent Documents of issuer  provide that Equity Interest of issuer is a security:     N/A 
+   
+   
+ Issuer Name:   Crawford County Gas Gathering Company, LLC Jurisdiction of Organization:   Indiana Entity Type:   Limited liability company Equity Interests of issuer owned by Debtor:   Membership interest Percentage of the issued and outstanding Equity Interests of issuer owned by Debtor:   50% Authorized Capital Stock:   N/A Issued Capital Stock:   N/A Outstanding Capital Stock:   N/A Certificates representing Equity Interest of issuer:   N/A Constituent Documents of issuer  provide that Equity Interest of issuer is a security:     N/A 
+   
+ 
+ Schedule 7 - Page 1 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+                                                                                         Subject to Confidential Treatment Status                                               
+   
+ 
+ Schedule 7 - Page 2 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ Nytis Exploration Company LLC: 
+   
+ 
+ Issuer Name:   Various Partnerships (see chart below) 
+   
+ Subject to Confidential Treatment Status 
+   
+ 
+ Issuer Name:   Brushy Gap Coal  & Gas, Inc. Jurisdiction of Organization:   Kentucky Entity Type:   Corporation Equity Interests of issuer owned by Debtor:   100 shares of common stock Percentage of the issued and outstanding Equity Interests of issuer owned by Debtor:   100% Authorized Capital Stock:   120 shares of common stock Issued Capital Stock:   100 shares of common stock Outstanding Capital Stock:   100 shares of common stock Certificates representing Equity Interest of issuer:   Not prepared Constituent Documents of issuer  provide that Equity Interest of issuer is a security:     N/A 
+   
+ 
+ Schedule 7 - Page 3 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ Nytis Exploration (USA) Inc.: 
+   
+ 
+ Issuer Name:   Nytis Exploration Company LLC Jurisdiction of Organization:   Delaware Entity Type:   Limited liability company Equity Interests of issuer owned by Debtor:   Membership Interests Percentage of the issued and outstanding Equity Interests of issuer owned by Debtor:   97.5% Authorized Capital Stock:   N/A Issued Capital Stock:   N/A Outstanding Capital Stock:   N/A Certificates representing Equity Interest of issuer:   No Constituent Documents of issuer  provide that Equity Interest of issuer is a security:     No 
+   
+ [Remainder of Page Intentionally Left Blank] 
+   
+ 
+ Schedule 7 - Page 4 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ EXHIBIT A 
+   
+ Form of Security Agreement Joinder 
+   
+ SECURITY AGREEMENT JOINDER NO. ___ 
+   
+ SECURITY AGREEMENT JOINDER NO. ___ (this " Joinder") is dated as of _______________, to the Security Agreement dated as of October 3, 2016 (such agreement, together will all amendments and restatements and Joinders, the " Security Agreement"), among the initial signatories thereto and each other Person who from time to time thereafter became a party thereto pursuant to  Section 6.15  thereof (each, individually, a " Debtor " and collectively, the " Debtors "), in favor of LEGACYTEXAS BANK, as Administrative Agent (in such capacity, " Administrative Agent "), for the benefit of each Secured Party. 
+   
+ BACKGROUND . 
+   
+Capitalized terms not otherwise defined herein have the meaning specified in the Security Agreement. The Security Agreement provides that additional parties may become Debtors under the Security Agreement by execution and delivery of this form of Joinder. Pursuant to the provisions of  Section 6.15 of the Security Agreement, the undersigned is becoming a Debtor under the Security Agreement. The undersigned desires to become a Debtor under the Security Agreement in order to induce Secured Parties to continue to make and maintain financial accommodations under the Loan Documents and Bank Product Agreements. 
+   
+ AGREEMENT . 
+   
+NOW, THEREFORE, in consideration of the premises set forth herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and in order to induce Secured Parties to continue to make and maintain financial accommodations under the Loan Documents and Bank Product Agreements, the undersigned hereby agrees with  Administrative Agent, for the benefit of Secured Parties, as follows: 
+   
+ 1.        Joinder. In accordance with the Security Agreement, the undersigned hereby becomes a Debtor under the Security Agreement with the same force and effect as if it were an original signatory thereto as a Debtor and the undersigned hereby (a) agrees to all the terms and provisions of the Security Agreement applicable to it as a Debtor thereunder and (b) represents and warrants that the representations and warranties made by it as a Debtor thereunder are true and correct on and as of the date hereof. Each reference to a "Debtor" in the Security A greement shall be deemed to include the undersigned. 
+   
+ 2.        Assignment and Grant of Security Interest. As security for the payment and performance, as the case may be, in full of the Obligations, the undersigned hereby assigns to, and pledges and grants to Administrative Agent, for it and the benefit of Secured Parties, a security interest in the entire right, title, and interest of the undersigned in and to all Collateral, whether now or hereafter existing , owned, arising or acquired. 
+   
+ 3.        Representations and Warranties. On and as of the date hereof or each Schedule Effective Date, as appropriate, the undersigned makes each representation and warranty set forth in  Article III  of the Security Agreement. 
+   
+ 4.        Notices . All communications and notices hereunder shall be in writing and given as provided in  Section 6.11  of the Security Agreement. 
+   
+ 
+ EXHIBIT A - Form of Security Agreement Joinder - Page  1 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 5.        Governing Law . This Joinder and any claims, controversy, dispute or cause of action (whether in contract or tort or otherwise) based upon, arising out of or relating to this Joinder and the transactions contemplated hereby and thereby shall be governed by, and construed in accordance with, the law of the State of Texas (without reference to applicable rules of conflicts o f laws). 
+   
+ 6.        Full Force of Security Agreement. Except as expressly supplemented hereby, the Security Agreement remains in full force and effect in accordance with its terms. 
+   
+ 7.        Schedules .  Schedules 1  through  7  to the Security Agreement shall be supplemented by the addition of  Schedules 1  through  7  attached hereto as to the undersigned. 
+   
+ 8.        Severability. Any provision of this Joinder held by a court of competent jurisdiction to be invalid or unenforceable shall not impair or invalidate the remainder of this Joinder and the effect  thereof shall be confined to the provision held to be invalid or illegal. 
+   
+ 9.        Counterparts. This Joinder may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Joinder shall become effective when it shall have been executed by Administrative Agent and when Administrative Agent shall have received counterparts hereof that, when taken together, bear the signatures of each of the other parties hereto. Delivery of an executed counterpart of a signature page of this Joinder by facsimile or other electronic imaging means (e.g. "pdf" or "tif") shall be effective as delivery of a manually executed counterpart of this Joinder. 
+   
+ 10.        Loan Document. This Joinder is a Loan Document for all purposes and each reference in any Loan Document to the Security Agreement shall mean the Security Agreement as supplemented by this Joind er. 
+   
+ 11.        ENTIRE AGREEMENT. THIS JOINDER AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL  AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. 
+   
+ [Remainder of Page Intentionally Left Blank; Signature Pages Follow] 
+   
+ 
+ EXHIBIT A - Form of Security Agreement Joinder - Page  2 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ IN WITNESS WHEREOF, the undersigned has caused this Joinder to be duly executed and delivered by its officer thereunto duly authorized as of the date first above written. 
+   
+ 
+             By:     Name:     Title:   
+   
+ 
+ EXHIBIT A - Form of Security Agreement Joinder - Signature Page 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   ACCEPTED BY:         LEGACYTEXAS BANK,   as Administrative Agent         By:                   Name:     Title:   
+   
+   
+ 
+ EXHIBIT A - Form of Security Agreement Joinder - Signature Page 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 

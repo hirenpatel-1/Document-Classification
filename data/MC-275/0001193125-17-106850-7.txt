@@ -1,0 +1,528 @@
+ htm 166728 Material contracts 10 2017-03-31T16:32:29.94804-05:00 Filing 0001193125-17-106850 2017-03-31 10-K Annual  & Quarterly Reports 0001605997 Northern Power Systems Corp. NRTHF ORD SHS (CANADA) OTC 3511 Steam, Gas  & Hydraulic Turbines No VERMONT BRITISH COLUMBIA, CANADA Non-US false Small Reporting Company 000-55184 EX-10.19 Exhibit Exhibit 7 d348161dex1019.htm EX-10.19 7 d348161dex1019.htm EX-10.19 
+ Exhibit 10.19 
+ ASSET PURCHASE AGREEMENT 
+ This Asset Purchase Agreement (this " Agreement ") is entered into as of October 26, 2016 (" Effective Date"), by and between: (i) WEG Electric Corp., a corporation incorporated and existing under the laws of the State of Georgia. U.S.A., with its principal office at 6655 Sugarloaf Parkway, Duluth, GA 30097, U.S.A. ("WEC"); (ii) WEG Equipamentos Eletricos S.A., a company incorporated and existing under the laws of Brazil, with its principal office at Av. Prefeito  Waldemar Grubba, 3000. Jaragua do Sul, SC,  89256-900.  Brazil (" WEG"), and (iii) Northern Power Systems, Inc., a company incorporated and existing under the laws of the State of Delaware, U.S.A., with its principal office at 29 Pitman Road, Barre,  Vermont 05641, U.S.A. (" NPS "), WEC and WEG are referred herein collectively as the " WEG Group ", and WEG, WEC and NPS are referred to herein collcctively as the " Parties " and individually as a " Party ." 
+WHEREAS, NPS is a wind turbine manufacturer and has developed, among other things, utility scale wind turbines, related technology and intellectual property used in connection with  the manufacture, use and sale of wind turbines with a rated capacity of greater than 1.5MW (" Utility-Scale Wind Turbines "); 
+WHEREAS, WEG is a manufacturer, among other things, of motors, drives, transformers, generators (including generators for wind turbines) and wind turbines; 
+WHEREAS, WEC is the branch of WEG in the United States that explores and exploits the business of motors, drives, transformers, generators and wind turbines; 
+ WHEREAS, WEG and NPS (as  successor-by-merger  to Northern Power Systems Utility Scale, Inc.) entered into that certain Technological  Know-How  Transfer Agreement for NPS 2.X, dated March 20, 2013 (the " 2.X Agreement"), pursuant to which, among other things, NPS provided certain services to WEG and granted WEG a royalty-bearing license to certain intellectual property of NPS useful in connecti on with 2.1, 2.2 and 2.3 MW wind turbines; 
+WHEREA S, WEG and NPS subsequently entered into that certain Turbine Design and Development Agreement for 3.3 MW, dated February 28, 2014 (the " 3.X Agreement"), pursuant to which, among other things, NPS agreed to undertake the design and development of a 3.3 MW turbine and WEG agreed to manufacture and market such 3.3 MW turbines; and 
+WHEREAS, NPS now wishes to sell, transfer and assign to WEC, and WEC desires to purchase, accept and assume from NPS, certain assets used in connection with the Utility-Scale Wind  Turbines, subject to the terms and conditions of this Agreement. 
+NOW, THEREFORE, in consideration of the representations, warranties, covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which each Party acknowledges, the Parties, intending to be legally bound, hereby agree as follows: 
+ 
+ 
+ ARTICLE I 
+ DEFINITIONS AND INTERPRETATIONS 
+ Section 1.1  Definitions. As used in this Agreement, the following terms shall have the meanings set forth or as referenced below: 
+ " 2.X Agreement " has the meaning described in the recitals to this Agreement. 
+ " 2.X Agreement Addendum " has the meaning described in Section 5.5. 
+ " 2.X Platform" means the 2.1 MW turbine currently in production by WEG and any variation thereof with a rated power from 1.8MW to 2.8MW, including, without limitation, the associated tower, bla de and accessory packages. 
+ " 2.X Territory Royalty " has the meaning described in Schedule 5. 
+ " 2.X Royalty Payments " means those payments described in Section 5.3. 
+ " 2.X Royalty Payment Term" means the term that begins at the Trigger Point and ends on the earlier of: (i) the date that WEG Group pays NPS Ten Million One Hundred Thousand Dollars ($10,100,000), comprisin g the Purchase Price and 2.X Royalty Payments; and (ii) September 20, 2020. 
+ " 2.X Territories " means South America. 
+ " 2.X Turbine " means any Utility-Scale Wind Turbine based on the 2.X Platform. 
+ " 3.X Agreement " has the meaning described in the recitals to this Agreement. 
+ " Abandoned Utility Wind IP " has the meaning described in Section 16.2. 
+ " Affiliate" with respect to either Party or entity means any person or company which, directly or indirectly, (a) Controls such Party or entity, (b) is Controlled by such Party or entity, or (c) is Controlled by the same person, who, directly or indirectly. Controls such Party or entity; "Controlling", "Controlled by" or "Control" with respect to any person or company, shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such person or company whether through the owne rship of voting securities, by agreement or otherwise or the power to elect more than  one-half of the directors, partners or other individuals exercising similar authority with respect to such person or company. 
+ " Agreement " has the meaning describe in the preamble to this Agreement. 
+ " Ancillary Agreements " means those agreements set forth in Article X (Ancillary Agreements). 
+ " Assumed Contracts " had the meaning described in Section 2.1(d). 
+ " Assumed Liabilities " has the meaning described in Section 3.1. 
+   
+ 2 
+ 
+ 
+ " Bankruptcy Code " has the meaning described in Section 6.4. 
+ " Biannual Meeting " has the meaning described in Section 9.2. 
+ " Business Days" means any day other than a Saturday or a Sunday that the banks are open for business in Brazil and the U.S.A. 
+ " Claim " means a claim under Section 12.1 or 12.2. 
+ " Code " has the meaning described in Section 5.6. 
+ " Commercialization Efforts " has the meaning described in Section 8.1. 
+ " Commercialization Notice " has the meaning described in Section 8.4(a). 
+ " Commercialization Target " has the meaning described in Section 8.2. 
+ " Confidential Information " has the meaning described in Section 15.1. 
+ " Controls Patents " means those patents set forth on  Schedule 1.1(a)  attached hereto. 
+ " Disclosing Party "  has the meaning described in Section 15.1. 
+ " Dispute " has the meaning described in Section 18.2(a). 
+ " Effective Date " has the meaning described in the preamble to this Agreement. 
+ " Effective Date Payment " has the meaning described in Section 5.2(a). 
+ " Event of Default " has the meaning described in Section 14.1. 
+ " Event of Default Notice " has the meaning described in Section 14.2. 
+ " Excluded Assets " has the meaning described in Section 2.2. 
+ " Excluded Liabilities " has the meaning described in Section 3.2. 
+ " Existing Licensees " means all NPS customers and licensees listed in  Schedule 1.1(b) . 
+ " Existing Licenses" means all Intellectual Property license agreements between NPS and Existing Licensees in effect as of the Effective Date. 
+ " FCPA " has the meaning described in Section 19.2. 
+ " Feedback " has the meaning described in Section 15.5. 
+ " Forecast " has the meaning described in Section 9.3. 
+   
+ 3 
+ 
+ 
+ " Good Industry Practice" means the practices, methods, techniques, designs, standards, skills, diligence, efficiency, reliability and prudence which are generally and reasonably considered  state-of-the-art by a reasonably skilled, prudent and experienced person engaged in the same type of undertaking as envisaged under this Agreement. 
+ " ICC " has the meaning described in Section 18.2(b). 
+ " Indemnitee " means a NPS Indemnitee or a WEG Indemnitee, as the case may be. 
+ " Indemnifying Party " has the meaning described in Section 12.3(a). 
+ " INPI " means the  Instituto Nacional da Propriedade Industrial , with main address at Rua Sao Bento, n. 1, CEP  20090-010.  Centro, Rio de Janeiro/RJ, Brazil. 
+ " Intellectual Property" means all industrial and intellectual property rights of every kind and nature however denominated, throughout the world, whether now existing or which come into existence in the future including: (i) patents, copyrights, designs, proprietary and confidential information, trade secrets,  know-how, database rights, moral rights, and all other intellectual property rights in software; (ii) trademarks, trade names, service marks and all other source identifiers or indicia of o rigin; and (iii) any and all registrations, applications,  common-law  rights, and statutory rights with respect to any of the foregoing. 
+ " ITAR " has the meaning described in Section 19.2. 
+ "Joint Venture Commercialization Agreement " has the meaning described in Section 8.3. 
+ " Knowledge of NPS" means the actual knowledge of Jonathan A. Lynch. Kelly Mack and Troy Patton after due inquiry of their direct reports. 
+ " Law" means all laws, statutes, rules, regulations, orders, ordinances, protocols, codes, guidelines, policies, notices, directions, judgments, decrees or other requirements or official directive of any governmental authority or person acting under the authority of any governmental authority and/or of any statutory authority having jurisdiction over NPS, the WEG  Group, or the Utility Wind Assets or the rights granted to the Parties hereunder. 
+ " Level One 2.X Turbine " has the meaning described in  Schedule 5 . 
+ " Level Two 2.X Turbine " has the meaning described in  Schedule  5. 
+ " Level One Rest of World Royalty " has the meaning described in  Schedule  5. 
+ "Level Two Rest of World Royalty " has the meaning described in  Sechedule 5 . 
+ " Liabilities" mean any and all debts, liabilities, claims, demands, expenses, commitments and obligations of any kind, whether fixed, contingent or absolute, matured or unmatured, liquidated or unliquidated, accrued or not accrued, asserted or not asserted, known or unknown, determined, determinable or otherwise, whenever or however arising (including, whether arising o ut of any contract or tort based on negligence or strict liability). 
+   
+ 4 
+ 
+ 
+ " Licensed Processes" means all processes for making or using products except Utility-Scale Wind Turbines. In the event a process has application in making or using a Utility-Scale Wind Turbine but also has application with respect to other products, such process shall be considered a Licensed Process (in which case, the license granted by WEC pursuant to Section 6.1 with respe ct such process shall be  non-exclusive). 
+ " Licensed Products " means all products except the Utility-Scale Wind Turbines. 
+ " Master Services Agreement " has the meaning described in Section 9.5. 
+ " Monthly Payments " has the meaning described in Section 5.2(b). 
+ " NPE" means a third-party, other than an Affiliate of NPS, that acquires patent rights solely for purposes of enforcing patent rights, and not for making, having made, using, selling o r importing any products or processes or licensing others to do any of the foregoing. 
+ " NPS " has the meaning described in the preamble to this Agreement. 
+ " NPS 100 Agreement " has the meaning described in Section 17.2(c). 
+ " NPS 100 Turbine " has the meaning described in Section 17.2(c). 
+ " NPS Commercialization Territory " has the meaning described in Section 8.4(a). 
+ " NPS Indemnitees " has the meaning described in Section 12.2. 
+ " Other IP" means all Intellectual Property of NPS, other than Utility Wind Patents, covering the Supporting Materials identified in Section 2.1(c). 
+ " Parties " and " Party " have the meanings described in the preamble to this Agreement. 
+ " Patent Assignment " has the meaning described in Section 4.2. 
+ " Purchase Price " has the meaning described in Section 5.2. 
+ " Program Manager " has the meaning described in Section 9.1. 
+ " Quarterly Report " has the meaning described in Section 7.1. 
+ " Receiving Party " has the meaning described in Section 15.1. 
+ " Request " has the meaning described in Section 18.2(a). 
+ " Request to Negotiate " has the meaning described in Section 8.3. 
+   
+ 5 
+ 
+ 
+ " Required Disclosure " has the meaning described in Section 19.1. 
+ " Rest of World " means all territories worldwide other than the 2.X Territories. 
+ " Rest of World Royalty Payments " means those payments described in Section 5.4. 
+ " Rest of World Royalty Payment Term" means the term that begins at the Trigger Point and ends on the earlier of: (i) the date that WEG pays NPS a total, aggregate amount of Rest of World Royalty Payments (plus payments for 2.X Turbines shipped into the Rest of the World prior to the Trigger Point, if any) equal to Seventeen Million Five Hundred Thousand Dollars ($17,500,000) and (ii) the date  that is the seventh (7 th ) anniversary of the date the first Rest of World Royalty Payment is received by NPS. 
+ " Royalty Payments " has the meaning described in Section 7.1. 
+ " Royalty Payment Term" means the period beginning at the Trigger Point and expiring on the later of: (i) the expiration of the 2.X Royalty Payment Term; and (ii) the expiration of the Rest of World Roy alty Payment Term. 
+ " Schedule 17.1(a) Employees " has the meaning described in Section 17.1(b). 
+ " Sublease Agreemen t" has the meaning described in Section 9.4. 
+ " Supporting Materials " has the meaning described in Section 2.1(c). 
+ " Transferred Employees " has the meaning described in Section 17.1(b). 
+ " Trigger Point" means the point at which, on or after the Effective Date, that NPS has been paid for the number of 2.X Turbines described in Schedule 5 (excluding units shipped due to warranty o r replacement causes and returned units). 
+ " Utility-Scale Wind Turbines " has the meaning described in the recitals to this Agreement. 
+ " Utility Wind Assets " has the meaning described in Section 2.1. 
+ " Utility Wind IP " means the Utility Wind Patents and the Other IP. 
+ " Utility Wind Patents " means those patents and patent applications set forth on  Schedule 1.1(c)  attached hereto. 
+ " WEC Transfer of Assets " has the meaning described in Section 2.3(a). 
+ " WEG " has the meaning described in the preamble to this Agreement. 
+ " WEG Benefit Plans " has the meaning described in Section 17.1(c). 
+ " WEG Group " has the meaning described in the preamble to this Agreement. 
+   
+ 6 
+ 
+ 
+ " WEG Indemnitees " has the meaning described in Section 12.1. 
+ " WEG Parties " or " WEG Party " have the meanings described in Section 2.3(b). 
+ Section 1.2  Interpretation . In the interpretation of this Agreement, the following rules shall apply: 
+(a) The singular includes the plural and vice versa. A reference to any gender includes all genders. 
+(b) A reference to any document, agreement, deed or other instrument (including, without limitation, references to this Agreement) includes the same as amended, supplemented, restated, novated or replaced, from time to time, and shall include all appendices, annexes or other documents incorporated by reference therein. 
+(c) A reference to any Law, includes any amendment, modification, reenactment or change in interpretation or applicability of such law. 
+(d) The words 'include' and 'including' are to be construed without limitation. The terms 'herein', 'hereof' 'hereto', 'hereunder' and words of similar purport refer to this Agreem ent as a whole. 
+(e) Any rule of interpretation which would require that an agreement be interpreted against the person or Party drafting it shall have no application in the case of this Agreement. 
+ (f) The terms "U.S. dollars" and "$" shall mean lawful currency of the United States of America. 
+(g) The headings contained in this Agreement are for convenience of reference only and shall not be considered in interpreting or construing this Agreement. 
+ ARTICLE II 
+ PURCHASE AND SALE OF UTILITY WIND ASSETS 
+ Section 2.1  Utility Wind Assets. Subject to the terms and conditions set forth in this Agreement, NPS hereby sells, conveys, transfers, assigns and delivers to WEC, and WEC hereby acquires and take assignment of  all of NPS's right, title and interest in and to the following assets (collectively, the  "Utility Wind Assets "): 
+ (a)  Intellectual Property . All Utility Wind IP including, without limitation, the Utility Wind Patents; 
+ (b)  Equipment. The hardware, tooling, and other equipment relating to the Utility Scale Wind Turbines set forth on  Schedule 2.1(b) , and the general use equipment that WEC shall purchase from NPS as described in  Schedule 2.1(b)  and Section 5.6; 
+   
+ 7 
+ 
+ 
+ (c)  Supporting Materials. All drawings, designs, specifications, software used exclusively by NPS in connection with NPS's 2.X and 3.X wind turbine platforms as of the Effective Date set forth in  Schedule 2.1(c)  (the  "Supporting Materials" ); 
+ (d)  Assumed Contracts. All third-party contract rights and continuing obligations relating to Utility Wind Assets as of the Effective Date set forth on  Schedule 2.1(d)  (the " Assumed Contracts' '); 
+ and 
+ (e)  Goodwill . All goodwill in or arising from the Utility Wind Assets. 
+ Section 2.2  Excluded Assets. The Utility Wind Assets are the sole assets to be conveyed to WEC hereunder, and all other tangible and intangible assets of NPS are excluded from this sale (the " Excluded Assets "). 
+ Section 2.3  Assignment of Utility Wind Assets . 
+(a) Except for granting limited licenses to third parties pursuant to Section 2.3(b) below, during the Royalty Payment Term and except as otherwise permitted under Section 19.10 of this Agreement, WEC shall not sell, convey, transfer or assign to any third party (other than an Affiliate) any right, title or interest in or to the Utility Wind Assets including, without limitation, the Utility Wind IP. After the Royalty Payment Term has ended, WEC shall have full rights to sell, convey, assign, deliver, delegate, license,  sub-license or otherwise grant or provide any third party any right, title or interest in or to the Utility Wind Assets including, without limitation, the Utility Wind IP (collectively, a " WEC Transfer of Assets "). 
+ (b) Notwithstanding Section 2.3(a), during the Royalty Payment Term, WEC may grant  non-exclusive licenses to the Utility Wind IP to any (i) customer or (ii) other party (without the right to sublicense, assign or further transfer such license rights) in WEG Group's supply and/or manufacturing chain for Utility-Scale Wind Turbines for the sole and exclusive purpose of assisting WEG Group with supplying and/or manufacturing Utility-Scale Wind Turbines; provided, however, that (x) such licensees shall be bound by the terms and conditions of this Agreement (including the confidentiality and diligence provisions), (y) WEG Group shall remain liable for all of the terms and conditions of this Agreement and for any breach by the licensee of these terms, and (z) all such licenses shall be in writing. WEG Group and  any such licensee shall be referred to individually herein as a " WEG Party " and collectively as the " WEG Parties ". 
+ ARTICLE III 
+ ASSUMED LIABILITIES; EXCLUDED LIABILITIES 
+ Section 3.1  Liabilities to be Assumed at Closing. Subject to all other terms and conditions of this Agreement, WEC shall assume, and from and after the Effective Date, WEC shall perform, discharge and pay as and when due the fol lowing liabilities (the " Assumed   Liabilities ") and no other Liabilities: 
+   
+ 8 
+ 
+ 
+ (a)  Assumed Contracts. All of NPS's Liabilities under each of the Assumed Contracts arising on or after the Effective Date, but only to the extent such Liabilities do not relate to or arise out of any failure to perform where such duty existed, improper performance, warranty claim of which NPS had been notified, or other breach, default or violation by NPS prior to the Effective  Date; 
+ (b)  Operating Liabilities. All Liabilities with respect to the operation or ownership by WEC of the Utility Wind Assets arising on or after the Effective Date that are not Excluded Liabilities; and 
+ (c)  Other Assumed Liabilities . All other Liabilities of NPS that are specifically enumerated as Assumed Liabilities on  Schedule 3.1(d)  attached hereto. 
+ Section 3.2  Excluded Liabilities. Notwithstanding anything in this Agreement to the contrary. WEC and/or WEG shall not assume and shall be deemed to have not assumed, any Liabilities of, incurred by or on behalf  of, NPS other than the Assumed Liabilities (all such other Liabilities being the " Excluded Liabilities"). The Excluded Liabilities shall remain the sole responsibility of and shall be retained, paid, performed and discharged solely by NPS as and when due. The Excluded Liabilities i nclude, without limitation, the following: 
+ (a)  Assumed Contracts. All of NPS's Liabilities under each of the Assumed Contracts arising prior to the Effective Date, including to the extent such Liabilities relate to any failure to perform where such duty existed, improper performance, warranty claim of which NPS had been notified or other breach, default or violation by NPS prior to the Effective Date; 
+ (b)  Excluded Assets . All Liabilities of NPS relating to the Excluded Assets; 
+ (c)  Employment Matters . All Liabilities relating to the employment of any employee of NPS prior to the Effective Date; 
+ (d)  Operating Liabilities. All Liabilities with respect to the operation or ownership of the Utility Wind Assets arising prior to the Effective Date that are not Assumed Liabilities; and 
+ (e)  Other Excluded Liabilities . All other Liabilities of NPS that are specifically enumerated as Excluded Liabilities on  Schedule 3.2(e)  attached hereto. 
+ ARTICLE IV 
+ ASSIGNMENT 
+ Section 4.1  IP Assignment. Subject to the licenses granted by WEC to NPS under this Agreement, NPS hereby sells, transfers and assigns to WEC: (a) all right, title and interest in and to the Utility Wind IP that NPS has as of the Effective Date; and (b) any and all rights and privileges arising under applicable law with respect to NPS's use of the Utility Wind IP; and (c) all income, fees, royalties, damages, claims and payments now or hereafter due and payable thereunder and with respect thereto including the right to sue for injunctive relief and collect damages for infringement of any of the Utility Wind IP, including, but not limited to, any damages for past or present infringement. 
+   
+ 9 
+ 
+ 
+ Section 4.2  Delivery of Executed Assignments. To evidence the assignment of the Utility Wind Patents, NPS will execute and deliver to WEC on the Effective Date a confirmatory patent assignment document for the Utility Wind P atents in substantially the form as that set forth in  Exhibit A  hereto (the " Patent Assignment"). If there is any inconsistency between such Patent Assignment and the terms and conditions of this Agreement, the terms and conditions of this Agreement will prevail. 
+ Section 4.3  Responsibility for Actions and Costs. Except as expressly set forth in this Agreement, WEC shall be solely responsible for all actions and all costs whatsoever, including but not limited to taxes, attorneys' fees and patent office fees, associated with (i) the perfection of WEC's right, title, and interest in and to each of the Utility Wind Assets and recordation thereof, (ii) any actions before any intellectual property office pending or initiated after the Effective Date pertaining to the Utility Wind IP, including but not limited to any inter-partes reviews, post-grant reviews, reissues and reexaminations of the Utility Wind Patents, and (iii) any assertion, litigation, or other action taken with respect to enforcing or defending the Utility W ind IP. 
+ ARTICLE V 
+ CONSIDERATION 
+ Section 5.1  Consideration. In consideration for the sale and transfer of the Utility Wind Assets to WEC hereunder, (i) WEC shall grant NPS the licenses set forth in this Agreement including, without limitation. Article VI below, (ii) WEC shall pay NPS the Purchase Price described in Section 5.2 below, (iii) upon full payment of the Purchase Price, after the Trigger Point, the WEG Group shall commence payment of the 2.X Royalty Payments as described in Section 5.3 below; and (iv) the WEG Group shall pay NPS the Rest of World Royalty Payments described in Section 5.4 below, each of which shall be due and payable to NPS in accordance with the terms and conditions of this Agreement. 
+ Section 5.2  Purchase Price. WEC shall pay NPS Five Million, Three Hundred Thousand Dollars ($5,300,000) as a purchase price for the Utility Wind Assets (the " Purchase Price "), which shall be due and payable to NPS as a combination of the following: 
+ (a) One Million Dollars ($1,000,000) shall be due and payable to NPS on the Effective Date (the  "Effective Date Payment" ). 
+(b) Commencing in January 2017, WEC shall make quarterly payments to NPS per 2.X Turbine shipped in the previous quarter as set forth in  Schedule 5 until amounts paid to NPS under clauses (a), (b) and (c) of this Section 5.2 equal in the aggregate the Purchase Price; provided, however, that once NPS has been paid $4,525,000 under this Section 5.2, WEC shall not be required to make quarterly payments until the amounts payable after the Effective Date for 2.X Turbines actually shipped would exceed $4,525 ,000. 
+   
+ 10 
+ 
+ 
+(c) Notwithstanding amounts otherwise payable under clause (b) of this Section 5.2, WEC shall be required to pay to NPS monthly amounts of at least $250,000 under this Section 5.2, commencing in November 2016 and continuing each month thereafter until amounts paid under clauses (a), (b) and (c) of this Section 5.2 equal or exceed in the aggregate Three Milli on Dollars ($3,000,000) (the "Monthly Payments"). 
+The amounts payable under this Section 5.2 are shown in Schedule 5.2 for the scenario anticipated by the Parties. Adjustments to the values on such schedule shall be made depending on the actual quarterly payments required to be made by WEC to NPS under clause (b) of this Section 5.2. 
+ Section 5.3  2.X Royalty Payments. Upon the commencement of and for the duration of the 2.X Royalty Payment Term, the following royalty payments shall be due and payable to NPS for shipments in the 2.X Territories : 
+(a) The WEG Group shall pay, or caused to be paid to, NPS a 2.X Territory Royalty per 2.X Turbine shipped after the Trigger Point by a WEG Party into the 2.X Territories (excluding  units shipped due to warranty or replacement causes and returned units). 
+(b) For purposes of calculating 2.X Royalty Payments, a 2.X Turbine shall be considered to have been shipped upon Ex Works shipment of the nacelle from the facilities of a WEG Party. Also included in the 2.X Royalty Payments shall be a 2.X Territory Royalty per any unshipped 2.X Turbine for which the original date of shipment included in the WEG Group sales agreement, purchase order, or other sales document for the relevant 2.X Turbine was prior to the expiration of the 2.X Royalty Payment Term. 
+ Section 5.4  Rest of World Royalty Payments. For the duration of the Rest of World Royalty Payment Term, the following royalty payments shall be due and payable to NPS for shipments in the Rest of World: 
+(a) The WEG Group shall pay, or cause to be paid to, NPS a Level One Rest of World Royalty per 2.X Turbine on the Level One 2.X Turbines shipped by a WEG Party after the Trigger Point into the Rest of World (excluding units shipped due to warranty or replacement causes and returned units). 
+(b) The WEG Group shall pay, or cause to be paid to, NPS a Level Two Rest of World Royalty per 2.X Turbine on the Level Two 2.X Turbines shipped by a WEG Party into the Rest of Wor ld (excluding units shipped due to warranty or replacement causes and returned units). 
+(c) For purposes of calculating Rest of World Royalty Payments, a 2.X Turbine shall be considered to have been shipped upon Ex Works shipment of the nacelle from the facilities of  a WEG Party. 
+ Section 5.5  Addendum to 2.X Agreement. Solely for the purpose of memorializing the Royalty Payments due hereunder, the Parties will sign an addendum to the 2.X Agreement in the form of  Exhibit   B  (the " 2X Agreement Addendum") pursuant to which WEG will make the Royalty Payments to NPS and NPS will be otherwise released from responsibilities under the 2.X Agreement. WEC will join such agreement and wi ll be  co-responsible  for the payment of the 2.X Royalty Payments owed by WEG under the 2.X Agreement Addendum. 
+   
+ 11 
+ 
+ 
+ Section 5.6  Purchase of Additional Assets. WEC shall purchase the Additional Equipment listed on Schedule 2.1(b) for payment of Thirty-Three Thousand Eight Hundred Dollars ($33,800), due and payable on the Effective Date. 
+ Seetion 5.7  Purchase Price Allocation. NPS and the WEG Group shall allocate the Purchase Price among the Utility Wind Assets in accordance with the provision of Section 1060 of the Internal Revenue Code of 1986, as am ended (the " Code"), and the Treasury regulations thereunder. Any adjustment to the Purchase Price pursuant to the terms of this Agreement shall be allocated in accordance with Section 1060 of the  Code and the Treasury regulations thereunder. 
+ ARTICLE VI 
+ LICENSE 
+ Section 6.1  License Grant for Licensed Products. WEC hereby grants NPS, and NPS hereby accepts, a perpetual, exclusive, transferable, worldwide, fully  paid-up, royalty free, right and license under the Utility Wind IP to make, have made, use, offer for sale, sell and import Licensed Products, to practice Licensed Processes for any purpose, and to use, execute, copy, display, and prepare derivative works of, Licensed Products, including the right to sublicense any of the foregoing through multiple tiers. 
+ Section 6.2  License Grant for Existing Licensees . WEC hereby grants NPS, and NPS hereby accepts, a perpetual,  non-exclusive,  transferable, worldwide, fully  paid-up, royalty free, right and license under the Utility Wind IP for the limited purpose of sublicensing Existing Licensees to practice those license rights licensed by NPS in Existing Licenses, but only to the extent such license rights exist on the Effective Date, and continuing only for so long as such license rights continue pursuant to the Existing Licenses w ithout voluntary extension by NPS. 
+ Section 6.3  No Other Rights. Each Party acknowledges that the rights and licenses granted under this Article VI (License) and elsewhere in this Agreement are limited to the scope expressly granted. Accordingly, except for the rights expressly granted under this Agreement, no right, title, or interest of any nature whatsoever is granted whether by implication, estoppel, reliance, or otherwise, by either Party to the other Party. All rights with respect to Intellectual Property and other subject matter that are not specifically granted herein are reserved to the Party owning or otherwise controlling the same. For the avoidance of doubt, except as expressly stated herein, neither Party shall be limited in the exploitation and commercializat ion of their own Intellectual Property or products by the terms and conditions of this Agreement. 
+ Section 6.4  Section  365(n) Election. All rights and licenses granted to NPS under or pursuant to this Agreement are, and shall otherwise be deemed to be, for the purposes of Section 365(n) of the United States Bankr uptcy Code (the " Bankruptcy Code") and any similar Laws in other jurisdictions, rights to "intellectual property" as defined in the Code. NPS shall retain and may fully exercise all of its rights and elections under the Bankruptcy Code. The Parties further agree that, in the event of the commencement of a bankruptcy proceeding under the Bankruptcy Code by or against the WEG Group, NPS shall be entitled to retain all of its rights under this Agreement with respect to intellectual property. 
+   
+ 12 
+ 
+ 
+ ARTICLE VII 
+ PAYMENT TERMS 
+ Section 7.1  Payment Terms; Reports . Other than the Monthly Payments, which shall be due and payable to NPS on the 20 th day of the month in accordance with Section 5.2, all payments to NPS shall be made by WEG on a quarterly basis and shall include all 2.X Royalty Payments and Rest of World Royalty  Payments (collectively, the " Royalty Payments") for the applicable quarter. Such payments shall be due and payable within twenty (20) days of the end of each calendar quarter and shall be accompanied by a quarterly report listing: (i) the total number of 2.X Turbines sold by a WEG Party during the applicable quarter; (ii) the territory into which each 2.X Turbine was shipped: and (iii) the Royalty Paym ent due for each such 2.X Turbine (collectively, the " Quarterly Report"). For purposes of tracking the Trigger Point. WEG shall also provide NPS Quarterly Reports of shipments after the Effective Date and prior to the Trigger Point. 
+ Section 7.2  Payment Method; Currency. All payments under this Agreement shall be made by wire transfer in immediately available funds to an account or accounts designated by NPS. Any payments or portions thereof due under this Agreement that are not paid by the date such payments are due under this Agreement shall bear interest at a rate equal to the lesser of (i) ten percent (10%) per annum or (ii) the maximum rate permitted by applicable Law. All amounts specified in this Agreement are in U.S. dollars, and all payments by the WEG Group to NPS under this Agreement shall be made directly by WEC (in the United States) or by WEG (in Brazil) to NPS (in the United States) unless otherwise agreed to in writing by the Parties. 
+ Section 7.3  Taxes; Withholding. The Parties agree that each Party shall be liable for its own taxes, charges, VAT, withholding payment, custom duties, etc. due and payable in connection with the execution or closing of the Agreement. Any withholding taxes or like charges which the WEG Group shall be required to withhold on remittance of any payment to NPS under the prevailing tax laws shall not be deducted from the amounts to be paid to NPS to the extent the WEG Group is responsible for such levies under the preceding sentence, and the WEG Group shall be responsible for the payment of such taxes or charges or obtaining an exemption from such taxes or charges, as appropriate. The WEG Group shall promptly provide NPS with the evidence of its payment of or exemption from all taxes or charges. NPS shall not be liable for any unpaid taxes, charges, VAT, withholding payments, custom duties or other public levies of the WEG  Group. 
+ Section 7.4  Records; Audit. The WEG Group shall keep complete, true and accurate books and records for the purpose of confirming the accuracy of the Royalty Payments and the Quarterly Reports. Such books and records shall be kept for at least two (2) years following the end of the calendar quarter to which they pertain. NPS shall have the right, upon ten (10) Business Days prior written notice, during the WEG Group's normal business hours, using internal NPS personnel or a third-party firm, to examine the WEG Group's facilities, books and records for the sole purpose of verifying that the WEG Group is operating in compliance with the terms of this Agreement, including but not limited to, confirming that the WEG Group is accurately reporting the number of 2.X Turbines produced and shipped. Such inspection may include but shall not be limited to inspecting Utility-Scale Wind Turbines in production at the WEG Group's factories or installed at customer sites, and examining purchase orders, shipping documents, contracts, sublicenses or other agreements entered into by the WEG Group for the marketing, sale or manufacture of Utility-Scale Wind Turbines or any components thereof or otherwise in connection with this Agreement. In conducting such audit. NPS will use all reaso nable efforts to minimize 
+   
+ 13 
+ 
+ 
+any interference with the normal operations of the WEG Group. All information provided to NPS in the course of conducting such audit shall be deemed to be Confidential Information of the WEG Group. If any inaccuracies are discovered during such audit implying any unpaid Royalty Payments to NPS, the WEG Group shall reimburse NPS for fifty percent (50%) of the auditing costs and expenses. Additionally, if NPS determines that there is a discrepancy between the number of 2.X Turbines actually shipped and the number of 2.X Turbines reported to NPS, the WEG Group shall pay any unpaid Royalty Payments owing thereon within five (5) Business Days of such discovery plus interest, as determined in accordance with Section  7.2 above, from the date such Royalty Payment was originally due. 
+ ARTICLE VIII 
+ COMMERCIALIZATION 
+ Section 8.1  Commercialization . 
+(a) The Parties acknowledge and agree that the value NPS shall derive from this Agreement is dependent upon the WEG Group's good faith and commercially reasonable efforts to commercialize the 2.X Turbines, both in the 2.X Territories and the Rest of World, During the Royalty Payment Term, the WEG Group shall, acting in good faith, use commercially reasonable efforts to: (i) pursue the commercialization of the 2.X Turbines in the 2.X Territories and the Rest of World: (ii) develop a product and technology roadmap to maintain, support and commercialize the 2.X Turbines; and (iii) go to market with a commercial strategy for the 2.X Turbines designed to drive business growth (collectively, " Commercialization Efforts"). Such Commercialization Efforts shall include, without limitation, the WEG Group evaluating and pursuing target markets, identified at its sole discretion, taking into account t he competitive landscape, pricing, necessary  in-country resources and financing solutions and methods to best satisfy the needs of customers while maintaining the profitability goals from time to time established by the WEG Group for i ts commercialization of the 2.X Turbines. 
+(b) The WEG Group shall bear all costs and expenses incurred in connection with the Commercialization Efforts. 
+(c) NPS acknowledges and agrees that: (i) the WEG Group is not guarantying that it will be successful in its Commercialization Efforts, and (ii) the WEG Group is not representing or warranting that it will be able to achieve sales of the 2.X Turbines at levels that will permit NPS to fully receive the maximum Royally Payments contemplated hereby. 
+ Section 8.2  Milestones. In connection with Section 8.1, the WEG Group shall use commercially reasonable efforts to secure, on or prior to the third (3 rd) anniversary of the Effective Date, an aggregate of one hundred and fifty (150) orders for 2.X Turbines in the Rest of World (the " Commercialization Target "). 
+ Section 8.3  Joint Venture Negotiation. If the WEG Group (i) fails to reach the Commercialization Target prior to the third (3rd) anniversary of the Effective Date for any reason or (ii) by the eighteenth (18th) month following the Effective Date has not taken material steps to pursue commercialization in a given country, then following written notice delivered by either Party (a " Request to Negotiate "), the Parties shall use commercially reasonable efforts to negotiate 
+   
+ 14 
+ 
+ 
+a mutually acceptable agreement pursuant to which a license to the Utility Wind IP will be placed in an entity jointly owned by NPS and the WEG Group and under which license either NPS alone or NPS and the WEG Group jointly may continue to pursue the commercialization of Utility-Scale Wind Turbines, and if pursued jointly dividing equally all the expenses an d all the investment required for such commercialization (the " Joint Venture Commercialization Agreement"), provided that in the event such Joint Venture Commercialization Agreement is as a result of the WEG Group's inactivity in a given country or countries pursuant to clause (ii) above, then the Joint Venture Commercialization Agreement will be limited to that country or countries; and provided further that such Joint Venture Commercialization Agreement shall in no event extend to any country where the WEG Group has had sales of at least ten (10) Utility-Scale Wind Turbines in the twelve-month period prior to the third (3rd) anniversa ry of the Effective Date. 
+ Section 8.4  NPS Commercialization . 
+(a) If the Parties, after negotiating in good faith, fail to enter into a mutually acceptable Joint Venture Commercialization Agreement in accordance with Section 8.3 within sixty (60) days following the Request to Negotiate, then NPS may, in its sole discretion, provide the WEG Group with written notice of its intent to pursue Commercialization Efforts in the country or countries that would have been covered by a Joint Venture Commercialization Agreement separately from the WEG Group (a " Commercialization Notice"). Any country or countries identified in a Commercialization Notice provided pursuant to this Section 8.4(a) shall be referred to as an " NPS Commercialization Territory ". 
+ (b) WEC hereby grants NPS, and NPS hereby accepts, a  non-exclusive  perpetual, transferable, fully  paid-up, royalty free, right and license, effective immediately upon the WEG Group's receipt of a Commercialization Notice from NPS, in the applicable NPS Commercialization Territory, under the Utility Wind IP as it exists as of the date of the license grant (to include rights to obtain copies of all Supporting Materials as of such date), to make, have made, use, offer for sale, sell and import any products other than Licensed Products, to practice any process for any purpose, and to use, execute, copy, display, and prepare derivative works of, any such products, including the right to sublicense any of the foregoing through multiple tiers. The license granted pursuant to this Section 8.4(b) shall be  non-exclusive as to processes and products (other than Licensed Processes and Licensed Products for which NPS retains an exclusive worldwide license under Section 6.1) in the NPS Commercializat ion Territory. In the event this Section 8.4(b) license is invoked, the WEG Group shall retain the  non-exclusive right under the Utility Wind IP to continue to commercialize the 2.X Turbine in any NPS Commercialization Territory. 
+(c) NPS acknowledges and agrees that if it decides to exploit such license in any NPS Commercialization Territory. NPS is doing so at its own risk and costs, on an "AS IS, WHERE IS" BASIS AND WITHOUT ANY REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS. IMPLIED OR STATUTORY, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE  AND  NON-INFRINGEMENT. 
+   
+ 15 
+ 
+ 
+ Section 8.5  Recourse for Failure to Commercialize. NPS acknowledges and agrees that its exclusive recourse for the WEG Group's failure to use commercially reasonable efforts to pursue the commercialization of the 2.X Turbines in the 2.X Territories and in the Rest of World is the exercise by NPS of its rights as described in Section 8.3 and 8.4 above. The foregoing is not intended to relieve the WEG Group of any liability or obligation that it may otherwise have under this Agreement nor limit the rights of NPS to pursue rights or remedies for any breach of contract other than, in ea ch case, those relating to the WEG Group's Commercialization Efforts. 
+ ARTICLE IX 
+ ONGOING COLLABORATION BETWEEN THE WEG GROUP AND NPS 
+ Section 9.1  Program Managers. During the Royalty Payment Term, NPS and the WEG Group shall each appoint a program manager who shall be responsible for coordination of the Party's activities under this Agreement and who will act as a primary contact for communication between the Parties relative to this Agreement (each a " Program Manager"). The Program Managers shall make themselves available to participate in discussions and meetings, as needed, including the Biannual Meetings (defined below). Each Party shall provide the other Party the name, title and contact information of their Program Manager upon execution of this Agreement and may, upon written notice to the other Party, change the  designated Program Manager at any time. 
+ Section 9.2  Biannual Meetings. During the Royalty Payment Term, NPS and the WEG Group shall meet by telephone or in person at least twice per year (each a " Biannual Meeting"). The first Biannual Meeting shall take place within one hundred and twenty (120) days of the Effective Date. During the Biannual Meetings, the Parties shall: 
+(a) Discuss the Quarterly Reports (described in Section 7.1 above) provided by WEG for the prior two (2) calendar quarters. 
+ (b) Discuss the Forecast (defined in Section 9.3 below). 
+(c) Discuss the WEG Group's commercialization plans and efforts to commercialize the 2.X Turbines pursuant to Article VIII (Commercialization). 
+ Section 9.3  Forecasts and Commercialization Plans. At least ten (10) Business Days prior to each Biannual Meeting, the WEG Group shall provide NPS with a  non-binding, written forecast of the anticipated sales of 2.X Turbines by WEG Parties and anticipated Royalty Payments for the upcoming six (6) month period (each, a " Forecast"). Prior to the first Biannual Meeting, the WEG Group shall provide NPS with an overview of the territories and/or countries for which it plans to pursue commercialization of the 2.X Turbine and identify those territories and/or countries, if any, in which it docs not plan to pursue sales of the 2.X Turbine. Prior to the second Biannual Meeting, the WEG Group shall provide NPS with a list of those counties, among the top 20 markets for Utility-Scale Wind Turbines, in which WEG intends to pursue sales of 2.X Turbines. 
+ Section 9.4  Sublease Agreement. WEC shall sublease office space from NPS in each of current NPS's North American facilities in accordance with the terms and conditions set forth in that certain Sublease Agreeme nt attached hereto as  Exhibit C  (the " Sublease Agreement "), to be executed by the Parties on the Effective Date. 
+   
+ 16 
+ 
+ 
+ Section 9.5  Master Services Agreement. Each Party will perform specialized services for the other Party in accordance with the terms and conditions set forth in that certain Master Services Agreement attached hereto a s  Exhibit D  (the " Master Services Agreement"), to be executed by the Parties on the Effective Date. Such Master Services Agreement shall provide the overall framework and standard terms and conditions for one or more stateme nts of work that will include: 
+(a) Provision by NPS of business services, including but not limited to, networking, information technology (IT) services, SCADA monitoring, and maintenance of software licensing f or the duration of the Sublease Agreement; and 
+(b) Specialized engineering services to be provided by each Party to the other Party, as shall be determined and negotiated from time to time and set forth in one or more mutually  agreeable statements of work executed by authorized representatives of both Parties. 
+ ARTICLE X 
+ ANCILLARY AGREEMENTS 
+ Section 10.1  Deliveries by the WEG Group. On the Effective Date, the WEG Group shall deliver, or cause to be delivered to NPS (unless previously delivered) the following: 
+ (a) Payment by WEC of the Effective Date Payment 
+ (b) Payment by WEC of the Transferred Employee Reimbursement 
+ (c) Bill of Sale 
+ (d) Assignment of Patent Rights 
+ (e) Sublease Agreement 
+ (f) Master Services Agreement 
+ (g) Good Standing Certificate 
+ (h) 2.X Agreement Addendum 
+ Section 10.2  Deliveries by NPS. On the Effective Date, NPS shall deliver, or cause to be delivered to the WEG Group (unless previously delivered) the following: 
+ (a) Bill of Sale 
+ (b) Assignment of Patent Rights 
+ (c) Sublease Agreement 
+ (d) Master Services Agreement 
+ (e) Good Standing Certificate 
+ (f) 2.X Agreement Addendum 
+   
+ 17 
+ 
+ 
+ ARTICLE XI 
+ WARRANTIES 
+ Section 11.1  NPS Warranties . NPS represents and warrants to the WEG Group as follows: 
+(a) It is duly organized and validly existing under the laws of the State of Delaware, U.S., and has been in continuous existence since incorporation. 
+(b) It has full power and authority to execute, deliver and perform its obligations under this Agreement and any Ancillary Agreement to which it is a party and to carry out the tra nsactions contemplated hereby. 
+(c) It has taken all necessary corporate and other action under Law and its organizational documents to authorize the execution, delivery and performance of this Agreement and any  Ancillary Agreement to which it is a party. 
+(d) The obligations of NPS under this Agreement and any Ancillary Agreement to which it is a party are legally valid, binding and enforceable obligations against NPS in accordance  with the terms hereof. 
+(e) The execution, delivery and performance of this Agreement and any Ancillary Agreement to which it is a party will not conflict with, result in the breach of, constitute a default under or accelerate performance required by any of the terms of its organizational documents or any Law or any covenant, agreement, understanding, decree or order to which it is  a party or by which it or any of its properties or assets is bound or affected. 
+(f) NPS is not in violation or default with respect to any order, writ, injunction or any decree of any court or any legally binding order of any governmental authority which may result in any material impairment of its ability to perform its obligations and duties under this Agreement and has operated its business in accordance with all applicable Laws. 
+ (g)  Schedule 1.1(a)  contains a complete and accurate list of all Controls Patents.  Schedule 1.1(c) contains a complete and accurate list of all Utility Wind Patents. Other than as disclosed in this Agreement, no third party has any license rights in or to the Utility Wind Asset s.  Schedule 1.1(b) contains a complete and accurate list of all Existing Licensees and NPS has delivered to WEG a true, correct and complete copy of any Existing Licenses. To the Knowledge of NPS, no third party has any license rights in or to the Utility Wind Assets, except under the Existing Licenses. NPS is the owner of the Utility Wind Assets and, to the Knowledge of NPS, no third party has filed any claim with any governmental authority contesting NPS's ownership of the Utility Wind Assets and there are no pending or, to the Knowledge of NPS, thre atened assertions, litigations or other actions related to the Utility Wind Assets. 
+   
+ 18 
+ 
+ 
+(h) NPS has disclosed to the WEG Group the service history for the two Utility-Scale Wind Turbines serviced under the Heritage Stoney Corners Wind Farm 1, LLC, Service and Maintenance Agreement, dated April 15, 2014, as amended, and has provide any material information it has relating to the performance and servicing of such turbines as of the Effective Date . 
+(i) To the Knowledge of NPS, no person has asserted any claim with any governmental authority contesting the validity of the Utility Wind Patents such as (but not limited to) ex pa rte  re-examination proceedings, inter parte review proceedings, post-grant review proceedings, derivation proceedings, actions for declaratory judgment, interference proceedings or other attacks upo n the validity, title or enforceability of any Utility Wind IP. 
+(j) All Utility Wind Patents were developed with NPS's own knowledge and research, and, to the Knowledge of NPS, there was no violation of professional secrecy, counterfeiting or d eriving of intellectual property owned or developed by third parties. 
+(k) To the Knowledge of NPS as of the Effective Date, there is no design or conception problem and/or hidden defect in the 2.X Turbines, of which WEG or any of its personnel have not been made aware, that may cause any losses or create any liabilities to WEG or its customers and/or other third parties, including costs related to technical assistance and/or c orrections. 
+(l) NPS has delivered to WEG true, correct and complete copies of all Assumed Contracts, each Assumed Contract is legal, valid, binding and enforceable and in full force and effect against NPS and each other person party thereto. Neither NPS, nor to the Knowledge of NPS, any other person party thereto is in breach or default in any material respect and no event has occurred which with or without notice or lapse of time (or both) would constitute a material breach or default or permit termination, modification or acceleration thereunder. Each Assumed Contract may be assigned to WEG by NPS without consent or consent has been validly obtained. 
+ (m)  Schedule 17.1(a) contains a true, correct and complete list of all employees of NPS for which WEC has agreed to make offers of employment. None of the employees are subject to any collective barga ining, union or labor contract and all of the employees are  at-will  employees. NPS has provided WEC with true, correct and complete copies of any  non-competition, confidentiality or employment agreement covering any such employee. NPS has complied with all applicable Laws with respect to its employees, including under NPS's employee benefit plans, and there are no pending or, to the Knowledge of NPS, threatened claims against NPS or its employees or Affiliates by any of the employees listed on  Schedule 17.1(a) . 
+(n) Immediately after giving effect to the transactions contemplated hereby, NPS will be solvent and will: (i) be able to pay its debts as they become due; (ii) own property that has a fair saleable value greater than the amounts required to pay its debts (including a reasonable estimate of the amount of all contingent liabilities); and (iii) have adequate capital to carry on its businesses. No transfer of property is being made and no obligation is being incurred in connection with the transactions contemplated hereby with the intent  by NPS to hinder, delay or defraud either present or future creditors of NPS. 
+   
+ 19 
+ 
+ 
+(o) Notwithstanding anything to the contrary herein, NPS acknowledges and agrees that the WEG Group has not represented or warranted to NPS that it will be successful in its Commercialization Efforts, or that it will be able to achieve sales of the 2.X Turbines at levels that will permit NPS to receive the maximum Royalty Payments contemplated hereby. NPS acknowledges and agrees that: (i) in making its decision to enter into this Agreement and to consummate the transactions contemplated hereby, it understands the risks associated with the WEG Group's Commercialization Efforts and that it will not have any control over or right to interfere with the WEG Group's determination of how to pursue such Commercialization Efforts, and that it is within the WEG Group's sole discretion to determine what efforts are commercially reasonable pertaining to its Commercialization Efforts in any country and (ii) neither the WEG Group nor any other person has made any representation or warranty as to the WEG Group or the ownership or operation of the Utility Wind Assets after the Ef fective Date of this Agreement, except as expressly set forth in this Agreement. 
+ Section 11.2  WEG Group Warranties . Each of WEG and WEC individually represents and warrants to NPS as follows: 
+(a) WEG is duly organized and validly existing under the laws of Brazil and WEC is duly organized and validly existing under the laws of Georgia, U.S.A., and each has been in conti nuous existence since its incorporation. 
+(b) It has full power and authority to execute, deliver and perform its obligations under this Agreement and any Ancillary Agreement to which it is a party and to carry out the tra nsactions contemplated hereby. 
+(c) It has taken all necessary corporate and other action under Law and its organizational documents to authorize the execution, delivery and performance of this Agreement and any  Ancillary Agreement to which it is a party. 
+(d) The obligations of the WEG Group under this Agreement and any Ancillary Agreement to which it is a party are legally valid, binding and enforceable obligations against the WEG  Group in accordance with the terms hereof. 
+(e) The execution, delivery and performance of this Agreement and any Ancillary Agreement to which it is a party will not conflict with, result in the breach of, constitute a default under or accelerate performance required by any of the terms of its organizational documents or any Law or any covenant, agreement, understanding, decree or order to which it is  a party or by which it or any of its properties or assets is bound or affected. 
+(f) Neither WEC nor WEG are in violation or default with respect to any order, writ, injunction or any decree of any court or any legally binding order of any governmental authority which may result in any material impairment of its ability to perform its obligations and duties under this Agreement. 
+(g) Notwithstanding anything to the contrary herein, the WEG Group is aware that through the conduct of NPS's business, there are third parties that have or may have license rights  under the Utility Wind Assets pursuant to those agreements set forth on  Schedule 1.1(c) . 
+   
+ 20 
+ 
+ 
+(h) The WEG Group shall be solely responsible for the compliance with any applicable laws and regulations and any agreements relating thereto of all Utility-Scale Wind Turbines and services relating thereto sold or provided by WEG on or after the Effective Date, provided, however, that nothing herein is intended to be a limitation on the representations and  warranties made by NPS hereunder. 
+(i) The WEG Group has sufficient cash on hand or other sources of immediately available funds to enable it to make payment of the Purchase Price, the Royalty Payments, the fees and expenses associated with this Agreement and the transactions contemplated hereby, and to fully pay and perform all of its obligations following the Effective Date. 
+(j) Immediately after giving effect to the transactions contemplated hereby, both WEC and WEG will be solvent and will: (i) be able to pay its debts as they become due; (ii) own property that has a fair saleable value greater than the amounts required to pay its debts (including a reasonable estimate of the amount of all contingent liabilities); and (iii) have adequate capital to carry on its businesses. No transfer of property is being made and no obligation is being incurred in connection with the transactions contemplated hereby with the intent by WEG or WEC to hinder, delay or defraud either present or future creditors of WEG, WEC or NPS. 
+(k) The WEG Group has been provided the opportunity to conduct their own independent investigation, review and analysis of the Utility Wind Assets including access to the personnel, properties, assets, premises, books and records, and the other documents and data of NPS for such purpose. WEG and WEC acknowledge and agree that: (i) in making their decision to enter into this Agreement and to consummate the transactions contemplated hereby, they have relied solely upon their own investigation and the express representations and warranties of NPS set forth in this Agreement; and (ii) neither NPS nor any other person has made any representation or warranty as to NPS, the Utility Wind Assets or this Agreement, excep t as expressly set forth in this Agreement. 
+ Section 11.3  No Implied Warranties. EXCEPT FOR THE EXPRESS WARRANTIES PROVIDED IN SECTION 11.1, THE UTILITY WIND ASSETS ARE PROVIDED "AS IS, WHERE IS" WITHOUT ANY WARRANTY OF ANY KIND. NPS DISCLAIMS ALL OTHER WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND  NON-INFRINGEMENT. NPS DOES NOT WARRANT THE RESULTS OF USE OF THE UTILITY WIND ASSETS OR THAT THE UTILITY WIND ASSETS SHALL BE FREE FROM ERROR. WEG AND WEC DO NOT WARRANT THE RESULTS OF THE WEG GROU P'S COMMERCIALIZATION EFFORTS. 
+ ARTICLE XII 
+ INDEMNIFICATION 
+ Section 12.1  Indemnification by NPS. NPS shall indemnify, defend and hold harmless the WEG Group, its Affiliates and their respective directors, officers, employees, and agents, and their respective successors, heir s and assigns (the " WEG Indemnitees"), from and against any liability, damage, loss or expense (including reasonable attorneys' fees and expenses of litigation) 
+   
+ 21 
+ 
+ 
+actually incurred by or imposed upon such WEG Indemnitees, or any of them, in connection with any claims, suits, actions, demands or judgments, including, without limitation, personal injury and product liability matters (collectively, "Losses"), to the extent arising out of or relating to: (i) any breach by NPS of its representations or warranties set forth in this Agreement, (ii) any breach by NPS, its Affiliates, its directors, officers, employees and agents of any of the covenants and agreements required to be performed by NPS under this Agreement or any Ancillary Agreement, (iii) the Excluded Liabilities or (iv) arising out of NPS's exercise of its rights under Section 8.4 (each, a " Claim "). 
+ Section 12.2  Indemnification by WEG. The WEG Group shall indemnify, defend and hold harmless NPS, its Affiliates and their respective directors, officers, employees, and agents, and their respective successors, heir s and assigns (the " NPS Indemnitees"), from and against any liability, damage, loss or expense (including reasonable attorneys' fees and expenses of litigation) actually incurred by or imposed upon such NPS Indemnitees, or any of them, in connection with any claims, suits, actions, demands or judgments, including, without limitation, personal injury and product liability matters, to the extent arising out of or relating to: (i) the exploitation, commercialization, development or other use of the Utility Wind Assets on or after the Effective Date except with respect to the Licensed Products and the Licensed Processes, or pursuant to Section 8.4(b); (ii) any wind turbine owned, operated or maintained by the WEG Group or any Affiliate of the WEG Group; (iii) any breach by the WEG Group of its representations or warranties set forth in this Agreement; (iv) the negligence or willful misconduct of the WEG Group or any Affiliate of the WEG Group; (v) any breach by the WEG Group, its Affiliates, its directors, officers, employees and agents of any of the covenants and agreements required to be performed by the WEG Group under this Agreement or any Ancillary Agreement, or (vi) the Assumed Liabilities (each, together with the Claims described in Section 12.1, a " Claim "). 
+ Section 12.3  Indemnification Procedure . 
+ (a)  Notice. In the event any Indemnitee is seeking indemnification under this Article XII, from a Party (the " Indemnifying Party"), the other Party shall notify the Indemnifying Part of such Claim with respect to such Indemnitee as soon as reasonably practicable after the Indemnitee receives notices of the Claim. However, an Indemnitee's delay in providing or failure to provide such notice will not relieve a Party of its indemnification obligations, except (and solely to the extent)  it can demonstrate actual prejudice due to the delay or lack of notice. 
+ (b)  Defense. Upon receipt of notice under Section 12.3(a), the Indemnifying Party will have the right to either compromise or defend, at its own expense and by counsel (reasonably satisfactory to the Indemnitee), such Claim. The Indemnifying Party shall promptly (and in any event not more than twenty (20) days after receipt of the Indemnitee's original notice) notify the Indemnitee in writing of its intention either to compromise or defend such Claim. Notwithstanding the foregoing, the Indemnitee shall also have the right to employ separate coun sel at the Indemnitee's expense. 
+ (c)  Cooperation. The Indemnitee will reasonably cooperate with the Indemnifying Party and its legal representatives in the investigation and defense of any Claim. The Indemnifying Party will keep the Indemnitee informed on a reasonable and timely basis as to the status of such Claim (to the extent the Indemnitee is not participating in the defense of such Claim). 
+   
+ 22 
+ 
+ 
+ (d)  Settlement. If the Indemnifying Party assumes the defense of a Claim, no compromise or settlement of such Claim may be effected by the Indemnifying Party without the Indemnitee's written consent, unless: (i) there is no finding or admission of any violation of law or any violation of the rights of any person and no effect on any other claims that may be made against the Indemnitee; (ii) the sole relief provided is monetary damages that are paid in full by the Indemnifying Party; and (iii) the Indemnitee's rights are not adversely affected. If the Indemnifying Party does not defend a Claim, the Indemnitee shall not settle any Claim if such settlement is without the consent of the Indemnifying Party, which consent shall no t be withheld or delayed unreasonably. 
+ (e)  Right of Offset. Either Party may offset any amounts due under this Agreement or any Ancillary Agreement to the other Party (including Royalty Payments) against any amounts determined to be due it under this Article XII pursuant to the procedures described in this Section 12.3, or, in the event the amount due under this Article XII has not finally determined, may escrow an  amount reasonably necessary to satisfy any such Claim. 
+ ARTICLE XIII 
+ LIMITATION OF LIABILITY 
+ Section 13.1  Consequential Damages. EXCEPT WITH RESPECT TO BREACHES OF CONFIDENTIALITY OBLIGATIONS, WILLFUL VIOLATIONS OF THIS AGREEMENT AND INDEMNIFICATION OBLIGATIONS, IN NO EVENT SHALL EITHER PARTY OR ITS AFFILIATES BE LIABLE TO THE OTHER PARTY FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL, EXEMPLARY OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF ACTUAL OR ANTICIPATED  PROFITS, REVENUES OR PRODUCTS; LOSS BY REASON OF SHUTDOWN OR  NON-OPERATION; INCREASED EXPENSE OF OPERATION, BORROWING OR FINANCING; OR INCREASED COST OF CAPITAL, IN EACH CASE REGARDLESS OF WHETHER SUCH LIABILITY ARISES OUT OF BREACH OF CONTRACT, GUARANTEE OR WARRANTY. TORT, PRODUCT LIABILITY, INDEMNITY, CONTRIBUTION, STRICT LIABILITY OR ANY OTHER LEGAL THEORY, EVEN IF THAT PARTY HAS BEEN PLACED ON NOTICE OF THE POSSIBILITY OF SUCH  DAMAGES. 
+ ARTICLE XIV 
+ EVENT OF DEFAULT 
+ Section 14.1  Event of Default . Each of the following shall constitute an " Event of Default " under this Agreement: 
+(a) The WEG Group fails to timely pay when due any amount due to NPS under this Agreement and such failure continues for fifteen (15) Business Days from WEG's receipt of written no tice of such failure from NPS; 
+(b) The WEG Group fails to comply with Section 2.3 (Assignment of Utility Wind Assets) or Section 19.10 (Assignment); 
+   
+ 23 
+ 
+ 
+(c) The WEG Group makes an assignment for the benefit of creditors, or a receiver, trustee in bankruptcy or similar officer is appointed to take charge of any or all of the WEG Group's property or seeks protection under any bankruptcy, receivership, trust deed, creditors arrangement, composition or comparable proceeding; or such a proceeding is instituted ag ainst the WEG Group and is not dismissed within thirty (30) days; 
+(d) The WEG Group becomes insolvent, dissolves or liquidates, ceases to do business, or otherwise terminates its Utility-Scale Wind Turbine business operations; 
+(e) The WEG Group materially breaches any term or provision of this Agreement or any of the Ancillary Agreements and fails to cure such breach within thirty (30) days after receivi ng written notice of such breach from NPS. 
+ Section 14.2  Effect of Event of Default. If any Event of Default described in Section 14.1 occurs, NPS may provide the WEG Group with written notice of such Event of Default (an " Event of Default Notice ") 
+ Section 14.3  Event of Default License. In the case WEC receives an Event of Default Notice from NPS pursuant to Section 14.1(b), 14.1(c), or 14.1(d). WEC hereby grants NPS, and NPS hereby accepts, a perpetual, transfe rable, worldwide (except for Brazil), fully  paid-up, royalty free, right and license, effective immediately upon the WEG Group's receipt of an Event of Default Notice, under the Utility Wind IP to make, have made, use, offer for sale, sell and import any products. to practice any process for any purpose, and to use. execute, copy, display, and prepare derivative works of, any products, including the right to sublicense any of the foregoing through multiple tiers. The license granted pursuant to this Section 14.3 shall be exclusive as to Licensed Processes and Licensed Products, consist ent with Section 6.1, and shall be  non-exclusive  as to processes and products other than Licensed Processes and Licensed Products. 
+ Section 14.4  Existing Obligations:  Non-Exclusive  Remedy. The occurrence of an Event of Default and the exercise of the remedies set forth in this Article XIV (Event of Default) shall not release the WEG Group from any liability or obligation arising under this Agreement, nor prevent NPS from pursuing all rights and remedies it may have under this Agreement, or at law or in equity. No remedy, right or power of NPS is intended to be exclusive of any other remedy, right or power, and each and every remedy, right and power shall be cumulative and in addition to every other remedy, right and power given hereunder and under any Ancillary Agreement or now or hereafter existing at law or in equity or by statute or otherwise. 
+ ARTICLE XV 
+ CONFIDENTIAL INFORMATION 
+ Section 15.1  Confidential Information . The term " Confidential Information " shall mean all  non-public,  confidential or proprietary information disclosed by a Party (a " Disclosing Party ") to the other Party (a " Receiving Party") including without limitation all financial, business, customer, scientific, technical, economic, or engineering information including, without limitation, patterns, plans, compilations, program devices, formulas, designs, prototypes, methods, techniques, processes, procedures, programs, or codes, whether tangible or intangible, and whether or how stored,  compiled, or memorialized physically, electronically, graphically. 
+   
+ 24 
+ 
+ 
+photographically, or in writing, and all copies thereof. The terms and conditions of this Agreement shall be deemed the Confidential Information of both Parties. Notwithstanding the foregoing, the term "Confidential Information" shall not include information which: (i) was known to the Receiving Party prior to the effective date of disclosure by the Disclosing Party; provided, however, that any information which is included in the Utility Wind Assets and has been treated by NPS as confidential information shall for all purposes continue to be Confidential Information under this Agreement; (ii) either before or after the date of the disclosure to the Receiving Party, is disclosed to the Receiving Party by a third party without an obligation of confidentiality; (iii) either before or after the date of the disclosure to the Receiving Party becomes generally known to the public through no fault or omission on the part of the Receiving Party; or (iv) is independently developed by the Receiving Party without reference to or reliance upon any of the Disclosing Party's Confidential Information, provided, however, that any information which is included in the Utility Wind Assets and has been treated by NPS as confidential information shall continue  to be Confidential Information under this Agreement even if it was independently developed by NPS. 
+ Section 15.2  Treatment of Confidential Information. The Receiving Party shall treat the Confidential Information of the Disclosing Party as confidential and shall use at least the same degree of care as the Receiving Party uses to protect its own confidential information of similar importance, and in no event less than a reasonable degree of care. The Receiving Party shall use the Confidential Information of the Disclosing Party solely for the purposes authorized by this Agreement and for no other purpose. The Receiving Party shall promptly notify the Disclosing Party in writing of any unauthorized use or disclosure of any Confidential Information of the Disclosing Party of which the Receiving Party becomes aware. 
+ Section 15.3  Disclosure to Employees and Other Parties. The Receiving Party shall not disclose any Confidential Information of the Disclosing Party except to those of the Receiving Party's Affiliates, employees, directors, agents, and authorized representatives who have a need to know such Confidential Information to assist the Receiving Party in fulfilling its obligations under this Agreement (or as reasonably necessary to exercise its rights under this Agreement) and who are bound by obligations of confidentiality,  non-disclosure and restricted use that are at least as restrictive as those set forth in this Agreement. Each Party shall remain responsible for any failure by any of its Affiliates, employees, directors, agents, and authorized representatives to treat such Confidential Information as required under this Article XV (Confidential Information). Except as otherwise expressly permitted herein, neither Party shall disclose Confidential Information to any third party unless required to be disclosed by the Receiving Party to comply with applicable law, an applicable governmental rule or regulation, or any other bona fide legal process; provided that, the Receiving Party provides prior written notice of such disclosure to the Disclosing Party (to the extent feasible) and only discloses Confidential Information of the Disclosing Party to the extent necessary for such legal compliance. 
+ Section 15.4  Injunctive Relief. Each of the Parties acknowledges that any use or disclosure of Confidential Information in violation of this Agreement may cause irreparable injury to the Disclosing Party for which other remedies at law would be inadequate, and each of the Parties agrees that a Disclosing Party shall have the right to seek injunctive or other equitable relief as may be necessary or appropriate to prevent any use or disclosure of Confidential Information in violation of this Agreement and may also exercise any other rights and remedies the Disclosin g Party may have at law or in equity. 
+   
+   25   
+ 
+ 
+ Section 15.5  Feedback . The Receiving Party may from time to time provide suggestions, comments or other feedback (" Feedback") to the Disclosing Party regarding the Disclosing Party's products or services. Both Parties agree that all Feedback is and shall be given entirely voluntarily. Feedback, even if designated as confidential by the Party offering Feedback, shall not, absent a separate written agreement, create any confidentiality obligation for the receiver of the Feedback. Furthermore, except as otherwise provided in a separate subsequent written agreement between the Parties, the receiver of the Feedback shall be free to use, disclose, reproduce, license or otherwise distribute and exploit the Feedback provided to it, royalty-free, entirely without obligation or restriction of any kind. 
+ ARTICLE XVI 
+ INTELLECTUAL PROPERTY 
+ Section 16.1  First Right to Maintain Utility Wind IP. As between NPS and the WEG Group, the WEG Group shall have the first right, but not the obligation, to maintain, defend and prosecute the Utility Wind IP, including through any ex parte reexamination proceedings, inter partes review proceeding, post grant review proceeding, derivation proceeding, action for declaratory judgment, interference proceeding or other attack upon the validity, title or enforceability of any Utility Wind IP. Upon written request by the WEG Group, NPS shall provide to the WEG Group, at the WEG Group's sole cost and expense, such assistance as may be reasonably necessary to enable the WEG Group to prosecute, maintain and defend the Utility Wind IP. The WEG Group shall keep NPS advised by forwarding to NPS copies of all official correspondence (including, but not limited to, applications, office actions, responses, etc.) relating to the prosecution, maintenance and defense of Utility Wind IP, and shall provide NPS with an opportunity to comment on any proposed responses, voluntary amendments, submissions, or other actions of any kind to be  made with respect to Utility Wind IP. 
+ Section 16.2  Second Right to Maintain. If the WEG Group desires to abandon or otherwise cease to prosecute, maintain or defend any Utility Wind IP, including any Utility Wind Patents, (" Abandoned Utility Wind IP"), then the WEG Group shall provide NPS with written notice of its intention sufficiently in advance of any deadline for filing or payment of fees to permit NPS to carry out such activity, which notice shall, in any case, be provided to NPS at least sixty (60) days prior to the applicable deadline for filing or payment of fees. NPS may elect, by written notice to the WEG Group, to continue the maintenance, defense or prosecution of such Abandoned Utility Wind IP, at NPS's sole cost and expense, and NPS shall be entitled to undertake such maintenance, defense or prosecution of the Abandoned Utility Wind IP. If NPS assumes the maintenance, defense, and/or prosecution of any Abandoned Utility Wind IP, the WEG Group shall immediately assign the Abandoned Utility Wind IP to NPS. In addition, the WEG Group shall reasonably cooperate with NPS in the maintenance, defense and prosecution of any such Abandoned Utility Wind IP and shall provide NPS with such assistance as may be reasonably necessary to enable NPS to prosecute, maintain and defend the Abandoned Utility Wind  IP, in each case, at NPS's sole cost and expense. 
+   
+   26   
+ 
+ 
+ ARTICLE XVII 
+ COVENANTS 
+ Section 17.1  Employment Matters . 
+ (a)  Termination by NPS. Effective as of the Effective Date, NPS shall terminate the employment of each of the employees listed on  Schedule 17.1(a) and pay all amounts due such employees as of the Effective Date, including salaries, benefits and severance, if any, owed to such employees at the time of termination. 
+ (b)  Offers of Employment . WEC shall offer employment to all of the employees of NPS set forth on  Schedule 17.1(a)  (the " Schedule 17.1(a) Employees") for employment to be effective on the Effective Date (the employees of NPS who accept such employment and commence employment on the Effective Date, the " Transferred Employees"). WEC shall reimburse NPS, on the Effective Date, for the payroll costs and expenses incurred by NPS with respect to the Schedule 17.1(a) Employees during the period beginning on August 16, 2016 and ending on the Effective Date. NPS hereby consents to the hiring of such employees by WEC and waives, with respect to the employment by WEC of such employees, a ny claims or rights NPS may have against WEC or any such employee under any  non-competition, confidentiality or employment agreement. WEC shall be liable and hold the NPS harmless for any claims relating to the employment of any Transferred Employee arising after the Effe ctive Date. 
+ (c)  WEC Benefit Plans . With respect to any employee benefit plan maintained by WEC (collectively, the " WEC Benefit Plans") for the benefit of any Transferred Employee effective as of the Effective Date, WEC shall use commercially reasonable efforts to recognize all service of the Transferred Employee with NPS, as if such service were with the WEC, for vesting, eligibility and accrual purposes; provided, however, such service shall not be recognized to the extent that (i) such recognition would result in the duplication of benefits or (ii) such service was not recognized under the corresponding NPS employee benefit plan. 
+ Section 17.2  2.X Agreement and 3.X Agreement . 
+ (a)  3.X Agreement Termination. Effective as of the Effective Date, the 3.X Agreement shall be deemed to be terminated in its entirety, and WEG hereby releases NPS of all of its obligations thereunder. All mate rials, drawings, diagrams, intellectual property and  know-how created or prepared under the 3.X Agreement shall be transferred to WEC on the Effective Date as part of the Utility Wind IP and/or the Utility Wind Assets. 
+ (b)  2.X Agreement Addendum. Exclusively to allow WEG to make the 2.X Royalty Payments from Brazil, the Parties shall sign the 2.X Agreement Addendum. 
+ (c)  Rights to NPS 100 Turbines. WEG shall have the right to enter into an agreement with NPS under which WEG shall be granted the right to manufacture and sell the NPS 100 kW wind turbine (the " NPS 100 Turbine") in the 2.X Territory, which agreement shall be consistent with this Section 17.2(c). WEG shall provide NPS notice of its intent to exercise this right by December 31, 2016, and the Parties shall use commercially reasonable efforts to negotiate and execute, within sixty (60) days of such notice, a mutually acceptable Technological Know 
+   
+   27   
+ 
+ 
+ How Transfer Agreement for NPS 100 (a " NPS 100 Agreement") which shall define, among other things, the amount and duration of royalty payments to be made by WEG to NPS for each NPS 100 Turbine sold in the 2.X Territory. In the event WEG fails to provide notice of its intent to exercise this right, or the Parties are unable to negotiate the NPS 100 Agreement within 60 days after such notice is given, WEG shall for feit its rights to the NPS 100 Turbine under this Section 17.3(c) and the 2.X Agreement. 
+ Section 17.3  Acquisition by an NPE. If NPS is acquired by or otherwise transfers to an NPE all or any of the Controls Patents listed on Schedule 1.1(a), WEG shall have the option to obtain a  non-exclusive license from NPS relating to the Controls Patents, provided that, such license shall be: (i) limited to Controls Patents only; (ii) limited to renewable energy applications in the  areas of wind, solar, hydroelectric, biomass and geothermal; (iii) limited to Latin America and  Sub-Saharan Africa; and (iv) effective only after authorized representatives of both Parties have executed a mutually acceptable license agreement reflecting the terms and conditions set forth in this Section 17.3 and WEG has paid NPS Five Hundred Thousand Dollars ($500,000) for such license rights. 
+ Section 17.4  Insurance. The WEG Group shall maintain, during the Royalty Payment Term and for a period of five (5) years thereafter, comprehensive or commercial general liability insurance with limits of not less than One Million Dollars ($1,000,000) per occurrence and Six Million Dollars ($6,000,000) in the aggregate, consistent with Good Industry Practices covering product liability, bodily injury, broad-form property insurance and including blanket contractual coverage. Upon request, the WEG Group shall provide to NPS evidence of the required insurance. 
+ Section 17.5  Further Assurances. At any time and from time to time after the Effective Date, at the request of the other Party and without further consideration, a Party shall, at the requesting Party's expense, execute and deliver such other documents and take such actions as the other Party may reasonably request to give full effect to the provisions of this Agreement including, without limitation, to more effectively transfer, convey and assign to WEC, to confirm WEC's rights to, title in and ownership of, the Utility Wind Assets and to place WEC in actual possession and operating control thereof. The Parties acknowledge and agree that, except for the Ancillary Agreements, which have been prepared by both Parties in connection with the execution of this Agreement, the WEG Group shall be responsible for preparing and for all costs and expenses (including all attorneys' fees) associated with preparing any and all instruments of sale, transfer, conveyance and assignment necessary to more effectively transfer, convey and assign to WEC, and to confirm WEC's rights to, title in and ownership of, the Utility Wind Assets. The WEG Group shall also be responsible for all costs and expenses (including all attorneys' fees) associated with the filing or registration of any of the  foregoing. 
+ ARTICLE XVIII 
+ GOVERNING LAW; DISPUTE RESOLUTION 
+ Section 18.1  Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, U.S.A. without giving effect to the principles of conflicts of law (whether of the State of New York or any other jurisdiction) that would cause the application of laws of any jurisdiction other than those of the State of New York. The United Nations Con vention on the International Sale of Goods shall not apply to this Agreement. 
+   
+   28   
+ 
+ 
+ Section 18.2  Dispute Resolution . 
+ (a)  Amicable Settlement. Other than for equitable remedies, such as injunction, which may be pursued under Section 18.2(c) prior to the initiation of any legal action or proceeding to resolve disputes between the Parties, in the event a dispute arises between the WEG Group and NPS regarding, arising out of, relating to or in connection with this Agreement, its application, interpretation, breach, termination, validity or invalidity thereof, or other related matter, or any other matter involving the Parties or any Affiliate thereof (each of the foregoing, a  " Dispute "), upon the written request of either the WEG Group or NPS (a " Request"), the Parties shall use commercially reasonable efforts in good faith to settle the Dispute amicably. If the Dispute is not resolved within sixty (60) days after written notice o f the Dispute by one Party to the other Party, then the provisions of Section 18.2(b) shall apply. 
+ (b)  Arbitration. All Disputes that remain unresolved pursuant to Section 18.2(a) shall be submitted to the International Court of Arbitration of the International Chamber of Commerce (the " ICC") and shall be finally settled under the Rules of Arbitration of the ICC by a panel of three arbitrators. Each Party shall appoint one arbitrator, and the two arbitrators so appointed shall jointly appoint a third arbitrator. In the event of the failure by any Party to appoint an arbitrator within thirty (30) days from the date of the receipt of the notice from the other Party and/or failure by the two arbitrators appointed by the Parties to appoint the third arbitrator within a period of thirty (30) days, such arbitrator(s) shall be appointed by the ICC. The place of arbitration shall be New York, New York, U.S.A. and the language of such arbitration shall be English. Both Parties shall bear equally the cost of the arbitration, unless otherwise determined by the arbitrators. All decisions of the arbitrators shall be final and binding on both Parties and enforceable in any court of competent jurisdiction. Notwithstanding this, application may be made to any court for a judicial acceptance of the award or order of enforcement. In the event of judicial acceptance o r an order of enforcement, each Party expressly waives all rights to object thereto. 
+ (c)  Provisional Relief. In connection with any Dispute, each Party may seek and shall be entitled to receive provisional equitable relief from any court of competent jurisdiction, including without limitation provisional injunctive relief, provided that the final resolution of the Dispute shall be through the arbitral tribunal appointed in accordance with Section 18.2(b). Each of the WEG Group and NPS hereby submit to the exclusive jurisdiction of the courts located in New York, New York, U.S.A. with respect to any such claim for provisional relief, provided that NPS may elect to bring such claim for provisional relief in any court which would have jurisdiction to hear such claim. Each Party waives any objection such Party might have to the laying of venue in such courts, including but not limited to objections based on lack of personal jurisdiction, improper venue or inconvenience of the forum. 
+ (d)  Fees and Costs. In any action or proceeding to enforce rights under this Agreement, the substantially prevailing Party shall be entitled to recover reasonable costs and attorneys' fees from the  other Party. 
+   
+   29   
+ 
+ 
+ ARTICLE XIX 
+ GENERAL PROVISIONS 
+ Section 19.1  Press Releases and Communications. Neither Party shall issue a press release or make any public announcement relating to this Agreement or the transactions contemplated herein without the prior written approval of the other Party; provided however that approval shall not be withheld by the WEG Group in the event that such press release or public announcement is required under either Canadia n or U.S. securities regulations (a " Required Disclosure"). In the event of a Required Disclosure, NPS shall provide WEG the opportunity to collaborate in the drafting of the disclosure prior to its filing. 
+ Section 19.2  Compliance with Laws. The Parties shall, at all times, obtain and maintain all applicable permits, registrations and filings which are required by applicable Law to discharge its obligations hereunder, and shall comply with all Laws applicable to its obligations under this Agreement, including, without limitation, the International Traffic in Arms Regulations (" ITAR ," 22 C.F.R. Â§Â§ 120  -130),  the U.S. Foreign Corrupt Practices Act of 1977, as amended, 15 U.S.C. Â§Â§  78dd-1,  et seq. (the " FCPA"), and any similar Laws in Brazil, including without limitation such registration of this Agreement or any other agreement in connection herewith at the relevant commerce authority in Brazil, and provide, upon the other Party's request, the evidence of such approvals to the reasonable satisfaction of the other Party. Neither Party shall export,  re-export  or transfer, directly or indirectly, any software, technical knowledge or  know-how to any country for which an export license or other governmental approval is required at the time of export,  re-export or transfer without first obtaining such license or approval from the appropriate government agency or other governmental entity. Each Party shall provide the other Party with information and assistance as may be reasonably requested by such Party in connection with obtaining any such license or approval. 
+ Section 19.3  Expenses. Except as otherwise expressly provided herein, each Party shall pay all of its own fees, costs and expenses incurred in connection with the negotiation, preparation and execution of this Agreement, the performance of its obligations hereunder and the consummation of the transactions contemplated hereby including, without limitation, any fees payable to its  advisors and attorneys. 
+ Section 19.4  Notices. All notices, requests, demands or other communication required or permitted to be given under this Agreement and the provisions contained herein shall be written in English and shall be deemed to be duly sent by registered mail, postage prepaid or transmitted by facsimile transmission or internationally recognized courier to the other Party at the address  indicated below: 
+ In the case of the WEG Group, to: 
+ WEG Equipamentos Eletricos S.A. 
+ Av. Prefeito Waldemar Grubba, 3000 
+ Jaragua do Sul, SC,  89256-900 
+ Brazil 
+ Attention: Joao Paulo Gualberto da Silva 
+ E-mail:  jsilva@weg.net 
+ Facsimile: +55 47 3276-4593 
+   
+   30   
+ 
+ 
+ WEG Electric Corp. 
+ 6655 Sugarloaf Parkway 
+ Duluth, GA 30097 
+ U.S.A. 
+ Attention: Luiz Fernando Leonardo Ribeiro 
+ E-mail:  lribeiro@weg.net 
+ Facsimile: +1  678-475-2636 
+ with a copy to: 
+ WEG S.A. 
+ Av. Prefeito Waldemar Grubba, 3300 
+ Jaragua do Sul, SC,  89256-900 
+ Brazil 
+ Attention: Paulo Ubiratan Mehret da Silva 
+ E-mail:  pauloms@weg.net 
+ Facsimile: +55 47 3276-7803 
+ In the case of NPS, to: 
+ Northern Power Systems, Inc. 
+ 29 Pitman Road Barre, 
+ Vermont 05641 
+ U.S.A. 
+ Attention: Ciel R. Caldwell, President and Chief Operating Officer 
+ E-mail:  ccaldwell@northernpower.com 
+ Facsimile: +1  802-461-2997 
+ with a copy to: 
+ Northern Power Systems, Inc. 
+ 29 Pitman Road 
+ Barre, Vermont 05641 
+ U.S.A. 
+ Attention: Legal Department 
+ Facsimile: +1  802-461-2997 
+or at such other address as the Party to whom such notices, requests, demands or other communication is to be given shall have last notified the Party giving the same in the manner provided in this Section, but no such change of address shall be deemed to have been given until it is actually received by the Party sought to be charged with the knowledge of its contents. Any notice, request, demand or other communication delivered to the Party to whom it is addressed as provided in this Section 19.4 shall be deemed (unless there is evid ence that it has been received earlier) to have been given and received, if: 
+ (i) sent by registered mail or courier, upon confirmation of delivery; or 
+ (ii) sent by facsimile or  e-mail,  when confirmation of its transmission has been recorded by the sender's facsimile machine or  e-mail  account. 
+   
+   31   
+ 
+ 
+ Section 19.5  Non-Competition. During the Royalty Payment Term, NPS and its Affiliates shall not, directly or indirectly, manufacture, market, sell, import, export, develop, or design any Utility-Scale Wind Turbine except to the extent permitted by a Commercialization Notice in the applicable NPS Commercialization Territory or Joint Venture Commercialization Agreement, or provide any consulting, advisory or other type of services to third parties in connection with Utility-Scale Wind Turbines. 
+ Section 19.6  Non-Solicitation. Each Party agrees that, during the Royalty Payment Term and for a period of one (1) year following its expiration, it will not entice, solicit, hire or encourage any employee of  the other Party to leave the other Party's employ (other than the employees identified in  Schedule 17.1(a)), except that it may hire an employee of the other Party who, without individual solicitation, responds to advertisements or solicitations aimed at the general public. 
+ Section 19.7  Time of Essence. The Parties agree that time is of the essence for all deliverables under this Agreement, including but not limited to NPS's obligations to deliver the Utility Wind Assets, and th e WEG Group's commercialization obligations pursuant to Section 8.1. 
+ Section 19.8  Relationship of the Parties. Nothing in this Agreement shall be in any manner interpreted to constitute an agency or partnership for and on behalf of any other Party and the relationship between the Parties is as a principal to principal and on an arm's length basis. Except as otherwise expressly agreed to, nothing contained herein shall confer, on any Party, the authority to incur any  obligation or liability on behalf of the other Party or bind the other. 
+ Section 19.9  Severability. Any term or provision of this Agreement that is held by a court of competent jurisdiction or other authority to be invalid, void or unenforceable in any situation in any jurisdiction shall not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation or in any other jurisdiction. If the final judgment of a court of competent jurisdiction or other authority declares that any term or provision hereof is invalid, void or unenforceable, then the Parties agree that the court or authority making such determination shall have the power to reduce the scope, duration, area or applicability of the term or provision, to delete specific words or phrases, or to replace any invalid, void or unenforceable term or provision with a term or provision that is valid and enforceable and that  comes closest to expressing the intention of the invalid or unenforceable term or provision. 
+ Section 19.10  Assignment. This Agreement may not be assigned by either Party without the prior written consent of the other Party, such consent not to be unreasonably withheld or delayed, provided, however that (a) either Party may assign this Agreement in whole, without the prior consent of the other Party, to a successor in ownership of all or substantially all of its business 
+   
+   32   
+ 
+ 
+assets to which this Agreement pertains, whether by sale of assets, merger, consolidation or otherwise, and (b) either Party may assign this Agreement in whole or in part, without the prior consent of the other Party, to any one or more of its Affiliates (including, without limitation, an Affiliate formed by the amalgamation of such Party with another person or otherwise) so long as such Affiliate remains an Affiliate of such Party, provided that (i) the successor or Affiliate agrees in writing to be bound by the terms of this Agreeme nt and (ii) no such assignment shall place the  non-assigning Party in a worse financial position by virtue of such assignment (including without limitation, with respect to taxes if the assignee is subject to the laws of a jurisdiction which is different from the assigning Party). Any other purported assignments shall be void. This Agreement shall be binding upon any such permitted assignee and, subject to the restrictions on assignments herein set forth, inure to the benefit of the successors and assigns of each of the Parties hereto. 
+ Section 19.11  Amendment; Waiver. No amendments or waiver of any provision of this Agreement, nor consent to any departure by any of the Parties therefrom, shall in any event be effective unless the same shall be in writing and signed by the Parties hereto and then such waiver or consent shall be effective only in the specific instance and for the specific purpose for which it is given. No failure on the part of either Party to exercise, and no delay in exercising, any right, power or privilege hereunder shall operate as a waiver thereof or a consent thereto; nor shall any single or partial exercise of any such right, power or privilege preclude any other of further exercise thereof or the exercise of any other right, power or privilege. The remedies herein provided are cumulative and not exclusive of any remedies provided by applicable law. 
+ Section 19.12  Entire Agreement. This Agreement (which includes the Exhibits and any other attachments hereto, and any documents referred to therein) constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes and replaces in their entirety any prior understandings, agreements or representations by or between the Parties, written or oral, with respect to the subject matter hereof including, without limitation, the 2.X Agreement (except as modified by the 2.X Agreement Addendum) and the 3.X Agreement. 
+ Section 19.13  Force Majeure. Neither Party hereto shall be liable for any delay or failure in performance under this Agreement resulting directly or indirectly from any fire, flood, earthquake or similar natural disasters, labor dispute, market shortage of materials, riot, war, terrorism or any other similar causes beyond the reasonable control of such Party. 
+ Section 19.14  Third Party Beneficiaries. Nothing in this Agreement shall be construed to give any person other than the Parties to this Agreement any legal or equitable right, remedy, or claim under or with respect to t his Agreement or any provision of this Agreement. 
+ Section 19.15  Counterparts: Electronic Delivery. This Agreement may be executed in two counterparts (which may be delivered via .pdf or other facsimile format), each of which shall be deemed an original, and both of which taken  together shall constitute one agreement. 
+ Section 19.16  Language. All notices, certificates, correspondence and other communications under or in connection with this Agreement shall be in English. 
+ [Remainder of page left intentionally blank.] 
+   
+   33   
+ 
+ 
+IN WITNESS WHEREOF, the Parties hereto have executed this Asset Purchase Agreement as of the date first set forth above. 
+   
+ 
+ NORTHERN POWER SYSTEMS, INC. By:   
+ /s/ Ciel R. Caldwell 
+ Ciel R. Caldwell President and Chief Operating Officer WEG EQUIPAMENTOS ELÃ‰TRICOS S.A. By:     
+   
+ Name:   Title:   WEG ELECTRIC CORP. By:     
+   
+ Name:   Title:   
+ 
+ 
+ 
+ EXHIBIT A 
+ PATENT ASSIGNMENT 
+ 
+ 
+ EXHIBIT B 
+ 2.X AGREEMENT ADDENDUM 
+ 
+ 
+ EXHIBIT C 
+ SUBLEASE AGREEMENT 
+ 
+ 
+ EXHIBIT D 
+ MASTER SERVICE AGREEMENT 

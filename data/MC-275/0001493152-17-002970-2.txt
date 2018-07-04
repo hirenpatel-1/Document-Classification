@@ -1,0 +1,109 @@
+ htm 29894 Material contracts 10 2017-03-29T15:32:34.198892-05:00 Filing 0001493152-17-002970 2017-03-29 10-K Annual  & Quarterly Reports 0000891417 PEN INC. PENC COM OTC 8731 Commercial Physical  & Biological Research FLORIDA DELAWARE DELAWARE Applied Nanotech Holdings, Inc;NANO PROPRIETARY INC;NANO PROPRIETARY  INC false 001-11602 EX-10.16 Exhibit Exhibit 2 ex10-16.htm EX-10.16 2 ex10-16.htm 
+   
+ 
+ FIRST AMENDMENT TO LOAN AND SECURITY AGREEMENT 
+   
+ THIS FIRST AMENDMENT TO LOAN AND SECURITY AGREEMENT  (" Amendment") is entered into as of May 1, 2015, but effective as of April 4, 2015 ("Effective Date"), between  NANOFILM, LTD.,  an Ohio limited liability company (" Borrower ") and  MACKINAC COMMERCIAL CREDIT, LLC , a Michigan limited liability company (together with its successors and assigns, the " Lender "). 
+   
+ RECITALS 
+   
+A. Lender and Borrower entered into a Loan and Security Agreement dated April 4, 2014 (as amended, the " Loan Agreement"). All capitalized terms not defined herein shall have the same meanings ascribed to such terms in the Loan Agreement. 
+   
+B. Lender and Borrower have agreed to modify the terms and conditions of the Loan Agreement and Borrower and Lender wish to set forth their agreement regarding the foregoing in thi s Amendment. 
+   
+ NOW, THEREFORE, in consideration of the mutual covenants, conditions, and provisions as hereinafter set forth, the parties hereto agree as follows: 
+   
+ 1.  Maturity Date. The definition of "Maturity Date" as set forth in Paragraph 2(e) of the Term Sheet to the Loan Agreement and the Revolving Credit Loan Note is hereby amended to the earlier of dem and or  April 4, 2016. 
+   
+ 2.  Equipment Borrowing Base. Section 2.A of the Revolving Credit Loan Rider #1 is hereby amended and restated in its entirety to read as follows: 
+   
+ Advances. Subject to the terms of the Agreement, Lender may, in its sole discretion and upon Borrower's request, make Advances to Borrower in an amount (hereinafter referred to as the " Gross Availability ") which is the lesser of (i) the  Maximum Loan Amount  as set forth on the Term Sheet or (ii) an amount equal to the sum of (x) the applicable  Percentage Advance Rate as set forth on the Term Sheet times the face amount (less maximum discounts, credits and allowances which may be taken by or granted to Receivable Debtors in connection therewith) of Eligible Receivables; plus (y) the lesser of (1) the Inventory Cap as set forth on the Term Sheet, or (2) the sum of (A) the applicable Percentage Advance Rate as set forth on the Term Sheet times the value of Borrower's Eligible Raw Materials (less freight and container costs) calculated at the lower of cost or market value, plus (B) the applicable Percentage Advance Rate as set forth on the Term Sheet times the value of Borrower's Eligible Finished Goods (less freight and container costs) calculated at the lower of cost or market value; plus (z) the Borrowing Base; which Advances Borrower may borrow, repay and reborrow during the term of the Agreement. All Advances and amounts payable pursuant to this Ri der shall constitute part of the Obligations. 
+   
+ For purposes of this Section 2.A, the term " Borrowing Base" means $450,000 for the period commencing May 1, 2015 and ending November 1, 2015, reducing by $7,500 as of December 1, 2015, and on the same date of each calendar month thereafte r. 
+   
+ 3.  Corporate Guaranty . Simultaneously with this Amendment, the Borrower shall cause PEN Inc., a Delaware corporation, to execute and deliver a Corporate Guaranty to Lender constituting its unconditional , unlimited guaranty of the Obligations, in form and substance satisfactory to the Lender (the " Corporate Guaranty "). In connection therewith, the following amendments shall be made to the Loan Agreement: 
+   
+(a) The definition of "Guarantor" in Section 1(o) of the Loan Agreement shall be amended and restated to read as follows: 
+   
+ " Guarantor " means the Individual Guarantor and the Corporate Guarantor. 
+   
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+   
+(b) The following definitions shall be added to Section 1 of the Loan Agreement in appropriate alphabetical sequence: 
+   
+ " Corporate Guarantor " means PEN. 
+   
+ " Individual Guarantor " means Scott E. Rickert, an individual. 
+   
+(c) Sections 8(a)(vi)b. and 8(a)(viii) shall each be amended to replace the term "Guarantor" with "Individual Guarantor". 
+   
+ 4.  Conditions to Effectiveness .  The effectiveness of this Amendment shall be subject to satisfaction of the following conditions: 
+   
+ (a)  Amendment Documents. Borrower shall have executed and delivered, or cause to be executed and delivered to Lender, this Amendment (including the acknowledgement and agreement to the amendments contained herein of the Individual Guarantor), the Corporate Guaranty, and all other documents and instruments required by Lender in connection with this Amendment. 
+   
+ (b)  Lender Expenses. Borrower shall have paid to Lender all of Lender's legal fees and expenses incurred in connection with the preparation, negotiation and closing of this Amendment. 
+   
+ 5.  Effect of Amendment.  Effect of Amendment. Except for the amendments set forth in this Amendment, the Loan Agreement and all other Loan Documents shall remain unchanged and in full force and effect. Nothing in this Amendment is intended, or shall be construed, to constitute a novation or an accord and satisfaction of any of Borrower's obligations under or in connection with the L oan Agreement or any other Loan Document. 
+   
+ 6.  Miscellaneous. 
+   
+ (a)  Entire Agreement. This Amendment, together with the Loan Agreement and other Loan Documents constitutes the entire agreement and understanding among the parties relating to the subject matter hereof, and supersedes all prior proposals, negotiations, agreements and understandings relating to such subject matter. In entering into this Amendment, Borrower acknowledges that it is relying on no statement, representation, warranty, covenant or agreement of any kind made by the  Lender  or any employee or agent of  Lender , except for the agreements of  Lender  set forth herein. 
+   
+ (b)  Binding Effect. This Amendment shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and assigns, provided that no party other than  Lender  may assign any of its rights or obligations hereunder without the prior written consent of  Lender . 
+   
+ (c)  Governing Law. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE INTERNAL LAWS OF THE STATE OF MICHIGAN APPLICABLE TO CONTRACTS MADE AND PERFORMED IN SUCH STATE. 
+   
+ (d)  Counterparts; Facsimile or Electronic Signatures. This Amendment may be executed in multiple counterparts, each of which shall be deemed to be an original and all of which when taken together shall constitute one and the same in strument. A facsimile or PDF signature shall be effective as an original signature. 
+   
+ [Signatures on following page] 
+   
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+   
+ IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed and delivered as of the date first hereinabove set forth. 
+   
+ BORROWER: 
+   
+ NANOFILM, LTD., 
+ an Ohio limited liability company 
+   
+ By: /s/ Krish Rao     Krish Rao   Title: President   
+   
+ LENDER: 
+   
+ MACKINAC COMMERCIAL CREDIT, LLC, 
+ a Michigan limited liability company 
+   
+ By: /s/ Edward P. Lewan     Edward P. Lewan   Title: President   
+   
+ ACKNOWLEDGEMENT OF GUARANTOR 
+   
+Scott E. Rickert, guarantor under that certain Validity Guaranty dated April 4, 2014 in favor of Lender (the " Validity Guaranty"), acknowledges the above Amendment and agrees that his Validity Guaranty shall continue in full force and effect. 
+   
+ GUARANTOR: 
+   
+   /s/ ScottE.Rickert   Scott E. Rickert, an individual 
+   
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+   
+ 

@@ -1,0 +1,651 @@
+ htm 156639 Material contracts 10 2017-03-23T16:31:45.346791-05:00 Filing 0001387131-17-001590 2017-03-23 10-K Annual  & Quarterly Reports 0001687999 EMR Technology Solutions, Inc. 7372 Prepackaged Software false 000-55715PURCHASE AGREEMENT BY AND AMONG THE COMPANY, EMPOWER TECHNOLOGIES, INC. AND DR. JOHN STAGL, EFFECTIVE JANUARY 1, 2017 Exhibit Exhibit 4 ex10-1.htm EX-10.1 4 ex10-1.htmPURCHASE AGREEMENT BY AND AMONG THE COMPANY, EMPOWER TECHNOLOGIES, INC. AND DR. JOHN STAGL, EFFECTIVE JANUARY 1, 2017 
+ 
+ 
+ 
+   
+ 
+ 
+ EMR Technology Solutions, Inc. - 10-K 
+ EXHIBIT 10.1 
+   
+   
+ PURCHASE AGREEMENT 
+ 
+   
+This Purchase Agreement (this "Agreement") is made effective as of January 1, 2017, by and between EMR Technology Solutions, Inc., a Nevada corporation with principal offices located at 90 Washington Valley Road, Bedminster, New Jersey 07921 (hereinafter referred to as "Buyer"), and Dr. John Stagl, an individual residing at 4730 NW 76th Rd, Gainesville, FL 32653 ("Stagl" or "Seller"), and Empower Technologies, Inc., a Nevada Corporation, whose address is 4730 NW 76th Rd, Gainesville, FL 32653 ("ETI"). 
+   
+ RECITALS 
+   
+WHEREAS, Stagl is the owner of all of the issued and outstanding capital stock of ETI (the "Capital Stock"); and 
+   
+WHEREAS, the Buyer desires to purchase, and Seller is willing to sell, all of the Capital Stock on the terms and conditions set forth in this Agreement. 
+   
+ AGREEMENT 
+   
+NOW THEREFORE, in consideration of the mutual covenants and agreements of the parties as hereinafter set forth, and for other good and valuable consideration, the receipt and suffi ciency of which are hereby acknowledged, the parties agree as follows: 
+   
+ 1.          Definitions and Index of Defined Terms 
+   
+ (a)          Capitalized Terms. Capitalized terms used in this Agreement, and not otherwise defined shall, and unless expressly stated otherwise, have the meanings specified in this  Section 1.1. The single shall include the plural, and the masculine shall include the feminine and neuter, and vice versa. 
+   
+ (b)          Index of Defined Terms. 
+   
+ (i)           " Affiliate " means, as applied to any Person, any other Person directly or indirectly controlling, controlled by, or under common control with, that Person. For purposes of this definition, "control" (including with correlative meanings, the terms "controlling", "controlled by", and "under common control with"), as applied to any Person, means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of that Person, whether through the ownership of voting securities, by contract, or otherw ise. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ (ii)          " Assets " means all of the assets of ETI as of the Closing Date, including, without limitation, the following: 
+   
+ (1)         the business of ETI as a going concern (the "Business"), the goodwill pertaining thereto, and all right, title and interest in and to the name  "ETI", "Empower Technologies" and all other fictitious names, trade names, trademarks, service marks, and logos used by Seller, and all internet websites, and internet domains owned by Seller; 
+   
+ (2)         all items of inventory owned by ETI including, without limitation, all raw materials, work-in-progress and finished products of Seller; 
+   
+ (3)         all vehicles, machinery, equipment, furniture, fixtures, computers and other office equipment, and supplies of ETI, including containers, packaging and shipping material, tools and  spare parts and other similar tangible personal property owned by Seller; 
+   
+ (4)          all Intellectual Property Rights (as defined below); 
+   
+ (5)         all books and records of ETI (including corporate and tax records) including all in-house mailing lists, other customer and supplier lists, trade correspondence, production and purchase records, promotional literature, data storage tapes and computer disks, computer software, order forms, accounts payable records (including invoices, correspondence and all r elated documents), accounts receivable ledgers, and all documents relating to uncollected invoices; 
+   
+ (6)         all contracts, agreements (including, without limitation, any confidentiality and non-disclosure agreements between ETI and its employees) and purchase and sale orders for goods and services; all corporate opportunities under discussion and related to the Business, including any documentation related thereto; 
+   
+ (7)         all cash, cash equivalent items, deposit accounts, investments, lease security, utility and other deposits and trade receivables of ETI, and all advance payments, prepaid items, ri ghts to offset and credits of ETI of all kinds; 
+   
+ (8)         all tangible personal property owned by ETI which is not specifically included in, or specifically excluded by, the foregoing subsections (1) through (7); 
+   
+ (9)          all real property owned or leased by ETI, together with all fixtures attached thereto; 
+   
+ (10)       all rights under or pursuant to all warranties, representations and guarantees made by suppliers in connection with the Assets, and all claims, causes of action, rights of recovery and rights of set-off of any kind against any person or entity relating to the Assets or the Business; 
+   
+ 
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+ (11)       all right and title to any software and/or intellectual property owned and/or used by ETI in the Business, including but not limited to software and intellectual property licensed  to ETI; and 
+   
+ (12)       any and all other assets, properties and rights of ETI, including those reflected as such under Assets on the Financial Statements provided to Buyer, with such additions thereto and deletions therefrom as have occurred or shall occur in the ordinary course of business between the date of the said Financial Statements and the Closing Date. 
+   
+ (iii) " Closing "  has the meaning set forth in Section 3 of this Agreement. 
+   
+ (iv) " Closing Date "  has the meaning set forth in Section 3 of this Agreement. 
+   
+ (v) " Commitments " shall mean all agreements, indentures, mortgages, plans, policies, arrangements, and other instruments, including all amendments thereto (or, where they are verbal, written summar ies of the material terms thereof), fixed or contingent, required to be disclosed on  Schedule 5(q) . 
+   
+ (vi) " Deferred Revenue " shall refer to any liabilities that are created when monies have been received by ETI for goods and/or services not yet provided. 
+   
+ (vii) " Employee Benefit Plans "  has the meaning set forth in Section 5(y) of this Agreement. 
+   
+ (viii) "Effective Date"  shall mean January 1, 2017. 
+   
+ (ix) "Environmental Claim" shall mean any written demand, claim, governmental notice or threat of litigation, or the actual institution of any action, suit or proceeding, which asserts that an Environmental Condition constitutes a violation of any statute, ordinance, regulation, or other governmental requirement relating to the emission, discharge, or release of any Hazardous Substance into the environment or the generation, treatment, storage, transportation, or disposal of any Hazardous Substance, prior to the Closing Date, in each case in contravention of a ny applicable laws or regulations. 
+   
+ (x) "Environmental Condition" shall mean the presence on any real property, during the period from the date that such real property was first owned, leased or used by Seller to the Closing Date, in surface water, ground water, drinking water supply, land surface, subsurface strata or ambient air, of any Hazardous Substance arising out of or otherwise related to the operations or other activities of ETI, conducted or undertaken prior to the Closing Date, and in each case in contravention of any applicable laws or regulations. 
+   
+ 
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+ (xi) "Equipment"  has the meaning set forth in Section 5(o) of this Agreement. 
+   
+ (xii) "EBITDA" shall mean ETI's combined annualized earnings before interest, income taxes, depreciation, and amortization for the period specified by the paragraph in which such term is used. 
+   
+ (xiii) "Financial Statements"  has the meaning set forth in Section 5(j) of this Agreement. 
+   
+ (xiv) "GAAP" shall mean generally accepted accounting principles as used in the United States and applied on a consistent basis both as to classification of items and amounts. 
+   
+ (xv) "Hazardous Substance" shall mean any substance defined in the manner set forth in Section 101(14) of the U.S. Comprehensive Environmental Response, Compensation and Liability Act of 1980 ("CERCLA"), as amended, as applicable on the Closing Date, and shall include any additional substances designated under Section 102(a) thereof prior to the Closing Date. 
+   
+ (xvi) "Intellectual Property Rights" means all of ETI's right, title and interest in and to the United States and foreign rights with respect to any copyrights, licenses, patents, trademarks, trademark rights, trade names, service marks, service right marks, trade secrets, shop rights, know-how, technical information (including, without limitation, all software owned, created, or lawfully utilized by ETI in connection with the Business) (including the source code of such software), techniques, discoveries, designs, proprietary rights and non-public information and registrations, reissues and extensions thereof and applications and licenses therefore, website content (whether or not active and in use), CGI scripts, HTML code, owned or used, or pro posed to be used, in the Business. 
+   
+ (xvii) "Leases"  has the meaning set forth in Section 5(n) of this Agreement. 
+   
+ (xviii) "Lien" means any security interest, mortgage, pledge, lien, claim, encumbrance or other third party claim. 
+   
+ (xix) "Net Current Assets" shall mean audited Current Assets, minus Total Liabilities, at a one point two-five to one ratio (1.25:1) of Current Assets to Total Liabilities. The cost of any audit conducted t o comply with this Agreement shall not be included in Seller's total liabilities. 
+   
+ 
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+   
+ (xx) "Net Current Asset Deviation"  has the meaning set forth in Section 4(b)(ii). 
+   
+ (xxi) "Person" shall mean a corporation, partnership, limited liability company, joint venture, trust, unincorporated organization, government or a department or agency thereof, or any other ent ity, and, where the context permits, an individual. 
+   
+ (xxii) "Personal Property Leases"  has the meaning set forth in Section 5(n) of this Agreement. 
+   
+ (xxiii) "Premises"  has the meaning set forth in Section 5(n) of this Agreement. 
+   
+ (xxiv) "Promissory Note" shall mean the $200,000 convertible promissory note to be made by Buyer and delivered to the Seller at Closing. The Promissory Note shall be in substantially the same form as Exhi bit A attached hereto and made a part hereof. 
+   
+ (xxv) "Purchase Price"  has the meaning set forth in Section 4(a) of this Agreement. 
+   
+ (xxvi) "Revenues"  shall mean the revenues derived from ETI's clients and as reflected on ETI's financial statements. 
+   
+ (xxvii) "Source Code" shall mean all source code, programming code, programing instructions, programing statements, programming text containing declarations, instructions, functions, loops, declaration s, notes, scripts, files and other statements that tell a computer program how to function. 
+   
+ 2.          Sale of Capital Stock . 
+   
+ (a)        Purchase and Sale of Capital Stock. In exchange for the consideration specified herein, including, without limitation, the payment of the Purchase Price herein, and subject to the terms and conditions of this Agreement, the Buyer agrees to purchase, acquire and assume from the Seller, and the Seller agree to sell, assign, transfer, convey and deliver to the Buyer, all right, title and intere st in and to the Capital Stock. 
+   
+ (b)        Delivery of Possession and Instruments of Transfer. At the Closing, the Seller shall deliver to the Buyer possession of all certificates representing the Capital Stock, duly endorsed in blank or accompanied by duly executed transfer powers with signatures notarized, and such other instruments of transfer reasonably requested by and satisfactory to the Buyer and its counsel for consummation of the transactions contemplated under this Agreement and as are necessary to vest in the Buyer, all right, title and interest in and to the Capital Stock, free and clear of any lien, encumbrance, security agreement, equity, option, claim, charge or restriction, other than restrictions imposed by federal or state securities laws. 
+   
+ 
+ 
+ 
+ 5   
+ 
+ 
+   
+ 
+ 
+   
+ (c)        Satisfaction of Certain Liabilities. Notwithstanding anything to the contrary contained herein, Seller acknowledge that although Buyer is acquiring all of the outstanding capital stock of Seller, Seller has agreed that, upon the Closing Date, Seller shall have no liabilities other than the liabilities set forth on the Financial Statements or arising thereafter in the ordinary course of business and are less that the Current Assets being acquired by a ratio of One Dollar and Twenty-Five Cents ($1.25) of Current Assets to each One Dollar ($1.00) of Total Liabilities (col lectively, the "Assumed Liabilities"). 
+   
+ 3.          Closing . The closing (the "Closing") of the purchase and sale provided for in this Agreement shall take place simultaneously with the execution of this Agreement. The Closing shall take pl ace at the office of Buyer's counsel on January 16, 2017 (the Closing Date"). 
+   
+ 4.          Purchase Price and Payment/Adjustments . 
+   
+ (a)         Purchase Price. The purchase price for the Capital Stock is Five Hundred Thousand Dollars ($500,000), subject to any applicable adjustments pursuant to Section 4(b) (the "Purchase Price"). The Pu rchase Price will be paid to the Seller as indicated below: 
+   
+ (i)A total of Three Hundred Thousand ($300,000) Dollars, payable by bank check(s) or wire transfer(s) of immediately available funds at the Closing to the Seller; and 
+   
+ (ii)Delivery to the Seller at Closing of the Promissory Note referred to in Section 1(b)(xxiii), said note to be in the total principal amount of Two Hundred Thousand ($200,000) Dollar s, as adjusted pursuant to paragraph (b) of this Section. 
+   
+ (iii)An Earn Out which shall be two dollars ($2.00) for each one dollar ($1.00) of audited total sales ("Total Sales") more than two hundred and twenty-five thousand dollars ($225,000), based upon the trailing twelve (12) months, for each of the two (2) years next following the Closing. This purchase price adjustment for Total Sales shall be paid through an incre ase in the Promissory Note. 
+   
+ (b)         Purchase Price Adjustments. The Purchase Price shall be subject to post-closing adjustments which, if applicable, shall be made as set forth below: 
+   
+ (i)If Seller's post-closing audit, prepared pursuant to Section 4(c)(i), determines the ratio of Current Assets to Total Liabilities to be greater than or less than 1.25:1 (the "Working Capital Adjustment"), there shall be an adjustment of One Dollar for each One Dollar variation as follows: 
+   
+The adjustment for any positive Working Capital Adjustment shall be paid to the Seller, in cash, within thirty (30) days after the completion of the audit described in 4(c) below. 
+   
+ 
+ 
+ 
+ 6   
+ 
+ 
+   
+ 
+ 
+   
+The adjustment for any negative Working Capital Adjustment shall be made by way of a corresponding reduction in the outstanding principal balance of the Promissory Note. 
+   
+ (ii)The Purchase Price will be adjusted downwards at a ratio of one dollar ($1.00) for each one dollar ($1.00) of Deferred Revenue existing as of Closing. 
+   
+ (iii)In the event of a positive Working Capital Adjustment and a Deferred Revenue adjustment, then in that event the two adjustments shall be netted. 
+   
+ (c)         Purchase Price Reconciliation. Within one hundred twenty (120) days after the Closing, the Seller and Buyer shall arrange for the preparation and completion of audited financial statements for the twelve months ended December 31, 2016 and 2015. At the same time, Seller shall provide to the Buyer statements showing any Working Capital Adjustment and/or Revenue Deviation, which statements shall disclose the manner of calculation of same. The audit shall be performed at Buyer's expense by an accounting firm acceptable to both Buyer and Seller. 
+   
+Unless the Buyer shall serve the Seller with a written objection as to the calculation of the Working Capital Adjustment and/or Revenue Deviation within ten (10) business days after receipt of the reconciliation, then the Purchase Price adjustments shall be considered effective and binding on the parties. 
+   
+In the event that Buyer serves Seller with a written objection, the Seller, Buyer and their respective accountants shall attempt in good faith to resolve such matters within thirty (30) days after receipt of such objection by Buyer, and if unable to do so, within ten (10) business days thereafter, Buyer and the Seller shall instruct their respective accountants to select a third certified public accountant (the "Independent Accounting Firm"). All three accountants shall then meet to resolve the remaining dispute concerning the Purchase Price adjustment not more than forty five (45) days after service of the written objection upon the Buyer per subparagraph (ii) above. The agreement of two of the three accountants shall be final and binding on the parties. The fees and expenses of the Independent Accounting Firm associated with resolving disputes concerning the Purchase Price adjustments shall be borne by the party against which the Independent Accounting Firm shall rule, or shall be otherwise allocated as deemed appropriate by such Independent Accounting Firm. 
+   
+ 5.           Representations and Warranties of the Seller . As an inducement for Buyer to enter into this Agreement and perform its obligations hereunder, the Seller hereby represents and warrants to the Buyer as set forth below. Each of s uch representations and warranties are correct and complete as of the date hereof. 
+   
+ (a)        Organization, Good Standing, Power, Etc. ETI is a corporation, duly organized, validly existing, and in good standing under the laws of the State of Nevada. ETI is authorized or licensed to do business as a foreign corporation and is in good standing in each jurisdiction in which the conduct of the Business requires such qualification, except where the failure to so qualify would not have a mater ial adverse effect on the Business. 
+   
+ 
+ 
+ 
+ 7   
+ 
+ 
+   
+ 
+ 
+   
+ (d)           Ownership . Stagl is the beneficial and record owner of 100% of the Capital Stock of ETI. 
+   
+ (e)          Transfer of Intellectual Property Rights. As of the Closing Date, Seller shall have caused to transfer, assign and convey to ETI, all of 's right, title, ownership, and any other interests in and to any Intellectual Prope rty used by ETI to operate the Business. 
+   
+ (c)         Options, Etc. Except as disclosed on Schedule 5(c), there are no outstanding offers, options, commitments, obligations (verbal or written), conversion rights, plans or other agreements (conditional or unconditional) of any character that provide for, require or permit the sale, purchase or issuance of any of the Capital Stock. There are currently no agreements, restrictions or encumbrances (including, without limitation, rights of first refusal, rights of first offer, proxies or voting agreements) with respect to the Capital Stock. 
+   
+ (d)        Subsidiaries, Divisions and Affiliates. ETI has no subsidiaries or divisions, and the Business has been conducted solely by ETI and not through any Affiliate, joint venture, or other entity, Person or under any other n ame. 
+   
+ (e)        Equity Investments. ETI does not own or have any rights to any equity interest, directly or indirectly, in any corporation, partnership, joint venture, firm or entity. 
+   
+ (f)        Authorization. ETI has full power and authority and has taken all action necessary to own, lease and operate the Assets, to carry on the Business and to carry out the transactions contemplated hereby. The Seller and ETI have taken all action required by law, by ETI's Articles of Incorporation, By-laws, or otherwise to be taken by them to authorize the execution and delivery of this Agreement and the consummation of the transactions contemplated hereby. This Agreement has been duly executed and delivered by the Seller and is a legal, valid and binding obligation of the Seller, enforceable against the Seller in accordance with its terms except that (i) such enforcement may be subject to bankruptcy, insolvency, reorganization, moratorium or other similar laws now or hereafter in effect relating to creditors' rights; and (ii) the remedy of specific performance and injunctive and other forms of equitable relief may be subject to equitable defenses and to the discretion of a Court before which any proceeding therefore may be brought. 
+   
+ (g)        Effect of Agreement. The performance of this Agreement by Seller and the consummation by Seller of the transactions contemplated hereby, will not, with or without the giving of notice and the lapse of time, or both, (i) violate any provision of law, statute, rule, regulation or executive order to which Seller, ETI, or the Business are subject; (ii) violate any judgment, order, writ or decree of any court applicable to Seller, ETI, or the Business; or (iii) result in the breach of or conflict with any covenant, condition or provision of, or, constitute a default under, or result in the creation or imposition of any lien, security interest, charge or encumbrance upon any of the Assets or the pursuant to any corporate charter, by-law, commitment, contract or other agreement or instrument, including any of the Commitments, to which ETI or the Seller is a party or by which any of the Assets or the Capital Stock  are or may be bound or affected or from which the Business derives benefits. 
+   
+ 
+ 
+ 
+ 8   
+ 
+ 
+   
+ 
+ 
+   
+ (h)       Restrictions. Neither ETI nor the Seller is a party to any contract, commitment or agreement, nor are any of them or the Assets or the Capital Stock subject to, or bound or affected by, any provision of the formation documents of ETI, or any order, judgment, or decree; or any law, statute, ordinance, rule, regulation or other restriction of any kind or character, which would, individually or in the aggregate, materially adversely affect the Business, the Capital Stock, or any of the Assets. 
+   
+ (i)        Governmental and Other Consents. (i) No notice to, consent, authorization or approval of, or exemption by, any governmental or public body or authority is required in connection with the execution, delivery and performance by ETI or the Seller of this Agreement or any of the instruments or agreements herein referred to, or the taking of any action herein contemplated; and (ii) no notice to, consent, authorization or approval of, any Person under any agreement, arrangement or commitment of any nature to which ETI or the Seller is a party or by which the Capital Stock or the Assets are bound or subject to, or from which ETI or the Seller receive or are entitled to receive a benefit, is required in connection with the execution, delivery and performance by ETI or the Seller of this Agreement or any of the instruments or agreements herein referred to, or the taking of any action herein contemplated, except as may be requi red by licensors, lessors or secured parties with respect to the Assets. 
+   
+ (j)        Financial Statements. The unaudited financial statements for the twelve (12) months ended December 31, 2015 and for the stub period ended on November 30, 2016 that have been provided to the Buyer (the "Financial Statements") fairly and accurately present the results of operations of ETI for the periods covered thereby in all material respects, and the financial condition of ETI as of the dates thereof, and comply with the books and records of ETI. There are no liabilities, obligations or claims of any material nature of or against the ETI (whether, threatened, accrued, contingent, absolute, unliquidated, asserted or otherwise, whether due or to become due) as of the date of the Financial Statements which were not disclosed or reflected fully on the balance sheet included in the Financial Statements, and there are no such material liabilities, obligations or claims of or against ETI, other than those disclosed or reflected in the Financial Statements and other than those incurred in the ordinary course of business since such date. Since the date of the most recent Financial Statement supplied to the Buyer, ETI has operated in the ordinary course of business, and through the date hereof, ETI has operated only in the ordinary course of business on the same basis as heretofore. Since the date of the most recent Financial Statement supplied to the Buyer, there has been no materially adverse change in the financial condition of ETI, and the S eller knows of no such pending change. 
+   
+ (k)       No Undisclosed Liabilities. As of the date of the most recent Financial Statement supplied to the Buyer, there are no material liabilities, obligations or claims of any nature of or against ETI (whether or not, threatened, accrued, contingent, absolute, unliquidated, asserted or otherwise, whether due or to become due) which were not disclosed or reflected fully on the said Financial Statement ("Undisclosed Liabilities"). As of the date hereof, ETI has no material liabilities of any nature other than those disclosed in the Financial Statements or which arose s ince such date in the ordinary course of business consistent with past practice. 
+   
+ 
+ 
+ 
+ 9   
+ 
+ 
+   
+ 
+ 
+   
+ (l)         Absence of Certain Changes or Events. Since the date of the most recent Financial Statement provided to the Buyer, ETI has not: (i) suffered any material adverse change in, or the occurrence of any events which, individually or in the aggregate, has or have had, or might reasonably be expected to have, a material adverse effect on the financial condition or results of operations of ETI; (ii) incurred damage to or destruction of any material Asset or Assets individually or in the aggregate having a replacement cost in excess of Five Thousand and 00/100 Dollars ($5,000), whether or not covered by insurance; (iii) incurred any obligation or liability (fixed or contingent) not in the ordinary course of business; (iv) made or entered into contracts or commitments to make any capital expenditures in excess of Five Thousand and 00/100 Dollars ($5,000); (v) mortgaged, pledged or subjected to lien or any other encumbrance any of the Assets; (vi) sold, transferred or leased any material Asset or Assets individually or in the aggregate having a replacement cost in excess of Five Thousand and 00/100 Dollars ($5,000), or canceled or compromised any debt or material claims, except, in each case, in the ordinary course of business; (vii) sold, assigned, transferred or granted any rights und er or with respect to any licenses , agreements, patents, software, inventions, trademarks, trade names, copyrights or formulae or with respect to know-how or any other intangible asset, including, but not limited to, the Intellectual Property Rights; (viii) amended or terminated any contracts, agreements, leases or arrangements which would have a material adverse financial impact on ETI; (ix) waived or released any other rights of material value; (x) declared or paid any dividend on its capital stock, or set apart any money for distribution to or for its shareholders except as permitted under Section 5(j); (xi) redeemed any portion of its capital stock; (xii) entered into, or amended the terms of, any employment or consulting agreement that is not terminable on no more than thirty (30) days' notice without liability to ETI or the Business; (xiii) incurred any indebtedness for borrowed money or guaranteed any such indebtedness of another entity or individual, or entered into any other arrangement having the economic effect of any of the foregoing; or (xiv) entered into any transactions not in the or dinary course of business. 
+   
+ (m)        Title to Assets; Absence of Liens and Encumbrances. ETI has good title to, and owns, leases or licenses, as applicable, the Assets, free and clear of all mortgages, claims, liens, charges, encumbrances, security interests, restrictions on use or transfer, or other defects as to title, other than those disclosed in the most recent balance sheets of ETI that were included in the Financial Statements provided to the Buyer. The leases and other agreements or instruments under which ETI holds, leases, or is entitled to the use of any real or personal property included in the Assets are in full force and effect, and all rentals, royalties or other payments due and payable thereunder prior to the date hereof have been duly paid. ETI enjoys peaceful and undisturbed possession under all such leases, and the changes in ownership of the Capital Stock of ETI will not adversely affect such leases, other agreements and instruments. No notice of viola tion of any law, ordinance, rule or regulation thereunder has been received by ETI or the Seller. 
+   
+ 
+ 
+ 
+ 10   
+ 
+ 
+   
+ 
+ 
+   
+ (n)        Property. ETI does not own any real property. Schedule 5(n) contains a complete and correct list and description of all of ETI leases (whether oral or written) with respect to real property (the "Leases"), including a description of all buildings, structures, improvements (collectively, the "Premises"), and all licensing arrangements (other than "off-the-shelf" software licenses and licenses to reproduce customer marks and trade dress) and leases of personal property relating to the Business ("Personal Property Leases"), to which ETI is a party (either as lessor, lessee, licensor or licensee). ETI has heretofore furnished to the Buyer true and complete copies of all Leases and Personal Property Leases. All of such Leases, Personal Property Leases and licensing agreements are valid and effective in accordance with their respective terms and there are no existing defaults or events of default or events which, with notice or lapse of time or both, would constitute defaults or which would interfere with the enjoyment by ETI or any assignee of the benefits of such instrument or their use and enjoyment of the real or personal property. No consents are required in order to transfer any of the Leases, Personal Property Leases or licenses to the Buyer. 
+   
+All activities and operations conducted by ETI on the Premises, and all structures, improvements and fixtures of ETI on the Premises, conform to any and all applicable federal, state and local laws, ordinances and regulations, including, without limitation, zoning and building ordinances and health, environmental and safety laws, ordinances and regulations, and the Premises are zoned for the various purposes for which the Premises are currently being used. 
+   
+There is no condition resulting from the activities of the Business which would adversely affect or impair the use of the Premises for the purposes for which ETI is currently using  the same, or which could result in the imposition of liability on the Buyer or ETI. 
+   
+There are no existing, pending or threatened condemnations or violations of governmental regulations giving rise to pending or threatened governmental or administrative actions tha t will materially adversely affect or impair the use of the Premises. 
+   
+ (o)        Equipment . Set forth on  Schedule 5(o) is a correct and complete list as of the date of this Agreement of all items of equipment used in the Business having a cost basis in excess of One Thousand and 00/100 Dollars ($1,000.00) (the "Equipment"), indicating for each piece of Equipment whether it is owned or leased. Except as set forth on  Schedule 5(o) ,  none of the Equipment has been disposed of since the date of the most recent Financial Statements. 
+   
+ (p)        Insurance . On  Schedule 5(p) is set forth a correct and complete list of (i) all currently effective insurance policies and bonds covering the Assets or the Business, and their respective annual premiums (as of the last renewal or purchase of new insurance), and (ii) since the inception of the Business, (A) all accidents, casualties or damage occurring on or to the Assets or relating to the Business which resulted in claims individually in excess of Ten Thousand and 00/100 Dollars ($10,000), and (B) claims for product liability, damages, contribution or indemnification and settlements (including pending settlement negotiations) resulting therefrom which individually are in excess of Ten Thousand and 00/100 Dollars ($10,000). Except as se t forth on  Schedule 5(p), as of the date hereof, there are no disputes with underwriters of any such policies or bonds, and all premiums due and payable have been paid, subject to any audit premiums to be paid or refunded in the future. There are no pending or threatened terminations or premium increases with respect to any of such policies or bonds, and there is no condition or circumstance applicable to the Business, other than the sale of the Capital Stock pursuant to this Agreement, which may result in such termination or increase. ETI is in compliance with all material conditions contained in such policies or bonds, except for noncompliance which, individually or in the aggregate, would not have a material adverse effect on the B usiness, the Capital Stock, or the Assets. 
+   
+ 
+ 
+ 
+ 11   
+ 
+ 
+   
+ 
+ 
+   
+ (q)       Agreements, Arrangements, Etc. 
+   
+ (i) Except as set forth on  Schedule 5(q), ETI is not a party to, nor are Seller, the Assets, or the Capital Stock subject to or bound by, any: 
+   
+ (A)lease agreement (whether as lessor or lessee), where the obligation of ETI exceeds Five Thousand and 00/100 Dollars ($5,000); 
+   
+ (B)license agreement, assignment or contract (whether as licensor or licensee, assignor or assignee) relating to software (other than "off-the-shelf' licenses), trademarks, trade names, patents, or copyrights (or applications therefor), unpatented designs or processes, formulae, know-how or technical assistance, or other proprietary rights; 
+   
+ (C)employment or other contract or agreement with an employee or independent contractor which (1) may not be terminated without liability to ETI upon notice to the employee or independent contractor of not more than thirty (30) days, or (2) provides payments (contingent or otherwise) of more than Twenty Five Thousand and 00/100 Dollars ($25,000) per year (inclu ding all salary, bonuses and commissions); 
+   
+ (D)agreement, contract or order with any buying agent, supplier or other individual or entity who assists, provides or is otherwise involved in the acquisition, supplying or providing  of the Assets or other goods to the Business; 
+   
+ (E) non-competition, secrecy or confidentiality agreements; 
+   
+ (F)agreement or other arrangement for the sale of goods or services to any third party (including the government or any other governmental authority); 
+   
+ (G) agreement with any labor union; 
+   
+ (H)agreement or contract with any distributor, dealer, leasing company, sales agent or representative, other than contracts or orders for the purchase, sale or license of goods that are made in the usual and ordinary course of business at an aggregate price per contract of not more than Twenty Five Thousand and 00/100 Dollars ($25,000) and for a term of no more than six (6) months, and which agreements, in all cases, can be terminated within thirty (30) days after the Closing without payment of any premium or penalty by the Buyer; 
+   
+ 
+ 
+ 
+ 12   
+ 
+ 
+   
+ 
+ 
+   
+ (I)agreement, contract or order with any manufacturer, leasing company, supplier or customer (including those agreements which allow discounts or allowances or extended payment terms) , of more than Five Thousand and 00/100 Dollars ($5,000); 
+   
+ (J) joint venture or partnership agreement with any other person or entity; 
+   
+ (K)agreement guaranteeing, indemnifying or otherwise becoming liable for the obligations or liabilities of another; 
+   
+ (L)agreement with any banks or other Persons, for the borrowing or lending of money or payment or repayment of draws on letters of credit or currency swap or exchange agreements (other than purchase money security interests which may, under the terms of invoices from their suppliers, be granted to suppliers with respect to goods so purchased); 
+   
+ (M)agreement with any bank, finance company or similar organization which acquires from ETI any receivables or contracts for sales on credit; 
+   
+ (N)agreement granting any person a lien, security interest or mortgage on any of the Assets, including, without limitation, any factoring or other agreement for the assignment of rece ivables or inventory; 
+   
+ (O)agreement for the incurrence of any capital expenditure in excess of Five Thousand and 00/100 Dollars ($5,000); 
+   
+ (P) advertising, publication, or printing agreement; 
+   
+ (Q) agreement which restricts ETI from doing business anywhere in the world; 
+   
+ (R)agreement or statute or regulation giving any party the right to renegotiate or require a reduction in prices or the repayment of any amount previously paid; or 
+   
+ (S)other agreement or contract, not included in or expressly excluded from the terms of the foregoing clauses (A) through (R), which materially affects the Assets, the Capital Stock, or the Business, except contracts or purchase orders for the purchase or sale of goods or services made in the usual and ordinary course of business. 
+   
+ 
+ 
+ 
+ 13   
+ 
+ 
+   
+ 
+ 
+   
+ (ii) Correct and complete copies of all items, or if oral, descriptions required to be shown on  Schedule 5(q ) have been separately delivered or communicated to the Buyer prior to the date hereof, but the parties agree that these disclosures may omit non-material arrangements involving any commitment up to $5,000 unless the total of all such non-material commitments exceed $25,000 in the aggregate. 
+   
+ (iii)Each of the Commitments is valid, in full force and effect and enforceable in accordance with their terms. 
+   
+ (iv)ETI has fulfilled, or has taken all action reasonably necessary to enable ETI to fulfill when due, all of its obligations under the Commitments, except where the failure to do so would not, individually or in the aggregate, have a material adverse effect on the Business or the Assets or where no such action is yet required. Furthermore, there has not occurred any default or any event which, with the lapse of time or the election of any Person other than ETI, will become a default under any of the Commitments, except for such defaults, if any, which have not resulted and will not result in any material loss to or liability of ETI. ETI is not in arrears in any material respect with respect to the performance or satisfaction of the terms or conditions to be performed or satisfied by it under any of the Commitments, and no waiver or variance has been granted by any of the parties thereto. 
+   
+ (r)           Business Names; Patents, Trademarks, Copyrights, Etc. Neither ETI nor Seller have sold, assigned, transferred, licensed, sub-licensed or conveyed the Intellectual Property Rights, or any of them, or any interest in the Intellectual Property Rights, or any of them, to any person. ETI has the entire right, title and interest (free and clear of all security interests and liens) in and to the Intellectual Property Rights that are used in the conduct of the Business as currently being conducted; neither has the validity of such items been, nor is the validity of such items, nor is the use thereof by ETI, the subject of any pending or threatened opposition, interference, cancellation, nullification, conflict, concurrent use, litigation or other proceeding, and the conduct of the Business as currently operated, and the use of the Assets, does not and will not conflict with, or infringe, legally enforceable rights of third parties. 
+   
+ (s)           Permits, Licenses, Etc. ETI currently has all permits, licenses, registrations, memberships, orders or approvals of all governmental or administrative authorities that are required to permit ETI to carr y on the Business as currently conducted. 
+   
+ (t)           Compliance with Applicable Laws. The conduct by ETI of the Business does not violate or infringe, and there is no basis for any claims of violation or infringement of, any law, statute, ordinance, regulation or executive order (including, without limitation, the Health Insurance Portability and Accountability Act of 1996, the Occupational Safety and Health Act, and the Foreign Corrupt Practices Act, and the respective regulations thereunder, and similar applicable state laws and regulations) currently in effect, except, in each case, for violations or infringements which do not and will not, individually or in the aggregate, have a material adverse effect on the Assets, the Capital Stock, or the Business. ETI has received no notice of default, and ETI is not in default, under any governmental or administrative registration, membership or license issued to it, under any governmental or administrative order or demand directed to it, or with respect to any order, writ, injunction or decree of any court which, in any case, materially adversely affects the financial condition or results of operation s of the Business or the value of the Assets. 
+   
+ 
+ 
+ 
+ 14   
+ 
+ 
+   
+ 
+ 
+   
+ (u)           Litigation. There is no claim, action, suit, proceeding, arbitration, investigation, hearing or notice of hearing, pending or threatened, before any court or governmental, administrative or other competent authority or private arbitration tribunal against the ETI, or relating to or affecting (directly or indirectly, including by way of indemnification) the Business or the Assets, or the transactions contemplated by this Agreement; nor are any facts which could reasonably give rise to any such claim, action, suit, proceeding, arbitration, investigation or hearing, which may have any material adverse effect, individually or in the aggregate, upon the Business, the value of the Assets or the transactions contemplated by this Agreement. ETI has not waived any statute of limitations or other affirmative defense with respect to any of the aforesaid matters. There is no continuing order, injunction or decree of any court, arbitrator or governmental, administrative or other competent authority to which ETI is a party, or to which ETI, the Assets or the Business is subject. ETI, nor any current officer, director, or employee of ETI has been permanently or temporarily enjoined or barred by order, judgment or decree of any court or other tribunal or any agency or other body from engaging in or continuing any conduct or practice in connection with the Business. 
+   
+ (v)           No Interest in Competitors. No officer, director or shareholder of ETI or any Affiliate of any of the foregoing, or any Seller, directly or indirectly, owns more than a five percent (5%) interest in, or controls or is an employee, officer or director of or participant in (but only to the extent that such a participation exceeds five percent (5%)) , or consultant to, any corporation, partnership, limited partnership, joint venture, association or other entity which is a competitor or current supplier or customer of the Busine ss or has any type of business or professional relationship with the Business. 
+   
+ (w)          Customers, Suppliers, Distributors and Agents. ETI has not received any actual notice at any time prior to the Closing Date that any customer, client, distributor, supplier or any other person or entity with material business dealings with ETI, intends to or will cease to continue such relationship, or intends to or will substantially reduce the extent of such relationship, except as set forth on Sched ule 5(w). 
+   
+ (x)           Books and Records. As of the Closing Date, the books of account and other financial records of ETI are in all material respects complete, correct and up to date, with all necessary signatures, and  are in all material respects accurately reflected in the Financial Statements. 
+   
+ 
+ 
+ 
+ 15   
+ 
+ 
+   
+ 
+ 
+   
+ (y)           Employee Benefit Plans . Except as described in  Schedule 5(y), ETI does not have any hospitalization, health insurance, pension, retirement, profit sharing, stock option or similar plans (the "Employee Benefits Plans"). For each such employee pension plan, multi-employer plan or welfare plan, as those terms are defined in Section 3 of the Employee Retirement Income Security Act of 1974, as amended ("ERISA"), and for each Employee Benefit Plan with respect to which ETI is a "party in interest" as defined in Section 3 of ERISA, or a "disqualified person" as defined in Section 4975 of the Code, ETI has delivered to the Buyer complete and accurate copies, or has provided Buyer access to (i) all Employee Benefit Plans and all amendments thereto; (ii) the trust instrument or insurance contract, if any, forming a part of the plans, and all amendments thereto; (iii) the most recent and preceding year's Internal Revenue Service Form 5500 and all schedules thereto; (iv) the most recent Internal Revenue Service determination letter, or if no letter has been issued, any pending application to the Internal Revenue Service for a determination letter regarding qualified status; (v) any bond required by Section 412 of ERISA; and (vi) the summary plan description. ETI has complied in all material respects with all of the rules and regulations governing each of the Employee Benefit Plans maintained for the benefit of its employees, including, without limitation, rules and regulations promulgated pursuant to ERISA and the Internal Revenue Code, by the Department of Treasury, Department of Labor, and the Pension Benefit Plans Guaranty Corporation, and each of the Employee Benefit Plans now operated by ETI has, since its inception, been operated in accordance with its provisions and is in compliance with such rules and regulations. ETI nor any Employee Benefit Plan maintained by ETI or any fiduciaries thereof have engaged in any prohibited transaction, as that term is defined in Section 406 of ERISA or Section 4975 of the Code, nor have any of them committed any breach of fiduciary responsibility with respect to any of the Employee Benefit Plans. 
+   
+ (z)           Powers of Attorney. No person has any power of attorney to act on behalf of ETI or the Seller in connection with any of ETI's properties or business affairs, other than such powers to so act as norm ally pertain to the officers of ETI. 
+   
+ (aa)        Intentionally Deleted. 
+   
+ (bb)         Labor Disputes, Unfair Labor Practices. ETI has not engaged in any unfair labor practice which would have a material adverse effect on the Assets or the Business. There is no pending or threatened (i) unfair labor practice complaint, charge, labor dispute, strike, slowdown, walkout or work stoppage before the National Labor Relations Board or any other authority, or (ii) grievance or arbitration proceeding arising out of or under a collective bargaining agreement involving employees of the Business. There have been no strikes, labor disputes, slow-downs, walkouts, or work stoppages involving employees of the Business. ETI has not received any notice from any of its employees of such employee's intent to terminate his or her employment or to bring any action for any reason related to the transactions contemplated by this Agreement or for any other reason. 
+   
+ (cc)         Past Due Obligations. No past due obligations over One Thousand and 00/100 Dollars ($1,000) have given rise or shall give rise, within five (5) days after the Closing Date, to any additional liability  to the Buyer on account of their being past due. 
+   
+ 
+ 
+ 
+ 16   
+ 
+ 
+   
+ 
+ 
+   
+ (dd)         Environmental Matters . Except as set forth on  Schedule 5(dd), (i) ETI is in compliance with all environmental laws, regulations, permits and orders applicable to it, and with all laws, regulations, permits and orders governing or relating to asbestos removal and abatement; (ii) ETI has not transported, stored, treated or disposed, or arranged for any third parties to transport, store, treat or dispose, of any Hazardous Substances to or at any location other than a site lawfully permitted to receive such Hazardous Substances for such purposes, or performed or arranged for any method or procedure for such transportation, storage, treatment or disposal in contravention of any laws or regulations, nor has ETI disposed of, or arranged for any third parties to dispose of, Hazardous Substances upon property owned or leased by it in contravention of any applicable laws or regulations; (iii) there has not occurred, nor is there presently occurring, a release of any Hazardous Substance by ETI on, into or beneath the surface of any parcel of real property in which ETI has an ownership interest or any leasehold interest in contravention of any applicable laws or regulations; (iv) ETI has not transported or disposed of, or allowed or arranged for any third parties to transport or dispose of, any Hazardous Substance to or at a site which, pursuant to the U.S. Comprehensive Environmental Response, Compensation and Liability Act of 1980, as amended ("CERCLA"), has been placed on the National Priorities List or its Florida equivalent; (v) ETI has not received notice and has no actual knowledge of any facts which could give rise to substantive notice, that ETI is a potentially responsible party for a federal or state environmental cleanup site or for corrective action under CERCLA or notice of any other Environmental Claim; (vi) ETI has not undertaken (or been requested to undertake) any response or remedial actions or cleanup actions of any kind at the request of any federal, state or local governmental entity, or at the request of any other Person or entity; and (vii) there are no laws, regulations, ordinances, licenses, permits or orders relating to environmental matters requiring any work, repai rs, construction or capital expenditures with respect to the Assets. 
+   
+ (ee)         Tax and Other Returns and Reports . 
+   
+ (i)ETI has timely filed all Tax Returns and information returns required to be filed and has paid all Taxes due and payable in connection with the Business for all periods ending on or before the Closing Date. Adequate provision has been made in the books and records of ETI and in the Financial Statements for all Taxes, whether or not due and payable and whethe r or not disputed.  Schedule 5(ee) lists the date or dates through which any governmental entity has examined any Tax Return of ETI. All required Tax Returns or extensions, including amendments to date, have been prepared in good faith without willful misrepresentation and are complete and accurate in all material respects. Except as set forth in  Schedule 5(ee), no governmental entity has examined or is in the process of examining any Tax Returns or extensions of ETI. Except as set forth on  Schedule 5(ee), no governmental entity has proposed (tentatively or definitively), asserted or assessed or threatened to propose or assert, any deficiency, assessment, lien, or other claim for Taxes, and there is no basis for any such delinquency, assessment, lien or claim other than ordinary course adjustments related to payroll and/or experience rating adjustments. There are no agreements, waivers or other arrangements providing for an extension of time with respect to the assessment of any Taxes or deficiency against ETI or with respect to any T ax Return filed or to be filed by ETI. 
+   
+ 
+ 
+ 
+ 17   
+ 
+ 
+   
+ 
+ 
+   
+ (ii) Certain Tax Definitions. For purposes of this Agreement, the term "Taxes" means all taxes, including, without limitation, all Federal, state, local, foreign and other income, franchise, sales, use, property, payroll, withholding, environmental, alternative, or add-on minimum and other taxes, assessments, charges, duties, fees, levies or other governmental charges in the nature of a tax, and all estimated taxes, deficiency assessments, additions to tax, penalties, and interest, and any contractual or other obligation to indemnify or reimburse any person with respect to any such assessment. For purposes of this Agreement, the term "Tax Return" shall mean any report, statement, return, declaration of estimated tax or other information required to be supplied by or on behalf of ETI to a taxing authority in connection with any Taxes, or with respect to grants of tax exemption, including any consolidated, combined, unitary, joint or other return filed by any Person that properly includes the income, deductions or other tax information concerning ETI. 
+   
+ (ff)          Inventory. ETI's entire inventory consists of items of a quality that is usable, marketable or saleable in the normal course of the Business. ETI's inventory has been stated at the lower of  cost or market value in each of the Financial Statements. 
+   
+ (gg)        Purchase and Sale Obligations. All purchases, sales and orders and all other commitments for purchases, sales and orders made by or on behalf of ETI have been made in the usual and ordinary course of its busin ess in accordance with normal practices.  Schedule 5(gg) describes the nature of any uncompleted contract and/or other commitment with respect to any ETI obligation as of the Closing Date in excess of $5,000. 
+   
+ (hh)        Other Information. None of the representations and warranties contained in this Agreement (including the Schedules hereto) or any ancillary document or any certificate or instrument delivered or to be delivered by or on behalf of the ETI in connection with the transactions contemplated hereby, does or will contain any untrue statement of a material fact or omit a material fa ct that is necessary to make the information contained herein or therein not misleading. 
+   
+ (ii)          Accounts Receivable. As of the Closing, all accounts receivable of ETI arose from bona fide transactions made in the ordinary course of business and represent services rendered in the ordinary course of business. All such accounts receivable are fairly presented in the Financial Statements and are the result of arms-length transactions with third parties. 
+   
+ (jj)          Brokers and Finders. Seller agrees to indemnify and hold the Buyer harmless from any liability, loss, cost, claim, and/or demand that any broker or finder may have in connection with this transaction  as a result of actions taken by the Seller. 
+   
+ (kk)         Personnel .  Schedule 5(kk) sets forth a true and complete list of ETI's employees as of the Effective Date and payroll information for the payroll period ended November 30, 2016. 
+   
+ 
+ 
+ 
+ 18   
+ 
+ 
+   
+ 
+ 
+   
+ (ll)         Bank Accounts. Schedule 5(ll) sets forth the names and locations of all banks, trust companies, savings and loan associations and other financial institutions at which Seller maintains safe deposit boxes, lock  boxes or accounts of any nature. 
+   
+ (mm)     Documents Relating to Business. Seller and ETI have furnished or made available to the Buyer every material agreement, instrument, letter, pleading, consent, waiver, notice, note and document of whatever nature relating to the Business, and there is no other document or instrument of any kind that either Seller or ETI has failed to furnish or make available to the Buyer that would or might materially affect the truth, accuracy or completeness of the representations and warranties contained herein. No representation or warranty by the Seller or ETI in this Agreement or any Exhibit, Schedule or related agreement contains any untrue statement of a material fact, nor omits to state a material fact necessary to make the statements contained ther ein not misleading. 
+   
+ 6.          Representations and Warranties of the Buyer . 
+   
+As an inducement for the Seller and ETI to enter into this Agreement and perform its obligations hereunder, the Buyer hereby represents and warrants to the Seller and ETI as set forth below. Each of such representations and warranties are correct and complete as of the date hereof: 
+   
+ (a)         Organization, Standing and Authority. Buyer is a corporation duly incorporated, validly existing and in good standing under the laws of the State of Nevada, and is authorized to do business in the State of New Jersey. Buyer has full corporate power and authority to conduct its businesses as presently conducted, and to enter into and perform this Agreement, and to carry out the transactions cont emplated by this Agreement. 
+   
+ (b)        Compliance With Applicable Laws. The business of the Buyer has not been, and is not being, conducted in violation of any applicable law. No investigation or review by any governmental entity with respect to the Buyer is pending or threatened, nor has any governmental entity indicated an intention to conduct the same. 
+   
+ (c)         Conflicts. Neither the execution and delivery of this Agreement, nor the performance of the Buyer in consummating the transactions contemplated by this Agreement will conflict with or result in a violation or breach of, or default under, any terms or provisions of the corporate charter or bylaws of the Buyer or of any terms or provisions of any agreement or instrumen t to which the Buyer is a party or by which it is bound. 
+   
+ (i)          Brokers and Finders. Neither the Buyer, nor any of its officers, directors, or employees, has employed any broker or finder or incurred any liability for any brokerage fees, commissions or finders' fees in connection with the transactions contemplated by this Agreement. The Buyer agrees to indemnify and hold the Seller harmless from any liability, loss, cost, claim, and/or demand that any broker or finder may have in connection with this transaction as a result of actions taken by the Buyer. 
+   
+ 
+ 
+ 
+ 19   
+ 
+ 
+   
+ 
+ 
+   
+ (j)         Governmental and Other Consents. No notice to, consent, authorization or approval of, or exemption by, any governmental or public body or authority is required in connection with the execution, delivery and performance by the Buyer of this Agreement or any of the instruments or agreements herein referred to, or the taking of any action herein contemplated; and (ii) no notice to, consent, authorization or approval of, any Person under any agreement, arrangement or commitment of any nature to which the Buyer is a party or subject, is required in connection with the execution, delivery and performance by the Buyer of this Agreement or any of the instruments or agreements herein referred to, or the taking of any action herein contemplated. 
+   
+ 7.          Conditions Precedent to the Buyer's Obligation to Close . All obligations of the Buyer to close under this Agreement are subject to the fulfillment of each of the following conditions: 
+   
+(a)        The Seller shall have delivered to the Buyer the certificates representing the Capital Stock, duly executed for transfer or accompanied by duly executed powers. 
+   
+(b)       The Seller shall have entered into the Non-Competition and Non-Disclosure Agreement annexed hereto as "Exhibit B". 
+   
+ 8.          Conditions Precedent to the Seller's Obligation to Close . All obligations of the Seller to close under this Agreement are subject to the fulfillment of each of the following conditions: 
+   
+ (a)        The Buyer shall have executed and delivered to the Seller the original Promissory Note. 
+   
+(b)       The Buyer shall have tendered the Purchase Price to the Seller as required by, and in accordance with, Section 4(a) of this Agreement. 
+   
+(c)        The Buyer shall have executed and delivered to the Seller a copy of a corporate resolution authorizing and approving the consummation of the transactions contemplated by  this Agreement and the execution of all documents in connection therewith. 
+   
+ 9.          Access . 
+   
+(a)        Seller and ETI have previously given the Buyer and Buyer's counsel, accountant or other representatives full access (during normal business hours) to all properties, doc uments, contracts, books, records and other data of the Business. 
+   
+(b)        From and after the Closing, the Buyer will give to the Seller, Seller's counsel, accountants or other representatives full access (during normal business hours) to all books and records of the Seller relating to the Business with respect to the period ending on the Closing Date (and, to the extent necessary to confirm matters existing as of the Closing Date, books and records of Buyer relating to the Business with respect to the period after the Closing Date). 
+   
+ 10.       [INTENTIONALLY DELETED] 
+   
+ 
+ 
+ 
+ 20   
+ 
+ 
+   
+ 
+ 
+   
+ 11.        Further Assurances. At any time and from time to time after the Closing, at the request of any party and without further consideration, the other party will execute and deliver such other instruments of sale, transfer, conveyance, assignment and confirmation and take such action as the requesting party may reasonably deem necessary or desirable in order to more effectively sell, transfer, convey and assign the properties transferred hereunder and to effectuate the terms hereof. 
+   
+ 12.        Expenses . The Buyer and the Seller will each pay their respective counsel, accountants and other expenses incurred in connection with the negotiation and consummation of the transactions co ntemplated herein . 
+   
+ 13.        Survival of Representations and Warranties . 
+   
+(a)       All representations, covenants and warranties made by the parties under this Agreement in connection with the transactions contemplated hereby or in any Exhibit, Schedule, certificate, list or other instrument delivered pursuant hereto shall survive the Closing Date for a period of forty-eight (48) months (the "Warranty Period"). 
+   
+(b)      Notwithstanding any rights of each of the parties to fully investigate the respective affairs of the others relating to all material obligations and representations contained herein, and notwithstanding any knowledge of facts determined or determinable by the parties pursuant to such investigation, or right of investigation, the parties shall nevertheless have the right, for the time period set forth in subsection (a) above, to rely fully upon the representations, warranties, covenants and agreements contained in this Agreement and/or in any document delivered or to be delivered pursuant to this Agreement by any party, or by any party's authorized representative, in connection with the transactions contemplated by this Agreement. Each warranty, representation, agreement and covenant contained herein is independent of all warranties, representations, agreements and covenants contained herein or in any Exhibit, Schedule, certificate, list or other instrument or documents (whether or not covering identical or related subject matter) and must be independently  and separately complied with and satisfied. 
+   
+ 14.        Indemnification . 
+   
+(a)       During the Warranty Period, Seller hereby indemnifies the Buyer and agrees to hold the Buyer harmless from and against any and all monetary losses, costs and expenses (including reasonable counsel fees and expenses in connection with the contest of any claim) ("Damages") that are paid or incurred by the Buyer and arising out of (i) any and all misrepresentations or breaches of covenant or warranty made by the Seller under this Agreement in connection with the transactions contemplated herein or in any Exhibit, Schedule, certificate, list or other instrument delivered pursuant hereto (other than the Promissory Note), or (ii) any claim against Buyer or Seller arising out of or relating to the Undisclose d Liabilities. 
+   
+(b)       During the Warranty Period, the Buyer hereby indemnifies the Seller and Seller's heirs, successors and assigns, and agrees to hold the Seller and Seller's heirs, successors and assigns harmless from and against any and all Damages (including reasonable counsel fees and expenses in connection with the contest of any claim, of any nature whatsoever) that are paid or incurred by the Seller arising out of (i) any and all misrepresentations or breach of covenant or warranty made by the Buyer under this Agreement in connection with the transactions contemplated herein or in any Exhibit, Schedule, certificate, list or other instrument delivered pursuant hereto, or (ii) any claim against the Seller arising ou t of or relating to the Assumed Liabilities. 
+   
+ 
+ 
+ 
+ 21   
+ 
+ 
+   
+ 
+ 
+   
+(c)        Promptly after receipt by an indemnified party of notice of the commencement of any action which would give rise to Damages, such indemnified party shall give written notice thereof to the indemnifying party. Upon receipt of such notice, the indemnifying party shall have the option of either assuming the defense of such action (and the cost thereof) with counsel reasonably satisfactory to both the indemnified and the indemnifying parties or participating in the defense of such action at the sole expense, however, of the indemnifying party. In the event of the indemnifying party's assumption of the defense of such action, counsel selected by the indemnified party may, at the election of the indemnified party, participate in any such defense, at the sole expense, however, of the indemnified party. No settlement or compromise to be paid by the indemnifying party shall be entered into without the written consent of the indemnified party, which consent shall not be unreasonably conditioned, delayed or withheld. 
+   
+ (d)        [Intentionally Deleted] 
+   
+(e)        Notwithstanding anything herein to the contrary, no party shall assert a claim for indemnity pursuant to this Section 14 unless the aggregate of all of such claims by such indemnified party against such indemnifying party shall exceed Five Thousand and 00/100 Dollars ($5,000), in which event the indemnifying party's obligation shall apply to all s uch indemnified losses. 
+   
+(f)        Anything in Section 14(e) to the contrary notwithstanding, the Buyer shall have the right to make a claim against the Seller for complete indemnification for Damages to Buyer incurred by reason of a claim by any ETI employee arising out of certain pre-closing conduct of ETI as described in the next sentence. This indemnification obligation shall not be payable unless and until there is a final adjudication that ETI's conduct constituted an intentional tort or was prosecutable under any applicable criminal laws. 
+   
+(h)        Anything in Section 14(e) to the contrary notwithstanding, the Seller shall have the right to make a claim against the Buyer for complete indemnification arising out any post-closing acts or omissions forming the basis of any claim or allegation of an employee of ETI seeking damages from Seller, of any nature whatsoever, including claims arising under any federal or state employment law or regulation, including but not limited to any discrimination law, whistleblower law, or under common law. 
+   
+ 
+ 
+ 
+ 22   
+ 
+ 
+   
+ 
+ 
+   
+ 15.         Notices . All notices, consents, waivers, and other communications under this Agreement must be in writing and will be deemed to have been duly given when (a) sent by facsimile (with written confirmation of receipt), provided that a copy is mailed by registered mail, return receipt requested, or (b) when received by the addressee, if sent by a nationally recognized overnight delivery service (receipt requested), in each case to the appropriate addresses and facsimile numbers set forth below (or to such other addresses and facsimile numbers as  a party may designate by notice to the other parties): 
+   
+ If to the Buyer: 
+   
+ John X. Adiletta, President 
+ EMR Technology Solutions, Inc. 
+ 90 Washington Valley Road 
+ Bedminster, NJ 07921 
+ Email:  jxa.pcs@att.net 
+ Facsimile No.: (908) 953-0797 
+   
+ with a copy (which shall not constitute notice) to: 
+   
+ William R. McClure, Esq. 
+ Picinich  & McClure, LLC. 
+ 201 West Passaic Street, Suite 204 
+ Rochelle Park, NJ 07662 
+ Email:  wrmesq@verizon.net 
+ Facsimile No.: (201) 820-4594 
+   
+ If to the Seller: 
+   
+ Dr. John Stagl 
+ 4730 NW 76th Rd 
+ Gainesville, FL 32653 
+ Email:  jfstagl@gmail.com 
+   
+ 20.        Miscellaneous . 
+   
+ (a)          Post Closing Consultancy. For a period of two (2) years next following the Closing, Seller shall, at his option, be authorized to act as, and represent himself as, a consultant to ETI for the purpose of i ncreasing ETI's revenues. 
+   
+ (b)         Severability. If any term or provision of this Agreement shall, to any extent, be invalid or unenforceable, the remainder of this Agreement shall not be affected thereby, and each term and provision of this Agreement shall be valid and enforced to the fullest extent permitted by law, unless to do so would clearly violate the present legal and valid intention of the part ies hereto. 
+   
+ (c)          Assignment. Neither the Buyer, nor the Seller may assign this Agreement or any rights without the prior written consent of the other party. 
+   
+ 
+ 
+ 
+ 23   
+ 
+ 
+   
+ 
+ 
+   
+ (d)          Counterparts and Electronic Signatures. This Agreement may be executed in multiple counterparts by the parties hereto. All counterparts so executed shall constitute one agreement binding upon all parties, notwithstanding that all parties are not signatories to the original or the same counterpart. Each counterpart shall be deemed an original to this Agreement, all of which shall constitute one agreement to be valid as of the date of this Agreement. Documents executed, scanned and transmitted electronically and electronic signatures shall be deemed original signatures for purposes of this Agreement and all matters related thereto, with such scanned and electronic signatures having the same legal effect as original signatures. This Agreement, any other document necessary for the consummation of the transaction contemplated by this Agreement may be accepted, executed or agreed to through the use of an electronic signature in accordance with the Electronic Signatures in Global and National Commerce Act ("E-Sign Act"), Title 15, United States Code, Sections 7001 et seq., the Uniform Electronic Transaction Act ("UETA") and any applicable state law. Any document accepted, executed or agreed to in conformity with such laws will be binding on each party as if it were physically executed . 
+   
+ (e)           No Waiver. No waiver of any breach or default under this Agreement shall be considered valid unless in writing and signed by the party giving such waiver, and no such waiver shall be deemed to be a waiver of any contemporaneous or subsequent breach or default of the same or similar nature. Any party hereto may, at or before the Closing, waive any conditions to its ob ligations hereunder which are not fulfilled. 
+   
+ (f)           Entire Agreement; Amendments. This Agreement, including the Exhibits and Schedules referred to herein which are a part hereof, contains the entire understanding of the parties hereto with respect to the subject matter contained herein, and may be amended only by a written instrument executed by the Seller and the Buyer or their respective successors or assigns. There are no agreements,  promises, warranties, covenants or undertakings other than those expressly set forth herein. 
+   
+ (g)           Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Florida, without reference to the choice of law doctrine of such state. 
+   
+ (h)           Headings. Headings in this Agreement are inserted for convenience only and do not form part of the Agreement. 
+   
+ (i)            Public Announcements. Except for notices required to be filed with any governmental agency, no party shall issue any press release, make publicly available any document, or make any public announcement concerning this Agreement, the terms hereof or the transactions contemplated hereby without obtaining the prior written consent of the other party, which consent shall not be unr easonably withheld, conditioned or delayed. 
+   
+ (j)            Litigation. All disputes shall be brought in the Eighth Judicial Circuit, in and for Alachua County, Florida, or, if it has or can acquire jurisdiction, in the United States District Court for the Northern District of Florida, and each of the parties irrevocably submits to the exclusive jurisdiction of each such court in any such proceeding, waives any objection it may now or hereafter have to venue or to convenience of forum, agrees that all claims in respect of the proceeding shall be heard and determined only in any such court and agrees not to bring any proceeding arising out of or relating to this Agreement or any transaction contemplated in this Agreement in any other court. Any party may file a copy of this paragraph with any court as written evidence of the knowing, voluntary and bargained agreement between the parties irrevocably to waive any objections to venue or to convenience of forum . 
+   
+ 
+ 
+ 
+ 24   
+ 
+ 
+   
+ 
+ 
+   
+ (k)           Singular and Plural. The singular and plural form shall be interchangeable herein, except where specific contextual reference is otherwise required. 
+   
+IN WITNESS WHEREOF, the parties have executed this Purchase Agreement to be effective as of the date first set forth above. 
+   
+ 
+ ATTEST:   EMR Technology Solutions, Inc.             By:   Name: Lowell T. Holden   Name:    John X. Adiletta Title: Secretary   Title:      Chief Executive Officer         ATTEST:   Empower Technologies, Inc.             By:   Name:   Name:    Dr. John Stagl Title:   Title:      President             Seller :             Dr. John Stagl 
+   
+ 
+ 
+ 
+ 25   
+ 
+ 
+   

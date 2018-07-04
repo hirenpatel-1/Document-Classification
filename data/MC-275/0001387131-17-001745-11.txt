@@ -1,0 +1,118 @@
+ htm 33236 Material contracts 10 2017-03-30T17:00:42.082626-05:00 Filing 0001387131-17-001745 2017-03-30 10-K Annual  & Quarterly Reports 0000887247 Adamis Pharmaceuticals Corp ADMP COMMON Nasdaq Capital Market 2834 Pharmaceutical Preparations No CALIFORNIA DELAWARE DELAWARE CELLEGY PHARMACEUTICALS INC false Small Reporting Company 001-36242 MARCH 2017 AMENDED AND RESTATED LINE OF CREDIT PROMISSORY NOTE Exhibit Exhibit 11 ex10-84.htm EX-10.84 11 ex10-84.htm MARCH 2017 AMENDED AND RESTATED LINE OF CREDIT PROMISSORY NOTE 
+ 
+ 
+   
+ 
+ 
+ ADAMIS PHARMACEUTICALS CORPORATION 10-K 
+    
+ Exhibit 10.84 
+   
+ Loan No. ___________________ 
+   
+ MARCH 2017 AMENDED AND RESTATED 
+ LINE OF CREDIT PROMISSORY NOTE 
+ [CLOSED END MULTIPLE ADVANCE NOTE] 
+   
+ $2,000,000.00 March 31, 2017   Little Rock, Arkansas 
+   
+ FOR VALUE RECEIVED,  ADAMIS PHARMACEUTICALS CORPORATION, a Delaware corporation whose address is 11682 El Camino Real, Suite 300 San Diego, CA 92130 ("Maker"), promises to pay to the order of  BEAR STATE BANK, N.A., a national banking association whose mailing address is 900 South Shackleford, Suite 401, Little Rock, Arkansas 72211, its successors and assigns ("Bank"), or to the order of any subsequent holder hereof, in lawful money of the United States of America, the principal sum of Two Million and No/100 United States Dollars ($2,000,000.00), or so much as may be advanced hereunder, together with interest on the unpaid principal balance (calculated on the basis of a hypothetical year of three hundred sixty (360) days, but multiplied by the actual number of days in the interest calculation period), from the date hereof at a variable rate which shall, from day to day, be equal to the lesser of: (a) the maximum rate of interest which Bank may lawfully charge under applicable law in effect from time to time (the "Maximum Rate"), or (b) a rate equal to the sum of: (i) the prime commercial rate of i nterest charged by banks in New York, New York, as reflected in the Central Edition of  The Wall Street Journal (the "Prime Rate"). The interest rate shall be adjusted daily. Maker further agrees changes in the Prime Rate shall automatically result in a change in the interest charged pursuant to this March 2017 Amended and Restated Line of Credit Promissory Note [Closed End Multiple Advance Note] (the "March 2017 Note"), and such change in the interest rate shall be effective regardless of notice to Maker, resulting in recomputation of the required monthly payment of principal and interest. 
+   
+In the event the foregoing provisions should be construed by a court of competent jurisdiction not to constitute a valid, enforceable designation of a rate of interest or method of determining same, the unpaid principal balance pursuant to this March 2017 Note shall bear interest at the Maximum Rate. Repayment of the indebtedness represented hereby shall be  as follows: 
+   
+ Commencing on April 1, 2016, and continuing on the first (1 st) day of each July, October and January through and including March 1, 2018, Maker shall pay to Bank monthly payments of accrued and unpaid interest, with the entire outstanding principal balance, all accrued and unpaid interest and all other sums payable pursuant to this March 2017 Note, the Loan and Security Agreement of even date herewith between Maker and Bank, or any of the other Security Documents (defined below) being absolutely and unconditionally due and payable on March 1, 2018 (the "Maturity Da te"), unless sooner provided. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+Bank undertakes no obligation to extend the maturity of this March 2017 Note, and Maker acknowledges and agrees that no such representation has been made to Maker by Bank, or anyon e by or on behalf of Bank. 
+   
+All installments of principal and interest shall be payable to Bank at 900 South Shackleford, Suite 401, Little Rock, Arkansas 72211, or such other places as Bank or the holder hereof may designate in writing from time to time. If any payment of principal and interest on this March 2017 Note shall become due on a Saturday, Sunday or public holiday under the laws of the State of Arkansas, on which the Bank or subsequent holder is not open for business, such payment shall be made on the next succeeding business day and such extension of  time shall in such case be included in computing interest in connection with such payment. 
+   
+Maker shall pay to the Bank a late charge for any installment not received by the Bank within ten (10) days after the installment is due in the amount of five percent (5%) of the applicable installment and notwithstanding the above, such late charge not be less than Twenty Five and No/100 United States Dollars ($25.00) or greater than FIVE HUNDRED AND NO/100 DOLLARS ($500.00); such late charge shall apply separately to each installment past due, but shall only be assessed once as to each late payment. Maker stipulates and agrees that any such late charge(s) shall not be deemed to be additional interest, but shall compensate for Bank's administrative expenses of addressing late payments. This provision for late charges shall not be deemed to extend the time for payment or be a "grace period" or "cure period" that gives Maker a right to cure a default. Imposition of late charges is not contingent upon the giving of any notice or lapse of any cure period provided for in the Mortgage and shall not be deemed a waiver of any right or remedy of Bank, including without li mitation, acceleration of this March 2017 Note. 
+   
+This March 2017 Note may be prepaid in whole or in part. All payments and prepayments made by Maker are to be applied first to any late charges, protective disbursements, and other reimbursements owed to Bank; then in the reduction of interest then due at the rate stated herein; and any amount remaining after such payment of interest shall be applied in redu ction of the outstanding principal balance due hereunder. 
+   
+Upon the occurrence of any of the following events of default (an "Event of Default"), the holder hereof may declare the entire outstanding indebtedness of Maker evidenced by this  March 2017 Note due and payable as to principal and accrued interest including any late charges: 
+   
+(a)       Maker shall fail to pay any amount of principal or interest or any part thereof, under this March 2017 Note by the due date thereof; or 
+   
+(b)       Maker shall voluntarily become a party to any insolvency, bankruptcy, composition or reorganization proceeding; or make any assignment for the benefit of creditors; or if any involuntary bankruptcy, insolvency, composition, or other reorganization proceeding be filed against Maker, and the same shall not be dismissed within thirty (30) days after t he commencement of any such involuntary proceeding; or 
+   
+ 
+ 
+ -  2  -  
+ 
+ 
+   
+ 
+ 
+   
+(c)       Upon any default in any of the terms, warranties, covenants, provisions obligations contained in any Security Document (defined herein) or under any other promissory note or guaranty executed by or other obligation owed (directly or as a guarantor of indebtedness owed to Bank by any person or entity) by Maker to Bank; or 
+   
+(d)       Upon any default in any other trust deed, mortgage, security agreement, assignment, or other instrument of pledge, security or hypothecation which now or hereafter secure s the payment of the indebtedness evidenced hereby; or 
+   
+(e)        Upon any default by Maker in any of the terms, warranties, covenants, provisions or obligations contained in the Warrant (as defined in the Security Documents); or 
+   
+(f)       Upon any default in any of the terms, warranties, covenants or provisions of any of the Security Documents (defined below) or any other promissory note executed by or other obligation owed by Maker to Bank entitling Bank to accelerate the maturity of this March 2017 Note. 
+   
+If this March 2017 Note is placed in the hands of an attorney for collection, by suit or otherwise, or for the protection of Bank's interest hereunder, Maker shall pay all costs of collection and all court costs and attorneys' fees, costs and expenses incurred by Bank, including, but not limited to, attorneys' fees, costs and expenses incurred in any bankrup tcy proceeding in which Maker or any other obligor appears as a debtor. 
+   
+From and after the Maturity Date hereof or the date of default (in the event of acceleration of the indebtedness evidenced hereby by reason of Maker's default or otherwise), the entire indebtedness due hereunder including any accrued interest and late charges shall bear interest, at the option of Bank, at a rate equal to the lesser of (i) the rate in effect at the time of default, plus three percent (3%); or (ii) the Maximum Rate, until payment in full of all principal and interest, late payment charges and other sums due hereunder ar e made. 
+   
+ Maker waives presentment, demand, protest, and notice of protest, demand, dishonor and nonpayment. 
+   
+Time is of the essence of all obligations to be performed by Maker hereunder. Any reference herein or in the other Security Documents to a day or business day shall be deemed to refer to a banking day which shall be a day on which Bank is open for the transaction of business, excluding any national holidays, and any performance which would otherwise be required on a day other than a banking day shall be timely performed in such instance, if performed on the next succeeding business day. Notwithstanding such timely performance, interes t shall continue to accrue hereunder until such payment or performance has been made. 
+   
+Maker authorizes Bank, without notice or demand and without affecting its liability hereunder, from time to time, to take and hold security for the payment of this March 2017 Note or any renewals or extensions hereof; perfect such security, whether or not such security is required as a condition to the making of the Loan evidenced by this March 2017 Note; exchange, enforce, waive or release (whether intentionally or unintentionally) any such security, or any part thereof; purchase such security at a public or private sale (without any obligation to so purchase) and apply such security and direct the order or manner of sale thereof as Bank, in its discretion, may determine. 
+   
+ 
+ 
+ -  3  -  
+ 
+ 
+   
+ 
+ 
+   
+It is the intention of Bank and Maker to comply strictly with applicable usury law, as may be preempted by federal law. In no event, and upon no contingency, shall the Bank or subsequent holder hereof ever be entitled to receive, collect or apply as interest, any interest, fees, charges or other payments equivalent to interest, in excess of the Maximum Rate which Bank may lawfully charge under applicable statutes and laws from time to time in effect; and in the event the Bank or subsequent holder hereof ever receives, collects, or applies as interest, any such excess, which, but for this provision, would be excessive interest, shall be applied to the reduction of the principal amount of the indebtedness hereby evidenced; and if the principal amount of the indebtedness evidenced hereby, all lawful interest thereon and all lawful fees, prepayment premiums and charges in connection therewith, are paid in full, any remaining excess shall forthwith be paid to Maker, or other party lawfully entitled thereto. Any provision hereof or any other agreement between the Bank and Maker that operates to bind, obligate or compel the undersigned to pay interest in excess of the Maximum Rate shall be construed to require the payment of the Maximum Rate only. The provisions of this paragraph shall be given precedence over any other provision contained herein, or in any other agreement between the holder and the undersigned that it is i n conflict with the provisions of this paragraph. 
+   
+If any provision hereof shall be construed to be invalid or unenforceable, the remaining provisions hereof shall not be affected by such invalidity or unenforceability. Each term o r provision hereof shall, however, be valid and be enforced to the fullest extent permitted by law. 
+   
+This March 2017 Note and the indebtedness represented and evidenced hereby is secured by, among other things, a Loan and Security Agreement executed in March 2016 (as subsequently amended), and may now or hereafter be secured by other mortgages, guaranties, trust deeds, assignments, security agreements, or other instruments of pledge or hypothecation (collec tively, the "Security Documents" or separately, a "Security Document"). 
+   
+Upon the occurrence of any Event of Default, Bank shall have the right, immediately, and without notice to the Maker, to set off against this March 2017 Note all money owed by the Bank in any capacity to Maker, or to any endorser or other person who is or may be liable for payment hereof, whether or not due, and the Bank shall be deemed to have exercised such right of setoff and to have made a charge against such money immediately upon the occurrence of such Event of Default even though such charge is made or entered on the books of t he Bank subsequently thereto. 
+   
+The rights, obligations and liabilities of Maker hereunder may not be assigned, either in whole or in part, to any other person or party whomsoever. This March 2017 Note may be negotiated or assigned by Bank, either in whole or in part, and any negotiation or assignment hereof or of the Security Documents, or any portion or portions hereof or thereof, shall operate to vest in any such transferee the rights and powers, either in whole or in part, as the context so requires, herein and therein granted to Bank. In the event Bank shall transfer this March 2017 Note or the other Security Documents in whole, Bank shall thereupon be relieved of all duties, responsibilities and liabilities whatsoever hereunder or thereunder. Bank may share with any potential transferee or participant any information regarding Maker or any collateral securing this March 2017 Note. 
+   
+ 
+ 
+ -  4  -  
+ 
+ 
+   
+ 
+ 
+   
+This March 2017 Note shall be governed by and construed in accordance with the laws of the State of Arkansas and, as to the maximum rate of interest, by applicable federal laws. 
+   
+Maker and Bank (By Bank's Acceptance Hereof) Fully, Voluntarily, Knowingly, Irrevocably and Unconditionally Waive Any Right to a Trial by Jury or to Have a Jury Participate in Any Dispute, Action or Proceeding to Enforce or Defend Any Rights (Whether Based on Contract, Tort or Otherwise) under this March 2017 Note or under Any Amendment, Instrument, Document or Agreement Delivered (Or Which May in the Future Be Delivered) in Connection Herewith. Maker Agrees That Any Such Action or Proceeding Shall Be Tried Before a Court and Not Before a Jury. This Provision Is a Material Inducement to Bank to Provide the Financing to Maker pursuant hereto. 
+   
+   MAKER :           ADAMIS PHARMACEUTICALS CORPORATION ,   a Delaware corporation 
+   
+   By: /s/ Robert O. Hopkins 
+         Name: ROBERT O. HOPKINS 
+   Title: CFO   
+   
+ 
+ 
+ -  5  -  
+ 
+ 
+   

@@ -1,0 +1,84 @@
+ htm 36658 Material contracts 10 2017-03-31T16:03:00.415282-05:00 Filing 0001213900-17-003152 2017-03-31 10-K Annual  & Quarterly Reports 0000350737 OCEAN BIO CHEM INC OBCI COM SM-CAP Nasdaq Capital Market 3714 No FLORIDA FLORIDA FLORIDA STAR BRITE CORP false Small Reporting Company 000-11102LETTER, DATED NOVEMBER 17, 2016, FROM REGIONS BANK TO THE COMPANY, REGARDING CERTAIN TERMS UNDER THE BUSINESS LOAN AGREEMENT AND THE PROMISSORY NOTE Exhibit Exhibit 4 f10k2016ex10iii_oceanbiochem.htm EX-10.3 4 f10k2016ex10iii_oceanbiochem.htmLETTER, DATED NOVEMBER 17, 2016, FROM REGIONS BANK TO THE COMPANY, REGARDING CERTAIN TERMS UNDER THE BUSINESS LOAN AGREEMENT AND THE PROMISSORY NOTE 
+ 
+ Exhibit 10.3 
+   
+ 
+   
+ November 17, 2016 
+   
+ Mr. Jeffrey Barocas 
+ Ocean Bio-Chem, Inc. 
+ 4041 S.W. 47 Ave. 
+ Ft. Lauderdale, FL 33314 
+   
+ Dear Jeff: 
+   
+The purpose of this letter is to document an agreement between Ocean Bio-Chem, Inc. and Regions Bank regarding specific terms and conditions relating to the renewal of a $4,000,000 line of credit. These terms presented below will supersede any conflicting language in the Business Loan Agreement (BLA), the Promissory Note (Note) and Commercial Security Agreement (Security Agreement), each dated November 17th, 2016. Capitalized terms not defined in this letter will have the meanings ascribed to them in the BLA, the Note or the Security  Agreement, as applicable. 
+   
+ PROMISSORY NOTE 
+   
+ ● Variable Interest Rate. Regions agrees that the interest on the unpaid principal balance of this Note will be calculated as described in the "INTEREST CALCULATION METHOD" paragraph using a rate of 1.50 p ercentage points over the Index.     ● Change in Ownership - Regions agrees that a change in ownership of 25% or more will not constitute an event of default. Instead, a default will be triggered in the event that the majority shareholder's ownership drops below 50% of all outstanding shares. (This modification also applies to the BLA and Security Agreement.)     ● Loan Fee. -  Paragraph deleted- There will be no loan fees charged to Borrower. 
+   
+ Business Loan Agreement (BLA) 
+   
+ ● Hazardous Substances.  Regions agrees that clauses (1), (2) and (3) of the provision  Hazardous Substances shall read as follows: Except as disclosed to and acknowledged by Lender in writing, Borrower represents and warrants that: (1) During the period of Borrower's ownership of the Collateral, there has been no use, generation, manufacture, storage, treatment, disposal, release or threatened release of any Hazardous Substance by any person on, under, about or f rom any of the Collateral  except in material compliance with Environmental Laws. (2) Borrower has no knowledge of, or reason to believe that there has been (a) any breach or violation of any Environmental Laws; (b) any use, generation, manufacture, storage, treatment, disposal, release or threatened release of any Hazardous Substance on, under, about or from the Collateral by any prior owners or occupants of any of the Collateral  except in material compliance with Environmental Laws; or (c) any actual or threatened litigation or claims of any kind by any person relating to such matters. (3) Neither Borrower nor any tenant, contactor, agent or other authorized user of any of the Collateral shall use, generate, manufacture, store, treat, dispose of or release any Hazardous Substance on, under, about or from any of the Collateral  except in material compliance with Environmental Laws;  and any such activity shall be conducted in  material compliance with all applicable federal, state, and local laws, regulations, and ordinances, including without limitation all Environmental Laws. 
+   
+ 
+ 
+   
+ 
+   
+ 
+ 
+   
+ ● Debt to Capitalization.  Regions agrees that the provision  Debt to Capitalization shall read as follows: Not permit its ratio of funded debt divided by the sum of Net Worth and funded debt to be greater than 0.75 times to be tested quarterly.     ● Environmental Compliance and Reports.  Regions agrees that the provision  Environmental Compliance and Reports  shall read as follows: Borrower shall comply in all  material respects with any and all Environmental Laws; not cause or permit to exist, as a result of an intentional or unintentional action or omission on Borrower's part or on the part of any third party, on property owned and/or occupied by Borrower, any environmental activity where damage may result to the environment, unless such environmental activity is pursuan t to an in  material compliance with the conditions of a permit issued by the appropriate federal, state or local governmental authorities  or otherwise in material compliance with Environmental Laws; shall furnish to Lender promptly and in any event within thirty (30) days after receipt thereof a copy of any notice, summons, lien, citation, directive, letter or other communication from any governmental agency or instrumentality concerning any intentional or unintentional action or omission on Borrower's part in connection with any environmental activity  whether or not there is damage to the environment and/or other natural resources.     ● Indebtedness and Liens.  Regions agrees that the provision  Indebtedness and Liens  shall read as follows: (1) Except for trade debt incurred in the normal course of business,  indebtedness otherwise disclosed to Lender and indebtedness to Lender contemplated by this Agreement, create, incur or assume indebtedness for borrowed money, including capital leases, (2) sell, transfer or lease any of Bo rrower's assets (except for inventory sold or accounts collected in the ordinary course of business, or as otherwise provided for in this Agreement), (3) mortgage, assign, pledge, grant a security interest in, or encumber any of Borrower's assets (except as allowed as Permitted Liens), or (3) sell with recourse any of Borrower' s accounts, except to Lender.     ● Continuity of Operations.  Regions agrees that the provision  Continuity of Operations shall read as follows: (1) Engage in any business activities substantially different than those in which Borrower is presently engaged, (2) cease operations, liquidate, merge, transfer, acquire or consolidate with any other entity, change its name, dissolve or transfer or sell Collateral out of the ordinary course of business, or (3) pay any dividends on Borrower's stock (other than dividends payable in its stock) or purchase or retire any of Borrower's outstanding shares or alter or amend Borrower's capital structure, provided, however that notwithstanding the foregoing, but only so long as no Event of Default has occurred and is continuing or would result from the payment of dividends,  (a) if Borrower is a "Subchapter S corporation" (as defined in the Internal Revenue Code of 1986, as amended), Borrower may pay cash dividends on its stock to its shareholders from time to time in amounts necessary to enable the shareholders to pay income taxes and make estimated income tax payments to satisfy their liabilities under federal and state law which arise solely from their status as Shareholders of a Subchapter S Corporation because of their ownership of shares of Borrower's stock, and (b) Borrower may pay dividends so long as, on a pro forma basis after giving effect to such proposed dividend, Borrower is in compliance with the Debt to Capitalization ratio r equired hereunder. 
+   
+ 
+ 
+ 
+   2   
+ 
+ 
+   
+ 
+ 
+   
+ ● EBITDAR. Regions agrees that such definition is deleted and the Borrower shall comply with the definition of such term in Debt Service Coverage Ratio.     ● Subsidiaries and Affiliates of Borrower.  Regions agrees that the provision of  Subsidiaries and Affiliates of Borrower  shall be renamed  "Subsidiaries of Borrower"  and the phrase "and affiliates" and the phrase "or affiliates" deleted therefrom.     ● Eligible Inventory. Clause (2) in the BLA should read, "Inventory which Lender deems to be obsolete, unsalable, damaged, defective, or unfit for further processing."     ● Eligible Accounts. Clause (2) in the BLA should read, "Accounts with respect to which the Account Debtor is a subsidiary of, or affiliated with, Borrower or its officers or directors. Clause (10) in the BLA should read, "Accounts which have not been paid within 120 days from the invoice date, or more than 90 days past the due date. Accounts from Auto Zone and Walmart are perm issible up to 180 days past invoice date." 
+   
+ ●Clause (11) in the BLA should read: "Accounts of West Marine, to the extent they exceed forty percent (40%) of the total Eligible Accounts of Borrower at such time."       ● Permitted Liens - as used in the BLA and CSA, "Permitted Liens" means (1) liens and security interests securing Indebtedness owed by Borrower to Lender; (2) liens for taxes, assessments, or similar charges either not yet due or being contested in good faith; (3) liens of materialmen, mechanics, warehousemen, or carriers, or other like liens arising in the ordinary course of business and securing obligations which are not yet delinquent; (4) purchase money liens or purchase money security interests upon or in any property acquired or held by Borrower in the ordinary course of business to secure indebtedness outstanding on the date of this Agreement or permitted to be incurred under the paragraph of the BLA titled "Indebtedness and Liens"; (5) liens and security interests which, as of the date of this Agreement, have been disclosed to and approved by the Lender in writing; and (6) those liens and security interests which in the aggregate constitute an immaterial and insignificant monetary amount with respect to the net value of Borrower's assets." 
+ 
+   
+ 
+ 
+ 
+   3   
+ 
+ 
+   
+ 
+ 
+   
+ SECURITY AGREEMENT 
+   
+ ● Enforceability of Collateral.  Regions agrees that second sentence of the provision  Enforceability of Collateral shall read as follows: There shall be no setoffs or counterclaims against any of the Collateral, and no agreement shall have been made under which any deductions or discounts many  be claimed concerning the Collateral except  those deductions or discounts in the ordinary course of business and  those disclosed to Lender in writing.     ● Transactions Involving Collateral.  Regions agrees that the first sentence of the provision  Transactions Involving Collateral shall read as follows: Except for inventory sold or accounts collected in the ordinary course of Grantor's business, or as otherwise provided for in this Agreement, Grantor shall not sell, offer to sell, or otherwise transfer of dispose of the Collateral. Grantor shall not pledge, mortgage, encumber or otherwise permit the Collateral to be subject to any lien, security interest, encumbrance, or charge, other than the security interest provided for in this Agreement  and Permitted Liens,  without the prior written consent of Lender.     ● Title.  Regions agrees that the first sentence of the provision  Title shall read as•follows: Grantor represents and warrants to Lender that Grantor holds good and marketable title to the Collateral, free and clear of all liens and encumbrances excep t for the lien of this Agreement  and Permitted Liens.     ● Hazardous Substances.  Regions agrees that the first sentence of the provision  Hazardous Substances shall read as follows: Grantor represents and warrants that the collateral never has been, and never will be so long as this Agreement remains a lien on the Collateral, used in violation of any Environmental Laws or for the generation, manufacture, storage, transportation, treatment, disposal, release or threatened release of any Hazardous Substance  except in material compliance with Environmental Laws. 
+ 
+   
+ 
+ Sincerely, 
+   
+ 
+ /s/  Michael Jenkins 
+ 
+ Michael Jenkins 
+ Vice President 
+ Regions Bank 
+   
+ 4 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 

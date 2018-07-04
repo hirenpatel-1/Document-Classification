@@ -1,0 +1,1015 @@
+ htm 176740 Material contracts 10 2017-03-24T12:30:32.641386-05:00 Filing 0001331463-17-000050 2017-03-24 10-K Annual  & Quarterly Reports 0001331463 Federal Home Loan Bank of Boston 6111 No MASSACHUSETTS UNITED STATES Non-US false Non-accelerated Filer 000-51402 AMENDED AND RESTATED P &I FUNDING AND CONTINGENCY PLAN AGREEMENT Exhibit Exhibit 4 ex1081amendedfhlbpifunding.htm EX-10.8.1 4 ex1081amendedfhlbpifunding.htm AMENDED AND RESTATED P &I FUNDING AND CONTINGENCY PLAN AGREEMENT 
+ 
+ 
+ 
+ 
+ 
+ Amended and Restated 
+ Federal Home Loan Banks P &I Funding and Contingency Plan Agreement 
+ 
+ This Amended and Restated Federal Home Loan Banks P &I Funding and Contingency Plan Agreement (" Agreement ") is entered into as of this 1st day of January, 2017 (the " Effective Date ") by and among the Office of Finance (the " OF ") and each of the Federal Home Loan Banks (" Banks ") and supersedes the Federal Home Loan Banks P&I Funding and Contingency Plan Agreement, effective as of July 20, 2006, by and among the OF and Banks. The OF and the Banks are sometimes referred to herein individually as a "party" and collectively as the "parties." All references in this Agreement to any of the parties to this Agreement include such party or any successor entity. 
+ 
+ WHEREAS,  the Banks are jointly and severally liable for the payment of consolidated obligations issued pursuant to Section 11 of the Federal Home Loan Bank Act, as amended (12 U.S.C. §1431)  (" COs "); and 
+ WHEREAS , the OF has the authority under 12 CFR § 1273.6(a),   or any successor provision adopted by the Federal Housing Finance Agency (the " Finance Agency "),  to issue and service (including making timely payments on principal and interest due) consolidated obligations issued on behalf of the Banks pursuant to, and in accordance with, th e policies and procedures established by the OF Board of Directors; and 
+ WHEREAS , the OF and the Banks have developed P&I Funding and Contingency Plan Procedures (as the same may be amended, modified, or supplemented, the " Procedures") to deal with the possibility that a Bank may not make a payment of debt service on COs to the OF on a timely basis; and 
+ WHEREAS, the OF Board of Directors has approved the Procedures and determined that the OF should obtain the written agreement of the Banks on several matters relating to the Procedures, w hich matters are included in this Agreement; and 
+ WHEREAS, the Federal Housing Finance Board ("Finance Board," predecessor to the Finance Agency), supported the initial adoption of the OF's and the Bank's Procedures to deal with the possibility that a Bank may not make a payment of debt service on COs to the OF on a timely basis by issuing the waiver attached hereto as   Exhibit A  of its prohibition of the direct placement of COs with Banks (contained in former 12 CFR § 966.8(c),   and superseded by 12  CFR § 1270.9, which prohibits COs from being purchased by any Bank as part of an initial issuance whether purchased directly from the OF or indirectly through an underwriter) to accommodate the implementation of the such Procedures, based in part on its view that timely payment of all principal and interest to investors in COs is essential to maintain the co nfidence of investors and potential investors in COs; and 
+ WHEREAS,  the Waiver provides that the interest rate paid by the Bank that has not remitted all the funds to the OF by the agreed upon deadline on the CO issued pursuant to the Waiver shall  be at least 500 basis points above the federal funds rate. 
+ NOW THEREFORE, in consideration of the mutual promises set forth herein and other good and valuable consideration, the receipt and sufficiency of which the parties acknowledge, the parties here by agree as follows: 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1. 
+ 
+ Authorization of Issuance of COs 
+ 
+ 
+Each Bank agrees that if it is a "Delinquent Bank" (as defined below), the OF may cause one or more overnight "Plan COs" (as defined below) to be issued on behalf of the Delinquent Bank for the benefit of one or more "Contingency Banks" (as defined below), each such Plan CO to be issued to a Contingency Bank in the principal amount equal to the amount of funds provided by that Contingency Bank on behalf of that Delinquent Bank, to mature on the following Business Day (as defined below), and to bear interest on such principal amount from the date of issuance to but not including that maturity date, due and payable on that maturity date, at the rate per annum (the " Base Cost") equal to (a) the overnight fed funds quote obtained by the OF from a recognized funds broker to be paid for any available funds delivered to the OF by a Contingency Bank or withheld from its "positive net position" as described in Section 2 of this Agreement or (b) the actual cost if funds are purchased by that Contingency Bank in the open market and delivered to the OF. All such interest shall be calculated on an actual/360 basis based on the number of days the Plan CO is outstanding, including non-Business Days. The Delinquent Bank shall also be obligated to pay "Additional Interest" as set forth in Section 3 of this Agreement, all or a portion of which will satisfy the obligation of the Delinquent Bank under the Waiver to pay an interest rate on the Plan CO that is at least 500 basis points above the federal funds rate. 
+The OF shall issue a Plan CO in physical form under those circumstances and apply the proceeds therefrom on behalf of that Delinquent Bank as provided for in the Procedures. Each Bank hereby authorizes the OF, and the OF hereby agrees, to hold any Plan COs issued as agent for each such Bank when it acts as a Contingency Bank. 
+ For purposes of this Agreement, 
+ a " Delinquent Bank" means a Bank that misses any funding time specified in the Procedures, including a funding time for the repayment of Plan COs; and 
+ a " Plan CO" means a CO issued on behalf of a Delinquent Bank to one or more Contingency Banks. For the avoidance of doubt, although a Delinquent Bank is primarily responsible for repayment of a Plan CO issued on its behalf, each Plan CO is the joint and several obligation of all of the Banks; and 
+ a " Contingency Bank " means any Bank that provides funds for a Delinquent Bank under the Procedures; and 
+ " Business Day" means any day other than (i) a Saturday, (ii) a Sunday or (iii) any day on which banking institutions in New York City are authorized or required by law or executive order to clo se. 
+ 
+ 2. 
+ 
+ Use of Proceeds to Purchase COs 
+ 
+ 
+Each Bank shall be obligated to provide and authorizes the OF to apply any "positive net position" (i.e., the amount by which end-of-day proceeds received by a Bank from sale of COs on one day exceed payments by that Bank on COs on the same day) of that Bank to the purchase of a Plan CO issued on behalf of a Delinquent Bank, thereby causing such Bank to beco me a Contingency Bank, based on the priority established in the matrix attached hereto as   Exhibit B   (" Contingency Funding Matrix ") and otherwise in accordance with the Procedures. 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3. 
+ 
+ Additional Interest 
+ 
+ 
+ Each Bank agrees that if it is a Delinquent Bank, then it will pay an amount (" Additional Interest ") in accordance with the following schedule in addition to interest equal to the Base Cost: 
+ 
+ 1 st   offense 
+ 
+ PLUS 500 basis points per annum of the delinquent amount 
+ 
+ 
+ 2 nd   offense 
+ 
+ PLUS 750 basis points per annum of the delinquent amount 
+ 
+ 
+ 3 rd   and subsequent offenses 
+ 
+ PLUS 1,000 basis points per annum of the delinquent amount 
+ 
+ 
+The Additional Interest will be calculated on an actual/360 basis based on the actual number of days the related Plan CO is outstanding, including non-Business Days, from the date of issuance to but excluding the stated maturity date. For purposes of this calculation, Additional Interest attributable to a delinquent amount that is not related to the principal amount of a Plan CO (i.e., because the Delinquent Bank pays all or a portion of its delinquent amount after a deadline but before a Contingency Bank is entitled to have a Plan CO issued for its benefit on behalf of the Delinquent Bank with respect to such amount) will be assessed on that delinquent amount assuming that a Plan CO was issued with a principal  amount equal to that delinquent amount and that the Plan CO would mature on the next Business Day. 
+For purposes of calculating Additional Interest, each different time deadline established under the Procedures will accrue its own separate count of the number of offenses, so that a Delinquent Bank will pay a separate amount for each such time deadline missed, and the step-up in Additional Interest for the occurrence of a particular offense will only be measured with regard to offenses that have occurred within the 36-month period ending on the date of that particular offense (the " Delinquency Measurement Period"). For example, if a Delinquent Bank twice misses a morning deadline and once misses an afternoon deadline, all as established under the Procedures, within a Delinquency Measurement Period, then the Delinquent Bank shall have been subject to Additional Interest of 500 basis points with respect to the first morning deadline missed, Additional Interest of 750 basis points with respect to the second morning deadline missed, and Additional Interest of 500 basis points with respect to the afternoon deadline missed. 
+Each Bank agrees that (i) for each Plan CO issued, the first 100 basis points of the Additional Interest shall be assessed against the Delinquent Bank for the benefit of the Contingency Bank that purchased the Plan CO as provided in Section 1 of this Agreement, and the balance of the Additional Interest assessed against the Delinquent Bank ( i.e., 400 basis points, 650 basis points, or 900 basis points) will be divided equally among the Banks (including the Contingency Banks) that are not Delinquent Banks with respect to the same funding time specified in the Procedures and (ii) for Additional Interest attributable to a delinquent amount that is not related to a Plan CO, the Additional Interest will be divided equally among the Banks that are not Delinquent Banks with respect to the same funding time specified in the Procedures. Each of the Banks and the OF agree that any Additional Interest will be allocated and paid through the monthly assessment from the OF, and that the Additional Interest is not the joint and several obligation of the Banks. 
+Notwithstanding anything in this Section 3 or Section 7(a) or (b) of this Agreement to the contrary, and subject to Sections 5(a) and (d) below, each Bank agrees that assessment of the Additional Interest shall be subject to the appellate process contained in the Procedures and that the OF shall have the authority to waive all or any portion of the Additional Interest or excuse the occurrence of any offense as provided for in the Procedures. To the extent permitted under the Waiver, the assessment of Additional Interest shall be suspe nded pending completion of the appellate process. 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. 
+ 
+ Reallocation of COs 
+ 
+ 
+Each Bank agrees that if a Bank is a Delinquent Bank, with respect to each Plan CO issued to a Contingency Bank on behalf of a Delinquent Bank, each Bank that is a "Reallocation Bank" (as defined below) shall immediately have the obligation to purchase that Reallocation Bank's "Pro Rata Share" (as defined below) of such Plan CO from that Contingency Bank, with such obligation to purchase being effective immediately upon the issuance of the Plan CO , subject to the proviso in the following paragraph. 
+Each Bank agrees that if it is a Reallocation Bank, it will wire to the Contingency Bank that holds a Plan CO an amount equal to (i) its Pro Rata Share of the principal amount of that Plan CO, plus (ii) accrued interest thereon from the date of issue of the Plan CO until its stated maturity date equal to the Base Cost, not later than 1:00 p.m., Eastern Time,  on the second Business Day following the date of issuance of that Plan CO;   provided, however,  that such Reallocation Bank shall not be required to wire funds to the extent that it determines in good faith such purchase will violate any rule, regulation or binding policy of the Finance Agency, and under those circumstances such Reallocation Bank shall be excused from its obligation to make such payment to the Contingency Bank, but not from its joint and several obligation, with respect to such Plan CO. The wire shall be sent to the account identified by the Contingency Bank for that purpose, and time is of the essence with respect to the wire. In the event there are multiple Plan COs issued on a particular date, Reallocation Banks shall not favor any Contingency Bank over any other Contingency Bank, and shall purchase its Pro Rata Shares of such Plan COs on a proportional basis. To the extent that a Plan CO is repaid prior to the settlement of a Reallocation Bank's obligations to purchase its Pro Rata Share, that Pro Rata Share shall be reduced proportionally by the amount so repaid. 
+Each Contingency Bank shall promptly notify the OF of its receipt of payment of the Pro Rata Share amounts from the Reallocation Banks. Promptly following receipt of that notice and confirmation of the payment from the Reallocation Banks, the OF shall cancel such original outstanding physical Plan CO and shall reissue replacement physical Plan COs with the principal amounts representing the respective Pro Rata Shares of the Reallocation Banks that have paid for their purchase of the Plan CO, along with a Plan CO representing the balance of the principal amount of the original Plan CO that is retained by the Contingency Bank. Each such reissued Plan CO remains a "Plan CO" for purposes of this Agreement and the Procedures, but a Reallocation Bank will not be treated as the Contingency Bank with respect thereto. Each Bank hereby authorizes the OF, and the OF hereby agrees, to hold any such reissued Plan COs payable to such Bank as agent for such Bank's benefit, and to pay debt service on such CO to the record owner of such Plan CO as reflected on the OF's books follo wing reissuance. 
+ For purposes of this Section, 
+ a " Reallocation Bank" with respect to a Plan CO means each Bank other than (i) any Delinquent Bank on behalf of which that Plan CO or any other Plan CO was originally issued on the same date, and (ii)  the Contingency Bank that owns that Plan CO; 
+ " Pro Rata Share" of a Reallocation Bank means a fraction, the numerator of which is the total amount of outstanding COs for which the Reallocation Bank is primary obligor as of the Most Recent Measurement Date, and the denominator of which is the total amount of outstanding COs for which all Reallocation Banks and the Contingency Bank are primary obligor as of the Most Rec ent Measurement Date; and 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ " Most Recent Measurement Date" means the most recent month-end data calculated by the OF and available on the OF's Debt Servicing System, which amount is not adjusted for inter-bank ownership of COs. 
+The Banks agree that the provisions of this Section 4 shall not affect the allocation of Additional Interest pursuant to the fourth paragraph of Section 3 of this Agreement, including without limitation the allocation of the first 100 basis points of Additional Interest pursuant to such paragraph to a Contingency Bank that acquired the Plan CO at original is suance. 
+One or more Contingency Banks and Reallocation Banks may agree among themselves to net their payments to each other that are due as a result of multiple Plan COs having been issued  and subject to reallocation on the same date. 
+Each Bank agrees that the formula for determining the Pro Rata Shares has been agreed to by the Banks solely for the purpose of this Agreement and is not intended to represent an a greed upon allocation of risk or responsibility for any other purpose. 
+The provisions of this Section 4 shall survive any termination of this Agreement with respect to any Plan CO issued prior to such termination. 
+ 
+ 5. 
+ 
+ Acknowledgements 
+ 
+ 
+ Each Bank acknowledges and agrees that: 
+ 
+ (a) 
+ 
+the Base Cost plus the Additional Interest assessed against a Delinquent Bank may not be lower than the amount required to be paid by the Delinquent Bank under the Waiver; 
+ 
+ 
+ (b) 
+ 
+the OF shall be required to provide any notice of issuance of a Plan CO hereunder to the Finance Agency, which notice is presently required by the Waiver to be provided no later th an 5:00 P.M. eastern time on the date of the issuance of the Plan CO; 
+ 
+ 
+ (c) 
+ 
+its agreement in Section 1 of this Agreement with respect to any Plan CO issued on its behalf as a Delinquent Bank satisfies the regulatory requirement contained in 12 CFR § 1270.9(b) that provides that COs may be offered for sale only to the extent the Banks are committed to take the proceeds; 
+ 
+ 
+ (d) 
+ 
+the appellate process referred to in the last paragraph of Section 3 of this Agreement will be subject to the terms of the Waiver; 
+ 
+ 
+ (e) 
+ 
+no Bank will be entitled to a Plan CO in the amount of any positive net position except to the extent its end-of-day positive net position is used to purchase a Plan CO; and 
+ 
+ 
+ (f) 
+ 
+the Additional Interest will be calculated based on the principal amount of a Plan CO, as well as any other delinquent amount paid late to the OF by the Delinquent Bank. 
+ 
+ 
+ 6. 
+ 
+ Representations and Warranties of the Parties 
+ 
+ 
+As of the date of its execution and delivery of this Agreement, each party represents and warrants to the other parties that: 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)     This Agreement is within such party's powers and has been duly authorized by all necessary corporate action. 
+ 
+ (b)     This Agreement has been duly executed and delivered by such party and constitutes a legal, valid and binding obligation of such party enforceable in accordance with its terms. 
+ 
+ 
+ 7. 
+ 
+ Termination and Amendments 
+ 
+ 
+ (a)     This Agreement will be deemed to be effective as of the Effective Date and will continue in full force until such time as (i) at least two-thirds (2/3) of the Banks agree to its termination, (ii) the Finance Agency rescinds the Finance Board's Waiver or (iii) the Finance Agency takes any action, including without limitation modification of the Waiver, that m akes compliance by the OF or the Banks with this Agreement not commercially reasonable. 
+ 
+ (b)     This Agreement may be amended only in a signed writing executed and delivered by all of the Banks and the OF. Any such amendment shall be effective as of the effective date set for th in the amendment. 
+ 
+(c)    This Agreement shall also be subject to termination at 11:59 p.m. on December 31, 2019, and at 11:59 p.m. on each third December 31 thereafter (" Expiration Time") if at least one-third (⅓) of the Banks provide notice of their respective election to terminate to each other Bank and the OF at least one year prior to the Expiration Time. Such notice shall identify with reasonable specificity the reason or reasons such Bank wishes to terminate the Agreement at the next Expiration Time. The Banks and the OF agree to negotiate in good faith toward the resolution of the issues raised in the notices of termination with a view of reaching agreement on a new agreement at or prior to the Expiration Tim e. 
+ 
+ 
+ 8. 
+ 
+ Successors and Assigns 
+ 
+ 
+This Agreement shall be binding upon and inure to the benefit of the successors and permitted and authorized assigns of each Bank and the OF. 
+ 
+ 
+ 9. 
+ 
+ Governing Law; Severability 
+ 
+ 
+This Agreement shall be governed by the statutory and common law of the United States and, to the extent federal law incorporates or defers to state law, the laws (exclusive of the choice of law provisions) of the State of New York. Any term or provision of this Agreement that is determined to be invalid or unenforceable shall be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining terms and provisions of this Agreement. 
+ 
+ 
+ 10. 
+ 
+ Notice 
+ 
+ 
+Except for any notices of payment delivered pursuant to Section 4 of this Agreement, which shall be delivered promptly either telephonically or electronically, any notice required or permitted to be given or made under this Agreement, including a notice to effect a change in a party's address for notice, must be in writing and addressed to the other parties at the addresses of such parties set forth beneath their signatures below, and will be deemed to be properly given or made on the earliest of (i) actual delivery, (ii) two (2) Business Days after being sent, with delivery charges paid by the sending party, by a nationally recognized commercial courier service for delivery on the next Business Day, and (iii) three (3) Business Days after being sent through the United States Postal Service, certified mail, return receipt requested, postage prepaid. 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. 
+ 
+ Counterparts 
+ 
+ 
+This Agreement may be executed in multiple counterparts, each of which shall be deemed to be an original and all of which together shall constitute one and the same agreement. 
+ 
+ 
+ 12. 
+ 
+ Entire Agreement; Conflicts 
+ 
+ 
+This Agreement constitutes the entire agreement of the parties and supersedes all prior understandings or agreements, oral or written, among the parties on the subjects addressed in this Agreement. Nothing in this Agreement, including without limitation the right of Banks to terminate it or the right of Banks to withhold approval of an amendment, shall be construed to (i) conflict with or limit the authority of the OF to carry out its duties pursuant to law, including without limitation Finance Agency regulations; or (ii) alter the Banks' joint and several liability on COs, including the Plan COs issued hereunder. This Agreement does not constitute "an agreement to obtain financial assistance to meet a Bank's current obligations… due during the quarter", a "consolidated obligation payment plan," an "inter-Bank assistance agreement" or "a payment on any [CO] on behalf of another Bank" as these terms are used in 12 CFR § 1270.10. If any applicable provision contained in the Procedures irreconcilably conflicts with any express provision of this Agreement, then such e xpress provision of this Agreement shall control. 
+ 
+ 
+ 13. 
+ 
+ No Third Party Rights Created 
+ 
+ 
+ Nothing in this Agreement shall create or be deemed to create any rights in any third party. 
+ 
+ 
+ 14. 
+ 
+ Suspension of Obligations 
+ 
+ 
+If the Finance Agency issues any order or enters into or amends any written agreement, that prohibits or prevents a party to this Agreement from either being a party to this Agreement, or from performing its obligations under this Agreement, after the Effective Date, then that party's duty to perform its obligations under this Agreement shall be suspended wh ile such order by or agreement with the Finance Agency is in effect. 
+ 
+ 
+ 
+ [Signature Pages to Follow] 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, this Agreement has been executed, on the date(s) set forth below, as of the day and year first above written. 
+ 
+ 
+ 
+ Federal Home Loan Bank of Atlanta 
+ 
+   
+ 
+ Federal Home Loan Bank of Boston 
+ 
+ President:   /s/ W. Wesley McMullan 
+ 
+   
+ 
+ President:   /s/ Edward A. Hjerpe III 
+ 
+ Date:   1/12/2017 
+ 
+   
+ 
+ Date:   12/22/2016 
+ 
+ Address for notice: 
+ 
+   
+ 
+ Address for notice: 
+ 
+ Wes McMullan 
+ 
+   
+ 
+ 800 Boylston St. 
+ 
+ 1475 Peachtree St. NE 
+ 
+   
+ 
+ 9th Floor 
+ 
+ Atlanta, GA 30309 
+ 
+   
+ 
+ Boston, MA 02199 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Federal Home Loan Bank of Chicago 
+ 
+   
+ 
+ Federal Home Loan Bank of Cincinnati 
+ 
+ President:   /s/ Matthew R. Feldman 
+ 
+   
+ 
+ President:   /s/ Andrew S. Howell 
+ 
+ Date:   12/23/2016 
+ 
+   
+ 
+ Date:   12/15/2016 
+ 
+ Address for notice: 
+ 
+   
+ 
+ Address for notice: 
+ 
+ 200 E. Randolph Drive 
+ 
+   
+ 
+ 221 East Fourth St., Suite 600 
+ 
+ 18th Floor 
+ 
+   
+ 
+ Cincinnati, OH 45202 
+ 
+ Chicago, IL 60601 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Federal Home Loan Bank of Dallas 
+ 
+   
+ 
+ Federal Home Loan Bank of Des Moines 
+ 
+ President:   /s/ Sanjay Bhasin 
+ 
+   
+ 
+ President:   /s/ Michael L. Wilson 
+ 
+ Date:   12/30/2016 
+ 
+   
+ 
+ Date:   1/20/2017 
+ 
+ Address for notice: 
+ 
+   
+ 
+ Address for notice: 
+ 
+ 8500 Freeport Pkwy South, Suite 100 
+ 
+   
+ 
+ 801 Walnut Street 
+ 
+ Irving, Texas 75063 
+ 
+   
+ 
+ Suite 200 
+ 
+ Attn: General Counsel 
+ 
+   
+ 
+ Des Moines, IA 50309 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Federal Home Loan Bank of Indianapolis 
+ 
+   
+ 
+ Federal Home Loan Bank of New York 
+ 
+ President:   /s/ Cindy L. Konich 
+ 
+   
+ 
+ President:   /s/ Jose R. Gonzalez 
+ 
+ Date:   1/4/2017 
+ 
+   
+ 
+ Date:   12/27/2016 
+ 
+ Address for notice: 
+ 
+   
+ 
+ Address for notice: 
+ 
+ 8250 Woodfield Crossing Blvd. 
+ 
+   
+ 
+ 101 Park Ave. 
+ 
+ Indianapolis, IN 46240 
+ 
+   
+ 
+ New York, NY 10178 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Federal Home Loan Bank of Pittsburgh 
+ 
+   
+ 
+ Federal Home Loan Bank of San Francisco 
+ 
+ President:   /s/ Winthrop Watson 
+ 
+   
+ 
+ President:   /s/ J. Gregory Seibly 
+ 
+ Date:   1/3/2017 
+ 
+   
+ 
+ Date:   12/22/2016 
+ 
+ Address for notice: 
+ 
+   
+ 
+ Address for notice: 
+ 
+ 601 Grant Street 
+ 
+   
+ 
+ 600 California Street 
+ 
+ Pittsburgh, PA 15219 
+ 
+   
+ 
+ Suite 300 
+ 
+   
+ 
+   
+ 
+ San Francisco, CA 94108 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Federal Home Loan Bank of Topeka 
+ 
+   
+ 
+ Office of Finance 
+ 
+ President:   /s/ Mark E. Yardley 
+ 
+   
+ 
+ Chief Executive Officer:   /s/ John D. Fisk 
+ 
+ Date:   1/9/2017 
+ 
+   
+ 
+ Date:   1/3/2017 
+ 
+ Address for notice: 
+ 
+   
+ 
+ Address for notice: 
+ 
+ Federal Home Loan Bank of Topeka 
+ 
+   
+ 
+ 1818 Library St., Suite 200 
+ 
+ One Security Benefit Place, Suite 100 
+ 
+   
+ 
+ Reston, VA 20190 
+ 
+ Topeka, KS 66606-2444 
+ 
+   
+ 
+   
+ 
+ Attn: General Counsel 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXHIBIT A 
+ 
+ WAIVER 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     Number:    2005-22 
+ Date:        December 14, 2005 
+ 
+ 
+ FEDERAL HOUSING FINANCE BOARD 
+ 
+ Waiver   Concerni ng   the Direct Placement of   Consolida ted   Obligations 
+ 
+ WHEREAS ,   section 2A of   the Federal   Hom e   Loan Bank Act   (12   U.S .C.   §   14 22a(a)(3))   requires the   Federal   Housing Finance Board (Finance Board) to   ensure   that the Federal Home Loan Banks (Banks) remain adequately capitalized and able to raise funds in   the   ca pital   markets to the   extent consistent   with ensuring the safe and   sound   operation of the   Bank s; 
+ 
+ WHEREAS ,   timely   payment of   a ll   principal   and   interest to investors in   conso lid ated ob ligation s (COs)   i s   essential   to maintain the   confidence of   inv estors   and potential investors in   COs; 
+ 
+ WHEREAS, the Federal Reserve Bank of New York will implement   procedur es   that will   pr event   a Bank or any other   government s ponsored   enterprise   from   in curr ing   an overdraft in the accounts at the Federal Reserve Bank of New York used to pay   the   principal and interest due   on   securities ; 
+ 
+ WHEREAS, the Banks Office   of   Finance   (OF) serves   as agent for each Bank in remitting to the   F edera l   Reserve Bank of New York all funds due for principal and   intere st   payments on COs; 
+ 
+ WHEREAS ,   under 12   C.F.R. §§   907.2 and   907.6,   any party may request a waiver of a   pro vision,   restriction,   or   requirement   of   the   Financ e   Board regulations not   otherwise   required by   law if   such waiver   i s   not inconsistent with the   law ,   does not adversely   affect   any   substantial   existing rights and the Finance Board finds that application of the restriction   wou ld   adverse ly   effect   achievement of the purposes of the Bank Act ,   or upon a showing of good cause ; 
+ 
+ WHEREAS,   on   October   1 8, 2005,   the OF   submitted   to the Finance Board a request to waive   the   prohibition on direct placement   of COs   in 12   C.F.R. §   966 .8(c)   when a Bank has not provided   to   the OF by the agreed upon deadline all   funds for   principal   and   in terest   payments due that day   on   COs ,   or   portions of COs ,   for which that Bank is the primary   ob ligor ;   and 
+ 
+ WHEREAS, Finance Board   staff   has reviewed   the  waiver request and determined that it is consistent with the Bank Act, for good cause, and raises no legal or   safety   and soundness concerns   i f   the waiver is   granted   pursuant to the terms of this   r esolution. 
+ 
+ NOW, THEREFORE,   IT IS RESOLVED that   effect i ve   July   1 ,   2006,   the Board of Director s   hereby   waives   12   C.F.R.   §   966.8(c) when direct placement of   COs   is   n ecessary   to assure that the   Fed era l   Reserve   Bank   of New York   has   sufficien t   funds to timely   pay   all principal and   int erest   due that day on COs or portions of COs; 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resolution Number 2005-22 
+ Pag e   2 of 2 
+ 
+ 
+ IT IS FURTHER RESOLVED that the OF   must   notify   the   Office of   Supervision   no lat e r than   5:00   pm,   eastern   time ,   on any   da y   it dir ec tl y   pla ces   a CO   pur s uant   to   thi s   waiver; and 
+ 
+ IT IS   FURTHER RESOLVED that   t h e   intere s t rate paid by the Bank that has no t   remitted all the   fund s   to the OF   by   the   agreed upon deadline on   th e   CO   i ssued   pursuant to   thi s   waiver   s hall   be at   lea st   500   ba s i s   points above   the   federal funds rate. 
+ 
+ B y   the Board   of   Dire ctors 
+ of   the   Feder a l   Hou si n g   Finance   Board 
+ 
+ /s/   Ronald   A.   Rosenfeld 
+ _______________________________ 
+ Ronald A. Rosenfeld Chairman 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXHIBIT B 
+ Contingency Funding Matrix   1   
+ 
+ 
+ 
+ Year 
+ 
+ January 
+ 
+ February 
+ 
+ March 
+ 
+ April 
+ 
+ May 
+ 
+ June 
+ 
+ July 
+ 
+ August 
+ 
+ September 
+ 
+ October 
+ 
+ November 
+ 
+ December 
+ 
+ 2017 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ 2018 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ 2019 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ 2020 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ 2021 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ 2022 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ 2023 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ 2024 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ 2025 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ 2026 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ 2027 
+ 
+ SNFR 
+ 
+ BOST 
+ 
+ NWYK 
+ 
+ PITT 
+ 
+ ATLA 
+ 
+ CINC 
+ 
+ INDP 
+ 
+ CHIC 
+ 
+ DSMN 
+ 
+ DALL 
+ 
+ TPKA 
+ 
+ SNFR 
+ 
+ 
+ 
+ 
+ 1  The primary Contingency Bank shall be determined on a rotating basis each month beginning January 2017 with the initial order and priority set forth above (e.g., Boston shall be the Contingency Bank in January 2017, unless at that time Boston were the Delinquent Bank, in which case New York would become the Contingency Bank, and if New York were also a Delinquent Bank, Pittsburgh would become the Contingency Bank, etc.). The primary Contingency Bank will be responsible for funding any Delinquent Bank'(s) P&I obligations during the month for which it is the designated Contingency Bank, and on the first day of the following month the order and priority will rotate, so that the then current primary Contingency Bank will move to the last position, the current secondary Contingency Bank will move to the primary position, the current tertiary Contingency Bank will move to the secondary position, etc. Following 2027, the Primary Contingency Bank rotation will begin again at the top of the table with the row for 2017 being applicable for 2028, 2018 being applicable for 2029 and 2019 being applicable for 2030, and so on. 
+ 
+ 
+ 
+ 13 
+ 

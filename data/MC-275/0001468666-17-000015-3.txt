@@ -1,0 +1,243 @@
+ htm 37266 Material contracts 10 2017-03-29T16:02:11.525513-05:00 Filing 0001468666-17-000015 2017-03-29 10-K Annual  & Quarterly Reports 0001468666 SecureWorks Corp 7372 Prepackaged Software GEORGIA DELAWARE DELAWARE SecureWorks Holding Corp false Non-accelerated Filer 001-37748 EXHIBIT 10.34 Exhibit Exhibit 3 exhibit103410kfy2017.htm EX-10.34 3 exhibit103410kfy2017.htm EXHIBIT 10.34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Exhibit 10.34 
+ 
+ 
+ 
+ 
+ 
+ First Amendment to Revolving Credit Agreement 
+ 
+ AMENDMENT NO. 1, dated as of March 28, 2017 (this " Amendment No. 1 "), to the Revolving Credit Agreement, dated as of November 2, 2015 (the " Credit Agreement "), between SECUREWORKS, INC., a Georgia corporation, as borrower (the " Borrower "), and DELL USA L.P., a Texas limited partnership, as lender (the   "Lender" ). 
+ WHEREAS, the Borrower and the Lender are parties to the Credit Agreement; 
+ WHEREAS, the Effective Date under the Credit Agreement occurred on April 21, 2016; and 
+WHEREAS, the parties hereto wish to amend the Credit Agreement to extend the Commitment Termination Date for one additional year. 
+NOW, THEREFORE, in consideration of the premises and the mutual agreements herein contained and other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, and subject to the conditions set forth herein, the parties hereto hereby agree as follows: 
+ SECTION 1. Defined Terms .  Capitalized terms used but not defined herein (including in the preamble and recitals hereto) shall have the meanings assigned to such terms in the Credit Agreement. The principles of interpretation set forth in Section 1.03 of the Credit Agreement also apply to this Amendment No. 1. 
+ 
+ SECTION 2. Amendments. Subject to the provisions of Section 4(a) of this Amendment No. 1, the Credit Agreement is hereby amended as follows: 
+ 
+ (a) In Section 1.01 ( Certain Defined Terms ) of the Credit Agreement, the definition of the term " Commitment Termination Date " is hereby amended and restated to read in its entirety as follows: 
+ " Commitment Termination Date " means the two-year anniversary of the Effective Date. 
+ (b)Each reference in the Credit Agreement to "this Agreement," and the words "hereof," "hereto" and the like shall, when referring to the Credit Agreement as a whole and not to individual clauses or provisions, refer to the Credit Agreement as amended by this Amendment No. 1, except that the phrases "date of this Agreement" and "date hereof" and any similar ref erences shall continue to refer to November 2, 2015. 
+ 
+ SECTION 3. Representations and Warranties. The Borrower hereby represents and warrants to the Lender that each of the representations and warranties set forth in Section 7 of the Credit Agreement as amended hereby is true  and correct in all material respects both before and after giving effect to this Amendment No. 1;   provided, that, to the extent that such representations and warranties expressly refer to an earlier date, they shall be true and correct in all material respects as of such earlier date. The Borrower acknowledges that it makes the representations and warranties herein with the intention of inducing the Lender to enter into this Amendment No. 1 and to make Loans under the Credit Agreement and the other documents contemplated thereby, and that the Lender enters into this Amendment No. 1 on the basis of, and in full reliance on, each of such re presentations and warranties. 
+ 
+ 
+ SECTION 4. Miscellaneous . 
+ (a) Conditions Precedent . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The amendments to be effected by this Amendment No. 1 shall become effective as of the date of this Amendment No. 1 provided that the Lender shall have received the following, each  in form and substance satisfactory to the Lender: 
+ 
+ (i) 
+ 
+ This Amendment No. 1, duly executed and delivered by the Borrower and the Lender; 
+ 
+ 
+ (ii) 
+ 
+Copies of all licenses, consents, authorizations and approvals of, and notices to and filings and registrations with, any Governmental Authority (including all foreign exchange approvals), and of all third-party consents and approvals, necessary in connection with the making and performance by the Borrower of this Amendment No. 1 (and the Credit Agreement as  amended hereby) and the transactions contemplated thereby; and 
+ 
+ 
+ (iii) 
+ 
+Copies of the resolutions of the Board of Directors of the Borrower authorizing the entry into and performance by it of this Amendment No. 1 (and the Credit Agreement as amended he reby). 
+ 
+ (b) No Other Amendments . 
+ 
+ (i) 
+ 
+Except as expressly set forth herein, this Amendment No. 1 shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other document contemplated thereby, all of which are ratified and affirmed in all respects and shall continue in full force and effect. 
+ 
+ 
+ (ii) 
+ 
+Nothing herein shall be deemed to entitle the Borrower or any other Person to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement (other than the amendments to the Credit Agreement expressly set forth in this Amendment No. 1) or any other d ocument contemplated thereby in similar or different circumstances. 
+ 
+ (c) Applicable Law .  This Amendment No. 1 and the Credit Agreement as amended hereby shall be governed by and construed in accordance with the laws of the State of Texas, without giving effect to any choice or conflict of law provision or rule (whether of the State of Texas or any other jurisdiction) that would cause the application of the applicable laws of any jurisdiction oth er than the State of Texas. 
+ (d) Counterparts .  This Amendment No. 1 may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Amendment No. 1 by facsimile or electronic mail shall be effectiv e as delivery of a manually executed counterpart of this Amendment No. 1. 
+ (e) Captions .  The section and paragraph headings appearing herein are included solely for convenience of reference and are not intended to affect the interpretation of any provision of this Amen dment No. 1 (or the Credit Agreement as amended hereby). 
+ 
+ [ Remainder of page intentionally left blank ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment No. 1 to be duly executed by their respective authorized officers as of the date set forth above. 
+          
+ 
+ 
+ 
+ 
+   
+ 
+ BORROWER 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ SECUREWORKS, INC. 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+ /s/ Wayne Jackson 
+ 
+   
+ 
+   
+ 
+ Name: Wayne Jackson 
+ 
+   
+ 
+   
+ 
+ Title: Chief Financial Officer 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ LENDER 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ DELL USA L.P. 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+ /s/ Janet B. Wright 
+ 
+   
+ 
+   
+ 
+ Name: Janet B. Wright 
+ 
+   
+ 
+   
+ 
+ Title: Senior Vice President and Assistant Secretary 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

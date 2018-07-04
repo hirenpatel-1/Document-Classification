@@ -1,0 +1,465 @@
+ htm 157896 Articles of incorporation 3 2016-07-16T09:30:34.530293-05:00 Filing 0001193125-15-090590 2015-03-13 10-K Annual  & Quarterly Reports 0000922863 QUALITY DISTRIBUTION INC 4213 Trucking, Except Local No FLORIDA FLORIDA FLORIDA MTL INC true Accelerated Filer 000-24180 AMENDED AND RESTATED BYLAWS OF QUALITY DISTRIBUTION. INC. Exhibit Exhibit 2 d828579dex34.htm EX-3.4 2 d828579dex34.htm AMENDED AND RESTATED BYLAWS OF QUALITY DISTRIBUTION. INC. 
+ Exhibit 3.4 
+ AMENDED  & RESTATED BY-LAWS 
+ OF 
+ QUALITY DISTRIBUTION, INC. 
+ (as amended December 23, 2014) 
+ 
+ 
+ TABLE OF CONTENTS 
+   
+                Page   
+ ARTICLE I. 
+    OFFICES      1    
+ SECTION 
+        A.        PRINCIPAL OFFICE      1    
+ SECTION 
+    B.    OTHER OFFICES      1    
+ ARTICLE II. 
+    SHAREHOLDERS      1    
+ SECTION 
+    A.    ANNUAL MEETING      1    
+ SECTION 
+    B.    SPECIAL MEETINGS      1    
+ SECTION 
+    C.    PLACE OF MEETING      1    
+ SECTION 
+    D.    NOTICE OF MEETING      1    
+ SECTION 
+    E.    NOTICE OF ADJOURNED MEETING      2    
+ SECTION 
+    F.    WAIVER OF CALL AND NOTICE OF MEETING      2    
+ SECTION 
+    G.    QUORUM      2    
+ SECTION 
+    H.    ADJOURNMENT; QUORUM FOR ADJOURNED MEETING      2    
+ SECTION 
+    I.    VOTING ON MATTERS OTHER THAN ELECTION OF DIRECTORS      2    
+ SECTION 
+    J.    VOTING FOR DIRECTORS      2    
+ SECTION 
+    K.    VOTING LISTS      3    
+ SECTION 
+    L.    VOTING OF SHARES      3    
+ SECTION 
+    M.    PROXIES      3    
+ SECTION 
+    N.    INFORMAL ACTION BY SHAREHOLDERS      3    
+ SECTION 
+    O.    PRESIDING OFFICER AND SECRETARY      3    
+ SECTION 
+    P.    INSPECTORS      3    
+ SECTION 
+    Q.    BUSINESS AT ANNUAL MEETING      3    
+ ARTICLE III. 
+    BOARD OF DIRECTORS      4    
+ SECTION 
+    A.    GENERAL POWERS      4    
+ SECTION 
+    B.    NUMBER, TENURE AND QUALIFICATIONS      4    
+ SECTION 
+    C.    ANNUAL MEETING      4    
+ SECTION 
+    D.    REGULAR MEETINGS      4    
+ SECTION 
+    E.    SPECIAL MEETINGS      5    
+ SECTION 
+    F.    NOTICE      5    
+ SECTION 
+    G.    QUORUM      5    
+   
+ -i- 
+ 
+ 
+ TABLE OF CONTENTS 
+ (continued) 
+   
+                Page   
+ SECTION 
+        H.        ADJOURNMENT; QUORUM FOR ADJOURNED MEETING      5    
+ SECTION 
+    I.    MANNER OF ACTING      5    
+ SECTION 
+    J.    RESIGNATION      5    
+ SECTION 
+    K.    NOMINATION FOR DIRECTORS      5    
+ SECTION 
+    L.    REMOVAL      6    
+ SECTION 
+    M.    VACANCIES      6    
+ SECTION 
+    N.    COMPENSATION      6    
+ SECTION 
+    O.    PRESUMPTION OF ASSENT      6    
+ SECTION 
+    P.    INFORMAL ACTION BY BOARD      7    
+ SECTION 
+    Q.    MEETING BY TELEPHONE, ETC      7    
+ ARTICLE IV. 
+    OFFICERS      7    
+ SECTION 
+    A.    NUMBER      7    
+ SECTION 
+    B.    APPOINTMENT AND TERM OF OFFICE      7    
+ SECTION 
+    C.    RESIGNATION      7    
+ SECTION 
+    D.    REMOVAL      7    
+ SECTION 
+    E.    VACANCIES      7    
+ SECTION 
+    F.    DUTIES OF THE CHAIRMAN OF THE BOARD      7    
+ SECTION 
+    G.    DUTIES OF THE PRESIDENT      7    
+ SECTION 
+    H.    DUTIES OF VICE PRESIDENTS      8    
+ SECTION 
+    I.    DUTIES OF THE SECRETARY      8    
+ SECTION 
+    J.    DUTIES OF THE CHIEF FINANCIAL OFFICER      8    
+ SECTION 
+    K.    DUTIES OF ASSISTANT SECRETARIES      8    
+ SECTION 
+    L.    SALARIES      8    
+ SECTION 
+    M.    DELEGATION OF DUTIES      8    
+ SECTION 
+    N.    DISASTER EMERGENCY POWERS OF ACTING OFFICERS      9    
+ ARTICLE V. 
+    EXECUTIVE AND OTHER COMMITTEES      9    
+ SECTION 
+    A.    CREATION OF COMMITTEES      9    
+ SECTION 
+    B.    EXECUTIVE COMMITTEE      9    
+ SECTION 
+    C.    COMPENSATION COMMITTEE      9    
+ SECTION 
+    D.    AUDIT COMMITTEE      9    
+   
+ -ii- 
+ 
+ 
+ TABLE OF CONTENTS 
+ (continued) 
+   
+                Page   
+ SECTION 
+        E.        OTHER COMMITTEES      10    
+ SECTION 
+    F.    REMOVAL OR DISSOLUTION      10    
+ SECTION 
+    G.    VACANCIES ON COMMITTEES      10    
+ SECTION 
+    H.    MEETINGS OF COMMITTEES      10    
+ SECTION 
+    I.    ABSENCE OF COMMITTEE MEMBERS      10    
+ SECTION 
+    J.    QUORUM OF COMMITTEES      10    
+ SECTION 
+    K.    MANNER OF ACTING OF COMMITTEES      10    
+ SECTION 
+    L.    MINUTES OF COMMITTEES      10    
+ SECTION 
+    M.    COMPENSATION      10    
+ SECTION 
+    N.    INFORMAL ACTION      10    
+ ARTICLE VI. 
+    INDEMNIFICATION OF DIRECTORS AND OFFICERS      11    
+ SECTION 
+    A.    GENERAL      11    
+ SECTION 
+    B.    ACTIONS BY OR IN THE RIGHT OF THE CORPORATION      11    
+ SECTION 
+    C.    OBLIGATION TO INDEMNIFY      11    
+ SECTION 
+    D.    DETERMINATION THAT INDEMNIFICATION IS PROPER      11    
+ SECTION 
+    E.    EVALUATION AND AUTHORIZATION      12    
+ SECTION 
+    F.    PREPAYMENT OF EXPENSES      12    
+ SECTION 
+    G.    NONEXCLUSIVITY AND LIMITATIONS      12    
+ SECTION 
+    H.    CONTINUATION OF INDEMNIFICATION RIGHT      12    
+ SECTION 
+    I.    INSURANCE      12    
+ ARTICLE VII. 
+    INTERESTED PARTIES      13    
+ SECTION 
+    A.    GENERAL      13    
+ SECTION 
+    B.    DETERMINATION OF QUORUM AND APPROVAL      13    
+ SECTION 
+    C.    APPROVAL BY SHAREHOLDERS      13    
+ ARTICLE VIII. 
+    CERTIFICATES OF STOCK      13    
+ SECTION 
+    A.    CERTIFICATES FOR SHARES      13    
+ SECTION 
+    B.    SIGNATURES OF PAST OFFICERS      13    
+ SECTION 
+    C.    TRANSFER AGENTS AND REGISTRARS      14    
+ SECTION 
+    D.    TRANSFER OF SHARES      14    
+   
+ -iii- 
+ 
+ 
+ TABLE OF CONTENTS 
+ (continued) 
+   
+                Page   
+ SECTION 
+        E.        LOST CERTIFICATES      14    
+ ARTICLE IX. 
+    RECORD DATE      14    
+ SECTION 
+    A.    RECORD DATE FOR SHAREHOLDER ACTIONS      14    
+ SECTION 
+    B.    RECORD DATE FOR DIVIDEND AND OTHER DISTRIBUTIONS      14    
+ ARTICLE X. 
+    DIVIDENDS      15    
+ ARTICLE XI. 
+    FISCAL YEAR      15    
+ ARTICLE XII. 
+    SEAL      15    
+ ARTICLE XIII. 
+    STOCK IN OTHER CORPORATIONS      15    
+ ARTICLE XIV. 
+    AMENDMENTS      15    
+ ARTICLE XV. 
+    EMERGENCY BY-LAWS      15    
+ SECTION 
+    A.    SCOPE OF EMERGENCY BY-LAWS      16    
+ SECTION 
+    B.    CALL AND NOTICE OF MEETING      16    
+ SECTION 
+    C.    QUORUM AND VOTING      16    
+ SECTION 
+    D.    APPOINTMENT OF TEMPORARY DIRECTORS      16    
+ SECTION 
+    E.    MODIFICATION OF LINES OF SUCCESSION      16    
+ SECTION 
+    F.    CHANGE OF PRINCIPAL OFFICE      16    
+ SECTION 
+    G.    LIMITATION OF LIABILITY      16    
+ SECTION 
+    H.    REPEAL AND CHANGE      16    
+   
+ -iv- 
+ 
+ 
+ AMENDED  & RESTATED BY-LAWS 
+ OF 
+ QUALITY DISTRIBUTION, INC. 
+ (as amended December 23, 2014) 
+ ARTICLE I. 
+ Offices 
+SECTION A. PRINCIPAL OFFICE. The principal office of the corporation shall be in Tampa, County of Hillsborough, and State of Florida. 
+SECTION B. OTHER OFFICES. The corporation may also have offices at such other places both within and without the State of Florida as the Board of Directors may from time to time de termine or the business of the corporation may require. 
+ ARTICLE II. 
+ Shareholders 
+SECTION A. ANNUAL MEETING. A meeting of the shareholders shall be held annually, within six months of the end of each fiscal year of the corporation, for the purpose of electing directors and for the transaction of such other proper business as may come before the meeting, the exact date to be established by the Board of Directors from time to time. 
+SECTION B. SPECIAL MEETINGS. Special meetings of the shareholders may be called at any time, for any purpose or purposes, but only by (a) the Chief Executive Officer, (b) a majority of the directors in office, although less than a quorum, and (c) the holders of at least fifty percent (50%) of the total number of votes of the then outstanding shares of capital stock of the Corporation entitled to be cast on any issue proposed to be considered at such special meeting (provided such holders sign, date and deliver to the corporation's Secretary one or more written demands for a special meeting, describing the purpose(s) for which it is to be held). Notice and call of any such special meeting shall state the purpose or purposes of the proposed meeting, and business transacted at any special meeting of the shareholders shall be limited to the purposes stated in the notice thereof. 
+SECTION C. PLACE OF MEETING. The Board of Directors may designate any place, either within or without the State of Florida, as the place of meeting for any annual or special meeting of the shareholders. A waiver of notice signed by all shareholders entitled to vote at a meeting may designate any place, either within or without the State of Florida, as the place for the holding of such meeting. If no designation is made, the place of meeting shall be the principal office of the corporation in the State of Florida. 
+SECTION D. NOTICE OF MEETING. Written notice stating the place, day and hour of an annual or special meeting and the purpose or purposes for which it is called shall be delivered not less than ten (10) nor more than sixty (60) days before the date of the meeting to each shareholder entitled to vote at such meeting, except that no notice of a meeting need be given to any shareholder for which notice is not required to be given under applicable law. Notice may be delivered personally, via first-class United States mail, telegraph, teletype, facsimile or other electronic transmission, or by private mail carriers handling nationwide mail services, by or at the direction of the President, the Secretary, the Board of Directors, or the person(s) calling the meeting. If mailed via first-class United States mail, addressed to the shareholder at the shareholder's address as it appears on the stock  transfer books of the corporation, with postage thereon prepaid. 
+SECTION E. NOTICE OF ADJOURNED MEETING. If an annual or special shareholders' meeting is adjourned to a different date, time, or place, notice need not be given of the new date, time or place if the new date, time or place is announced at the meeting before an adjournment is taken, and any business may be transacted at the 
+   
+ - 1 - 
+ 
+ 
+adjourned meeting that might have been transacted on the original date of the meeting. If, however, a new record date for the adjourned meeting is or must be fixed under law, notice of the adjourned meeting must be given to persons who are shareholders as of the new record date of who are otherwise entitled to notice of such meeting. 
+SECTION F. WAIVER OF CALL AND NOTICE OF MEETING. Call and notice of any shareholders' meeting may be waived by any shareholder before or after the date and time stated in the notice. Such waiver must be in writing signed by the shareholder and delivered to the corporation. Neither the business to be transacted at nor the purpose of any special or annual meeting need be specified in such waiver. A shareholder's attendance at a meeting (a) waives such shareholder's ability to object to lack of notice or defective notice of the meeting, unless the shareholder at the beginning of the meeting objects to holding the meeting or transacting business at the meeting; and (b) waives such shareholder's ability to object to consideration of a particular matter at the meeting that is not within the purpose or purposes described in the meeting notice, unless the shareholder objects to considering the m atter when it is presented. 
+SECTION G. QUORUM. Except as otherwise provided in these by-laws, the Articles of Incorporation, or by law a majority of the outstanding shares of the corporation entitled to vote, represented in person or by proxy, shall constitute a quorum at any meeting of the shareholders. Once a share is represented for any purpose at a meeting, it is deemed present for quorum purposes for the meeting and for any adjournment of that meeting, unless a new record date is or must be set for an adjourned meeting, and the withdrawal of shareholders after a quorum has been established at a meeting shall not effect the validity of any action taken at the meeting or any adjournment thereof. 
+SECTION H. ADJOURNMENT; QUORUM FOR ADJOURNED MEETING. If less than a majority of the outstanding shares is represented at a meeting, a majority of the shares so represented may adjourn the meeting without further notice. At such adjourned meeting at which a quorum shall be present or represented or deemed to be present or represented, any business may be tra nsacted which might have been transacted at the meeting as originally noticed. 
+SECTION I. VOTING ON MATTERS OTHER THAN ELECTION OF DIRECTORS. At any meeting at which a quorum is present, action on any matter other than the election of directors shall be approved if the votes cast by the holders of shares represented at the meeting and entitled to vote on the subject matter favoring the action exceed the votes cast opposing the action, unless a greater number of affirmative votes or voting by classes is required by these by-laws, the Articles of Incorporation or by law. 
+SECTION J. VOTING FOR DIRECTORS. Directors shall be elected as hereinafter set forth. Each shareholder who is entitled to vote at an election of directors has the right to vote the number of shares owned by him or her for as many persons as there are directors to be elected. Shareholders do not have a right to cumulate their votes for directors. 
+Except as provided with respect to Contested Elections, each nominee shall be elected a director by a Majority Vote with respect to that nominee's election at any meeting for the election of directors at which a quorum is present. For purposes of these by-laws, a "Majority Vote" means that the number of votes cast in favor of a nominee must exceed the number of votes cast against that nominee's election. Abstentions and broker non-votes, if any, will not count as a vote cast with respect to that nominee. 
+Directors shall be elected by a plurality of the votes cast in any Contested Election. For purposes of these by-laws, a "Contested Election" means an election of directors with respect to which, as of ten (10) days prior to the date the Corporation first mails the notice of such meeting to shareholders, there are more nominees for election than positions on  the Board of Directors to be filled by election at the meeting. 
+Except with regard to Contested Elections, each nominee for election as a director shall provide to the Corporation, prior to the distribution of the proxy statement relating to such meeting, a contingent letter of resignation from the Board of Directors which shall become effective only if the director fails to receive a sufficient number of votes for re-election at the annual meeting of shareholders and the Board of Directors determines to accept the resignation. 
+   
+ - 2 - 
+ 
+ 
+SECTION K. VOTING LISTS. At least ten (10) days prior to each meeting of shareholders, the officer or agent having charge of the stock transfer books for shares of the corporation shall make or cause to be made a complete list of the shareholders entitled to vote at such meeting, or any adjournment thereof, with the address and the number, class and series (if any) of shares held by each, which list shall be subject to inspection by any shareholder during normal business hours for at least ten (10) days prior to the meeting. The list also shall be available at the meeting and shall be subject to inspection by any shareholder at any time during the meeting or its adjournment. The shareholders list shall be prima facie evidence as to who are the shareholders entitled to examine such list or the transfer books or to vote at any meeting of the shareholders. 
+SECTION L. VOTING OF SHARES. Each shareholder entitled to vote shall be entitled at every meeting of the shareholders to one vote in person or by proxy on each matter for each share of voting stock held by such shareholder. Such right to vote shall be subject to the right of the Board of Directors for voting shareholders as here after provided. 
+SECTION M. PROXIES. At all meetings of shareholders, a shareholder may vote by proxy, executed in writing and delivered to the corporation in the original or transmitted via telegram, or as a photographic, photostatic or equivalent reproduction of a written proxy by the shareholder or by the shareholder's duly authorized attorney-in-fact; but, no proxy shall be valid after eleven (11) months from its date, unless the proxy provides for a longer period. Each proxy shall be filed with the Secretary of the corporation before or at the time of the meeting. In the event that a proxy shall designate two or more persons to act as proxies, a majority of such persons present at the meeting, or, if only one is present, that one, shall have all of the powers conferred by the proxy upon all the persons so designated, unless the instrument shall provide otherwise. 
+SECTION N. INFORMAL ACTION BY SHAREHOLDERS. Unless otherwise provided in the Articles of Incorporation, any action required or permitted to be taken at a meeting of the shareholders may be taken without a meeting, without prior notice and without a vote if one or more consents in writing, setting forth the action so taken, shall be signed by shareholders holding shares representing not less than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all shares entitled to vote thereon were present and voted. No written consent shall be effective to take the corporate action referred to therein unless, within sixty (60) days of the date of the earliest dated consent delivered to the Secretary, written consent signed by the number of shareholders required to take action is delivered to the Secretary. If authorization of an action is obtained by one or more written consent but less than all shareholders so consent, then within ten (10) days after obtaining the authorization of such action by written consents, notice must be given to each shareholder who did not consent in writing and to each shareholder who is not entitled to vote on the action. 
+SECTION O. PRESIDING OFFICER AND SECRETARY. At every meeting of the shareholders, the President, or in his absence the Chairman of the Board, or in his absence an individual appointed by the Board of Directors, shall act as the presiding officer of the meeting. The Secretary, or in his absence an Assistant Secretary, shall act as the secretary for the meetin g. 
+SECTION P. INSPECTORS. For each meeting of the shareholders, the Board of Directors or the President may appoint two inspectors to supervise the voting; and, if inspectors are so appointed, questions respecting the qualification of any vote, the validity of any proxy, and the acceptance or action of any vote shall be decided by such inspectors. Before acting at any meeting, the inspectors shall take an oath to execute their duties with strict impartiality and according to the best of their ability. If any inspector shall fail to be present or shall decline to act, the presiding officer shall appoint another inspector to act in his place. In case of a tie vote by the inspectors on any question, the presiding off icer shall decide the issue. 
+SECTION Q. BUSINESS AT ANNUAL MEETING. At any annual meeting of shareholders, only such business shall be conducted as shall have been (i) specified in the notice of meeting (or any supplement thereto) given by or at the direction of the Board of Directors, (ii) otherwise properly brought before the meeting by or to the direction of the Board of Directors, or (iii) otherwise properly brought before the annual meeting by a shareholder who is a shareholder of record at the time of the giving of the notice provided for in this Section Q  of this Article II and who shall be entitled to vote at such meeting. 
+   
+ - 3 - 
+ 
+ 
+In addition to any other applicable requirements, for business to be properly brought before an annual meeting by a shareholder, the shareholder must have given timely notice thereof in writing to the Secretary of the Corporation. To be timely, a shareholder's notice shall be delivered to or mailed and received at the principal executive offices of the Corporation not less than ninety (90) days nor more than one hundred and twenty (120) days prior to the meeting; provided, however, that in the event that less than ninety (90) days' notice or prior public disclosure of the date of the meeting is given or made to shareholders, notice by the shareholder to be timely must be received not later than the close of business on the tenth (10th) day following the day on which such notice of the date of the meeting was mailed or such public disclosure was made, whichever first occurs. A shareholder's notice to the Secretary shall set forth as to each matter the shareholder proposes to bring before the annual meeting (i) a brief description of the business desired to be brought before the annual meeting, (ii) the reasons for conducting such business at the meeting, (iii) the name and record address of the shareholder proposing such business, (iv) the class or series and number of shares of the Corporation which are owned beneficially or of record by the shareholder, (v) a description of all arrangements or understandings between the shareholder and any other person or persons (including their names) in connection with the proposal of such business by the shareholder and any material interest of the shareholder in such business, (vi) the same information required by clauses (ii), (iii) and (iv) above with respect to any other shareholder that, to the knowledge of the shareholder proposing such business, supports such proposal, and (vii) a representation that the shareholder intends to appear in person or by proxy at the annual meeting to bring such business b efore the meeting. 
+Notwithstanding anything in this Section Q of this Article II to the contrary, a shareholder intending to nominate one or more persons for election as a director at an annual meeting must comply with Section K of Article III of these by-laws for such nominations to be properly brought before such meeting. 
+No business shall be conducted at the annual meeting of shareholders except business brought before the annual meeting in accordance with the procedures set forth in this Section Q  of this Article II . The Chairman or other officer of the Corporation presiding at the annual meeting shall, if the facts warrant, determine that business was not properly brought before the meeting in accordance with the provisions of this Section Q of this Article II, and if he or she should so determine, shall so declare to the meeting and any such business not properly brou ght before the meeting shall not be transacted. 
+ ARTICLE III. 
+ Board of Directors 
+SECTION A. GENERAL POWERS. The business and affairs of the corporation shall be conducted by its Board of Directors, which may exercise all such powers of the corporation and do all acts and things as are not by law, the Articles of Incorporation or these by-laws directed or required to be exercised or done only by the shareholders. 
+SECTION B. NUMBER, TENURE AND QUALIFICATIONS. The number of directors of the corporation shall be not fewer than one (1) nor more than thirteen (13) as may be designated from time to time by resolution adopted by a majority of the remaining directors, even if less than a quorum. Each director shall hold office until the next annual meeting of shareholders and until such director's successor shall have been duly elected and shall have qualified, unless such director sooner dies, resigns or is removed by the shareholders at any annual or special meeting. It shall not be necessary for directors to be shareholders. All directors shall be natural persons who are 18 years of age or older. 
+SECTION C. ANNUAL MEETING. After each annual meeting of shareholders, the Board of Directors shall hold its annual meeting at the same place as and, immediately, following such annual meeting of shareholders for the purpose of the election of officers and the transaction of such other business as may come before the meeting; and, if a majority of the directors are present at such place and time, no prior notice of such meeting shall be required to be given to the directors. The place and time of such meeting may be varied by written c onsent of all the directors. 
+SECTION D. REGULAR MEETINGS. Regular meetings of the Board of Directors may be held without notice at such time and at such place as shall be determined from time to time by the Bo ard of Directors. 
+   
+ - 4 - 
+ 
+ 
+SECTION E. SPECIAL MEETINGS. Special meetings of the Board of Directors may be called by the Chairman of the Board, the Chief Executive Officer, the President or, if the corporation then has a lead independent director (or other director of comparable authority who is not the Chairman of the Board) constituted as such pursuant to corporate governance guidelines or other policy duly adopted by the Board, by such director. The person or persons authorized to call special meetings of the Board of Directors may fix the place for holding any special meetings of the Board of Directors called by him or them, as the case may be. If no such designation is made, the place of meeting shall be the principal office of the c orporation in the State of Florida. 
+SECTION F. NOTICE. Whenever notice of a meeting is required, written notice stating the place, day and hour of the meeting shall be delivered at least two (2) days prior thereto to each director, either personally, or by first-class United States mail, telegraph, teletype, facsimile or other form of electronic communication, or by private mail carriers handling nationwide mail services, to the director's business address. If notice is given by first-class United States mail, such notice shall be deemed to be delivered five (5) days after deposited in the United States mail so addressed with postage thereon prepaid or when received, if such date is earlier. If notice is given by telegraph, teletype, facsimile transmission or other form of electronic communication or by private mail carriers handling nationwide mail services, such notice shall be deemed to be delivered when received by the director. Any director may waive notice of any meeting, either before, at or after such meeting. The attendance of a director at a meeting shall constitute a waiver of notice of such meeting, except where a director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convene d and so states at the beginning of the meeting or promptly upon arrival at the meeting. 
+SECTION G. QUORUM. A majority of the total number of directors as determined from time to time to comprise the Board of Directors shall constitute a quorum. 
+SECTION H. ADJOURNMENT; QUORUM FOR ADJOURNED MEETING. If less than a majority of the total number of directors is present at a meeting, a majority of the directors so present may adjourn the meeting without further notice. At any adjourned meeting at which a quorum shall be present, any business may be transacted which might have been transacted at the meeti ng as originally noticed. 
+SECTION I. MANNER OF ACTING. If a quorum is present when a vote is taken, the act of a majority of the directors present at the meeting shall be the act of the Board of Directors. 
+SECTION J. RESIGNATION. Any director may resign at any time either orally at any meeting of the Board of Directors or by giving written notice to the corporation. A director who resigns may postpone the effectiveness of his resignation to a future date or upon the occurrence of a future event specified in a written tender of resignation. If no time of effectiveness is specified therein, the resignation shall be effective upon tender. A vacancy shall be deemed to exist at the time a resignation is tendered, and the Board of Directors m ay elect to appoint a successor to take office when the resignation by its terms becomes effective. 
+SECTION K. NOMINATION OF DIRECTORS. Only persons who are nominated in accordance with the following procedures shall be eligible for election as directors. Nominations of persons for election to the Board of Directors at the annual meeting may be made at a meeting of shareholders by or at the direction of the Board of Directors, by any nominating committee or person appointed by the Board of Directors or by any shareholder of the Corporation entitled to vote for the election of directors at the meeting who complies with the notice procedures set forth in this Section K of this Article III. Such nominations, other than those made by or at the direction of the Board of Directors, shall be made pursuant to timely notice in writing to the Secretary of the Corporation. To be timely, a shareholder's notice shall be delivered to or mailed and received at the principal executive offices of the Corporation not less than ninety (90) days nor more than one hundred and twenty (120) days prior to the meeting; provided, however, that in the event that less than ninety (90) days' notice or prior public disclosure of the date of the meeting is given or made to shareholders, notice by the shareholder to be timely must be received not later than the close of business on the tenth (10th) day following the day on which such notice of the date of the meeting was mailed or such public disclosure was made, whichever first occurs. In no event shall any adjournment or postponement of an annual meeting or the announcement thereof commence a new time period for the giving of a stockholder's notice as described above. 
+   
+ - 5 - 
+ 
+ 
+Such shareholder's notice to the Secretary shall set forth (a) as to each person whom the shareholder proposes to nominate for election as a director, (i) the name, age, business address and residence address of the person, (ii) the principal occupation or employment of the person, (iii) the class, series and number of shares of capital stock of the Corporation which are owned beneficially or of record by the person, (iv) any other information relating to the person that is required to be disclosed in solicitations for proxies for election of directors pursuant to Regulation 14A under the Securities Exchange Act of 1934, as amended, and (v) the consent of the person to serve as a director of the corporation, if so elected; and (b) as to the shareholder giving the notice (i) the name and record address of shareholder, (ii) (A) the class, series and number of shares of capital stock of the Corporation which are owned by the shareholder, (B) the name of each nominee holder of shares owned beneficially but not of record by such shareholder and the number of shares of stock held by each some nominate holder, (C) whether and the extent to which any derivative instrument, swap, option, warrant, short interest, hedge or profit interest has been entered into by or on behalf of such shareholder or any of its affiliates or associates with respect to stock of the Corporation and (D) whether and the extent to which any other transaction, agreement, arrangement or understanding (including any short position or any borrowing or lending of shares of stock) has been made by or on behalf of such shareholder or any of its affiliates or associates, the effect or intent of which is to mitigate loss to, or to manage risk or benefit of stock price changes for, such shareholder of any of its affiliates or associates or to increase or decrease the voting power or pecuniary or economic interest of such shareholder or any of its affiliates or associates with respect to stock of the Corporation, (iii) a description of all direct and indirect compensation and other material monetary agreements, arrangements and understandings during the past three (3) years, and any other material relationships, between or among such shareholder and any of its affiliates and associates, or others acting in concert therewith, on the one hand, and each proposed nominee, and his or her respective affiliates and associates, or others acting in concert therewith, on the other hand, (iv) a representation that the shareholder intends to appear in person or by proxy at the meeting to nominate the persons named, and (v) any other information relating to such shareholder that would be required to be disclosed in a proxy statement or other filings required to be made in connection with the solicitation of proxies for election of directors. The Corporation may require any proposed nominee to furnish such other information as reasonably may be required by the Corporation to determine the eligibility of such proposed nominee to serve as an independent director of the Corporation or that could be material to a reasonable shareholder's understanding of the independence, or lack thereof, of such nominee, and to provide a contingent letter of resignation in the form customarily used by the Corporation in other than Contested Elections. No person shall be eligible for election as a director of the Corporation unless nomin ated in accordance with the procedures set forth herein. 
+The officer of the Corporation presiding at the meeting shall, if the facts warrant, determine and declare to the meeting that a nomination was not made in accordance with the foregoing procedure, and if he or she should so determine, shall so declare to the meeting and the defective nomination shall be disregarded. 
+SECTION L. REMOVAL. Any director may be removed by the shareholders with or without cause at any meeting of the shareholders called expressly for that purpose, but such removal sha ll be without prejudice to the contract rights, if any, of the person removed. 
+SECTION M. VACANCIES. Any vacancy occurring in the Board of Directors, including any vacancy created by reason of an increase in the number of directors, may be filled by the affirmative vote of a majority of the remaining directors, even though less than a quorum of the Board of Directors, unless otherwise provided in the Articles of Incorporation. A director elected to fill a vacancy shall hold office for the balance of the terms, except that, in the case of an increase in the number of directors, such vacancy shall be filled only until the next annual meeting of shareholders, at which time the vacancy shall be filled by vote of the shareholders. 
+SECTION N. COMPENSATION. By resolution of the Board of Directors, the directors may be paid their expenses, if any, of attendance at each meeting of the Board of Directors, and each committee thereof, and may be paid a fixed sum for attendance at each meeting of the Board of Directors and each committee thereof, or a stated salary as directors. No payment shall preclude any director from serving the corporation in any other capacity and receiving compensation therefor. 
+SECTION O. PRESUMPTION OF ASSENT. A director of the corporation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless such director objects at the beginning of the meeting (or promptly upon his arrival) to the holding of the meeting or the transacting of specified business at the meeting or such director votes against such action or abstains from voting in respect of such matter. 
+   
+ - 6 - 
+ 
+ 
+SECTION P. INFORMAL ACTION BY BOARD. Any action required or permitted to be taken by any provisions of law, the Articles of Incorporation or these by-laws at any meeting of the Board of Directors or of any committee thereof may be taken without a meeting if each and every member of the Board or of such committee, as the case may be, signs a written consent thereto and such written consent is filed in the minutes of the proceedings of the Board or such committee, as the case may be. Action taken under this section is effective when the last director signs the consent, unless the consent specifies a different effective date, in which case it is effective on the date so specified. 
+SECTION Q. MEETING BY TELEPHONE, ETC. Directors or the members of any committee shall be deemed present at a meeting of the Board of Directors or of any such committee, as the case may be, if the meeting is conducted using a conference telephone or similar communications equipment by means of which all persons participating in the meeting can hear each other  at the same time. 
+ ARTICLE IV. 
+ Officers 
+SECTION A. NUMBER. The officers of the corporation shall consist of a Chief Executive Officer, President, a Secretary and a Chief Financial Officer, each of whom shall be appointed by the Board of Directors. The Board of Directors may also appoint a Chairman of the Board, who may also serve as an officer of the corporation, one or more Vice Presidents, one or more Assistant Secretaries and such other officers as the Board of Directors shall deem appropriate. The same individual may simultaneously hold more than one office in the corpo ration. 
+SECTION B. APPOINTMENT AND TERM OF OFFICE. The officers of the corporation shall be appointed annually by the Board of Directors at its annual meeting. If the appointment of officers shall not be made at such meeting, such appointment shall be made as soon thereafter as is convenient. A duly appointed officer may appoint one or more officers or assistant officers if so authorized by the Board of Directors. Each officer shall hold office until such officer's successor shall have been duly appointed and qualified, unless such officer sooner dies, resigns or is removed by the Board. In its discretion, the Board of Directors may leave unfilled for any period of time it may fix, any office except the office of Presi dent and Secretary. The appointment of an officer does not itself create contract rights. 
+SECTION C. RESIGNATION. An officer may resign at any time by delivering notice to the corporation. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date. An officer's resignation shall not affect the corporation's contract rights, if any, with the officer. 
+SECTION D. REMOVAL. The Board of Directors may remove any officer at any time with or without cause. An officer's removal shall not affect the officer's contract rights, if any, wi th the corporation. 
+SECTION E. VACANCIES. A vacancy in any office because of death, resignation, removal, disqualification or otherwise may be filled by the Board of Directors for the unexpired portio n of the term. 
+SECTION F. DUTIES OF THE CHAIRMAN OF THE BOARD. The chairman of the Board shall preside at all meetings of the Board of Directors and, in the absence of the President, shall preside at meetings of the shareholders. The Chairman of the Board may be the chief executive officer of the Corporation and may be appointed to such other office as the Board of Directors shall determine, and shall perform such other duties as may be prescribed from time to time by the Board of Directors. 
+SECTION G. DUTIES OF THE CHIEF EXECUTIVE OFFICER. The Chief Executive Officer, unless otherwise - designated by the Board of Directors, shall be the chief executive officer of the corporation and shall have the responsibility for the management of the business and affairs of the corporation. The Chief Executive Officer shall preside at all meetings of the shareholders and, in the absence of the Chairman of the Board, shall preside at meetings of the Board of Directors. The Chief Executive Officer may sign, execute and deliver in the name of the corporation powers of attorney, contracts, bonds and other agreements and obligations. In addition to 
+   
+ - 7 - 
+ 
+ 
+the foregoing specific powers and duties, the Chief Executive Officer shall exercise such duties as customarily pertain to such office of a corporation and shall exercise such further powers and perform such other duties as may from time to time be conferred or assigned by the Board of Directors. 
+SECTION H. DUTIES OF THE PRESIDENT. In the absence or disability of the Chief Executive Officer, the President shall perform all the duties of the Chief Executive Officer, and when so acting shall have all of the powers of, and be subject to all the restrictions upon, the Chief Executive Officer. The President shall have such other powers and perform such other duties as from time to time may be prescribed by the Board of Directors or the Chief Executive Officer or the Chairman of the Board. 
+SECTION I. DUTIES OF VICE PRESIDENTS. Each Vice President shall have such powers and perform such duties as the Board of Directors or the President may prescribe and shall perform such other duties as may be prescribed by these by-laws. A Vice President may sign and execute contracts and other obligations pertaining to the regular course of his or her duties. In the absence or inability to act of the President, unless the Board of Directors shall otherwise provide, the Vice President who has served in such capacity for the longest time and who shall be present and able to act, shall perform all duties and may exercise any of the powers of the President. 
+SECTION J. DUTIES OF THE SECRETARY. The Secretary shall give, or cause to be given, notice of all meetings of the shareholders and of the Board of Directors, and all other notices required by law or by these by-laws. The Secretary shall keep a record of the minutes of the proceedings of meetings of shareholders and Board of Directors. The Secretary shall have custody of all books, records and papers of the corporation, except such as shall be in the charge of the Chief Financial Officer, or of some other person authorized to have custody and possession of such by a resolution of the Board of Directors. The Secretary may sign or execute contracts with the President or a Vice President thereunto authorized in the name of the corporation and affix the seal of the corporation thereto. The Secretary shall perform such other duties as may be prescribed by the President or the Board of Director s and shall perform such other duties as may be prescribed by these by-laws. 
+SECTION K. DUTIES OF THE CHIEF FINANCIAL OFFICER. The Chief Financial Officer, unless otherwise designated by the Board of Directors, shall be the chief financial officer of the corporation. The Chief Financial Officer shall have the general custody of all the funds and securities of the corporation and shall be responsible for the general supervision of the collection and disbursement of funds of the corporation. The Chief Financial Officer shall endorse on behalf of the corporation for collection checks, notes and other obligations, and shall deposit the same to the credit of the corporation in banks or other depositories. The Chief Financial Officer shall enter or cause to be entered regularly in the books of the corporation full and accurate account of all moneys received and paid on account of the corporation and shall render to the Board of Directors, whenever required, an account of all transactions and information pertaining to the financial condition of the corporation. The Chief Financial Officer shall have such other powers and perform such other duties as are assigned by the President or the Board of Directors and shall perform such other duties as may be prescribed by these by-laws. 
+SECTION L. DUTIES OF ASSISTANT SECRETARIES. The Board of Directors may appoint one or more assistant secretaries to perform such duties and to have such powers as shall be assigned  to them by the Secretary, the President or the Board of Directors. 
+SECTION M. SALARIES. The salaries of the officers shall be fixed from time to time by the Board of Directors, based on the recommendations of the Compensation Committee, and no officer shall be prevented from receiving a salary by reason of the fact that the officer is also a director of the corporation. 
+SECTION N. DELEGATION OF DUTIES. In the absence or disability of any officer of the corporation, or for any other reason deemed sufficient by the Board of Directors, the Board of Directors may delegate the powers or duties of such officer to any other officer or to any other director for such period of time as the Board of Directors shall determine, for the  time being. 
+SECTION O. DISASTER EMERGENCY POWERS OF ACTING OFFICERS. Unless otherwise expressly prescribed by action of the Board of Directors taken pursuant to Article XV of these by-laws, if, as a result of some catastrophic event, a quorum of the corporation's directors cannot readily be assembled and the President is 
+   
+ - 8 - 
+ 
+ 
+unable to perform the duties of the office of President and/or other officers are unable to perform their duties, (a) the powers and duties of President shall be held and performed by that officer of the corporation highest on the list of successors (adopted by the Board of Directors for such purpose) who shall be available and capable of holding and performing such powers and duties; and, absent any such prior designation, by that Vice President who shall be available and capable of holding and performing such powers and duties who has served in such capacity for the longest time; or, if no Vice President is available and capable of holding and performing such powers and duties, then by the Secretary; or, if the Secretary is likewise unavailable, by the Chief Financial Officer; (b) the officer so selected to hold and perform such powers and duties shall serve as Acting President until the President again becomes capable of holding and performing the powers and duties of President, or until the Board of Directors shall have elected a new President or designated another individual as Acting President; (c) such officer (or the President, if such person is still serving) shall have the power, in addition to all other powers granted to the President by law, the Articles of Incorporation, these by-laws and the Board of Directors, to appoint acting officers to fill vacancies that may have occurred, either permanently or temporarily, by reason of such disaster or emergency, each of such acting appointees to serve in such capacity until the officer for whom the acting appointee is acting is capable of performing the duties of such office, or until the Board of Directors shall have designated another individual to perform such duties or shall have elected or appointed another person to fill such office; (d) each acting officer so appointed shall be entitled to exercise all powers invested by law, the Articles of Incorporation, these by-laws and the Board of Directors in the office in which such person is serving; and (e) anyone transacting business with the corporation may rely upon a certificate signed by any two officers of the corporation that a specified individual has succeeded to the powers and duties of the President or such other specified office. Any person, firm, corporation or other entity to which such certificate has been delivered by such officers may continue to rely upon it until notified of a change by means of a writing signed by two officers of this corporation. 
+ ARTICLE V. 
+ Executive and Other Committees 
+SECTION A. CREATION OF COMMITTEES. The Board of Directors may designate an Executive Committee and one or more other committees, each to consist of two (2) or more of the directors  of the corporation. 
+SECTION B. EXECUTIVE COMMITTEE. The Executive Committee, if there shall be one, shall consult with and advise the officers of the corporation in the management of its business, and shall have, and may exercise, except to the extent otherwise provided in the resolution of the Board of Directors creating such Executive committee, such powers of the Board of Di rectors as can be lawfully delegated by the Board of Directors. 
+SECTION C. COMPENSATION COMMITTEE. The Board of Directors may appoint a Compensation Committee consisting of three (3) or more directors, at least a majority of whom shall be neither officers nor otherwise employed by the corporation. The Board of Directors shall designate one director as Chairman of the Compensation Committee. The Compensation Committee shall have the power to fix from time to time the compensation of all principal officers of the corporation (including the Chairman of the Board) subject to the approval of the Board of Directors, and shall otherwise exercise such powers as may be specifically delegated to it by the Board of Directors and act upon such matters as may be referred to it from time  to time for study and recommendation by the President or the Board of Directors. 
+SECTION D. AUDIT COMMITTEE. The Board of Directors may appoint from among its members an Audit Committee consisting of not less than three (3) members, and shall designate one of such members as the Chairman of the Audit Committee. The responsibilities of the Audit Committee shall be as follows: 
+(1) To recommend to the Board of Directors for approval by the shareholders a firm of independent public accountants to audit the accounts of the corporation and its subsidiaries; 
+(2) To meet jointly and/or separately with the chief financial officer of the corporation and the independent public accountants before commencement of the audit to (a) discuss the valuation of the adequacy and effectiveness of the accounting procedures and internal controls of the corporation and its subsidiaries, (b) approve the overall scope of the audit to be made and the fees to be charged, (c) inquire and discuss recent Financial Accounting Standards Board, Securities and Exchange Commission or other regulatory agency pronouncem ents, if any, which might affect the corporation's financial statements; 
+   
+ - 9 - 
+ 
+ 
+(3) To meet jointly and/or separately with the chief financial officer and the independent public accountants at the conclusion of the audit to (a) review the audited financial statements of the corporation, (b) discuss the results of the audit, (c) discuss any significant recommendations by the independent public accountants for improvement of accounting systems and controls of the corporation, and (d) discuss the quality and depth of staffing in the accounting and financial departments of the corporation; 
+(4) To meet and confer with such officers and employees of the corporation as the Audit Committee shall deem appropriate in connection with carrying out the foregoing responsibilit ies; and 
+ (5) To exercise such other powers as may be specifically delegated to it by the Board of Directors. 
+SECTION E. OTHER COMMITTEES. Such other committees, to the extent provided in the resolution or resolutions creating them, shall have such functions and may exercise such powers of  the Board of Directors as can be lawfully delegated. 
+SECTION F. REMOVAL OR DISSOLUTION. Any Committee of the Board of Directors may be dissolved by the Board at any meeting; and any member of such committee may be removed by the Board of Directors with or without cause. Such removal shall be without prejudice to the contract rights, if any, of the person so removed. 
+SECTION G. VACANCIES ON COMMITTEES. Vacancies on any committee of the Board of Directors shall be filled by the Board of Directors at any regular or special meeting. 
+SECTION H. MEETINGS OF COMMITTEES. Regular meetings of any committee of the Board of Directors may be held without notice at such time and at such place as shall from time to time be determined by such committee, and special meetings of any such committee may be called by any member thereof upon two (2) days notice of the date, time and place of the meeting given to each of the other members of such committee, or on such shorter notice as may be agreed to in writing by each of the other members of such committee, given either personally or in the manner provided in Section F of Article III of these by-laws (pertaining to notice for directors' meetings). 
+SECTION I. ABSENCE OF COMMITTEE MEMBERS. The Board of Directors may designate one or more directors as alternate members of any committee of the Board of Directors, who may replace  at any meeting of such committee, any member not able to attend. 
+SECTION J. QUORUM OF COMMITTEES. At all meetings of committees of the Board of Directors, a majority of the total number of members of the committee as determined from time to time  shall constitute a quorum for the transaction of business. 
+SECTION K. MANNER OF ACTING OF COMMITTEES. If a quorum is present when a vote is taken, the act of a majority of the members of any committee of the Board of Directors present at t he meeting shall be the act of such committee. 
+SECTION L. MINUTES OF COMMITTEES. Each committee of the Board of Directors shall keep regular minutes of its proceedings and report the same to the Secretary, and, when required, t o the Board of Directors when required. 
+SECTION M. COMPENSATION. Members of any Committee of the Board of Directors may be paid compensation in accordance with the provisions of Section M of Article III of these by-laws  (pertaining to compensation of directors). 
+SECTION N. INFORMAL ACTION. Any committee of the Board of Directors may take such informal action and hold such informal meetings as allowed by the provisions of Sections O and P o f Article III of these by-laws. 
+   
+ - 10 - 
+ 
+ 
+ ARTICLE VI. 
+ Indemnification of Directors and Officers 
+SECTION A. GENERAL. To the fullest extent permitted by the FBCA, including any amendments thereto (but in the case of any such amendment, only to the extent such amendment permits or requires the Corporation to provide broader indemnification rights than prior to such amendment, the corporation shall indemnify any person who is or was a party, or is threatened to be made a party, to any threatened, pending or completed action, suit or other type of proceeding (other than an action by or in the right of the corporation), whether civil, criminal, administrative, investigative or otherwise, and whether formal or informal, by reason of the fact that such person is or was a director or officer of the corporation or is or was serving at the request of the corporation as a director or officer of another corporation, partnership, joint venture, trust or other enterprise, against judgments, amounts paid in settlement, penalties, fines (including an excise tax assessed with respect to any employee benefit plan) and expenses (including counsel fees, including those for appeal) actually and reasonably incurred in connection with any such action, suit or other proceeding, including any appeal thereof, if such person acted in good faith and in a manner such person reasonably believed to be in, or not opposed to, the best interests of the corporation and, with respect to any criminal action or proceeding, had no reasonable cause to believe such person's conduct was unlawful. The termination of any such action, suit or other proceeding by judgment, order, settlement or conviction, or upon a plea of nolo contendere or its equivalent, shall not, of itself, create a presumption that the person did not act in good faith and in a manner that such person reasonably believed to be in, or not opposed to, the best interests of the corporation or, with respect to any criminal action or proceeding, had reasonable cause to believe that such person's conduct was unlawful. 
+SECTION B. ACTIONS BY OR IN THE RIGHT OF THE CORPORATION. To the fullest extent permitted by the FBCA, including any amendments thereto (but in the case of any such amendment, only to the extent such amendment permits or requires the Corporation to provide broader indemnification rights than prior to such amendment, the corporation shall indemnify any person who is or was a party, or is threatened to be made a party, to any threatened, pending or completed action, suit or other type of proceeding (as further described in Section A of this Article VI) by or in the right of the corporation to procure a judgment in its favor by reason of the fact that such person is or was a director or officer of the corporation or is or was serving at the request of the corporation as a director or officer of another corporation, partnership, joint venture, trust or other enterprise, against expenses (including counsel fees) and amounts paid in settlement not exceeding, in the judgment of the Board of Directors, the estimated expenses of litigating the action, suit or other proceeding to conclusion, actually and reasonably incurred in connection with the defense or settlement of such action, suit or other proceeding including any appeal thereof. Such indemnification shall be authorized if such person acted in good faith and in a manner such person reasonably believed to be in, or not opposed to, the best interests of the corporation, except that no indemnification shall be made under this Section B in respect of any claim, issue or matter as to which such person shall have been adjudged to be liable unless, and only to the extent that, the court in which such action, suit or other proceeding was brought, or any other court of competent jurisdiction, shall determine upon application that, despite the adjudication of liability but in view of all the circumstances of the case, such person is fairly and reasonably entitled to indemnification for such expenses that suc h court shall deem proper. 
+SECTION C. OBLIGATION TO INDEMNIFY. To the extent that a director or officer has been successful on the merits or otherwise in defense of any action, suit or other proceeding referred to in Section A or Section B of this Article VI, or in the defense of any claim, issue or matter therein, such person shall, upon application, be indemnified against expenses ( including counsel fees) actually and reasonably incurred by such person in connection therewith. 
+SECTION D. DETERMINATION THAT INDEMNIFICATION IS PROPER. Indemnification pursuant to Section A or Section B of this Article VI, unless made under the provisions of Section C of this Article VI or unless otherwise made pursuant to a determination by a court, shall be made by the corporation only as authorized in the specific case upon a determination that the indemnification is proper in the circumstances because the indemnified person has met the applicable standard of conduct set forth in Section A or Section B of this Article VI. Such determination shall be made either (1) by the Board of Directors by a majority vote of a quorum consisting of directors who were not parties to the action, suit or other proceed ing to which the indemnification relates; (2) if such 
+   
+ - 11 - 
+ 
+ 
+a quorum is not obtainable or, even if obtainable, by majority vote of a committee duly designated by the Board of Directors (the designation being one in which directors who are parties may participate) consisting solely of two or more directors not at the time parties to such action, suit or other proceeding; (3) by independent legal counsel (i) selected by the Board of Directors in accordance with the requirements of subsection (1) or by a committee designated under subsection (2) or (ii) if a quorum of the directors cannot be obtained and a committee cannot be designated, selected by majority vote of the full Board of Directors (the vote being one in which directors who are parties may participate); or (4) by the shareholders by a majority vote of a quorum consisting of shareholders who were not parties to such action, suit or other proceeding or, if no such quorum is obtainable, by  a majority vote of shareholders who were not parties to such action, suit or other proceeding. 
+SECTION E. EVALUATION AND AUTHORIZATION. Evaluation of the reasonableness of expenses and authorization of indemnification shall be made in the same manner as is prescribed in Section D of this Article VI for the determination that indemnification is permissible; provided, however, that if the determination as to whether indemnification is permissible is made by independent legal counsel, the persons who selected such independent legal counsel shall be responsible for evaluating the reasonableness of expenses and may authorize indemni fication. 
+SECTION F. PREPAYMENT OF EXPENSES. Expenses (including attorneys' fees, paralegals' fees and court costs) incurred by a director or officer in defending a civil or criminal action, suit or other proceeding referred to in Section A or Section B of this Article VI shall be paid by the corporation in advance of the final disposition thereof upon receipt of an undertaking by or on behalf of such director or officer to repay such amount if such person is ultimately found not to be entitled to indemnification by the corporation pursuant to  this Article VI. 
+SECTION G. NONEXCLUSIVITY AND LIMITATIONS. The indemnification and advancement of expenses provided pursuant to this Article VI shall not be deemed exclusive of any other rights to which a person may be entitled under any law, by-law, agreement, vote of shareholders or disinterested directors, or otherwise, both as to action in such person's official capacity and as to action in any other capacity while holding office with the corporation. The Board of Directors may, at any time, approve indemnification of or advancement of expenses to any other person that the corporation has the power by law to indemnify, including, without limitation, employees and agents of the corporation. in all cases not specifically provided for in this Article VI, indemnification or advancement of expenses shall not be made to the extent that such indemnification or advancement of expenses is expressly prohibite d by law. 
+SECTION H. CONTINUATION OF INDEMNIFICATION RIGHT. Unless expressly otherwise provided when authorized or ratified by this corporation, indemnification and advancement of expenses as provided for in this Article VI shall continue as to a person who has ceased to be a director, officer, employee or agent and shall inure to the benefit of the heirs, executors, and administrators of such person, unless otherwise provided when authorized or ratified. For purposes of this Article VI, the term "corporation" includes, in addition to the resulting corporation, any constituent corporation (including any constituent of a constituent) absorbed in a consolidation or merger, so that any person who is or was a director or officer of a constituent corporation, or is or was serving at the request of a constituent corporation as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise, is in the same position under this Article VI with respect to the resulting or surviving corporation as such person would have been with re spect to such constituent corporation if its separate existence had continued. 
+SECTION I. INSURANCE. The corporation may purchase and maintain insurance on behalf of any person who is or was a director, officer, employee or agent of the corporation, or who is or was serving at the request of the corporation as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise against any liability asserted against such person and incurred by such person in any such capacity or arising out of such person's status as such, whether or not the corporation would have  the power to indemnify such person against the liability under the provision. 
+   
+ - 12 - 
+ 
+ 
+ ARTICLE VII. 
+ Interested Parties 
+SECTION A. GENERAL. No contract or other transaction between the corporation and any one or more of its directors or any other corporation, firm, association or entity in which one or more of its directors are directors or officers or are financially interested shall be either void or voidable because of such relationship or interest, because such director or directors were present at the meeting of the Board of Directors or of a committee thereof which authorizes, approves or ratifies such contract or transaction or because such director's or directors' votes are counted for such purpose if: (a) the fact of such relationship or interest is disclosed or known to the Board of Directors or committee which authorizes, approves or ratifies the contract or transaction by a vote or consent sufficient for the purpose without counting the votes or consents of such interested directors; (b) the fact of such relationship or interest is disclosed or known to the shareholders entitled to vote on the matter, and they authorize, approve or ratify such contract or transaction by vote or written consent; or (c) the contract or transaction is fair and reasonable as to the corporation at the time it is authorized by the Board of Directors, a committee thereo f or the shareholders. 
+SECTION B. DETERMINATION OF QUORUM AND APPROVAL. For purposes of Section A(a) only of this Article VII, a conflict of interest transaction is authorized, approved or ratified if it receives the affirmative vote of a majority of the directors of the Board of Directors, or on the committee, who have no relationship or interest in the transaction described in Section A(a), but a transaction may not be authorized, approved or ratified under this Section B by a single director. If a majority of the directors who have no such relationship or interest in the transaction vote to authorize, approve or ratify the transaction, a quorum is present for the purpose of taking action under this Section B. The presence of, or a vote cast by, a director with such relationship or interest in the transaction does not affect the validity of any action taken under Section A(a) if the transaction is otherwise authorized, approved or ratified as provided in that subsection, but such presence or vote of those directors may be counted for purposes of determining whether the transaction is  approved under other sections of the corporation's by-laws and applicable law. 
+SECTION C. APPROVAL BY SHAREHOLDERS. For purposes of Section A(b) of this Article VII, a conflict of interest transaction shall be authorized, approved or ratified if it receives the vote of a majority of the shares entitled to be counted under this Section C. Shares owned by or voted under the control of a director who has a relationship or interest in the transaction described in Section A of this Article VII may not be counted in a vote of shareholders to determine whether to authorize, approve or ratify a conflict of interest transaction under Section A(b) of this Article VII. The vote of the shares owned by or voted under the control of a director who has a relationship or interest in the transaction described in Section A of this Article VII, shall be counted, however, in determining whether the transaction is approved under other sections of the corporation's by-laws and applicable law. A majority of those shares that would be entitled, if present, to be counted in a vote on the transaction under this Section C shall constitute a quorum for the purpose of t aking action under this Section C. 
+ ARTICLE VIII. 
+ Certificates of Stock 
+SECTION A. CERTIFICATES FOR SHARES. Shares may but need not be represented by certificates. The rights and obligations of shareholders shall be identical whether or not their shares are represented by certificates. If shares are represented by certificates, each certificate shall be in such form as the Board of Directors may from time to time prescribe, signed (either manually or in facsimile) by the President, a Vice President, the Secretary, or the Chief Financial Officer and sealed with the seal of the corporation or its facsimile), exhibiting the holder's name, certifying the number of shares owned and stating such other matters as may be required by law. The certificates shall be numbered and entered on the books of the corporation as they are issued. If shares are not represented by certificates, then, within a reasonable time after issue or transfer of shares without certificates, the corporation shall send the shareholder a written statement in such form as the Board of Directors may from time to time prescribe, certifying as to the number of shares owned by the shareholder and as to such other information as would have been required to be on certificates for such shares. 
+SECTION B. SIGNATURES OF PAST OFFICERS. If the person who signed (either manually or in facsimile) a share certificate no longer holds office when the certificate is issued, the ce rtificate shall nevertheless be valid. 
+   
+ - 13 - 
+ 
+ 
+SECTION C. TRANSFER AGENTS AND REGISTRARS. The Board of Directors may, in its discretion, appoint responsible banks or trust companies in such city or cities as the Board may deem advisable from time to time to act as transfer agents and registrars of the stock of the corporation; and, when such appointments shall have been made, no stock certificate shall be valid until countersigned by one of such transfer agents and registered by one of such registrars. 
+SECTION D. TRANSFER OF SHARES. Transfers of shares of the corporation shall be made upon its books by the holder of the shares in person or by the holder's lawfully constituted representative, upon surrender of the certificate of stock for cancellation if such shares are represented by a certificate of stock or by delivery to the corporation of such evidence of transfer as may be required by the corporation if such shares are not represented by certificates. The person in whose name shares stand on the books of the corporation shall be deemed by the corporation to be the owner thereof for all purposes and the corporation shall not be bound to recognize any equitable or other claim to or interest in such share on the part of any other person, whether or not it shall have express or other notice thereof, save as expressly provided by the laws of the State of Florida. 
+SECTION E. LOST CERTIFICATES. The Board of Directors may direct a new certificate or certificates to be issued in place of any certificate or certificates theretofore issued by the corporation and alleged to have been lost or destroyed, upon the making of an affidavit of that fact by the person claiming the certificate of stock to be lost or destroyed. When authorizing such issue of a new certificate or certificates, the Board of Directors may, in its discretion and as a condition precedent to the issuance thereof, require the owner of such lost or destroyed certificate or certificates, or the owner's legal representative, to advertise the same in such manner as it shall require and/or to give the corporation a bond in such sum as it may direct as indemnity against any claim that may be made against the corporation with respect to the certificate alleged to have been lost or destroyed. 
+ ARTICLE IX. 
+ Record Date 
+SECTION A. RECORD DATE FOR SHAREHOLDER ACTIONS. The Board of Directors is authorized from time to time to fix in advance a date, not more than sixty (60) nor less than ten (10) days before the date of any meeting of the shareholders, a date in connection with the obtaining of the consent of shareholders for any purpose, or the date of any other action requiring a determination of the shareholders, as the record date for the determination of the shareholders entitled to notice of and to vote at any such meeting and any adjournment thereof (unless a new record date must be established by law for such adjourned meeting), or of the shareholders entitled to give such consent or take such action, as the case may be. In no event may a record date so fixed by the Board of Directors precede the date on which the resolution establishing such record date is adopted by the Board of Directors. Only those shareholders listed as shareholders of record as of the close of business on the date so fixed as the record date shall be entitled to notice of and to vote at such meeting and any adjournment thereof, or to exercise such rights or to give such consent, as the case may be, notwithstanding any transfer of any stock on the books of the corporation after any such record date fixed as aforesaid. If the Board of Directors fails to establish a record date as provided herein, the record date shall be deemed to be the date ten (10) days  prior to the date of the shareholders' meeting. 
+SECTION B. RECORD DATE FOR DIVIDEND AND OTHER DISTRIBUTIONS. The Board of Directors is authorized from time to time to fix in advance a date, not more than sixty (60) nor less than ten (10) days before the date of any dividend or other distribution, as the record date for the determination of the shareholders entitled to receive such dividend or other distribution. In no event may a record date so fixed by the Board of Directors precede the date on which the resolution establishing such record date is adopted by the Board of Directors. Only those shareholders listed as shareholders of record as of the close of business on the date so fixed as the record date shall be entitled to receive the dividend or other distribution, as the case may be, notwithstanding any transfer of any stock on the books of the corporation after any such record date fixed as aforesaid. If the Board of Directors fails to establish a record date as provided herein, the record date shall be deemed to be the date ten (10) days prior to the date of distribution of the dividend or other distribu tion. 
+   
+ - 14 - 
+ 
+ 
+ ARTICLE X. 
+ Dividends 
+The Board of Directors may from time to time declare, and the corporation may pay, dividends on its outstanding shares of capital stock in the manner and upon the terms and conditions provided by the Articles of Incorporation and by law. Subject to the provisions of the Articles of Incorporation and to law, dividends may be paid in cash or property, includin g shares of stock or other securities of the corporation. 
+ ARTICLE XI. 
+ Fiscal Year 
+The fiscal year of the corporation shall begin on January 1 and end on December 31 of each year, unless the Board of Directors specifically establishes a different fiscal year. 
+ ARTICLE XII. 
+ Seal 
+The corporate seal shall have the name of the corporation, the word "SEAL" and the year of incorporation inscribed thereon, and may be a facsimile, engraved, printed or impression  seal. An impression of said seal appears on the margin hereof. 
+ ARTICLE XIII. 
+ Stock in Other Corporations 
+Shares of stock in other corporations held by the corporation shall be voted by such officer or officers or other agent of the corporation as the Board of Directors shall from time  to time designate for the purpose or by a proxy thereunto duly authorized by said Board. 
+ ARTICLE XIV. 
+ Amendments 
+These by-laws may be altered, amended or repealed and new by-laws may be adopted by the Board of Directors; provided that any by-law or amendment thereto as adopted by the Board of Directors may be altered, amended or repealed by vote of the shareholders entitled to vote thereon, or a new by-law in lieu thereof may be adopted by the shareholders, and the shareholders may prescribe in any by-law made by them that such by-law shall not be altered, amended or repealed by the Board of Directors. 
+ ARTICLE XV. 
+ Emergency By-laws 
+SECTION A. SCOPE OF EMERGENCY BY-LAWS. The emergency by-laws provided in this Article XV shall be operative during any emergency, notwithstanding any different provision set forth in the preceding articles hereof or the Articles of Incorporation. For purposes of the emergency by-law provisions of this Article XV, an emergency shall exist if a quorum of the corporation's directors cannot readily be assembled because of some catastrophic event. To the extent not inconsistent with the provisions of this Article XV, the provisions provided elsewhere herein shall remain in effect during such emergency and upon termination of such emergency, these emergency by-laws shall cease to be operative. 
+SECTION B. CALL AND NOTICE OF MEETING. During any emergency, a meeting of the Board of Directors may be called by any officer or director of the corporation. Notice of the date, time and place of the meeting shall be given by the person calling the meeting to such of the directors as it may be feasible to reach by any available means of communication. Such notice shall be given at such time in advance of the meeting as circumstances permit in the judgment of the person calling the meeting. 
+   
+ - 15 - 
+ 
+ 
+SECTION C. QUORUM AND VOTING. At any such meeting of the Board of Directors, a quorum shall consist of any one or more directors, and the act of the majority of the directors prese nt at such meeting shall be the act of the corporation. 
+SECTION D. APPOINTMENT OF TEMPORARY DIRECTORS. The director or directors who are able to be assembled at a meeting of directors during an emergency may assemble for the purpose of appointing, if such directors deem it necessary, one or more temporary directors (the "Temporary Directors") to serve as directors of the corporation during the term of any emergen cy. 
+1. The director or directors who are able to be assembled at a meeting of directors during an emergency may assemble for the purpose of appointing, if such directors deem it necessary, one or more temporary directors (the "Temporary Directors") to serve as directors of the corporation during the term of any emergency. 
+2. If no directors are able to attend a meeting of directors during an emergency, then such shareholders as may reasonably be assembled shall have the right, by majority vote of those assembled, to appoint Temporary Directors to serve on the Board of Directors until the termination of the emergency. 
+3. If no shareholders can reasonably be assembled in order to conduct a vote for Temporary Directors, then the President or his successor, as determined pursuant to Section N of Article IV herein shall be deemed a Temporary Director of the corporation, and such President or his successor, as the case may be, shall have the right to appoint additional Temporary Directors to serve with him on the Board of Directors of the corporation during the term of the emergency. 
+4. Temporary Directors shall have all of the rights, duties and obligations of directors appointed pursuant to Article III hereof, provided, however, that a Temporary Director may be removed from the Board of Directors at any time by the person or persons responsible for appointing such Temporary Director, or by vote of the majority of the shareholders present at any meeting of the shareholders during an emergency, and, in any event, the Temporary Director shall automatically be deemed to have resigned from the Board of Directors upon  the termination of the emergency in connection with which the Temporary Director was appointed. 
+SECTION E. MODIFICATION OF LINES OF SUCCESSION. During any emergency, the Board of Directors may provide, and from time to time modify, lines of succession different from that provided in Section N of Article IV in the event that during such an emergency any or all officers or agents of the corporation shall for any reason be rendered incapable of dischargin g their duties. 
+SECTION F. CHANGE OF PRINCIPAL OFFICE. The Board of Directors may, either before or during any such emergency, and effective during such emergency, change the principal office of the corporation or designate several alternative head offices or regional offices, or authorize the officers of the corporation to do so. 
+SECTION G. LIMITATION OF LIABILITY. No officer, director or employee acting in accordance with these emergency by-laws during an emergency shall be liable except for willful miscon duct. 
+SECTION H. REPEAL AND CHANGE. These emergency by-laws shall be subject to repeal or change by further action of the Board of Directors or by action of the shareholders, but no such repeal or change shall modify the provisions of Section G of this Article XV with regard to actions taken prior to the time of such repeal or change. Any amendment of these emergency by-laws may make any further or different provision that may be practical or necessary under the circumstances of the emergency. 
+   
+ - 16 - 

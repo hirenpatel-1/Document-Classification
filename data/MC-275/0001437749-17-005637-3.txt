@@ -1,0 +1,193 @@
+ htm 68153 Material contracts 10 2017-03-30T16:32:52.392145-05:00 Filing 0001437749-17-005637 2017-03-30 10-K Annual  & Quarterly Reports 0001461640 HomeTown Bankshares Corp HMTA HMTAP COMMON STOCK OTC 6022 State Commercial Banks No VIRGINIA VIRGINIA VIRGINIA false Small Reporting Company 001-37910 EXHIBIT 10.11 Exhibit Exhibit 3 ex10-11.htm EX-10.11 3 ex10-11.htm EXHIBIT 10.11 
+ Exhibit 10.11 
+   
+ EMPLOYMENT AGREEMENT 
+   
+ This Employment Agreement ("Agreement"), made as of the 5 th day of August, 2016, among HomeTown Bank, a Virginia Banking Corporation, HomeTown Bankshares Corporation, a Virginia incorporated registered bank holding company (collectively wi th HomeTown Bank, the "Employer") and Vance Adkins ("Employee"). 
+   
+WHEREAS, Employer recognizes that it is important to Employer and its stockholders to have stability and continuity in its executive management; 
+   
+WHEREAS, Employee desires job stability in order to devote his focus and energies on the management of Employer without concern over long-term implications on his career based on s hort-term considerations; 
+   
+WHEREAS, Employer also recognizes, as is the case with many publicly held corporations, the possibility that a change in control may arise and that such possibility, and the uncertainty and questions which it may raise among executive management, may result in the departure or distraction of executive management personnel to the detriment of Employer and the  shareholders of Employer; 
+   
+WHEREAS, the Board of Directors of HomeTown Bank and HomeTown Bankshares (collectively, the "Board") have determined that appropriate steps should be taken to reinforce and encourage the continued attention and dedication of Employer's Executive Vice President and Chief Financial Officer to his duties without distraction by the possibility of a change in con trol of Employer; 
+   
+WHEREAS, the Board believes it important, should Employer or the shareholders of Employer receive a proposal for transfer of control of Employer, that Employee, as a member of the Executive Management of Employer, be able to assess such proposal and advise the Boards thereon, without being unduly influenced by the uncertainties of Employee's personal situati on; 
+   
+WHEREAS, Employer and Employee now desire to formalize said employment with a formal Employment Agreement, including change in control provisions. 
+   
+NOW THEREFORE, in consideration of the premises and mutual covenants and agreements hereinafter set forth, the parties hereto agree as follows: 
+   
+ SECTION   I .    DEFINITIONS. As used in this Agreement, the following capitalized terms have the indicated meanings unless the context clearly requires otherwise: 
+   
+ 1.01. "Board" has the meaning ascribed to such terms in the recitals. 
+   
+1.02. "Cause" means (a) the continued knowing and willful failure by Employee to reasonably perform his duties hereunder (other than any such failure resulting from his incapacity due to physical or mental illness) or otherwise to materially comply with his obligations hereunder after a written demand for performance with respect thereto is delivered to the Employee by the Board or the Chief Executive Officer of the Employer and which failure has not been cured as hereinafter provided, which demand specifically identifies the manner in which the Board or the Chief Executive Officer of the Employer believes that Employee has not performed his duties or is otherwise in breach of his obligations hereunder; or (b) the engaging by the Employee in conduct constituting a felony or a crime involving moral turpitude; or (c) the issuance of a removal order or similar order by a governmental regulatory agency with appropriate jurisdiction prohibiting Employee from participating in the affairs of the Employer; or (d) drug or alcohol abuse, but only to the extent that such abuse had an obvious and material effect on Employer's reputation and/or on the performance of Employee's duties and responsibilities under this Agreement. Any act or failure to act by Employee based upon authority given pursuant to a resolution duly adopted by the Board or based upon the advice of counsel for the Employer or based upon Employee's good faith efforts to comply with all applicable banking rules and regulations shall be conclusively presumed to be done, or omitted to be done, by the Employee in good faith and in the best interests of the Employer and shall not be a basis for termination for Cause. It is also expressly understood that the Employee's attention to matters not directly related to the business of the Employer shall not provide a basis for termination for Cause so long as the Board has approved Employee's engagement in such activities. Upon the issuance of a written demand for performance under Section 1.02(a), Employee shall have 30 days in which to correct the deficiency, and if the Employee corrects such deficiency within this period the deficiency shall not constitute Cause. If the Employee does not correct the deficiency, in the sole discretion and judgment of the Board within the thirty (30) day period, such deficiency shall constitute Cause for purposes of the termination of this Agreement. The conditions constituting Cause under Section 1.02(b) or (c) above shall not require prior notice , a written demand for performance or an opportunity to cure. 
+   
+ 1.03     "Change in Control" shall be defined as set forth in Paragraph 6.01 hereof. 
+   
+1.04. "Date of Termination" means the date Employee's employment hereunder is deemed terminated, as follows: (a) other than as provided in Section 1.02(b) or (c), the date specified in the Notice of Termination, which date shall be at least 15 days, but not more than 30 days, after the date of the Notice of Termination, (b) if Employee's employment is to be terminated by Employer for Disability, thirty (30) days after Notice of Termination is given (provided that in the case of Disability the Employee shall not have returned to the performance of his duties on a full-time basis during such thirty (30) day period), (c) if Employee's employment is terminated by death, the date of Employee's death, or (d) if Emplo yee retires, the date of Employee's Retirement. 
+   
+ 
+ 1 
+ 
+   
+ 
+   
+1.05. "Disability" means (a) as a result of Employee's physical or mental condition, Employee shall have been absent from the full-time performance of his duties with the Employer for six (6) consecutive months, and (b) within thirty (30) days after Notice of Termination pursuant to Section 1.04(b) is given Employee shall not have returned to the full-time p erformance of his duties with or without reasonable accommodation. 
+   
+1.06. "Employer" includes any corporation or other entity which is the surviving or continuing entity in respect of any merger, consolidation or form of business combination in whi ch the Employer ceases to exist. 
+   
+1.07. "Employment Year" means the 12-month period beginning with the Initial Date and each 12-month period beginning on the annual anniversary of such Initial Date thereafter. 
+   
+ 1.08. "Initial Date" means August 5, 2016. 
+   
+1.09. "Notice of Termination" means a written notice that Employee's employment with Employer is terminated that specifies the Date of Termination when required in accordance with  Section 1.04. 
+   
+1.10. "Person" means any individual, corporation, partnership, group, association or other "person" as such term is used in Sections 3(a)(9) and 13(d)(3) of the Exchange Act, other  than Employer or any employee benefit plan(s). 
+   
+1.11. "Retirement" means voluntary termination of Employee's employment hereunder after the attainment of age sixty-five (65) or otherwise in accordance with Employer's then establ ished retirement policies. 
+   
+1.12. "Successor" means any Person that succeeds to, or has the practical ability to control (either immediately or with the passage of time) the Employer's business directly, by merger or consolidation, or indirectly by purchase of the Employer's voting securities, all or substantially all of its assets or otherwise. 
+   
+ SECTION II .  TERMS OF EMPLOYMENT AND DUTIES . 
+   
+ 2.01.  Employment with Employer. Employer employs Employee under the terms of this Agreement as of the Initial Date as Executive Vice President and Chief Financial Officer of Employer. Employee shall be expected to perform such services as are generally performed by the Executive Vice President and Chief Financial Officer of a community, commercial bank. Employee shall comply fully with all policies and procedures established, and all lawful directives given, from time to time, by the Board or the Chief Executive Officer. 
+   
+ 2.02.  Acceptance of Employment. Employee accepts such employment and shall devote his full-time, attention and best efforts to the diligent performance of his duties herein specified and as an officer of Employer. While employed hereunder, Employee will not, without the prior express written consent of the Board or the Chief Executive Officer accept employment with any other individual, corporation, partnership, governmental authority or other entity, or engage in any other venture for profit which the Board may consider in its reasonable judgment to be in conflict with Employer's best interest or to be in competition with Employer's business, or which may interfere in any way with Employee's performance of his duties hereunder. It is understood and agreed that Employee has the right to participate in passive investments including income producing real estate. 
+   
+ 2.03.  Term of Employment. Employee shall be employed by Employer pursuant hereto until the third year anniversary of the Initial Date unless Employee's employment is sooner terminated as set forth herein; provided, however, that beginning with the first anniversary of the Initial Date and each anniversary thereafter, the term of Employee's employment shall automatically be extended for one additional Employment Year unless at least ninety (90) days prior to such anniversary date, the Employer on the one hand or the Employee, on the other, shall have given wr itten notice that the Employee's employment shall not be so extended. 
+   
+ 2.04.  Offices. Termination of employment hereunder shall include termination of employment as Executive Vice President and Chief Financial Officer of Employer and of all other offices and posit ions with the Employer. 
+   
+ SECTION III .  COMPENSATION AND RELATED MATTERS . 
+   
+ 3.01 .  Base Salary. From the date hereof until the Date of Termination, Employee shall have an annual base salary of One Hundred and Forty Thousand and 00/100 Dollars ($140,000.00), as the same may  be adjusted from time to time pursuant hereto. 
+   
+ 3.02.  Employee Benefits. Subject to meeting applicable eligibility provisions, Employee shall be entitled to the same medical and health insurance coverage and other benefits as may be provided by Employ er to its executive management from time to time. 
+   
+ 
+ 2 
+ 
+   
+ 
+   
+ SECTION IV .  RIGHTS ON TERMINATION OF EMPLOYMENT . 
+   
+ 4.01. Termination for Cause by Employer, Termination for Any Reason by Employee, Termination on Account of Death. If Employer terminates Employee's employment for Cause or if Employee terminates his employment for any reason, or if the Employee's employment is terminated on account of his death, the Employer shall pay the Employee his full base salary through the Date of Termination at the rate in effect at the time Notice of Termination is given. No Notice of Termination is required hereunder in the event of Employee's death, and the foregoing amounts shall be determined on the date of death. 
+   
+ 4.02 .  Termination by Employer Without Cause. Upon the termination of the Employee's employment by Employer without Cause as defined in Section 1.02 above, Employer shall pay Employee a lump sum payment equal to (a) the total base salary that Employee would have earned had Employee continued in the Employer's employ through the remaining term of employment, without reference to his termination, such base salary to be at the rate in effect, without reference to his termination, at the time a Notice of Termination is given, and (b) the present value of the Employer's cost of all welfare, pension and other benefits then being provided to Employee calculated as if the Employee had continued in the Employer's employ through the remaining term of employment as  then in effect with the same benefits at the same cost to Employer. 
+   
+ 4.03 .  Other Termination s. In the event of any termination of Employee's employment as then in effect which is not provided for in Section 4.02, Employee shall be entitled to no compensation or other benef its whatsoever beyond the Date of Termination. 
+   
+ 4.04 .  Offset. The amount of any payment provided for in this Section IV shall not be reduced, offset or subject to recovery by the Employer or Successor by reason of any compensation earned by Employee as the result of employment by another employer after the Date of Termination, or otherwise. 
+   
+ SECTION   V .    CHANGE IN CONTROL . 
+   
+ 6.01 For purposes of this Agreement, a "change in control" of Employer shall have occurred at such time as (a) the Federal Reserve Board should have approved a notice filed by any Person (as defined in subsection 1.10) with respect to Employer pursuant to 12 C.F.R. Â§ 225.41 (or any successor regulation thereto), without respect to the exceptions thereto under 12 C.F.R. Â§ 225.42, as in effect on the date hereof; (b) any Person becomes the "beneficial owner" (as defined in Rule 13d-3 under the Securities Exchange Act of 1934 or any successor regulation thereto), directly or indirectly, of 25% or more of the combined voting power of Employer's outstanding securities ordinarily having the right to vote at elections of its directors; (c) individuals who constitute Employer's Board of Directors on the date hereof (the "Incumbent Board") cease for any reason to constitute at least a majority thereof; provided that any person becoming a director subsequent to the date hereof whose election, or nomination for election by Employer's shareholders, was approved by a vote at least three quarters of the directors comprising the Incumbent Board shall be considered as though such Person were a member of the Incumbent Board for purposes of this Section V; (d) the merger or consolidation of Employer with or into another corporation; (e) the sale, conveyance or other transfer of substantially all of the assets of Employer; or (f) the closing of a corporate reorganization in which the Employer becomes a subsidiary of a holding company, the majority of the common stock of which is owned, in aggregate, by persons who did not own the majority of the common stock of HomeTown Bank (or its successor) immediately prior to the reorganization. The formation of a bank holding company whereby the common stock of Bank will be exchanged for stock in the holding company shall not constitute a "change in control" under this Agreement. 
+   
+ SECTION   VI .  TERMINATION FOLLOWING CHANGE IN CONTROL . 
+   
+ 6.01 Employer recognizes that a change in control as defined in Section VI may directly affect the direction and philosophy of Employer. A change in control may also affect Employee's responsibilities and position with the Employer. If any of the events described in Section V hereof constituting a change in control of Employer shall have occurred, Employee shall be entitled to compensation provided in subsection 7.02 of Section VII hereof upon termination by Employer of Employee's employment with Employer or constructive termination of Employee's employment by transferring Employee outside the Roanoke Valley or substantially changing Employee's responsibilities and job description. 
+   
+ 7.02 Any termination following a change in control shall be communicated by written notice of termination ("Notice of Termination") to the Employee. Such Notice of Termination shall specify the date as of which employment shall terminate ("Date of Termination"), which said Date of Termination shall not be more than sixty (60) days after the date of the Notice  of Termination. 
+   
+ 
+ 3 
+ 
+   
+ 
+   
+ SECTION   VI I .  COMPENSATION UPON TERMINATION FOLLOWING CHANGE IN CONTROL; OTHER AGREEMENTS . 
+   
+ 7.01 During any period following a change in control that Employee fails to perform his duties as a result of incapacity due to physical or mental illness, Employee shall continue to receive his salary at the rate then in effect and any benefits or awards under any Plans shall continue to accrue during such period, to the extent not inconsistent with such Plans, until Employee's employment is terminated pursuant to and in accordance with Section VI hereof. Thereafter, Employee's compensation and other benefits shall be determined in ac cordance with subsection 7.02 hereof and the Plans then in effect. 
+   
+ 7.02 Subject to subsections 6.01 and 7.04 and Section X hereof, if a change in control shall have occurred, as defined in Section V above, and Employee's employment with Employer is terminated by Employer, then Employee shall be entitled, without regard to any contrary provisions of any Plan, to the following benefits: 
+   
+(A)     For thirty-six (36) months less one day, commencing on the Date of Termination, Employer shall continue to provide Employee all perquisites which were being provided to Employee immediately prior to the Date of Termination and shall make provisions and pay all insurance premiums as they come due during such period so that Employee's medical insurance benefits, life insurance and accident insurance plan coverage will continue to be on terms and at levels substantially the same as those existing on the day prior to the Date of T ermination. 
+   
+(B)     For thirty-six (36) months less one day, commencing on the Date of Termination, Employer shall continue to pay to Employee the Annual Compensation theretofore received by Employee from Employer. For purposes of this Agreement, "Annual Compensation" shall mean Employee's current annual base salary immediately preceding the change in control or immediately preceding the Date of Termination, whichever is the greater, in accordance with Section 3.01 hereof. Payment shall be made each month when the Employer's payroll is customarily paid unless Employee irrevocably elects to receive all salary compensation due hereunder in a lump sum which shall be paid within thirty (30) days of the Employee's election. Should Employee elect to receive a lump sum settlement instead of monthly payments, the amount payable shall be reduced to the present value of monthly payments by using the one year  certificate of deposit rate then in effect at HomeTown Bank. 
+   
+(C)     Should there be a distribution from any executive incentive compensation plan at the close of the plan year during which termination occurs, Employee shall in addition be p aid the amount provided for in Section 3.01 hereof. 
+   
+(D)     Employee shall be or become vested under all employee benefit, retirement and stock option plans under which Employee is a beneficiary as of the date when the last compensa tion under this Agreement is due to be paid to Employee. 
+   
+ 7.03 The amount of any payment provided for in this Section VII shall not be reduced, offset, or subject to recovery by Employer by reason of any compensation earned by Employee as a result of subsequent employment by another employer other than a competing banking institution in violation of subsection 8.02 of Section VIII hereof. 
+   
+ 7.04 Notwithstanding the other provisions of this Section VII, should Employer terminate Employee for intentional misconduct tantamount to the commission of a felony and relating to his employment, no further compensation shall be paid to Employee after the Date of Termination. Otherwise, Employee shall be entitled to the full compensation provided for in this Section VII after his termination, subject, however, to the provisions of subsection 6.01 of Section VI. 
+   
+ SECTION   VIII . CONFIDENTIALITY; COVENANT NOT TO COMPETE. 
+   
+ 8 .01  Confidentiality. Employee agrees that subsequent to his period of employment with Employer, he will not at any time communicate or disclose to any unauthorized person, without the express prior written consent of the Employer, its operations, finances, condition, properties, assets, business or strategic plans, employees, budgets, or any other matter, it being understood, however, that the obligations of this Section shall not apply to the extent that the aforesaid matters (1) are disclosed in circumstances where Employee is legally required to do so or (ii) become generally known to and available for use by the public otherwise than by the Employee's wrongful act. 
+   
+ 8 .02  Covenant Not to Compete. If (i) the Employee's employment with the Employer or Bank is terminated without Cause as defined in Section 1.02 above, and the Employee has received the payments described in Section 4.03 above, or (ii) the Employee's employment with Employer is terminated for Cause pursuant to Section 1.02(b) or (c) above, or (iii) Employee resigns his position with Employer, the Employee agrees that for a period of two years from the date his employment is terminated, he will not, without the prior, express consent in writing of the Chairman of the Board of Directors or Successors, become affiliated within a 40 mile radius of the main office of the Employer as an officer, employee, agent, partner, director, consultant, or substantial stockholder (more that 5% of any class of common or preferred equity, options to acquire the same or convertible debt) of any entity engaged in the commercial or retail banking, lending or leasing business or become associated within the geographical area described above with any entity in the process of formation to engage in the retail or commercial banking, lending or leasing business, or any group that intends to form any such entity. Notwithstanding the foregoing, it is recognized that many banks have offices or other operations within a 40-mile radius of the main office of the Employer and Employee is not prohibited from employment with such a bank provided that Employee's office is located outside the restricted 40-mile radius and Employee does not, directly or indirectly, knowingly solicit business from or do business with any customers of Employer. 
+   
+ 8 .03  Relief. In the event Employee's actual or threatened breach of this Section, Employer or Successor, as the case may be, shall be entitled to a preliminary restraining order and an injunction restraining the Employee from violating its provisions. Notwithstanding anything to the contrary herein, Employee agrees that it shall pay all costs and expenses of Employer, including but not limited to reasonable expert witness and legal fees, should it prevail, in any litigation to enforce this Section VIII. 
+   
+ 8 .04  Other Remedies. Nothing in this Agreement shall be construed to prohibit the Company or Successor from pursuing any other available remedies for such breach or threatened breach, including the recovery of damages from the Employee. If at the time of enforcement of this Section a court holds that the duration, scope or area restrictions stated herein are unreasonable under the circumstances then existing and, thus, unenforceable, the Employer and Employee agree that the maximum duration, scope or area reasonable under such circumstances shall be sub stituted for the stated duration, scope or area. 
+   
+ 
+ 4 
+ 
+   
+ 
+   
+ SECTION   I X .  SUCCESSORS; BINDING AGREEMENT . 
+   
+ 9.01 This Agreement shall inure to the benefit of and be binding upon any corporate or other successor of Employer which shall result from a change in control as defined in Section V hereof. Employer shall require any such successor, by an agreement in form and substance satisfactory to Employee, expressly to assume and agree to perform this Agreement in the same manner and to the same extent as Employer would be required to perform if no such succession had taken place. 
+   
+ 9.02 This Agreement shall inure to the benefit of and be enforceable by Employee's personal or legal representative, executors, administrators, successors, heirs, distributees, devisees, and legatees. If Employee should die while any amount would still be payable to Employee hereunder at the time of death of Employee, such amounts, unless otherwise provided herein, shall be paid in accordance with the terms of this Agreement to Employee's devisee, legatee, beneficiary, or designee or, if there be no such designee, to Employee's estate. 
+   
+ SECTION X .  TAXES . 
+   
+ 10.01 All payments to be made to Employee under this Agreement will be subject to required withholding of federal, state and local income and employment taxes. 
+   
+ 10.02 Anything in this Agreement to the contrary notwithstanding, in the event that mutually satisfactory independent auditors (the "Auditors") shall determine that any payment or distribution by Employer to or for Employee's benefit (whether paid or payable or distributed pursuant to the terms of this Agreement or otherwise) (a "Payment") would be a "parachute payment" as defined in Section 280G of the Internal Revenue Code (the "Code"), then the aggregate present value of amounts payable or distributable to or for Employee's benefit  pursuant to this Agreement are hereinafter referred to as "Agreement Payments." 
+   
+ 10.03 If any of the Agreement Payments will be subject to the excise tax imposed by Section 4999 of the Internal Revenue Code or any similar tax that may hereafter be imposed (the "Excise Tax"), Employer shall pay to Employee at the time specified below an additional amount (the "Gross-up Payment") such that the net amount retained by Employee, after deduction of any Excise Tax on the Agreement Payments and any federal, state and local income tax and Excise Tax upon the Gross-up Payment, but before deduction for any federal, state or local income tax on the Agreement Payments, shall be equal to the total amount of the Agreed Payments. 
+   
+ 10.04 For purposes of determining whether any of the Agreement Payments will be subject to the Excise Tax and the amount of such Excise Tax, (i) the total Agreement Payments shall be treated as "parachute payments" within the meaning of Section 280G(b)(2) of the Code, and all "excise parachute payments" within the meaning of Section 280G(b)(1) of the Code shall be treated as subject to the Excise Tax, unless in the opinion of tax counsel selected by the Auditors, such other payments or benefits (in whole or in part) do not constitute parachute payments, or such excess parachute payments (in whole or in part) represent reasonable compensation for services actually rendered within the meaning of Section 280G(b)(4) of the Code in excess of the base amount within the meaning of Section 280G(b)(3) of the Code or are otherwise not subject to the Excise Tax, (ii) the amount of the Agreement Payments which shall be treated as subject to the Excise Tax shall be equal to the lesser of (A) the total amount of the Agreed Payments or (B) the amount of excess parachute payments within the meaning of Section 280G(b)(1) of the Code (after applying clause (i) above), and (iii) the value of any non-cash benefits or any deferred payment or benefit shall be determined by the Auditors in accordance with the principles of Sections 280G(d)(3) and (4) of the Code. 
+   
+ 10.05 For purposes of determining the amount of the Gross-up Payment, Employee shall be deemed to pay federal income taxes at the highest marginal rate of federal income taxation for the calendar year in which the Gross-up Payment is to be made and the applicable state and local income taxes at the highest marginal rate of taxation for the calendar year in which the Gross-up Payment is to be made, net of the maximum reduction in federal income taxes which could be obtained from deduction of such state and local taxes. In the event that the Excise Tax is subsequently determined to be less than the amount taken into account hereunder at the time the Gross-up Payment is made, Employee shall repay to Employer at the time that the amount of such reduction in Excise Tax is finally determined the portion of the Gross-up Payment attributable to such reduction (plus the portion of the Gross-up Payment attributable to the Excise Tax and federal, state and local income tax imposed on the portion of the Gross-up Payment being repaid by Employee if such repayment results in a reduction in Excise Tax and/or a federal, state and local income tax deduction), plus interest on the amount of such repayment at the applicable federal rate. In the event that the Excise Tax is determined to exceed the amount taken into account hereunder at the time the Gross-up Payment is made (including by reason of any payment the existence or amount of which cannot be determined at the time of the Gross-up Payment), Employer shall make an additional Gross-up Payment in respect of such excess (plus any interest payable with respect  to such excess) at the time that the amount of such excess is finally determined. 
+   
+ 10.06 The Gross-up Payment or portion thereof provided for above shall be paid not later than the thirtieth (30 th) day following payment of any amounts under Section VI; provided, however, that if the amount of such Gross-Up Payment or portion thereof cannot be finally determined on or before such day, Employer shall pay to Employee on such day an estimate, as determined in good faith by Employer, of the minimum amount of such payments and shall pay the remainder of such payment (together with interest at the applicable federal rate) as soon as the amount thereof can be determined, but in no event later than the forty-fifth (45 th) day after payment of any amounts under Section VI. In the event that the amount of the estimated payments exceeds the amount subsequently determined to have been due, such excess  shall constitute a loan by Employer to Employee, payable on the fifth (5 th ) day after demand by Employer (together with interest at the applicable federal rate). 
+   
+ 10.07 All determinations made by the Auditors pursuant to this Section X shall be binding upon Employer and Employee. 
+   
+ 10.08 It is intended that this Agreement comply with the provisions of Section 409A of the Code and the regulations and guidance of general applicability issued thereunder (referred to herein as "Section 409A") so as to not subject Employee to the payment of additional interest and taxes under Section 409A. In furtherance of this intent, this Agreement shall be interpreted, operated and administered in a manner consistent with these intentions, and to the extent Section 409A would result in Employee being subject to the payment of additional income taxes or interest under Section 409A, the parties agree to amend the Agreement to avoid the application of such taxes and interest. Notwithstanding any provision in this Agreement to the contrary, as needed to comply with Section 409A, if Employee is a "specified employee" (within the meaning of Section 409A), deferred payments due under this Agreement above shall be subject to a six (6) month delay such that amounts otherwise payable during the six (6) month period following Employee's Separation from Service (as defined pursuant to Section 409A and the regulations thereunder) shall be accumulated and paid in a lump-sum catch-up payment as of the first day of the seventh month following Employee' s Separation from Service. 
+   
+ 
+ 5 
+ 
+   
+ 
+   
+ SECTION X I .    SURVIVAL . 
+   
+ The respective obligations of, and benefits afforded, Employer and Employee as provided in Sections III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, and XV shall survive termination of this Agreement. 
+   
+ SECTION X I II .    NOTICES . 
+   
+For the purpose of this Agreement, notices and all other communications provided for in the Agreement shall be in writing and shall be deemed to have been duly given when delivered or mailed by United States certified or registered mail, return receipt requested, postage prepaid and addressed to Employee at the address listed below his name at the end of this Agreement and to Employer at its main office and marked to the attention of the Chairman of the Board of Directors, or to such other addresses as either party may have furnished to the other in writing in accordance herewith, except that notice of change of address shall be in effect only upon  receipt. 
+   
+ SECTION   XI V .  MISCELLANEOUS . 
+   
+No provision of this Agreement may be modified, waived or discharged unless such modification, waiver or discharge is agreed to in a writing signed by Employee and the Chairman of the Board of Directors of Employer other than Employee. No waiver by either party hereto at any time of any breach by the other party hereto of, or of compliance with, any condition or provision of this Agreement to be performed by such other party shall be deemed a waiver of similar or dissimilar provisions or conditions at the same or at any prior or subsequent time. No agreements or representations, oral or otherwise, express or implied, with respect to the subject matter hereof have been made by either party which are not expressly set forth in this Agreement. The validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the Commonwealth of Virgini a. 
+   
+ SECTION XV .  VALIDITY . 
+   
+The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, which shall remain i n full force and effect. 
+   
+ SECTION XV I .  RELATED AGREEMENTS . 
+   
+To the extent that any provision of any other agreement between Employer or any of its subsidiaries and Employee shall limit, qualify or be inconsistent with any provision of this Agreement, then for purposes of this Agreement, while the same shall remain in force, the provision of this Agreement shall control and such provision of such other agreement shall be deemed to have been superseded, and to be of no force and effect, as if such other agreement had been formally amended to the extent necessary to accomplish such purpose. 
+   
+   
+   
+ IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the  day and year first above written. 
+   
+      
+ EMPLOYEE:     HOMETOWN BANK                       /s/ Vance W. Adkins   By: /s/ Susan K. Still   Vance W. Adkins     Susan K. Still         President and Chief Executive Officer                           HOMETOWN BANKSHARES                           By: /s/ Susan K. Still         Susan K. Still         President and Chief Executive Officer   
+   
+ 6 

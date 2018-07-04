@@ -1,0 +1,521 @@
+ htm 147554 Filing 0001472595-16-000160 2016-03-10 0001472595 Accretive Health, Inc. Business Services, Not Elsewhere Classified 001-34746 EXHIBIT 3.5 Exhibit Exhibit 2 exhibit35.htm Articles of incorporation 3 2017-02-25T00:24:17.273636-06:00 10-K Accelerated Filer COMMON OTC ACHI No ILLINOIS IL 7389 Annual  & Quarterly Reports DELAWARE DE DELAWARE true EX-3.5 2 exhibit35.htm EXHIBIT 3.5 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Exhibit 3.5 
+ CERTIFICATE OF DESIGNATIONS OF 
+ 8.00% SERIES A CONVERTIBLE 
+ PREFERRED STOCK, 
+ PAR VALUE $0.01 PER SHARE, OF 
+ ACCRETIVE HEALTH, INC. 
+ _______________________ 
+ Pursuant to Sections 151 and 103 of the 
+ General Corporation Law of the State of Delaware 
+ _______________________ 
+ ACCRETIVE HEALTH, INC. , a corporation organized and existing under the laws of the State of Delaware (the " Company"), certifies that pursuant to the authority contained in its Restated Certificate of Incorporation, as amended from time to time (the " Certificate of Incorporation"), and in accordance with the provisions of Section 151 of the General Corporation Law of the State of Delaware, the Board of Directors of the Company (the " Board of Directors") has duly approved and adopted the following resolution on December 7, 2015, and the resolution was adopted by all necessary action on the part of the Company: 
+ RESOLVED, that pursuant to the authority vested in the Board of Directors by the Certificate of Incorporation and Section 151 of the General Corporation Law of the State of Delaware, the Board of Directors does hereby designate, create, authorize and provide for the issue of a series of 370,000 shares of Preferred Stock, par value $0.01 per share, having the voting powers and such designations, preferences and relative, participating, optional and other special rights, and qualifications, limitations and restrictions that are set forth in this resolution of the Board of Directors pursuant to authority expressly vested in it by the provisions of the Certificate of Incorporation and hereby constituting an amendment to th e Certificate of Incorporation as follows: 
+ Section 1 Designation. The designation of the series of preferred stock of the Company is "8.00% Series A Convertible Preferred Stock," par value $0.01 per share (the " Series A Preferred Stock"). Each share of the Series A Preferred Stock shall be identical in all respects to every other share of the Series A Preferred Stock. The Series A Preferred Stock shall be perpet ual. 
+ Section 2 Number of Shares. The authorized number of shares of Series A Preferred Stock is 370,000 shares. Series A Preferred Stock that is redeemed, purchased or otherwise acquired by the Company, or converted into another class or series of Capital Stock shall not be reissued as Series A Preferred Stock, and the Company shall take such actions as are necessary to cause such acquire d or converted shares to resume the status of authorized but unissued shares of Preferred Stock. 
+ Section 3 Defined Terms and Rules of Construction . 
+ (a) Definitions . As used herein with respect to the Series A Preferred Stock: 
+ " Affiliate" of any Person shall mean any other Person directly or indirectly controlling or controlled by or under direct or indirect common control with such Person. For purposes of this definition, "control" when used with respect to any Person has the meaning specified in Rule 12b-2 under the Exchange Act; and the terms "controlling" and "controlled" have meanings  correlative to the foregoing. 
+ " Beneficially Own " shall mean "beneficially own" as defined in Rule 13d-3 under the Exchange Act. 
+ " Board of Directors " shall mean the board of directors of the Company. 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " Business Day" shall mean a day that is a Monday, Tuesday, Wednesday, Thursday or Friday and is not a day on which banking institutions in New York, New York or Chicago, Illinois generally are  authorized or obligated by law, regulation or executive order to close. 
+ " Bylaws" shall mean the Amended and Restated Bylaws of the Company in effect on the date hereof, as they may be amended from time to time. 
+ " Capital Stock" shall mean any and all shares, interests, rights to purchase, warrants, options, participations or other equivalents of or interests in (in each case however designated) stock is sued by the Company. 
+ " Certificate of Incorporation" shall mean the Restated Certificate of Incorporation of the Company, as amended from time to time, including by this Certificate of Designations. 
+ " Certificate of Designations" shall mean this Certificate of Designations relating to the Series A Preferred Stock, as it may be amended from time to time. 
+ " Change of Control " shall mean the occurrence of any of the following: 
+(1) any Person shall Beneficially Own, directly or indirectly, through a purchase, merger or other acquisition transaction or series of transactions, shares of the Company's Capital Stock entitling such Person to exercise more than 50% of the total voting power of all classes of Voting Stock of the Company, other than an acquisition by the Company, any of the Company's Subsidiaries or any of the Company's employee benefit plans (for purposes of this clause (1), "Person" shall include any syndicate or group that would be deemed to be a  "person" under Section 13(d)(3) of the Exchange Act);   provided, that a Change of Control pursuant to this clause (1) shall not result from transfers by any Permitted Holder to any other Permitted Holder (other than pursuant to a transaction d escribed in clause (2) below or a tender or exchange offer); or 
+(2) the Company (i) merges or consolidates with or into any other Person, another Person merges with or into the Company, or the Company conveys, sells, transfers or leases all or substantially all of the Company's assets to another Person or (ii) engages in any recapitalization, reclassification or other transaction in which all or substantially all of the Common Stock is exchanged for or converted into cash, securities or other property, in each case other than a merger or consolidation: 
+(A) that does not result in a reclassification, conversion, exchange or cancellation of the Company's outstanding Common Stock;   provided  that the holders of the Common Stock outstanding immediately prior to such transaction hold the majority of the Common Stock immediately following such transaction; 
+(B) which is effected solely to change the Company's jurisdiction of incorporation and results in a reclassification, conversion or exchange of outstanding shares of the Common Sto ck solely into shares of common stock of the surviving entity; or 
+(C) where the Voting Stock outstanding immediately prior to such transaction is converted into or exchanged for Voting Stock of the surviving or transferee Person constituting a majority of the outstanding shares of such Voting Stock of such surviving or transferee Person (immediately after giving effect to such issuance). 
+ " Close of Business " shall mean 5:00 p.m., Eastern Time, on any Business Day. 
+ " Closing Price" shall mean the price per share of the final trade of the Common Stock on the applicable Trading Day on the principal national securities exchange or market on which the Common St ock is listed or admitted to trading (including any over-the-counter market). 
+ " Code " shall mean the Internal Revenue Code of 1986, as amended. 
+ " Commission " shall mean the U.S. Securities and Exchange Commission, including the staff thereof. 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " Common Participation Amount " shall have the meaning ascribed to in Section 4(a). 
+ " Common Stock " shall mean the common stock, par value $.01 per share, of the Company. 
+ " Company" shall mean Accretive Health, Inc., a corporation organized and existing under the laws of the State of Delaware, and any successor thereof. 
+ " Conversion Price " shall mean the quotient of (i) the sum of (A) the Liquidation Preference   plus  (B) an amount per share equal to accrued but unpaid dividends not previously added to the Liquidation Preference on such share of Series A Preferred Stock from and including the im mediately preceding Dividend Payment Date to but excluding the conversion date and (ii) $1,000. 
+ " Conversion Rate " shall mean 400, subject to adjustment as set forth in Section 8. 
+ " Current Market Price" shall mean the average Closing Price for the ten (10) consecutive Trading Days immediately preceding, but not including, the date as of which the Current Market Price is to be de termined. 
+ " Debt Documents" shall mean each agreement of the Company for borrowed money in an aggregate principal amount in excess of $25.0 million (with "principal amount" for purposes of this definition to include undrawn committed or available amounts) that is entered into by the Company from time to time and as may be amended, supplemented, restated, renewed, replaced, refinanced or otherwise modified from time to time. For the avoidance of doubt, (x) obligations under multiple agreements may not be aggregated for purposes of satisfying the definition of Debt Document, (y) mortgages, real estate leases, capital lease obligations, purchase money agreements, sale-leaseback transactions, equipment financing, inventory financing, letters of credit and receivables financing shall be eligible to constitute Debt Documents and (z) interest rate swaps, currency or commodity hedges and other derivative instruments shall be eligible to constitute Debt Documents measured on the basis of liability to the Company determined as of the date of the most recent quarterly or annual balance sheet of the C ompany, and not based on notional amount. 
+ " Distributed Property " shall have the meaning ascribed to it in Section 8(c). 
+ " Dividend Payment Date " shall mean January 1, April 1, July 1 and October 1 of each year, commencing on April 1, 2016;   provided  that if any such Dividend Payment Date would otherwise occur on a day that is not a Business Day, such Dividend Payment Date shall instead be (and any dividend payable on Series A Preferred Stock on such Dividend Payment Date shall instead be payable on) the immediately succeeding Business Day. 
+ " Dividend Period" shall mean the period commencing on and including a Dividend Payment Date and shall end on and include the day immediately preceding the next Dividend Payment Date;   provided  that the initial Dividend Period shall commence on and include the Original Issue Date and shall end on and include the day immediately preceding the first Dividend Payment Date. 
+ " Dividend Rate " shall mean 8.00% per annum. 
+ " Dividend Record Date " shall have the meaning ascribed to it in Section 4(a). 
+ " Equity-Linked Security " shall have the meaning ascribed to it in Section 8(d). 
+ " Exchange Act " shall mean the Securities Exchange Act of 1934, as amended. 
+ " Exchange Property " shall have the meaning ascribed to it in Section 10(a). 
+ " Excluded Issuance" shall mean, any issuances of (1) Capital Stock to any employee, officer or director of the Company pursuant to a stock option, incentive compensation stock purchase or similar plan outstanding as of the Original Issue Date or, subsequent to the Original Issue Date, approved by the Board of Directors or a duly authorized committee of the Board of Directors,  (2) securities pursuant to any merger, joint venture, partnership, consolidation, dissolution, 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+liquidation, tender offer, recapitalization, reorganization, share exchange, business combination or similar transaction or any other direct or indirect acquisition by the Company, whereby the Company's securities comprise, in whole or in part, the consideration paid by the Company in such transaction, (3) securities pursuant to a registration statement declared effective by the Securities and Exchange Commission, or a prospectus approved by the appropriate functional regulator under the applicable securities laws of any foreign jurisdiction, for which the securities so registered are to be offered and sold to the broad investing public by means of an at-the-market underwritten offering (excluding, for the avoidance of doubt, any rights offering or any offering at a discount to the Current Market Price other than any underwriting discount, fee or commission), (4) Capital Stock pursuant to options, warrants, notes or other rights to acquire securities of the Company outstanding on the Original Issue Date or issued pursuant to an Excluded Issuance under clauses (1) and (2) above, (5) Common Stock upon conversion of the Series A Preferred Stock and exercise of the Warrant issued to the Investor pursuant to that certain Securities Purchase Agreement, dated as of December 7, 2015, by and among the Company, the Investor and, solely for purposes of   Sections 8.11 ,   9.2 ,   10.1 ,   10.2   and   10.5   through   10.15  thereof, Ascension Health Alliance d/b/a Ascension and (6) securities in connection with any dividend, distribution, split or combination referred to in Section 8(a). 
+ " Fundamental Change" shall mean the occurrence of any of the following: (1) a Change of Control, (2) the Company, within the meaning of Title 11 of the U.S. Code or any similar federal or state law for the relief of debtors, (a) commences a voluntary case, (b) consents to the entry of an order for relief against it in an involuntary case, (c) consents to the appointment of a custodian of it for all or substantially all of its property or (d) makes a general assignment for the benefit of its creditors, or (3) the Common Stock has not been re-listed on any of the Nasdaq Global Select Market, the Nasdaq Global Market, the Nasdaq Capital Market, the New York Stock Exchange or any other United States national securities exchange on or prior to the one year anniversary of the Original Issue Date or, if re-listed prior to such date, the Common Stock ceases to be so listed on any such exchange at any time thereaft er without the simultaneous listing on another of such exchanges. 
+ " Independent Majority " shall have the meaning ascribed to it in Section 8(e). 
+ " Internal Reorganization Event " shall have the meaning ascribed to it in Section 10(d). 
+ " Investor " means TCP-ASC ACHI Series LLLP, a Delaware limited liability limited partnership. 
+ " Investor Majority" means (1) at any time prior to when any Series A Preferred Stock has been converted into shares of Common Stock, Permitted Holders that hold a majority of the Series A Preferred Stock held at such time by all Permitted Holders and (2) at any time after any Series A Preferred Stock has been converted into shares of Common Stock, Permitted Holders that hold a majority of the shares of Common Stock held at such time by all Permitted Holders (assuming, for this purpose, that all Series A Preferred Stock then held by the Permitted Holder s as of such time is converted as of such time into shares of Common Stock). 
+ " Investor Rights Agreement" shall mean the investor rights agreement, dated February 16, 2016, as amended from time to time, by and between the Company and the Investor. 
+ " Junior Stock" shall mean the Common Stock and any other class or series of Capital Stock that ranks junior to the Series A Preferred Stock (1) as to the payment of dividends or (2) as to the d istribution of assets on any liquidation, dissolution or winding up of the Company, or both. 
+ " Liquidating Distribution " shall have the meaning ascribed to it in Section 8(c). 
+ " Liquidation Preference " shall initially mean $1,000 per share of Series A Preferred Stock;   provided ,   however, that to the extent that the Company does not declare a PIK Dividend or declare and pay a dividend in cash on a Dividend Payment Date pursuant to Section 4(b) and (c), an amount equal to the Net Preferred Dividend shall be added to the Liquidation Preference of such share on the applicable Dividend Payment Date. 
+ " Net Preferred Dividend " has the meaning ascribed to it in Section 4(b). 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " Original Issue Date " shall mean February 16, 2016. 
+ " Ownership Threshold " shall have the meaning given in the Investor Rights Agreement. 
+ " Parity Stock" shall mean any class or series of Capital Stock (other than the Series A Preferred Stock) that ranks equally with the Series A Preferred Stock both (1) in the priority of payment of dividends and (2) in the distribution of assets upon any liquidation, dissolution or winding up of the Company (in each case, without regard to whether dividends accrue cumulat ively or non-cumulatively). 
+ " Per Share Amount " shall have the meaning ascribed to it in Section 7(a). 
+ " Permitted Holders" shall mean, collectively, Investor, TowerBrook Capital Partners L.P., Ascension Health Alliance or any of their respective Affiliates. 
+ " Permitted Transfer " shall have the meaning ascribed to it in the Investor Rights Agreement. 
+ " Person" shall mean any individual, company, partnership, limited liability company, joint venture, association, joint stock company, trust, unincorporated organization, government or age ncy or political subdivision thereof or any other entity. 
+ " PIK Dividend " has the meaning ascribed to in Section 4(c). 
+ " Preferred Director " has the meaning ascribed to it in Section 9(b). 
+ " Preferred Dividend " has the meaning ascribed to it in Section 4(b). 
+ " Preferred Stock" shall mean any and all series of preferred stock of the Company, including the Series A Preferred Stock. 
+ " Record Date" shall mean, with respect to any dividend, distribution or other transaction or event in which the holders of Common Stock have the right to receive any cash, securities or other property or in which the Common Stock (or other applicable security) is exchanged for or converted into any combination of cash, securities or other property, the date fixed for determination of shareholders entitled to receive such cash, securities or other property (whether such date is fixed by the Board of Directors or by statute, contract, this Certific ate of Designations or otherwise). 
+ " Reorganization Event " shall have the meaning ascribed to it in Section 10(a). 
+ " Reorganization Event Date " shall have the meaning ascribed to it in Section 10(a). 
+ " Series A Preferred Stock " shall have the meaning ascribed to it in Section 1. 
+ " Spin-Off " shall have the meaning ascribed to it in Section 8(c). 
+ " Subsidiary" shall mean any company, partnership, limited liability company, joint venture, joint stock company, trust, unincorporated organization or other entity for which the Company owns  at least 50% of the Voting Stock of such entity. 
+ " Trading Day" shall mean any Business Day on which the Common Stock is traded, or able to be traded, on the principal national securities exchange or market on which the Common Stock is listed  or admitted to trading (including any over-the-counter market). 
+ " Trigger Event " shall have the meaning ascribed to it in Section 8(c). 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " Voting Stock" shall mean Capital Stock of the class or classes pursuant to which the holders thereof have the general voting power under ordinary circumstances (determined without regard to any classification of directors) to elect one or more members of the Board of Directors (without regard to whether or not, at the relevant time, Capital Stock of any other class or classes (other than Common Stock) shall have or might have voting power by reason of the happening of any contingency). 
+ (b) Rules of Construction. Unless the context otherwise requires: (i) a term has the meaning assigned to it herein; (ii) an accounting term not otherwise defined herein has the meaning accorded to it in accordance with generally accepted accounting principles in effect from time to time in the United States, applied on a consistent basis; (iii) words in the singular include the plural, and in the plural include the singular; (iv) "or" is not exclusive; (v) "will" shall be interpreted to express a command; (vi) "including" means including without limitation; (vii) provisions apply to successive events and transactions; (viii) references to any Section or clause refer to the corresponding Section or clause, respectively, of this Certificate of Designations; (ix) any reference to a day or number of days, unless expressly referred to as a Business Day or Trading Day, shall mean the respective calendar day or number of calendar days; (x) references to sections of or rules under the Exchange Act shall be deemed to include substitute, replacement or successor sections or rules, and any term defined by reference to a section of or rule under the Exchange Act shall include Commission and judicial interpretations of such section or rule; (xi) references to sections of the Code shall be deemed to include any substitute, replacement or successor sections as well as the Treasury Regulations promulgated thereunder from time to time; (xii) headings are for convenience only; and (xiii) unless otherwise expressly provided in this Certificate of Designations, a reference to any specific agreement or other document shall be deemed a reference to such agreement or document as amended from time to time in accordance with the terms of such agreement or document. 
+ Section 4 Dividends . 
+ (a) Participation with Dividends on Common Stock. No cash dividend may be declared or paid on the Common Stock during a Dividend Period unless a cash dividend is also declared or paid (as applicable) on the Series A Preferred St ock for such Dividend Period in an amount (the " Common Participation Amount ") equal to (A) the Per Share Amount as of the Record Date for such dividend (the " Dividend Record Date ")   multiplied  by (B) the amount per share distributed or to be distributed in respect of the Common Stock in connection with such cash dividend. 
+ (b) Dividend Rate on Series A Preferred Stock. In addition to participation in cash dividends on Common Stock as set forth in Section 4(a), holders of the Series A Preferred Stock shall be entitled to receive, on each share o f Series A Preferred Stock and with respect to each Dividend Period, an amount (such amount, the " Net Preferred Dividend ") equal to the Dividend Rate   multiplied   by the Liquidation Preference per share of Series A Preferred Stock (the " Preferred Dividend"). If and to the extent that the Company does not pay the entire Net Preferred Dividend for a particular Dividend Period in cash or declare and pay a PIK Dividend on the applicable Dividend Payment Date for such period, the amount of such Net Preferred Dividend not paid in cash or not declared and paid as a PIK Dividend shall be added to the Liquidation Preference in accordance with the definition thereof. Amounts payable at the Dividend Rate shall begin to accrue and be cumulative from the Original Issue Date, whether or not the Company has funds legally available for such dividends or such dividends are declared, shall compound on each Dividend Payment Date (i.e., no dividends shall accrue on other dividends unless and until the first Dividend Payment Date for such other dividends has passed without such other dividends having been paid on such date) and shall be payable in arrears on the first Dividend Payment Date after such Dividend Period. Dividends that are payable on the Series A Preferred Stock on any Dividend Payment Date shall be payable to holders of record of the Series A Preferred Stock as they appear on the stock register of the Company on the Record Date for such dividend, which shall be the date 15 days prior to the applic able Dividend Payment Date. 
+Dividends payable at the Dividend Rate on the Series A Preferred Stock in respect of any Dividend Period shall be computed on the basis of a 360-day year consisting of twelve 30-day months. The amount of dividends payable at the Dividend Rate on the Series A Preferred Stock on any date prior to the end of a Dividend Period, and for the initial Dividend Period, shall be computed on the basis of a 360-day year consisting of twelve 30-day months, and actual days elapsed over a 30-day month (i.e., during each Dividend Period other than th e Initial Dividend Period, $20.00 of Preferred Dividend accrues). 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Payment of Dividends. Notwithstanding anything to the contrary in this Certificate of Designations, cash dividends shall be paid only to the extent (i) the Company has funds legally available for such payment, (ii) there are no provisions in any of the Debt Documents prohibiting the payment of cash dividends on the Series A Preferred Stock in such amount on the applicable Dividend Payment Date and (iii) the Board of Directors, or an authorized committee thereof, declares such dividend payable. To the extent the Board of Directors desires to declare any cash dividend or other distribution in cash on the Common Stock during any Dividend Period that requires a corresponding cash dividend on the Series A Preferred Stock in accordance with Section 4(a), it may do so only to the extent that (i) the Company has funds legally available for the payment of such dividend or distribution in cash on all of the shares of Common Stock and Series A Preferred Stock then outstanding and (ii) such cash dividend or distribution on the Common Stock and the Series A Preferred Stock shall be payable only on the applicable Dividend Payment Date for such Dividend Period. Notwithstanding anything to the contrary set forth in this Section 4, prior to the seventh anniversary of the Original Issue Date, the Preferred Dividend will be payable in kind in additional shares of Series A Preferred Stock (the " PIK Dividend") and following the seventh anniversary of the Original Issue Date, the Preferred Dividend will be payable in cash. With respect to the PIK Dividend, the number of shares of Series A Preferred Stock to be issued in payment of such PIK Dividend with respect to each outstanding share of Series A Preferred Stock shall be determined by dividing (A) the amount of the Preferred Dividend by (B) the Liquidation Preference (excluding any amounts added to the initial Liquidation Preference pursuant to the proviso in the definition of Liquidation Preference and Section 4(b)) per share of Series A Preferred Stock. To the extent that any Preferred Dividend would result in the issuance of a fractional share of Series A Preferred Stock to any holder, then the amount of such fraction multiplied by the Liquidation Preference shall be paid in cash (unless there are no legally available funds with which to make such cash payment, in which event such cash amount shall be added to the Liquidation Preference in accordance with Section 4(a)). 
+ (d) Priority of Dividends. Subject to Sections 4(a), (b) and (c), Section 8 and Section 9, such dividends (payable in cash, securities or other property) as may be determined by the Board of Directors or an authorized committee thereof may be declared and paid on any Capital Stock, including Common Stock and other Junior Stock, from time to time out of any funds legally available fo r such payment. 
+ Section 5 Liquidation Rights . 
+ (a) Voluntary or Involuntary Liquidation. In the event of any liquidation, dissolution or winding up of the affairs of the Company, whether voluntary or involuntary, holders of the Series A Preferred Stock shall be entitled to receive for each share of Series A Preferred Stock, out of the assets of the Company or proceeds thereof (whether capital or surplus) available for distribution to shareholders of the Company, and after satisfaction of all liabilities and obligations to creditors of the Company, on par with each share of Parity Stock but before any distribution of such assets or proceeds is made to or set aside for the holders of Junior Stock, an amount equal to the greater of (1) the sum of (a) the Liquidation Preference per share of the Serie s A Preferred Stock   plus  (b) an amount per share equal to accrued but unpaid dividends not previously added to the Liquidation Preference from and including the immediately preceding Dividend Payment Date to but excluding the date fixed for such liquidation, dissolution or winding up of the Company and (2) the per share amount of all cash, securities and other property (such securities or other property having a value equal to its fair market value as reasonably determined by the Board of Directors) to be distributed in respect of the Common Stock such holder would have been entitled to receive had it converted such Series A Preferred Stock immediately prior to the date fixed for such liquidation, dissolution or winding up of the Company. To the extent such amount is paid in full to all holders of Series A Preferred Stock and all the holders of Parity Stock, the holders of Junior Stock of the Company shall be entitled to receive all remaining assets of the Company (or proceeds thereof) according to their respective rights and preferences. 
+ (b) Partial Payment. If in connection with any distribution described in Section 5(a) above the assets of the Company or proceeds thereof are not sufficient to pay the liquidation preferences in full to all holders of Series A Preferred Stock and all holders of Parity Stock, the amounts paid to the holders of Series A Preferred Stock and to the holders of all such other Parity  Stock shall be paid   pro rata  in accordance with the respective aggregate liquidation preferences of the holders of Series A Preferred Stock and the holders of all such other Parity Stock. 
+ (c) Merger, Consolidation and Sale of Assets Not Liquidation. For purposes of this Section 5, the merger or consolidation of the Company with any other corporation or other entity, including a merger or consolidation in which 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the holders of Series A Preferred Stock receive cash, securities or other property for their shares, or the sale, lease or exchange (for cash, securities or other property) of all or substantially all of the assets of the Company, shall not be deemed to constitute a liquidation, dissolution or winding up of the Company, but instead shall be subject to the pr ovisions of Section 10. 
+ Section 6 Redemption . 
+ (a) Redemption at the Option of the Holder . 
+ (1)Upon the occurrence of a Fundamental Change, each holder of the Series A Preferred Stock shall have the right to require the Company to repurchase all or any part of such holder's Series A Preferred Stock for cash at a purchase price per share equal to 101% of the sum of (a) the Liquidation Preference per share of the Series A Preferred Stock   plus  (b) an amount equal to accrued but unpaid dividends not previously added to the Liquidation Preference per share on such share of Series A Preferred Stock from and including the im mediately preceding Dividend Payment Date to but excluding the date of redemption;   provided ,   however, that (i) the Company shall not be required to repurchase any Series A Preferred Stock pursuant to this Section 6(a) to the extent such repurchase would be prohibited by any provision of any Debt Document and (ii) if the Company does not repurchase any outstanding shares of Series A Preferred Stock due to clause (i) of this proviso then, for so long as the Company fails to satisfy its repurchase obligation under this Section 6(a) with respect to such shares, the Dividend Rate for such outstanding shares of Series A Preferred Stock will increase to 10%, effective as of the date of the Fundamental Change, and will remain at 10% until the date on which the Company satisfies its repurchase obligation with respect  to such shares. 
+ (2)No later than 30 days after the occurrence of a Fundamental Change, the Company shall send notice by first class mail, postage prepaid, addressed to the holders of record of the shares of Series A Preferred Stock at their respective last addresses appearing on the books of the Company stating (1) that a Fundamental Change has occurred, (2) that all shares of Series A Preferred Stock tendered prior to a Business Day no earlier than 30 days nor later than 60 days from the date such notice is mailed shall be accepted for redemption and (3) the procedures that holders of the Series A Preferred Stock must follow in order to redeem their shares of Series A Preferred Stock, including the place or places where certific ates for such shares are to be surrendered for payment of the redemption price;   provided ,   however, that if the Company is not permitted to repurchase the Series A Preferred Stock due to clause (i) of the proviso of Section 6(a)(1), then the notice shall, in lieu of the information in (2) and (3) of this paragraph, include a statement identifying the relevant provision(s) in the Debt Documents and stating the new Dividend Rate applicable to the Series A Preferred Stock pursuant to this Section 6(a). Any notice mailed as provided in this Subsection shall be conclusively presumed to have been duly given, whether or not the holder receives such notice, but failure duly to give such notice by mail, or any defect in such notice or in the mailing thereof, to any holder of shares of Series A Preferred Stock designated for redemption shall not affect the validity of the proceedings for the redemption of any other shares of Series A Preferred Stock. 
+ Section 7 Conversion . 
+ (a) Conversion at the Option of the Holders. Each share of Series A Preferred Stock may be converted on any date, from time to time, at the option of the holder thereof, into the number of shares of Common Stock (the "Per S hare Amount") equal to the Conversion Price   multiplied   by the Conversion Rate in effect at such time. 
+The right of conversion attaching to any shares of Series A Preferred Stock may be exercised by the holders thereof by delivering the shares to be converted to the office of the Company, accompanied by a duly signed and completed notice of conversion in form reasonably satisfactory to the Company. The conversion date shall be the date on which the shares of Series A Preferred Stock and the duly signed and completed notice of conversion are received by the Company. The Person entitled to receive the Common Stock issuable upon such conversion shall be treated for all purposes as the record holder or holders of such Common Stock as of such conversion date, and such Person or Persons shall cease to be a record holder of the Series A Preferred Stock on that date. As promptly as practicable on or after the conversion date (and in any event no later than three Trading Days thereafter), the Company shall issue the number of whole shares of Common Stock issuable upon conversion, with any fractional shares (after aggregating all Series A Preferred Stock being converted on such date) rounded to the nearest whole share. Such delivery shall be made, at the option of the applicable holder, in certificated form or by book-entry. Any such certificate or ce rtificates shall be delivered by the 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company to the appropriate holder on a book-entry basis or by mailing certificates evidencing the shares to the holders at their respective addresses as set forth in the conversion  notice. 
+ (b) Common Stock Reserved for Issuance.  The Company shall at all times reserve and keep available out of its authorized and unissued Common Stock, solely for issuance upon the conversion of the Series A Preferred Stock, such number of shares of Common Stock as shall from time to time be issuable upon the conversion of all the shares of Series A Preferred Stock then outstanding. Any shares of Common Stock issued upon conversion of Series A Preferred Stock shall be (i) duly authorized, validly issued and fully paid and nonassessable, (ii) shall rank pari passu with the other shares of Common Stock outstanding from time to time and (iii) shall be approved for listing on the principal national securities exchange or market on which the Common Stock is li sted or admitted to trading (including any over-the-counter market). 
+ (c) Taxes. The Company shall pay any and all transfer taxes that may be payable in respect of the issue or delivery of shares of Common Stock on conversion of Series A Preferred Stock. The Company shall not, however, be required to pay any tax which may be payable in respect of any transfer involved in the issue and delivery of shares of Common Stock in a name other than that in which the Series A Preferred Stock so converted were registered, and no such issue or delivery shall be made unless and until the Person requesting such issue has paid to the Company the amount of any such tax, or has established to the satisfaction of the Company that such tax has been paid. 
+ Section 8 Dilution Adjustments.  The Conversion Rate shall be adjusted from time to time (successively and for each event described) by the Company as follows: 
+ (a)If the Company shall, at any time or from time to time while any of the Series A Preferred Stock is outstanding, issue shares of Common Stock as a dividend or distribution on shares of Common Stock, or if the Company effects a share split or share combination in respect of the Common Stock, then the Conversion Rate shall be adjusted based on the following fo rmula: 
+ 
+ where 
+ 
+ 
+ 
+ CR 0 
+ 
+ = 
+ 
+the Conversion Rate in effect immediately prior to the Close of Business on the Record Date for such dividend or distribution, or the Close of Business on the effective date of suc h share split or combination, as applicable; 
+ 
+ CR ' 
+ 
+ = 
+ 
+the new Conversion Rate in effect immediately after the Close of Business on the Record Date for such dividend or distribution, or the Close of Business on the effective date of su ch share split or share combination, as applicable; 
+ 
+ OS 0 
+ 
+ = 
+ 
+the number of shares of Common Stock outstanding immediately prior to the Close of Business on the Record Date for such dividend or distribution, or the Close of Business on the ef fective date of such share split or share combination, as applicable; and 
+ 
+ OS ' 
+ 
+ = 
+ 
+the number of shares of Common Stock outstanding immediately after such dividend or distribution, or the Close of Business on the effective date of such share split or share combin ation, as applicable. 
+ 
+ 
+ 
+The Company shall not pay any dividend or make any distribution on shares of Common Stock held in treasury by the Company. 
+ (b)Except as otherwise provided for by Section 8(c), if the Company shall, at any time or from time to time while any of the Series A Preferred Stock is outstanding, distribute to all  or substantially all holders of its outstanding shares 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+of Common Stock any options, rights or warrants entitling them for a period of not more than 45 days from the Record Date of such distribution to subscribe for or purchase shares of Common Stock at a price per share less than the Closing Price of the Common Stock on the Trading Day immediately preceding the Record Date of such distribution, the Conversion Ra te shall be adjusted based on the following formula: 
+ 
+ 
+ where 
+ 
+ 
+ 
+ CR 0 
+ 
+ = 
+ 
+the Conversion Rate in effect immediately prior to the Close of Business on the Record Date for such distribution; 
+ 
+ CR ' 
+ 
+ = 
+ 
+the new Conversion Rate in effect immediately after the Close of Business on the Record Date for such distribution; 
+ 
+ OS 0 
+ 
+ = 
+ 
+the number of shares of Common Stock outstanding immediately prior to the Close of Business on the Record Date for such distribution; 
+ 
+ X 
+ 
+ = 
+ 
+the total number of shares of Common Stock issuable pursuant to such options, rights or warrants; and 
+ 
+ Y 
+ 
+ = 
+ 
+the number of shares of Common Stock equal to the aggregate price payable to exercise such options, rights or warrants divided by the average Closing Price of the Common Stock over  the 10 consecutive Trading Day period ending on the Record Date. 
+ 
+ 
+ 
+To the extent that shares of Common Stock are not delivered pursuant to any such options, rights or warrants that are non-transferable upon the expiration or termination of such options, rights or warrants, the Conversion Rate shall be readjusted to the Conversion Rate which would then be in effect had the adjustments made upon the distribution of such options, rights or warrants been made on the basis of the delivery of only the number of shares of Common Stock actually delivered. 
+In determining the aggregate price payable to exercise such options, rights or warrants, there shall be taken into account any amount payable on exercise thereof, with the value of  such consideration, if other than cash, to be determined in good faith by the Board of Directors. 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c)    If the Company, at any time or from time to time while any of the Series A Preferred Stock is outstanding, shall, by dividend or otherwise, distribute to all or substantially all holders of its Common Stock shares of any class of Capital Stock of the Company, cash, evidences of its indebtedness, assets, property or rights or warrants to acquire Capital Stock or other securities, but excluding (i) dividends or distributions as to which an adjustment under Section 8(a) or Section 8(b) shall apply, (ii) dividends or distributions paid exclusively in cash to the extent that the Series A Preferred Stock participates on an as-converted basis with the Common Stock in a cash dividend or distribution in accordance with Section 4(a), and (iii) SpinOffs to which the provision set forth below in this Section 8(c) shall apply (any of such shares of Capital Stock, cash, indebtedness, assets, property or rights or warrants to acquire Common Stock or other securities, hereinafter in this Section 8(c) called the " Distributed Property "), then, in each such case the Conversion Rate shall be adjusted based on the following formula: 
+ 
+ 
+ where 
+ 
+ 
+ 
+ CR 0 
+ 
+ = 
+ 
+the Conversion Rate in effect immediately prior to the Close of Business on the Record Date for such distribution; 
+ 
+ CR ' 
+ 
+ = 
+ 
+the new Conversion Rate in effect immediately after the Close of Business on the Record Date for such distribution; 
+ 
+ SP 0 
+ 
+ = 
+ 
+the average Closing Price of the Common Stock over the 10 consecutive Trading Day period ending on the Record Date for such distribution; and 
+ 
+ FMV 
+ 
+ = 
+ 
+(i) for cash dividends or distributions, the amount of cash distributed and (ii) for other Distributed Property, the fair market value (as determined in good faith by the Board of Directors) of the portion of Distributed Property, in each case, with respect to each outstanding share of Common Stock on the Record Date for such distribution. 
+ 
+ 
+ 
+Notwithstanding the foregoing, if the then fair market value (as so determined) of the portion of the Distributed Property so distributed applicable to one share of Common Stock is  equal to or greater than SP 0   as set forth above (a " Liquidating Distribution"), then in lieu of the foregoing adjustment, the Company shall distribute to each holder of Series A Preferred Stock on the date such Distributed Property is distributed to holders of Common Stock, but without requiring such holder to convert its shares of Series A Preferred Stock, the amount of Distributed Property such holder would have received had such holder owned a number of shares of Common Stock equal to the Per Share Amount on the Record Date fixed for determination for shareholders entitled to receive such Liquidating Distr ibution;   provided ,   however, that the Company shall not distribute Distributed Property to either the holders of the Common Stock or the Preferred Stock to the extent such distribution would be prohibited by any provision of any Debt Document. If the Board of Directors determines the fair market value of any distribution for purposes of this Section 8(c) by reference to the actual or when issued trading market for any securities, it shall in doing so consider the prices in such market over the same period used in computing the Current Market Price of the Common  Stock for purposes of calculating SP 0   in the formula in this Section 8(c). 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+With respect to an adjustment pursuant to this Section 8(c) where there has been a payment of a dividend or other distribution on the Common Stock consisting of shares of Capital Stock of any class or series, or similar equity interest, of or relating to a Subsidiary or other business unit of the Company (a " Spin-Off "), the Conversion Rate in effect immediately before the Close of Business on the 10 th  Trading Day immediately following, and including, the effective date of the Spin-Off shall be increased based on the following formula: 
+ 
+ where 
+ 
+ 
+ 
+ CR 0 
+ 
+ = 
+ 
+ the Conversion Rate in effect immediately prior to the Close of Business on the 10 th   Trading Day immediately following, and including, the effective date of the Spin-Off; 
+ 
+ CR ' 
+ 
+ = 
+ 
+ the new Conversion Rate in effect from and after the Close of Business on the 10 th   Trading Day immediately following, and including, the effective date of the Spin-Off; 
+ 
+ FMV 
+ 
+ = 
+ 
+the average of the Closing Prices of the Capital Stock or similar equity interest distributed to holders of Common Stock applicable to one share of Common Stock over the 10 consecutive Trading Day period immediately following, and including, the effective date of the Spin-Off; and 
+ 
+ MP 0 
+ 
+ = 
+ 
+the average Closing Price of the Common Stock over the 10 consecutive Trading Day period calculated immediately following, and including, the effective date of the Spin-Off. 
+ 
+ 
+ 
+ Such adjustment shall occur on the 10 th   Trading Day immediately following, and including, the effective date of the Spin-Off. 
+For purposes of this Section 8(c), Section 8(a) and Section 8(b) hereof, any dividend or distribution to which this Section 8(c) is applicable that also includes shares of Common Stock, or rights or warrants to subscribe for or purchase shares of Common Stock to which Section 8(a) or 8(b) hereof applies (or both), shall be deemed instead to be (1) a dividend or distribution of the evidences of indebtedness, assets or shares of Capital Stock other than such shares of Common Stock or rights or warrants to which Section 8(a) or 8(b) hereof applies (and any Conversion Rate adjustment required by this Section 8(c) with respect to such dividend or distribution shall then be made) immediately followed by (2) a dividend or distribution of such shares of Common Stock or such options, rights or warrants to which Section 8(a) or 8(b) hereof applies (and any further Conversion Rate adjustment required by Section 8(a) and 8(b) hereof with respect to such dividend or distribution shall then be made), except (A) the Close of Business on the Record Date of such dividend or distribution shall be substituted for "the Close of Business on the Record Date," "the Close of Business on the Record Date or the Close of Business on the effective date," "after the Close of Business on the Record Date for such dividend or distribution or the Close of Business on the effective date of such share split or share combination" and "the Close of Business on the Record Date for such distribution" within the meaning of Section 8(a) and 8(b) hereof and (B) any shares of Common Stock included in such dividend or distribution shall not be deemed "outstanding immediately prior to the Close of Business on the Record Date or the Close of Business on the effective date" within the meaning of Section 8(a) hereof. 
+If the Company shall, at any time or from time to time while any of the Series A Preferred Stock is outstanding, distribute options, rights or warrants to all or substantially all holders of Common Stock entitling the holders thereof to subscribe for, purchase or convert into shares of Capital Stock (either initially or under certain circumstances), which op tions, rights or warrants, until the occurrence of a specified event or events (" Trigger Event"): (x) are deemed to be transferred with such shares of Common Stock; (y) are not exercisable; and (z) are also issued in respect of future issuances of Common Stock, shall be dee med not to have been distributed for purposes of this Section 8(c), (and no adjustment to 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the Conversion Rate under this Section 8(c) shall be required) until the occurrence of the earliest Trigger Event and a distribution or deemed distribution under the terms of such options, rights or warrants at which time an appropriate adjustment (if any is required) to the Conversion Rate shall be made in the same manner as provided for under this Section 8(c). If any such options, rights or warrants are subject to events, upon the occurrence of which such options, rights or warrants become exercisable to purchase different securities, evidences of indebtedness or other assets, then the date of the occurrence of any and each such event shall be deemed to be the date of distribution and Record Date with respect to new options, rights or warrants for purposes of this Section 8(c) (and a termination or expiration of the existing rights or warrants without exercise by any of the holders thereof). In addition, in the event of any distribution (or deemed distribution) of options, rights or warrants (of the type described in the preceding sentence) with respect thereto that was counted for purposes of calculating a distribution amount for which an adjustment to the Conversion Rate under this Section 8(c) was made, (1) in the case of any such options, rights or warrants that shall all have been redeemed or repurchased without exercise by any holders thereof, the Conversion Rate shall be readjusted upon such final redemption or repurchase to give effect to such distribution or Trigger Event, as the case may be, as though it were a distribution under this Section 8(c), equal to the per share redemption or repurchase price received by a holder or holders of Common Stock with respect to such options, rights or warrants (assuming such holder had retained such options, rights or warrants), made to all holders of Common Stock as of the date of such redemption or repurchase, and (2) in the case of such options, rights or warrants that shall have expired or been terminated without exercise by any holders thereof, the Conversion Rate shall be readjusted as if such options, rights or warrants had not been issued. 
+ (d)    If the Company, during the eighteen month period following the Original Issue Date, shall issue shares of Common Stock or any other security convertible into, exercisable or ex changeable for Common Stock (such Common Stock or other security, " Equity-Linked Securities"), for a consideration per share of Common Stock (or conversion price per share of Common Stock) less than the Current Market Price of Common Stock on the date the Company fixes the offering price (or conversion price) of Equity-Linked Securities, the Conversion Rate shall be increased based on the following formula: 
+ 
+ 
+ where: 
+ 
+ 
+ 
+ CR 0 
+ 
+ = 
+ 
+ the Conversion Rate in effect immediately prior to the issuance of such Equity-Linked Securities; 
+ 
+ CR ' 
+ 
+ = 
+ 
+ the new Conversion Rate in effect immediately after the issuance of such Equity-Linked Securities; 
+ 
+ AC 
+ 
+ = 
+ 
+ the aggregate consideration paid or payable for such Equity Linked Securities; 
+ 
+ OS 0 
+ 
+ = 
+ 
+the number of shares of Common Stock outstanding immediately prior to the issuance of such Equity-Linked Securities; 
+ 
+ OS ' 
+ 
+ = 
+ 
+the number of shares of Common Stock outstanding immediately after the issuance of such Equity-Linked Securities or issuable pursuant to such Equity-Linked Securities; and 
+ 
+ SP ' 
+ 
+ = 
+ 
+ the Closing Price of the Common Stock on the date of issuance of such Equity-Linked Securities. 
+ 
+ 
+ 
+ The adjustment shall become effective immediately after such issuance. 
+ This Section 8(d) shall not apply to Excluded Issuances. 
+ (e)    The Company may make increases in the Conversion Rate, in addition to any other increases required by this Section 8, if the Board of Directors (by action of a majority of the directors that are neither "Investor Designees" (as defined in the Investor Rights Agreement) nor Preferred Directors (" Independent Majority ")) deems it advisable and 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+necessary to avoid or diminish any income tax to holders of the Common Stock resulting from any dividend or distribution of shares of Common Stock (or issuance of options, rights or warrants for Common Stock) or from any event treated as such for income tax purposes or for any other reason provided, however, that if there are any Investor Designees or Preferred Directors on the Board of Directors at such time, the Company may not take such action without the approval of the Investor Designees and Preferred Directors, which approval may only be withheld if the Investor Designees and Preferred Directors reasonably determine that such action is likely to result in a material increase in U.S. federal income tax or withholding tax to holders of Series A Preferred Stock. If the Company takes any action affecting the Common Stock, other than an action described in Sections 8(a) though 8(d), which upon a determination by the Board of Directors by action of an Independent Majority, such determination intended to be a "fact" for purposes of Section 151(a) of the General Corporation Law of the State of Delaware, would materially adversely affect the conversion rights of the holders of the Series A Preferred Stock, the Conversion Rate shall be increased, to the extent permitted by law, in such manner, if any, and at such time, as the Board of Directors by action of an Independent Majority determines in good faith to be equitable  in the circumstances. 
+ Section 9 Voting Rights . 
+ (a) General. The holders of shares of Series A Preferred Stock shall be entitled to vote with the holders of shares of Common Stock on all matters submitted to a vote of shareholders of the Company, except as otherwise provided herein or by applicable law. Each holder of shares of Series A Preferred Stock shall be entitled to the number of votes equal to the largest number of whole shares of Common Stock into which all shares of Series A Preferred Stock held of record by such holder could then be converted pursuant to Section 7 at the record date for the determination of the shareholders entitled to vote on such matters or, if no such record date is established, at the date such vote is taken or any written consent of shareholders is first executed. The holders of shares of Series A Preferred Stock shall be entitled to notice of any meeting of shareholders of the Company in accordance with the Byla ws. 
+ (b) Election of Directors . 
+ (1) Election.  If (i) the Investor is entitled to designate one or more directors to the Board of Directors pursuant to the terms and conditions of Section 2.1 of the Investor Rights Agreement and (ii) the shareholders of the Company fail to elect any of the directors so designated by the Investor, in each case at any annual or special meeting called for, among other items, the election of directors, then the Investor Majority shall be entitled to elect such persons to the Board of Directors that were designated by the Investor and not subsequently  elected to the Board of Directors by the shareholders of the Company (each such director, a " Preferred Director "). 
+ (2) Term.  Each Preferred Director shall serve until the next annual meeting of the shareholders of the Company and until his or her successor is elected and qualifies in accordance with this Section 9(b) and the Bylaws, unless such Preferred Director is earlier removed in accordance with the Bylaws or Investor Rights Agreement, resigns or is otherwise unable to serve. Subject to the Investor Rights Agreement, in the event any Preferred Director is removed, resigns or is unable to serve as a member of the Board of Directors, the Investor Majority shall have the right to fill such vacancy. Each Preferred Director may only be elected to the Board of Directors by the holders of the Series A Preferred Stock in accordance with  this Section 9(b), and each such director's seat shall otherwise remain vacant. 
+ (3) Non-Limitation of Voting Rights.  For the avoidance of doubt, the right of the Permitted Holders to vote for the election of the Preferred Directors shall be in addition to the right of the Series A Preferred Stock to vote together with the holders of Common Stock for the election of the other members of the Board of Directors. 
+ (c) Class Voting Rights as to Particular Matters. In addition to any other vote or consent of shareholders required by law or by the Certificate of Incorporation, the affirmative vote or consent of the Investor Majority, given in person or by proxy, either in writing without a meeting or by vote at any meeting called for the purpose, shall be necessary for effecting any of the actions described in clauses  (1) through (3) below: 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Dividends, Repurchase and Redemption . 
+ (A)The declaration or payment of any dividend or distribution on Common Stock, other Junior Stock or Parity Stock (other than (i) a dividend payable solely in Junior Stock and (ii) dividends or distributions paid exclusively in cash to the extent that the Series A Preferred Stock participates on an as-converted basis with the Common Stock in a cash dividend or distribution in accordance with Section 4(a)) if, at the time of such declaration, payment or distribution, dividends on the Series A Preferred Stock have not been paid in full in  cash; or 
+ (B)the purchase, redemption or other acquisition for consideration by the Company, directly or indirectly, of any Common Stock, other Junior Stock or Parity Stock (except as necessary to effect (1) a reclassification of Junior Stock for or into other Junior Stock, (2) a reclassification of Parity Stock for or into other Parity Stock with the same or lesser aggregate liquidation preference, (3) a reclassification of Parity Stock into Junior Stock, (4) the exchange or conversion of one share of Junior Stock for or into another share of Junior Stock, (5) the exchange or conversion of one share of Parity Stock for or into another share of Parity Stock with the same or lesser per share liquidation amount or (6) the exchange or conversion of one share of Parity Stock into Junior Stock), in each case if, at the time of such purchase, redemption or other acquisition, dividends on the Series A Prefe rred Stock have not been paid in full in cash; 
+ (2) Amendment of Series A Preferred Stock. Any amendment, alteration or repeal of any provision of the Certificate of Incorporation or Certificate of Designations so as to adversely affect the relative rights, preferences , privileges or voting powers of the Series A Preferred Stock; or 
+ (3) Authorizations, Issuances and Reclassifications. The authorization or creation of, issuance of, or reclassification into, Parity Stock (including additional shares of the Series A Preferred Stock other than shares of the Series A Preferred Stock issued as PIK Dividends) or Capital Stock that would rank senior to the Series A Preferred Stock. 
+ (d) Changes after Provision for Redemption. No vote or consent of the holders of Series A Preferred Stock shall be required pursuant to Section 9(c) if, at or prior to the time when any such vote or consent would otherwise be required pursuant to such Section, all outstanding shares of Series A Preferred Stock shall have been redeemed, or shall have been called for redemption upon proper notice and sufficient funds shall have been deposited in trust for such redemption, in each case pursuant to Section 6 above. 
+ Section 10 Reorganization Events . 
+ (a) In the event of: 
+ (1)any consolidation or merger of the Company with or into another Person or of another Person with or into the Company; 
+ (2)any sale, transfer, lease or conveyance to another Person of the property of the Company as an entirety or substantially as an entirety; 
+ (3)any statutory share exchange of the Company with another Person (other than in connection with a merger or acquisition); or 
+ (4)any tender offer or exchange offer which, in combination with any related transactions, would result in a Change of Control of the Company (in which case, the Reorganization Event  for such purposes shall be all such transactions taken together), 
+in each case in which holders of Common Stock would be entitled to receive cash, securities or other property for their shares of Common Stock (any such event specified in this Sec tion 10(a), a " Reorganization Event"), each share of Series A Preferred Stock outstanding immediately prior to such Reorganization Event shall (subject to conversion rights pursuant to Section 7), in the event of a Change of Control, be exchanged for (or in the event that the transaction is not a Change of Control, be exchanged for the right to receive upon conversion of the Series A Preferre d Stock thereafter 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+at the time of the holder's election, in accordance with the terms hereof) whichever of the following has the greatest value (as determined by the Board of Directors in its reasonable discretion): (A) an amount in cash equal to the sum of (1) the Liquidation Preference per share of the Series A Preferred Stock   plus  (2) an amount per share equal to accrued but unpaid dividends not previously added to the Liquidation Preference from and including the immediately preceding Dividend Payment Date  to but excluding the date on which such Reorganization Event occurs (the " Reorganization Event Date "); (B) an amount equal to the   product   of (I) the Per Share Amount as of the Reorganization Event Date   multiplied  by (II) the amount of cash, securities or other property (such securities or other property having a value equal to its fair market value as reasonably determined by the Board of Directors) distributed or to be distributed in respect of the Common Stock in connection with such Reorganization Event to a holder of Common Stock that was not the counterparty to the Reorganization Event or an Affiliate of such counterparty (such cash, securities and other property, the " Exchange Property"); and (C) to the extent the Reorganization Event constitutes or would constitute a Fundamental Change, an amount in cash equal to the product of (x) 101%   multiplied   by (y) the sum of (1) the Liquidation Preference per share of the Series A Preferred Stock   plus  (2) an amount per share equal to accrued but unpaid dividends not previously added to the Liquidation Preference from and including the immediately preceding Dividend Payment Date  to, but excluding, the Reorganization Event Date;   provided ,   however, that the Company shall not distribute cash, securities or other property as provided in this Section 10(a) to either the holders of the Common Stock or the Preferred Stock to the extent such distribution would be prohibited by any provision of any Debt Document. In case of any Reorganization Event, provision shall be made in such transaction so that the holders of any Series A Preferred Stock shall be entitled, but not obligated, to participate in whole or in part in such Reorganization Event directly by surrendering such Series A Preferred Stock in exchange for the Exchange Property receivable in such Reorganization Event applicable to such Series A Preferred Stock on an as converted basis. 
+ (b)In the event that (i) the Board of Directors determines pursuant to Section 10(a) that the Series A shall be exchanged for Exchange Property and (ii) the holders of the shares of the Common Stock have the opportunity to elect the form of consideration to be received in such transaction, the "Exchange Property" that holders of the Series A Preferred Stock shall be entitled to receive shall be determined by the holders of a majority of the outstanding shares of Series A Preferred Stock. 
+ (c) The above provisions of this Section 10 shall similarly apply to successive Reorganization Events. 
+ (d)Notwithstanding anything to the contrary, Section 10(a) shall not apply in the case of, and a Reorganization Event shall not be deemed to be, a merger, consolidation, reorganization or statutory share exchange (x) among the Company and its direct and indirect Subsidiaries or (y) between the Company and any Person for the primary purpose of changing the domic ile of the Company (a " Internal Reorganization Event"). Without limiting the rights of the holders of the Series A Preferred Stock set forth in Section 9(c)(2), the Company shall not effectuate an Internal Reorganization Event unless the Series A Preferred Stock shall be outstanding as a class of preferred stock of the surviving company having the same rights, terms, preferences, liquidation preference and accrued and unpaid dividends as the Series A Preferred Stock in effect immediately prior to such Internal Reorganization Event, as adjusted for such Internal Reorganization Event pursuant to this Certificate of Designations after giving effect to any such Internal Reorganization Event. The Company (or any successor) shall, within 20 days of the occurrence of any Internal Reorganization Event, provide written notice to the holders of the Series A Preferred Stock of the occurrence of such event. Failure to deliver such notice shall not af fect the operation of this Section 10(d) or the validity of any Internal Reorganization Event. 
+ Section 11 Record Holders. To the fullest extent permitted by applicable law, the Company may deem and treat the record holder of any share of the Series A Preferred Stock as the true and lawful owner ther eof for all purposes, and the Company shall not be affected by any notice to the contrary. 
+ Section 12 Notices . 
+ (a) General.  All notices or communications in respect of the Series A Preferred Stock shall be sufficiently given if given in writing and delivered in person or by first class mail, postage prepaid, or if given in such other manner as may be permitted in this Certificate of Designations, in the Certificate of Incorporation or Bylaws or by applicable law or regulation. Notwithstanding the foregoing, if the Series A Preferred Stock is issued in book-entry form through The 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Depository Trust Company or any similar facility, such notices may be given to the holders of the Series A Preferred Stock in any manner permitted by such facility. 
+ (b) Notice of Certain Events.  The Company shall, to the extent not included in the Exchange Act reports of the Company, provide reasonable written notice to each holder of the Series A Preferred Stock of any event that has resulted in (i) a Fundamental Change and (ii) an event the occurrence of which would result in an adjustment to the Conversion Rate, including the then applicable Conv ersion Rate. 
+ Section 13 Replacement Certificates.  The Company shall replace any mutilated certificate at the holder's expense upon surrender of that certificate to the Company. The Company shall replace certificates that become destroyed, stolen or lost at the holder's expense upon delivery to the Company of reasonably satisfactory evidence that the certificate has been destroyed, stolen or lost, together w ith any indemnity that may be required by the Company. 
+ Section 14 Other Rights. The shares of Series A Preferred Stock shall not have any rights, preferences, privileges or voting powers or relative, participating, optional or other special rights, or qualifications, limitations or restrictions thereof, other than as set forth herein or in the Certificate of Incorporation or as provided by applicable law and regulation. 
+ Section 15 Further Assurances. The Company shall take such actions as are reasonably required in order for the Company to satisfy its obligations under this Certificate of Designations, including, without limitation, using reasonable best efforts in obtaining the approval of the holders of any class or series of Capital Stock or making any filings, in each case as required pursuant to applicable law or the listing requirements (if any) of any national securities exchange on which any class or series of Capital Stock is then listed or traded. The Company further agrees to cooperate with the holders of Series A Preferred in the making of any filings under applicable law that are to be made by the Company or any such holder in connection with  any PIK Dividends or the exercise of any such holder's rights hereunder. 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the Company has caused this Certificate of Designations to be duly executed and acknowledged by its undersigned duly authorized officer this 12th of February, 2 016. 
+ 
+ ACCRETIVE HEALTH, INC. 
+ By :   /s/ Emad Rizk      
+ Name: Emad Rizk 
+ Title: President and CEO 
+ 
+ 
+ 
+ 
+ 18 
+ 

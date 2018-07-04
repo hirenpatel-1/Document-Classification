@@ -1,0 +1,314 @@
+ htm 82769 Material contracts 10 2017-04-14T15:30:52.855406-05:00 Filing 0001397403-17-000009 2017-04-14 10-K Annual  & Quarterly Reports 0001397403 IMH Financial Corp 6500 Real Estate No ARIZONA DELAWARE DELAWARE IMH Secured Loan Fund, LLC false Small Reporting Company 000-52611 EXHIBIT 10.32 Exhibit Exhibit 6 ifcn-20161231xexx1032.htm EX-10.32 6 ifcn-20161231xexx1032.htm EXHIBIT 10.32 
+ 
+ 
+ Execution Version 
+ 
+ Exhibit 10.32 
+ 
+ 
+ 
+ PREFERRED STOCK PURCHASE AGREEMENT 
+ This PREFERRED STOCK PURCHASE AGREEMENT (this " Agreement ") is entered into as of the 11 th   day of April, 2017 by and among SRE Monarch, LLC, a Delaware limited liability company (" Seller "), JPMorgan Chase Funding Inc. a Delaware corporation (" Purchaser ") and IMH Financial Corporation, a Delaware corporation (the " Company " and, together with Seller and Purchaser, the " Parties "). 
+WHEREAS, Seller owns 5,595,148 shares of Series B-2 Cumulative Convertible Preferred Stock of the Company, $0.01 par value per share (the " B-2 Preferred Stock"), issued pursuant to the Cumulative Convertible Preferred Stock Subscription Agreement dated as of July 24, 2014 between Seller and the Company (the " Purchased Shares "); 
+WHEREAS, Seller desires to sell to Purchaser, and Purchaser desires to purchase from Seller, the Purchased Shares on the terms and conditions set forth in this Agreement (the " Transfer" ); 
+ WHEREAS, the board of directors of the Company (the " Board") has duly adopted resolutions approving the Transfer in all respects, including the approval contemplated by Section 5.04(b) of the Company's by-laws and by Section 11 of the Cer tificate of Designation of the Series B Preferred Stock (the " Certificate of Designation "), a copy of which resolutions is attached as Exhibit A hereto (the " Board Approval "); 
+WHEREAS, the holders of the Company's Series B-1 Cumulative Convertible Preferred Stock, $0.01 par value per share (together with the B-2 Preferred Stock, the " Series B Preferred Stock"), acting together with the holders of the B-2 Preferred Stock, have approved the Transfer in all respects in accordance with Section 1.1.5 of Schedule 1 to the Certificate of Designation by the written consent of holders representing the requisite number of shares of Series B Preferred Stock for approval of the Transfer, a copy of which is attached as Exhi bit B (the " Series B Stockholder Approval "); 
+WHEREAS, the Board has duly adopted resolutions declaring and authorizing the payment of the regular quarterly dividend on the Series B Preferred Stock, representing all the accrued and unpaid dividends thereon for the period beginning January 1, 2017 and ending March 31, 2017 (the " Series B First Quarter Dividend "), of which, $360,003.01 in the aggregate (the " SRE Dividend Amount") is payable to Seller in respect of the Purchased Shares which were held by Seller as of March 31, 2017, the record date for the Series B First Quarter Dividend; and 
+ WHEREAS, Seller is a party to that certain Investors' Rights Agreement, dated July 24, 2014 (the " Investor Rights Agreement"), with the Company and another holder of Series B Preferred Stock with respect to the Purchased Shares and in connection with the purchase and sale of the Purchased Shares, Seller desires to assign all of its right, title and interest in the Investor Rights Agreement to Purchaser. 
+NOW, THEREFORE, in consideration of the premises and the mutual agreements hereinafter set forth, the Parties hereby agree as follows: 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ Article 1 
+ PURCHASE AND SALE; CLOSING 
+ Section 1.1      Purchase and Sale. Subject to the terms and conditions of this Agreement, at the Closing, Purchaser shall purchase and acquire from Seller, and Seller shall sell, assign, transfer and deliver to Purchaser, the Purchased Shares, free and clear of any liens, security interests, pledges or other encumbrances (collectively " Liens") other than restrictions (a) provided for under applicable securities laws and (b) set forth in the Investors' Rights Agreement by and among the Company, Seller and JCP Realty Pa rtners, LLC, dated July 24, 2014 (the " Investors' Rights Agreement"), for an aggregate purchase price of Twenty Five Million Two Hundred Seventy Thousand Dollars and No Cents ($25,270,000.00) (the " Purchase Price "). 
+ Section 1.2      Closing . The closing of the transactions contemplated by this Agreement (the " Closing ") shall take place at the offices of Fried, Frank, Harris, Shriver & Jacobson LLP, One New York Plaza, New York, New York, 10004, at 10:00 A.M. local time on the date of this Agreement (the " Closing Date "). 
+ Section 1.3      Closing Payments; Deliveries . At the Closing: 
+ (a)     Purchaser shall pay the Purchase Price to Seller, by wire transfer of immediately available federal funds to the account specified in writing by Seller to Purchaser and the Company  prior to the date hereof (the " Seller Account "). 
+ (b)     The Company shall pay to Seller, by wire transfer of immediately available federal funds to the Seller Account, (i) the SRE Dividend Amount (to the extent such amount was not paid  by the Company prior to the Closing) and (ii) $304,000.00 (the " Expense Reimbursement Amount "). 
+ (c)     Subject to and conditioned upon payment to the Seller Account of the Purchase Price by Purchaser and the SRE Dividend Amount and the Expense Reimbursement Amount by the Company, Seller shall execute, acknowledge (where appropriate) and deliver, or cause to be delivered (i) to Purchaser (A) the original stock certificate(s) representing the Purchased Shares, duly endorsed for transfer or accompanied by stock powers duly executed in blank; and (B) a "transferor's certification of non-foreign status" in the form attached hereto as Exhibit C, duly executed by Seller; and (ii) to Purchaser and the Company, a resignation of Seth Singerman from the Board (and any and all committees thereof) in the form attached hereto  as Exhibit D. 
+ (d)     Subject to and conditioned upon payment to the Seller Account of the Purchase Price by Purchaser and the SRE Dividend Amount and the Expense Reimbursement Amount by the Company, Seller hereby irrevocably transfers and assigns to Purchaser all of its right, title and interest in, to and under the Investor Rights Agreement, and the Company hereby acknowledges such assignment from Seller to Purchaser, and from and after the date hereof, and as the context requires, any reference to Seller in the Investor Rights Agreement in its capacity as a holder of any of the Purchased Shares shall be deemed and understood to be a reference to Purchaser. 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ Article 2 
+ REPRESENTATIONS AND WARRANTIES OF SELLER 
+ Seller represents and warrants to the Company and Purchaser that: 
+ Section 2.1      Organization and Good Standing. Seller is duly organized, validly existing and in good standing under the laws of its jurisdiction of organization. 
+ Section 2.2      Ownership of the Purchased Shares. Seller is the record and beneficial owner of the Purchased Shares, and such Purchased Shares are free and clear of any Liens other than restrictions (a) provided for under applicable securities laws and (b) set forth in the Investors' Rights Agreement. Other than the Purchased Shares, neither Seller or nor any affiliate of Seller owns, of record or beneficially, any shares of capital stock or other equity securities (or securities exercisable, convertible or exchangeable for equity securities) (collectively, " Equity Securities") of the Company or any of its subsidiaries. Seller has not, directly or indirectly, granted any option, warrant or other right to any person to acquire any of the Purchased Shares, and other than the Investors' Rights Agreement, is not a party to any contract or other agreement relating to the Purchased Shares or any other Equity Securities of the Company or its subsidiaries. As of the date hereof, Seller has not exercised, or provided notice to the Company of its intent to exercise, its right to convert all or any portion of the B- 2 Preferred Stock into shares of common stock of the Company (the " Common Stock") pursuant to Section 6 of the Certificate of Designation. As of the date hereof and other than the SRE Dividend Amount to be paid by the Company on the date hereof in respect of the Series B First Quarter Dividend, Seller has received payment in full of all dividends that have accrued to the Series B-2 Preferred Stock since the Series B Original Issue Date  (as defined in the Certificate of Designation). 
+ Section 2.3      Authority; Execution; Enforceability. Seller has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement, the performance of its obligations hereunder, and the consummation of the transactions contemplated hereby, by Seller have been duly authorized by all requisite action on the part of Seller and no other action on the part of Seller is necessary to authorize the execution, delivery and performance of this Agreement by the Company or the consummation of the transactions contemplated hereby. Assuming due execution and delivery of this Agreement by Purchaser and the Company, this Agreement constitutes the valid and legally binding obligation of Seller, enforceable against it in accordance with its terms and conditions, subject to (x) bankruptcy, insolvency, reorganization, moratorium and similar laws affecting creditors' rights an d remedies generally and (y) general principles of equity. 
+ Section 2.4      Consents and Approvals. No notice, report, registration or other filing is required to be made by Seller with, nor are any consents, approvals or authorizations required to be obtained by Seller from, any governmental or regulatory authority of the United States, any State or locality thereof or any foreign jurisdiction (each, a " Governmental Authority") or any other person under any contract, agreement or other obligation to which Seller is party or by which its assets are bound, in connection with the valid execution, delivery or performance of this Agreement, the consummation by Seller of the transactions contemplated by this Agreement and all other 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+agreements and instruments contemplated hereby or the sale of the Purchased Shares by Seller in accordance with this Agreement. 
+ Section 2.5      Independent Assessment. Seth Singerman, an affiliate of Seller, is a member of the Board and through his participation on the Board is aware of and knowledgeable about the Company and its business and prospects. In formulating its decision to sell the Purchased Shares to Purchaser, Seller has had (a) access to Mr. Singerman's knowledge and (b) the opportunity to ask questions and receive answers from the Company concerning the Company and its businesses and prospects, and Seller has been permitted access to all information which it has requested to evaluat e the merits and risks of the sale of the Purchased Shares hereunder. 
+ Section 2.6      No Conflicts. The execution, delivery and performance of this Agreement by Seller does not, and the consummation of the transactions contemplated hereby by Seller will not, violate, conflict with or result in a breach of or constitute a default (with or without notice or lapse of time, or both) under: (a) any provision of the charter documents (or similar governing documents) of Seller, (b) any agreement, instrument, permit, franchise, license, judgment or order applicable to Seller or the Purchased Shares, other than such conflicts, breaches or defaults that, individually or in the aggregate, do not affect Seller's ability to perform its obligations hereunder and do not result in, and would not reasonably be expected to result in, the creation of any Lien on the Purchased Shares or any liability or obligation for which Purchaser or the Company may be responsible, or (c) any statute, law, ordinance, rule, regulation or order of any Governmental Authority or any judgment, order or decree (U.S. federal, state or local or foreign) applicable to Seller. 
+ Section 2.7      Litigation. There is no action, claim, dispute, arbitration, audit, hearing, inquiry, investigation, administrative enforcement proceeding, litigation or suit (whether civil, criminal, admin istrative or investigative) (" Litigation") commenced, brought, conducted, or heard by or before, or otherwise involving, any governmental or arbitration tribunal pending or, to the knowledge of Seller, threatened against Seller, and there is no judgment, decree or order against Seller, in each case, that would be reasonably likely to adversely affect Seller's ability to perform its obligations und er this Agreement or prohibit or make void the Transfer. 
+ Section 2.8      Fee Agreement. As of the date hereof, and without limiting any rights with respect to transactions after the date hereof, all amounts required to be paid to Seller by the Company pursuant to the SRE Fee Agreement, dated July 24, 2014, between the Company and Seller, as amended by the First Amendment to Fee Agreement, dated August 24, 2015, between the Company and Seller  (as so amended, " Fee Agreement ") have been paid in full and the Fee Agreement has been terminated. 
+ Article 3 
+ REPRESENTATIONS AND WARRANTIES OF THE COMPANY 
+The Company represents and warrants to Seller and Purchaser (other than the representations in Sections 3.6, 3.7 and 3.8, which the Company represents and warrants only to Purchase r) that: 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ Section 3.1      Organization and Good Standing. The Company is duly organized, validly existing and in good standing under the laws of its jurisdiction of organization. 
+ Section 3.2      Authority; Execution; Enforceability. The Company has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement, the performance of its obligations hereunder, and the consummation of the transactions contemplated hereby, by the Company have been duly authorized by all requisite action on the part of the Company and no other action on the part of the Company is necessary to authorize the execution, delivery and performance of this Agreement by the Company or the consummation of the transactions contemplated hereby. Assuming due execution and delivery of this Agreement by Seller and Purchaser, this Agreement constitutes the valid and legally binding obligation of the Company, enforceable against it in accordance with its terms and conditions, subject to (a) bankruptcy, insolvency, reorganization, moratorium and similar laws affecting  creditors' rights and remedies generally and (b) general principles of equity. 
+ Section 3.3      No Conflicts. Neither the execution and delivery of this Agreement nor the consummation of the transactions contemplated by this Agreement will conflict with or constitute on the part of the Company a breach of or default (or an event which, with notice or lapse of time or both, would constitute a default) or give rise to any right of termination, amendment, cancellation or acceleration under (a) its certificate of incorporation, as amended, including the certificates of designation of any preferred stock of the Company (other than the Series B Stockholder Approval); (b) its by-laws, as amended (other than the Board Approval); (c) any loan or credit agreement, note, bond, mortgage, indenture, lease, permit, concession, franchise, license, contract, agreement or other instrument, arrangement, understanding or obligation to which the Company or any of its subsidiaries is a party or by which any of them or any of their properties or assets may be bound; or (d) the Delaware General Corporation Law (the " DGCL"), or any other federal, state or local law, statute, ordinance, rule, regulation or any decree, writ, injunction, judgment or order of any court or administrative or other governmental body or any arbitration award which is either applicable to, binding upon or enforceable against the Company. 
+ Section 3.4      Consents and Approvals. Other than the Board Approval and the Series B Stockholder Approval, no notices, reports, registrations or other filings are required to be made by the Company with, nor are any consents, approvals or authorizations required to be obtained by the Company from, any Governmental Authority or any other person under any contract, agreement or other obligation to which the Company is party or by which its assets are bound, in connection with the valid execution, delivery or performance of this Agreement and all other agreements and instruments contemplated hereby by the Company or the consummation by the Company of the transactions contemplated by this Agreement and all other agreements and instruments contemplated hereby. The Board Approval attached as Exhibit A is a true, correct and complete copy of the resolutions adopted by the Board on [April 2, 2017], authorizing the Transfer and the Company's execution, delivery and performance of this Agreement, and such resolutions were duly and validly adopted, have not been revoked or modified and are in full force and effect. The Series B Stockholder Approval attached as Exhibit B is a true, correct and complete copy of the written consent executed by holders of Series B Preferred Stock representing at least the Required Holders (as defined in the Certificate of Designation) and delivered on April 10, 2017, authorizing the Transfer, and such 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+written consent was duly and validly delivered in accordance with the DGCL, has not been revoked or modified and is in full force and effect. Other than the Board Approval and the Series B Stockholder Approval, no other approval or consent of the Board or the holders of any Equity Securities of the Company is required to authorize and approve the Transfer. 
+ Section 3.5      Litigation. There is no action, claim, dispute, arbitration, audit, hearing, inquiry, investigation, administrative enforcement proceeding, litigation or suit (whether civil, criminal, administrative or investigative) commenced, brought, conducted, or heard by or before, or otherwise involving, any governmental or arbitration tribunal pending or, to the knowledge of the Company, threatened against the Company, and there is no judgment, decree or order against the Company, in each case, that would be reasonably likely to adversely affect the Company's ability to perform its obligations under this Agreement or prohibit or make void the Transfer. 
+ Section 3.6      Company Securities .   Schedule 3.6  attached hereto sets forth a correct and complete listing of (a) all of the Equity Securities of the Company authorized, the number and type of its Equity Securities issued and outstanding and the current record and beneficial ownership of such Equity Securities, and (b) since the formation of the Company, each issuance or grant of Equity Securities by the Company to any person, each purchase or redemption of Equity Securities of the Company and each transfer of Equity Securities by any holder of Equity Securities, in each case, specifying the date thereof, the type and number of Equity Securities and the persons involved in such transaction. All of the Equity Securities of the Company are duly authorized, have been validly issued and are fully paid and non-assessable, are owned beneficially and of record by those persons set forth in   Schedule 3.6 , and were issued in compliance with applicable securities laws or exemptions therefrom. 
+ Section 3.7      Non-Foreign Status . Seller is not a "foreign person" as defined in Section 1445(f)(3) of the Code. 
+ Section 3.8      No Conversion. As of the date hereof, (a) the Company has not received any notice from any holder of the Series B Preferred Stock (including Seller, for the avoidance of doubt) of such holder's intent to exercise its right to convert all or any portion of the B-2 Preferred Stock into shares of the Common Stock pursuant to Section 6 of the Certificate of Designation, and (b) no event that would trigger the Automatic Conversion Time (as defined in the Certificate of Designation) pursuant to Section 7 of the Certificate of Designation has occurred. 
+ Article 4 
+ REPRESENTATIONS AND WARRANTIES OF PURCHASER 
+ Purchaser represents and warrants to the Company and Seller that: 
+ Section 4.1      Authority; Execution; Enforceability. Purchaser has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement, the performance of its obligations hereunder, and the consummation of the transactions contemplated hereby, by Purchaser have been duly authorized by all requisite action on the part of Purchas er and no other action on the part of Purchaser is necessary to authorize the 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+execution, delivery and performance of this Agreement by Purchaser or the consummation of the transactions contemplated hereby. Assuming due execution and delivery of this Agreement by Seller and the Company, this Agreement constitutes the valid and legally binding obligation of Purchaser, enforceable against it in accordance with its terms and conditions, subject to (a) bankruptcy, insolvency, reorganization, moratorium and similar laws affecting creditors' rights and remedies generally and (b) general principles of equity. 
+ Section 4.2      Restricted Securities. Purchaser is acquiring the Purchased Shares for its own account, not as a nominee or agent, and not with a view to their distribution within the meaning of Section 2(11) of the S ecurities Act of 1933, as amended (the " Securities Act"), in any manner that would be in violation of the Securities Act and with no present intention of distributing or reselling, or granting any participation in, any part thereof. Purchaser understands that (a) except as provided in the Investors' Rights Agreement, the Purchased Shares will not be registered under the Securities Act or any state securities laws and (b) the Purchased Shares may not be sold or otherwise disposed of unless such sale or disposition is registered under the Securities Act and applicable state securities laws or such sale or other disposition is exempt from registration thereunder. Purchaser understands that no public market now exists for the Purchased Shares, and that there can be no  assurance that a public market will ever exist for the Purchased Shares. 
+ Section 4.3      Accredited Investor; Non-Reliance. Purchaser is an "accredited investor" (as defined in Rule 501(a) under the Securities Act). Purchaser has sufficient knowledge and experience in financial and business matters so as to be capable of evaluating the merits and risks of its investment in the Purchased Shares and is capable of bearing the economic risks of such investment for an indefinite period of time. Purchaser acknowledges and agrees that (a) Seller has not made any representations or warranties to Purchaser except for the representations and warranties made by Seller in Article 2 hereof, (b) Seller has not made any representations or warranties to Purchaser with regard to the value of the Purchased Shares or the assets, liabilities, financial condition, prospects or operations of the Company, (c) Purchaser is not relying upon Seller for any tax, investment or other advice, and (d) Purchaser freely accepts the investm ent risk inherent in the ownership of the Purchased Shares. 
+ Section 4.4      Consents and Approvals. No notices, reports, registrations or other filings are required to be made by Purchaser with, nor are any consents, approvals or authorizations required to be obtained by Purchaser from, any Governmental Authority or any other person under any contract, agreement or other obligation to which Purchaser is party or by which its assets are bound, in connection with the valid execution, delivery or performance of this Agreement and all other agreements and instruments contemplated hereby by Purchaser or the consummation by Purchaser of the transactions contemplated by this Agreement and all other agreements and instruments contemplated hereby, in each case except for such notices, reports, registrations and other filings the failure of which to make or obtain, individually or in the aggregate, are not material to Purchaser's ability to perform its obligations hereunder. 
+ Section 4.5      No Conflicts. The execution, delivery and performance of this Agreement by Purchaser do not, and the consummation of the transactions contemplated hereby by Purchaser will not, violate, confli ct with or result in a breach of or constitute a default (with or without notice 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+or lapse of time, or both) under any agreement, instrument, permit, franchise, license, judgment or order applicable to Purchaser, other than such conflicts, breaches or defaults that, individually or in the aggregate, are not material to Purchaser's ability to perform its obligations hereunder. 
+ Article 5 
+ RELEASE 
+ Section 5.1     In further consideration for each Party's execution of this Agreement and performance of transactions contemplated herein, effective, and conditioned, upon the payment in full of the Purchase Price by Purchaser and the SRE Dividend Amount and the Expense Reimbursement Amount by the Company, each of Seller and the Company, on behalf of itself and each of its direct and indirect beneficial owners, officers, directors, employees, agents, affiliates and representatives (and each of their respective successors and assigns), unconditionally and irrevocably acquits and forever fully releases and discharges each other Party, and each of their affiliates, partners, subsidiaries, officers, employees, agents, attorneys, principals, directors, and shareholders, and their respective heirs, legal representatives, successors and assigns (collectively, the " Releasees"), from any all claims, demands, causes of action obligations, remedies, suits, damages and liabilities of any nature whatsoever, whether now known or unknown, suspected, unsuspected or claimed, matured or unmatured, direct or derivative, whether arising under common law, in equity, or under statute, which Seller or the Company, as applicable, or its direct and indirect beneficial owners, officers, directors, employees, agents, affiliates and representatives (and each of their respective successors and assigns), has ever had or now has against any of the Releasees, and which may have arisen at any time prior to the Closing, and/or which are in any manner related to, arise from, or are in connection with, directly or indirectly, ownership of the Purchased Shares, the Certificate of Incorporation (including the Certificate of Designation), the Bylaws, the Investor Rights Agreement, the Fee Agreement and/or related documents, instruments or agreements relating to the ownership and operation of the Company prior to the Transfer, or the enforcement of, attempted or threatened enforcement by any parties of any of their respective common rights, remedies, or recourse related thereto (the " Released Claims"); provided, however, that "Released Claims" shall not include any claims, demands, causes of action obligations, remedies, suits, damages and liabilities arising out of (i) this Agreement, (ii) the financing agreements by and between the Company and Seller or any of its affiliates set forth on Schedule 5.1 attached hereto, but only to the extent such claims expressly survive the Company's repayment of the loans or advances (and accrued interest thereon) made to the Company pursuant to such agreements; or (iii) the service of Seth Singerman as a member of the Board, any governing body of any subsidiary of the Company or any committee of any of the foregoing, whether pursuant to the Company's or such subsidiary's certificate of incorporation, bylaws or equivalent organizational or governance documents in effect as of the date hereof, any applicable insurance policies of the Company in effect as of the date hereof, or that certain Indemnification Agreement, dated as of July 24, 2014, by and between the Company and Seth Singerman. From and after the Closing and the payment in full of the Purchase Price by Purchaser and the SRE Dividend Amount and the Expense Reimbursement Amount by the Company, each of Seller and the Company, as applicable, covenants and agrees not to ever commence, voluntarily aid in any way, prosecute, or cause to be commenced or prosecuted against any of the Releasees, any action or other proceeding  based upon any of the Released Claims. 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ Section 5.2     Each of the Company and Seller understands, acknowledges and agrees that, once effective, the release set forth above may be asserted as a full and complete defense, and may be used for a basis for an injunction against, any action, suit or other proceeding which may be instituted, prosecuted or attempted in breach of the provisions of such release. 
+ Section 5.3     Each of the Company and Seller agrees that no fact, events, circumstances, evidence or transaction which could now be asserted or which may hereafter be discovered shall affect in  any manner the final, absolute and unconditional nature of the release set forth above. 
+ Article 6 
+ SURVIVAL; INDEMNIFICATION 
+ Section 6.1      Survival. All representations and warranties contained in this Agreement shall survive the execution and delivery of this Agreement and the consummation of the transactions contemplated he reby. 
+ Section 6.2      Indemnification . 
+ (a)      From and after the Closing, each Party (the " Indemnifying Party") shall indemnify and hold each of the other Parties, its affiliates and their respective stockholders, directors and officers (collectively, the " Indemnified Parties") harmless from and against any and all liabilities, obligations, deficiencies, demands, claims, suits, actions, causes of action, assessments, losses, costs and expenses (including reasonable attorneys' fees), sustained or incurred by any such Indemnified Party, resulting from (i) any breach of a representation or warranty made by the Indemnifying Party in this Agreement, and (ii) any breach of a covenant made by the Indemnifying Party in this Agreement. The provisions of this   Section 6.2   are intended to be for the benefit of, and shall be enforceable by, each Indemnified Party. 
+ (b)     Except in the event of fraud and any equitable remedies that may be available to any Party, indemnification under this   Section 6.2   shall be the Parties' sole and exclusive remedy for any breach of this Agreement. 
+ Section 6.3      Tax Treatment . Any amounts paid under this   Article 6  shall, to the extent permitted by law, be treated as an adjustment to the consideration paid to Seller hereunder for federal, state and local tax purposes. 
+ Article 7 
+ GENERAL PROVISIONS 
+ Section 7.1      Further Assurances. If any further action is necessary or reasonably desirable to carry out the Transfer or this Agreement's purposes, each Party will take such further action (including but not limited to executing and delivering any further instruments and documents and providing any reasonably requested information) as any other Party may reasonably request. 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ Section 7.2      Fees and Expenses. Except for the obligation of the Company to pay the Expense Reimbursement Amount to Seller at the Closing, each Party shall pay all costs and expenses incurred in connection with the preparation, negotiation, execution and delivery of this Agreement and the consummation of the transactions contemplated hereby;   provided,  that the prevailing Party(ies) in any litigation, arbitration or other proceeding arising out of this Agreement shall be reimbursed by the non-prevailing Party(ies) for all costs a nd expenses incurred in such proceeding, including reasonable attorneys' fees and expenses. 
+ Section 7.3      Entire Agreement; Amendments .  This Agreement is the entire agreement of the Parties and supersedes all prior agreements and understanding with respect to the subject matter hereof. No amendment or modification (or termination or cancellation unless pursuant to the express terms) of this Agreement shall be effective unless made in writing by all Parties. 
+ Section 7.4      Severability. Any provision of this Agreement that is invalid, unenforceable or illegal in any jurisdiction shall, as to such jurisdiction, be ineffective only to the extent of such invalidity, unenforceability or illegality without affecting the remaining provisions hereof and without affecting the validity, enforceability or legality of such provision in any other jur isdiction. 
+ Section 7.5      Amendment; Waiver. Any term of this Agreement may be amended and the observance of any term of this Agreement may be waived (either generally or in a particular instance, and either retroactively o r prospectively) only with the written consent of the Parties;   provided, that any provision hereof may be waived by any waiving party on such Party's own behalf, without the consent of any other Party. 
+ Section 7.6      Succession and Assignment. This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns, and no other person or entity shall have any rights, interests or claims hereunder or be entitled to any benefits under or on account of this Agreement as a third party beneficiary or otherwise. No Party may assign either this Agreement or any of their rights, interests or obligations hereunder without the prior written approval of the other Parties. 
+ Section 7.7      Applicable Law; Jurisdiction; Waiver of Jury Trial. This Agreement shall be governed in all respects, including but not limited to, validity, interpretation and effect, by the laws of the State of New York regardless of the laws that might otherwise govern under applicable principles of conflicts of laws thereof. Any Litigation against any party to this Agreement arising out of or in any way relating to this Agreement shall be brought solely in any federal or state court located in the State of New York in New York County and each of the parties submits to the exclusive jurisdiction of such courts for the purpose of any such Litigation. Each party irrevocably and unconditionally agrees not to assert (a) any objection which it may ever have to the laying of venue of any such Litigation in any federal or state court located in the State of New York in New York County, (b) any claim that any such Litigation brought in any such court has been brought in an inconvenient forum and (c) any claim that such court does not have jurisdiction with respect to such Litigation. Each party irrevocably and unconditionally waives  any right to a trial by jury . 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ Section 7.8      Counterparts. This Agreement may be executed in one or more original or electronic counterparts, each of which shall be deemed an original, but all of which shall constitute the same instrumen t. 
+ [ Remainder of page left intentionally blank .] 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IN WITNESS WHEREOF, the Parties have set their hands to this Preferred Stock Purchase Agreement to be effective as of the date first written above. 
+ 
+ 
+ 
+ 
+   
+ 
+ IMH FINANCIAL CORPORATION 
+ 
+ 
+ 
+ By:     /s/ Lawrence D. Bain                 
+ Name: Lawrence D. Bain 
+ Title: Chairman  & CEO 
+ 
+ 
+ 
+ SRE MONARCH, LLC 
+ 
+ 
+ 
+ By:   _/s/ Seth Singerman______ 
+ Seth Singerman, its President 
+ 
+ 
+ 
+ JPMORGAN CHASE FUNDING INC. 
+ 
+ 
+ 
+ By:   __/s/ Chad Parson________ 
+ Name: Chad Parson 
+ Title: Managing Director 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ [Signature Page to Preferred Stock Purchase Agreement] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXHIBIT A 
+ Approval of the Board 
+ (attached) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ EXHIBIT A 
+ 
+ 
+ 
+ 
+ EXHIBIT B 
+ Series B Stockholder Approval 
+ (attached) 
+ 
+ 
+ 
+ EXHIBIT B 
+ 
+ 
+ 
+ 
+ EXHIBIT C 
+ Certificate of Non-Foreign Status 
+ (attached) 
+ 
+ 
+ EXHIBIT C 
+ 
+ 
+ 
+ 
+ EXHIBIT D 
+ Board Resignation 
+ (attached) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ EXHIBIT C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SCHEDULE 3.6 
+ Company Equity Securities 
+ (attached) 
+ 
+ 
+ SCHEDULE 3.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SCHEDULE 5.1 
+ Seller/Company Financing Agreements 
+ 
+ 
+ 
+ SCHEDULE 5.1 
+ 
+ 

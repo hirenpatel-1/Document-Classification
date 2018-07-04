@@ -1,0 +1,222 @@
+ htm 66385 Material contracts 10 2017-03-28T15:31:25.385651-05:00 Filing 0001493152-17-002906 2017-03-28 10-K Annual  & Quarterly Reports 0000771999 DOCUMENT SECURITY SYSTEMS INC DSS COMMON NYSE MKT 7373 Computer Integrated Systems Design No NEW YORK NEW YORK NEW YORK NEW SKY COMMUNICATIONS INC;THOROUGHBREDS USA INC false Small Reporting Company 001-32146 EX-10.29 Exhibit Exhibit 3 ex10-29.htm EX-10.29 3 ex10-29.htm 
+   
+ Exhibit 10.29 
+   
+ *Portions of this exhibit marked [*] are requested to be treated confidentially. 
+   
+ PATENT LICENSE AGREEMENT 
+   
+ As of the  EFFECTIVE DATE , Document Security Systems, Inc. (hereinafter " DSS") having a place of business at 200 Canal View Blvd., Suite 300, Rochester, NY 14623, and Intellectual Discovery Co. Ltd. (hereinafter " ID"), a Korean corporation, having an address at 10 Golden Tower Bldg. #511 Samseong-ro, Gangnam-gu, Seoul, 06158 Korea. DSS and ID (each individually, a " Party ", and collectively, the " Parties ") hereby agree as follows: 
+   
+ DEFINITIONS 
+   
+ " Affiliate" of a Person means any other Person or entity that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such Person. The term "control" (including the terms "controlled by" and "under common control with") means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise. 
+   
+ " Confidential Information" means (a) the contents, nature, conditions, results, form, existence of, parties to and terms of this Agreement, (b) all correspondence of a confidential nature relating to this  Agreement that is received by one Party the (" Receiving Party ") from the other Party the (" Disclosing Party"), and (c) any trade secret, privileged or work product information of Disclosing Party contained in the Prosecution History and Patent Evaluation Files. 
+   
+ " EFFECTIVE DATE" means the later of the dates on which DSS and ID execute this Agreement, as indicated on the signature page below. 
+   
+ " LICENSED PATENTS" means the U.S. and foreign patents, patent applications and invention disclosures listed in Exhibit A, and, any reissues, reexaminations, extensions, continuations, continuations-in-part, continuing patent applications, and divisions thereof and foreign counterparts of the foregoing as well as all rights therein provided by multinational treaties or conventions, if any, including any and all family members (U.S. and foreign) and any and all patents and pending applications containing a terminal disclaimer to any of the PATENTS. 
+   
+ "LICENSED PRODUCTS" means products that are made or sold in any country in which LICENSED PATENTS cover a feature that is contained within that product. 
+   
+ "LIMITED PERIOD"  means the period commencing on the EFFECTIVE DATE and continuing until February 15, 2019. 
+   
+ 
+ 
+       
+ 
+ 
+     
+ 
+ 
+   
+ " Person" means an individual, corporation, partnership, joint venture, limited liability company, governmental authority, unincorporated organization, trust, association or other entity. 
+   
+ " Transmitted Copy" means a copy of this Agreement bearing a signature of a Party that is reproduced or transmitted via email of a .pdf file, photocopy, facsimile, or other process of complete and a ccurate reproduction and transmission. 
+   
+ Agreement 
+   
+ 1.01 Grant 
+   
+ID grants to DSS under the LICENSED PATENTS, a worldwide, personal, non-exclusive, and a non-transferable fully paid-up license to make, have made, use, lease, offer to sell, sell,  export, import or otherwise dispose of LICENSED PRODUCTS. 
+   
+ 1.02 Duration 
+   
+All licenses granted herein under any LICENSED PATENTS shall be in effect from the EFFECTIVE DATE until the earlier of (i) the end of the LIMITED PERIOD, or (ii) the expiration of  all LICENSED PATENTS during the LIMITED PERIOD. 
+   
+ 1.03 Scope 
+   
+Except for the express patent licenses, releases, covenants and rights granted under this Agreement, no other licenses, releases, covenants, or any other rights or immunities, whet her express or implied, are granted hereunder under any of the LICENSED PATENTS. 
+   
+ PAYMENT 
+   
+ 2.01 Fixed Payment for Release and License 
+   
+In consideration of the release and license granted hereunder by ID to DSS, DSS shall pay a one time fully paid-up license fee to ID of one million five hundred thousand United States Dollars (US $1,500,000.00). DSS shall pay the license fee by wire transfer to the ID's bank account listed below no later than five (5) days following the EFFECTIVE DATE. If DSS fails to pay the license fee within such timeframe, ID shall have the option to take back the granted licensing right under the LICENSED PATENTS. 
+   
+ 
+ 
+       
+ 
+ 
+     
+ 
+ 
+   
+ Bank Name: Woori Bank Sernreung Banking Center 
+ Bank Address:	 701-2, Yeoksam-dong, Gangnam-gu, Seoul, 135-080 Korea 
+ Account name: Intellectual Discovery Co., Ltd 
+ Account number: 1005-101-837280 
+ SWIFT Code:	HVBKKRSEXXX 
+   
+ RELEASES 
+   
+ 3.01   Releases 
+   
+In consideration of the payment set forth in section 2.01 and other good and valuable consideration payable by DSS to ID, and subject to full receipt of such payments, ID hereby releases DSS from any and all claims under the LICENSED PATENTS that could be made by ID prior to the EFFECTIVE DATE for which the rights and licenses expressly granted under this Agreement to DSS would be a complete defense had this Agreement been in effect at the time such patent infringement arose. 
+   
+ LIMITED ASSIGNABILITY 
+   
+ 4.01 Limited Assignability 
+   
+Notwithstanding the foregoing, this Agreement shall be assignable by DSS in connection with a sale to, transfer to, merger, or acquisition of the business or assets, or any portion thereof another entity. This Agreement is also assignable by DSS to its designate subject to the written approval of ID. DSS shall give a written notice to ID within thirty (30) d ays prior to such assignment or transfer of this Agreement. 
+   
+ MISCELLANEOUS PROVISIONS 
+   
+ 5.01 Confidentiality 
+   
+Each Party, as Receiving Party, shall keep confidential the Confidential Information of Disclosing Party and neither Party, as Receiving Party, shall now or hereafter have the right to disclose such Confidential Information to any third party except: (a) with the prior written consent of the Disclosing Party, (b) as may be required by applicable law, regulation or order of a governmental authority or court of competent jurisdiction, (c) in confidence to the professional legal and financial counsel representing Receiving Party, or (d) in confidence to any party covered by the releases, licenses or covenants granted herein. Confidential Information shall not include any information that (i) has become publicly available through no fault of Receiving Party, (ii) was rightfully in Receiving Party's possession before receipt from Disclosing Party; (iii) becomes rightfully known to Receiving Party without obligations of confidentiality from a source other than Disclosing Party that is not subject to a duty of confidentiality with respect to such information; or (iv) is independently developed by Receiving Party without any use of, access to or reference to any Confidential Information of Disclosing Party. With respect to the foregoing clause (b), Receiving Party shall, to the extent legally permissible, provide Disclosing Party with prior written notice of such applicable law, regulation or order and, at the request of Disclosing Party, use reasonable efforts to limit the disclosure of the Confidential Information and to obtain a protective order. 
+   
+ 
+ 
+       
+ 
+ 
+     
+ 
+ 
+   
+ 5.02 Addresses and Payments 
+   
+(a)       Any notice or other communication hereunder is sufficiently given to DSS when sent by overnight or certified mail addressed to: 
+   
+ Document Security Systems, Inc. 
+ 200 Canal View Blvd., Suite 300, 
+ Rochester, NY 14623 
+ Attn: General Counsel 
+   
+(b)       Any notice or other communication hereunder will be sufficiently given to ID when sent by overnight or certified mail addressed to: 
+   
+ Intellectual Discovery Co. Ltd. 
+ 10 Golden Tower Bldg. #511 Samseong-ro, 
+ Gangnam-gu, Seoul, 06158 Korea 
+ Attn : General Counsel 
+   
+ Changes in such addresses may be specified by written notice. 
+   
+ 5.03 Taxes 
+   
+ID shall bear all taxes, duties, levies and similar charges, however designated, imposed as a result of the existence or operation of this Agreement, including any net income tax imposed upon ID by any governmental entity. In the event that such government entity imposes taxes on payments made by DSS hereunder and requires DSS to withhold such net income tax from the payment, DSS may deduct such tax from such payments. In such event, DSS shall promptly provide ID with tax receipts or certifications issued by the relevant tax authorities so as to enable ID to support a claim for credit against income taxes which may be payable by ID in the Republic of Korea. 
+   
+ 5.04 Governing Law and Jurisdiction 
+   
+This Agreement will be interpreted, construed, and enforced in all respects in accordance with the laws of the State of New York, without reference to its choice of law principles to the contrary. ALL DISPUTES AND LITIGATION ARISING OUT OF OR RELATED TO THIS AGREEMENT, INCLUDING MATTERS CONNECTED WITH ITS PERFORMANCE, ARE SUBJECT TO THE EXCLUSIVE JURISDICTION OF THE FEDERAL AND STATE COURTS OF THE STATE OF NEW YORK LOCATED IN MANHATTAN, NEW YORK. EACH PARTY HEREBY IRREVOCABLY SUBMITS TO THE PERSONAL JURISDICTION OF SUCH COURTS AND IRR EVOCABLY WAIVES ALL OBJECTIONS TO SUCH VENUE. 
+   
+ 
+ 
+       
+ 
+ 
+     
+ 
+ 
+   
+ 5.05 Waiver 
+   
+The waiver by either Party of a breach or default of any provision of this Agreement by the other Party will not be construed as a waiver of any succeeding breach of the same or any other provision, nor will any delay or omission on the part of either Party to exercise or avail itself of any right, power or privilege that it has or may have hereunder operate  as a waiver of any right, power or privilege of such Party. 
+   
+ 5.06 Severability 
+   
+If any provision of this Agreement is found to be invalid or unenforceable for any reason, then such provision will be modified to reflect the Parties' intention. All remaining pro visions of this Agreement will remain in full force and effect. 
+   
+ 5.07 Publicity 
+   
+Notwithstanding the foregoing, neither Party shall, without the prior written approval of the other Party, (a) advertise or otherwise publicize, in a press release or otherwise, the terms of this Agreement or any other aspect of the relationship between the Parties under this Agreement. For the avoidance of doubt, each of the Parties acknowledges and agrees that (a) the recording of the Executed Assignment by or on behalf of DSS or (b) disclosure of this Agreement in order to comply with applicable securities laws shall not constitute  a breach of this Agreement by DSS. 
+   
+ 5.08 Construction 
+   
+The section headings in this Agreement are for convenience of reference only, will not be deemed to be a part of this Agreement, and will not be referred to in connection with the construction or interpretation of this Agreement. Any rule of construction to the effect that ambiguities are to be resolved against the drafting Party will not be applied in the c onstruction or interpretation of this Agreement. 
+   
+ 5.09 Integration 
+   
+This Agreement sets forth the entire agreement and understanding between the Parties as to the subject matter hereof and merges all prior discussions and agreements between them. Neither of the Parties shall be bound by any modifications, warranties, understandings or representations with respect to such subject matter other than as expressly provided herein, for example, section 4.01 or in a writing signed with or subsequent to the EFFECTIVE DATE hereof by an authorized representative of the Party to be bound thereby. 
+   
+ 
+ 
+       
+ 
+ 
+     
+ 
+ 
+   
+ 5.10 Counterparts and Facsimile or Electronic Copies 
+   
+This Agreement may be executed on facsimile or electronically scanned copies in any number of counterparts, each of which will be deemed an original, but all of which together will  constitute one and the same instrument. 
+   
+ 5.11 No Admission 
+   
+The Parties agree that this Agreement is not an admission by DSS (i) that it does now infringe or has ever infringed any of the LICENSED PATENTS; and (ii) that it has committed any  act that would entitle ID, under the law of any jurisdiction anywhere in the world, to any relief. 
+   
+ 5.12 Disclaimer 
+   
+ID DOES NOT MAKE ANY REPRESENTATIONS, EXTENDS ANY WARRANTIES OF ANY KIND, ASSUMES ANY RESPONSIBILITY OR OBLIGATIONS WHATEVER, OR CONFERS ANY RIGHT BY IMPLICATION, ESTOPPEL OR OTHER WISE, OTHER THAN THE LICENSES AND RIGHTS HEREIN EXPRESSLY GRANTED. 
+   
+ IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be executed in duplicate originals by its duly authorized representatives on the respective dates entered below. 
+   
+   INTELLECTUAL DISCOVERY CO. LTD.         By: /s/ Donghyun Shim   Name: Donghyun Shim   Title: Executive Director   Date: November 8, 2016         DOCUMENT SECURITY SYSTEMS, INC.         By: /s/ Jeffrey Ronaldi   Name: Jeffrey Ronaldi   Title: Chief Executive Officer   Date: November 10, 2016 
+   
+ 
+ 
+       
+ 
+ 
+     
+ 
+ 
+   
+ EXHIBIT A - Listed PATENTS 
+   
+ No.   Patent No.   Country   Status   Title   Application No.   Filing Date   Issued Date [*]   [*]   [*]   [*]   [*]   [*]   [*]   [*] [*]   [*]   [*]   [*]   [*]   [*]   [*]   [*] [*]   [*]   [*]   [*]   [*]   [*]   [*]   [*] 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+       
+ 
+ 
+     
+ 
+ 
+   
+   
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

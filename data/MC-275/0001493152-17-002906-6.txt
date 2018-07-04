@@ -1,0 +1,198 @@
+ htm 67795 Material contracts 10 2017-03-28T15:31:25.385651-05:00 Filing 0001493152-17-002906 2017-03-28 10-K Annual  & Quarterly Reports 0000771999 DOCUMENT SECURITY SYSTEMS INC DSS COMMON NYSE MKT 7373 Computer Integrated Systems Design No NEW YORK NEW YORK NEW YORK NEW SKY COMMUNICATIONS INC;THOROUGHBREDS USA INC false Small Reporting Company 001-32146 EX-10.32 Exhibit Exhibit 6 ex10-32.htm EX-10.32 6 ex10-32.htm 
+   
+ Exhibit 10.32 
+   
+ Portions of this exhibit marked [*] are requested to be treated confidentially. 
+   
+ Execution 
+   
+ FIRST AMENDMENT TO INVESTMENT AGREEMENT 
+ AND CERTAIN OTHER DOCUMENTS 
+   
+ This FIRST AMENDMENT TO INVESTMENT AGREEMENT AND CERTAIN OTHER DOCUMENTS (this " Amendment ") is dated as of December 2, 2016 (the " Effective Date "), is entered into by and among DSS Technology Management, Inc. (the " Company "), Document Security Systems, Inc. (" DSS "), Fortress Credit Co LLC (" FCC "), as Collateral Agent, and the undersigned Investors (the " Investors "), and amends that certain Investment Agreement (as amended and in effect from time to time, the " Agreement") dated as of February 13, 2014 by and among the Company, DSS, FCC and the Investors (collectively, the " Parties "). 
+   
+WHEREAS, the Company had requested, and the Investors had previously advanced, an aggregate of (Four and a Half Million Dollars) $4,500,000 pursuant to the Agreement for the purcha se of the Contingent Interest, Fixed Return Interests and Notes, as set forth on  Schedules 2.1 ,  2.2  and  2.3  to the Agreement. 
+   
+WHEREAS, the Parties wish to amend the Agreement, and have agreed to the modifications of their respective rights and obligations under the Agreement set forth in, and subject to t he terms and conditions of, this Amendment. 
+   
+NOW THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt of which is hereby acknowledged, the Parties hereby agree as follows: 
+   
+ Section 1.   Amendments. 
+   
+Capitalized terms used and not otherwise defined in this Amendment shall have the meanings specified in the Agreement. 
+   
+ A.  Agreement . The Agreement shall be amended as follows: 
+   
+ (a)  Section 4.1.3(i) shall be amended and restated as follows: "(i) to the Notes Purchasers until they have received payment in full of the Notes and the Capitalized Expenses (including accrued intere st and any Make Whole Amount), then" 
+   
+ (b) A new  Section 4.3  is hereby added to the Agreement as follows: 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ "Section 4.3.  Additional Amounts. An amount equal to 25% (twenty-five percent) of any amounts received by the Company for any and all types of Monetization Activities related to United States Patent Nos. [*] and [*], which constitute all of the letters patent acquired by the Company from Stragent LLC, as reflected on  Schedule 4.3  to the Agreement (the " BlueTooth Patents"), including, without limitation, on account of the Company's pending lawsuit against [*], whether on account of a settlement, licensing or other commercialization, arrangement, judgment or otherwise, calculated after taking into account any portion of such amounts that are reserved for third parties on account of any retained interest or monetization proce eds right in such patents and after taking into account any contingency fee arrangements;  provided , that the Company's liability to pay the amounts set forth in this  Section 4.3 shall terminate once the Investors have received payments totaling the sum of (i) the Capitalized Expenses  plus (ii) payments of principal and interest on the Notes totaling the sum of (x) $4,500,000 plus (y) additional amounts, if any, advanced by the Investors pursuant to the Agreement fo llowing the Effective Date." 
+   
+(c) Section 7.8.2 is hereby modified to add the following sentence to the end of such subsection: "Notwithstanding the foregoing, the Company shall not make any Disposition of the  Dongbu Patents without the prior written consent of the Majority Investors." 
+   
+(d) Section 7.8.3 is hereby modified to add the following sentence to the end of Section 7.8.3: "Notwithstanding the foregoing, from and after December 2, 2016, the Company shall have no obligation to make further payments with respect to the maintenance of the Dongbu Patents (as defined in the First Amendment to the Investment Agreement dated as of December 2, 2016) other than to make payments with respect to the 11 such patents that remain active as of December 2, 2016, and those solely from the Deposit and solely to the extent that  such amounts constitute "Qualified Expenses";  provided, that the Company shall be required to provide the Investors with periodic updates on, and requests for approval of, any such maintenance fees associated with the Dongbu Patents a reasonable period prior to the due date for payment, and if and only if the Majority Investors approve the payment of such maintenance fees, they shall constitute ' Approved Dongbu Maintenance Fees .'" 
+   
+ (e) The following additional covenants hereby are added to  Article VII  of the Agreement: 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ "7.12.  Additional Deposit. The Company and DSS shall cause to be deposited in the Cash Collateral Account (i) on or before March 2, 2017, an additional Three Hundred Thousand Dollars ($300,000) (the " Initial Deposit ") and (ii) on or before March 2, 2018, a further Three Hundred Thousand Dollars ($300,000) (the " Additional Deposit " and, together with the Initial Deposit, the " Deposit"), which amounts may be deposited from funds of the Company or DSS, but in no event shall the source of such funds be amounts to which the Investors are otherwise entitled (e.g., Monetization Payments that are required to be applied to the Obligations). The Deposit shall be used to pay, or to reimburse the Company for, Qualified Expenses;  provided that in the event of an Event of Default, at the option of the Investors, any remaining portion of the Deposit may be applied to the Obligations. " Qualified Expenses" shall consist of out of pocket expenses incurred in connection with existing patent litigation matters and other patent litigation matters approved by the Investors, in each case, following the Effective Date which are payable to third parties and which are approved in writing by the Investors (with such approval not to be unreasonably withheld), for so long as the continued pursuit of such Monetization Activities are, in the sole determination of the Investors, likely to increase the return to the Investors from the Patents and any  Approved Dongbu Maintenance Fees;  provided, for the avoidance of doubt, Qualified Expenses shall not include working capital of the Company, general corporate purposes, payment of overhead (except that up to $6,250 per month may be used over the next two years to pay employee salaries, rent and overhead costs associated with the Company's Texas office, for a total amount of not more than $150,000, for so long as the aforesaid patent litigation matters are continuing provided that prior to the beginning of each calendar quarter in which such expenses are incurred the Investors have confirmed to the Company in writing that they continue to believe that the pursuit of such litigation matters are likely to increase the return to the Investors from the Patents), or payment of any other amount that is not directly related to the pursuit of Monetization Activities related to the Patents and shall not include expenses of pursuing Moneti zation Activities related to the BlueTooth Patents." 
+   
+ 7.13.  Additional Litigation. In the event that pending Inter Partes Review ("IPR") proceedings pertaining to US Patent Nos. [*] and [*] result in substantially all of the asserted patent claims being held to be invalid, the Company agrees that it will consult with the Investors in good faith concerning whether to pursue additional Monetization Activities with respect to US Patent No.  [*] (the " Unasserted Patent"), and, to the extent such Monetization Activities appear reasonable to pursue, shall undertake commercially reasonable efforts to pursue such Monetization Activities. In the event that the Investors request that the Company pursue Monetization Activities with respect to the Unasserted Patent, and the Company does not promptly following the Investors' such request and commence, and thereafter diligently continue to pursue, Monetization Activities with respect to the Unasserted Patent, as determined by the Investors in their reasonable discretion, then, without limiting the Investors' other rights and remedies, the Company shall transfer the Unasserted Patent to the Investors for no additional consideration." 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ (f)  Section 8.1.2  is amended and restated in its entirety as follows: 
+   
+ "8.1.2.  Fixed Returns. On or prior to the Maturity Date, the Investors shall fail to have received payments from the Company in an amount equal to (x) two times the aggregate amount of all Advances mad e by the Investors as of such date plus (y) the Capitalized Expenses." 
+   
+ (g)  Section 8.1.3 (x)  is amended by replacing "7.10" with " 7.10  and  Section 7.12 ." 
+   
+ (h) A new  Section 8.2.1.7  is added as follows: 
+   
+ "8.2.1.7  Application of Deposit. The Collateral Agent may apply the then remaining Deposit to the Obligations and in the event of a Default under  Section 7.12, may pursue any and all remedies under this Agreement and applicable law against the Company and DSS to enforce the agreements of the Company and DSS provided in  Section 7.12 ." 
+   
+ (i) The final paragraph of  Section 8.2.1  is amended and restated as follows: 
+   
+"Notwithstanding anything to the contrary in this Agreement or any other Document, except as set forth otherwise in  Section 8.2.1.7  or  8.2.2, the sole and exclusive recourse of the Investors and the Collateral Agent arising out of or in connection with an uncured Event of Default or any other breach of this Agreement o r any other Document by the Company shall be the recourse set forth in  Sections 8.2.1.1  through  8.2.1.7 , and, except as provided under  Section 8.2.2  or in the event of a breach of  Section 4.3  or  Section 7.12 the Investors and Collateral Agent each agree that they will not, individually or collectively, seek to enforce any monetary judgment with respect to or against any assets of the Company other than the Patents and any Monetization Payments and the remaining Deposit, and any enforcement of any monetary judgment with respect to or against the Patents or Monetization Payments shall be pursuant to and in accordance with the terms and conditions of the Collateral Documents;  provided , that in the event of a breach of  Section 4.3  or  Section 7.12, the Investors and the Collateral Agent may pursue any assets of the Company (and, in the case of a breach of  Section 7.12, DSS) to recover amounts that have not been applied or deposited in compliance with such provisions of this Agreement including damages, including expenses, related to any such br each and any related enforcement of rights of the Collateral Agent and the Investors." 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ (j)  Section 8.2.2 hereby is modified by adding an additional paragraph to the end of such Section, as set forth below: 
+   
+"The Investors agree and acknowledge that, subject to the Company and DSS complying with the terms of  Section 7.12, the Company's distributions to DSS of approximately (Two Million Six Hundred Thousand Dollars) $2,600,000 following the Initial Closing Date and prior to June 30, 2016 shall not  constitute an Event of Default or a Full Recourse Event;  provided ,  that  in the event of a breach of such  Section 7.12, this sentence shall automatically be void and of no force and effect. Notwithstanding the possible voiding of this section as provided herein, nothing herein shall be deemed an admission by the Company or DSS that the Company's distributions to DSS constituted an Event of Default or a Full Recourse Event, and Investors agree that the addition of this paragraph shall not be admissible in any subsequent dispute between the Investors and Company and/or DSS as evidence as to whether such distributions to DSS constituted an Event of Defa ult or Full Recourse Event." 
+   
+ B.  Amendments to Schedules .  Schedule I(b)  to the Agreement,  Schedule 4.2  to the Security Agreement,  Schedule I  to the Patent Security Agreement and  Schedule A  to the Patent License shall each be supplemented with the attached  Schedule B . A new  Schedule 4.3  shall be attached to the Agreement in the form attached. 
+   
+ Section 2.   Effectiveness . The effectiveness of this Amendment is subject to: 
+   
+ 2.01  Fully Executed Amendment . The Investors, the Company and DSS having received a fully executed copy of this Amendment. 
+   
+ 2.02  Schedules to Security Agreement . An updated  Schedule 4.3 to the Security Agreement shall have been provided to the Investors, accompanied by a certificate signed by an Authorized Officer of the Company certifying to such schedules' accu racy and completeness. 
+   
+ 2.03  Representations and Warranties; No Default. The representations and warranties of the Company contained in the Agreement as modified by this Amendment being true and correct in all material respects, and there existing no Default or Event of Default, each on and as of the date hereof after giving effect to this Amendment. The Investors shall have received a certificate signed by an Authorized Officer of the Company certifying to the foregoing, and to the accuracy and completeness of the Schedules to the Agreement, as updated pursuant to this Amendment, including that  Schedule 4.3  hereto is an accurate and complete list of the BlueTooth Patents, and that  Schedule B sets forth a true and complete list of the letters patent acquired from Dongbu HiTekCo, Ltd. (the " Dongbu Patents"), excluding 8 letters patent that have been previously disposed of pursuant to a confidential settlement agreement. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 2.04  Due Authorization. The execution, delivery, and performance by the Company and DSS of this Amendment having been duly authorized by all necessary corporate or other organizational action on the part of the Company and not (i) violating any material provision of federal, state, or local law or regulation applicable to the Company, DSS or the Governing Documents of any such entity, or any order, judgment, or decree of any court or other Governmental Authority binding on any such entity, (ii) conflicting with, resulting in a breach of, or constituting (with due notice or lapse of time or both) a default under any material agreement of DSS or the Company where any such conflict, breach or default could individually or in the aggregate reasonably be expected to have a Material Adverse Effect, (iii) resulting in or require the creation or imposition of any Lien of any nature whatsoever upon any assets of the Company, other than Permitted Liens, or (iv) requiring any approval of any holder of Capital Stock of DSS or the Company or any approval or consent of any Person under any material agreement of either such entity, other than consents or approvals that have been obtained and that are still in force and effect. 
+   
+ 2.05  Expenses. A fee in the amount of $150,000 in connection with the preparation, negotiation, execution and delivery of this Amendment will be added to the Obligations (the " Capitalized Expenses "). 
+   
+ Section 3.   Miscellaneous. Except as specifically amended or waived above, the Agreement and the other Documents shall remain unchanged and in full force and effect and are hereby ratified and confirmed. In the event of any express or implied conflict or inconsistency between this Amendment and the Agreement (or any of the other Documents), this Amendment shall prevail in all respects. The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of the Collateral Agent or any Investor under the Agreement or any Document, nor constitute a waiver of any provision of the Agreement or any Document. This Amendment is a Document for all purposes of the Agreement. This Amendment may be executed in any number of counterparts, and by different parties hereto on separate counterpart signature pages, and all such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of a counterpart signature page by facsimile transmission or by e-mail transmission of an Adobe portable document format file (also know n as a  "PDF" file) shall be effective as delivery of a manually executed counterpart signature page. Section headings used in this Amendment are for reference only and shall not affect the con struction of this Amendment. 
+   
+ Section 4.   Governing Law. This Amendment, and any issue, claim or proceeding arising out of or relating to this Amendment or the conduct of the parties hereto, whether now existing or hereafter arising and whether in contract, tort or otherwise, shall be governed by and construed solely and exclusively in accordance with the laws of the State of New York, without giving effect to a ny law which would result in the application of a different body of law. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+IN WITNESS WHEREOF, the Parties have caused this Amendment to be duly executed and delivered as of the Effective Date. 
+   
+     Collateral Agent : Investors :         Fortress Credit Co LLC Fortress Credit Co LLC, as     Note Purchaser         /s/ Jason Meyer     By: Jason Meyer     Title: Chief Administrative Officer /s/ Jason Meyer       By: Jason Meyer       Title: Chief Administrative Officer             Company :       CF DB EZ LLC, as Fixed Return Interest   DSS TECHNOLOGY MANAGEMENT, INC Purchaser and Contingent Interest     Purchaser         /s/ Jeffrey Ronaldi     By: Jeffrey Ronaldi     Title: CEO /s/ Jason Meyer       By:  Jason Meyer     Title:  Chief Administrative Officer           DSS :       DOCUMENT SECURITY SYSTEMS, INC.       (solely for purposes of Sections 7.12 and       8.2.2 of the Agreement, as modified hereby)               /s/ Jeffrey Ronaldi       By: Jeffrey Ronaldi       Title: CEO 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ SCHEDULE B 
+   
+ Dongbu Patents 
+   
+ Patent No.   Title   Foreign Counterparts [*       ] 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ SCHEDULE 4.3 
+   
+ United States Patent No. 
+   
+ [*] 
+   
+ [*] 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 

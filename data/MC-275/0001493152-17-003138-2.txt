@@ -1,0 +1,890 @@
+ htm 279055 Material contracts 10 2017-03-31T13:01:27.733488-05:00 Filing 0001493152-17-003138 2017-03-31 10-K Annual  & Quarterly Reports 0001544238 CARDAX, INC. CDXI COMMON OTCBB 2834 Pharmaceutical Preparations No HAWAII DELAWARE DELAWARE Koffee Korner Inc. false Small Reporting Company 333-181719 EX-10.27 Exhibit Exhibit 2 ex10-27.htm EX-10.27 2 ex10-27.htm 
+   
+ SUBSCRIPTION AGREEMENT 
+   
+ BY AND BETWEEN 
+   
+ CARDAX, INC. 
+   
+ AND 
+   
+ THE PURCHASERS PARTY HERETO 
+   
+ DATED AS OF __________, 2017 
+   
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+   
+ TABLE OF CONTENTS 
+   
+     Page ARTICLE I DEFINITIONS 1 1.1 Definitions 1       ARTICLE II PURCHASE AND SALE 3 2.1 Closing   3 2.2 Deliveries   3 2.3 Closing Conditions   4       ARTICLE III REPRESENTATIONS AND WARRANTIES   5 3.1 Representations and Warranties of the Company   5 3.2 Representations and Warranties of the Purchasers   6       ARTICLE IV OTHER AGREEMENTS OF THE PARTIES   8 4.1 Transfer Restrictions   8 4.2 Non-Public Information   10 4.3 Equal Treatment of Purchasers   10 4.4 Use of Proceeds   10 4.5 Form D; Blue Sky Filings   10 4.6 Replacement of Certificates   10       ARTICLE V MISCELLANEOUS   11 5.1 Fees and Expenses   11 5.2 Entire Agreement   11 5.3 Notices   11 5.4 Amendments; Waivers   12 5.5 Headings   12 5.6 Successors and Assigns   12 5.7 Third-Party Beneficiaries   12 5.8 Governing Law; Exclusive Jurisdiction   12 5.9 Attorney Fees   13 5.10 Survival   13 5.11 Counterparts and Execution   13 5.12 Severability   13 5.13 Independent Nature of Purchasers' Obligations and Rights   13 5.14 Saturdays, Sundays, Holidays, etc.   14 5.15 Construction   14 5.16 WAIVER OF JURY TRIAL   14 
+   
+ Attachments :           Schedule A Check and Wire Transfer Instructions   Schedule B Certain Additional Risk Factors   Exhibit I Form of Warrant   
+   
+ 
+ 
+   i   
+ 
+ 
+       
+ 
+ 
+   
+ SUBSCRIPTION AGREEMENT 
+   
+ This Subscription Agreement (this " Agreement") is dated as of the date set forth on the signature page hereof, by and among Cardax, Inc., a Delaware corporation (the " Company"), and each Person that is a Purchaser under the terms of this Agreement. Certain capitalized terms used in this Agreement are defined in  Section 1.1 . 
+   
+WHEREAS, the Company is a public company with its shares of common stock, par value $0.001 per share (" Common Stock ") traded on the OTCQB under the symbol "CDXI". 
+   
+WHEREAS, subject to the terms and conditions set forth in this Agreement and pursuant to Section 4(a)(2) of the Securities Act, and Rule 506 promulgated thereunder, the Company desires to sell to each Purchaser, and each Purchaser, severally and not jointly, desires to purchase Units (each, a " Unit "), where each Unit has: (i) one share of Common Stock; and (ii) one warrant (each, a " Warrant " and, collectively, the " Warrants"), each Warrant entitling the Purchaser of a Unit to purchase one share of Common Stock at a price per share of $0.12, subject to certain adjustment as more fully described in thi s Agreement in the form attached to this Agreement as  Exhibit I . 
+   
+WHEREAS, the Company has conducted an offering of units of common stock and warrants as disclosed in the SEC Filings (as defined below). 
+   
+WHEREAS, this Agreement and the offering of the Units by the Company are part of an offering of an aggregate amount that is up to $1,000,000 (or such greater amount as may be determined by the Company) and that in such offering there will be purchases and sales of units that are similar to the Units purchased under this Agreement by the Purchaser on similar terms and conditions; provided, however, the Company reserves the right to suspend or terminate any additional purchases and sales of such similar units and to change the terms and conditions with respect to the offering of any such units or other securities by or on behalf of the Company; 
+   
+ WHEREAS, the purchase price for each Unit (" Unit Price ") shall be $0.12. 
+   
+NOW, THEREFORE, IN CONSIDERATION of the mutual covenants contained in this Agreement, and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, each of the Company and the Purchasers, intending to be legally bound hereby, hereby agree as follows: 
+   
+ ARTICLE I 
+DEFINITIONS 
+   
+ 1.1  Definitions. In addition to the terms defined elsewhere in this Agreement, for all purposes of this Agreement, the following terms have the meanings set forth in this Section 1.1: 
+   
+ " Affiliate" means any Person that, directly or indirectly through one or more intermediaries, controls or is controlled by or is under common control with a Person, as such terms are used in  and construed under Rule 405 under the Securities Act. 
+   
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+   
+ " Business Day" means any day except any Saturday, any Sunday, any day which is a federal legal holiday in the United States or any day on which banking institutions in the State of New York are  authorized or required by law or other governmental action to close. 
+   
+ " Closing " means the closing of the purchase and sale of the Units pursuant to Section 2.1. 
+   
+ " Closing Date" means the Trading Day on which the Purchasers purchase the Units under the terms of this Agreement, including payment to the Company of the Purchase Price payable by each of the  Purchasers. 
+   
+ " Commission " means the United States Securities and Exchange Commission. 
+   
+ " Common Stock " shall have the meaning ascribed to such term in the recitals to this Agreement. 
+   
+ " Company Counsel " means Herrick, Feinstein LLP, 2 Park Avenue, New York, NY 10016. 
+   
+ " Company Sub " means Cardax Pharma, Inc., a Delaware corporation and a wholly owned subsidiary of the Company. 
+   
+ " Exchange Act" means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder. 
+   
+ " Execution Date Information " shall have the meaning ascribed to such term in  Section 3.2(f) . 
+   
+ " Offering " means this offering of the Units. 
+   
+ " Person" means an individual or corporation, partnership, trust, incorporated or unincorporated association, joint venture, limited liability company, joint stock company, government (or  an agency or subdivision thereof) or other entity of any kind. 
+   
+ " Proceeding" means an action, claim, suit, investigation or proceeding (including, without limitation, an informal investigation or partial proceeding, such as a deposition), whether commence d or threatened. 
+   
+ " Purchaser" means a Person that is a party to this Agreement as a purchaser, or his, her or its successors and assigns. 
+   
+ " Securities" means all Units, Common Stock, Warrants, and shares of the Company's Common Stock, into which the Warrants are exercisable. 
+   
+ " Securities Act" means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder. 
+   
+ 
+ 
+   2   
+ 
+ 
+       
+ 
+ 
+   
+ " Shares" means newly issued shares of the Company's Common Stock, issued or issuable to each Purchaser pursuant to the exercise of the Warrant, which shares, when issued in accordance with the terms of such securities, shall be duly authorized, validly issued, fully paid and non-assessable. 
+   
+ " Short Sale" means any securities transaction in which a Person sells a number of shares or other units of a security that are not owned by such Person at the time of such sale. 
+   
+ " Subscription Amount" means, as to each Purchaser, the aggregate amount to be paid for Units purchased hereunder which shall equal the number of Units to be purchased by such Purchaser multiplied by the Unit Price in United States dollars, which amount shall be paid by the Purchaser making a payment to the Company as provided in this Agreement. 
+   
+ " Subsidiary" means any subsidiary of the Company and shall, where applicable, also include any direct or indirect subsidiary of the Company formed or acquired after the date hereof. 
+   
+ " Trading Day " means a day on which the principal Trading Market is open for trading. 
+   
+ " Trading Market" means any of the following markets or exchanges on which the Company's Common Stock is listed or quoted for trading on the date in question: the NYSE MKT, the Nasdaq Capital Market, the Nasdaq Global Market, the Nasdaq Global Select Market, the New York Stock Exchange, OTCQB or the OTC Bulletin Board (or any successors to any of the foregoing). 
+   
+ " Transaction Documents" means this Agreement and all exhibits and schedules thereto and hereto and any other documents or agreements executed in connection with the transactions contemplated hereunder. 
+   
+ ARTICLE II 
+PURCHASE AND SALE 
+   
+ 2.1  Closing . 
+   
+(a) The Company and each Purchaser shall deliver the other items set forth in Section 2.2 deliverable at the Closing. 
+   
+(b) On the Closing Date, upon the terms and subject to the conditions set forth herein, the Company shall issue and sell to each of the Purchasers, and each of the Purchasers, severally and not jointly, shall purchase, that number of Units that is set forth on the signature page of such Purchaser to the extent accepted by the Company. 
+   
+(c) Upon satisfaction of the covenants and conditions set forth in Sections 2.2 and 2.3, the Closing shall occur at the offices of the Company or such other location as the Company  may designate to the Purchaser. 
+   
+ 
+ 
+   3   
+ 
+ 
+       
+ 
+ 
+   
+ 2.2  Deliveries . 
+   
+(a) On or prior to the Closing Date, the Company shall deliver or cause to be delivered to each Purchaser accepted by the Company, this Agreement duly executed by the Company. 
+   
+(b) On the date that this Agreement is executed and delivered by a Purchaser to the Company and the Company accepts the subscription of such Purchaser (with such acceptance to be evidenced by the Company's countersignature of the Purchaser's signature page hereinbelow), such Purchaser shall deliver or cause to be delivered to the Company: 
+   
+(i) a check or wire transfer of the Subscription Amount of such Purchaser in accordance with the check or wire transfer instructions set forth on  Schedule A  to this Agreement; and 
+   
+ (ii) a counterpart of this Agreement duly executed by such Purchaser. 
+   
+(c) On the Closing Date, the Company and each of the Purchasers shall close the purchase and sale of the Units and the Company shall deliver or cause to be delivered to each Purchaser evidence of the issuance and delivery of the shares of Common Stock and Warrants to be purchased by each Purchaser by appropriate instructions to the stock transfer agent of th e Company. 
+   
+ 2.3  Closing Conditions . 
+   
+(a) The obligations of the Company hereunder in connection with the Closing are subject to the following conditions being met: 
+   
+(i) the accuracy in all material respects on the Closing Date of the representations and warranties of the Purchasers contained herein (unless such representation is made as of a specific date therein in which case such representation and warranty shall be accurate as of such date); and 
+   
+(ii) all obligations, covenants and agreements of each Purchaser required to be performed at or prior to the Closing Date shall have been performed. 
+   
+(b) The respective obligations of each of the Purchasers hereunder in connection with the Closing are subject to the following conditions being met: 
+   
+(i) The representations and warranties made by the Company in this Agreement shall be true and correct in all material respects (provided that any such representations and warranties that are by their terms qualified by materiality shall (as so qualified) be true in all respects) as of the date hereof and at and as of the time of the Closing as though such representations and warranties were made at and as of such time (except in any case that representations and warranties that expressly speak as of a specified date or time need only be true and correct (subject to the foregoing parenthetical as to materiality) as of such specified date or time); 
+   
+ 
+ 
+   4   
+ 
+ 
+       
+ 
+ 
+   
+(ii) The Company shall have performed and complied in all material respects with all covenants and agreements required by this Agreement to be performed or complied with by it prio r to or at the Closing; 
+   
+(iii) Without limiting item (ii) above, the Company shall have delivered to the Purchasers each of the items required to be delivered by it pursuant to Section 2.2(c); 
+   
+(iv) No preliminary or permanent injunction or other order that declares this Agreement invalid or unenforceable in any respect or that prevents the consummation of the transaction s contemplated hereby shall be in effect; and 
+   
+(v) From the date hereof to the Closing Date, the Commission shall not have issued a stop trading order with respect to the Company's Common Stock. 
+   
+ ARTICLE III 
+REPRESENTATIONS AND WARRANTIES 
+   
+ 3.1  Representations and Warranties of the Company. The Company hereby makes the following representations and warranties to each Purchaser as of the date hereof and as of the Closing Date (unless such representation is made as of a specific date therein in which case such representation and warranty shall be accurate as of such date): 
+   
+ (a)  Organization and Qualification. Each of the Company and the Company Sub is an entity duly incorporated, validly existing and in good standing under the laws of the jurisdiction of its incorporation, with the requisite power and authority to own and use its properties and assets and to carry on its business as currently conducted. 
+   
+ (b)  Capitalization . The capitalization of the Company is properly reflected by the SEC Filings. 
+   
+ (c)  Private Placement. Assuming the accuracy of the Purchasers' representations and warranties set forth in Section 3.2, no registration under the Securities Act is required for the offer and sale of the Units to the Purchasers as contemplated hereby. The issuance and sale of the Units hereunder does not contravene the rules and regulations of the Trading Market applicable to th e Company. 
+   
+ (d)  Disclosure . 
+   
+(i) Except with respect to the material terms and conditions of the transactions contemplated by the Transaction Documents, the Company confirms that neither it nor any other Person acting on its behalf has provided any of the Purchasers or their agents or counsel with any information that it believes constitutes or might constitute material, non-public info rmation within the meaning of the Exchange Act. 
+   
+(ii) The Company acknowledges and agrees that no Purchaser makes or has made any representations or warranties with respect to the transactions contemplated hereby other than those  specifically set forth in Section 3.2. 
+   
+ 
+ 
+   5   
+ 
+ 
+       
+ 
+ 
+   
+ (e)  SEC Filings . The documents (" SEC Filings") that have been filed by the Company with the Securities and Exchange Commission do not (as amended and supplemented) contain a material misstatement of fact or does not omit to state any material fact necessary in order to make the statements made therein, in light of the circumstances under which they were made, not misleading, as interpreted by the Exch ange Act. 
+   
+ 3.2  Representations and Warranties of the Purchasers. Each Purchaser, for itself and for no other Purchaser, hereby represents and warrants, severally and not jointly, as of the date hereof and as of the Closing Date to the Company  as follows (unless as of a specific date therein): 
+   
+ (a) Organization; Authority. 
+   
+(i) Such Purchaser is either an individual or an entity that is duly incorporated or formed, validly existing and in good standing under the laws of the jurisdiction of its incorporation or formation with full right, corporate, partnership, limited liability company or similar power and authority to enter into and to consummate the transactions contemplated  by the Transaction Documents and otherwise to carry out its obligations hereunder and thereunder. 
+   
+(ii) The execution and delivery of the Transaction Documents and performance by such Purchaser of the transactions contemplated by the Transaction Documents have been duly authorized by all necessary corporate, partnership, limited liability company or similar action, as applicable, on the part of such Purchaser. 
+   
+(iii) Each Transaction Document to which it is a party has been duly executed by such Purchaser, and when delivered by such Purchaser in accordance with the terms hereof, will constitute the valid and legally binding obligation of such Purchaser, enforceable against it in accordance with its terms, except: (A) as limited by general equitable principles and applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement of creditors' rights generally; (B) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies; and (C) insofar as indemnification and contribution provisions may be limited by ap plicable law. 
+   
+ (b)  Own Account. Such Purchaser understands that each of the shares of Common Stock and the Warrants and the Shares are "restricted securities" and have not been registered under the Securities Act or any applicable state securities law and is acquiring the Units as principal for its own account and not with a view to or for distributing or reselling such Units (or the shares of Common Stock or Warrants or Shares) or any part thereof in violation of the Securities Act or any applicable state securities law, has no present intention of distributing any of such Securities in violation of the Securities Act or any applicable state securities law and has no direct or indirect arrangement or understandings with any other person to distribute or regarding the distribution of such Securities in violation of the Securities Act or any applicable state securities law (this representation and warranty not limiting such Purchaser's right to sell the Securities in compliance with applicable federal and state securities laws). Such Purchaser is acquiring the Units hereunder in the ordinary co urse of its business or investment strategy. 
+   
+ 
+ 
+   6   
+ 
+ 
+       
+ 
+ 
+   
+ (c)  Purchaser Status. At the time such Purchaser was offered the Units, it was, and as of the date hereof it is an "accredited investor" as defined in Rule 501 under the Securities Act; or (ii) a Non  U.S. Person within the meaning of Regulation S under the Securities Act. 
+   
+ (d)  Experience of Such Purchaser. Such Purchaser, either alone or together with its representatives, has such knowledge, sophistication and experience in business and financial matters so as to be capable of evaluating the merits and risks of the prospective investment in the shares of Common Stock or Warrants (and the Shares), and has so evaluated the merits and risks of such investment. Such Purchaser is able to bear the economic risk of an investment in the shares of Common Stock, the Warrants and Shares and, at the present time, is able to afford a complete loss  of such investment. 
+   
+ (e)  Certain Transactions and Confidentiality. Other than consummating the transactions contemplated hereunder, such Purchaser shall not directly or indirectly, nor shall any Person acting on behalf of or pursuant to any understanding with such Purchaser, execute any purchases or sales, including Short Sales, of the securities of the Company during the period commencing as of date of this Agreement and  the Closing Date. Notwithstanding the foregoing, the limitation set forth in this  Section 3.2(e) shall not be applicable to any investments of a Purchaser that are made or disposed of without the discretion of such Purchaser. Other than to other Persons party to this Agreement, such Purchaser has maintained the confidentiality of all disclosures made to it in connection with this transaction and shall use the information provided in this Agreement or any investment presentation provided to such Purchaser only in consideration of making an investment in the Units. 
+   
+ (f)  Disclosure . 
+   
+(i) Each Purchaser acknowledges and agrees that the information provided and available to the Purchaser at the time that this Agreement is executed and delivered (including, but no t limited to the SEC Filings) (the " Execution Date Information") may not include all of the material information that would be provided to a purchaser of securities in an offering of securities that is registered under the Securities Act and included in a prospectus that is required to be delivered in accordance with Section 5 of the Securities Act. 
+   
+(ii) Each Purchaser agrees that it has had an unrestricted opportunity to: (a) obtain additional information concerning the offering of the Units, including without limitation, information concerning the Company and any other matters relating directly or indirectly to the purchase of the Units by such Purchaser; and (b) ask questions of, and receive answers from, the executives of the Company concerning the terms and conditions of this offering of Units and to obtain such additional information as may have been necessary to verify the accuracy of the information contained in the investor presentation provided to the Purchaser or any other information that may have been provided to the Purchaser. 
+   
+(iii) Each Purchaser acknowledges and agrees that no Person is authorized by the Company and no Person will be authorized by the Company or any of its Affiliates to provide any information regarding the solicitation of investment interest or the offering of the Units other than the information that is provided in the investor presentation provided by the Company and such other information or documentation that is provided expressly by the Company to the Purchasers for such purposes. 
+   
+ 
+ 
+   7   
+ 
+ 
+       
+ 
+ 
+   
+(iv) Each Purchaser and/or Purchaser's advisor acknowledges that it has received and reviewed the SEC Filings, including the summary of risks contained in the "Risk Factors" sectio ns in such documents and  Schedule B and certain matters regarding the use of proceeds set forth in Section 4.4 and had access to or been furnished with sufficient facts and information to evaluate an investment in the Company and a reasonable opportunity to ask questions of and receive answers from a person or persons acting on behalf of the Company concerning the Company and all such questio ns have been answered to the full satisfaction of the Purchaser. 
+   
+ (g)  Due diligence. Each Purchaser acknowledges and agrees that it has: (A) carefully reviewed the investor presentation; (B) performed its own due diligence investigation and has been furnished with other materials that it considers relevant to the purchase of the Units; and (C) is not relying upon, and has not relied upon, any statement, representation or warranty made by a ny person, except for the statements, representations and warranties contained in this Agreement. 
+   
+ The Company acknowledges and agrees that the representations contained in  Section 3.2 shall not modify, amend or affect such Purchaser's right to rely on the Company's representations and warranties contained in this Agreement or any representations and warranties contained in any other Transaction Document or any other document or instrument executed and/or delivered in connection with this Agreement or the consummation of the transaction c ontemplated hereby. 
+   
+ ARTICLE IV 
+OTHER AGREEMENTS OF THE PARTIES 
+   
+ 4.1  Transfer Restrictions . 
+   
+(a) The shares of Common Stock, the Warrants and Shares may only be disposed of in compliance with state and federal securities laws. After the Final Closing Date, the Company agrees to take appropriate action to promptly prepare and file a registration statement with the SEC to register the Shares under the Securities Act, it being acknowledged that there is no assurance that all of the Shares will be included in a registration statement that is declared effective under the Securities Act. In connection with any transfer of any of shares of Common Stock or Warrants or Shares other than pursuant to an effective registration statement or Rule 144, to the Company or to an Affiliate of a Purchaser, the Company may require the transferor thereof to provide to the Company an opinion of counsel selected by the transferor and reasonably acceptable to the Company, the form and substance of which opinion shall be reasonably satisfactory to the Company, to the effect that such transfer does not require registration of such transferred shares of Common Stock or Warrants or S hares under the Securities Act. 
+   
+ 
+ 
+   8   
+ 
+ 
+       
+ 
+ 
+   
+ (b)  Legend on Share Certificates . The Purchasers agree to the imprinting, so long as is required by this  Section 4.1, of a legend on any of the certificates representing the shares of Common Stock or Warrants or Shares in the following form: 
+   
+THIS SECURITY HAS NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "SECURITIES ACT"), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS AS EVIDENCED BY A LEGAL OPINION OF COUNSEL TO THE TRANSFEROR TO SUCH EFFECT, THE SUBSTANCE OF WHICH SHALL BE REASONABLY ACCEPTABLE TO THE CORPORATION. THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT WITH A REGISTERED BROKER-DEALER OR OTHER LOAN WITH A FINANCIAL INSTITUTION THAT IS AN "ACCREDITED INVESTOR" AS DEFINED I N RULE 501(a) UNDER THE SECURITIES ACT OR OTHER LOAN SECURED BY SUCH SECURITIES. 
+   
+ (c) The legends set forth in  Section 4.1(b) shall, to the fullest extent permitted, be removed , (i) while a registration statement covering the resale of such security is effective under the Securities Act, (ii) following any sale of such shares of Common Stock or Warrants or Shares pursuant to Rule 144, (iii) if such shares of Common Stock or Warrants or Shares are eligible for sale under Rule 144, without the requirement for the Company to be in compliance with the current public information required under Rule 144 as to such shares of Common Stock or Warrants or Shares and without volume or manner-of-sale restrictions, or (iv) if such legend is not required under applicable requirements of the Securities Act (including judicial interpretations and p ronouncements issued by the staff of the Commission). 
+   
+(d) Each Purchaser, severally and not jointly with the other Purchasers, agrees that such Purchaser will sell any shares of Common Stock or Warrants or Shares only pursuant to either: (i) the registration requirements of the Securities Act, including any applicable prospectus delivery requirements; or (ii) an exemption therefrom, and that if shares of Common Stock or Warrants or Shares are sold pursuant to any such effective registration statement, they will be sold in compliance with the plan of distribution set forth therein, and acknowledges that the removal of the restrictive legend from certificates representing shares of Common Stock or Warrants or Shares as set forth in this  Section 4.1  is predicated upon the Company's reliance upon this understanding. 
+   
+ 
+ 
+   9   
+ 
+ 
+       
+ 
+ 
+   
+ 4.2  Non-Public Information. Except with respect to the material terms and conditions of the transactions contemplated by the Transaction Documents, the Company covenants and agrees that neither it, nor any other Person acting on its behalf, will provide any Purchaser or its agents or counsel with any information that the Company believes constitutes material non-public information, unless prior thereto such Purchaser, agent or counsel shall have entered into a written agreement with the Company regarding the confidentiality and use of such information or such Person is otherwise obligated to maintain the confidentiality of such information and not use such information in violation of applicable law. The Company understands and confirms that each Purchaser shall be relying on the foregoing covenant in evaluating and providing any information it receives in connection with its consideration of purchasing any of the  Units. 
+   
+ 4.3  Equal Treatment of Purchasers. No consideration (including any modification of any Transaction Document) shall be offered or paid to any Person to amend or consent to a waiver or modification of any provision of this Agreement unless the same consideration is also offered to all of the Purchasers. For clarification purposes, this provision constitutes a separate right granted to each Purchaser by the Company and negotiated separately by each Purchaser, and is intended for the Company to treat the Purchasers as a class and shall not in any way be construed as the Purchasers acting in concert or as a group with respect to the purchase, disposition or voting of Shares, the shares of the Company's Common Stock issuable upon the exercise of the Warrants or otherwise. The provisions of this Agreement do not, and in no manner shall be interpreted to, restrict the right, ability and authority of the Company to sell any securities, including securities identical to, exchangeable for, convertible into, or similar to, any of the securities offered and sold under this Agreement. 
+   
+ 4.4  Use of Proceeds. The Company will use the proceeds of this Offering for its product development, commercialization, and general corporate purposes. 
+   
+ 4.5  Form D; Blue Sky Filings. The Company shall timely file a Form D with respect to the Units as required under Regulation D, provide a copy thereof, promptly upon request of any Purchaser, and take such action as the Company shall reasonably determine is necessary in order to obtain an exemption for, or to qualify the Units for, sale to the Purchasers at the Closing under applicable securities or "Blue Sky" laws of the states of the United States, and provide evidence of such actions promptly upon request of any Purchaser. 
+   
+ 4.6  Replacement of Certificates. If any certificate or instrument evidencing any shares of Common Stock or Warrants or Shares is mutilated, lost, stolen or destroyed, the Company shall cause the Company to, and the Company shall, issue or cause to be issued in exchange and substitution for and upon cancellation thereof (in the case of mutilation), or in lieu of and substitution therefor, a new certificate or instrument, but only upon receipt of evidence reasonably satisfactory to the Company of such loss, theft or destruction. The applicant for a new certificate or instrument under such circumstances shall also pay any reasonable third-party costs (including customary indemnity) associated with the issuance of such replacement shares of Comm on Stock or Warrants or Shares and may be required to provide an indemnity in favor of the Company. 
+   
+ 
+ 
+   10   
+ 
+ 
+       
+ 
+ 
+   
+ ARTICLE V 
+MISCELLANEOUS 
+   
+ 5.1  Fees and Expenses . 
+   
+(a) Except as expressly set forth in the Transaction Documents to the contrary, each party shall pay the fees and expenses of its advisers, counsel, accountants and other experts, if any, and all other expenses incurred by such party incident to the negotiation, preparation, execution, delivery and performance of this Agreement. 
+   
+ 5.2  Entire Agreement. The Transaction Documents contain the entire understanding of the parties with respect to the subject matter hereof and thereof and supersede all prior agreements and understandings, oral or written, with respect to such matters, which the parties acknowledge have been merged into such documents, exhibits and schedules. 
+   
+ 5.3  Notices . 
+   
+(a) All notices (including any consent required of any party to this Agreement) given or permitted to be provided pursuant to this Agreement shall be in writing and shall be mailed by certified mail, delivered by professional courier or hand, or transmitted via email or facsimile, to such party's address as set forth below: 
+   
+   (i) If such notice is to the Company, then to the Company at:           
+ Cardax, Inc. 
+ 2800 Woodlawn Drive, Suite 129 
+ Honolulu, HI 96822 
+ Attention: David G. Watumull, President and CEO 
+ Email: dwatumull@cardaxpharma.com 
+ Fax: 808-237-5901 
+   
+ With a copy to (which copy shall not constitute notice): 
+   
+ Herrick, Feinstein LLP 
+ 2 Park Avenue 
+ New York, NY 10016 
+ Attn: Richard M. Morris, Esq. 
+ Email: rmorris@herrick.com 
+ Fax: 212-545-3371 
+ 
+   
+(ii) If such notice is to a Purchaser, then to the address of the Purchaser set forth on the signature page of such Purchaser to this Agreement. 
+   
+ (b)  Change of Address. Any Purchaser may change the address that notices should be delivered to it by delivering a notice with the corrected information to the Company. The Company may change the address that notices should be delivered to it by delivering a notice with the corrected information to each Purchaser then a party to this Agreement. In each case, such corrected infor mation to be effective only upon delivery of such notice. 
+   
+ 
+ 
+   11   
+ 
+ 
+       
+ 
+ 
+   
+ (c)  Deemed Delivery. Except as otherwise expressly provided in this Agreement, each such notice shall be effective on the date three days after the date of mailing or, if delivered by hand or professional courier, or transmitted via email or facsimile with delivery receipt (or acknowledgement or confirmation which may be by electronic means), on the date of delivery, provided,  however, that notices to the Company will be effective upon receipt. 
+   
+ 5.4  Amendments; Waivers. No provision of this Agreement may be waived, modified, supplemented or amended except by means of a written agreement signed, in the case of an amendment, by the Company and each of the Purchasers subject to such waiver, modification, supplement or amendment. No waiver of any default with respect to any provision, condition or requirement of this Agreement shall be deemed to be a continuing waiver in the future or a waiver of any subsequent default or a waiver of any other provision, condition or requirement hereof, nor shall any delay or omission of any party to exercise any right hereunder in any manner impair the exercise of any such right. 
+   
+ 5.5  Headings. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed to limit or affect any of the provisions hereof. 
+   
+ 5.6  Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties and their successors and permitted assigns. The Company may not assign this Agreement or any rights or obligations hereunder without the prior written consent of each Purchaser (other than by merger); except that all rights and obligations of the Company under this Agreement shall be assigned to, and assumed by, the Company effective on Closing Date, provided that no such assignment shall relieve the Company of any of its obligations hereunder. Any Purchaser may assign any or all of its rights under this Agreement to any Person; provided that such assignment is approved by the Company, which approval shall not be unreasonably withheld, delayed or conditioned and such transferee agrees in writing to be bound by the provisions of the Transaction Documents that apply to the "Purchasers" and such transferee is abl e and makes the representations and warranties to the Company provided under Section 3.2. 
+   
+ 5.7  Third-Party Beneficiaries. This Agreement is intended for the benefit of the parties hereto and their respective successors and permitted assigns and is not for the benefit of, nor may any provision hereof  be enforced by, any other Person. 
+   
+ 5.8  Governing Law; Exclusive Jurisdiction . 
+   
+(a) All questions concerning the construction, validity, enforcement and interpretation of the Transaction Documents shall be governed by and construed and enforced in accordance with the internal laws of the State of New York, without regard to the principles of conflicts of law thereof. 
+   
+(b) Each party agrees that all legal proceedings concerning the interpretations, enforcement and defense of the transactions contemplated by this Agreement and any other Transaction Documents (whether brought against a party hereto or its respective affiliates, directors, officers, shareholders, partners, members, employees or agents) shall be commenced excl usively in the state and federal courts sitting in the City of New York, Borough of Manhattan. 
+   
+ 
+ 
+   12   
+ 
+ 
+       
+ 
+ 
+   
+(c) Each party hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts sitting in the City of New York, Borough of Manhattan for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein (including with respect to the enforcement of any of the Transaction Documents), and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding is improper or is an inconvenient venue for such proceeding. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of delivery) to such party at the address in effect for notices to it under this Agreement and agrees that such service shall constitute good and sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any other manner permitted by law. 
+   
+ 5.9  Attorney Fees. If one or more parties shall commence an action, suit or proceeding to enforce any provision of the Transaction Documents, then the prevailing party or parties in such action, suit or proceeding shall be reimbursed by the other party or parties to such action, suit or proceeding for the reasonable attorneys' fees and other costs and expenses incurred by the prevailing party or parties with the investigation, preparation and prosecution of such action, suit or proceeding. 
+   
+ 5.10  Survival. The representations and warranties contained herein shall survive the Closing and the delivery of the Units for the applicable statute of limitations. 
+   
+ 5.11  Counterparts and Execution. This Agreement may be executed in two or more counterparts, all of which when taken together shall be considered one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to each other party, it being understood that the parties need not sign the same counterpart. In the event that any signature is delivered by facsimile transmission or by email delivery of a ".pdf" format data file, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile or ".pdf" signature page was an original thereof. 
+   
+ 5.12  Severability. If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions set forth herein shall remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their commercially reasonable efforts to find and employ an alternative means to achieve the same or substantially the same result as that contemplated by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared invalid, illegal, void or unenforceable. 
+   
+ 
+ 
+   13   
+ 
+ 
+       
+ 
+ 
+   
+ 5.13  Independent Nature of Purchasers' Obligations and Rights. The obligations of each Purchaser under any Transaction Document are several and not joint with the obligations of any other Purchaser, and no Purchaser shall be responsible in any way for the performance or non-performance of the obligations of any other Purchaser under any Transaction Document. Nothing contained herein or in any other Transaction Document, and no action taken by any Purchaser pursuant hereof or thereto, shall be deemed to constitute the Purchasers as a partnership, an association, a joint venture or any other kind of entity, or create a presumption that the Purchasers are in any way acting in concert or as a group with respect to such obligations or the transactions contemplated by the Transaction Documents. Each Purchaser shall be entitled to independently protect and enforce its rights, including, without limitation, the rights arising out of this Agreement or out of the other Transaction Documents, and it shall not be necessary for any other Purchaser to be joined as an additional party in any proceeding for such purpose. Each Purchaser has been represented, or has had the opportunity to be represented, by its own separate legal counsel in its review and negotiation of the Transaction Documents. 
+   
+ 5.14  Saturdays, Sundays, Holidays, etc. If the last or appointed day for the taking of any action or the expiration of any right required or granted herein shall not be a Business Day, then such action may be taken or  such right may be exercised on the next succeeding Business Day. 
+   
+ 5.15  Construction. The parties agree that each of them and/or their respective counsel have reviewed and had an opportunity to revise the Transaction Documents and, therefore, the normal rule of construction to the effect that any ambiguities are to be resolved against the drafting party shall not be employed in the interpretation of the Transaction Documents or any amendmen ts thereto. 
+   
+ 5.16  WAIVER OF JURY TRIAL . 
+   
+EACH PARTY TO THIS AGREEMENT HEREBY AGREES NOT TO ELECT A TRIAL BY JURY OF ANY ISSUE TRIABLE OF RIGHT BY JURY, AND WAIVE ANY RIGHT TO TRIAL BY JURY FULLY TO THE EXTENT THAT ANY SUCH RIGHT SHALL NOW OR HEREAFTER EXIST WITH REGARD TO THIS AGREEMENT, OR ANY CLAIM, COUNTERCLAIM OR OTHER ACTION ARISING IN CONNECTION THEREWITH. THIS WAIVER OF RIGHT TO TRIAL BY JURY IS GIVEN KNOWINGLY AND VOLUNTARILY BY EACH PARTY TO THIS AGREEMENT AND IS INTENDED TO ENCOMPASS INDIVIDUALLY EACH INSTANCE AND EACH ISSUE AS TO WHICH THE RIGHT TO A TRIAL BY JURY WOULD OTHERWISE ACCRUE. EITHER PARTY TO THIS AGREEMENT IS HEREBY AUTHORIZED TO FILE A COPY OF THIS PARAGRAPH IN ANY PROCEEDING AS CONCLUSIVE EVIDENCE OF THIS WAIVER BY THE OTHER. 
+   
+ [REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK. SIGNATURE PAGE FOLLOWS.] 
+   
+ 
+ 
+   14   
+ 
+ 
+       
+ 
+ 
+   
+IN WITNESS WHEREOF, the undersigned have caused this Subscription Agreement to be duly executed by their respective authorized signatories as of the date first indicated above. 
+   
+ Cardax, inc.         By:     Name: David G. Watumull   Title: President and CEO   
+   
+ [REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK. SIGNATURE PAGE FOLLOWS.] 
+   
+ 
+ 
+   15   
+ 
+ 
+       
+ 
+ 
+   
+ PURCHASER SIGNATURE PAGE TO SUBSCRIPTION AGREEMENT 
+   
+IN WITNESS WHEREOF, the undersigned have caused this Subscription Agreement to be duly executed by their respective authorized signatories as of the date first indicated above. 
+   
+ Name of Purchaser: _________________________________________________________ 
+   
+ Signature of Authorized Signatory of Purchaser : __________________________________ 
+   
+ Name of Authorized Signatory: ________________________________________________ 
+   
+ Title of Authorized Signatory: _________________________________________________ 
+   
+ Email Address of Authorized Signatory: _________________________________________ 
+   
+ Facsimile Number of Authorized Signatory: ______________________________________ 
+   
+ Address for Notice to Purchaser: ______________________________________ _______ 
+   
+ _________________________________________________________________________________________   
+   
+ _________________________________________________________________________________________   
+   
+ Address for Delivery of Units to Purchaser (if not same as address for notice): 
+   
+ Subscription Amount: $_________________(U.S.) 
+   
+ Number of Units: _________________ 
+   
+ Social Security or EIN Number: _______________________ 
+   
+ Bank or Brokerage Account Information: 
+   
+[Each Purchaser shall also deliver the applicable tax forms such as the Form W-9 and a certificate that they are an accredited investor, unless waived by the Company] 
+   
+ Accepted by the Company for ___________ Units: 
+   
+ CARDAX, INC.   Date:             By:         Name: David G. Watumull       Title: President and CEO       
+   
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+   
+ SCHEDULE A 
+   
+ Check and Wire Transfer Instructions 
+   
+ Checks shall be made payable to the order of 
+   
+ Cardax Pharma, Inc. 
+   
+ Wire Transfers shall be made in accordance with the following: 
+   
+   â—� Bank Name: Bank of Hawaii   â—� SWIFT Code: BOHIUS77   â—� Routing #: 121301028   â—� Account #: **********   â—� Account Name: Cardax Pharma, Inc. 
+   
+ In addition, the name of each Purchaser shall be provided with each payment. 
+   
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+   
+ SCHEDULE B 
+   
+ Certain Additional Risk Factors 
+   
+In addition to the risk factors that are summarized in the Company's SEC Filings, you should consider the following: 
+   
+An investment in our Common Stock, and Warrants involves a high degree of risk. You should carefully consider the risks summarized in the Company's SEC Filings, together with all of the other information provided to you in this Offering, before making an investment decision. If any of the following risks actually occur, our business, financial condition or results of operations could suffer. In that case, the trading price of our shares of Common Stock could decline, and you may lose all or part of your investment. You should read the section entitled "Forward-Looking Statements" included in our SEC Filings for a discussion of what types of statements are forward-looking statements, as well as the significance  of such statements. 
+   
+The terms of the Offering, the price for the shares of Common Stock and Warrants, including the exercise price, were not independently valued and may not be indicative of the futur e price of our Common Stock. 
+   
+Our board of directors determined the terms and conditions of the Offering, including the price per share for each Unit of Common Stock and the Warrant. The price per Unit and the exercise price were not necessarily determined to be equal to the market price of the Company's Common Stock on the OTCQB or the fair value of the Company. If you purchase Units in the Offering, you may not be able to sell any of the securities at or above the subscription price. The trading price of the Company's Common Stock will be determined by the marketplace, and will be influenced by many factors outside of the Company's control, including consumer acceptance of the Company's astaxanthin consumer health products, prevailing interest rates, investor perceptions, securities analyst research reports and general industry, geopolitical and economic conditions. Publicly traded stocks, including stocks of pharmaceutical and nutraceutical companies, often experience substantial market price volatility. These market fluctuations might not be related to the operating performance of particular companies whose shares are traded. Accordingly, we cannot assure you that if you purchase Units in the Offering you will later be able to sell those Units at or above the subscr iption price. 
+   
+The Securities are "Restricted Securities" under the Securities Act and there is no assurance that they will be registered. 
+   
+The Units sold in this Offering and the Common Stock issuable upon exercise of the Warrants will be restricted securities under United States federal and applicable state securities laws. The Common Stock will be restricted securities unless and until the shares of Common Stock are registered. Restricted securities may not be transferred, sold or otherwise disposed of in the United States, except as permitted under United States federal and state securities laws, pursuant to registration or an exemption therefrom. You should be prepared to hold the Securities sold and the Common Stock issuable upon the exercise of the Warrants for an indefinite period. 
+   
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+   
+None of the Shares of Common Stock issued in the Offering or upon the exercise of the Warrants may be sold unless, at the time of such intended sale, there is a current registration statement covering the resale of the securities or there exists an exemption from registration under the Securities Act, and such securities have been registered, qualified, or deemed to be exempt under applicable securities or "blue sky" laws in the state of residence of the seller or in the state where sales are being affected. 
+   
+If there is not an effective registration statement covering the resale of the Shares, Purchasers will be precluded from disposing of such Shares unless such Shares may become eligible to be disposed of under the exemptions provided by Rule 144 under the Securities Act without restriction. If the Shares are not registered for resale under the Securities Act, or exempt therefrom, and registered or qualified under applicable securities or "blue sky" laws, or deemed exempt therefrom, the value of the Securities will be greatly reduced. 
+   
+Purchasers will be relying on management's judgment regarding the use of proceeds from this Offering and we may apply the proceeds to uses that may not increase the value of your i nvestment or improve our operating results. 
+   
+We expect to use the proceeds of this Offering to further develop our technology or utilize other technology, begin focused and targeted marketing efforts, and for general working capital purposes. Our management will have broad discretion with respect to the use of the net proceeds from this Offering and Purchasers will be relying on the judgment of our management regarding the application of these proceeds. We cannot assure you that the net proceeds will be used for purposes that ultimately increase our results of operations, busine ss prospects or the value of your investment. 
+   
+An investment in the Company is speculative and there can be no assurance of any return on any such investment. 
+   
+An investment in the company is speculative and there is no assurance that Purchasers will obtain any return on their investment. Purchasers will be subject to substantial risks in volved in an investment in the Company, including the risk of losing their entire investment. 
+   
+ Insufficient Capital 
+   
+There can be no assurance or guarantee that the Company will raise sufficient capital, through this Offering, to meet the Company's business objectives. The audited financial statements include a going concern qualification and the Company has significant liquidity issues. There can be no assurance that other obligations that are necessary for the Company wi ll not be incurred or that the budgeted expenditures will not be subject to any material increase. 
+   
+ ***** 
+   
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+   
+ EXHIBIT I 
+   
+ Form of Warrant 
+   
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+ 
+   
+ WARRANT NUMBER 
+ G _______________ 
+   
+ CARDAX, INC. 
+   
+ WARRANT TO PURCHASE SHARES OF COMMON STOCK 
+   
+NEITHER THIS WARRANT NOR THE SHARES OF COMMON STOCK ISSUABLE UPON ITS EXERCISE HAVE BEEN REGISTERED UNDER EITHER THE SECURITIES ACT OF 1933, AS AMENDED (THE " SECURITIES ACT") OR THE SECURITIES LAWS OF ANY STATE AND MAY NOT BE SOLD, OFFERED FOR SALE, TRANSFERRED, ASSIGNED, PLEDGED OR HYPOTHECATED IN THE ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT WITH RESPECT TO SUCH SECURITIES UNDER THE SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LAWS OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT R EQUIRED. 
+   
+THIS CERTIFIES THAT, for value received, ________________________________ (together with its successors and assigns, the " Holder "), commencing _____________ (the " Date of Issue") is entitled to purchase, subject to the conditions set forth below, at any time and from time to time, in whole or in part, during the Exercise Period (as defined in  Section 1.3 ), that number of fully paid and non-assessable shares (the " Shares ") of common stock, par value $0.001 per share (" Common Stock "), of Cardax, Inc., a Delaware corporation (the " Company "), that is not more than the Warrant Share Number (as defined in  Section 1.1), subject to the further provisions of this warrant to purchase newly issued shares of Common Stock (the " Warrant "), at the Warrant Exercise Price (as defined in  Section 1.2 ), subject to the further provisions of this Warrant. 
+   
+ 1. EXERCISE OF WARRANT 
+   
+The terms and conditions upon which this Warrant may be exercised, and the shares of Common Stock covered hereby which may be purchased hereunder, are as follows: 
+   
+ 1.1. Warrant. 
+   
+ (a) The Company hereby issues to the Holder this Warrant. 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+(b) The number of Shares that the Holder is entitled to purchase under the terms and conditions of this Warrant (the " Warrant Share Number ") is equal to ___________ Shares. 
+   
+(c) For the purposes of this Agreement, the following terms shall have the respective meanings ascribed thereto in this  Section 1.1(c) : 
+   
+ (i) " Affiliate" shall have the meaning ascribed to such term under the Securities Act and the regulations promulgated thereunder. 
+   
+ (ii) " Business Day" shall mean any date that the banks and the securities markets are in New York, New York open for business for the conduct of business in the regular course on such date. 
+   
+ (iii) " Exchange Act " shall mean the Securities Exchange Act of 1934, as amended. 
+   
+ (iv) " Person " shall mean any individual, trust or entity or governmental authority or agency. 
+   
+ 1.2.  The Warrant Exercise Price.  The exercise price for the Warrant (the " Warrant Exercise Price ") shall be equal, per share, to $______, subject to adjustment as provided in  Section 4 : 
+   
+ 1.3.  Method of Exercise . 
+   
+(a) The Holder of this Warrant may exercise, in whole or in part, the purchase rights evidenced by this Warrant during the period commencing on the Date of Issue of this Warrant an d ending on _____________, unless extended by the Company in its sole discretion (the " Exercise Period "). Such exercise shall be effected by: 
+   
+(i) the surrender of the Warrant, together with a duly executed copy of the form of subscription attached hereto (a " Notice of Exercise "), to the Secretary of the Company at its principal offices; 
+   
+(ii) the payment to the Company, by certified check or bank draft payable to its order, of an amount equal to the aggregate Warrant Exercise Price for the number of Shares for whic h the purchase rights hereunder are being exercised; and 
+   
+(iii) the delivery to the Company, if necessary, to assure compliance with federal and state securities laws, of an instrument executed by the Holder certifying that the Shares are being acquired for the sole account of the Holder and not with a view to any resale or distribution. 
+   
+ 
+ 
+   2   
+ 
+ 
+       
+ 
+ 
+   
+ (b)  Conditions to Exercise of the Warrant . 
+   
+ (i) Notwithstanding the provisions of any provision of this Warrant, including  Section 1.3, the exercise of this Warrant is contingent upon the Company's satisfaction that the issuance of the Shares for which this Warrant is being exercised is exempt from the requirements of the Securities Act and all applicable state securities laws or the Shares are duly registered under the Securities Act. The Holder of this Warrant agrees to execute any and a ll documents deemed necessary by the Company to effect the exercise of this Warrant. 
+   
+(ii) Notwithstanding anything to the contrary contained herein, the number of Shares that may be acquired by the Holder upon any exercise of this Warrant (or otherwise in respect hereof) shall be limited to the extent necessary to insure that, following such exercise (or other issuance), the total number of shares of Common Stock then beneficially owned by such Holder and its Affiliates and any other Persons whose beneficial ownership of Common Stock would be aggregated with the Holder's for purposes of Section 13(d) of the Exchange A ct (the " Beneficial Ownership", does not exceed 4.99% of the total number of issued and outstanding shares of Common Stock (including for such purpose the shares of Common Stock issuable upon such exercise) (t he " Maximum Percentage"). For the avoidance of doubt, except as otherwise provided herein in connection with a transaction described in Section 4.3 (a " Fundamental Transaction"), this Warrant may not be exercised in whole or in part if the Holder's Beneficial Ownership (as calculated herein) exceeds the Maximum Percentage prior to such exercise. For suc h purposes, " Beneficial Ownership" shall be determined in accordance with Section 13(d) of the Exchange Act and the rules and regulations promulgated thereunder. This provision shall not restrict the number of shares of Common Stock which a Holder may receive or beneficially own in order to determine the amount of securities or other consideration that such Holder may receive in the event o f a Fundamental Transaction of this Warrant or under any other provision of  Section 4. This restriction may not be waived except by the Holder providing a notice to the Company as provided herein. For any reason at any time, upon the written or oral request of the Holder, the Company shall promptly confirm in writing (which may be by electronic mail) to the Holder the number of shares of Common Stock then outstanding. To the extent that the  limitation contained in this  Section 1.3(b)(ii) applies, the determination of whether this Warrant is exercisable (in relation to other securities owned by such Holder together with any Affiliates) and of which a portion of this Warrant is exercisable shall be in the sole discretion of a Holder, and the submission of a Notice of Exercise shall be deemed to be each Holder's determination of whether this Warrant is exercisable (in relation to other securities owned by such Holder together with any Affiliates) and of which portion of this Warrant is exercisable, in each case subject to such aggregate percentage limitation, and the Company shall have no obligation to verify or confirm the accuracy of such determination other than its obligation in this  Section 1.3(b)(ii) above to, upon the Holder's request, confirm in writing to the Holder the number of shares of Common Stock then outstanding. Notwithstanding any provision of this  Section 1.3(b)(ii)  to the contrary, the limitations on the exercise of this Warrant under this  Section 1.3(b)(ii) shall not be applicable from and after the date that is 61 days after the date that the Holder provides written notice to the Company that the Holder elects to have Beneficial Ownership of the Company's Common Stock in excess of the Maximum Percentage, in which case such Holder shall have the right to exercise this Warrant without the limitations of this  Section 1.3(b)(ii) ;  provided , that the limitations of this  Section 1.3(b)(ii) shall again be applicable to any assignee of this Warrant until 61 days after such assignee provides such notice to the Company. 
+   
+ 
+ 
+   3   
+ 
+ 
+       
+ 
+ 
+   
+ 1.4.  Issuance of Shares. In the event the purchase rights evidenced by this Warrant are exercised in whole or in part, one or more certificates for the purchased Shares shall be issued as soon as practic able thereafter to the Holder. 
+   
+ 1.5.  Partial Exercise. If this Warrant shall have been exercised only in part, then the Company shall, at the time of delivery of the certificate or certificates for the Shares purchased upon such exercise, also deliver to the Holder a new Warrant evidencing the remaining outstanding unexercised balance of Shares purchasable hereunder. 
+   
+ 1.6.  Cancellation. Notwithstanding anything in this Warrant to the contrary, this Warrant shall be cancelled, and shall not be exercisable, if it is not exercised before the expiration of the Exerc ise Period. 
+   
+ 2.   TRANSFER RESTRICTIONS 
+   
+ 2.1.  Transfer. This Warrant and the Shares issuable upon exercise hereof are "restricted securities" as such term is defined by the rules and regulations promulgated under the Securities Act. This Warrant and the Shares issuable upon exercise hereof may only be disposed of in compliance with state and federal securities laws. In connection with any transfer of this Warrant or the Shares issuable upon exercise hereof, other than pursuant to an effective registration statement or Rule 144, to the Company or to an Affiliate of a Holder, the Company may require the transferor to provide to the Company an opinion of counsel selected by the transferor and reasonably acceptable to the Company, the form and substance of which opinion shall be reasonably satisfactory to the Company, to the effect that such transfer does not require registration of the transferred Warrant or Shares under the Securities Act. As a condition of transfer, any such transferee shall agree in writing to be bound by the terms of this Warrant and the Agreement and shall have the rights and obligations of a Holde r under this Warrant and the Agreement. 
+   
+ 2.2.  Legend . 
+   
+(a) The Holder agrees to the imprinting of a legend on any of the Shares issuable upon exercise hereof in the following form: 
+   
+THIS SECURITY HAS NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "SECURITIES ACT"), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS AS EVIDENCED BY A LEGAL OPINION OF COUNSEL TO THE TRANSFEROR TO SUCH EFFECT, THE SUBSTANCE OF WHICH SHALL BE REASONABLY ACCEPTABLE TO THE CORPORATION. THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT WITH A REGISTERED BROKER-DEALER OR OTHER LOAN WITH A FINANCIAL INSTITUTION THAT IS AN "ACCREDITED INVESTOR" AS DEFINED I N RULE 501(a) UNDER THE SECURITIES ACT OR OTHER LOAN SECURED BY SUCH SECURITIES. 
+   
+ 
+ 
+   4   
+ 
+ 
+       
+ 
+ 
+   
+(b) Notwithstanding the foregoing, certificates evidencing this Warrant or the Shares issuable upon exercise hereof shall not contain any legend (including the legend set forth above), (i) while a registration statement covering the resale of such security is effective under the Securities Act, (ii) following any sale of this Warrant or such Shares issuable upon exercise hereof pursuant to Rule 144, (iii) if this Warrant or such Shares issuable upon exercise hereof are eligible for sale under Rule 144, without the requirement for the Company to be in compliance with the current public information required under Rule 144 as to this Warrant or such Shares issuable upon exercise hereof and without volume or manner-of-sale restrictions, or (iv) if such legend is not required under applicable requirements of the Securities Act (including judicial interpretations and pronouncements issued by t he staff of the Commission). 
+   
+ 2.3.  Sale. The Holder agrees that the Holder will sell this Warrant or any Shares issuable upon exercise hereof only pursuant to either: (i) the registration requirements of the Securities Act, including any applicable prospectus delivery requirements; or (ii) an exemption therefrom, and that if this Warrant or any Shares issuable upon exercise hereof are sold pursuant to any such effective registration statement, they will be sold in compliance with the plan of distribution set forth therein, and acknowledges that the removal of the restrictive legend from certificates representing the Shares or this Warrant is predicated upon the Company's reliance upon this understanding. 
+   
+ 3.   Fractional Shares 
+   
+Notwithstanding that the number of Shares purchasable upon the exercise of this Warrant may have been adjusted pursuant to the terms hereof, the Company shall nonetheless not be required to issue fractions of Shares upon exercise of this Warrant or to distribute certificates that evidence fractional shares, provided that in lieu of any fraction shares, the Company shall make a cash payment to the Holder in an amount equal to the fair market value (as determined by the Board of Directors of the Company in its reasonable good faith) of  such fractional share. 
+   
+ 
+ 
+   5   
+ 
+ 
+       
+ 
+ 
+   
+ 4.   ANTIDILUTION PROVISIONS 
+   
+ 4.1.  Stock Splits and Combinations. If the Company shall at any time subdivide or combine its outstanding shares of Common Stock, this Warrant shall, after that subdivision or combination, evidence the right to purchase the number of shares of Common Stock that would have been issuable as a result of that change with respect to the shares of Common Stock which were purchasable under this Warrant immediately before that subdivision or combination. If the Company shall at any time subdivide the outstanding shares of Common Stock, the Warrant Exercise Price then in effect immediately before that subdivision shall be proportionately decreased, and, if the Company shall at any time combine the outstanding shares of Common Stock, the Warrant Exercise Price then in effect immediately before that combination shall be proportionately increased. Any adjustment under this section shall become effective at the close of business on t he date the subdivision or combination becomes effective. 
+   
+ 4.2.  Reclassification, Exchange and Substitution. If the Common Stock issuable upon exercise of this Warrant shall be changed into the same or a different number of shares of any other class or classes of stock, whether by capital reorganization, reclassification, or otherwise (other than a subdivision or combination of shares provided for above), the Holder of this Warrant shall, on its exercise, be entitled to purchase for the same aggregate consideration, in lieu of the Common Stock that the Holder would have been entitled to purchase but for such change, a number of shares of such other class or classes of stock equivalent to the number of shares of Common Stock that would have been subject to purchase by the Holder on exercise of this Warrant immediatel y before that change. 
+   
+ 4.3.  Reorganizations, Mergers, Consolidations or Sale of Assets. If at any time there shall be a capital reorganization of the Company's Common Stock (other than a combination, reclassification, exchange, or subdivision of shares provided for elsewhere above) or merger or consolidation of the Company with or into another entity, or the sale of the Company's properties and assets as, or substantially as, an entirety to any other person or entity, then, as a part of such reorganization, merger, consolidation or sale, lawful provision shall be made so that the Holder of this Warrant shall thereafter be entitled to receive upon exercise of this Warrant, during the period specified in this Warrant and upon payment of the Warrant Exercise Price then in effect, the number of shares of Common Stock or other securities or property of the Company, or of the successor entity resulting from such merger or consolidation, to which a holder of the Common Stock deliverable upon exercise of this Warrant would have been entitled in such capital reorganization, merger, or consolidation or sale if this Warrant had been exercised immediately before that capital reorganization, merger, consolidation, or sale. In any such case, appropriate adjustment (as determined in good faith by the Company's Board of Directors) shall be made in the application of the provisions of this Warrant with respect to the rights and interests of the Holder of this Warrant after the reorganization, merger, consolidation, or sale to the end that the provisions of this Warrant (including adjustment of the Warrant Exercise Price then in effect and number of Shares purchasable upon exercise of this Warrant) shall be applicable after that event, as near as reasonably may be, in relation to any shares or other property deliverable after that event upon exercise of this Warrant. The Company shall, within thirty (30) days after making such adjustment, give written notice (by first class mail, postage prepaid) to the Holder of this Warrant at the address of the Holder shown on the Company's books. That notice shall set forth, in reasonable detail, the event requiring the adjustment and the method by which the adjustment was calculated, and specify the Warrant Exercise Price then in effect after the adjustment and the increased or decreased number of Shares or the other shares or property purchasable upon exercise of this Warrant. When appropriate, that notice may be given in advance and include as part of the notice required under other provisions of this Warrant. 
+   
+ 
+ 
+   6   
+ 
+ 
+       
+ 
+ 
+   
+ 5.   Reservation of Stock Issuable Upon Exercise 
+   
+The Company shall at all times reserve and keep available out of its authorized but unissued shares of Common Stock solely for the purpose of effecting the exercise of this Warrant such number of its shares of Common Stock as shall from time to time be sufficient to effect the exercise of this Warrant and if at any time the number of authorized but unissued shares of Common Stock shall not be sufficient to effect the exercise of this Warrant, in addition to such other remedies as shall be available to the Holder of this Warrant, the Company will use its best efforts to take such corporate action as may, in the opinion of its counsel, be necessary to increase its authorized but un-issued shares of Common Stock t o such number of shares as shall be sufficient for such purposes. 
+   
+ 6.   RIGHTS PRIOR TO EXERCISE OF WARRANT 
+   
+6.1. This Warrant does not entitle the Holder to any of the rights of a stockholder of the Company, including without limitation, the right to receive dividends or other distributions, to exercise any preemptive rights, to vote, or to consent or to receive notice as a stockholder of the Company. If, however, at any time prior to the termination of this Warra nt and prior to its exercise, any of the following events shall occur: 
+   
+(a) the Company shall declare any dividend payable in any securities upon its shares of Common Stock or make any distribution (other than a regular cash dividend) to the Holders of  its shares of Common Stock; or 
+   
+(b) the Company shall offer to the holders of its shares of Common Stock any additional Warrant of Common Stock or securities convertible into or exchangeable for shares of Common  Stock or any right to subscribe for or purchase any thereof; or 
+   
+(c) a dissolution, liquidation or winding up of the Company (other than in connection with a consolidation, merger, sale, transfer or lease of all or substantially all of its property, assets and business as an entirety) shall be proposed and action by the Company with respect thereto has been approved by the Company's Board of Directors; 
+   
+then in any one or more of said events the Company shall give notice in writing of such event to the Holder at the last address of the Holder as it shall appear on the Company's records at least twenty (20) days prior to the date fixed as a record date or the date of closing the transfer books for the determination of the stockholders entitled to such dividends, distribution, or subscription rights, or for the determination of stockholders entitled to vote on such proposed dissolution, liquidation or winding up. Such notice shall specify such record date or the date of closing the transfer books, as the case may be. Failure to publish, mail or receive such notice or any defect therein or in the publication or mailing thereof shall not affect the validity of any action taken in connection with such dividend, distribution or subscription rights, or such proposed dissolution, liquidation or winding up. Each person in whose name any certificate for shares of Common Stock is to be issued shall for all purposes be deemed to have become the holder of record of such shares on the date on which this instrument was surrendered and payment of the Warrant Exercise Price was made, irrespective of the date of delivery of such stock certificate, except that, if the date of such surrender and payment is a date when the stock transfer books of the Company are closed, such person shall be deemed to have become the holder of such shares of Common Stock at the close of business on the next succeeding date on which the stock transfer books are open. 
+   
+ 
+ 
+   7   
+ 
+ 
+       
+ 
+ 
+   
+ 7.   SUCCESSORS AND ASSIGNS 
+   
+The terms and provisions of this Warrant shall inure to the benefit of, and be binding upon, the Company and the Holder hereof and their respective successors and permitted assigns . 
+   
+ 8.   LOSS OR MUTILATION 
+   
+8.1. Upon receipt by the Company of satisfactory evidence of the ownership of and the loss, theft, destruction, or mutilation of any Warrant, and (i) in the case of loss, theft, or destruction, upon receipt by the Company of indemnity satisfactory to it, or (ii) in the case of mutilation, upon receipt of such Warrant and upon surrender and cancellation of such Warrant, the Company shall execute and deliver in lieu thereof a new Warrant representing the right to purchase an equal number of shares of Common Stock. 
+   
+8.2. The Holder also acknowledges that each of the Shares issuable upon the due exercise hereof will be subject to any transfer restrictions in the Company's Articles of Incorporation, including a right of first refusal to the Company, and the certificate or certificates evidencing the Shares will bear a legend to this effect. 
+   
+ 9.   TERMINATION DATE 
+   
+This Warrant shall terminate upon the sooner of (a) the expiration of the Exercise Period; or (b) the exercise of all or any portion of this Warrant pursuant to the terms of  Section 1  hereof. 
+   
+ 10.   GOVERNING LAW 
+   
+This Warrant and any dispute, disagreement or issue of construction or interpretation arising hereunder whether relating to its execution, its validity, the obligations provided herein or performance shall be governed or interpreted according to the internal laws of the State of New York without regard to conflicts of law. 
+   
+ 11.   HEADINGS 
+   
+The headings and captions used in this Warrant are used only for convenience and are not to be considered in construing or interpreting this Warrant. All references in this Warrant to sections and exhibits shall, unless otherwise provided, refer to sections hereof and exhibits attached hereto, all of which exhibits are incorporated herein by this reference. 
+   
+ 
+ 
+   8   
+ 
+ 
+       
+ 
+ 
+   
+ 12.   AMENDMENTS 
+   
+The terms and conditions of this Warrant shall not be amended, modified or supplemented other than in accordance with a written amendment signed by the Holder and the Company that  specifically provides for such amendment, modification or supplement. 
+   
+ 13.   NOTICES 
+   
+All notices or other communications given or made hereunder shall be in writing and shall be mailed by certified mail, delivered by professional courier or hand, or transmitted via email or facsimile, to such party's address as set forth in the Warrant Register, or such other address as the Holder or the Company shall notify the other in writing as above provided. Any notice sent in accordance with this section shall be effective on the date three days after the date of mailing or, if delivered by hand or professional courier, or transmitted via email or facsimile with delivery receipt (or acknowledgement or confirmation which may be by electronic means), on the date of delivery, provided, however, that notices  to the Company will be effective upon receipt. 
+   
+ 14.   SEVERABILITY 
+   
+If one or more provisions of this Warrant are held to be unenforceable under applicable law, such provision(s) shall be excluded from this Warrant and the balance of this Warrant shall be interpreted as if such provision(s) were so excluded and shall be enforceable in accordance with its terms. 
+   
+ 15.   WARRANT REGISTER and OWNERSHIP 
+   
+Each Warrant issued by the Company shall be numbered and shall be registered in a warrant register (the " Warrant Register") as it is issued and transferred, which Warrant Register shall be maintained by the Company at its principal office or, at the Company's election and expense, by a Warrant Agent or the Company's transfer agent. The Company shall be entitled to treat the registered Holder of any Warrant on the Warrant Register as the owner in fact thereof and the Holder for all purposes and shall not be bound to recognize any equitable or other claim to or interest in such Warrant on the part of any other Person, and shall not be affected by any notice to the contrary, except that, if and when any Warrant is properly assigned in blank, the Company may (but shall not be obligated to) treat the bearer thereof as the owner of such Warrant for all purposes. Subject to Section 10, a Warrant, if properly assigned, may be exercised by a new holder without a new Warrant first having been issued. 
+   
+ 16.   certain other provisions 
+   
+16.1. Any reference to an action or event to occur on a specified date that is not a Business Day shall be a reference to the immediately following Business Day. 
+   
+16.2. Any calculations of the number of Shares to be issued upon the exercise of this Warrant, in whole or in part, shall be made by the Company and, absent manifest error, such ca lculation shall be conclusive and binding. 
+   
+ [REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK. SIGNATURE PAGE FOLLOWS.] 
+   
+ 
+ 
+   9   
+ 
+ 
+       
+ 
+ 
+   
+ In Witness Whereof,   the parties have executed this Warrant as of the date first written above. 
+   
+   COMPANY       CARDAX, INC.   By:     Name: David G. Watumull   Title: President and CEO 
+   
+ TRANSFER AGENT AND REGISTRAR 
+   
+ VSTOCK TRANSFER, LLC 
+   
+ By:       Authorized Signature   
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ NOTICE OF WARRANT EXERCISE 
+   
+ To: Cardax, Inc. 
+ 2800 Woodlawn Drive, Suite 129 
+ Honolulu, HI 96822 
+   
+ Gentlemen: 
+   
+The undersigned, __________ , hereby elects to purchase, pursuant to the provisions of the foregoing Warrant held by the undersigned, __________shares of the common stock (" Common Stock") of Cardax, Inc. Payment of the purchase price of __________ per Share required under such Warrant accompanies this notice. 
+   
+The undersigned hereby represents and warrants that the undersigned is acquiring such Common Stock for the account of the undersigned and not for resale or with a view to distribution of such Common Stock or any part hereof; that the undersigned is fully aware of the transfer restrictions affecting restricted securities under the pertinent securities laws and the undersigned understands that the shares purchased hereby are restricted securities and that the certificate or certificates evidencing the same will bear a legend to that eff ect. 
+   
+By its delivery of this Notice of Warrant Exercise, the undersigned represents and warrants to the Company that (unless indicated below) in giving effect to the exercise evidenced hereby the Holder will not beneficially own in excess of the number of shares of Common Stock (determined in accordance with Section 13(d) of the Securities Exchange Act of 1934) p ermitted to be owned under Section 1.3(b)(ii) of this Warrant to which this notice relates. 
+   
+If the number of shares of Common Stock purchased (and/or canceled) hereby is less than the number of shares of Common Stock covered by the Warrant, the undersigned requests that a new Warrant representing the number of shares of Common Stock not so purchased (or canceled) be issued and delivered as follows: 
+   
+ ISSUE TO:           (NAME OF HOLDER)                       (ADDRESS, INCLUDING ZIP CODE)                       (SOCIAL SECURITY OR OTHER IDENTIFYING NUMBER)           DELIVER TO:                           (NAME)                       (ADDRESS, INCLUDING ZIP CODE)   
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ NOTICE OF WARRANT EXERCISE 
+ Page 2 
+   
+ DATED:_______ , ____. 
+   
+ Signature:               Name:               Title:               Address:                       
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ ASSIGNMENT FORM 
+   
+ (To assign the foregoing warrant, execute 
+ this form and supply required information. 
+ Do not use this form to exercise the warrant.) 
+   
+FOR VALUE RECEIVED, [______] all of or [__________] shares of the foregoing Warrant and all rights evidenced thereby are hereby assigned to 
+ _______________________________________________ whose address is 
+ _______________________________________________________________ 
+ _______________________________________________________________ 
+   
+                                                  Dated: ______________, _______ 
+   
+   Holder 's Signature: 
+ 
+             Holder 's Address:   
+   
+ Signature Guaranteed: ___________________________________________ 
+   
+NOTE: The signature to this Assignment Form must correspond with the name as it appears on the face of the Warrant, without alteration or enlargement or any change whatsoever, and must be guaranteed by a bank or trust company. Officers of corporations and those acting in a fiduciary or other representative capacity should file proper evidence of authority to  assign the foregoing Warrant. 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+ 

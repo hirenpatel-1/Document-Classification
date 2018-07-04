@@ -1,0 +1,169 @@
+ htm 42270 Material contracts 10 2017-03-31T15:34:11.441465-05:00 Filing 0001376474-17-000071 2017-03-31 10-K Annual  & Quarterly Reports 0000038723 1st FRANKLIN FINANCIAL CORP 6141 Personal Credit Institutions Yes GEORGIA GEORGIA Non-US FIRST FRANKLIN FINANCIAL CORP;FRANKLIN DISCOUNT CO false Small Reporting Company 002-27985 SEVENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT Exhibit Exhibit 2 ff_ex10zh.htm EX-10.H 2 ff_ex10zh.htm SEVENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT 
+ 
+ Exhibit 10(h) 
+   
+ SEVENTH AMENDMENT TO 
+ LOAN AND SECURITY AGREEMENT 
+   
+ This Seventh Amendment to Loan and Security Agreement (" Amendment ") is dated as of March 29, 2017 by and among 1 ST  FRANKLIN FINANCIAL CORPORATION (" Borrower"), WELLS FARGO BANK, N.A., successor by merger to Wells Fargo Preferred Capital, Inc., as agent for Lenders (in such capacity, " Agent ") and the financial institutions a party hereto as lenders (collectively, the " Lenders " and each is a " Lender "). 
+ BACKGROUND 
+   
+ A. Borrower, Lenders, and Agent are parties to a certain Loan and Security Agreement dated as of September 11, 2009 (as amended or modified from time to time, the " Loan Agreement ") and related agreements, instruments and documents (collectively with the Loan Agreement, the " Existing Loan Documents").  Capitalized terms used but not otherwise defined in this Amendment shall have the meanings respectively ascribed to them in the Loan Agreement. 
+ B. Borrower has requested and Agent and Lenders have agreed to amend the Loan Agreement in certain respects, all on the terms and conditions set forth herein. 
+NOW, THEREFORE, the parties hereto, intending to be legally bound, hereby promise and agree as follows: 
+ 1.  Amendments . 
+   
+ (a)  Definitions. The following definitions contained in Section 1.1 of the Loan Agreement are hereby amended and restated as follows: 
+   
+ " Eligible Receivables" means, as of the date of determination, Receivables (net of unearned interest, fees, dealer reserves, holdbacks, discounts, insurance premiums and commissions thereon), which conform to the warranties set forth in Section 4.1 hereof, in which Agent has a validly perfected first priority Lien, and which are not any of the following: (i) Receivables for which a payment is more than 60 days past due on a contractual basis; (ii) Receivables subject to a bankruptcy proceeding, litigation, foreclosure, repossession or other legal proceeding; (iii) Receivables from employees (unless payments with respect thereto are automatically deducted from such employee's paycheck) or shareholders of any Borrower or any Affiliate; (iv) Receivables which have been deferred, restructured, extended, renewed, modified or altered not in compliance with Borrowers' Modification Policy; (vi) Receivables not in compliance with Borrowers' Underwriting Policy; (vii) if Borrowers have elected to note their first priority Lien on the applicable certificate of title, Receivables for which Agent or Borrowers have not received a valid certificate of title or notification of a valid certificate of title with the Lien of a 
+   
+ 116549.01097/104168814v.3 
+ 
+   
+Borrower noted thereon, if applicable, within 120 days after the origination of the Receivable; (viii) Receivables arising from balloon payment accounts, non-amortizing accounts or Interest-Only Accounts; (ix) Receivables arising from assignments for repossession; (x) Real Estate Related Accounts for which the original term exceeds 120 months; (xi) Receivables which were originated to support the acquisition of commercial vehicles; (xii) Payday Loans; (xiii) Receivables constituting deficiency balance accounts; (xiv) Receivables serviced, collected or enforced by a Person other than a Borrower without prior written consent of Agent; and (xv) Receivables which, in Agent's commercially reasonable discretion, do n ot constitute acceptable collateral following 10 days' notice from Agent to Borrowers. 
+   
+ " Maturity Date" means September 11, 2019, as such date may be extended from time to time in accordance with the provisions of Section 2.4 of this Agreement. 
+   
+ (b)  New Definitions .  The following new definitions are added to Section 1.1 of the Loan Agreement 
+   
+ " Governmental Authority" means any federal, state, local, or other governmental or administrative body, instrumentality, board, department, or agency or any court, tribunal, administrative hearing body, arbitration panel, commission, or other similar dispute-resolving panel or body (including, without limitation, Local Authorities). 
+   
+ " Level One Regulatory Event" means the formal commencement by written notice by any federal or state Governmental Authority of any inquiry, investigation, legal action or similar proceeding against any Borrower or any of their Subsidiaries challenging its authority to originate, hold, own, service, collect or enforce Receivables generally or any category or group of Receivables that is material to the business of such Borrower or such Subsidiary, or otherwise alleging any material non-compliance by any Borrower or any of their Subsidiaries with any applicable laws related to originating, holding, collecting, servicing or enforcing Receivables generally or any category or group of Receivables that is material to the business of such Borrower or such Subsidiary (which shall include, without limitation, the issuance of a civil investigative demand by the Consumer Financial Protection Bureau that meets the criteria set forth above), which inquiry, investigation, legal action or proceeding is not released or terminated in a manner reasonably acceptable to Agent within thirty (30) calendar days o f commencement thereof. 
+   
+ " Level Two Regulatory Event" means the issuance or entering of any stay, order, judgment, cease and desist order, injunction, temporary restraining order, or other judicial or non-judicial sanction, order or 
+ 2 
+ 116549.01097/104168814v.3 
+ 
+   
+ruling against any Borrower or any of their Subsidiaries related in any way to the originating, holding, pledging, collecting, servicing or enforcing of Receivables generally or any category or group of Receivables that is material to the business of such Borrower or such Subsidiary. 
+   
+ (c)  Reserves .  Section 2.1(d) the Loan Agreement is hereby amended and restated as follows: 
+   
+Agent has the right upon 10 days prior notice to Borrowers at any time, and from time to time, in its commercially reasonable discretion exercised in good faith (but without any obligation), to set aside reasonable reserves against the Borrowing Base in such amounts as it may deem commercially reasonable, including, without limitation, a reserve equal to the amount of outstanding indebtedness in connection with Bank Products and with respect to Regulatory Events. 
+   
+ (d)  EBITDA Ratio .  Section 6.4(a) the Loan Agreement is hereby amended and restated as follows: 
+   
+ EBITDA Ratio.  As of the end of each calendar month, an EBITDA Ratio of not less than (i) 1.00 to 1.00 commencing with the calendar month ending December 31, 2016 through and including September 30, 2017, (ii) 1.25 to 1.00 commencing with the calendar month ending October 31, 2017 through and including November 30, 2017, (iii) 1.50 to 1.00 commencing with the calendar month ending December 31, 2017 through and including November 30, 2018 and (iv) 1.75 to 1.00 commencing with the calendar month ending December 31, 2018 and thereafter. 
+   
+ (e)  Charge-off Policy .  Section 6.4(e) the Loan Agreement is hereby amended and restated as follows: 
+   
+ Charge-off Policy.  Receivables must be charged off (on a monthly basis) with respect to which no payment due and owing thereunder has been made for a period that is equal to or greater than 180 da ys, as determined on a contractual basis. 
+   
+ (f)  Financial Covenant Exceptions.  The final paragraph of Section 6.4 of the Loan Agreement is hereby amended and restated as follows: 
+   
+Notwithstanding the foregoing, (x) Borrowers' failure to comply with Section 6.4(c) or Section 6.4(e) shall not, in itself, constitute an Event of Default so long as such shortfalls or losses are deducted, as contemplated by the terms of this Agreement, in the determination of the other financial covenants contained herein, (y) the determination 
+ 3 
+ 116549.01097/104168814v.3 
+ 
+   
+of the covenants contained in this Section 6.4 shall exclude any asset or liability associated with Statement of Financial Accounting Standard No. 133 and (z) Borrowers' failure to comply with (i) Section 6.4(a) as a result of maintaining an EBITDA Ratio of no more than 25 basis points less than the required EBITDA Ratio, (ii) Section 6.4(d) as a result of maintaining Senior Debt to Capital Base Ratio of greater than 2.0 to 1.00 but not more than 2.25 to 1.00, (iii) Section 6.4(f) as a result of maintaining a Tangible Net Worth of not less than 99% of the required Tangible Net Worth or (iv) Section 6.4(g) as a result of maintaining a Total Liabilities to Tangible Net Worth Ratio greater than 3.50 to 1.00 but not more than 3.75 to 1.00, shall not constitute an Event of Default under Section 8.3(b) unless such failure continues for more than 1 consecutive calendar month; provided, however, clause (z) shall not in any event be effective as an exception to the Event of Default described in Section 8.3(b) more than 2 times per calendar year. 
+   
+ (g)  Litigation, Enforcement Actions and Requests for Information . Section 6.11 the Loan Agreement is hereby amended and restated as follows: 
+   
+ 6.11   Litigation, Enforcement Actions and Requests for Information.  Borrowers will promptly notify Agent (a) of any litigation or action instituted or, to Borrowers' knowledge, threatened in writing against any Borrower or any of their Subsidiaries or Guarantors where the amount in controversy, in Borrowers' reasonable judgment, will or may exceed $100,000; (b) of the entry of any judgment or lien against any property of Borrower, in an amount of $100,000 or more as to any separate action, litigation, judgment or lien instituted, threatened or entered or in an aggregate amount of $300,000 or more as to all actions, litigation, judgments, or liens instituted, threatened or entered; (c) any enforcement action or investigation instituted or, to Borrowers' knowledge, threatened, in writing, against any Borrower or any of their Subsidiaries by any Governmental Authority, including without limitation any proceeding or action to be commenced by the filing of a stipulation and consent; (d) receipt by any Borrower or any of their Subsidiaries of an "Early Warning Notice," "Notice and Opportunity to Respond and Advise" or "Civil Investigative Demand" from the Consumer Financial Protection Bureau or similar notice or request from any other Governmental Authority; or (e) the occurrence of a Regulatory Event.   
+   
+ (h)  New Event of Default . The following new Section 8.12 is added to the Loan Agreement: 
+   
+ 4 
+ 116549.01097/104168814v.3 
+ 
+   
+ Section 8.12   Level Two Regulatory Event.  The occurrence of a Level Two Regulatory Event which remains unvacated, undischarged, unbonded or unstayed by appeal or otherwise for a period of thirty (30) days from the date of its entry which Agent or Required Lenders determine in good faith that a material adverse change in the business, operations, property (including the Collateral), prospects or f inancial condition of any Borrower or any Guarantor shall occur as a result thereof.   
+   
+ 2.  Effectiveness Conditions.  This Amendment shall be effective upon the completion of the following conditions precedent (all agreements, documents and instruments to be in form and substance satisfactory t o Agent and Agent's counsel): 
+   
+ (a)  Execution and delivery by Borrower, Guarantors and Lenders of this Amendment to Agent; 
+ (b) Payment by Borrower to Agent in immediately available funds of a fully earned and non-refundable amendment fee in the amount of $10,000; 
+ (c) Execution and/or delivery by the parties of all other agreements, instruments and documents requested by Agent to effectuate and implement the terms hereof and the Existing Loan Do cuments. 
+ 3.  Representations and Warranties .  Borrower represents and warrants to Agent and Lenders that: 
+   
+ (a) All warranties and representations made to Agent and Lenders under the Loan Agreement and the Existing Loan Documents are true and correct in all material respects. 
+ (b) The execution and delivery by Borrowers and Guarantors of this Amendment and the performance by each of them of the transactions herein and therein contemplated do not and will not violate any provisions of any law, rule, regulation, judgment, order, writ, decree, determination or award or breach any provisions of the charter, bylaws or other organizational documents of any Borrower or any Guarantor, or constitute a default or result in the creation or imposition of any security interest in, or lien or encumbrance upon, any assets of any Borrower or any Guarantor (immediately or with the passage of time or with the giving of notice and passage of time, or both) under any other contract, agreement, indenture or instrument to which a Borrower or a Guarantor is a party or by which a Borrower or a Guarantor or its property is bound with failure to comply resulting in a material adverse change in the business, operations, property (including the Collateral), prospects or financial condition of any Borrower or any Guarantor. 
+ (c) This Amendment and any assignment, instrument, document, or agreement executed and delivered in connection herewith will be valid, binding and enforceable in accordance with its re spective terms. 
+ (d)  No Event of Default or Default has occurred under the Loan Agreement. 
+ 4.  Representations and Release of Claims .  Except as otherwise specified herein, the 
+ 5 
+ 116549.01097/104168814v.3 
+ 
+   
+terms and provisions hereof shall in no manner impair, limit, restrict or otherwise affect the obligations of Borrower, any Guarantor or any third party to Agent and Lenders as evidenced by the Existing Loan Documents.  Borrower and each Guarantor hereby acknowledge, agree, and represent that (a) as of the date of this Amendment, there are no known claims or offsets against, or defenses or counterclaims to, the terms or provisions of the Existing Loan Documents or the other obligations created or evidenced by the Existing Loan Documents; (b) as of the date of this Amendment, neither Borrower nor any Guarantor has any known claims, offsets, defenses or counterclaims arising from any of Agent's acts or omissions with respect to the Existing Loan Documents or Agent's performance under the Existing Loan Documents; (c) as of the date of this Amendment, Borrower has reviewed and reconciled all Advances, calculations of interest due and principal owing, and agrees with and has no claims regarding any such matters and (d) Borrower promises to pay to the order of Agent and Lenders the indebtedness evidenced by the Note according to the terms thereof.  In consideration of the modification of certain provisions of the Existing Loan Documents, all as herein provided, and the other benefits received by Borrower hereunder, Borrower and each Guarantor hereby RELEASE, RELINQUISH and forever DISCHARGE Agent and Lenders, and their predecessors, successors, assigns, shareholders, principals, parents, subsidiaries, agents, officers, directors, employees, attorneys and representatives (collectively, the " Released Parties"), of and from any and all present known claims, demands, actions and causes of action of any and every kind or character, which Borrower or Guarantors, or any of them, has or may have against Released Parties arising out of or with respect to any and all transactions relating to the Loan Agreement, the Note, the Guaranties, and the other Existing Loan Documents occurring prior to the date hereof.  Further, Borrower and Guarantors warrant and represent that they are not now aware of any claims or potential claims against Agent or Len ders pursuant to the Loan Agreement. 
+   
+ 5.  Collateral.  As security for the payment of the Obligations to Agent and Lenders under the Loan Agreement and satisfaction by Borrower of all covenants and undertakings contained in the Loan Agreement and the Existing Loan Documents, Borrower reconfirms the prior security interest and lien on, upon and to, its Collateral, whether now owned or hereafter acquired, created or arising and wherever located.  Borrower hereby confirms and agrees that all security interests and Liens granted to Agent for the ratable benefit of Lenders continue in full force and effect and shall continue to secure the Obligations.  All Collateral remains free and clear of any Liens other than Permitted Liens.  Nothing herein contained is intended to in any manner impair or limit the validity, priority and extent of Agent's existing security interest in and Liens upon the Collateral. 
+   
+ 6.  Acknowledgment of Indebtedness and Obligations.  Borrower and Guarantors hereby acknowledge and confirm that as of the date hereof, Borrower is indebted to Agent and Lenders, without known defense, setoff or counterclaim, under the Loan Agreement (in addition to any other indebtedness or obligations owed by Borrowers to Wells Fargo Affiliates) in the aggregate principal amount of $0.00, plus continually accruing interest and all fees, costs, and expenses, including reasonable attorneys' fees, incurred through the date hereof. 
+   
+ 7.  Ratification of Existing Loan Documents.  This Amendment shall be incorporated into and deemed a part of the Loan Agreement.  Except as expressly set forth herein, all of the terms and conditions of the Loan Agreement and Existing Loan Documents are hereby ratified and confirmed and continue unchanged and in full force and effect.  All references to the Loan Agreement shall mean the Loan Agreemen t as modified by this Amendment. 
+   
+ 8.  Acknowledgment of Guarantors .  By execution of this Amendment, each Guarantor 
+ 6 
+ 116549.01097/104168814v.3 
+ 
+   
+hereby acknowledges the terms and conditions of this Amendment and confirms that such Guarantor guarantees, as surety, all of Borrower's Obligations to Agent and Lenders pursuant t o and subject to the terms, conditions and limitations contained in its respective Guaranty. 
+   
+ 9.  Governing Law .  THIS AMENDMENT, THE LOAN AGREEMENT AND THE EXISTING CREDIT DOCUMENTS SHALL BE DEEMED TO HAVE BEEN MADE AND TO BE PERFORMABLE IN THE STATE OF NEW YORK AND SHALL, TOGETHER WITH ALL MATTERS ARISING HEREUNDER OR RELATED HERETO, BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK . 
+   
+ 10.  Counterparts.  This Amendment may be executed in any number of counterparts, each of which when so executed shall be deemed to be an original, and such counterparts together shall constitute one and the same respective agreement.  Signature by facsimile or PDF shall also bind the parties hereto. 
+   
+ SIGNATURES ON FOLLOWING PAGE 
+   
+   
+ 7 
+ 116549.01097/104168814v.3 
+ 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by their respective duly authorized officers as of the date first above written. 
+ 
+ BORROWER: 
+ 
+ 1 ST  FRANKLIN FINANCIAL CORPORATION 
+   
+   
+ By:   /s/ A. Roger Guimond   
+ Name:   A. Roger Guimond   
+ Title:   Executive Vice President and CFO   
+   
+ 
+ GUARANTORS: 
+ 
+ FRANDISCO LIFE INSURANCE COMPANY 
+   
+   
+ By:   /s/ A. Roger Guimond   
+ Name:   A. Roger Guimond   
+ Title:   President   
+   
+ 
+   
+ 
+ FRANDISCO PROPERTY  & CASUALTY LIFE INSURANCE COMPANY 
+   
+   
+ By:   /s/ A. Roger Guimond   
+ Name:   A. Roger Guimond   
+ Title:   President   
+   
+ 
+   
+ 
+ FRANKLIN SECURITIES, INC. 
+   
+   
+ By:   /s/ A. Roger Guimond   
+ Name:   A. Roger Guimond   
+ Title:   Vice President   
+   
+ 
+ AGENT AND LENDER: 
+ 
+ WELLS FARGO BANK, N.A. 
+   
+   
+ By:   /s/ William M. Laird   
+   William M. Laird, Senior Vice President   
+ 
+   
+ [SIGNATURE PAGE TO SEVENTH AMENDMENT 
+ TO LOAN AND SECURITY AGREEMENT] 
+   
+ 116549.01097/104168814v.3 
+ 

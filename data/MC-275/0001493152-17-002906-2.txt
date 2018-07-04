@@ -1,0 +1,424 @@
+ htm 169189 Material contracts 10 2017-03-28T15:31:25.385651-05:00 Filing 0001493152-17-002906 2017-03-28 10-K Annual  & Quarterly Reports 0000771999 DOCUMENT SECURITY SYSTEMS INC DSS COMMON NYSE MKT 7373 Computer Integrated Systems Design No NEW YORK NEW YORK NEW YORK NEW SKY COMMUNICATIONS INC;THOROUGHBREDS USA INC false Small Reporting Company 001-32146 EX-10.28 Exhibit Exhibit 2 ex10-28.htm EX-10.28 2 ex10-28.htm 
+   
+ Exhibit 10.28 
+   
+ *Portions of this exhibit marked [*] are requested to be treated confidentially. 
+   
+ PATENT PURCHASE AGREEMENT 
+   
+ This PATENT PURCHASE AGREEMENT (" Agreement") is entered into, as of the Effective Date (defined below), by and between Document Security Systems, Inc., having a place of business at 200 Canal View Blvd., Suite 300, Rochest er, NY 14623 (hereinafter " DSS"), and, Intellectual Discovery Co. Ltd., a Korean corporation, having an address of 10 Golden Tower Bldg. #511 Samseong-ro, Gangnam-gu, Seoul, 06158 Korea, (hereinafter  "ID" ). DSS and ID (each individually, a " Party ", and collectively, the " Parties ") hereby agree as follows: 
+   
+ Recitals 
+   
+DSS wishes to purchase from ID, and ID wishes to sell to DSS, all worldwide right, title and interest in the PATENTS (defined below), in accordance with the terms and conditions se t forth herein. 
+   
+In consideration of the premises and mutual covenants contained herein, the receipt and sufficiency of which is hereby acknowledged, the Parties hereto agree as follows: 
+   
+ Agreement 
+   
+ 1. Definitions 
+   
+ 1.1        " Affiliate" of a Person means any other Person or entity that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such Person. The term "control" (including the terms "controlled by" and "under common control with") means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise. 
+   
+ 1.2        " PATENTS" means the U.S. and foreign patents, patent applications and invention disclosures listed in Exhibit A, and, any reissues, reexaminations, extensions, continuations, continuations-in-part, continuing patent applications, and divisions thereof and foreign counterparts of the foregoing as well as all rights therein provided by multinational treaties or conventions, if any, including any and all family members (U.S. and foreign) and any and all patents and pending applications containing a terminal disclaimer to any of the PATENTS. 
+   
+ 1.3        " Confidential Information" means (a) the contents, nature, conditions, results, form, existence of, parties to and terms of this Agreement, (b) all correspondence of a confidential nature relating to this  Agreement that is received by one Party the (" Receiving Party ") from the other Party the (" Disclosing Party"), and (c) any trade secret, privileged or work product information of Disclosing Party contained in the Prosecution History and Patent Evaluation Files. 
+   
+ 
+ 
+ 1 
+ 
+ 
+   
+ 
+ 
+   
+ 1.4        " Effective Date" means the later of the dates on which DSS and ID execute this Agreement, as indicated on the signature page below. 
+   
+ 1.5        " Executed Assignment" means an executed Assignment of PATENTS substantially in the form attached hereto as Exhibit D, signed by a duly authorized representative of ID. 
+   
+ 1.6        " Lien" means any lien, license, covenant, pledge, hypothecation, charge, mortgage, security interest, encumbrance, equitable interest, right of possession, lease, option, right of first refusal, preemptive right, imperfection of title, or transfer restriction or condition or any claim for any of the foregoing. 
+   
+ 1.7        " Person" means an individual, corporation, partnership, joint venture, limited liability company, governmental authority, unincorporated organization, trust, association or other entity. 
+   
+ 1.8        " List of Prosecution Counsel" means a list setting forth, for each PATENTS, the name, address, e-mail address, telephone number and other contact information of the prosecution counsel who evaluated, prepared, or prosecuted the PATENTS on behalf of ID, and/or who is currently involved in maintaining registrations of the PATENTS on behalf of ID. 
+   
+ 1.9        " Prosecution History and Patent Evaluation Files" means all tangible and electronic files, documents and tangible materials, as those terms have been interpreted pursuant to rules and laws governing the production of documents and materials, constituting, comprising or relating to the investigation, evaluation, preparation, prosecution, maintenance, defense, filing, issuance, registration, assertion or enforcement of the PATENTS, including but not limited to, invention disclosures, claim charts or evidence of use charts or equivalent documents, drafts of complaints, copies of assertion or demand letters, lists identifying potential infringers or potential licensees, correspondence inviting third parties to take a license, agreements with third parties regarding licensing or enforcement programs, communications from third parties who have been targets of licensing or enforcement efforts, financial models or damages models or calculations, lists of prospective witnesses and consultants (including technical or economic experts) who are or could be involved in enforcement or licensing efforts. 
+   
+ 1.10        " Transmitted Copy" means a copy of this Agreement bearing a signature of a Party that is reproduced or transmitted via email of a .pdf file, photocopy, facsimile, or other process of complete and a ccurate reproduction and transmission. 
+   
+ 2. Assignment, Transmittal and Payment 
+   
+ 2.1       Assignment. As of the Effective Date, ID hereby sells, assigns and transfers to DSS, its permitted successors or designate and assigns the entire right, title and interest in and to the PATENTS as well as the right, if any, to register, prosecute, maintain and defend the PATENTS before any public or private agency, office or registrar. 
+   
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+ 
+   
+ 2.2       Delivery . 
+   
+(a)       No later than the Effective Date, ID shall (i) execute and deliver to DSS an Executed Assignment assigning to DSS all PATENTS, together with a List of Prosecution Counsel for the PATENTS and (ii) send to DSS, via Federal Express or other reliable overnight delivery service, by hand delivery or electronic mail, complete copies of the Prosecution History and Patent Evaluation Files in the possession of ID (or in its counsel's possession) for the PATENTS, including, without limitation, any original hard copies of the certificates of patent (to the extent in ID's or its counsel's possession) or an attestation that the original PATENTS are lost. For the avoidance of doubt, ID has no obligation to deliver or generate documents or information that are not in ID's or its legal counsel's possession or control. 
+   
+(b)       The Parties agree that: (i) this Agreement provides the Parties with a common interest in potential enforcement of the PATENTS through litigation and other activities, (ii) ID's transfer of documents regarding the prosecution of the PATENTS (including, without limitation, any Prosecution History and Patent Evaluation Files) to DSS furthers that common interest, and (iii) the Parties do not intend such transfer to waive any privilege that applies to such documents. 
+   
+ 2.3       Purchase Price and Payment . 
+   
+ (a)         Purchase Price.	As consideration for the sale, assignment and transfer to DSS of the Patent Assets as set forth in Section 2.1, DSS shall pay to ID One Million and Five Hundred Thousand Dollars ($1,500,000 U.S.) payable by wire transfer to ID's designated account below within five (5) days of the Effective Date (the "Purchase Price"). 
+   
+ (b)        Additional Contingent Payments. In addition to the Purchase Price, Seller shall receive an ongoing ten percent (10%) share of Net Income received by DSS as a direct result of monetization programs carried out with respect to the PATENTS ("Proceeds Interest"). For the purposes of this Agreement, Net Income shall be defined as gross revenues (such gross revenues being expressly subject to the prior payment of Preferred Revenue as provided by Section 2.3(c)) received by DSS from such monetization programs less expenses associated with the monetization programs including, without limitation, payments made to experts and consultants as well as other expenses associated with litigation and trial, but only to the extent such expenses are not covered by the initial investor's investment. Payment of the Proceeds Interest is expressly subject to the preference in favor of DSS's investors pursuant to Section 2.3(c). Payment of any Proceeds Interest shall be made to ID within thirty (30) days after receipt of income from the monetization programs, and such payments shall be made by wire transfer to ID's b ank account listed below. 
+   
+ 
+ 
+ 3 
+ 
+ 
+   
+ 
+ 
+   
+ Bank Name: Woori Bank Sernreung Banking Center 
+ Bank Address: 701-2, Yeoksam-dong, Gangnam-gu, Seoul, 135-080 Korea 
+ Account name: Intellectual Discovery Co., Ltd 
+ Account number: 1005-101-837280	 
+ SWIFT Code: HVBKKRSEXXX 
+   
+ (b)       RESERVED. 
+   
+(c)       It is expressly acknowledged that DSS's investor(s) have a preference of a minimum return on its/their initial investment referred to herein as " Preferred Revenue" generated through the monetization programs of the PATENTS. Preferred Revenue will be recouped to the investor(s) with first priority before any compensation (including the Ongoing Interest) is paid to ID. ID acknowledges and agrees that ID is not entitled to a share of the Preferred Revenue. ID shall be entitled to payment of the Ongoing Interest only after DSS's investor(s) have been paid all Preferred Revenue to which it/they are entitled under the applicable agreements between DSS and such investor(s). 
+   
+(d)       DSS shall provide ID with a quarterly written statement setting out details of any Net Income that has been generated during the preceding three months. The written statement shall provide sufficient information and detail to enable ID to properly calculate the Net Income, Taxes and Payment  & Expense, and to determine whether any amounts identified as Taxes or Payment  & Expense have been properly identified as Taxes or Payment & Expense. The quarterly statement shall also include monetization program progress and update report. The progress and update report may be provided to ID more frequently than quarterly at the discretion of the DSS. Notwithstanding anything to the contrary in this Agreement, DSS is not obligated to disclose any information to ID that is covered by a litigation protective order or otherwise protected by the attorney-client privilege, or that would result in a breach of any legally binding confidentiality agreements entered into prior to the execution of this Agreement. Where an agreement is entered into by DSS with a third party as a result of litigation including settlements or a licensing program after the execution of this Agreement, DSS shall provide sufficient details of the agreement to ID or its professional representative(s) so long as DSS is not legally precluded from doing so by the terms of any such settlement or licensing program. The details of the agreement shall not include confidential information. Statements shall be due on the last day of January, April, July and October of every year. Statements shall reflect the source of the Net Income, the gross receipts, and any withholdings or deductions. DSS shall maintain accurate records and accounts to be kept and held available for inspection by ID on reasonable notice but not more than once during any calendar year for a period of not less than five years from the end of the year in which the relevant patent transaction was executed or Net Incomes became due, as the case may be. 
+   
+ 2.4       Taxes and Fees . 
+   
+(a)        ID shall be responsible for all invoices, expenses, and fees pending to outside prosecution counsel or agents existing on the Effective Date. 
+   
+ 
+ 
+ 4 
+ 
+ 
+   
+ 
+ 
+   
+(b)        DSS shall be responsible for all taxes and fees relating to purchase of the PATENTS, if any, other than income taxes imposed on ID, and no part of taxes and fees relating to such purchase shall be deducted from the amount payable to ID under Section 2.3 (a), which such said amounts are to be net to ID. 
+   
+(c)        DSS shall pay withholding tax only as required under applicable law on payments made to ID hereunder and shall be required to remit to ID only the net proceeds thereof. DSS agrees to remit in a timely manner the taxes withheld to the appropriate government authority. Furthermore; (i) DSS shall furnish ID with documentation evidencing such withholding taxes within sixty (60) days after such tax has been withheld from a payment; and (ii) to the extent that there is an applicable treaty that provides for a reduction of such taxes, DSS shall fully cooperate in seeking such waiver or reduction and promptly complete and/or file any and all pertinent documents. ID and DSS shall cooperate with one another to  the extent reasonably requested and legally permitted to minimize any such Taxes. 
+   
+ 2.5        Assignment of Additional Rights. The rights, title and interest assigned pursuant to Section 2.1 shall include, without limitation, and ID hereby also sells, assigns, transfers, and conveys to DSS, effective as o f the Effective Date, all of ID's right, title and interest in and to: 
+   
+(a)       any causes of action (whether currently pending, filed or otherwise) and all other enforcement rights and rights to remedies under, on account of, or related to, any Patents, including, without limitation, all causes of action and other enforcement rights for (i) damages, (ii) injunctive relief, and (iii) other remedies of any kind for past, current and future infringement, misappropriation of violation of rights and all rights to sue for any of the foregoing; 
+   
+(b)        DSS has the sole desecration to determine the monetization program of the Patents, including but not limited to litigation targets, settlement of litigation, and sale of  the Patents to a third party; 
+   
+(c)        all rights to collect past and future royalties and other payments under, on account of, or related to any of the PATENTS and/or the foregoing clause (a); and 
+   
+(d)       all other rights and interests worldwide, arising out of, in connection with or in relation to the PATENTS. 
+   
+ 2.6 ID's PATENTS Buyback Rights. In the event that DSS does not file a lawsuit, enter into any legal action, or initiate license activities, such as but not limited to, license discussions, under the monetization  programs prior to the third (3 rd) anniversary of the Effective Date ("the Start Date"), ID shall, for a limited period of sixty (60) days commencing on the Start Date (the "Option Availability Period"), have the option to buyback the purchased PATENTS for the sum of Three Million United States Dollars (U.S. $3,000,000.00) plus reasonable expenses incurred by DSS but less any withholdings under provisions of this Agreement (the "Buy Back Option"). The Option Availability Period may be extended by the Parties by mutual written agreement. ID's right under this section is automatically terminated if any activity related to the monetization programs is initiated by DSS prior to the third anniversary of the Effective Date.â€‹ Upon exercise of the Buy Back Option, ID shall assume all responsibilities for all Taxes and Fees set forth in Section 2.4 hereof. 
+   
+ 
+ 
+ 5 
+ 
+ 
+   
+ 
+ 
+   
+ 3. Additional Obligations 
+   
+ 3.1       Further Cooperation. At the request of DSS, ID will promptly (i) execute or assign (as the case may be) and (ii) deliver such documents and instruments, and do and perform such other acts and things, as may be reasonably necessary or desirable for effecting completely the consummation of the transactions contemplated hereby, including, without limitation, providing access to documentation relating to the PATENTS in possession of ID or its Affiliates and causing the inventors of the PATENTS to execute such documents and instruments, in each case, as reasonably necessary or desirable for fully perfecting and conveying unto DSS the benefit of the transactions contemplated hereby. ID hereby appoints DSS as its limited attorney in fact, and hereby authorizes DSS to execute a Power of Attorney form on its behalf for use in any jurisdiction in which DSS may wish to have the PATENTS registered, sufficient in scope  for DSS to have such assignment registered with the applicable government authorities. 
+   
+ 3.2       Mutual Cooperation. ID agrees to cooperate with DSS, at DSS's expense, as reasonably requested by DSS regarding any issue arising during the maintenance and/or enforcement of any PATENTS, including, without limitation, execution of any and all necessary documents, answers to technical questions, and other matters that arise in connection therewith. 
+   
+ 3.3       No Challenge. ID shall not (a) challenge or knowingly assist any person or entity in challenging the validity of the PATENTS, (b) request or knowingly assist any person or entity in requesting any interference, reexamination, opposition, or other similar judicial or court action or proceeding or challenge against the PATENTS, or (c) take any actions or knowingly assist any person or entity in taking any other actions inconsistent with DSS's ownership of or exercise of DSS's rights under the PATENTS. Nothing herein is intended to preclude ID from complying with any applicable subpoena or court order, provided that ID (to the extent it is legally permitted to do so) shall promptly notify DSS of any such subpoena or court order and provide reasonable cooperation to DSS in order to permit DSS to object to such subpoena or court order as desired by DSS. 
+   
+ 3.4       Payment of Fees. Notwithstanding the assignment to DSS of the PATENTS pursuant to this Agreement, ID agrees to pay in a timely manner all maintenance fees, annuities and other similar payments that are due or payable as of the Effective Date to the USPTO or any foreign patent office in the case of the PATENTS, and that come due within ninety (90) days after the Effective Date. DSS, within thirty (30) days of receiving notice from ID of any maintenance fees, annuities and other similar payments made by ID after the Effective Date, shall reimburse ID for any such fees or expenses paid by ID during the ninety (90) day period following the Effective Date. 
+   
+ 
+ 
+ 6 
+ 
+ 
+   
+ 
+ 
+   
+ 3.5       No Additional Grants. From and after the Effective Date, ID shall not, and shall cause its Affiliates to not, grant any license, sublicense, covenant not to sue, release, waiver, immunity, authorization, option, right of negotiation or refusal or other rights under or with respect to any of the PATENTS. From and after the Effective Date, neither ID nor any of their Affiliates s hall attempt to assert any of the PATENTS against any other person or entity. 
+   
+ 4. Representations, Warranties, and Limitations of Liability 
+   
+ 4.1       ID's Representations and Warranties . ID hereby represents and warrants to DSS that as of the Effective Date, with respect to PATENTS: 
+   
+ (a)        Authority. ID and its signatories have the full power and authority to enter into this Agreement and ID has the full power and authority to carry out its obligations hereunder, including, w ithout limitation, the assignment of the PATENTS to DSS. 
+   
+ (b)        Title and Contest. ID is the exclusive legal and beneficial owner of and has good and marketable title to the PATENTS, including, without limitation, all right, title, and interest to sue for past, present and future infringement thereof. ID have obtained and properly recorded previously executed assignments for the PATENTS as necessary to fully perfect its rights and title  therein in accordance with governing law and regulations in each respective jurisdiction. 
+   
+ (c)        Liens. Except for any rights, licenses or covenants granted under the Existing License Agreements, the PATENTS are, and as of the effectiveness of the assignment of each PATENTS to DSS will be, free and clear of all Liens. There are no existing contracts, agreements, options, commitments, or rights with, to, or in any person to acquire any of the PATENTS. ID is not aware of any actions, suits, investigations, claims, or proceedings threatened, pending, or in progress relating in any way to the PATENTS. 
+   
+ (d)        Existing Licenses .  Exhibit C sets forth a complete and accurate list of the agreements under which any rights, licenses or covenants not to sue have been granted to any third party under any of the PATENTS (" Existing License Agreements"). None of the PATENTS is subject to any express or implied licensing obligations owed to any standards body or any similar organization. 
+   
+ (e)        Restrictions on Rights. ID is not aware of any restrictions on DSS' enforcement or enjoyment of the PATENTS as a result of any prior transaction related to PATENTS. 
+   
+ (f)        Validity and Enforceability. To ID's knowledge, the PATENTS are not invalid or unenforceable under applicable law. For the avoidance of doubt, in no event shall this provision be interpreted as ID's warranty of validity or enforceability of any of the PATENTS. None of the PATENTS has ever been found invalid or unenforceable, in whole or in part, for any reason in any administrative, arbitration, judicial or other proceeding, and ID has not received notice from any third party threatening the filing of any such proceeding. 
+   
+ 
+ 
+ 7 
+ 
+ 
+   
+ 
+ 
+   
+ (g)        Conduct . ID, their Affiliates and its officers, directors, employees, agents, or other representatives (" Representatives") have not engaged in any conduct, or, to ID's knowledge, omitted to perform any necessary act, the result of which could render any PATENTS, invalid, unenforceable, abandoned or cancelled, including, without limitation, any misrepresentation of ID's patent rights to a standard-setting organization. 
+   
+ (h)        Enforcement. None of the PATENTS has been asserted by ID against any third party in a manner in which the third party has been accused of infringing one or more of the PATENTS. 
+   
+ (i)        Patent Office Proceedings. None of the PATENTS is a subject of any reexamination, reissue, interference proceeding, inter parties review, or any similar proceeding, and no such proceedings are known by ID  to be pending or threatened. 
+   
+ (j)        Fees. All maintenance fees, annuities and other similar payments that have been due or payable with respect to the PATENTS have been timely paid.  Exhibit B sets forth a complete and accurate list of all maintenance fees, annuities and other similar payments with respect to the PATENTS that will become due or payable within ninety (90 ) days after the Effective Date. 
+   
+ (k)         No Conflicts or Licenses .	To ID's knowledge, other than the Existing License Agreements set forth in  Exhibit C, there are no existing agreements, options, commitments, understandings, rights, authorizations, licenses, covenants immunities, releases, standstills or waivers (whether implied or express, written or oral) that exist in favor of any person or entity, or that have been granted, conveyed, or promised to any person or entity, to acquire, license or otherwise obtain any right, title, or interest with respect to any of the PATENTS (whether by ID, any prior owner or any other person or entity), whether implied or express, written or oral . The Existing License Agreements set forth in  Exhibit C  do not conflict and will not frustrate any rights of DSS set forth in this Agreement. 
+   
+ 4.2       Disclaimer. EXCEPT AS EXPRESSLY SET FORTH ABOVE, NEITHER PARTY MAKES ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND REGARDING THE SUBJECT MATTER OF THIS AGREEMENT. WITHOUT LIMITING THE EXPRESS WARRANTIES SET FORTH IN THIS AGREEMENT, ID EXPRESSLY DISCLAIMS THE IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, VALIDITY, MERCHANTABILITY AND NON-INFRINGEMENT WITH RES PECT TO THE PATENTS. 
+   
+ 
+ 
+ 8 
+ 
+ 
+   
+ 
+ 
+   
+ 4.3        Limitation of Liability. EXCEPT (a) in the event of ID'S fraud or (b) WITH RESPECT TO any BREACH BY ID OF (I) ITS CONFIDENTIALITY OBLIGATIONS UNDER Section 5.2 or (ii) any representation or warranty set forth in Section 4.1, ID'S total LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED Three MILLION U.S. DOLLARS (U.S. $3,000,000.00). EXCEPT (A) in the event of  DSS 's fraud or (B) WITH RESPECT TO any BREACH BY  DSS  OF ITS CONFIDENTIALITY OBLIGATIONS UNDER Section 5.2,  DSS's total LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED three MILLION U.S. DOLLARS (U.S. $3,000,000.00). THE PARTIES ACKNOWLEDGE THAT THE LIMITATIONS ON POTENTIAL LIABILITIES SET FORT H IN THIS Section WERE AN ESSENTIAL ELEMENT IN entering into THIS AGREEMENT. 
+   
+ 4.4        Limitation on Non-Direct Damages . EXCEPT in the event of ID'S or  DSS's fraud or of any BREACH BY A PARTY OF ITS CONFIDENTIALITY OBLIGATIONS UNDER Section 5.2 or a breach by id of any representation or warranty under section 4.1, NEITHER PARTY WILL HAVE ANY OBLIGATION OR LIABILITY (WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING, without limitation, NEGLIGENCE) OR OTHERWISE, AND NOTWITHSTANDING ANY FAULT, NEGLIGENCE (WHETHER ACTIVE, PASSIVE OR IMPUTED), REPRESENTATION, STRICT LIABILITY OR PRODUCT LIABILITY), FOR ANY INCIDENTAL, INDIRECT OR CONSEQUENTIAL, MULTIPLIED, PUNITIVE, SPECIAL, OR EXEMPLARY DAMAGES OR LOSS OF REVENUE, PROFIT, SAVINGS OR BUSINESS ARISING FROM OR OTHERWISE RELATED TO THIS AGREEMENT, EVEN IF A PARTY OR ITS EMPLOYEES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE PARTIES ACKNOWLEDGE THAT THE LIMITATIONS ON POTENTIAL LIABILITIES SET FORTH IN THIS Section WERE AN ESSENTIAL ELEMENT IN entering into THIS AGREEMENT. 
+   
+ 5. Miscellaneous 
+   
+ 5.1       Compliance With Laws. Notwithstanding anything contained in this Agreement to the contrary, the obligations of the Parties with respect to the consummation of the transactions contemplated by this Agreement shall be subject to all laws, present and future, of any government having jurisdiction over the Parties and this transaction, and to orders, regulations, directions or requ ests of any such government. 
+   
+ 
+ 
+ 9 
+ 
+ 
+   
+ 
+ 
+   
+ 5.2       Confidentiality. Each Party, as Receiving Party, shall keep confidential the Confidential Information of Disclosing Party and neither Party, as Receiving Party, shall now or hereafter have the right to disclose such Confidential Information to any third party except: (a) with the prior written consent of the Disclosing Party, (b) as may be required by applicable law, regulation or order of a governmental authority or court of competent jurisdiction, (c) in confidence to the professional legal and financial counsel representing Receiving Party, or (d) in confidence to any party covered by the releases, licenses or covenants granted herein. Confidential Information shall not include any information that (i) has become publicly available through no fault of Receiving Party, (ii) was rightfully in Receiving Party's possession before receipt from Disclosing Party; (iii) becomes rightfully known to Receiving Party without obligations of confidentiality from a source other than Disclosing Party that is not subject to a duty of confidentiality with respect to such information; or (iv) is independently developed by Receiving Party without any use of, access to or reference to any Confidential Information of Disclosing Party. With respect to the foregoing clause (b), Receiving Party shall, to the extent legally permissible, provide Disclosing Party with prior written notice of such applicable law, regulation or order and, at the request of Disclosing Party, use reasonable efforts to limit the disclosure of the Confidential Information and to obtain a protective order. 
+   
+ 5.3       Publicity. Notwithstanding the foregoing, neither Party shall, without the prior written approval of the other Party, advertise or otherwise publicize, in a press release or otherwise, the terms of this Agreement or any other aspect of the relationship between the Parties under this Agreement. For the avoidance of doubt, each of the Parties acknowledges and agrees that (a) the recording of the Executed Assignment by or on behalf of DSS or (b) disclosure of this Agreement in order to comply with applicable securities laws shall not constitute a  breach of this Agreement by DSS. 
+   
+ 5.4       Governing Law and Jurisdiction. This Agreement will be interpreted, construed, and enforced in all respects in accordance with the laws of the State of New York, without reference to its choice of law principles to the contrary. ALL DISPUTES AND LITIGATION ARISING OUT OF OR RELATED TO THIS AGREEMENT, INCLUDING MATTERS CONNECTED WITH ITS PERFORMANCE, ARE SUBJECT TO THE EXCLUSIVE JURISDICTION OF THE FEDERAL AND STATE COURTS OF THE STATE OF NEW YORK LOCATED IN MANHATTAN, NEW YORK. EACH PARTY HEREBY IRREVOCABLY SUBMITS TO THE PERSONAL JURISDICTION OF SUCH COURTS AND I RREVOCABLY WAIVES ALL OBJECTIONS TO SUCH VENUE. 
+   
+ 5.5       Notices. All notices given hereunder will be given in writing (in English or with an English translation), will refer to DSS and to ID and to this Agreement and will be: (a) personally delivered, (b) delivered postage prepaid by an internationally recognized express courier service, or (c) sent postage prepaid registered or certified U.S. mail (return receipt reque sted) to the address set forth below: 
+   
+   
+ If to DSS: 
+ Attn: General Counsel 
+ 200 Canal View Blvd., Suite 300 
+ Rochester, New York 14623 
+   
+ If to ID: 
+ Attn: General Counsel 
+ Intellectual Discovery Co. Ltd. 
+ 10 Golden Tower Bldg. #511 Samseong-ro, 
+ Gangnam-gu, Seoul, 06158 Korea 
+ 
+   
+ 
+ 
+ 10 
+ 
+ 
+   
+ 
+ 
+   
+Notices are deemed given on the date of receipt by the receiving Party. Either Party may from time to time change its address for notices under this Agreement by giving the other P arty written notice of such change in accordance with this Section 5.5. 
+   
+ 5.6       Relationship of Parties. The Parties hereto are independent contractors. Nothing in this Agreement will be construed to create a partnership, joint venture, franchise, fiduciary, employment or agency relationship between the Parties. Neither Party has any express or implied authority to assume or create any obligations on behalf of the other or to bind the other to any contract, agreement or undertaking with any third party. Each Party expressly disclaims any reliance on any act, word, or deed of the other Party in entering into this Agreement. 
+   
+ 5.7       Equitable Relief. Each Party acknowledges and agrees that damages alone would be insufficient to compensate the other Party for a breach of this Agreement and that irreparable harm would result from a breach of this Agreement. Each Party hereby consents to the entering of an order for injunctive relief to prevent a breach or further breach, and the entering of an order for  specific performance to compel performance of any obligations under this Agreement. 
+   
+ 5.8       Severability. If any provision of this Agreement is found to be invalid or unenforceable, then the remainder of this Agreement will have full force and effect, and the invalid provision will be modified, or partially enforced, to the maximum extent permitted to effectuate the intent of the Parties. 
+   
+ 5.9       No Waiver. Failure by either Party to enforce any term of this Agreement will not be deemed a waiver of future enforcement of that or any other term in this Agreement or any other agreement  that may be in place between the Parties. 
+   
+ 5.10        Effect of Due Diligence. DSS's rights with respect to any breach of any representation or warranty or the failure of any representation or warranty to be true, correct and complete as of the Effective Date or the failure to perform any covenant shall not be diminished or otherwise affected in any way as a result of the existence of DSS's or any of its Affiliates' or Representatives' knowledge of such breach, untruth or nonperformance as of the Effective Date , regardless of whether such knowledge exists as a result of investigation by DSS or any of its Affiliates or Representatives or as a result of disclosure by ID or any other person or entity, unless such disclosure is set forth in this Agreement or in an Exhibit to this Agreement. 
+   
+ 5.11        No License. Except as set forth specifically in this Agreement with respect to the PATENTS, nothing contained in this Agreement shall be construed as conferring any right to a license or to otherwise use any patent, patent application, trademark, service name, service mark, trade dress, trade secret or other intellectual property belonging to DSS or ID. 
+   
+ 
+ 
+ 11 
+ 
+ 
+   
+ 
+ 
+   
+ 5.12        Complete Agreement. This Agreement, , including, without limitation, any and all exhibits attached hereto and thereto, along with a related Patent License Agreement between the Parties executed contemporaneously with this Agreement, constitute the entire agreement between the Parties with respect to the subject matter hereof and merges and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions. Neither of the Parties will be bound by any conditions, definitions, warranties, understandings, or representations with respect to the subject matter hereof other than as expressly provided herein. The section headings contained in this Agreement are for reference purposes only and will not affect in any way the meaning or interpretation of this Agreement. Each Party and counsel have reviewed and approved this Agreement, and accordingly any presumption or rule of construction permitting ambiguities to be resolved against the drafting Party shall not be employed in the interpretation or application of this Agreement. No oral explanation or oral information by either Party hereto will alter the meaning or interpretation of this Agreement. No amendments or modifications to this Agreement, or any rights or obligations hereunder , will be effective unless in writing signed by authorized representatives of both Parties. 
+   
+ 5.13        Assignment. Both Parties may assign, sell, transfer, delegate and otherwise dispose of, whether voluntarily or involuntarily, and by operation of law and otherwise, this Agreement and any of its rights and obligations hereunder without the prior written consent of the other Party. However, within thirty (30) days of such assignment the assigning Party shall notify the  other Party of the assignment. 
+   
+ 5.14        Waiver. No waiver of any provision shall be binding in any event unless executed in writing by the Party waiving its rights under this Agreement. 
+   
+ 5.15        Counterparts; Electronic Signature; Delivery Mechanics. This Agreement may be executed in separate counterparts, each of which will be deemed an original, and all of which together constitute one and the same instrument. Each Party will execute and promptly deliver to the other Party a copy of this Agreement bearing an original signature. Prior to such delivery, in order to expedite the process of entering into this Agreement, the Parties acknowledge that a Transmitted Copy of this Agreement signed via facsimile or E-mail PDF will be deemed an original document. 
+   
+ 5.16        Expenses. Except as expressly provided in this Agreement, each Party shall bear its own costs and expenses in connection with this Agreement and the transactions contemplated hereby, including, without limitation, all legal, accounting, financial advisory, consulting and all other fees and expenses of third parties, whether or not the transactions contemplated hereb y are consummated. 
+   
+ 5.17        Term. This Agreement shall become effective as of the Effective Date and shall continue in effect perpetually. 
+   
+ 
+ 
+ 12 
+ 
+ 
+   
+ 
+ 
+   
+In witness whereof, intending to be legally bound, the Parties have executed this Agreement as of the Effective Date. 
+   
+ ID :     DSS:             By: /s/ Donghyun Shim   By: /s/ Jeffrey Ronaldi Name: Donghyun Shim   Name: Jeffrey Ronaldi Title: Executive Director   Title: Chief Executive Officer Date: November 8, 2016   Date: November 10, 2016 
+   
+ 
+ 
+ 13 
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT A - Listed PATENTS 
+   
+ No.   Patent No.   Country   Status   Title   Application No.   Filing Date   Issued Date [*]   [*]   [*]   [*]   [*]   [*]   [*]   [*] 
+     
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT B - Maintenance Fees 
+   
+ No.   Patent No.   Country   Status   Title   Due Date of Fee   Currency   Maintenance Fee 1   [*]   [*]   [*]   [*]   [*]   USD   663.58 2   [*]   [*]   [*]   [*]   [*]   USD   312.58 3   [*]   [*]   [*]   [*]   [*]   USD   994.01 4   [*]   [*]   [*]   [*]   [*]   USD   3,600.00 5   [*]   [*]   [*]   [*]   [*]   USD   219.81 6   [*]   [*]   [*]   [*]   [*]   USD   3,600.00 7   [*]   [*]   [*]   [*]   [*]   USD   987.59 8   [*]   [*]   [*]   [*]   [*]   USD   323.91 9   [*]   [*]   [*]   [*]   [*]   USD   461.65 10   [*]   [*]   [*]   [*]   [*]   USD   161.40 11   [*]   [*]   [*]   [*]   [*]   USD   1,296.71 12   [*]   [*]   [*]   [*]   [*]   USD   591.33 13   [*]   [*]   [*]   [*]   [*]   USD   7,400.00 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC.   
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT C 
+ Existing License Agreements 
+   
+ Existing Licenses 
+   
+ [*] 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC.  
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT D 
+   
+ ASSIGNMENT OF PATENT RIGHTS 
+   
+ This patent assignment (" Assignment") is entered into as of November 10, 2016 (the "Assignment Date") between Intellectual Discovery Co. Ltd., with a principal place of business at 10 Golden Tower Bldg. 144-17, Sams ung-dong, Gangnam-gu, Seoul, Korea ("ID") (the " Assignor"), and Document Security Systems, Inc., having a principal place of business at 200 Canal View Blvd., Suite 300, Rochester, New York 14623 (" Assignee "). 
+   
+Whereas, the Assignor and Assignee have entered into a certain [Patent Purchase Agreement] dated November 10, 2016 (the "Agreement") under which, among other things, Assignor assigns to Assignee all worldwide right, title and interest in and to (i) all patents and patent applications in the name of or owned by Assignor identified and set forth on Appendix A attached hereto, (ii) the invention disclosures identified and set forth on Appendix A attached hereto, and (iii) with respect to (i) and (ii), all national (of any country of origin) and multinational patents, patent applications and provisional patent applications, and reissues, divisions, continuations, continuations-in-part, continuing patent applications, extensions and reexaminations thereof, and all rights therein provided by multinational treaties or conventions (such patents and patent applications, the "PATENTS"); and 
+   
+Whereas, pursuant to the Agreement, Assignor wishes to assign to Assignee, and Assignee wishes to acquire from Assignor, all worldwide right, title and interest in and to the PATEN TS. 
+   
+For good and valuable consideration, the receipt of which is hereby acknowledged, the Parties hereby agree as follows: 
+   
+1.       Pursuant to and subject to the terms and conditions of this Agreement, Assignor, does hereby irrevocably sell, assign, transfer, and convey unto Assignee, or Assignee's de signees, all of Assignor's right title and interest in and to the PATENTS, together with: 
+   
+(a)	the right, if any, to register, prosecute, maintain and defend the PATENTS before any public or private agency, office or registrar; 
+   
+(b) 	all rights of cooperation that have been pledged or assigned to Assignor with respect to the PATENTS; (c)	the right to sue and bring any causes of action (whether currently pending, filed or otherwise) and all other enforcement rights and rights to remedies under, on account of, or related to any of the PATENTS and/or any item in any of the foregoing categories including, without limitation, all causes of action and other enforcement rights for (i) damages, (ii) injunctive relief, and (iii) other remedies of any kind for past, current and future infringement, misappropriation or violation of rights and all rights to sue for any of the foregoing; and 
+   
+(c)	all rights to collect royalties and other payments under or on account of any of the PATENTS, as well as all rights to assign or sell an interest in such royalties or other pay ments to third parties. 
+   
+2.       Assignor hereby authorizes the respective patent office or governmental agency in each jurisdiction to issue any and all PATENTS, certificates of invention, utility models or other governmental grants or issuances that may be granted upon any of the PATENTS in the name of Assignee, as the assignee to the entire interest therein, to record Assignee as the assignee and owner of the PATENTS and to deliver to Assignee, and to Assignee's attorneys, agents, successors or assigns, all official documents and communications as may be  warranted by this Assignment. 
+   
+3.       Assignor shall use best efforts to take actions and execute and deliver documents that Assignee may reasonably request to effect the terms of this Assignment and to perfect Assignee's title in and to those PATENTS assigned to it hereunder. In the event that Assignee is unable for any reason whatsoever to secure Assignor's signature to any document it is entitled to under this Assignment, Assignor hereby irrevocably designates and appoints Assignee, and its duly authorized officers and agents, as Assignor's agent and attorney-in-fact to act for and on its behalf and instead of it, to execute and file any such document and to do all other lawfully permitted acts to further the purposes of this Assignment  with the same legal force and effect as if executed by Assignor. 
+   
+4.       This Assignment is intended to effect the assignment of the PATENTS to Assignee as described in the Agreement. To the extent of any conflict or inconsistency between the terms and conditions of this Assignment and the Agreement, the Agreement shall prevail and govern the rights and obligations of the Parties hereto and the scope of assignment of the  PATENTS. 
+   
+The terms and conditions of this Assignment will inure to the benefit of Assignee, its successors, assigns, and other legal representatives consistent with the Agreement between the Parties executed on the same date as this Assignment and will be binding upon Assignor, its successors, assigns, and other legal representatives. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+In witness whereof, intending to be legally bound, the Parties have executed this Assignment as of the Assignment Date. 
+   
+ _______________.: 
+ Intellectual Discovery Co., Ltd. 
+   
+ By:     Name:     Title:     Date:     
+   
+ Document Security Systems, Inc. 
+   
+ By:     Name:     Title:     Date:     
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ Appendix to Assignment of Patent Rights - PATENTS 
+   
+ No.   Patent No.   Country   Status   Title   Application No.   Filing Date   Issued Date [*]   [*]   [*]   [*]   [*]   [*]   [*]   [*] 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC.  
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   

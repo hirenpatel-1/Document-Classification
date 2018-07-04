@@ -1,0 +1,375 @@
+ htm 55285 Material contracts 10 2017-03-31T15:34:45.187099-05:00 Filing 0001553350-17-000349 2017-03-31 10-K Annual  & Quarterly Reports 0001538217 SOCIAL REALITY, Inc. SCRI COM CL A OTC 7311 Advertising Agencies No CALIFORNIA DELAWARE DELAWARE SOCIAL REALITY false Small Reporting Company 001-37916 LETTER AGREEMENT Exhibit Exhibit 4 srax_ex10z35.htm EX-10.35 4 srax_ex10z35.htm LETTER AGREEMENT 
+   
+ 
+ Exhibit 10.35 
+ 
+ January  5,  2017 
+ 
+ Reference is hereby made to that certain Financing Agreement dated  as of  October  30, 2014 (as amended, restated, supplemented  or otherwise modified and in effect immediately prior to the consummation  of  the Payoff  (as  defined below) ,  the  " Financing Agreement "),  by and among Social Reality ,  Inc. , a  Delaware corporation  (the   " Company "),  Steel Media ,  a California corporation  (" Steel ") ;  together  with  the  Company, each a  Borrower  and collectively,  the ( " Borrowers "),  the Company ,  as the Borrower Representative ,  the  Guarantors  party thereto  (together with  the Borrowers ,  the  " Cre dit Parties "),  the Lenders party thereto  and  Victory Park Management , LLC, as administrative  agent and collateral agent  (the   " Agent ")  for the Lenders  and  the Holders party thereto . Capitalized  terms used herein and not otherwise defined herein  shall  have the respective meanings ascribed thereto in  the Financing  Agreement and/or the Warrants, as applicable. 
+ 
+ Reference is further made to that certain Securities Purchase Agreement ,  dated  as  of the date hereof  (as  i n  effect on  the date  of  this letter agreement (this  " letter agreement " ),  the  " SPA ";  the SPA ,  together  with each of  th e  documents and instruments entered into in connection therewith ,  referred to herein as the  "S PA Documents, "  in  each  case  as amended  from time to time, but in no event  amended  or otherwise modified in  a  manner that increases the amounts payable by the Company in cash thereunder) ,  pursuant to which the Company is  selling  to the buyers named therein ,  and  such  buyers are purchasing from the Company ,  on the date hereof up to  $4,000, 000  of  its  securities, consisting  of  shares  of Common Stock ,  Series A Warrants and Series B Warrants  (in each case, as  defined in the  SPA),  all upon the terms and conditions set forth therein ,  in each case as amended  from  time to time ,  but  in  no  event amended  or otherwise modified in a manner that increases the  amounts  payable by the  Company in cash  thereunder  (the ( " F inancing Transaction ").   The Company has provided to the Agent copies of the  SPA,  the  Series  A Warrants  and  the Series B Warrants . 
+ 
+ In connection with the execution and delivery of the SPA by the  Company  and the other parties thereto , and  the  concurrent  closing of the transactions contemplated thereby, the Company is delivering to the Agent ,  pursuant to and  in accordance  with the terms of that certain Note Payoff Letter ,  dated as of the date hereof  (the   " Payoff   Letter "),  an amount equal to $_______ in full satisfaction of all of the  Credit  Parties '  respective Obligations with respect to the Notes (the  " Payoff '). 
+ 
+ NOW, THEREFORE ,  i n consideration of the agreements ,  provisions and covenants  contained  herein  and for other good  and valuable consideration ,  the receipt and  sufficiency  of which are hereby acknowledged , each of  the undersigned agrees as follows : 
+ 
+ 1. 
+ Financing Transaction . Pursuant to Section 8 . 2 l of the Financing Agreement ,  the  Company is  required to deliver the Future Offering Notice to a Holder and  such  Holder  is  entitled to exercise  such  Holder 's  Purchase Option  .  Subject to and effective upon the satisfaction of the  conditions  precedent  set  forth in  Section  4 hereof , including  for the avoidance of doubt the consummation of the Payoff ,  with respect to the  offer and sale  by the  Company  of up to $4 , 000 , 000 of its securities pursuant to the  Financing  Transaction , (i)  the parties hereto acknowledge  and  agree that this letter shall  serve  as the Future Offering Notice with respect to the  Financing  Transaction ;  (ii) the Holder declines its Holder Purchase Option ,  pursuant to Section 8 .2  1 of the  Financing  Agreement, with respect to the Company securities sold pursuant to the SPA in the Financing  Transaction, and (i ii) the Agent consents to the offer and sale of the Company's securities in the Financing Transaction pursuant  to  the  SPA,  in  accordance  with Section 8.20 of the Financing Agreement. 
+ 
+ 2. 
+ Put Right . Subject to and effective upon the satisfaction of the conditions precedent  set forth in Section  4 hereof ,  including for the avoidance of doubt the consummation of the Payoff , (i)  the Holder agrees not to  exercise the Put Right pursuant to Section 10 of the Warrant prior to the date that is one hundred thirty-five  ( 135) days after the closing of the Financing Transaction on the date of this letter agreement (the  " Put Standstill Period "),  and  (ii)  following any exercise of the Put Right after the expiration of the Put Standstill Period ,  the date  of  the Put Right  Closing  (as such term is defined in the Warrant) shall be as mutually determined by the  Company and  the Holder ,  but in any event  shall  occur no later than 45 days following the delivery of the Put Right Notice  . 
+ 
+ 3. 
+ Amendment to Warrants .  The  Compa ny hereby agrees with the Agent and the Holder that , subject  to  and effective  upon the  satisfaction  of the conditions precedent  set  forth in Section 4 hereof, including  for  the 
+ 
+ 
+ 
+   
+ 
+avoidance of doubt the consummation of the Payoff, as of the date first written above each of the Warrants is hereby amended as follows: 
+ 
+ a. 
+Section 10 of each of the Warrants is hereby amended by adding the following as new clause (d) thereto : 
+ 
+ "(d) 
+ If the Company shall fail to deliver all or any portion of the purchase price at  a Put Right Closing with respect to any Put Right Securities, in addition to any remedy the Holder may have under this Warrant, the Financing Agreement or otherwise , such purchase price with respect to such Put Right Securities shall bear interest at a rate equal to the lesser of (i) fourteen percent (14%) per annum, and  (ii) the maximum rate of interest allowed under applicable law, in any such case until paid in full. Notwithstanding anything set forth herein to the contrary, until the purchase price  with respect to any Put Right Securities is paid in full, this Warrant may be exercised ,  in whole or in part ,  by the Holder in accordance with the terms hereof . " 
+ 
+ b. 
+As amended hereby, each of the Warrants shall remain in full force and effect. Each of the Credit Parties hereby covenants, acknowledges and agrees that  (i) each Holder of a Warrant shall have the right to request, at any time following the date of this letter agreement, for any reason or no reason  , including without limitation, in connection with any proposed sale, assignment or other transfer of  a  Warrant, that the Company issue a new instrument representing such Warrant, as amended hereby , and (i i) the Company shall promptly, and in no event later than three Business Days following any such Holder  's  request, execute and deliver such new instrument representing such Warrant, as amended hereby  ,  to  such Holder, at the address specified by such Holder. Upon the receipt by such Holder of the new instrument representing such Holder ' s Warrant, as amended hereby ,  such Holder 's existing Warrant will be void and of no further force and effect, and such Holder shall return its existing Warrant to the Company for cancellation. 
+ 
+ 
+ 4. 
+ Conditions .   This letter agreement shall become effective upon the satisfaction in full of  each of  the following conditions : 
+ 
+ a. 
+ the consummation  of the Payoff pursuant to ,  and i n accordance with ,  the Payoff Letter ;  and 
+ 
+ 
+ b. 
+ the execution and delivery of this letter agreement and the Payoff Letter by Borrowers ,  the other Credit Parties, the Lenders and the Agent ,  as applicable. 
+ 
+ 5. 
+ Covenants of the Credit Partie s. 
+ 
+ a. 
+ Each of the covenants, representations and agreements set forth in Sections 2 . 8 , 2.11,  8 . 29, 8.30, 8 . 31, 8.32, 8.33, 8 . 34, 8.35, 8.37 ,  13.8 ,  13.10 and 13.12 of the Financing Agreement, each  solely  as they relate to the Warrants ,  the Warrant Shares and the Warrant Documents (each ,  a  " Subject   Agreement "  and, collectively, the ( " S ubject Agreements ") ,  is incorporated by reference herein , and each of the Credit Parties hereby remakes and reaffirms each of the Subject Agreements with the  same  force  and  effect as if each was separately stated herein and made as of the date hereof  . 
+ 
+ b. 
+ Each of the Credit Parties hereby covenants, acknowledges and agrees that , during the period beginning with the date of this letter agreement and ending on the first date on which no Warrants are outstanding, no Credit Party shall (and each Credit Party  shall  cause each of its Subsidiaries not to, directly or indirectly , other than the incurrence of indebtedness in the ordinary course of business under the factoring arrangement with FAST PAY PARTNERS LLC as in effect on the date hereof (or  similar  asset based arrangement replacing the factoring arrangement with FAST PAY PARTNERS LLC) ,  create ,  incur or  guarantee,  assume ,  or suffer to exist any Indebtedness or engage in any sale and leaseback , synthetic  lease or similar transaction  ,  or offer, sell ,  grant any option to  purchase, or otherwise dispose of  (or  announce any offer, sale ,  grant or any option to purchase or other disposition of) any of its debt  securities, 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+in any such case without the prior written consent of the Agent.   For the avoidance of doubt, the Financing Transaction shall not constitute the incurrence of Indebtedness in viol ation of this section. 
+ 
+ 6. 
+ [Intentionally  Omitted] 
+ 
+ 7. 
+ Representations and Warranties of the Credit Parties .   To induce each Lender and the A g ent to execute and deliver this letter agreement ,  each Credit Party represents ,  warrants and covenants that: 
+ 
+ a. 
+ the execution ,  delivery and performance by each Credit Party of this letter agreement ,  the Payoff Letter ,  the Warrants (as amended hereby) ,  the SPA Documents and all documents and instrument s delivered in connection herewith and therewith have been duly authorized by all necessary action required on its part and no further consent or authorization is required by any Cr edit Party or their respective board s  of directors (or similar governing bodies) or shareholders or other equity holders  ,  and this letter agreement ,  the Payoff Letter ,  the Warrants (as amended hereby), the SPA Document s  and all document s  and instruments delivered in connection herewith are legal ,  valid and binding obligation  s  of  s uch Credit Part y enforceable against such Credit Party in accordance with its terms except as such enforceability ma y  be limited by general  principles of equity or applicable bankruptcy ,  insolvency ,  reorganization ,  moratorium ,  liquidation or  s imilar laws relating to ,  or affecting generally ,  the enforcement of applicabl e  creditor s'  ri g ht s  and remedies . 
+ 
+ b. 
+ neither the execution ,  delivery and performance of this letter agreement ,  the Payoff Letter ,  the Warrants (as amended hereby) or the SPA Documents nor the consummation of the transaction s  contemplated hereby or thereby does or shall (i) result in a violation of any Credit Party  's  certificate of incorporation ,  certificate of formation ,  bylaws ,  limited liability company agreement or other  g overnin g  documents ,  or the terms of any Capital Stock or other Equity Interests of any Credit Party ;  (ii) conflict with  ,  or constitute a breach or default (or an event which , with notice or lapse of time or both, would become a breach or default) under, or give to others any rights of termination ,  amendment ,  acceleration or cancellation of ,  any agreement ,  indenture or instrument to which any Credit Party is a party ;  (iii) result in any  " price reset "  or other material change in or other modification to the terms of any Indebtedness , E quity Interests or other securities of any Credit Party ;  or (iv) re s ult in a violation of any law ,  rule ,  re g ulation ,  order ,  judgment or decree .  No Credit Party is required to obtain any consent ,  authorization or ord e r of or make any filing or registration with ,  any court or governmental agency or any regulatory or self-regulatory agency ,  including without limitation the Principal Market ,  in order for it to execute ,  deliver or perform  a n y  of its obligations under this letter agreement, the Payoff Letter ,  the Warrant s  (as amended hereby )  or ,  except as expressly contemplated thereby, the SPA Documents . 
+ 
+ 8. 
+ Reference to and Effect Upon the Transaction Documents . 
+ 
+ a. 
+ Except as specifically amended hereby or as otherwise expressly set forth in the Pa y off Letter ,  all terms ,  conditions ,  covenants ,  representations and warranties contained in the Warrant Document s  (as amended hereby) ,  and all rights of the Lenders, the Holders and the Agent and all of the obli g ation s  under the Warrant Documents (as amended hereby) ,  shall remain in full force and effect.  Each Credit Party hereby confirms that each of the Warrant Documents (as amended hereby) is in full force and effect ,  and that no Credit Party has any right of setoff ,  recoupment or other offset or any defense , claim or counterclaim with respect to any Warrant Document (as amended hereby) or the Credit Partie s'  obligations thereunder. 
+ 
+ b. 
+ Except as expressly set forth herein or in the Payoff Letter ,  the execution ,  delivery and effectivene ss of this letter agreement and any consents or waivers set forth herein shall not directly or indirectly :  (i) constitute a consent or waiver of any future violations of any Warrant Document ;  (ii) amend ,  modify or operate as a waiver of any provision of any Warrant Document or any right ,  power or remed y  of any Lender ,  any Holder or the Agent ,  or (iii) constitute a course of dealing or other basi s  for altering any obligations under the Warrant Documents. 
+ 
+ c. 
+ From and after the date hereof ,  (i) all references to the term  " Warrant s"  a s  u s ed in any Tran s action Document, shall mean the Warrants (as amended hereby) ,  (ii) all reference  s  to th e  term 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ "Securities"  as used  in  any Transaction Document, shall include, without limitation ,  the Warrants (as amended hereby), (iii) all references to the term  " Warrant Documents" as used in any Transaction Document ,  shall include ,  without limitation ,  this letter agreement ,  the Payoff Letter and the Warrants  (as  amended hereby), (iv) all references to the term  "Transaction  Documents" as used in any Transaction Document shall include, without limitation ,  this letter agreement ,  the Payoff Letter ,  the Warrants  (as amended hereby), and any other agreements, instruments and other documents executed or delivered in connection herewith. 
+ 
+ 9. 
+ Governing Law; Jurisdiction . All questions concerning the construction ,  validity , enforcement and interpretation of this letter agreement shall be governed by the internal laws of the State of Illinois, without  giving effect to any choice of law or conflict of law provision or rule (whether of the State of Illinois or any  other jurisdictions) that would cause the application of the laws of any jurisdictions other than the State of Illinois . Each  party hereby irrevocably  submits  to the exclusive jurisdiction of the  state  and federal courts  sitting in Chicago,  Illinois ,  for the adjudication of any dispute hereunder or in connection herewith or with  any  transaction contemplated hereby or discussed herein ,  and hereby irrevocably waives ,  and agrees not to assert in any  suit, action  or proceeding ,  any claim that it is not personally subject to the jurisdiction of  any  such court ,  that  such suit, action or  proceeding  is  brought in an inconvenient forum or that the venue of such suit ,  action or proceeding is improper.  Each  party hereby irrevocably waives personal service of process and consents to process being  served  in  any such suit,  action or proceeding by mailing a copy thereof to such party at the address for  such  notices to it under this letter agreement and agrees that such service shall constitute good and  sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any manner permitted by law. 
+ 
+ 10. 
+ Successors and Assigns . This letter agreement shall be binding upon and  shall inure to the benefit of the parties hereto and their respective successors and permitted assigns.  The successors  and  assigns of  such entities shall  include their respective receivers, trustees or debtors-in-possession. 
+ 
+ 11. 
+ Severability .  The invalidity ,  illegality , or unenforceability of any provision in or obligation under this letter agreement in any jurisdiction shall not affect or impair the validity ,  legality ,  or enforceability  of  the remaining provisions or obligations under this letter  agreement  or of  such  provision or obligation in  any  other jurisdiction. If feasible ,  any such offending provision shall be deemed modified to be with in the limits of  enforceability  or validity ;  provided that if the offending provision cannot be  so  modified ,  it  shall  be  stricken  and  all other  provisions of this letter agreement in all other respects shall remain  valid  and enforceable . 
+ 
+ This  letter agreement may be executed in one or more counterparts, each of which  shall  be deemed  an original  but all of which together shall constitute one and the  same  instrument.  This letter agreement may be delivered by facsimile ,  email or  similar  electronic transmission ,  each of which  shall  be deemed the  equivalent of an  originally  signed  document and shall be fully admissible in any enforcement proceedings regarding thi s  letter  agreement. 
+ 
+ [Signature Pages Follow] 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ IN WITNESS WHEREOF , each party has caused its signature page to this letter agreement to be duly executed as of the date first written above . 
+ 
+ 
+ 
+   
+ 
+ CREDIT PARTIES: 
+ 
+   
+ 
+   
+ 
+   
+ 
+ SOCIAL REALITY, INC. 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+ /s/ Christopher Miglino 
+ 
+   
+ 
+ Name: 
+ 
+ Christopher Miglino 
+ 
+   
+ 
+ Its: 
+ 
+ Duly Authorized Signatory 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ STEEL MEDIA 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+ /s/ Christopher Miglino 
+ 
+   
+ 
+ Name: 
+ 
+ Christopher Miglino 
+ 
+   
+ 
+ Its: 
+ 
+ Duly Authorized Signatory 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ FIVE DELTA, INC., 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+ /s/ Christopher Miglino 
+ 
+   
+ 
+ Name: 
+ 
+ Christopher Miglino 
+ 
+   
+ 
+ Its: 
+ 
+ Duly Authorized Signatory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ AGENT: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ VICTORY PARK MANAGEMENT, LLC , as Agent 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+ /s/ Scott Zemnick 
+ 
+   
+ 
+ Name: 
+ 
+ Scott Zemnick 
+ 
+   
+ 
+ Its: 
+ 
+ Manager 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ LENDERS: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ VPC SBIC I, LP 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: Victory Park Capital Advisors, LLC 
+ 
+   
+ 
+ Its: Investment Manager 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+ /s/ Scott Zemnick 
+ 
+   
+ 
+ Name: 
+ 
+ Scott Zemnick 
+ 
+   
+ 
+ Title: 
+ 
+ General Counsel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [Signature Page  to Letter Agreement] 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,383 @@
+ htm 53156 Material contracts 10 2017-03-28T16:33:14.367105-05:00 Filing 0001553350-17-000313 2017-03-28 10-K Annual  & Quarterly Reports 0001403676 GelTech Solutions, Inc. GLTC COMMON OTC 3530 Construction, Mining  & Materials Handling No FLORIDA DELAWARE DELAWARE false Small Reporting Company 000-52993 FORM OF INDEMNIFICATION AGREEMENT Exhibit Exhibit 4 gltc_ex10z13.htm EX-10.13 4 gltc_ex10z13.htm FORM OF INDEMNIFICATION AGREEMENT 
+   
+ 
+ EXHIBIT 10.13 
+ 
+ INDEMNIFICATION AGREEMENT 
+ 
+This Indemnification Agreement (the "Agreement") is entered into as of _________, 2017, by and between GelTech Solutions, Inc., a Delaware corporation (the "Company"), and ___________________(the "Indemnitee") and replaces any and all Indemnification Agreements previously entered into between the Parties: 
+ 
+WHEREAS, competent and experienced persons are becoming increasingly reluctant to serve publicly-held corporations as directors, officers, or in other capacities unless they are provided with adequate protection through liability insurance or adequate indemnification against inordinate risks of claims and actions against them arising out of their service to  the corporation; 
+ 
+WHEREAS, the board of directors of the Company (the "Board") has determined that the inability to attract and retain such persons is detrimental to the best interests of the Company's shareholders and that the Company should act to assure such persons that there will be increased certainty of such protection in the future; 
+ 
+WHEREAS, Section 145 of the Delaware General Corporation Law (the "DGCL") empowers the Company to indemnify its officers, directors, employees and agents by agreement and to indemnify persons who serve, at the request of the Company, as directors, officers, employees or agents of other corporations or enterprises; 
+ 
+WHEREAS, it is reasonable, prudent and necessary for the Company contractually to obligate itself to indemnify such persons to the fullest extent permitted by applicable law so that they will serve or continue to serve the Company free from undue concern that they will not be so indemnified; 
+ 
+WHEREAS, the Indemnitee is willing to serve as a director or officer of the Company on the condition that he be so indemnified. 
+ 
+NOW, THEREFORE, in consideration of the premises and the mutual covenants contained herein, the Company and the Indemnitee do hereby covenant and agree as follows: 
+ 
+ 1. 
+ Definitions .  For purposes of this Agreement: 
+ 
+ (a) 
+ "Act" means the Securities Exchange Act of 1934. 
+ 
+ (b) 
+"Beneficial Owner" means (as defined in Rule 13d-3 under the Act), any Person who directly or indirectly, owns securities of the Company representing 10% or more of the combined vo ting power of the Company's then outstanding securities. 
+ 
+ (c) 
+"Change of Control" means a change in control of the Company occurring after the Effective Date of a nature that would be required to be reported in response to Item 5.01 on Form 8-K (or in response to any similar item on any similar schedule or form) promulgated under the Act, whether or not the Company is then subject to such reporting requirement;  provided , 
+ 
+ 
+ 
+   
+ 
+ however, that, without limitation, such a Change of Control shall be deemed to have occurred after the Effective Date if a Person (as defined below) becomes the Beneficial Owner without the prior approval of at least two-thirds of the directors in office immediately prior to such person attaining such percentage; (ii) the Company is a party to a merger, consolidation, sale of assets or other reorganization, or a proxy contest, as a consequence of which members of the Board in office immediately prior to such transaction or event constitute less than a majority of the Board thereafter; or (iii) during any period of two consecutive years, individuals who, at the beginning of such period, constituted the Board (including for this purpose, any new director whose election or nomination for election by the Company's shareholders was approved by a vote of at least two-thirds of the directors then still in office who were directors at the beginning of such period) cease for any reason to constitute at least a majority of the Board. 
+ 
+  (d) 
+"Corporate Status" describes the status of a person who is or was a director, officer, employee, agent or fiduciary of the Company or of any other corporation, partnership, joint venture, trust, employee benefit plan or other enterprise which such person is or was serving at the request of the Company. 
+ 
+ (e) 
+"Disinterested Director" means a director of the Company who is not and was not a party to the Proceeding in respect of which indemnification is sought by the Indemnitee. 
+ 
+ (f) 
+ "Effective Date" means the date first above written. 
+ 
+ (g) 
+"Expenses" shall include all reasonable attorney's fees, retainers, court costs, transcript costs, fees of experts, witness fees, travel expenses, duplicating costs, printing and binding costs, telephone charges, postage, delivery service fees and all other disbursements or expenses of the types customarily incurred in connection with prosecuting, defending, preparing to prosecute or defend, investigating, or being or preparing to be a witness in a Proceeding. 
+ 
+ (h) 
+"Independent Counsel" means a law firm, or a member of a law firm, that is experienced in matters of corporation law and neither presently is, nor in the past five years has been, retained to represent (i) the Company or the Indemnitee in any matter material to either such party, or (ii) any other party to the Proceeding giving rise to a claim for indemnification hereunder.  Notwithstanding the foregoing, the term "Independent Counsel" shall not include any person who, under the applicable standards of professional conduct then prevailing, would have a conflict of interest in representing either the Company or the Indemnitee in an action to determine the Indemnitee's rights under this Agreement. 
+ 
+ (i) 
+"Person" means (as such term is used in Sections 13(d) and 14(d) of the Act) an individual, a partnership, a corporation, a limited liability company, an association, a joint stock company, a trust, a joint venture, an unincorporated organization, or a governmental entity (or any department, agency, or political subdivision thereof). 
+ 
+ (j) 
+"Proceeding" includes any actual or threatened action, suit, arbitration, alternative dispute resolution mechanism, investigation, administrative hearing or any other proceeding whether civil, criminal, administrative or investigative, whether or not initiated prior to the Effective Date, except a proceeding initiated by an Indemnitee pursuant to Section 11  of this Agreement to enforce his rights under this Agreement. 
+ 
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+ 
+ (k) 
+"Standard" shall mean the applicable standard of conduct set forth in Sections 145(a) and (b) of the DGCL. 
+ 
+ 2. 
+ Agreement to Serve.  The Indemnitee agrees to serve as a director or officer of the Company.  The Indemnitee may at any time and for any reason resign from such position (subject to any other contractual obligation or any obligation imposed by operation of law). Similarly, the Company shall have no obligation under this Agreement to continue the Indemnitee in any position wit h the Company. 
+ 
+ 3. 
+ Indemnification - General.  The Company shall indemnify and advance Expenses to the Indemnitee as provided in this Agreement and to the fullest extent permitted by applicable law in effect on the date hereof and to such greater extent as applicable law may thereafter from time to time permit.  However, no indemnification shall be made by the Company (except as ordered by a court) unless a determination has been made in the manner provided for in Section 145(d) of the DGCL and Section 9(b) herein that the Indemnitee has met the applicable Standard.  The rights of the Indemnitee provided under the preceding sentence shall include, but shall not be limited to, the rights set forth in the other sections of this Agreement. 
+ 
+ 4. 
+ Third-Party Actions.  The Indemnitee shall be entitled to the rights of indemnification provided in this Section 4 if, by reason of his Corporate Status, he is, or is threatened to be made, a party to any Proceeding, other than a Proceeding by or in the right of the Company.  Pursuant to this Section 4, the Indemnitee shall be indemnified against Expenses (including attorneys' fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by him in connection with such Proceeding or any claim, issue or matter therein, if (i) he acted in good faith, and in a manner he reasonably believed to be in or not opposed to the Company's best interests; and (ii) with respect to any criminal Proceeding, had no reasonable cause to believe his conduct was unlawful.  The Indemnitee shall not be entitled to indemnification in connection with any Proceeding charging improper personal benefit to the Indemnitee, whether or not involving action in his official capacity, in which he was judged liable on the basis that personal benefit was improperly received by him. 
+ 
+ 5. 
+ Direct and Derivative Actions.  The Indemnitee shall be entitled to the rights of indemnification provided in this Section 5, by reason of his Corporate Status, if he is, or is threatened to be made, a party to any Proceeding brought by a shareholder directly or on behalf of the Company to procure a judgment in its favor.  Pursuant to this Section, the Indemnitee shall be indemnified against Expenses actually and reasonably incurred by him or on his behalf in connection with such Proceeding if he acted in good faith and in a manner he reasonably believed to be in  or not opposed to the best interests of the Company.   Notwithstanding the foregoing, no indemnification against such Expenses shall be made in respect of any claim, issue or matter in such Proceeding as to which the Indemnitee shall have been adjudged to be liable to the Company unless the Delaware Court of Chancery or the court in which such Proceeding was brought shall determine upon application that, despite the adjudication of liability but in view of all of the circumstances of the case, the Indemnitee is fairly and reasonably entitled to indemnification for such Expenses which the Delaware Court of Chancery or  such other court shall deem proper. 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+   
+ 
+The Indemnitee shall not be entitled to the rights of indemnification provided in this Section 5, by reason of his corporate status, if he is, or is threatened to be made, a party  to any Proceeding brought by the Company, or files any claim against the Company in a Proceeding. 
+ 
+ 6. 
+ Indemnification for Expenses of an Indemnitee.  Notwithstanding any other provision of this Agreement, to the extent that the Indemnitee is, by reason of his Corporate Status, a party to and is successful, on the merits or otherwise, in any Proceeding, he shall be indemnified against all Expenses actually and reasonably incurred by him in connection therewith.  If the Indemnitee is not wholly successful in such Proceeding but is successful, on the merits or otherwise, as to one or more but less than all claims, issues or matters in such Proceeding, the Company shall indemnify the Indemnitee against all Expenses actually and reasonably incurred by him or on his behalf in connection with each successfully resolved claim, issue or matter.  For purposes of this Section 6 and without limitation, the termination of any claim, issue or matter in such a Proceeding by dismissal, with or without prejudice, shall be deemed to be a successful  result as to such claim, issue or matter. 
+ 
+ 7. 
+ Indemnification for Expenses of a Witness .   Notwithstanding any other provision of this Agreement, to the extent that the Indemnitee is, by reason of his Corporate Status, a witness in any Proceeding, he shall be indemnified against all Ex penses actually and reasonably incurred by him or on his behalf in connection therewith. 
+ 
+ 8. 
+ Advancement of Expenses.  The Company shall advance all reasonable Expenses incurred by or on behalf of the Indemnitee in connection with any Proceeding within 20 working days after the receipt by the Company of a statement or statements from the Indemnitee requesting such advance or advances from time to time, whether prior to or after final disposition of such Proceeding.  Such statement or statements shall reasonably evidence the Expenses incurred by the Indemnitee including providing detailed invoices from attorneys and other parties (unless an advance retainer) and shall include, be preceded by or accompanied by, as the case may be, the following: (i) a written affirmation of the Indemnitee's good-faith that he has met the Standard; (ii) an undertaking by or on behalf of the Indemnitee to repay any Expenses advanced if it shall be determined that the Indemnitee did not meet the Standard or that the Indemnitee is not entitled to be indemnified against such Expenses; and (iii) a determination that the facts then known to those making the determination would not preclude indemnificati on under the DGCL. 
+ 
+The Indemnitee understands and agrees that the undertaking required by this Section 8(ii) shall be an unlimited general obligation of the Indemnitee. 
+ 
+ 9. 
+ Indemnification Procedure . 
+ 
+ (a) 
+To obtain indemnification under this Agreement, the Indemnitee shall submit to the Company a written request, including therein or therewith such documentation and information as is reasonably available to the Indemnitee and is reasonably necessary to determine whether and to what extent the Indemnitee is entitled to indemnification.  The Secretary of the Company shall, promptly upon receipt of such a request for indemnification, advise the Board in writing that the Indemnitee has requested indemnification. 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+   
+ 
+ (b) 
+Upon written request by the Indemnitee for indemnification pursuant to Section 9(a) hereof, a determination, if required by applicable law, with respect to the Indemnitee's entitlement thereto shall be made (i) by the Board by a majority vote of a quorum consisting of Disinterested Directors; or (ii) if a quorum cannot be obtained or, even if attainable, a quorum of Disinterested Directors so directs, by (a) Independent Counsel in a written opinion; or (b) by the shareholders of the Company.  If it is determined that the Indemnitee is entitled to indemnification, payment to the Indemnitee shall be made within 10 working days after such determination. The Indemnitee shall cooperate with the person, persons or entity making such determination with respect to the Indemnitee's entitlement to indemnification, including providing to such person, persons or entity upon reasonable advance request any documentation or information which is not privileged or otherwise protected from disclosure and which is reasonably available to the Indemnitee and reasonably necessary to su ch determination.   
+ 
+ 10. 
+ Presumptions and Effect of Certain Proceedings . 
+ 
+ (a) 
+If a Change of Control shall have occurred, in making a determination with respect to entitlement to indemnification hereunder, and following the procedures in Section 9, as applicable, it shall be presumed that the Indemnitee is entitled to indemnification under this Agreement if the Indemnitee has submitted a request for indemnification in accordance with Section 9(a) of this Agreement, and the Company shall have the burden of proof to overcome that presumption in connection with the making by any person, persons or entity of any de termination contrary to that presumption. 
+ 
+ (b) 
+If the Indemnitee's right to indemnification shall not have been made within 60 days after receipt by the Company of the request therefor, the requisite determination of entitlement to indemnification shall be deemed to have been made and the Indemnitee shall be entitled to such indemnification, absent (i) a misstatement by the Indemnitee of a material fact, or an omission of a material fact necessary to make the Indemnitee's statement not materially misleading, in connection with the request for indemnification, or (ii) a prohibition of such indemnification under applicable law; provided, however, that such 60-day period may be extended for a reasonable time, not to exceed an additional 30 days, if the person, persons or entity making the determination with respect to entitlement to indemnification in good faith requires such additional time for the obtaining or evaluating of documentation and/or information relating thereto; and provided, further, that the foregoing provisions of Section 10(b) shall not apply (i) if the determination of entitlement to indemnification is to be made by the shareholders pursuant to Section 9(b) of this Agreement and if (A) within 15 days after receipt by the Company of the request for such determination the Board has resolved to submit such determination to the shareholders for their consideration at an annual meeting thereof to be held within 75 days after such receipt and such determination is made thereat, or (B) a special meeting of shareholders is called within 15 days after such receipt for the purpose of making such determination, such meeting is held for such purpose within 60 days after having been so called and such determination is made thereat, or (ii) if the determination of entitlement to indemnification is to be made by In dependent Counsel pursuant to Section 9(b) of this Agreement. 
+ 
+ (c) 
+The termination of any Proceeding or of any claim, issue or matter therein, by judgment, order, settlement, conviction or upon a plea of  nolo contendere or its equivalent, shall not (except as otherwise expressly provided in this Agreement) of itself adversely affect the right of the Indemnitee to indemnification or create a presu mption that the Indemnitee did not act in good 
+ 
+ 
+ 
+ 5 
+ 
+ 
+   
+ 
+faith and in a manner which he reasonably believed to be in or not opposed to the best interests of the Company, and with respect to any criminal Proceeding, that the Indemnitee ha d reasonable cause to believe that his conduct was unlawful. 
+ 
+ 11. 
+ Remedies of the Indemnitee . 
+ 
+ (a) 
+In the event that (i) a determination is made pursuant to Section 9 of this Agreement that the Indemnitee is not entitled to indemnification under this Agreement, (ii) advancement of Expenses is not timely made pursuant to Section 8 of this Agreement, (iii) the determination of entitlement to indemnification is to be made by Independent Counsel pursuant to Section 9(b) of this Agreement and such determination shall not have been made and delivered in a written opinion within 90 days after receipt by the Company of the request for indemnification, (iv) payment of indemnification is not made pursuant to Section 5 of this Agreement within 10 days after receipt by the Company of a written request therefor, or (v) payment of indemnification is not made within 10 days after a determination has been made that the Indemnitee is entitled to indemnification or such determination is deemed to have been made pursuant to Section 9 or 10 of this Agreement, the Indemnitee shall be entitled to an adjudication in an appropriate court of the State of Delaware , or in any other court of competent jurisdiction, of his entitlement to such indemnification or advancement of Expenses.  The Indemnitee shall commence such proceeding seeking an adjudication within 180 days following the date on which the Indemnitee first has the right to commence such proceeding pursuant to this Section 11(a).   
+ 
+ (b) 
+In the event that a determination shall have been made pursuant to Section 9 of this Agreement that the Indemnitee is not entitled to indemnification, any judicial proceeding commenced pursuant to this Section 11 shall be conducted in all respects as a de novo trial on the merits and the Indemnitee shall not be prejudiced by reason of that adverse determination.  If a Change of Control shall have occurred, in any judicial proceeding commenced pursuant to this Section 11, the Company shall have the burden of proving the the Indemnitee  is not entitled to indemnification or advancement of Expenses, as the case may be. 
+ 
+ (c) 
+If a determination shall have been made or deemed to have been made pursuant to Section 9 or 10 of this Agreement that the Indemnitee is entitled to indemnification, the Company shall be bound by such determination in any judicial proceeding commenced pursuant to this Section 11, absent (i) a misstatement by the Indemnitee of a material fact, or an omission of a material fact necessary to make the Indemnitee's statement not materially misleading, in connection with the request for indemnification, or (ii) a prohibition of such indemni fication under applicable law. 
+ 
+ (d) 
+The Company shall be precluded from asserting in any judicial proceeding commenced pursuant to this Section 11 that the procedures and presumptions of this Agreement are not valid, binding and enforceable and shall stipulate in any such court that the Company is bound by all the provisions of this Agreement. 
+ 
+ (e) 
+In the event that the Indemnitee, pursuant to this Section 11, seeks a judicial adjudication to enforce his rights under, or to recover damages for breach of, this Agreement, the Indemnitee shall be entitled to recover from the Company, and shall be indemnified by the Company against, any and all Expenses (of the types described in the definition of Expenses  in 
+ 
+ 
+ 
+ 6 
+ 
+ 
+   
+ 
+Section 1 of this Agreement) actually and reasonably incurred by him in such judicial adjudication, but only if he prevails therein.  If it shall be determined in said judicial adjudication that the Indemnitee is entitled to receive part but not all of the indemnification or advancement of Expenses sought, the Expenses incurred by the Indemnitee in connectio n with such judicial adjudication shall be appropriately prorated. 
+ 
+ 12. 
+ Non-Exclusivity; Survival of Rights; Insurance; Subrogation . 
+ 
+ (a) 
+The rights of indemnification and to receive advancement of Expenses as provided by this Agreement shall not be deemed exclusive of any other rights to which the Indemnitee may at any time be entitled under applicable law, the Certifciate of Incorporation, the Bylaws, any agreement, a vote of shareholders or a resolution of directors, or otherwise.  No amendment, alteration or repeal of this Agreement or any provision hereof shall be effective as to any Indemnitee with respect to any action taken or omitted by such Indemnitee in his C orporate Status prior to such amendment, alteration or repeal. 
+ 
+ (b) 
+To the extent that the Company maintains an insurance policy or policies providing liability insurance for directors, officers, employees, agents or fiduciaries of the Company or of any other corporation, partnership, joint venture, trust, employee benefit plan or other enterprise which such person serves at the request of the Company, the Indemnitee shall be covered by such policy or policies in accordance with its or their terms to the maximum extent of the coverage available for any such director, officer, employee or agent under s uch policy or policies. 
+ 
+ (c) 
+In the event of any payment under this Agreement, the Company shall be subrogated to the extent of such payment to all of the rights of recovery of the Indemnitee, who shall execute all papers required and take all action necessary to secure such rights, including execution of such documents as are necessary to enable the Company to bring suit to enforce suc h rights. 
+ 
+ (d) 
+The Company shall not be liable under this Agreement to make any payment of amounts otherwise indemnifiable hereunder if and to the extent that the Indemnitee has otherwise actuall y received such payment under any insurance policy, contract, agreement or otherwise. 
+ 
+ (e) 
+The Company may, to the full extent authorized by law, create a trust fund, grant a security interest and/or use other means (including, without limitation, letters of credit, surety bonds and other similar arrangements) to ensure the payment of such amounts as may become necessary to effect indemnification provided hereunder. 
+ 
+ 13. 
+ Duration of Agreement.  This Agreement shall continue until and terminate upon the later of:  (a) six years after the date that the Indemnitee shall have ceased to serve as a director, officer, employee, agent or fiduciary of the Company or of any other corporation, partnership, joint venture, trust, employee benefit plan or other enterprise which the Indemnitee served at the request of the Company; or (b) the final termination of all pending Proceedings in respect of which the Indemnitee is granted rights of indemnification or advancement of Expenses hereunder and of any proceeding commenced by the Indemnitee pursuant to Section 11 of this Agreement relating thereto. 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+   
+ 
+ 14. 
+ Exceptions to Indemnification Rights .   Notwithstanding any other provision of this Agreement, except for Indemnification or advancement of Expenses in a Proceeding to enforce or claim therein to enforce the provisions of that Agreement, the Indemnitee shall not be entitled to Indemnification or advancement of Expenses with respect to any Proceeding, or any claim therein, brought or made by him against the Compa ny or the Company against the Indemnitee.   Provided   further that no right of indemnification under the provisions set forth herein shall be available to the Indemnitee unless within 10 days after the later of (i) the filing of or (ii) learning of any such Proceeding he shall have offered the Company in writing the opportunity to handle and defend such Proceeding at its own expense. 
+ 
+ 15. 
+ Gender.  Use of the masculine pronoun shall be deemed to include usage of the feminine pronoun where appropriate. 
+ 
+ 16. 
+ Successors.  Subject to the provisions of this Agreement, this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective legal representatives, succ essors and assigns. 
+ 
+ 17. 
+ Severability.  In the event any parts of this Agreement are found to be void, the remaining provisions of this Agreement shall nevertheless be binding with the same effect as though the void p arts were deleted. 
+ 
+ 18. 
+ Counterparts.  This Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.  Th e execution of this Agreement may be by actual or facsimile signature. 
+ 
+ 19. 
+ Benefit.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their legal representatives, successors and assigns. 
+ 
+ 20. 
+ Notices and Addresses.  All notices, offers, acceptance and any other acts under this Agreement (except payment) shall be in writing, and shall be sufficiently given if delivered to the addressee in pe rson, by Federal Express or similar receipted delivery, or by email delivery as follows: 
+ 
+ The Company: 
+ GelTech Solutions, Inc. 
+ 1460 Park Lane South, Suite 1 
+ Jupiter, FL 33458 
+ Attention: Mr. Michael Hull 
+ Email: mhull@geltechsolutions.com 
+ 
+ with a copy to: 
+ Brian Bernstein, Esq. 
+ Nason, Yeager, Gerson, White & Lioce, P.A. 
+ 3001 PGA Boulevard, Suite 305 
+ Palm Beach Gardens, FL 33410 
+ Email: bbernstein@nasonyeager.com 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+   
+ 
+ To the Indemnitee: 
+ ___________________ 
+ ___________________ 
+ ___________________ 
+ Email: 
+ 
+or to such other address as either of them, by notice to the other may designate from time to time.  Time shall be counted to, or from, as the case may be, the delivery in person o r by mailing. 
+ 
+ 21. 
+ Attorneys' Fees.  In the event that there is any controversy or claim arising out of or relating to this Agreement, or to the interpretation, breach or enforcement thereof, and any action or proceeding relating to this Agreement is filed, the prevailing party shall be entitled to an award by the court of reasonable attorneys' fees, costs and expenses. 
+ 
+ 22. 
+ Oral Evidence.  This Agreement constitutes the entire Agreement between the parties and supersedes all prior oral and written agreements between the parties hereto with respect to the subject matter hereof.  Neither this Agreement nor any provision hereof may be changed, waived, discharged or terminated orally, except by a statement in writing signed by the party or part ies against which enforcement or the change, waiver discharge or termination is sought. 
+ 
+ 23. 
+ Governing Law.  This Agreement and any dispute, disagreement, or issue of construction or interpretation arising hereunder whether relating to its execution, its validity, the obligations provided herein or performance shall be governed or interpreted according to the internal laws of the State of Delaware without regard to choice of law considerations.   
+ 
+ 24. 
+ Arbitration.  Any controversy, dispute or claim arising out of or relating to this Agreement, or its interpretation, application, implementation, breach or enforcement which the parties are unable to resolve by mutual agreement, shall be settled by submission by either party of the controversy, claim or dispute to binding arbitration in Palm Beach County, Florida (unless the parties agree in writing to a different location), before a single arbitrator in accordance with the rules of the American Arbitration Association then in effect.  In any such arbitration proceeding the parties agree to provide all discovery deemed necessary by the arbitrator.  The decision and award made by the arbitrator shall be final, binding and conclusive on all parties hereto for all purposes, and judgment may be entered thereon in any court having jurisdiction thereof. 
+ 
+ 25. 
+ Section or Paragraph Headings.  Section headings herein have been inserted for reference only and shall not be deemed to limit or otherwise affect, in any matter, or be deemed to interpret in whole or in part  any of the terms or provisions of this Agreement. 
+ 
+ [Signature Page To Follow] 
+ 
+ 
+ 
+ 9 
+ 
+ 
+   
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the day and year first above written. 
+ 
+ 
+ 
+   
+ 
+ GELTECH SOLUTIONS, INC.: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+   
+ 
+   
+ 
+   
+ 
+ Michael Hull 
+ 
+   
+ 
+   
+ 
+ Chief Financial Officer 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ INDEMNITEE: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 

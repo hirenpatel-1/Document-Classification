@@ -1,0 +1,136 @@
+ htm 38566 Material contracts 10 2017-03-30T17:00:42.082626-05:00 Filing 0001387131-17-001745 2017-03-30 10-K Annual  & Quarterly Reports 0000887247 Adamis Pharmaceuticals Corp ADMP COMMON Nasdaq Capital Market 2834 Pharmaceutical Preparations No CALIFORNIA DELAWARE DELAWARE CELLEGY PHARMACEUTICALS INC false Small Reporting Company 001-36242 LOAN RELEASE AGREEMENT DATED AS OF NOVEMBER 14, 2016 Exhibit Exhibit 7 ex10-65.htm EX-10.65 7 ex10-65.htm LOAN RELEASE AGREEMENT DATED AS OF NOVEMBER 14, 2016 
+ 
+ 
+   
+ 
+ 
+ ADAMIS PHARMACEUTICALS CORPORATION 10-K 
+   
+   
+ Exhibit 10.65 
+   
+ LOAN RELEASE AGREEMENT 
+    
+THIS LOAN RELEASE AGREEMENT (this "Agreement") is made and entered into as of November 14, 2016 (the "Agreement Date"), by and among  4 HIMS, LLC , an Arkansas limited liability company ("4 HIMS"),  TRIBUTE LABS, LLC , a Nevada limited liability  company ("Tribute"),  U.S. COMPOUNDING, INC. , an Arkansas corporation ("USC");  EDDIE   GLOVER , an individual;  WILLIAM L. SPARKS , an individual;  SAM GLOVER , an  individual;  RUSTY WOOTEN , an individual;  STUART BURKE , an individual; and  KRISTEN RIDDLE , an individual (collectively, the "Individual Guarantors");  ADAMIS   PHARMACEUTICALS CORPORATION , a Delaware corporation ("Adamis"); and  BEAR STATE BANK ,  INC. , a national banking association ("Bank"). 
+   
+ BACKGROUND 
+   
+A.        Pursuant to that certain Business Loan Agreement (as modified, amended or supplemented, the " 4 HIMS Loan Agreement") dated as of August 8, 2014, entered into by and between 4 HIMS, as borrower, and Bank, as lender, Bank agreed to make a loan, Loan No. 5500000152 (the " 4 HIMS Loan") to 4 HIMS in the initial principal amount of up to Two Million Five Hundred Eight-Six Thousand Eight Hundred Ninety-Two and 09/100 Dollars ($2,586,892.09). The 4 HIMS Loan is ev idenced by that certain Commercial Promissory Note (as modified, amended or supplemented, the " 4 HIMS Note") dated as of August 8, 2014, executed by 4 HIMS in favor of Bank. The 4 HIMS Note is secured by, among other things, that certain Commercial Real Estate Mortgage (as modified, am ended or supplemented, the " 4 HIMS Mortgage") dated as of August 8, 2014, executed by 4 RIMS in favor of Bank and recorded in the Official Records of Faulkner County as Doc #2014-11418, encumbering certain real property more particularly described in the 4 HIMS Mortgage. In connection with the 4 HIMS Loan, 4 HIMS also entered into certain other agreements and instruments, (the 4 HIMS Loan Agreement, the 4 HIMS Note, the 4 HIMS Mortgage, the 4 HIMS Guaranties and all other documents executed in connection with the 4 HIMS Loan, all as previously modified, amended or supplemented , collectively referred herein as the " 4 HIMS Loan Documents"). Certain of the Individual Guarantors and USC guaranteed repayment of the 4 HIMS Loan pursuant to those certain documents each titled Guaranty of Specific Transaction (such guaranties by the Individual Guarantors and USC, as may be modified, amended or supplemented, referred to as the " 4 HIMS Guaranties ") dated as of August 8, 2014, entered into by each of them for the benefit of Bank. 
+   
+B.        Pursuant to that certain Business Loan Agreement (as modified, amended or supplemented, the " Tribute Loan Agreement") dated as of March 21, 2014, entered into by and between Tribute, as borrower, and Bank, as lender, Bank agreed to make a loan, Loan No. 55000024132 (the " Tribute Loan") to Tribute in the initial principal amount of Five Hundred Eighteen Thousand Two Hundred Thirty-Three and 24/100 United States Dollars ($518,233.24). The Tribute Loan is evidenc ed by that certain Commercial Promissory Note (as modified, amended or supplemented, the " Tribute Note") dated as of March 21, 2014, executed by Tribute in favor of Bank (the Tribute Loan Agreement, the Tribute Note, the Tribute Guaranties and all other documents executed in connection with the Tribute Loan, all as previously modified, amended or supplemented, collectively referred herein as the " Tribute Loan Documents"). Certain of the Individual Guarantors guaranteed repayment of the Tribute Loan pursuant to those certain documents titled Guaranty of Specific Transaction (such guaranties by th e Individual Guarantors, as may be modified, amended or supplemented, referred to as the " Tribute Guaranties ") dated as of March 21, 2014, entered into by each of them for the benefit of Bank. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+C.        Pursuant to that certain Business Loan Agreement (as modified, amended or supplemented, the " USC Equipment Loan Agreement") dated as of July 14, 2014, entered into by and between USC, as borrower, and Bank, as lender (the " USC Equipment Loan") Bank agreed to make a loan to USC in the initial principal amount of One Million and No 100 Dollars ($1,000,000.00). The USC Equipment Loan is evidenced by that certain Commerci al Line of Credit Renewal Agreement and Note (as modified, amended or supplemented, the " USC Equipment Note") dated as of July 14, 2014, executed by USC in favor of Bank. The USC Equipment Loan is secured by, among other things, a first priority security interest in all equipment of USC , pursuant to that certain Commercial Security Agreement between USC and the Bank (the " USC Equipment Security Agreement") (the collateral referenced in the USC Equipment Security Agreement and any other real or personal property, if any, securing the USC Equipment Loan collectively referred to here in as the  USC Equipment Property"). In connection with the USC Equipment Loan, USC also entered into certain other agreements and instruments, (the USC Equipment Loan Agreement, the USC Equipment Note and all other documents executed in connection with the USC Equipment Loan, all as previously modified, amended or supplemented, collectively referred herein as the " USC Equipment Loan Documents"). Certain of the Individual Guarantors guaranteed repayment of the USC Working Capital Loan pursuant to those certain documents titled Guaranty of Specific Transaction (such guarantees by such Individual Guarantors, as may be modified, amended or supplemented, referred to as the " USC Equipment Guarantees ") dated as of July 14, 2014, entered into by each of them for the benefit of Bank. 
+   
+D.        For purposes of this Agreement, the 4 HIMS Loan, the USC Equipment Loan and the Tribute Loan are collectively hereinafter referred to as the " Loans" and the 4 HIMS Loan Documents and the Tribute Loan Documents are collectively hereinafter referred to as the " Loan Documents ." 
+   
+ E.        Adamis has entered into a merger transaction with USC (the " Merger "), pursuant to that certain Agreement and Plan of Merger dated as of March 28, 2016 (the " Merger Agreement"). In connection with the Merger Agreement, Tribute has previously transferred certain property, including without limitation all property of Tribute which is collateral and security for the Tribute Loan, to USC. Therefore, in connection with the Merger and effective as of the closing of the transfer of the real property secured by the 4 HIMS Mortgage from 4 HIMS to Adamis (the "Real Property Transfer"), as contemplated by the Merger Agreement, the Bank wishes to release 4 HIMS, Tribute and the Individual Guarantors from their respec tive obligations under the Loans and the Loan Documents. 
+   
+ AGREEMENT 
+    
+NOW, THEREFORE, in consideration of the mutual benefits accruing to the parties hereto and other valuable consideration, the receipt and sufficiency of which are hereby acknowledge d, the parties hereto hereby agree as follows: 
+   
+ 1.        Release . 
+    
+  (a)       Effective upon the closing of the Real Property Transfer, the Bank does hereby fully, completely, unconditionally, irrevocably, jointly and severally release 4 HIMS, Tribute and each of the Individual Guarantors from any obligations, liabilities, causes of action, judgments, executions, suits, debts, claims, demands, damages, and expenses of any and every kind or nature, whether heretofore or hereafter arising, for or because of any matter or thing done, omitted, or suffered to be done by 4 HIMS, Tribute or any of the Individual Guarantors prior to and including the date of execution hereof, and in any way directly or indirectly arising out of or in any way connected to the Loans or the Loan Documen ts. 
+   
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+  (b)       4  HIMS, Tribute and the Individual Guarantors unconditionally, irrevocably, jointly and severally release the Bank, its respective past, present or future affiliates, subsidiaries, holding company, owners, officers, directors, shareholders, employees, agents, independent contractors, attorneys, or other persons or entities employed or engaged by or affiliated with the Bank, in addition to any purchaser of all or a portion of any of the Loans and current or future owners of participation in the Loans (collectively, the "Released Parties") (whether signatory hereto or not, and if not a party to this Agreement, being an intended (and not incidental) third party beneficiary hereof) from any causes of action, judgments, executions, suits, debts, claims, demands, liabilities, obligations, damages, and expenses of any and every kind or nature, whether heretofore or hereafter arising, for or because of any matter or thing done, omitted, or suffered to be done by any of the Released Parties prior to and including the date of execution hereof, and in any way directly or indirectly arising out of or in any way connected to this Agreement, the Loans and the Loan Documents. The provisions of this Section 1 (b) and the remainder of this Agreement shall inure to the Bank and also run in favor of and inure to the maximum extent permitted by law to intended (and not incidental) third-party beneficiaries, which 4 HIMS, Tr ibute and the Individual Guarantors agree shall include, without limitation, the Released Parties. 
+   
+ 2.         No Impairment; Forbearance Not a Waiver. Except as expressly set forth in this Agreement, the terms and provisions set forth in the Loan Documents, all of which are incorporated herein, are unmodified and shall remain in full force and effect as between the Bank, Adamis and USC, such parties hereby ratifying and confirming such terms and provisions and this Agreement shall not be deemed to or shall in any manner prejudice or impair, or act as a release or relinquishment of, any of the Loan Documents or any rights of the Bank under the Loan Documents, or any lien, security interest or assignment granted to or held by the Bank in connection with the Loans. The execution of this Agreement by the Bank does not constitute a waiver, limitation, or modification of any of the Bank's rights or remedies under the Loan Documents or applicable law, all of which Bank hereby expressly reserves, nor shall the same constitute a waiver of any default which may have heretofore occurred or which may hereafter occur with respect to the Loan Documents. No omission or failure by the Bank to exercise, and no delay in exercising, any right or remedy hereunder or under the Loan Documents executed in connection herewith shall operate as a waiver of any right or remedy, which the Bank may have hereunder or under any applicable law. All rights and remedies shall be cumulative and may be exercised concurrently or consecutively. No single or partial exercise by the Bank of any right o r remedy shall preclude the concurrent or subsequent exercise of any right or remedy. 
+   
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+ 3.           General Provisions . 
+     
+ 3.1        Continuing Force and Effect. Except as modified hereby, all of the terms and provisions of the Loan Documents will remain in full force and effect. 
+   
+ 3.2         Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto as well as their respective heirs, executors, administrators, successors and permitted assigns . 
+   
+ 3.3         Governing Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of the State of Arkansas, without reference to conflicts of laws principles. 
+   
+ 3.4         Entire Agreement. This Agreement constitutes the entire understanding between the parties hereto with respect to the subject matter hereof, superseding all prior written or oral understandings or communications. This Agreement may not be amended or modified, except by a written agreement signed by each of the parties hereto (with such applicability determined under each of  the Loan Documents) and Bank. 
+   
+ 3.5        Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute but one and the same document. 
+    
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+   
+ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Agreement Date. 
+   
+     4 HIMS :         4 HIMS, LLC,     an Arkansas limited liability company       By:     [Signature]             Eddie Glover     [Print Name]           Partner     [Title]         TRIBUTE :         TRIBUTE LABS, LLC,     a Nevada limited liability company       By:     [Signature]            Eddie Glover     [Print Name]           Partner     [Title]         USC :         U.S. COMPOUNDING, INC.,     an Arkansas corporation       By:     [Signature]            Eddie Glover     [Print Name]           CEO     [Title] 
+   
+ [INDIVIDUAL GUARANTORS SIGNATURE PAGE FOLLOWS] 
+    
+ 
+ 
+ 5   
+ 
+ 
+   
+ 
+ 
+   
+     INDIVIDUAL GUARANTORS :                 EDDIE GLOVER , an individual                 WILLIAM L. SPARKS , an individual                 KRISTEN RIDDLE , an individual                 SAM GLOVER , an individual                 RUSTY WOOTEN , an individual                 STUART BURKE , an individual 
+   
+ [ADAMIS SIGNATURE PAGE FOLLOWS] 
+   
+ 
+ 
+ 6   
+ 
+ 
+   
+ 
+ 
+    
+   ADAMIS :         ADAMIS PHARMACEUTICALS CORPORATION,     a Delaware corporation       By:     [Signature]             Robert O. Hopkins     [Print Name]           CFO     [Title] 
+   
+ [BANK SIGNATURE PAGE FOLLOWS] 
+   
+ 
+ 
+ 7   
+ 
+ 
+   
+ 
+ 
+   
+   
+   BANK :         BEAR STATE BANK, INC,     a national banking association       By: /s/  Steve Moore     [Signature]             Steve Moore     [Print Name]           Executive Vice President     [Title] 
+   
+ 
+ 
+ 8   
+ 
+ 

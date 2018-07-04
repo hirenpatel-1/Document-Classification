@@ -1,0 +1,678 @@
+ htm 122953 Material contracts 10 2017-03-29T15:32:11.629086-05:00 Filing 0001387131-17-001719 2017-03-29 10-K Annual  & Quarterly Reports 0001449792 PIONEER POWER SOLUTIONS, INC. PPSI COM Nasdaq Capital Market 3612 No NEW JERSEY DELAWARE DELAWARE SIERRA CONCEPTS, INC.;SIERRA CONCEPTS false Small Reporting Company 001-35212 FIRST AMENDING AGREEMENT Exhibit Exhibit 4 ex10-57.htm EX-10.57 4 ex10-57.htm FIRST AMENDING AGREEMENT 
+ 
+ 
+   
+ 
+ 
+ Pioneer Power Solutions, Inc. 10-K 
+   
+ EXHIBIT 10.57 
+   
+ FIRST AMENDING AGREEMENT 
+ This First Amending Agreement is entered into as of March 15, 2017, by and among  Pioneer Electrogroup Canada Inc. , a Canadian corporation (the  " Borrower " ),  Pioneer Power Solutions, Inc.  (" PPSI") and the direct and indirect Canadian Subsidiaries of the Borrower or of PPSI from time to time party to the Credit Agreement, as Guarantors (the " Guarantors "), and  Bank of Montreal,  a Canadian chartered bank (the " Bank "). 
+ Preliminary Statement 
+ WHEREAS the Bank made credit facilities available to the Borrower on the terms and conditions set out in an Amended and Restated Credit Agreement dated as of April 29, 2016 entered into am ong the Borrower, the Guarantors and the Bank (as amended, the "Existing Credit Agreement"); 
+ WHEREAS the parties to the Existing Credit Agreement have agreed to amend the Credit Agreement in the manner set forth herein in order to, among other things, increase the amount of the R evolving Facility and amend certain other provisions contained in the Existing Credit Agreement. 
+ NOW THEREFORE, in consideration of the premises and of the mutual covenants herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are acknowledge d, the parties covenant and agree with each other as follows: 
+ Section 1 
+INTERPRETATION 
+ 1.1        
+Capitalized terms defined in the Existing Credit Agreement have the same meanings in this First Amending Agreement unless otherwise defined herein or the context expressly or by ne cessary implication requires otherwise. This First Amending Agreement is referenced herein as the " First Amending Agreement". For greater certainty, this First Amending Agreement amends the Existing Credit Agreement and the term " Agreement", as defined in the Existing Credit Agreement, includes (unless the context expressly or by necessary implication requires otherwise) this First Amending Agreement to the extent o f such amendments. 
+ 1.2        
+The insertion of headings in this First Amending Agreement is for convenience of reference only and shall not affect the interpretation of this First Amending Agreement. 
+ Section 2 
+AMENDMENTS - Definitions 
+ 2.1        
+ Section 1.1.17 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ " 1.1.17 
+ "Borrowing Base "  means, as of any time it is to be determined, the sum of: 
+ (a)        
+ 80% of the then outstanding unpaid amount of Eligible Receivables;  plus 
+ (b)        
+the lesser of (i) CDN$6,000,000 and (ii) 50% of the value (computed at the lower of market or cost using the first-in/first-out method of inventory valuation applied in accordance  with GAAP) of Eligible Inventory;  less 
+ (c)        
+ the Prior Claims; 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 2 
+ provided that (i) the Bank shall have the right upon five (5) Business Days' prior notice to the Borrower to reduce the advance rates against Eligible Receivables and Eligible Inventory in its Permitted Discretion based on results from any field audit or appraisal of the Collateral and (ii) the Borrowing Base shall be computed only as against and on so much of such Collateral as is included on the Borrowing Base Certificates furnished from time to time by the Borrower pursuant to this Agreement and, if required by the Bank pursuant to any of the terms hereof or any Collateral Document, as verified by such other evidence reasonably required to be furnished to the Bank pursuant hereto or pursuant to any such Collateral D ocument." 
+ 2.2        
+ Section 1.1.44 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ " 1.1.44 
+ " EBITDA " means, with reference to any period, Net Income for such period  plus all amounts deducted in arriving at such Net Income amount in respect of (a) Interest Expense for such period, (b) federal, state, and local income tax expenses for such period, (c) depreciation of fixed assets and amortization (including, but not limited to, the amortization of any employee stock option (or similar) compensation plan) of (and other charges with respect to) intangible assets for such period, and (d) extraordinary fees or expenses not to exceed (i) US$2,000,000 for the applicable periods set forth in Section 8.20(b) ending on or prior to December 31, 2017 and (ii) US$1,200,000 during any twelve month period thereafter, in each case including any fees and expenses paid by any Loan Party during such period in connection with this Agreement and the consummation of any Permitted Acquisition as defined and under the US Credit Agreement." 
+ 2.3        
+Section 1.1.46(k) of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ "(k) 
+does not cause the amount of Eligible Inventory constituting work-in-process to exceed CDN$4,000,000" 
+ 2.4        
+ Section 1.1.110 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ " 1.1.110 
+ " Revolving Credit Termination Date" means the date demand for payment of the Revolving Loans and cash collateralization of the Letters of Credit is made by the Bank but if no such demand is sooner made, July 31, 2018, or such earlier date on which the Revolving Credit Line is terminated in whole pursuant to pursuant to Sections 2.14, 9.2 or 9.3." 
+ 2.5        
+ Section 1.1.119 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ " 1.1.119 
+ " Term Loan A Maturity Date" means the earlier of (i) April 30, 2018 and (ii) the date on which the Term Loan A is terminated in whole pursuant to Section 9.2 or 9.3." 
+ 2.6        
+ Section 1.1.122 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ " 1.1.122 
+ " Term Loan B Maturity Date" means the earlier of (i) July 31, 2018 and (ii) the date on which the Term Loan B is terminated in whole pursuant to Section 9.2 or 9.3." 
+ Section 3 
+amendments - COVENANTS 
+ 3.1        
+The first sentence of Section 2.1 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ "2.1 
+ Revolving Facility; Revolving Credit Line. 
+Subject to the terms and conditions hereof, the Borrower may request and the Bank shall consider in its discretion making a loan or loans (individually a " Revolving Loan " and collectively, the " Revolving Loans") in Canadian Dollars to the Borrower from time to time on a revolving basis up to $8,000,000 or the U.S. Dollar Equivalent, subject to any reductions thereof pursuant to the term s hereof, before the Revolving Credit Termination Date."  
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 3 
+ 3.2        
+ Section 2.2 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ "2.2 
+ Term Loan Facility A. 
+ Subject to the terms and conditions hereof, the Bank agrees to make loans (the  " Term Loan A ") in Canadian Dollars to the Borrower in the initial amount of CDN$2,000,000 with an outstanding amount of CDN$235,644.32 as at March 2, 2017. The Term Loan A has been advanced in one Borrowing on or about May 2, 2011. As provided in Section 2.8(a), the Borrower may elect that the Term Loan A be outstanding as Prime Rate Loans. No amount repaid or prepaid on  the Term Loan A may be borrowed again." 
+ 3.3        
+ Section 2.3 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ "2.3 
+ Term Loan Facility B. 
+ Subject to the terms and conditions hereof, the Bank agrees to make loans (the  " Term Loan B ") in Canadian Dollars to the Borrower in the initial amount of CDN$10,000,000 or the U.S. Dollar Equivalent with an outstanding amount of US$568,000.00 as at March 2, 2017. The Term Loan B has been advanced in four Borrowings namely, in June 30, 2011 (CDN$6,500,000), June 30, 2011 (US$1,600,000), April 16, 2013 (US$1,400,000) and March 8, 2013 (CDN$166,837). As provided in Section 2.8(a), the Borrower may elect that the Term Loan B be outstanding as Prime Rate Loans, US Base Rate Loans or LIBOR Loans. No amount repaid or prepaid on th e Term Loan B may be borrowed again." 
+ 3.4        
+ Section 2.10 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ "2.10 
+ Maturity of Loans. 
+ (a)        
+ Revolving Loans. Each Revolving Loan, both for principal and interest not sooner paid, shall mature and be due and payable by the Borrower on demand. The Revolving Credit Facility shall be repaid  in full on the Revolving Credit Termination Date. 
+ (b)        
+ Scheduled Payments of Term Loan A. The Borrower shall make principal payments on the Term Loan A in installments on the last day of each January, April, July and October in each year, commencing with the calendar quarter ending July 31, 2011, with the amount of each such principal installment, as of the Effective Date to equal to the fixed amount set forth in Column B below shown opposite of  the relevant due date as set forth in Column A below: 
+   
+ Column A 
+ Payment Date 
+ 
+ Column B 
+ Fixed amount in CDN Dollars 
+   04/30/17 $47,128.88   07/31/17 $47,128.88   10/31/17 $47,128.88   01/31/18 $47,128.88   04/30/18 (Term Loan A Maturity Date) $47,128.80 
+, with a final payment of all principal and interest not sooner paid on the Term Loan A due and payable on the Term Loan A Maturity Date. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 4  
+ (c)        
+ Scheduled Payments of Term Loan B. The Borrower shall make principal payments on the Term Loan B in installments on the last day of each January, April, July and October in each year, commencing with the calendar quarter ending December 31, 2012, with the amount of each such principal installment, as of the Effective Date to equal to the fixed amount set forth in Column B below shown opposit e of the relevant due date as set forth in Column A below: 
+   
+ Column A 
+ Payment Date 
+ 
+ Column B 
+ Fixed amount in US Dollars 
+   04/30/17 $36,000   07/31/17 $36,000   10/31/17 $36,000   01/31/18 $36,000   
+ 04/30/18 
+ 07/31/18 (Term Loan B Maturity Date) 
+ 
+ $36,000 
+ $36,000 and bullet payment of $352,000 
+       
+, with a final payment of all principal and interest not sooner paid on the Term Loan B due and payable on the Term Loan B Maturity Date." 
+ 3.5        
+Sections 8.5 (b), (c), (e), (f), (i) and (m) of the Existing Credit Agreement are hereby deleted and replaced with the following: 
+ (b)        
+"as soon as available and in any event no later than 30 days after the last day of each of the first two fiscal months of each fiscal quarter of the Borrower and PPSI, a copy of the consolidating balance sheet of (i) PPSI and its non-Canadian Subsidiaries and (ii) the Borrower and its Subsidiaries, each as of the last day of such fiscal month and the consolidating statements of income, retained earnings and cash flows of (i) PPSI and its non-Canadian Subsidiaries and (ii) the Borrower and its Subsidiaries, each for the fiscal month then ended, each in reasonable detail showing in comparative form the figures for the corresponding date and period in the previous fiscal year, prepared by the Borrower or PPSI in accordance with GAAP and PCAOB standards (subject to the absence of footnote disclosures and year-end audit adjustments) and certified to by a Financial Officer of the Borrower or P PSI, as applicable;" 
+ (c)        
+"as soon as available, and in any event no later than 45 days after the last day of the first three fiscal quarters of each fiscal year of the Borrower and PPSI, (x) a copy of the consolidating balance sheet of (i) PPSI and its non-Canadian Subsidiaries and (ii) the Borrower and its Subsidiaries, and (y) a copy of the consolidated and consolidating balance sheet of PPSI and its Subsidiaries, as at the last day of such fiscal quarter and (x) consolidating statements of income, retained earnings and cash flows of (i) PPSI and its non-Canadian Subsidiaries and (ii) the Borrower and its Subsidiaries, and (y) the consolidated and consolidating statements of income, retained earnings and cash flows of PPSI and its Subsidiaries, each for the fiscal quarter and for the fiscal year-to-date period then ended, each in reasonable detail showing in comparative form the figures for the corresponding date and period in the previous fiscal year, prepared by the Borrower or PPSI in accordance with GAAP and PCAOB standards (subject to the absence of footnote disclosures and year-end audit adjustments) and certified to by a Financial Officer of the Borrower or PPSI, as applicable;" 
+ (e)        
+ "Deleted." 
+ (f)        
+ "Deleted." 
+ (i)        
+"as soon as available, and in any event no later than 30 days prior to the end of each fiscal year of the Borrower (and for fiscal year 2017, on or before February 28, 2018), a copy of the consolidated and consolidating business plan for the Borrower and its Subsidiaries for following fiscal year, such business plan to show the projected consolidated and consolidating revenues, expenses and balance sheet of the Borrower on a quarter-by-quarter basis, such business plan to be in reasonable detail prepared by the Borrower and in form satisfactory to the Bank (which shall include a summary of all assumptions made in preparing such business plan);" 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 5 
+ (m)        
+ "Deleted." 
+ 3.6        
+ Section 8.20 of the Existing Credit Agreement is hereby deleted and replaced with the following: 
+ "8.20 
+ Financial Covenants. 
+ (a)        
+ Current Ratio. As of the last day of each fiscal quarter of PPSI, PPSI shall maintain a Current Ratio of not less than the corresponding ratio set forth opposite such determination date below: 
+   
+   Fiscal Quarter Ending on or about 
+ Current Ratio shall 
+ not be less than: 
+         03/31/17 and each fiscal quarter thereafter 1.10 to 1.0       
+ (b)        
+ EBITDA. PPSI shall not permit its EBITDA, on a consolidated basis, for the four (4) consecutive fiscal quarters of PPSI then most recently completed, determined on the last day of each fiscal quarter of PPSI to be less than the applicable amount set forth opposite such determination date below in the "Minimum EBITDA Covenant Level" column: 
+   Fiscal Quarter Ending on or about Budgeted Minimum EBITDA Minimum EBITDA Covenant Level           3/31/17 and each fiscal quarter thereafter US$7,200,000 US $5,760,000 
+   
+ (c)        
+ Tangible Net Worth. As of the last day of each fiscal quarter of PPSI, PPSI shall maintain, on a consolidated basis, a Tangible Net Worth of not less than the corresponding amount set forth opposite  such determination date below in the "Minimum Tangible Net Worth" column: 
+   Period(s) Ending Budgeted Tangible Net Worth shall not be less than: Minimum Tangible Net Worth shall not be less than:   3/31/17 and at all times thereafter US$7,900,000 US$6,715,000 
+Notwithstanding the foregoing, it being acknowledged and agreed that the failure by PPSI to comply with the minimum Tangible Net Worth covenant levels set forth above shall not constitute an Event of Default hereunder so long as the Tangible Net Worth of PPSI shall be no less than 85% of the applicable amounts set forth opposite the applicable determination  dates above." 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 6 
+ 3.7        
+ Exhibit C of the Existing Credit Agreement ( Borrowing Base Certificate ) is hereby deleted and replaced by the attached Schedule A. 
+ 3.8        
+ Schedule I to Exhibit D of the Existing Credit Agreement ( Compliance Certificate ) is hereby deleted and replaced by the attached Schedule B. 
+ Section 4 
+Fees 
+ 4.1        
+ The Borrower shall pay to the Bank an amendment fee of $15,000 (the " Amendment Fee"), which shall be fully earned at the execution of this First Amending Agreement and be payable no later than the date of this First Amending Agreement. 
+ Section 5 
+limited waivers 
+ 5.1        
+PPSI has failed to comply, as of the last day of its fiscal year ended December 31, 2016, with the Current Ratio requirements set forth in Section 8.20(a) of the Existing Credit Ag reement (the " Existing 2016 Default"). The Borrower has requested that the Bank permanently waive the Existing 2016 Default. Subject to the satisfaction of the conditions precedent set forth in Section 6 below, the Bank hereby permanently waives the Existing 2016 Default. This waiver is limited to the matters and time periods expressly stated herein. Except as specifically waived hereby, all of the terms and conditions of the Existing Credit Agreement, as amended by this First Amending Agreement, shall stand and remain in full force and effect. 
+ Section 6 
+CONDITIONS PRECEDENT 
+ 6.1        
+The effectiveness of this First Amending Agreement is subject to and conditional upon the satisfaction of the following conditions and the delivery by the Bank to the Borrower of a  written notice that this First Amending Agreement is then effective: 
+ (a)        
+the Bank shall have received sufficient copies, in form and substance satisfactory to the Bank, of the following: 
+ (i)        
+ this First Amending Agreement duly executed by all of the parties hereto; 
+ (ii)        
+copies (executed or certified, as may be appropriate) of all legal documents or proceedings (corporate or otherwise) taken in connection with the execution and delivery of this First Amending Agreement and the other Loan Documents to the extent the Bank or its counsel may reasonably request; 
+ (iii)        
+copies of the Borrower's and each Guarantor's articles of incorporation and bylaws (or comparable organizational documents) and any amendments thereto, or a satisfactory confirmation that there have been no changes to such documents since their last delivery to the Bank, certified in each instance by its Secretary or Assistant Secretary; 
+ (iv)        
+copies of resolutions of the Borrower's and each Guarantor's board of directors (or similar governing body) authorizing the execution, delivery and performance of this First Amending Agreement and the other Loan Documents to which it is a party and the consummation of the transactions contemplated hereby and thereby, together with specimen signatures of the persons authorized to execute such documents on the Borrower's and each Guarantor's behalf, all certified in each instance by its Secretary or Assistant Secretary; 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 7 
+   
+ (v)        
+copies of the certificates of good standing (or equivalent) for the Borrower and each Guarantor from the office of the relevant Governmental Authority in its jurisdiction of incorporation or organization and of each jurisdiction in which it is qualified to do business as an extra-provincial corporation or a foreign corporation or organization; 
+ (vi)        
+lien search results against each Loan Party evidencing the absence of Liens thereon except as permitted by Section 8.8 of the Existing Credit Agreement; 
+ (i)        
+confirmation that all conditions precedent for the amendment of the U.S. Credit Agreement have been met to the satisfaction of the Bank and its legal counsel; and 
+ (ii)        
+ such other documents as the Bank may reasonably request; 
+ (b)        
+legal matters incident to the execution and delivery of this First Amending Agreement and the other Loan Documents and to the transactions contemplated hereby shall be satisfactory  to the Bank and its counsel; 
+ (c)        
+after giving effect to Section 5 of this First Amending Agreement, no Default or Event of Default shall have occurred and be continuing; and 
+ (d)        
+all fees payable in accordance with this First Amending Agreement (including without limitation payment to the Bank of the Amendment Fee) on or before the date of this First Amendi ng Agreement (including legal fees and expenses of the Bank) shall have been paid to the Bank. 
+ 6.2        
+The conditions stated in Section 6.1 are inserted for the sole benefit of the Bank and the conditions stated therein may only be waived by the Bank, in whole or in part, with or wi thout terms or conditions. 
+ Section 7 
+GENERAL 
+ 7.1        
+ This  First Amending Agreement is executed under express reserve of the obligations contained in the Existing Credit Agreement and of all other rights subsisting in favour of the Bank under the Existing Credit Agreement insofar as they are not inconsistent with these presents and without novation of any kind or derogation from the rank or priority thereof. 
+ 7.2        
+In all other respects, the parties recognize that the Existing Credit Agreement and the other Loan Documents remain unchanged and each of them confirms and reiterates, as of the da te of this  First Amending Agreement, each and every of their respective representations and warranties, covenants, undertakings and obligations under the Existing Credit Agreement, as hereby amended, and the other Loa n Documents. 
+ 7.3        
+The Borrower and each Guarantor hereby recognizes that all security granted to the Bank pursuant to the Existing Credit Agreement, the Loan Documents or otherwise remains unchanged and confirms that such security (including, without limitation, the security described in Schedule 1.1.113 of the Existing Credit Agreement) remains available and in full force and effect to secure the indebtedness, liabilities and obligations of the Borrower and each Guarantor to the Bank pursuant to the Existing Credit Agreement, as hereby amended, and the other Loan Documents. For greater certainty, the Borrower and each Guarantor hereby (i) ratifies and reaffirms all of its payment and performance obligations, contingent or otherwise, under each of the Loan Documents to which it is a party (after giving effect hereto) and (ii) ratifies and reaffirms that such grant of hypothecs, security interests and Liens and confirms and agrees that such security interests and Liens hereafter secure all of the Obligations as amended hereby. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 8 
+ 7.4        
+The Borrower shall pay all legal fees and disbursements incurred by the Bank in connection, directly or indirectly, to the subject-matter of this  First Amending Agreement , including without limitation, the preparation, negotiation, execution and carrying out of this  First Amending Agreement  and the documents contemplated thereby. 
+ 7.5        
+This First Amending Agreement may be executed and delivered in any number of counterparts, each of which when executed and delivered is an original but all of which taken together constitute one and the same instrument. This First Amending Agreement may be executed and delivered by facsimile transmission or PDF and each of the parties hereto may rely on such facsimile signature or PDF as though that facsimile signature or PDF were an original hand-written signature. 
+ 7.6        
+ This  First Amending Agreement shall be governed by and construed in accordance with the laws of the Province of QuÃ©bec and the laws of Canada applicable therein. 
+ 7.7        
+ The parties hereto have required that this  First Amending Agreement  be drawn up in the English language. Les parties aux prÃ©sentes ont exigÃ© que la prÃ©sente convention soit rÃ©digÃ©e en langue anglaise. 
+ [SIGNATURE PAGE FOLLOWS] 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ - S9 - 
+ IN WITNESS WHEREOF the parties hereto have caused this First Amending Agreement to be executed by their respective officers thereunto duly authorized, as of the date first above written. 
+   Pioneer ELECTROGROUP CANADA Inc. , as Borrower           By: /s/  Nathan Mazurek     Name:  Nathan Mazurek     Title:  CEO   I/we have authority to bind the corporation           Pioneer power solutions, inc. , as  Guarantor           By: /s/  Nathan Mazurek     Name:  Nathan Mazurek     Title:  CEO   I/we have authority to bind the corporation                 BANK OF MONTREAL           By: /s/ Doreen Peters     Name: Doreen Peters     Title: Account Manager       By: /s/ Jean Belcourt       Name: Jean Belcourt     Title: Account Manager   I/we have authority to bind the bank 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ SCHEDULE A 
+ See attached 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+   
+ EXHIBIT C 
+ PIONEER ELECTROGROUP CANADA INC. 
+ Borrowing Base Certificate 
+ As of ___________________ _____, _______ 
+ To: Bank of Montreal, as lender under the Credit Agreement described below 
+Pursuant to the terms of the Amended and Restated Credit Agreement dated as of April 29, 2016, among us, as amended by the First Amending Agreement dated as of March 15, 2017 (as f urther extended, renewed, amended or restated from time to time, the  " Credit Agreement "), we submit this Borrowing Base Certificate to you and certify that the information set forth below and on any attachments to this Certificate is true, correct and complete as of  the date of this Certificate. 
+ A.        
+ Receivables in Borrowing Base 
+ 
+ 1.        
+ Gross Receivables 
+   
+ 
+   
+ 
+ Less     
+ (a)        
+ Ineligible sales 
+ 
+ 
+   
+ 
+   
+ (b)        
+ Owed by an account debtor who is an Affiliate 
+ 
+ 
+   
+ 
+   
+ (c)        
+ Owed by an account debtor who is in an insolvency or reorganization proceeding 
+ 
+ 
+   
+ 
+   
+ (d)        
+ Credits/allowances 
+ 
+ 
+   
+ 
+   
+ (e)        
+ Unpaid more than 90 days from invoice date 
+ 
+ 
+   
+ 
+   
+ (f)        
+ Otherwise ineligible 
+ 
+ 
+   
+ 
+   
+ 2.        
+ Total Deductions (sum of lines A1a - A1f) 
+   
+ 
+   
+ 
+ 
+ 3.        
+ Eligible Receivables (line A1 minus line A2) 
+   
+ 
+   
+ 
+ 
+ 4.        
+ Eligible Receivables in Borrowing Base 
+(line A3 x .80) 
+   
+ 
+   
+ 
+ 
+ B.        
+ Inventory in Borrowing Base 
+ 
+ 1.        
+ Gross inventory of Finished Goods, Work-in-Process and Raw Materials 
+   
+ 
+   
+ 
+ 
+ 2.        
+ Less 
+ 
+ 
+   
+ 
+   
+ (a)        
+ Finished Goods, Work-in-Process and Raw Materials not located at approved locations 
+ 
+ 
+   
+ 
+   
+ (b)        
+ Obsolete, slow moving, or not merchantable 
+ 
+ 
+   
+ 
+   
+ (c)        
+ Work-in-process in excess of CDN$4,000,000 
+ 
+ 
+   
+ 
+   
+ (d)        
+ Otherwise ineligible 
+ 
+ 
+   
+ 
+   
+ 2.        
+ Total Deductions (sum of lines B2a - B2d above) 
+   
+ 
+   
+ 
+ 
+ 3.        
+ Eligible Inventory (line B1 minus line B2) 
+   
+ 
+   
+ 
+ 
+ 4.        
+ Eligible Inventory in Borrowing Base determination (line B3 x .50) 
+   
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ C. 
+ Inventory in Borrowing Base 
+ 
+ 1.        
+ Inventory Cap 
+   $6,000,000 
+ 2.        
+ Eligible Inventory included in Borrowing Base determination (Line B4) 
+   
+ 
+   
+ 
+ 
+ 3.        
+ Eligible Inventory in Borrowing Base (Lesser of C1 and C2) 
+   
+ 
+   
+ 
+ 
+ D.        
+ Total Borrowing Base 
+ 
+ 1.        
+ Line A4 
+ 
+ 
+   
+ 
+   
+ 2.        
+ Line C3 
+ 
+ 
+   
+ 
+   
+ 3.        
+ Prior Claims established by the Bank 
+ 
+ 
+   
+ 
+   
+ 4.        
+ Sum of Lines D1 and D2 less Line D3 (Borrowing Base) 
+   
+ 
+   
+ 
+ 
+ 5.        
+ Maximum Borrowing Base 
+   
+ 
+   
+ 
+ 
+ 6.        
+ Lesser of line D4 or line D5 
+   
+ 
+   
+ 
+ 
+ E.        
+ Revolving Facility Advances 
+ 
+ 1.        
+ Revolving Loans 
+ 
+ 
+   
+ 
+   
+ 2.        
+ Letters of Credit 
+ 
+ 
+   
+ 
+   
+ 3.        
+ Total Outstandings (Sum of lines E1 and E2) 
+   
+ 
+   
+ 
+ 
+   
+ F.        
+ Available Borrowing Base Collateral 
+  (line D6 minus line E3)   
+ 
+   
+ 
+ 
+   
+ Dated as of this ______ day of __________________ 
+     Pioneer ELECTROGROUP CANADA Inc.                     By:         Name       Title 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ SCHEDULE B 
+ See attached 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+   
+ Schedule I 
+ to Compliance Certificate 
+ Pioneer Electrogroup Canada Inc. 
+ Compliance Calculations 
+ for Amended and Restated Credit Agreement dated as of April  29 , 2016, as amended 
+ Calculations as of _____________, _______ 
+ Financial Covenants (Section 8.20) 
+ 
+ A.        
+ Current Ratio for the PPSI (Section 8.20(a)) 
+   
+ 1.        
+ Current assets 
+ $______________ 
+ 2.        
+ Current liabilities 
+ $______________ 
+ 3.        
+ Ratio of Line A1 to Line A2 
+ ______: 1.0 
+ 4.        
+ Line A3 ratio must not be less than 
+ ______: 1.0 
+ 5.        
+ PPSI is in compliance? (circle yes or no) 
+ yes/no 
+ B.        
+EBITDA for PPSI (Section 8.20(b)) for the four (4) consecutive fiscal quarters of PPSI then most recently completed 
+   
+ 1.        
+ Net Income for the applicable period 
+ $______________ 
+ 2.        
+ Interest Expense for the applicable period 
+ $______________ 
+ 3.        
+ Federal, state and local income taxes for the applicable period 
+ $______________ 
+ 4.        
+ Depreciation and amortization for the applicable period 
+ $______________ 
+ 5.        
+ Extraordinary fees or expenses for the applicable period 
+ $______________ 
+ 6.        
+ Sum of Lines B1-B5 (EBITDA) 
+ $______________ 
+ 7.        
+ Line B6 shall not be less than 
+ $______________ 
+ 8.        
+ Line B6 shall not be less than (if Line B7 is not met) 
+ $ ______________ (80% of line B7) 
+ 9.        
+ PPSI is in compliance? (circle yes or no) 
+ yes/no 
+ C.        
+ Tangible Net Worth for PPSI (Section 8.20(c)) 
+   
+ 1.        
+ Total shareholder's equity 
+ $______________ 
+ 2.        
+ Sum of: 
+   
+ (i)        
+ intangibles $_______________ 
+   
+ (i)        
+ write-up of assets $_______________ 
+ $______________ 
+ 3.        
+ Line C1 minus Line C2 (Tangible Net Worth) 
+ $______________ 
+ 4.        
+ Line C3 must be greater than or equal to 
+ $______________ 
+ 5.        
+ Line C3 ratio must be greater than or equal to (if Line C4 is not met) 
+ $ ___________ (85% of line C4) 
+ 6.        
+ PPSI is in compliance? (circle yes or no) 
+ yes/no 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+   
+   
+   
+   

@@ -1,0 +1,76 @@
+ htm 25656 Material contracts 10 2017-04-13T17:00:31.65387-05:00 Filing 0001193125-17-123414 2017-04-13 10-K Annual  & Quarterly Reports 0000884940 STEIN MART INC SMRT COM Nasdaq Global Market 5651 Family Clothing Stores No FLORIDA FLORIDA FLORIDA false Accelerated Filer 000-20052 FORM OF RESTRICTED STOCK AWARD AGREEMENT Exhibit Exhibit 6 d262560dex1011.htm EX-10.11 6 d262560dex1011.htm FORM OF RESTRICTED STOCK AWARD AGREEMENT 
+ Exhibit 10.11 
+ STEIN MART, INC. 
+ 2001 OMNIBUS PLAN 
+ RESTRICTED STOCK AWARD AGREEMENT 
+ (KEY EMPLOYEES AND ADVISORS) 
+ THIS RESTRICTED STOCK AWARD AGREEMENT (KEY EMPLOYEES AND ADVISORS)  (the " Award Agreement ") is made and entered into as of the date set forth on the signature page hereof (the " Grant Date ") by and between  STEIN MART, INC.,  a Florida corporation (" Company ") ,  and the Participant whose signature is set forth on the signature page hereof (the " Participant "). 
+ W I T N E S S E T H 
+ WHEREAS, the Company has adopted the Stein Mart, Inc. 2001 Omnibus Plan, as amended and restated effective June 21, 2016 (the " Plan"), the terms of which, to the extent not stated herein, are specifically incorporated by reference in this Award Agreement; 
+ WHEREAS, the purpose of the Plan is to permit Awards under the Plan to be granted to certain Participants of the Company and its Affiliates and to further specify the terms and conditions  under which such individuals may receive such Awards; 
+ WHEREAS, the Participant is now employed or otherwise engaged in an officer, management or advisory capacity, and the Company desires him or her to remain in such capacity to secure or inc rease his or her ownership of shares of the Company 's common stock in order to increase his or her incentive and personal interest in the success and growth of the Company; and 
+ WHEREAS, defined terms used herein and not otherwise defined herein shall have the meanings set forth in the Plan. 
+ NOW, THEREFORE, in consideration of the premises and of the covenants and agreements herein set forth, the parties hereto hereby mutually covenant and agree as follows: 
+ 1.      Restricted Stock Grant. Subject to the terms and conditions set forth herein, the Company hereby grants to the Participant the number of Shares of Restricted Stock set forth on the signature page hereof. 
+ 2.     Nontransferability of Shares. The Shares of Restricted Stock are not transferable other than by will or by the laws of descent and distribution. 
+ 3.     Grant and Vesting. 
+(a) Except as otherwise provided herein, provided that the Participant remains employed by the Company on such date (each, a " Vesting Date"), the Shares of Restricted Stock subject to this Award Agreement shall vest in accordance with the following schedule (the " Service Condition "): 
+   
+ Grant Date Anniversary    Percentage of Restricted Stock Vesting 
+ 3 rd  Anniversary 
+    33% 
+ 4 th  Anniversary 
+    33% 
+ 5 th  Anniversary 
+    34% 
+   
+ 1 
+ 
+ 
+(b) The foregoing vesting schedule notwithstanding, the Committee (or the Board, with respect to Awards to Advisor Participants who are also  Non-Employee  Directors) has determined that if a Participant 's employment with the Company is terminated due to death, Disability (as defined below), retirement on or after the Participant ' s 62 nd  birthday, or termination within twenty-four (24) months following a Change of Control (each, a " Termination Event")), then the Service Condition shall be deemed to have been met as to the number of Shares of Restricted Stock equal to the percentage of the total Service Condition which has been met as of the Termination Event. By way of example, if a Participant dies 18 months following the Grant Date of the Award, then the Participant (or the Participant 's estate) will receive 30% of the Shares of Restricted Stock that would otherwise have vested upon satisfaction of the Service Condition (18 months being equal to 30% of 60 months) . 
+ (c) For purposes of this Award Agreement, " Disability" shall mean that the Participant is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment. The determination of whether a Participant has a Disability shall be determined under procedures established by the Committee. The Committee may rely on any determination that a Participant is disabled for purposes of benefits under any long-term disability plan maintained by the Company or any Affiliate in which a Participant participates; provided, however, that, if any Award is subject to Code Section 409A, Disability shall only be given effect to the extent consistent with a "disability" as defined under Code Section 409A. 
+ 4.      Certificate Issued. The certificate(s) evidencing the Shares of Restricted Stock that are the subject of this Award Agreement are being currently issued, but are subject to forfeiture until they vest as provided in Section 3 above and will be treated as outstanding unless and until a forfeiture occurs. 
+ 5.      Rights As Shareholder; No Right to Continued Employment. The Participant shall have the rights as a holder of the Shares of Restricted Stock until and unless and to the extent the Shares of Restricted Stock are forfeited and cancelled as provided in Section 3 above; provided, however, that dividends otherwise payable with respect to such Shares of Restricted Stock shall accrue and not be paid unless and until the vesting of the Shares of Restricted Stock with respect to which such dividends have accrued. Neither the Plan nor this Award Agreement shall confer upon the Participant any right to be retained in any position, including as a Key Employee or Advisor of the Company. Further, nothing in the Plan or in this Award Agreement shall be construed to limit the autho rity of the Company to terminate the Participant at any time, with or without cause. 
+   
+ 2 
+ 
+ 
+ 6.     Tax Withholding. 
+(a)    It shall be a condition of the Award of the Shares of Restricted Stock provided herein that the Participant, and the Participant hereby acknowledges and agrees, shall pay to the Company upon its demand, such amount as may be requested by the Company for the purpose of satisfying its liability to withhold federal, state, or local income, employment or other taxes incurred by reason of the Award provided herein or upon the vesting of the Shares of Restricted Stock. The Company has the right to withhold any such taxes from any compensation paid to a Key Employee Participant to the extent permitted by Section 409A of the Code. The amount that will be due from the Participant, if any, will be determined at the time the risk of forfeiture is removed and vesting occurs, or if a Section 83(b) election (discussed below) is made, as of the Grant Date. 
+(b)    In the event that a Section 83(b) election is not made, the Participant may elect to have the Company withhold that number of Shares of Restricted Stock otherwise deliverable to the Participant upon the vesting of the Shares of Restricted Stock or to deliver to the Company a number of Shares registered in the name of the Participant, in each case having a Fair Market Value on the Vesting Date equal to the maximum individual statutory rate in the Participant's jurisdiction for taxes required to be withheld as a result of the vesting of the Shares of Restricted Stock. The election must be made in writing and must be delivered to the Company prior to the Vesting Date of the Shares of Restricted Stock. If the number of Shares so determined shall include a fractional Share, the Participant shall deliver cash in lieu of such fractional Share. All elections shall be made in a form approv ed by the Committee (or the Board, with respect to Awards to Advisor Participants who are also  Non-Employee Directors) and shall be subject to disapproval, in whole or in part, by the Committee (or the Board) in its sole discretion. 
+(c)    The Participant has reviewed with the Participant's own tax advisors the federal, state, local and foreign tax consequences of the transactions contemplated by this Award Agreement. The Participant is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The Participant understands that the Participant (and not the Company) shall be responsible for the Participant's own tax liability that may arise as a result of the transactions contemplated by this Award Agreement. T he Participant understands that Section 83 of the Internal Revenue Code of 1986, as amended (the  "Code"), taxes as ordinary income the fair market value of the Shares of Restricted Stock as of the date the restrictions on the Shares lapse. In this context, "restriction" includes the Service Condition set forth in Section 3 hereof. The Participant understands that the Participant may elect to be taxed at the time the Shares of Restricted Stock are granted under this Award Agreement rather than when they become vested and no longer subject to a substantial risk of forfeiture by filing an election under Section 83(b) of the Code with the I. R.S. within 30 days of the Grant Date. 
+THE PARTICIPANT ACKNOWLEDGES THAT IT IS THE PARTICIPANT'S SOLE RESPONSIBILITY AND NOT THE COMPANY'S TO TIMELY FILE THE ELECTION UNDER SECTION 83(b) WITHIN 30 DAYS OF THE GRANT DATE, EVEN IF THE PARTICIPANT REQUESTS THE COMPANY OR ITS REPRESENTATIVES TO MAKE THIS FILING ON THE PARTICIPANT'S BEHALF. THE PARTICIPANT FURTHER ACKNOWLEDGES AND AGREES THAT IT IS THE PARTICIPANT'S SOLE RESPONSIBILITY TO NOTIFY THE COMPANY OF THE PARTICIPANT'S DECISION SO THE COMPANY CAN ACCOUNT FOR THE SHARES APPROPRIATELY. 
+ 7.      Powers of Company Not Affected. The existence of the Shares of Restricted Stock shall not affect in any way the right or power of the Company or its shareholders to make or 
+   
+ 3 
+ 
+ 
+authorize any combinations, subdivision or reclassification of the Shares or any reorganization, merger, consolidation, business combination, exchange of Shares, or other change in  the Company 's capital structure or its business, or any issue of bonds, debentures or stock having rights or preferences equal, superior or affecting the Restricted Stock or the rights thereof or dissolution or liquidation of the Company, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar  character or otherwise. 
+ 8.      Interpretation by Committee. The Participant agrees that any dispute or disagreement which may arise in connection with this Award Agreement shall be resolved by the Committee (or the Board, with respect to A wards to Advisor Participants who are also  Non-Employee Directors), in its sole discretion, and that any interpretation by the Committee of the terms of this Award Agreement or the Plan and any determination made by the Committee under this Award Agreement or the Plan may be made in the sole discretion of the Committee and shall be final, binding, and conclusive. Any such determination need not be uniform and may be made differently among Participants awarded Shares of Restricted Stock. In the event of a conflict between any term or provision contained herein and a term or provision of th e Plan, the applicable terms and provisions of the Plan shall govern and prevail. 
+ 9.      Compliance with Law. The issuance and/or transfer of the Shares of Restricted Stock shall be subject to compliance by the Company and the Participant with all applicable requirements of federal and state securities laws and with all applicable requirements of any stock exchange on which the Company's Shares may be listed. No Shares shall be issued pursuant to this Award Agreement unless and until any then applicable requirements of state or federal laws and regulatory agencies have been fully complied with to the satisfaction of the Company and its counsel. The Participant understands that the Company is under no obligation to register the Shares of Restricted Stock with the Securities and Exchange Commission or any state securities commission or to list the Shares of Restricted Stock on any stock exchange to effect such compliance. 
+ 10.      Miscellaneous. 
+(a)    This Award Agreement shall be governed and construed in accordance with the laws of the State of Florida applicable to contracts made and to be performed therein between res idents thereof. 
+(b)    This Award Agreement may not be amended or modified except by the written consent of the parties hereto. 
+(c)    The captions of this Award Agreement are inserted for convenience of reference only and shall not be taken into account in construing this Award Agreement. 
+(d)    Any notice, filing or delivery hereunder or with respect to the Award of Shares of Restricted Stock shall be given to the Participant at either his usual work location or his home address as indicated in the records of the Company and shall be given to the Committee (or the Board, with respect to Awards to Advisor Participants who are also  Non-Employee Directors) or the Company at 1200 Riverplace Boulevard, Jacksonville, Florida 32202, Attention Corporate Secretary. All such notices shall be given by first class mail, postage pr epaid, or by personal delivery. 
+   
+ 4 
+ 
+ 
+(e)    This Award Agreement shall be binding upon and inure to the benefit of the Company and its successors and assigns and shall be binding upon and inure to the personal benefit of the Participant, any beneficiary and the personal representative(s) and heirs of the Participant. 
+(f)    This Award Agreement may be executed in counterparts, each of which shall be deemed an original but all of which together will constitute one and the same instrument. Counterpart signature pages to this Award Agreement transmitted by facsimile transmission, by electronic mail or by any other electronic means will have the same effect as physical deliv ery of the paper document bearing an original signature. 
+(g)    The Participant hereby acknowledges receipt of a copy of the Plan and this Award Agreement. The Participant has read and understands the terms and provisions thereof, and ac cepts the Option subject to all of the terms and conditions of the Plan and this Award Agreement. 
+IN WITNESS WHEREOF, the Company has caused this Award Agreement to be executed by its duly authorized officer, and the Participant has hereunto affixed his hand, all on the day and  year set forth below. 
+   
+ 
+   STEIN MART, INC. By:   
+ 
+   
+ D. Hunt Hawkins - Chief Executive Officer   PARTICIPANT 
+ Signed Electronically 
+ Name   
+ 
+ No. of Shares of Restricted Stock :        # of Shares Granted 
+ Grant Date :        Grant Date                                                    
+   
+ 5 

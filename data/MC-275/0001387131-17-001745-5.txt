@@ -1,0 +1,302 @@
+ htm 72319 Material contracts 10 2017-03-30T17:00:42.082626-05:00 Filing 0001387131-17-001745 2017-03-30 10-K Annual  & Quarterly Reports 0000887247 Adamis Pharmaceuticals Corp ADMP COMMON Nasdaq Capital Market 2834 Pharmaceutical Preparations No CALIFORNIA DELAWARE DELAWARE CELLEGY PHARMACEUTICALS INC false Small Reporting Company 001-36242 AMENDMENT TO LOAN AGREEMENT Exhibit Exhibit 5 ex10-63.htm EX-10.63 5 ex10-63.htm AMENDMENT TO LOAN AGREEMENT 
+ 
+ 
+   
+ 
+ 
+ ADAMIS PHARMACEUTICALS CORPORATION 10-K 
+   
+   
+ Exhibit 10.63 
+   
+ Loan No. 5000279900 
+   
+ AMENDMENT TO LOAN AND SECURITY AGREEMENT 
+   
+THIS AMENDMENT TO LOAN AND SECURITY AGREEMENT (the "Amendment") is entered into this 3rd day of November, 2016, with an effective date of September 30, 2016, by and between  BEAR STATE BANK, N.A.,  a national banking association ("Lender"), and  ADAMIS PHARMACEUTICALS CORPORATION,  a Delaware corporation ("Borrower"). 
+   
+WHEREAS, Lender extended a business loan to Borrower, in the initial amount of Two Million and No/100 United States Dollars ($2,000,000.00) (the "Loan"), as set forth in that certain Loan and Security Agreement by and between Lender and Borrower dated March 2016 (the "Loan Agreement"); and 
+   
+WHEREAS, Borrower and Lender desire the Loan Agreement be amended as set forth in this Amendment, but that all other terms, conditions, and provisions of the Loan Agreement remain  in full force and effect solely except as set forth in this Amendment; 
+   
+WHEREAS, Borrower hereby intends to and by execution hereof ratifies and affirms Borrower's unqualified and unconditional liability on all indebtedness of the Loan; 
+   
+NOW, THEREFORE, for and in consideration of Lender's agreement to the amendments set forth in this Amendment, the Loan Agreement, and the covenants, warranties and representations of Borrower contained herein, Ten Dollars ($10.00) and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged by all parties, it is agre ed as follows: 
+   
+ AGREEMENTS 
+   
+The recitals set forth above are not mere recitals of fact but are contractual in nature and are intended by the parties to be incorporated into this Amendment by reference, except in the event of a conflict between the incorporated recitals and the numbered sections of this Amendment, the numbered sections of this Amendment shall control. Terms and, provisions which are not otherwise defined herein shall have the same meanings as set forth in the Loan Agreement. 
+   
+ 1.             Definitions. The following definitions, as set forth below, shall replace the definitions previously set forth in the Loan Agreement: 
+   
+ (a)          "Collateral" collectively means: 
+   
+ (i)           The following instruments: 
+   
+(A)   that certain Promissory Note dated March 28, 2016, from U.S. Compounding, Inc., an Arkansas corporation ("USC"), in favor of Borrower, in the principal amount of up to Two Mi llion and No/100 United States Dollars ($2,000,000.00) (the "USC Note"); 
+   
+ 
+ 
+   
+ 
+ 
+   
+ (B)   that certain Certificate of Deposit No. 3000028062 of Borrower (the "CD"); 
+   
+(ii)         All Accounts of Borrower currently or hereafter existing relating to Borrower's rights under the USC Note; and all rights now or hereafter existing in and to all security agreements and other documents securing or otherwise relating to any such Accounts (collectively, the "Accounts"); and all General Intangibles or Payment Intangibles currently  or hereafter existing relating to Borrower's rights under the USC Note; 
+   
+(iii)        Any and all substitutions and replacements therefor, and all product and proceeds of any and all of the foregoing Collateral and, to the extent not otherwise included;  and 
+   
+(iv)        All deeds of trust, mortgages or other instruments of debt, pledge or hypothecation evidencing or securing the USC Note, if any. 
+   
+ 2.            Additional Covenants of Borrower. Section 7.19, as set forth below, shall replace such subsection previously set forth in the Loan Agreement: 
+   
+7.19        Borrower and Lender acknowledge that Lender's rights in and to the common stock of Borrower, pursuant to the Warrant, constitute a material portion of the consideration for Lender extending credit to Borrower. Therefore, Borrower covenants that if, at any time prior to the full satisfaction of the Obligations, the value of the sum of (i) the amount of funds in the CD, plus (ii) the product of, (A) number of unexercised shares in favor of Lender pursuant to the Warrant; multiplied by (B) the value of the common stock of Borrower, shall fall below the product of, (Y) 1.50; multiplied by (Z) the outstanding principal balance of the Note, then, notwithstanding any provision of this Agreement to the contrary, Borrower shall have three (3) Business days after delivery of notice from Lender to either: (1) amend the Warrant, or provide an additional Warrant to provide Lender with rights to additional shares of common stock of Borrower; or (2) reduce the principal balance of the Note to bring Borrower in compliance with the requirements set forth above in this Section 7.19. Failure of Borrower to comply with the corrective measures set forth in this Section 7.19 shall constitute an Event of Default, and thereafter Lender shall have all r emedies set forth in this Agreement and the Loan Documents. 
+   
+ 3.            Estoppel; Waiver; Ratification and Release. For and in consideration of the maturity extension granted by Lender herein, Ten United States Dollars ($10.00) and other good and valuable consideration, receipt and sufficiency being acknowledged, Borrower, as evidenced by its signature below, agrees and acknowledges its unqualified and unconditional obligation for the Indebtedness without defense, affirmative defense, counterclaim, right of setoff or other impediment to collection, and the same, if existing, being expressly released and waived by Borrower in consideration for Len der entering into this Amendment. 
+   
+ 
+ 
+   2 
+ 
+ 
+   
+ 
+ 
+   
+ 4.            UCC. Notwithstanding any provisions hereof or execution by Lender, this Amendment (and all documents executed in connection herewith) shall be voidable at the option of Lender should any lien searches or other confirmatory title information regarding the Collateral (to be provided at the expense of Borrower) reflect any default under the Loan or creation of any adverse claim or interest regarding the Collateral. In addition, Borrower authorizes Lender to file any and all initial, amendatory or continuation Uniform Commercial Code filings  deemed necessary by Lender. 
+   
+ 5.            Good Standing of Borrower. Notwithstanding any provisions hereof or execution by Lender, this Amendment (and all documents executed in connection herewith) shall be voidable at the option of Lender in the event Borrower is not validly existing and under its state of formation at the time of execution of this Amendment. 
+   
+ 6.              No Further Modifications. Except as expressly set forth above, the terms and provisions of the Loan Agreement shall remain in full force and effect. 
+   
+ [  Signatures appear on following page. ] 
+   
+ 
+ 
+   3 
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the parties hereto have duly executed this Amendment this 3rd day of November, 2016, with an effective date of September 30, 2016. 
+             BORROWER:       ADAMIS PHARMACEUTICALS CORPORATION, 
+a Delaware corporation       By:     Name: Robert O. Hopkins   Title: CFO 
+             LENDER       BEAR STATE BANK, N.A. 
+a national banking association       By:     Name: Steve Moore   Title: Executive Vice President 
+   
+ 
+ 
+   4 
+ 
+ 
+   
+ 
+ 
+   
+ Loan No. 500027990 
+   
+ DEPOSIT ACCOUNT, SECURITY AND CONTROL AGREEMENT 
+   
+ This  DEPOSIT ACCOUNT, SECURITY AND CONTROL AGREEMENT ("Agreement") is entered into this 3rd day of November, 2016, with an effective date of September 30, 2016, by and between  ADAMIS PHARMACEUTICALS CORPORATION,  a Delaware corporation ("Borrower"), and  BEAR STATE BANK, N.A.,  a national banking association ("Lender"). 
+   
+ RECITALS 
+   
+A.         Lender has agreed to loan to Borrower, pursuant to the terms and conditions of an Amendment to Loan and Security Agreement dated of even date herewith (the "Loan Agreement"), in the principal amount of Two Million and No/100 United States Dollars ($2,000,000.00) (the "Loan"), evidenced by that certain Line of Credit Promissory Note [Closed End Multiple Advance Note] dated March 28, 2106, executed by Borrower in favor of Lender in the aggregate principal amount of the Loan (the "Note"), secured by the Loan Agreement and all other documents related to the Loan shall sometimes be hereinafter collectively referred to as the "Loan Documents." 
+   
+B.         That for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Borrower hereby agrees with Lender as follows: 
+   
+ 1.           Definitions. All terms used in this Agreement which are defined in the Loan Agreement and not otherwise defined in this Agreement shall have the same meanings as set forth in the Loan Agreeme nt. 
+   
+ 2.           Grant of Security Interest. As collateral security for all of the Obligations (defined below), Borrower hereby pledges, grants, bargains, sells, conveys and assigns to Lender and grants to Lender a continui ng security interest in the following (collectively, the "Collateral"): 
+   
+(a)          Certificate of Deposit number 3000028062 of Borrower held by Lender (as such account may be renumbered or retitled, the "Account"). All parties agree that the Account is a "deposit account" within the meaning of Article 9 of the Uniform Commercial Code of the State of Arkansas (the "UCC"); 
+   
+(b)          All funds now or hereafter deposited or otherwise contained in the Account, including without limitation any interest accrued on funds now or hereafter existing at any  time in the Account; and 
+   
+ (c)          Any and all substitutions for, product of and proceeds of the above. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 3.           Security for Obligations. The security interest created hereby in the Collateral constitutes continuing collateral security for all of the following obligations, whether now existing or hereafter incurred  (the "Obligations"): 
+   
+(a)          The full and prompt payment when due of the indebtedness evidenced by the Note, and any and all renewals, modifications and extensions thereof, in whole or in part; 
+   
+(b)          The due performance and observance by Borrower of all of its covenants, agreements, warranties, representations, liabilities, obligations and undertakings as set forth herein, in the Loan Agreement, the Loan Documents, and any other document now or hereafter securing or evidencing the Loan, or in any other instrument or document which now or at  any time hereafter evidences or secures all or any part of the Obligations hereby secured; and 
+   
+(c)          The prompt payment and performance of any and all other present and future indebtedness and obligations of Borrower to Lender of every kind, character and description, whether absolute or contingent, joint or several, matured or unmatured, direct or indirect, primary or secondary, and including without limitation all prior and future advances to Borrower, all liabilities of Borrower under any guaranty executed in favor of Lender at any time, and all obligations of Borrower with respect to any letters of credit issued at any time by Lender for the benefit of Borrower. Upon repayment of the Obligations, Lender agrees to release its lien on the Collateral. 
+   
+ 4.           Representations and Warranties . Borrower represents and warrants as follows: 
+   
+(a)          The Account is maintained by Lender, and the Collateral is under the exclusive control of Lender, in accordance with Ark. Code Ann. Â§ 4-9-104. 
+   
+(b)          Borrower owns the Collateral free and clear of any lien, security interest or other charge or encumbrance solely except for the security interest created by this Agree ment and any documents now or hereafter evidencing the Loan. 
+   
+(c)          The exercise by Lender of its rights and remedies hereunder will not contravene any law or governmental regulation or any contractual restriction binding on or affecting Borrower or any of Borrower's properties, and will not result in or require the creation of any lien, security interest or other charge or encumbrance upon or with respect to Bo rrower or any of Borrower's properties. 
+   
+(d)          No authorization or approval or other action by, and no notice to or filing with any governmental authority or other regulatory body is required either for the grant by Borrower of the security interest created hereby in the Collateral or for the exercise by Lender of its rights and remedies hereunder. 
+   
+(e)          This Agreement creates a valid presently conveyed security interest in favor of Lender in the Collateral, there being no agreement to delay attachment of such security interest, Control by Lender of the Collateral is in accordance with Ark. Code Ann. Â§ 4-9-104, and such control shall perfect and establish the first priority of Lender's security interest hereunder in the Collateral pursuant to Ark. Code Ann. Â§ 4-9-314, subject to no other liens, security interests, and encumbrances. 
+   
+ 
+ 
+ 2   
+ 
+ 
+   
+ 
+ 
+   
+ 5.           Covenants as to the Collateral. So long as any of the Obligations shall remain outstanding, unless Lender shall otherwise consent in writing: 
+   
+ (a)           Further Assurances. Borrower shall, at Borrower's expense, at any time and from time to time, promptly execute and deliver all further instruments and documents and take all further action that Lender reasonably deems necessary or desirable or that Lender may reasonably request in order: (i) to protect the security interest created or purported to be created hereby; (ii) to enable Lender to exercise and enforce its rights and remedies hereunder with respect to the Collateral (or any part thereof); or (iii) to otherwise effect the purposes of this Agreement, including, without limitation, furnishing to Lender from time to time reports in connection with the Collateral as Lender may reasonably request, all in reasonable detail. 
+   
+ (b)           Liens. Borrower shall not create or suffer to exist any lien, security interest or other charge or encumbrance upon or with respect to the Collateral, except for the security interests  created in favor of Lender. 
+   
+ (c)           Compliance with Loan Documents . Borrower shall, at all times, comply with all covenants set forth in the Loan Documents. 
+   
+ 6.           Additional Provisions Concerning the Collateral . 
+   
+(a)          The Account is and shall remain in the name of Borrower and all amounts held in such account, including interest earnings thereon, shall be the property of the Borrower, subject to disbursement in accordance with this Agreement. Borrower agrees that it shall include in its income all interest and earnings on the funds deposited in the Account. T he Account shall be assigned the federal tax identification number of Borrower. 
+   
+(b)          Upon and during the continuance of an Event of Default, Borrower hereby irrevocably appoints Lender as the Borrower's attorney-in-fact and proxy, with full authority in the place and stead of Borrower and in the name of Borrower or otherwise, from time to time in Lender's discretion, to take any action and to execute any instrument which Lender may deem necessary or advisable to accomplish the purposes of this Agreement, including without limitation: (i) to ask, demand, collect, sue for, recover, compound, receive and give acquittance and receipts for moneys due and to become due under or with respect to the Collateral (or any part thereof); (ii) to receive, endorse and collect any checks, drafts or other instruments, documents and chattel paper in connection with clause (i); and (iii) to file any claims or take any action or institute any proceedings which Lender may deem necessary or desirable for the collection of any of the Collateral or otherwise to enforce the rights of Lender with respect to any of the Collateral (or any part thereof). Borrower hereby ratifies and approves all acts of said attorney; and the attorney, so long as the attorney acts in good faith, shall have no liability to Borrower for any act or omission a s such attorney. 
+   
+ 
+ 
+ 3   
+ 
+ 
+   
+ 
+ 
+   
+(c)          If Borrower fails to perform any agreement contained herein, Lender may perform or cause performance of such agreement or obligation, and the expenses of Lender incurred in connection therewith shall be payable by Borrower under Section 8 hereof, and shall be fully secured hereby. 
+   
+(d)          The powers conferred on Lender hereunder are solely to protect its interest in the Collateral and shall not impose any duty upon it to exercise any such powers. 
+   
+(e)          Anything herein to the contrary notwithstanding: (i) the exercise by Lender of any of its rights hereunder shall not release Borrower from any of Borrower's duties or obligations under the contracts and agreements included in or relating to the Collateral; and (ii) Lender shall not have any obligation or liability by reason of this Agreement under any contracts and agreements included in or relating to the Collateral, nor shall Lender be obligated to perform any of the obligations or duties of Borrower thereunder or to ta ke any action to collect or enforce any claim for payment assigned hereunder. 
+   
+ 7.          Events of Default. An Event of Default shall be deemed to have occurred hereunder upon the occurrence and continuance of an Event of Default under the Loan Documents. 
+   
+ 8.          Remedies Upon Default . If an Event of Default shall have occurred: 
+   
+(a)          Lender may exercise with respect to the Collateral (or any part thereof), in addition to other rights and remedies provided for herein or otherwise available to it, all the rights and remedies of a secured party on default under the Uniform Commercial Code (the "Code") (whether or not the Code applies to the Collateral). Upon the occurrence of any Event of Default as specified herein, Lender is hereby authorized at any time and from time to time, without notice to Borrower to set off, appropriate, and apply any and all of  the Collateral against any or all indebtedness of the Borrower to Lender. 
+   
+ (b)          The Collateral held and hereafter under control of Lender shall be applied as follows: 
+   
+(i)         First, to the repayment of the reasonable costs and expenses, including reasonable attorneys' fees and legal expenses incurred by Lender in connection with: (A) the administration of this Agreement; (B) the custody or preservation of the Collateral; (C) the exercise or enforcement of any of the rights of Lender hereunder; or (D) the failure of Bo rrower to perform or observe any of the provisions hereof; 
+   
+(ii)        Second, at the option of Lender and in Lender's sole discretion, to the payment or other satisfaction of any liens and other encumbrances upon any of the Collateral; 
+   
+(iii)       Third, to the reimbursement of Lender for the amount of any obligations of Borrower paid or discharged by Lender pursuant to the provisions of this Agreement, and of an y expenses of Lender payable by Borrower hereunder; 
+   
+ 
+ 
+ 4   
+ 
+ 
+   
+ 
+ 
+   
+ (iv)        Fourth, to the satisfaction of the Obligations, in such order as Lender shall elect; 
+   
+ (v)         Fifth, to the satisfaction of any other indebtedness of Borrower to Lender; 
+   
+(vi)        Sixth, the surplus, if any, to Borrower or to whomsoever shall be lawfully entitled to receive the same or as a court of competent jurisdiction shall direct. 
+   
+(c)          In the event the Collateral shall be insufficient to pay all amounts to which Lender is legally entitled, Borrower shall be liable for the deficiency, together with interest thereon at such rate(s) as shall be fixed by instruments evidencing the obligations with respect to which such deficiency exists, together with the costs of collection and t he reasonable fees of any attorneys employed by Lender to collect such deficiency. 
+   
+ 9.           Rights and Duties of Lender, Etc. Lender undertakes, as to this Agreement, to exercise only such duties as are specifically set forth in this Agreement and to exercise such of the rights, powers and remedies as are vested in it by this Agreement or by law. In any instance hereunder where Lender's approval or consent is required or the exercise of Lender's judgment is required, the granting or denial of such approval or consent and the exercise of such judgment shall be within the sole discretion of Lender, and Lender shall not, for any reason or to any extent, be required to grant such approval or consent or exercise such judgment. Lender may consult with counsel, and the written advice or opinion of such counsel shall be full and complete authorization and protection in respect of any action taken, suffered or omitted by it hereunder in good faith and in reliance thereon. 
+   
+ 10.         Indemnity and Expenses . 
+   
+(a)          Borrower agrees to indemnify Lender from and against any and all claims, losses and liabilities growing out of or resulting from this Agreement (including without limitation enforcement of this Agreement), except claims, losses or liabilities resulting solely and directly from Lender's gross negligence or willful misconduct. 
+   
+(b)          Borrower shall, upon demand, pay to Lender the amount of any and all reasonable costs and expenses, including the fees and disbursements of Lender's counsel and of any experts and agents, which Lender may incur in connection with: (i) the administration of this Agreement; (ii) the custody or preservation of the Collateral; (iii) the exercise or enforcement of any of the rights of Lender hereunder; or (iv) the failure by Borrower to perform or observe any of the provisions hereof, except expenses resulting from Lender's gr oss negligence or willful misconduct. 
+   
+ 11.         Notices, Etc. All notices and other communications provided for hereunder shall be in writing and shall be given and deemed received as set forth in the Loan Agreement. 
+   
+ 
+ 
+ 5   
+ 
+ 
+   
+ 
+ 
+   
+ 12.         Security Interest. Lender and Borrower agree this Agreement creates a valid presently conveyed security interest in favor of Lender in the Collateral, there being no agreement to delay attachment of such security interest. Control by Lender of the Collateral is in accordance with Ark. Code Ann. Â§ 4-9-104, and such control shall perfect and establish the first priority of Lender's security interest hereunder in the Collateral pursuant to Ark. Code Ann. Â§ 4-9-314, subject to no other liens, security interests, and encumbrances. All rights of Lender, all security interests and all Obligations of Borrower hereunder shall be absolute and unconditional irrespective of: (i) any lack of validity or enforceability of the Loan Agreement, any guaranty or any other agreement or instrument relating thereto; (ii) any change in the time, manner or place of payment of, or in any other term in respect of, all or any of the Obligations or any other amendment or waiver of or consent to any departure from this Agreement, the Loan Agreement, any guaranty or any other agreement or instrument relating thereto; (iii) any increase in, addition to, or exchange, release or non-perfection of any other collateral, or any release or amendment or waiver of or consent to departure from any guaranty for all or any of the Obligations; (iv) any other circumstance which might otherwise constitute a defense available to, or a discharge of, Borrower in respect of the Obligations or this Agreement; or (v) the absence of any action on the part of Lender to obtain payment or performance of the Obligations from Borrower or any other party. 
+   
+ 13.         Miscellaneous . 
+   
+(a)          No amendment of any provision of this Agreement shall be effective unless it is in writing and signed by Borrower and Lender, and no waiver of any provision of this Agreement, and no consent to any departure by Borrower therefrom, shall be effective unless it is in writing and signed by Lender, and then such waiver or consent shall be effective  only in the specific instance and for the specific purpose for which given. 
+   
+(b)          No failure on the part of Lender to exercise, and no delay in exercising, any right hereunder or under any other instrument or document shall operate as a waiver thereof; nor shall any single or partial exercise of any such right preclude any other or further exercise thereof or the exercise of any other right. The rights and remedies of Lender provided herein and in the other instruments and documents are cumulative and are in addition to, and not exclusive of, any rights or remedies provided by law. The rights of Lender under the Loan Agreement, any guaranty, any other instrument which now or hereafter evidences or secures all or part of the Obligations, or any related document against any party thereto are not conditional or contingent on any attempt by Lender to exercise any of their rights under any other such instrument or document against such party or against any oth er party. 
+   
+(c)          Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or invalidity without invalidating the remaining portions hereof or thereof or affecting the validity or enforceability of such provision in any other jurisdiction. 
+   
+ 
+ 
+ 6   
+ 
+ 
+   
+ 
+ 
+   
+(d)          This Agreement shall create a continuing security interest in the Collateral and shall: (i) remain in full force and effect until the earlier of the disbursement of all funds from the Account and the termination of the duties and obligations of Borrower under the Loan Agreement, including the payment in full of the obligations; (ii) be binding on Borrower and Borrower's successors and permitted assigns and shall inure, together with all rights and remedies of Lender hereunder, to the benefit of Lender and its successors, transferees and assigns. None of the rights or obligations of Borrower hereunder may be assigned or otherwise transferred without the prior written consent of Lender. 
+   
+(e)          This Agreement shall be governed by and construed in accordance with the laws of the State of Arkansas as preempted by applicable federal laws, without giving effect to conflict or choice of law principles. The provisions of this Section 13(e) shall control all other provisions hereof and of all agreements, whether now or hereafter existing and whether written or oral, between Borrower and Lender or any other person liable for the indebtedness secured hereby. 
+   
+(g)          The captions or headings of the Sections of this Agreement are inserted merely for convenience of reference and shall not be deemed to limit or modify the terms and pr ovisions hereof. 
+   
+ [Signature page follows] 
+   
+ 
+ 
+ 7   
+ 
+ 
+   
+ 
+ 
+   
+ [SIGNATURE PAGE FOR DEPOSIT ACCOUNT, SECURITY AND CONTROL 
+ AGREEMENT DATED NOVEMBER 3, 2016, WITH AN EFFECTIVE DATE OF 
+ SEPTEMBER 30, 2016] 
+   
+IN WITNESS WHEREOF, Lender has executed and delivered this Deposit Account, Security and Control Agreement (or caused the execution and delivery of this Agreement by its duly autho rized officers) on the date first above written.  
+             LENDER :       BEAR STATE BANK, N.A.,   a national banking association       By:   Name: Steve Moore   Title: Executive Vice President 
+    
+ 
+ 
+ 8   
+ 
+ 
+   
+ 
+ 
+   
+ [SIGNATURE PAGE FOR DEPOSIT ACCOUNT, SECURITY AND CONTROL 
+ AGREEMENT DATED NOVEMBER 3, 2016, WITH AN EFFECTIVE DATE OF 
+ SEPTEMBER 30, 2016] 
+   
+IN WITNESS WHEREOF, Borrower has executed and delivered this Deposit Account, Security and Control Agreement (or caused the execution and delivery of this Agreement by its duly aut horized officers) on the date first above written.  
+             BORROWER :       ADAMIS PHARMACEUTICALS CORPORATION,   a Delaware corporation       By:   Name: Robert O. Hopkins   Title: CFO 
+   
+ 
+ 
+ 9   
+ 
+ 
+   

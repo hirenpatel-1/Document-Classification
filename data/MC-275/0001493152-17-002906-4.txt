@@ -1,0 +1,901 @@
+ htm 234974 Material contracts 10 2017-03-28T15:31:25.385651-05:00 Filing 0001493152-17-002906 2017-03-28 10-K Annual  & Quarterly Reports 0000771999 DOCUMENT SECURITY SYSTEMS INC DSS COMMON NYSE MKT 7373 Computer Integrated Systems Design No NEW YORK NEW YORK NEW YORK NEW SKY COMMUNICATIONS INC;THOROUGHBREDS USA INC false Small Reporting Company 001-32146 EX-10.30 Exhibit Exhibit 4 ex10-30.htm EX-10.30 4 ex10-30.htm 
+   
+ Exhibit 10.30 
+   
+ Portions of this exhibit marked [*] are requested to be treated confidentially. 
+   
+ PROCEEDS INVESTMENT AGREEMENT 
+   
+ Dated as of November 14, 2016 
+   
+ by and between 
+   
+ DOCUMENT SECURITY SYSTEMS, INC. 
+   
+ and 
+   
+ BRICKELL KEY INVESTMENTS LP 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ This PROCEEDS INVESTMENT AGREEMENT, dated as of November 14, 2016 (this " Agreement "), between: 
+   
+ ● Document Security Systems, Inc.,  a New York corporation with its principal place of business at 200 Canal View Blvd., Suite 300, Rochester, New York 14623 (" DSS "); and     ● Brickell key investments lp, a Delaware limited partnership, with its principal place of business at 11 New Street, St. Peter Port, Guernsey GY1 2PF (" INVESTOR ") 
+   
+ (each of DSS and INVESTOR is referred to herein individually, as a " Party " and, collectively, as the " Parties"). References made herein to "DSS" shall be limited to and interpreted to mean the parent company only, unless specifically stated otherwise. 
+   
+ Preamble 
+   
+ A. DSS is seeking $13,500,000.00 (the " Commitment") to acquire the patent assets defined hereunder and set forth in Schedule A (the "Patent Assets"), to fund predetermined assertion programs originating from certain of those Pate nt Assets, and for Working Capital; 
+   
+B. INVESTOR invests directly and indirectly in claims, disputes, and litigation and arbitration claims; 
+   
+C. INVESTOR is prepared to make the Investment (as hereinafter defined) and, in consideration therefore, DSS is prepared to assign to INVESTOR the Patent Assets Proceeds (as herein after defined) subject to the terms and conditions set forth herein. 
+   
+ D. The Parties do not intend to waive any attorney-client privilege or any immunities from discoverability of attorney work product or other privileged materials or communications.  T he Parties believe they have common interests in the pursuit of the Claims. 
+   
+ NOW THEREFORE, for good and valuable consideration, it is agreed as follows: 
+   
+ 1.   DEFINITIONS AND INTERPRETATION 
+   
+ 1.1  Definitions . In this Agreement the following terms shall have the meanings given below: 
+   
+ " Additional Return " has the meaning set forth in Section 3.3(a)(ii). 
+   
+ " Affiliate" means, as to any Person, any other Person that, directly or indirectly, controls, is controlled by or is under common control with such Person. 
+   
+ " Applicable Period " means the period starting on the date hereof and ending on November 30, 2031. 
+   
+ " Assigned Rights " has the meaning set forth in Section 3.1. 
+   
+ " Attorney Engagement Agreement " means the Engagement Agreement between an Attorney and DSS related to the Claims. 
+   
+ 
+ 
+ 
+ 1 
+ 
+ 
+   
+ 
+ 
+   
+ " Attorneys " means Russ August  & Kabat, located in Los Angeles, CA. 
+   
+ " Authorization" means an authorization, consent, approval, resolution, license, exemption, filing, notarization or registration. 
+   
+ " Authorized" means authorized by any and all action or Authorization required to make the action contemplated thereby legally binding on a Party. 
+   
+ " Business Day" means any day, excluding Saturday, Sunday, any day which is a legal holiday in New York, New York or a day on which banking institutions in such jurisdiction is authorized or req uired by law or other governmental action to close. 
+   
+ " Claims Costs and Expenses" as used in this Agreement means costs, expenses and disbursements directly related to the Claims, including (without limitation) costs or expenses incurred in the negotiation and drafting of this Agreement, that are (i) validly incurred by DSS or paid or due and payable to third parties including Attorneys; (ii) documented by receipts and invoices paid by DSS or submitted to DSS in connection with the Claims; or (iii) incurred by an Attorney on behalf of DSS pursuant to an Attorney Engagement Agreement. Claims Costs and Expenses shall not include any internal costs or expenses of DSS, including but not limited to overhead or operating costs or expenses of it or its employees, but shall include only costs and expenses incurred by DSS and/or third parties (including travel and lodging expenses of DSS employees) in connection with prosecuting, enforcing or defending the Claims, such as (A) the fees and expenses of consultants, damages experts, other experts or technical advisors, and fact witnesses, or such fees and expenses paid directly by DSS, (B) travel and lodging expenses of third parties involved in the Claims, such as witnesses and experts, for purposes of holding Claims meetings, the preparation of witness statements and expert reports, attending legal proceedings relating to the Claims, and the like, and (C) duplicating, secretarial, stenographer, courier, translation, outsourced legal research, and similar  services provided by Persons other than DSS. 
+   
+ " Claims" means the cases and claims originating from predetermined assertion programs involving certain of the Patent Assets referenced in Schedule A to be asserted by DSS, or any of its Affiliates or by special purpose vehicle(s) against alleged infringers including, but not limited to, any and all related, remanded, appellate or future claims, cases, arbitrations  or proceedings arising from or seeking similar recoveries or remedies. 
+   
+ " Claims Proceeds Account " means the attorney escrow account in the name of DSS under the control of Russ August & Kabat designated for the purposes of receiving and holding the Patent Assets Proceeds pursuant to Section 3.2 and to be operated in accordance with such section. 
+   
+ " Closing " means the closing of the transactions contemplated hereby pursuant to Section 5.2. 
+   
+ 
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ " Closing Date" means the date on which each of the conditions set forth in Sections 5.1 and 5.2 of this Agreement is satisfied or waived by the applicable Party. 
+   
+ " Commitment " has the meaning set forth in Preamble A. 
+   
+ "Corrupt Practices Policies and Procedures"  has the meaning set forth in Section 6.1(i). 
+   
+ " Default" means any event or circumstance specified in Section 8 (Events of Default) that would (with the expiration of a grace period or the giving of notice) become an Event of Default.  A Default is "continuing" if it has not been remedied or waived. 
+   
+ " Defendant " means any of the defendants that is the subject of the Claims. 
+   
+ " Disputes " has the meaning set forth in Section 9.3. 
+   
+ " Dollar " or " $ " means United States Dollars. 
+   
+ " Funding Documents" means, collectively, this Agreement, the Perfection Documents, and any other document contemplated by this Agreement. 
+   
+ " INVESTOR " mean Brickell Key Investments LP, as set forth in the Preamble. 
+   
+ " INVESTOR's Return " has the meaning set forth in Section 3.3. 
+   
+ " Investment " has the meaning set forth in Section 2.1. 
+   
+ " IRR Return" means an amount that provides INVESTOR with a [*] percent ([*]%) internal rate of return on the Commitment. 
+   
+ " Material Adverse Effect" means (a) a material adverse change in, or a material adverse effect upon, the financial condition, operations, assets, business or properties of the Party in question or any of its Affiliates, taken as a whole, (b) a material impairment of the ability of the Party in question to perform any of its obligations under any material provision of any Funding Document, or (c) a material adverse effect upon the legality, validity, binding effect or enforceability against the Party in question of any material provision of any Funding Docume nt. 
+   
+ " Minimum Return " has the meaning set forth in Section 3.3(a)(i). 
+   
+ " Multiple " means [*] times ([*]x) the Commitment. 
+   
+ " Party " and " Parties " have the respective meanings set forth in the third introductory paragraph of this Agreement. 
+   
+ " Patent Assets " means those patents and Pending Patent Applications set forth in Schedule A. 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+ 3 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ " Patent Assets Proceeds" means any and all monetary recoveries (whether through damages, recoveries, royalties, monies, lump-sum payments, upfront payments, settlement amounts, distribution of property, cash value of equities, license fees or other revenues or other assets or amounts) paid by a defendant or defendants or a third-party to DSS or any of its Affiliates, or to an Attorney on behalf of DSS, or recovered, received or receivable by DSS or any of its Affiliates, or to an Attorney on behalf of DSS, as a results of or in connection with the Patent Assets, whether by settlement, judgement, order, or any resolutions relating to or arising from such Patent Assets, plus any interest in connection therewith agreed to in a settlement  or awarded in a judgment. 
+   
+ " Pending Patent Applications" means any patent application, U.S. or foreign, that has been filed but not yet issued as a patent, including but not limited to, any provisional or nonprovisional (utility) application, including any continuations, continuations-in-part, divisionals, reissues, refilings, PCTs, or equivalent applications. 
+   
+ " Perfection Documents" means those documents required to perfect the security interests provided for in Section 4 of this Agreement under the laws of New York and all other jurisdictions in which DSS h as property or assets including, but not limited, those Perfection Documents listed in Annex E. 
+   
+ " Person" means any individual, firm, company, corporation, partnership, limited liability company, government, state or agency of a state or any association, trust, joint venture or conso rtium (whether or not having separate legal personality). 
+   
+ " Realization Date " means a date on which Patent Assets Proceeds are received by DSS in whole or in part. 
+   
+ " Rights" means, with respect to any Person, such Person's rights, titles, claims, options, powers, privileges and interests. 
+   
+ " Security" means a mortgage, charge, pledge, lien or other security interest securing any obligation of any Person or any other agreement or arrangement having a similar effect. 
+   
+ " Security Interest " has the meaning set forth in Section 4.1. 
+   
+ " Taxes" means any foreign, federal, state, local, municipal or other governmental taxes, duties, levies, fees, excises or tariffs, arising as a result of or in connection with any amounts or property received or paid under this Agreement, including, without limitation: (i) any state or local sales or use taxes; (ii) any import, value-added or consumption tax; (iii) any business transfer tax; (iv) any taxes imposed or based on or with respect to or measured by any net or gross income or receipts of any of the Parties; (v) any withholding or franchise taxes, taxes on doing business, gross receipts taxes or capital stock or property taxes; or (vi) any other tax now or hereafter imposed by any governmental or taxing authority on any aspect of this Agreement, the Patent Assets Proceeds, the Investment or the Assigned Rights, and "pre-Tax" shall mean before the deduction of any of the foregoing. Tax es shall also include any interest or penalties imposed on or with respect to the foregoing. 
+   
+ 
+ 
+ 
+ 4 
+ 
+ 
+   
+ 
+ 
+   
+ " Term" shall mean that period of time from the date of this Agreement through the date that all of DSS' obligations hereunder have been satisfied, not to exceed fifteen (15) years; provided however, that notwithstanding the expiration of the Term, DSS' obligation to pay INVESTOR its share of the Patent Assets Proceeds from Claims instituted during the Term shall  survive the Term until such payment obligation is fully satisfied. 
+   
+ " Warrants" mean those warrants to be issued in conjunction with the Investment substantially in the form attached hereto as Annex F. 
+   
+ " Working Capital" as used herein shall mean moneys received by DSS under this Agreement which may be used by DSS in its discretion for any and all usual and customary business purposes relating to  the parent company (DSS) or any of its Affiliates;  provided that no amounts of the Investment shall be used to pay dividends, extraordinary compensation of DSS' and / or DSS' Affiliates' management, or other profit-sharing arrangements. 
+   
+ 1.2  Construction . Unless a contrary indication appears, the following shall apply in this Agreement: 
+   
+(a) A reference to this "Agreement" or to any other agreement or document refers to this Agreement or such other agreement or document, together with all annexes, exhibits and schedules hereto or thereto and all documents expressly incorporated herein or therein by reference, and such shall be a reference to this Agreement or such other agreement or document  as amended, extended, modified, novated, restated or supplemented from time to time; 
+   
+(b) A term used in any other agreement or document referred to herein or in any notice given under or in connection with this Agreement or any other agreement or document has the s ame meaning in such other agreement, document or notice as defined in this Agreement; 
+   
+ (c) Article, Section and Exhibit headings are for ease of reference only; 
+   
+ (d) A provision of law is a reference to that provision as amended or re-enacted 
+   
+(e) A "regulation" includes any regulation, rule, official directive, request or guideline (whether or not having the force of law) of any governmental, intergovernmental or supran ational body, agency, department or regulatory, self-regulatory or other authority or organization; 
+   
+(f) A document expressed to be "on the approved terms" means a document, the terms, conditions and form of which have been agreed by the Parties and a copy of which has been identi fied as such and initialled by or on behalf of each of the Parties; and 
+   
+(g) A reference to Patent Assets Proceeds being "received" by DSS or any of its Affiliates or special purpose vehicles or the "receipt" by DSS or any of its Affiliates or special purpose vehicles of Patent Asset Proceeds, includes in each case the relevant amount being paid to or to the order of DSS or any of its Affiliates or special purpose vehicles, or being set off against or otherwise reducing any obligation of DSS or any of its Affiliates or special purpose vehicles. 
+   
+ 
+ 
+ 
+ 5 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 2. THE INVESTMENT 
+   
+ 2.1  Investment. INVESTOR agrees, subject to the terms and conditions of this Agreement, to provide at the Closing the Commitment, which shall be considered an investment in the Patent Assets Pro ceeds of the Claims for the Applicable Period (the " Investment"), in its funding percentage set forth in Annex B. The Investment shall be funded in the amounts and on the dates to the accounts set forth in Annex C hereto. Any or all of the In vestment shall be used solely for the uses set forth in Annex D. 
+   
+ 2.2   Acknowledgements Regarding the Scope and Nature of the Investment. The Parties recognize and acknowledge that (i) INVESTOR is, through the Investment, purchasing the Assigned Rights from DSS and (ii) DSS is selling, assigning and transferring to INVESTOR an ownership interest in the Patent Assets Proceeds equal to the Assigned Rights. INVESTOR is not acquiring, and does not wish to acquire, ownership of the Claims or Patents. Nothing in this Agreement or in the course or manner of dealings between the Parties shall be construed to cause any of them to be considered to be a partnership, have formed a partnership, or be partners, members, agents or co-venturers of any kind pursuant to any applicable tax or non-tax laws or doctrines. Subject to the "INVESTOR's Return" and "Payment Priority of Proceeds" provisions of Sections 3.3 and 3.4 of this Agreement, if any provision of this Agreement is held unenforceable under applicable commercial law, the Investment shall be deemed to be a limited recourse debt obligation of DSS (secured only by the Claims, Patent Assets and Patents Assets Proceeds) under Article 9 of the Uniform Commercial Code and for such commercial law purposes and shall accrue interest at a [*] percent ([*]%) interest rate (or the maximum rate permitted by applicable law, if lower) compounded annually until paid in full solely from realized Patent Assets Proceeds in accordance with the mandates of Sections 3.3 and 3.4. 
+   
+ 2.3  Matter Monitoring / Privileges and Immunities Preserved . 
+   
+(a) DSS agrees to provide to INVESTOR, and DSS agrees to direct Attorneys to provide to INVESTOR, information and documentation sufficient to monitor developments in the Claims, including without limitation, regular quarterly updates and information about material matters in the Claims, as outlined in Annex A attached hereto. INVESTOR may, but is not bound to, monitor or verify the application of any amount disbursed by or on behalf of DSS in respect of Claims Costs and Expenses pursuant to this Agreement, and any such monitoring shall at all times be in INVESTOR's discretion. In connection with such monitoring, DSS understands that INVESTOR may wish to review certain non-privileged information in connection wi th the Claims, and DSS consents to the providing of such information by the Attorneys;  provided ,  however, that notwithstanding anything to the contrary contained herein, or in any other related agreement or document, in no event shall DSS be obligated to disclose any privileged information or information subject to a judicially determined protective order at any time or for any purpose. 
+   
+(b) The parties agree that they have a common interest in the subject matter and the outcome of the Claims. All information provided to INVESTOR hereunder is and shall at all times remain to the fullest extent under applicable law subject to all applicable privileges and immunities, including the attorney-client privilege, the common interest exception to privilege waiver doctrines, and the work-product immunity doctrine. No waiver of any such privilege or immunity shall be implied by the INVESTOR, its Affiliates or their respective representatives receiving, reviewing or examining information provided INVESTOR hereunder, it being the express intent of the parties to preserve intact to the fullest extent applicable, and not to waive in whole or in part, any and all privileges and immunities to which such information is, may be or may become subject to in the future. 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+ 6 
+ 
+ 
+   
+ 
+ 
+   
+ 2.4  Future Needs. DSS shall not seek alternative or additional funding for the Claims until the entire amount of the Investment has been used. DSS agrees that INVESTOR shall have the first option, but no obligation, to provide further funding for the Claims on terms substantially similar to those set forth herein. If INVESTOR does not indicate its intent to make a further investment in the Claims within thirty (30) days following notice of such request by DSS, then DSS may seek additional funding from other third parties,  provided, however, that any third party providing funding to DSS or any of its Affiliates and Subsidiaries shall not have any payment priority, interest or security interest or lien on the Patent Assets Proceeds that is prior in rights to those of INVESTOR hereunder. In addition, DSS hereby grants INVESTOR a thirty (30) day first refusal right to provide additional financing for the acquisition and / or assertion of additional claims and / or patent assets relating to LED technology including, but not limited to, foreign assertion programs on terms no  less favorable for INVESTOR than those set forth herein. 
+   
+ 3. PROCEEDS 
+   
+ 3.1  Assignment of an Interest in the Patent Assets Proceeds. In consideration for the Investment and subject to the terms of this Agreement, DSS irrevocably assigns to INVESTOR on each Realization Date its Rights in and to the Patent Assets Proceeds realized by DSS or any of its Affiliates with respect to Claims completed or initiated during the Applicable Period, in an amount equal to the Minimum Return and the Add itional Return as hereinafter defined (the " Assigned Rights "). 
+   
+ 3.2  Proceeds Payments to Claims Proceeds Accounts . 
+   
+(a) Each of DSS, its Affiliates, special purpose vehicles, Attorneys and agents shall deposit directly into a Claims Proceeds Account all Patent Assets Proceeds until INVESTOR has received its Minimum Return. Thereafter, DSS shall make payments of Patent Assets Proceeds in accordance with the allocations set forth in Section 3.4. Payments by DSS shall be mad e via wire transfer to the bank account(s) designated by the recipients. 
+   
+(b) DSS, for itself and on behalf of its Attorneys, shall promptly notify INVESTOR of the receipt of Patent Assets Proceeds, and shall immediately thereafter make prompt payment of all amounts payable to INVESTOR under the terms of this Agreement, which in any case shall be paid no later than five (5) Business Days after deposit of same into the Claims Proceeds Account. The Parties hereto and their respective assignees and successors in interest agree that no payments of such Patent Assets Proceeds may be made except in conformance with this Agreement. DSS hereby (i) irrevocably instructs and will instruct Attorneys to pay Patent Assets Proceeds in accordance with the terms of this Agreement and (ii) covenants that it will not direct Attorneys to taken any action which conflicts with such irrevocable instructions. 
+   
+ 
+ 
+ 
+ 7 
+ 
+ 
+   
+ 
+ 
+   
+ 3.3  INVESTOR'S Return. (a) Subject to Section 3.4 below, DSS shall pay INVESTOR, solely from realized Patent Assets Proceeds, a return (the " INVESTOR's Return ") equal to sum of: 
+ 
+   
+ i. either (A) the Multiple or (B) the IRR Return, whichever is greater (the " Minimum Return "); and 
+   
+ ii. [*] percent ([*]%) of Patent Assets Proceeds net of the Minimum Return (the " Additional Return "); 
+   
+(b) In addition, and as additional consideration for the Investment, DSS shall issue INVESTOR a warrant to purchase up to 750,000 shares of DSS common stock in accordance with the  terms of a Warrant agreement to be executed by DSS on the date hereof. 
+   
+ 3.4  Payment Priority of Proceeds . INVESTOR shall have priority of payment regarding Patent Assets Proceeds as follows: 
+   
+     From Patent Assets Proceeds   Until payment in full of the Commitment amount     [*] % Thereafter, until payment in full of the Minimum Return     [*] % Thereafter, as Additional Return     [*] % 
+   
+ 4. SECURITY INTEREST 
+   
+ 4.1  Security Interest. DSS grants and assigns to INVESTOR a senior security interest in the Claims, the Patent Assets and the Patent Assets Proceeds (whether now existing or hereafter from time to time arising or acquired pursuant to Section 2.4) in order to secure payment to INVESTOR of INVESTOR's Return, and DSS shall execute and deliver to INVESTOR at the Closing, and INVESTOR may file with necessary filing offices, the Perfection Documents for the purpose of perfecting INVESTOR's Rights in and to the Claims, Patent Assets and Patent Assets Proceeds as set forth above, and as notice to third parties that DSS has conveyed any interest it may have in or to such Claims, Patent Assets and Patent Assets Proceeds (the " Security Interest "). 
+   
+ 5. CLOSING 
+   
+ 5.1  Conditions Precedent to the Investment . INVESTOR shall only be obligated to make the Investment if on the Closing Date: 
+   
+(a) The representations and warranties of DSS contained in Section 6.1 of this Agreement shall be true and accurate in all material respects; and 
+   
+(b) No Default shall have occurred and be continuing or would result from the transactions to be consummated at such time. 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+ 8 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 5.2  Closing. The obligations of the Parties hereunder shall become effective when and only when each of the following conditions is satisfied (or waived in writing by the appropriate Party): 
+   
+ (a) DSS shall have authorized in writing the contents and filing of the Perfection Documents; and 
+   
+(b) DSS shall have demonstrated to INVESTOR that it has contingent arrangements and a budget in place, acceptable to INVESTOR, to assure that Claims Costs and Expenses for asserting the Claims can be met by DSS either through the Investment, arrangements with Attorneys or otherwise. 
+ 
+5.3  Delivery of Investment. Subject to the satisfaction of the conditions to Closing set forth in Sections 5.1 and 5.2, INVESTOR shall deliver the Investment to DSS as set forth in Annex C. 
+   
+ 6. REPRESENTATIONS, WARRANTIES AND INVESTMENT-RELATED DISCLOSURES 
+   
+ 6.1  DSS's Representations, Warranties and Investment-Related Disclosures. DSS makes the representations and warranties set out in this Section 6.1 to INVESTOR as of (i) the date of this Agreement and (ii) the Closing Date: 
+   
+ (a)  Organization and Good Standing. DSS is a corporation organized, validly existing and in good standing under the laws of New York, and is Authorized to conduct business in New York and all other jurisdictions in  which it conducts business or operations. 
+   
+ (b)  Authorization and Enforceability. DSS has the requisite power and authority to execute and deliver this Agreement and the other Funding Documents, to perform its obligations hereunder and thereunder and to consummate the transactions contemplated hereby and thereby. The execution, delivery and performance by DSS of this Agreement and the other Funding Documents and the consummation of the transactions contemplated hereby and thereby have been duly Authorized by all required action on the part of DSS. 
+   
+ (c)  Due Execution. This Agreement and the other Funding Documents have been duly executed and delivered by DSS, and, assuming the due authorization, execution and delivery hereof and thereof by INVESTOR, they constitute the valid and legally binding obligations of DSS enforceable in accordance with their terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws relating to creditors' rights generally and by general principles of equity. 
+   
+ (d)  Litigation. There is no claim, action, suit, proceeding, arbitration, investigation or inquiry pending before any governmental entity, or to the knowledge of DSS, threatened against DSS or any of its assets, that would have a Material Adverse Effect on DSS, except as set forth in Schedule 6.1(d) hereto. There is not in existence at present and, except in connection with the Claims, DSS is not aware of the potential for any order, judgment or decree of any court or other tribunal or any agency enjoining or requiring DSS to take any action of any kind or to which DSS or its assets are subject or bound, other than as set forth in Schedule 6.1(d) hereto. 
+   
+ 
+ 
+ 
+ 9 
+ 
+ 
+   
+ 
+ 
+   
+ (e)  Title to Property; Absence of Liens and Encumbrances. As of the date of this Agreement and the Closing Date, DSS is solvent, and owns or will own and has or will have good and marketable title to the Patent Assets Proceeds, Claims, and Patent Assets free and clear of all liens and encumbrances or Security in favor of any Person, except for the preexisting third-party licenses to certain of the Patent Assets set forth in Schedule 6(e) and liens of the INVESTOR or Attorneys pursuant to Attorney Engagement Agreements. 
+   
+ (f)  No Conflicts. The execution, delivery and performance by DSS of this Agreement and the other Funding Documents in accordance with their respective terms do not and will not, after the giving of notice, or the lapse of time or both, or otherwise (i) conflict with, result in a breach of, or constitute a default under the charter or corporate documents of DSS or any law, statute, ordinance, rule or regulation, or any court or administrative order or process or any contract, agreement, arrangement, commitment or plan to which DSS is a party or by which DSS or its assets are bound, (ii) require the consent, waiver, approval, permit, license, clearance or authorization of, or any declaration or filing with, any court or public agency or other public authority, or (iii) require the consent of any Person under any material agreement, arrangement, or commitment of any nature. 
+   
+ (g)  Investment-related disclosures. DSS acknowledges that it has and will have superior knowledge regarding the Patent Assets and Claims, due at least in part to its involvement and familiarity with the facts underlying the Patent Assets and its eventual assertion of Claims relating thereto. Moreover, DSS acknowledges that it has and will have access to information regarding the Patent Assets and Claims that will not be available to INVESTOR. In connection with entering into this Agreement, DSS has provided (or has caused its Attorneys to provide) certain information to INVESTOR, including material factual information pertaining to the Patent Assets and potential Claims;  provided, however, that DSS declares that DSS could not and has not provided any disclosure of information or documents protected by the attorney-client or work product privileges, and that the materials and disclosures that have been provided in the course of INVESTOR's due diligence (or that will be provided in the future in accordance with the terms of this Agreement) shall be bound by and in compliance with any applicable confidentiality agreements or protective orders relating to the enforcement of future Claims. All such information has been provided by DSS in consultation with its Attorneys and other counsel, and DSS hereby warrants that all such information was / is true, complete and accurate in all material respects as of the date it was provided and as of the Closing Date. DSS acknowledges that INVESTOR has relied on the accuracy and completeness of this information in agreeing to make the Investment. DSS confirms that it has disclosed all facts in its own possession that DSS reasonably believes could affect INVESTOR's decision to make the Investment. If DSS is or becomes aware of information that it reasonably believes could affect INVESTOR's decision to make the Investment and DSS is prohibited from disclosing such information because it is privileged or subject to a judicially determined protective order, then DSS shall disclose to INVESTOR the fact that such information exists along with DSS's assessment (after consultation with counsel) of such information and its effect, if any, on the claims and defenses, even if it cannot disclose the exact substance of that information. 
+   
+ (h)  Attorney Engagement Agreements. As of the date of this Agreement and the Closing Date, each Attorney Engagement Agreement to which DSS is a party (a) is enforceable against the parties thereto in accordance with its terms, (b) has not been challenged, repudiated, terminated, cancelled or annulled by an person or party thereto and (c) as to INVESTOR, does not prohibit, inhibit or give a p riority in payment of Patent Assets Proceeds to any person. 
+   
+ 
+ 
+ 
+ 10 
+ 
+ 
+   
+ 
+ 
+   
+ (i)  Corrupt Practices Policies and Procedures. As of the date of this Agreement and the Closing Date, DSS (i) has in full force and effect policies and procedures to detect and to deter, for itself and its directors, officers, employees, consultants, agents and representatives, any and all actions that would, or would be reasonably likely to, result in a violation of the United States Foreign Corrupt Practices Act (15 U.S.C. Section 78dd-1, et. seq.) as amended (the "FCPA"), the United Kingdom's Bribery Act 2010 (c. 23), as amended (the "Bribery Act") or any other applicable law with similar intent (the "Corrupt Practices Policies and Procedures") and (ii) that, as part of such Corrupt Practices Policies and Procedures, DSS shall provide in any and all agreements with third parties who may benefit from the Investment or receive Patent Assets Proceeds that no part of the Investment or Patent Assets Proceeds or any other payment, compensation, reimbursement or fee will be used directly or indirectly as a corrupt payment, gratuity, emolument, bribe, kickback or other improper benefit. DSS shall provide to the INVESTOR and / or its representatives all supporting documents requested by the INVESTOR to ensure compliance with the Corrupt Practices Policies and Procedures, the FCPA, the Bribe ry Act and all other applicable laws with similar intent. 
+   
+ 6.2  INVESTOR's Representations and Warranties. INVESTOR makes the representations and warranties set out in this Section 6.2 to DSS as of the date of this Agreement and the Closing Date: 
+   
+ (a)  Organization and Good Standing . INVESTOR is duly organized in its jurisdiction as set forth in the Preamble. 
+   
+ (b)  Authorization and Enforceability. INVESTOR has the requisite power and authority to execute and deliver this Agreement and the other Funding Documents, to perform its obligations hereunder and thereunder and to consummate the transactions contemplated hereby and thereby. The execution, delivery and performance by INVESTOR of this Agreement and the other Funding Documents and the consummation of the transactions contemplated hereby and thereby have been duly Authorized by all required action on the part of INVESTOR. 
+   
+ (c)  Due Execution. This Agreement and the other Funding Documents have been duly executed and delivered by INVESTOR, as appropriate, and, assuming the due authorization, execution and delivery hereof and thereof by DSS or any other third party thereto, they constitute the valid and legally binding obligations of INVESTOR enforceable in accordance with their respective terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws relating to creditors' rights generally and by general pri nciples of equity. 
+   
+ (d)  No Conflicts. The execution, delivery and performance by INVESTOR of this Agreement and the other Funding Documents in accordance with their respective terms do not and will not, after the giving of notice, or the lapse of time or both, or otherwise (i) conflict with, result in a breach of, or constitute a default under INVESTOR's constitutive documents or any law, statute, ordinance, rule or regulation, or any court or administrative order or process or, any contract, agreement, arrangement, commitment or plan to which INVESTOR is a party or by which INVESTOR or its assets is bound, (ii) require the consent, waiver, approval, permit, license, clearance or authorization of, or any declaration or filing with, any court or public agency or other public authority, or (iii) require the consent of any Person under any material agreement, arrangement, or commitment of any nature. 
+   
+ 
+ 
+ 
+ 11 
+ 
+ 
+   
+ 
+ 
+   
+ (e)  Litigation. There is no claim, action, suit, proceeding, arbitration, investigation or inquiry pending before any governmental entity, or to the knowledge of INVESTOR, threatened against INVESTOR, or one of its related entities, that would impact or restrict INVESTOR's ability to comply with the terms of this Agreement. INVESTOR is not aware of the potential for an order, judgment or decree of any court or other tribunal or any agency enjoining or requiring INVESTOR to take any action of any kind or to which INVESTOR or its assets are subject o r bound. 
+   
+ 7. COVENANTS AND TAXES 
+   
+ 7.1  Covenants. For the Term of this Agreement, DSS shall (unless it has obtained prior written consent from INVESTOR to the contrary), at its sole cost and expense: 
+   
+(a) obtain, comply with and use commercially reasonable efforts to do all that is necessary to remain solvent and to maintain DSS as a legal entity with all requisite Authorizations under all applicable law or jurisdictions to carry on its respective businesses in connection with the Patent Assets and Claims; 
+   
+(b) prosecute, and take all necessary actions to ensure that it prosecutes (and where reasonable settlement offers are received, settles), the Patent Assets and Claims with all due skill and care including, without limitation, maintaining the appointment of appropriate Attorneys to act on the behalf of DSS with respect to the Claims; in this regard, DSS acknowledges and agrees that INVESTOR will not (i) direct the activities of any Attorneys or the Claims, (ii) provide any legal professional services to DSS, (iii) appear on pleadings or participate in decisions or settlement negotiations for the Claims, (iv) have an attorney-client relationship with DSS or (v) charge for any consultancy services either during t he course of prosecution of the Claims or upon settlement or other Claims resolution; 
+   
+(c) without the prior written consent of INVESTOR, except as set forth in Sections 2.4, not accept or agree to deploy the capital of any third party lender or capital source in con nection with the Claims; 
+   
+(d) not allow any other Person to hold any Security or payment priority over the Claims, Patent Assets Proceeds and Patent Assets or any rights thereto, without the prior written c onsent of INVESTOR, which consent may be withheld in the sole and absolute discretion of INVESTOR; 
+   
+(e) not transfer, sell, assign or otherwise dispose of any of its Rights in or under any of the contracts or agreements relating to the Claims, Patent Assets, or the Patent Assets Proceeds, including by entering into non-litigation covenants or unconditional licenses as to the Patent Assets that would create exhaustion as to other actual or potential Defenda nts (but not to be interpreted to preclude entry into patent licenses); 
+   
+ 
+ 
+ 
+ 12 
+ 
+ 
+   
+ 
+ 
+   
+(f) directly or through Attorneys, keep INVESTOR timely informed of material developments in the Patent Assets and Claims and all facts and circumstances that may affect the value  of Claims, the Patent Assets and / or Patent Assets Proceeds related thereto; 
+   
+(g) provide INVESTOR with copies of all settlement agreements regarding the Claims and other agreements between DSS and third parties resulting in or from the monetization of the Patent Assets, except when legally precluded from doing so pursuant to the terms of any such settlement agreement. DSS will use best efforts to ensure that such agreements permit IN VESTOR to receive copies thereof. 
+   
+(h) DSS shall not, and shall ensure that all of its Affiliates shall not, be in violation of the Foreign Corrupt Practices Act (15 U.S.C. Section 78dd-1, et. seq.) as amended (the "FCPA") or any other applicable law with similar intent. With respect to this Agreement, DSS and its directors, officers, employees, consultants, agents and representatives will not, directly or indirectly through third parties, pay, promise or offer to pay, or authorize the payment of, any money or give any promise or offer to give, or authorize the giving of anything of value to any individual, entity, or government for purposes of corruptly obtaining or retaining business for or with, or directing business to, any person, including, without limitation, DSS, marveLED Technologies, LLC, or any of their respective Affiliates, owners, directors, employees, advisors or consultants. DSS shall, and DSS shall ensure that all of its Affiliates, directors, employees, consultants and agents, provide to INVESTOR and / or its representatives and advisors all supporting documents requested by INVESTOR to ensure compliance with the FCPA or applicable law with similar intent. During the Term hereof, DSS shall maintain in full force and effect its Corrupt Practice Policies and Procedures and shall ensure that its directors, officers, employees, consultants, agents and representatives shall be, at all times, in full compliance therewith. 
+   
+ 7.2  Taxes . 
+   
+ (a)  Tax Certification and Withholding. All Taxes shall be the financial responsibility of the Party obligated to pay such Taxes as determined by the applicable law, and no Party is or shall be liable at any time for any of another Party's Taxes incurred in connection with or related to amounts paid under this Agreement. DSS shall make each and all payments hereunder to INVESTOR without any dedu ction or withholding on account of any Taxes,  provided that INVESTOR shall furnish to DSS a completed and properly executed U.S. Internal Revenue Service Form W-9. Each Party shall indemnify, defend and hold the other Parties harmless from and against any Taxes owed by or assessed against the other Parties that are the obligation of such Party and from any Purchased Assets, causes of action, costs, expenses, reasonable attorneys' fees, penalties, assessments and any other liabilities of any nature whatsoever related to such Taxes. 
+   
+ (b)  Consistent Tax Treatment. The Parties shall, for United States federal, state and local income and franchise tax purposes, treat this Agreement as effecting an "assignment of income" with respect to the interest in the Patent Assets Proceeds transferred and assigned by DSS to INVESTOR . No Party shall take any position in any tax filing, submission to any tax authority, or otherwise that is inconsistent with this intended tax treatment. Each Party shall promptly notify the other of any challenge by any tax authority to the tax treatment of any payment pursua nt to this Agreement. 
+   
+ 
+ 
+ 
+ 13 
+ 
+ 
+   
+ 
+ 
+   
+ 7.3  Successor or Replacement Attorneys. In the event that an Attorney withdraws from prosecuting the Claims or otherwise ceases to act as an Attorney, then DSS shall appoint successor Attorneys to act as its counsel fo r the Claims,  provided, however, that DSS shall give INVESTOR ten (10) Business Days' prior written notice of the Attorneys it proposes to appoint as successors. DSS shall retain exclusive control to select counsel and to direct the activities of counsel. Should such successor or replacement Attorneys be so appointed, all references to the original Attorney(s) for the Claim(s) shall, where appropriate and effective as of the date of their appointment, be deemed to be a reference to such successor or replacement Attorneys. 
+   
+ 8. EVENTS OF DEFAULT 
+   
+ 8.1  Events of Default . Each of the events or circumstances set out below is an Event of Default: 
+   
+ (a)  Non-payment. DSS fails to pay when due any amount payable under this Agreement at the place and in the currency in which it is expressed to be payable and such failure to pay is not remedied  within five (5) Business Days of INVESTOR giving written notice to DSS. 
+   
+ (b)  Other Obligations. DSS fails to comply with any provision of the Funding Documents (other than those referred to in subsection (a) above, (including, but not limited to, the Covenants set forth in Article 7), and such failure to comply, if capable of being remedied, is not remedied within ten (10) Business Days of INVESTOR giving written notice to DSS. 
+   
+ (c)  Misrepresentation. Any representation, warranty or statement made by DSS in this Agreement, in the other Funding Documents or any other document delivered by or on behalf of DSS under or in connection herewith or therewith is or proves to have been incorrect, incomplete or misleading in any material respect, and such representation, warranty or statement is not remedied by DSS within ten (10) Business Days of DSS becoming aware that it is incorrect, incomplete or misleading. 
+   
+ (d)  Insolvency . 
+   
+(i) DSS is unable or admits inability to pay its debts as they fall due; suspends making payments on any of its material financial obligations; or, by reason of actual or anticipated financial difficulties, commences negotiations with one or more of its creditors to renegotiate any of its indebtedness. For purposes of this subsection, an extension of the maturity date only of any debt instrument (with a corresponding reduction in maturity date balloon payment) shall not be deemed an Event of Default; 
+   
+(ii) The value of the assets of DSS (after taking into account the Investment) is less than its liabilities; and 
+   
+(iii) A judicially imposed moratorium is declared in respect of any indebtedness of DSS. If such a moratorium occurs, the ending of the moratorium will not remedy any Event of Defa ult caused by that moratorium. 
+   
+ 
+ 
+ 
+ 14 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ (e)  Insolvency Proceedings . Any legal proceedings are taken in relation to: 
+   
+(i) the suspension of payments, a moratorium of any indebtedness, winding-up, dissolution, liquidation, administration or reorganization (by way of voluntary arrangement, scheme of  arrangement, or otherwise) of DSS; 
+   
+(ii) the filing of a voluntary petition for relief under the bankruptcy provisions of any jurisdiction by DSS or the filing of an involuntary petition for relief against DSS which  is not dismissed within 45 days of such filing; 
+   
+(iii) a composition, compromise, assignment or arrangement with any creditor of DSS, other than in the ordinary course of business; 
+   
+(iv) the appointment of a liquidator, receiver, administrative receiver, administrator, compulsory manager or other similar officer in respect of DSS or substantially all of the as sets of DSS; or 
+   
+ (v) enforcement of any Security having a value of at least $[*] over any assets of DSS; 
+   
+ or any analogous procedure or step is taken in any jurisdiction. 
+   
+ (f)  Creditors process. Any expropriation, attachment, sequestration, distress or execution or any analogous process with respect to DSS in any jurisdiction affects any material asset of DSS and is not d ischarged within five (5) Business Days. 
+   
+ (g)  Incurrence of Indebtedness. DSS shall not, directly or indirectly, incur or guarantee any additional indebtedness in the aggregate in excess of $1,000,000, except as may be consented to in writing by INVESTOR, such consent not to be unreasonably withheld. This provision shall not be interpreted to preclude the incurrence of indebtedness by DSS's Affiliates related to capital asset pu rchases made by such Affiliates in the ordinary course of their respective businesses. 
+   
+ 8.2  Rights and Remedies. During the continuance of an Event of Default, INVESTOR may, in its sole and absolute discretion, upon at least fifteen (15) Business Days' written notice to DSS, do any one or m ore of the following: 
+   
+(a) require DSS to remit to INVESTOR any balance of the Investment remaining, whether held in DSS bank accounts or in an attorney client escrow account. 
+   
+(b) except as otherwise provided herein, without notice to or demand upon DSS, make such payments and do such acts, on behalf of DSS, as INVESTOR reasonably considers necessary or  reasonable to protect its rights under this Agreement; 
+   
+(c) except as otherwise provided herein, in addition to the foregoing, INVESTOR shall have all rights and remedies provided by law and any rights and remedies contained in any Funding Document (including without limitation enforcing its security interest in the Patent Assets Proceeds, the Claims, and Patent Assets). 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+ 15 
+ 
+ 
+   
+ 
+ 
+   
+ 8.3  Special Power of Attorney. DSS hereby appoints INVESTOR (or its respective representatives), effective only upon the occurrence and during the continuance of any Event of Default referred to in Section 8.1(d) or 8.1(e), as its attorney-in-fact, with full power of substitution, to do all things and take all actions, in its own name and as attorney-in-fact for DSS, to pursue any of DSS's Rights with respect to and/or in the Claims and to engage such legal counsel for the account of DSS, but at the cost of INVESTOR that INVESTOR shall, in its good faith judgment, deem to be in the best interests of INVESTOR and DSS. This Special Power of Attorney shall at all times be coupled with an interest and shall survive the dissolution, insolvency or bankruptcy (as the Claims may be under the laws of any jurisdiction) of DSS. Notwithstanding any provision in this Agreement or the other Funding Documents to the contrary, any and all Patent Assets Proceeds received by or on behalf of DSS on or after INVESTOR's exercise of its rights in accordance with this Section 8.3 shall be distributed to INVESTOR up to the amount of the INVESTOR's Return. Any costs incurred by INVESTOR pursuant to the exercise of its rights under this Section 8.3 shall be treated as part of the Investment and subject to recovery as part of the INVESTOR's Return. INVESTOR shall have the right to delegate the powers provided for in this Section 8.3 to a third party. 
+   
+ 9. GOVERNING LAW; WAIVER OF SPECIFIC DEFENSES; DISPUTES 
+   
+ 9.1  GOVERNING LAW. THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH NEW YORK STATE LAW, WITHOUT RE GARD TO ITS CONFLICT OF LAWS RULES, OR IN ACCORDANCE WITH APPLICABLE U.S. FEDERAL LAW. 
+   
+ 9.2  Specific Waivers. DSS irrevocably waives and forever and unconditionally releases, discharges and quitclaims, any claims, counterclaims, defenses, causes of action, remedies and/or rights it or its successors in interest has or may in the future have arising from any doctrine, rule or principle of law or equity that this Agreement, or the relationships or transactions contemplated by this Agreement, (i) are against the public policy of any jurisdiction with which DSS has a connection, or (ii) are unconscionable, or (iii) constitute champerty, maintenance or any impermissible transfers or assignments of property, fees or choses in action, or (iv) violate the rules of professional ethics applicable to DSS, INVESTOR or any of the ir lawyers or professional advisers. 
+   
+ 9.3  Arbitrable Claims. All actions, disputes, claims and controversies under common law, statutory law, rules of professional ethics, or in equity of any type or nature whatsoever, whether arising before or after the date of this Agreement, and directly relating to: (a) this Agreement and/or any amendments and addenda hereto, or the breach, invalidity or termination hereof; (b) any previous or subsequent agreement between INVESTOR and DSS related to the subject matter hereof; (c) any act or omission committed by INVESTOR or by any Person affiliated with INVESTOR, or by any member, employee, agent, or lawyer of INVESTOR, whether or not arising within the scope and course of employment or other contractual representation of INVESTOR (provided that such act arises under a relationship, transaction or dealing between INVESTOR and DSS); and/or (d) any act or omission committed by DSS, or by any employee, agent, partner or lawyer of DSS whether or not arising within the scope and course of employment or other contractual representation of DSS (provided that such act arises under a relationsh ip, transaction or dealing between INVESTOR and DSS) (collectively, the " Disputes"), will be subject to and resolved by binding arbitration under these Sections 9.3 - 9.8. The Parties agree that the arbitrators have exclusive jurisdiction, to the exclusion of any court (except as specifically provided with regard to prejudgment, provisional, or enforcement proceedings in Section 9.5), to decide all Disputes. 
+   
+ 
+ 
+ 
+ 16 
+ 
+ 
+   
+ 
+ 
+   
+ 9.4  Administrative Body. Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration under the Arbitration Rules of The London Court of International Arbitration (LCIA) (www.lcia-arbitration.com) which rules are deemed to be incorporated herein by reference. All arbitrator(s) selected will be lawyers with at least ten (10) years' experience and be licensed to practice law in the United States. A panel of three arbitrators shall hear all claims exceeding One Million Dollars ($1,000,000), exclusive of interest, costs and lawyers' fees. The arbitrator(s) will decide if any inconsistency exists between the rules of the applicable arbitral forum and the arbitration provisions contained herein. If such inconsistency exists, the arbitration provisions contained herein will control and supersede such rules. The arbitrator shall follow the terms of this Agreement and the applicable state and U.S. federal law set forth herein, including without limitation, the attorney-client privilege and the attorney work-product doctrine. The seat, or legal place, of arbitration shall be London, England, and hearings before the arbitral tribunal shall be held in London, England unless the Parties agree to a different arbitral seat and/or locale. The language to be used in the arbitral proceedings shall be English. 
+   
+ 9.5  Prejudgment and Provisional Remedies. Prior to appointment of the arbitrator, either Party may commence judicial proceedings only for the purpose(s) of: (i) enforcement of the arbitration provisions; (ii) obtaining appointment of arbitrator(s); (iii) preserving the status quo of the Parties pending arbitration as contemplated herein; (iv) preventing the disbursement by any Person of disputed funds; and/or (v) preserving and protecting the rights of either Party pending the outcome of the arbitration. Any such action or remedy will not waive a Party's right to compel arbitration of any Dispute, and any Party may also file court proceedings to have judgment entered on the arbitration award. In any action for prejudgment or provisional relief, any court in which such relief is sought shall determine the availability of such relief without regard to any defenses that may be asserted by the other Party, and any such defenses shall be referred to the exclusive jurisdiction of the arbitrators under Section 9.3. The Parties further agree that a court shall not defer or delay granting prejudgment or provisio nal relief while any such arbitration takes place. 
+   
+ 9.6  Attorneys' Fees. If either DSS or INVESTOR brings any other action for judicial relief with respect to any Dispute (other than those precisely described in Section 9.5), the Party bringing such action will be liable for and immediately pay all of the other Party's costs and expenses (including attorneys' fees) incurred to stay or dismiss such action and remove or refer such Dispute to arbitration. If either DSS or INVESTOR brings or appeals an action to vacate or modify an arbitration award and such Party does not prevail, such Party will pay all co sts and expenses, including attorneys' fees, incurred by the other Party in defending such action. 
+   
+ 
+ 
+ 
+ 17 
+ 
+ 
+   
+ 
+ 
+   
+ 9.7  Enforcement. Any award rendered under this Section shall not be subject to appeal and may be enforced under any and all applicable treaties and internal laws of the jurisdiction where the award-debtor is located, including without limitation under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention). 
+   
+ 9.8  Confidentiality of Awards. All arbitration proceedings, including testimony or evidence at hearings, will be kept confidential, although any award or order rendered by the arbitrator(s) pursuant to the terms of this Agreement may be confirmed as a judgment or order in any state or federal or other national court of competent jurisdiction where proceedings are necessary or appropriate to enforce any award or order. This Agreement concerns transactions involving commerce among the several states and foreign countries. 
+   
+ 9.9  Survival After Termination . The provisions of this Section 9 will survive the termination of this Agreement. 
+   
+ 10. MISCELLANEOUS 
+   
+ 10.1  Entire Agreement and Amendments. This Agreement and the other Funding Documents constitute the entire agreement between the Parties with respect to the matters covered herein and supersede all prior agreements, promises, representations, warranties, statements, and understandings with respect to the subject matter hereof as between DSS and INVESTOR. Each of this Agreement and the Funding Documents are fully enforceable in accordance with their terms. This Agreement may not be amended, altered, or modified except by an amendment or supplement to this Agreement execu ted by all Parties hereto. 
+   
+ 10.2  Partial Invalidity; Severability. If, at any time, any provision of this Agreement or of the other Funding Documents is or becomes illegal, invalid or unenforceable in any respect under any law of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions nor the legality, validity or enforceability of such provisions under the law of any other jurisdict ion will in any way be affected or impaired. 
+   
+ 10.3  Remedies and Waivers. No failure to exercise, nor any delay in exercising, on the part of INVESTOR or DSS, of any right or remedy under this Agreement or the other Funding Documents shall operate as a waiver, nor shall any single or partial exercise of any right or remedy prevent any further or other exercise or the exercise of any other right or remedy. The rights and remedies provided in this Agreement are cumulative and not exclusive of any rights or remedies provided by law. No provision of this Agreement may be waived except in a writing signed by t he party granting such waiver. 
+   
+ 10.4  Assignment. This Agreement shall inure to the benefit of, and be binding upon the respective successors and assigns of the Parties. Neither DSS nor INVESTOR shall assign or delegate its rights or obligations under this Agreement or the other Funding Documents without the prior written consent of the other Party;  provided ,  however, that, in connection with an eventual syndication by INVESTOR of its rights to potential proceeds from its portfolio of claims, including the Patent Assets Proceeds hereunder, INVESTOR may assign or transfer to a third party all or part of its interest in (i) the Patent Assets Proceeds under this Agreement, (ii) its share of any and all recoveries associated with the Patent Assets and / or Claims and / or Patent Assets Proceeds and (iii) any other rights, licenses or obligations hereunder;  provided, further however, that the third party assignee or transferee shall not be deemed a client of the Attorneys, shall not have any control over the Claims, shall not become a party to the Claims and shall not have any access to information in respect of the Claims that is privileged or otherwise judicially protected. Notwithstanding the above, INVESTOR may assign, in whole or in part and without the consent of DSS or any other Person, the rights, benefits and obligations of this Agreement to another pooled investment vehicle managed by Juridica Asset Ma nagement Limited, a Guernsey company, or its Affiliates or their respective successors and assigns. 
+   
+ 
+ 
+ 
+ 18 
+ 
+ 
+   
+ 
+ 
+   
+ 10.5  Confidentiality . 
+   
+(a) INVESTOR hereby agrees that, without the prior written consent of DSS, INVESTOR will not disclose, and will direct INVESTOR's representatives (including, without limitation, INVESTOR's outside counsel) not to disclose, to any person (other than to persons and parties with a common commercial, legal interest or enterprise regarding DSS, the Claims, the Patent Assets or Patent Assets Proceeds) either the fact that this Agreement has been made, or any of the parties, terms, conditions or other facts with respect to this Agreement, or any of the information provided by DSS or any Attorney to INVESTOR pursuant to this Agreement (collectively, the "Confidential Information"). 
+   
+(b) INVESTOR further agrees that none of the Confidential Information shall be disclosed to any person or entity;  provided, however, that any of such information may be disclosed by INVESTOR and / or DSS (A) to INVESTOR's representatives so long as such representatives are informed of the nature of this Agreement and agree to abide by the terms of the same; (B) to the extent INVESTOR and / or DSS is legally required to do so, to government agencies, regulatory bodies or representatives t hereof, courts, arbitral tribunals or pursuant to legal process,  provided that (I) the non-disclosing Party is provided prior notice as soon as reasonably practical upon disclosing Party's learning of any request and opportunity to contest such request, (II) DSS or INVESTORS, as the case may be, is provided an opportunity to seek a protective order or other remedy with respect to the disclosure, including without limitation, to ensure that such Confidential Information as is required to be disclosed is afforded confidential treatment, (III) the disclosing Party shall use commercially reasonable efforts to cooperate with the non-disclosing Party in obtaining a protective order or other remedy with respect to such disclosure, and (IV) in the event a protective order or other remedy is not obtained, INVESTOR or DSS, as the case may be, shall use commercially reasonably efforts to assure the non-disclosing Party that the disclosing Party or its representatives will only furnish that portion of the Confidential Information that is legally required to be disclosed, or (C) if the non-disclosing Party consents in writing to such disclosure before a ny such disclosure has taken place. 
+   
+(c) Notwithstanding anything in this Agreement to the contrary, including the provisions of Sections 10.5(a) and 10.5(b), the Parties agree that DSS may make such filings and disclosures of Confidential Information as it determines, upon advice of counsel, are required by federal and state securities laws and stock exchange rules applicable to DSS, including without limitation, the United States Securities Exchange Act of 1934, as amended (collectively, "Securities Laws"), provided that DSS will use reasonable efforts to seek confidential treatment for Confidential Information that DSS determines, upon advice of counsel, is permitted to be obtained under the Securities Laws. The Parties agree that promptly following the execution of this Agreement DSS will issue a press release and within four (4) business days following the execution of this Agreement, DSS will file with the United States Securities and Exchange Commission a Current Report on Form 8-K ("Form 8-K") disclosing the execution of this Agreement and other disclosures required by the Securities Laws. DSS will provide copies of the press release and the Form 8-K to INVESTOR for INVESTOR's review in advance of DSS's issuance of the press release and filing of the Form 8-K. 
+   
+ 
+ 
+ 
+ 19 
+ 
+ 
+   
+ 
+ 
+   
+ 10.6  Notices . 
+   
+(a) All notices, reports and other communications required or permitted under this Agreement shall be in writing. They shall be delivered by hand or sent by regular mail, courier, fax, email or other reliable means of electronic communication to the Parties at their addresses indicated below or at such other address as may be specified hereafter in writing b y any of the Parties to the other Party in accordance with this Section 10.6. 
+   
+ If to DSS: 
+   
+ Document Security Systems, Inc. 
+ 200 Canal View Blvd. 
+ Suite 300 
+ Rochester, New York 14623 
+ Attention: Jeff Ronaldi, Chief Executive Officer 
+ Email:  ronaldi@dsssecure.com 
+   
+ With a copy to: Document Security Systems, Inc. 
+ 200 Canal View Blvd., Suite 300 
+ Rochester, New York 14623 
+ Attention: Jeffrey D'Angelo, General Counsel 
+ Email: jdangelo@dsssecure.com 
+   
+ If to BKI: Brickell Key Investments LP 
+ 11 New Street 
+ St. Peter Port 
+ Guernsey GY1 2PF 
+ Attention: Corporate Secretary 
+ Fax: [*] 
+ Email: [*] 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+ 20 
+ 
+ 
+   
+ 
+ 
+   
+ With a copy to: 
+ Juridica Asset Management Limited 
+ 11 New Street 
+ St. Peter Port 
+ Guernsey GY1 2PF 
+ Attention: Corporate Secretary 
+ Fax: [*] 
+ Email: [*] 
+   
+ and 
+   
+ Juridica Asset Management (US) Inc. 
+ 18 Broad Street 
+ Suite 201D 
+ Charleston, SC 29401 
+ U.S.A. 
+ Attention: [*] 
+ Fax: [*] 
+ Email: [*] 
+   
+(b) Any notice, report or other communication hereunder shall be deemed to have been delivered and received (i) on the date delivered, if delivered personally by hand or sent by courier, (ii) on the date sent, if sent by fax, email or other form of electronic communication, and (iii) five (5) Business Days after mailing, if placed in the US mail or Guernsey mail, as the Claims may be, by registered or certified mail, first class postage prepaid, with a request for a confirmation of delivery. 
+   
+(c) Any notice, report or other communication sent under Sections 8 or 9 that is sent by fax, email or other electronic communication must be confirmed by sending a hard paper copy thereof to the recipient in accordance with subsection (a) above, provided, the effective date of such notice, report or other communication shall be as specified in subsection (b) above. If the recipient actually received the fax, email or other electronic form of a notice, report or other communication, then the notice, report or other communication shall be deemed to have been given and delivered even if sender fails to send a hard copy as called for in this subsection. 
+   
+ 10.7  Indemnification . 
+   
+(a) DSS shall indemnify and hold harmless INVESTOR and its partners, shareholders, officers, directors, employees, representatives, managers, advisers and each of their respective Affiliates (collectively, "Indemnitees") from and against any and all actions, losses, costs, charges, damages, claims, sanctions, penalties, expenses and reasonable defense costs (collectively, "Costs") arising from (i) any breach of this Agreement by DSS (other than a breach of Section 3.3(a) resulting solely from insufficient receipt of Patent Assets Proceeds by DSS, in which case INVESTOR's recourse shall be limited to such Patent Assets Proceeds), (ii) from DSS' willful misconduct, bad faith or gross negligence in connection with performing its obligations under this Agreement and (iii) from any Costs imposed or awarded by any court, regulatory body or arbitration panel arising from or relating to the Claims, the Patent Assets, the Patent Assets Proceeds, the Security Interest and / or this Agreement including, but not limited to, INVESTOR's and Juridica Asset Management Limited's costs, fees and expenses incurred for responding to discovery requests relating to Claims. DSS shall not be required to indemnify any Indemnitee for Costs associated with such Indemnitee's gross negligence, bad faith or willful misconduct. DSS' obligations to provide indemnification under this clause shall be full-recourse obligations with respect to DSS, and  is not limited to the value of the Patent Asset Proceeds. 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+ 21 
+ 
+ 
+   
+ 
+ 
+   
+(b) Any Indemnitee who receives notice of a claim for which it will seek indemnification hereunder shall promptly notify DSS of such claim in writing. DSS shall have the right to assume the defense of such action at its own cost and expense with counsel reasonably satisfactory to the Indemnitee, but shall not have the right to settle or compromise any claim or action without the consent of Indemnitee, which shall not be unreasonably conditioned, withheld or delayed, and shall not be required if such settlement contains a release of INVESTOR and no admission of liability. If DSS assumes the defense of such action, Indemnitee shall have the right to participate in such defense with its own counsel at its own cost  and expense. 
+   
+(c) Subject to the limitation set forth in Section 10.7(a)(i), DSS' obligations pursuant to this Section 10.7 shall not be limited to realized Patent Assets Proceeds, but shall be  payable from all DSS assets. 
+   
+ 10.8  Counterparts . This Agreement may be executed in counterparts which, when read together, shall constitute a single instrument, and this has the same effect as if the signatures on the counterparts were on a single copy hereof. Delivery of signature pages via e-mail PDF shall constitute original signatures for purposes of this Agreement. A composite copy of this Agreement may be compiled comprising a single copy of the text of this Agreement and one or more copies of the signature pages containing collectively the signatures of all Parties. 
+   
+ [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+   
+ 
+ 
+ 
+ 22 
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the Parties have caused their duly Authorized representatives to execute this Agreement effective as of the date first set forth above. 
+   
+   DOCUMENT SECURITY SYSTEMS, INC.         By: /s/ Jeffrey Ronaldi   Name: Jeffrey Ronaldi   Title: Chief Executive Officer         BRICKELL KEY INVESTMENTS LP               Name:     Title: Director for and on behalf of Brickell Key Partners GP Limited,     as General Partner of Brickell Key Investments LP 
+   
+ 
+ 
+ 
+ 23 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ SCHEDULE A 
+ PATENT ASSETS 
+ (US Patent Nos.) 
+   
+ No.   Patent No.   Country   Status   Title   Application No.   Filing Date [*                       ] 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 
+ 24 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ SCHEDULE 6.1(d) 
+   
+ LITIGATION 
+   
+DSS Technology Management, Inc. v. Taiwan Semiconductor Manufacturing Company, Limited; TSMC North America; TSMC Development, Inc.; Samsung Electronics Co., Ltd.; Samsung Electronics America, Inc.; Samsung Telecommunications America L.L.C.; Samsung Semiconductor, Inc; Samsung Austin Semiconductor LLC; NEC Corporation of America, Civil Action No. 2:14-cv-199- RSP (E.D. Texas) 
+   
+ 
+ 
+ 
+ 25 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ SCHEDULE 6.1(e) 
+   
+ EXISTING LICENSES 
+   
+ LED POOL Membership Agreement (Intellectual Discovery-Kumbo Electric, Inc.) 
+   
+ LED POOL Membership Agreement (Intellectual Discovery-Iljin LED Co. Ltd.) 
+   
+ Patent Licensing Agreement (Intellectual Discovery-Samsung Group/Samsung Electronics Co.) 
+   
+ Patent Licensing Agreement (Avago-Agilent Technologies, Inc.) 
+   
+ Patent Licensing Agreement (Avago-Chartered Silicon Partners Pte. Ltd.) 
+   
+ Patent Licensing Agreement (Avago-LumiLeds Lighting B.V.) 
+   
+ Patent Licensing Agreement (Avago-U.S. based semi-conductor design/manufacturing co.) 
+   
+ Patent Licensing Agreement (Avago-Avago Technologies Limited) 
+   
+ Patent Licensing Agreement (Avago-IBM Corporation) 
+   
+ Patent Licensing Agreement (Avago-Logitech International S.A.) 
+   
+ Patent Licensing Agreement (Avago-Alcatel-Lucent S.A.) 
+   
+ Patent Licensing Agreement (Avago-Agere Systems Guardian Corporation) 
+   
+ Patent Licensing Agreement (Avago-Ericsson-HP Telecom-France) 
+   
+ Patent Licensing Agreement (Avago-Ericcson-HP Telecom-Sweden) 
+   
+ Patent Licensing Agreement (Avago-Hewlett-Packard Company) 
+   
+ Patent Licensing Agreement (Avago-Hua-Pua) 
+   
+ Patent Licensing Agreement (Avago-Hugin Expert) 
+   
+ Patent Licensing Agreement (Avago-Idea, LLC) 
+   
+ Patent Licensing Agreement (Avago-ImagineCard) 
+   
+ Patent Licensing Agreement (Avago-HP Corporation) 
+   
+ Patent Licensing Agreement (Avago-Intria-HP Potomac) 
+   
+ Patent Licensing Agreement (Avago-Liquidity Management Group) 
+   
+ Patent Licensing Agreement (Avago-PT Berka Services) 
+   
+ Patent Licensing Agreement (Avago-Putial Ome) 
+   
+ Patent Licensing Agreement (Avago-Sopura Systems) 
+   
+ Patent Licensing Agreement (Avago-Syc) 
+   
+ 
+ 
+ 
+ 26 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ ANNEX A 
+   
+ General Principles for Disclosure of Material Events or Changes 
+   
+DSS or your Attorneys ("you", "your") should timely inform INVESTOR ("us") of any new or unexpected Patent Assets and Claims developments concerning a material change in, among oth er things: 
+   
+   ● strategy;         ● public profile or any public reporting about the Patent Assets and Claims;         ● facts or law, including factual or legal assumptions about the Patent Assets and Claims;         ● developments that may affect the outcome of the Patent Assets and Claims; and         ● your expectations about the posture and timing of the Patent Assets and Claims. 
+   
+Please report any material change in the status of the Patent Assets and Claims. Please be sure to select the appropriate persons to receive email notification. If in doubt, you ma y also notify us by email or telephone in addition to your posted message. 
+   
+ Regular and Timely Filing of Important Documents 
+   
+Please note that, while we anticipate you will provide us certain important documents, we do not expect you to (and request that you do not) send to us all documents related to the  Claims. For example, please  do not  send to us: 
+   
+   ● copies of every document filed with any court in the Claims;         ● deposition transcripts unless specifically requested; and         ● routine correspondence. 
+   
+ However, please  do  send us the following important documents: 
+   
+   ●key substantive pleadings such as the complaint and responsive pleadings, motions to dismiss, summary judgment or other dispositive motions, and key rulings and orders by the court ;         ● key documents related to any material event or change in the Patent Assets and Claims;         ●any documents related to possible settlement or other resolution of the Claims, including copies of settlement agreements regarding the Claims and other agreements with third parti es resulting in or from the monetization of the Patent Assets; and         ●any scheduling order or other documents that relate to timing of potential resolution of the Claims. 
+   
+ Quarterly Matter Monitoring Report 
+   
+In addition to the general principles of disclosure outlined herein, you will be required to provide us with a quarterly Matter Monitoring Reports (the " Monitoring Report ") within 21 days after the end of each calendar quarter-end (" Quarter Reporting Date "). 
+   
+We understand that material developments may arise in the Patent Assets and Claims between Quarter Reporting Dates. Accordingly and as more particularly described in the Proceeds Investment Agreement, please update us if there are material developments in the Patent Assets and Claims, as and when they occur. 
+   
+ Financial Statements 
+   
+DSS shall provide INVESTOR copies of its annual audited and quarterly unaudited financial statements. Such financial statements shall reflect DSS' adequate capitalization for the duration of the length of the litigation process. Such annual audited financial statements shall be provided to INVESTOR within one hundred twenty (120) days following the end of the prior fiscal year and unaudited quarterly financial statements shall be provided to INVESTOR within sixty (60) days following the end of the relevant quarter. 
+   
+ 
+ 
+ 
+ 27 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ ANNEX B 
+   
+ Funding Percentages of Investment 
+   
+ Investor   Funding Percentage (%)             Brickell Key Investments LP     100   
+   
+ 
+ 
+ 28 
+ 
+ 
+   
+ 
+ 
+   
+ ANNEX C 
+   
+ Investment Amount Allocation 
+   
+ Amount     Disbursement Date   Account Information $ [*]     On the Closing Date   [*] $ [*]     On the Closing Date   [*] 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 29 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ ANNEX D 
+   
+ Uses of Investment 
+   
+1. $[*] to acquire the Patent Assets (to be purchased at no more than a [*]% subordinated interest in the relevant Patent Asset Proceeds to be granted to seller); 
+   
+2. $[*] for Attorneys' Fees (Attorneys to agree to be compensated at [*]% of standard hourly rates capped at $[*], plus a success fee; 
+   
+3. $[*] for out of pocket expenses (capped by Attorneys) to be held in escrow for payment of Claims Costs and Expenses (other than Attorneys' fees); and 
+   
+ 4. $4,500,000.00 for Working Capital and  Inter Partes Review  costs. 
+   
+[*] Confidential treatment requested; certain information omitted and filed separately with the SEC. 
+   
+ 
+ 
+ 30 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ ANNEX E 
+   
+ List of Perfection Documents 
+   
+ UCC-1 Financing Statements covering the following: 
+   
+DSS grants and assigns to INVESTOR a senior security interest in the Claims, the Patent Assets and the Patent Assets Proceeds (whether now existing or hereafter from time to time arising or acquired pursuant to Section 2.4) in order to secure payment to INVESTOR of INVESTOR's Minimum Return and Additional Return. 
+   
+ 
+ 
+ 31 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ ANNEX F 
+   
+ Form of Warrant 
+   
+ 
+ 
+ 32 
+ 
+ 
+   
+ 
+ 
+ 

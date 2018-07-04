@@ -1,0 +1,26 @@
+ htm 1514 Articles of incorporation 3 2016-07-22T12:31:55.829829-05:00 Filing 0001193794-03-000005 2003-03-31 10-K Annual  & Quarterly Reports 0001193794 SALOMON BROTH MRT SEC VIII INC SALOM MRT LN TR SR 2002-HYB1 6189 Asset-Backed Securities NEW YORK DELAWARE DELAWARE true 333-83816-06 2002 DISTRIBUTION SUMMARY Exhibit Exhibit 5 ex10k3.htm EX-3 5 ex10k3.htm 2002 DISTRIBUTION SUMMARY 
+
+Salomon Brothers Mortgage Securities VII, INC.  Mortgage Pass-Through
+Certificates, Series 2002-HYB1
+ 
+ 
+Schedule of Year-To-Date Principal and Interest Distributions to
+Certificateholders for 2002
+ 
+
+Class    Interest            Principal Paid   Realized      Ending Balance
+         Distribution                         Losses
+ 
+
+A1       586,087.36          16,628,278.66    0.00          29,921,721.34
+A2       1,565,635.21        36,881,996.88    0.00          81,768,003.12
+A3       2,102,634.89        36,638,635.01    0.00          117,837,364.99
+A4       397,571.00          6,951,957.95     0.00          21,825,042.05
+AR       0.51                100.00           0.00          0.00
+B1       15,744.21           3,207.70         0.00          1,077,792.30
+B2       10,486.43           2,136.48         0.00          717,863.52
+B3       15,746.98           3,208.25         0.00          1,077,982.16
+M1       65,569.32           13,358.98        0.00          4,488,641.02
+M2       41,960.29           8,548.92         0.00          2,872,4 51.08
+M3       20,972.87           4,272.98         0.00          1,435,727.02
+ 

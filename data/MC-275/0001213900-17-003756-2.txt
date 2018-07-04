@@ -1,0 +1,464 @@
+ htm 99173 Material contracts 10 2017-04-14T05:32:28.216081-05:00 Filing 0001213900-17-003756 2017-04-14 10-K Annual  & Quarterly Reports 0001495536 Ener-Core, Inc. ENCR COMMON OTC 3511 Steam, Gas  & Hydraulic Turbines No CALIFORNIA DELAWARE DELAWARE Ener-Core Inc.;Inventtech Inc. false Small Reporting Company 001-37642FIRST AMENDMENT TO COMMERCIAL AND MANUFACTURING LICENSE AGREEMENT BETWEEN THE COMPANY AND DRESSER-RAND COMPANY, DATED APRIL 11, 2017, EFFECTIVE JANUARY 1, 2017 Exhibit Exhibit 2 f10k2016ex10lxv_enercoreinc.htm EX-10.65 2 f10k2016ex10lxv_enercoreinc.htmFIRST AMENDMENT TO COMMERCIAL AND MANUFACTURING LICENSE AGREEMENT BETWEEN THE COMPANY AND DRESSER-RAND COMPANY, DATED APRIL 11, 2017, EFFECTIVE JANUARY 1, 2017 
+ 
+ Exhibit 10.65 
+   
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ First Amendment to Commercial and Manufacturing License Agreement 
+   
+ This First Amendment to the Commercial and Manufacturing License Agreement (this " Amendment ") is entered into this April 11, 2017 (the " Amendment Effective Date ") by and between Dresser-Rand Company, a New York general partnership (" D-R "), and Ener-Core Power, Inc., a Delaware corporation (" E-C "). D-R and E-C are each a " Party " and together the " Parties." Capitalized terms used in this Amendment and not otherwise defined herein will have the meanings given in the CMLA (as defined below). 
+   
+ WHEREAS , the Parties entered into a Commercial License Agreement on November 14, 2014 (the " CLA"), pursuant to which the Parties worked to develop the Combined System incorporating D-R's gas turbine technology and E-C's power oxidizer technology; 
+   
+ WHEREAS , the Parties executed a Commercial and Manufacturing License Agreement on June 29, 2016 (the " CMLA "); 
+   
+ WHEREAS, the CMLA contemplates its subsequent amendment to terminate the CLA and address related matters upon the satisfaction of certain conditions; and 
+   
+ WHEREAS, the Parties desire to enter to this Amendment in order to formalize the effective date of the CMLA, terminate the CLA, and make the other changes set forth herein. 
+   
+ NOW, THEREFORE, in consideration of the premises and the mutual covenants, terms and conditions set forth herein, and for other good and valuable consideration, the receipt and sufficiency of wh ich are hereby acknowledged, the Parties hereby agree as follows: 
+   
+ 1. EFFECTIVENESS. 
+   
+ 1.1. Section 8.1 of the CMLA ("Effectiveness") is deleted in its entirety. 
+   
+ 1.2. Section 8.2 of the CMLA ("Term") is amended by deleting the first sentence and inserting: 
+   
+ "This Agreement will become effective as of the Effective Date." 
+   
+ 1.3. Section 2.1.1 of the CMLA is amended by replacing "Execution Date" with "Amendment Effective Date". 
+   
+ 2. ONGOING DEVELOPMENT. 
+   
+ 2.1. Parties' Obligations . 
+   
+ 2.1.1. Joint Responsibilities: Each Party will use commercially reasonable efforts to cooperate with and provide reasonable support to the other Party in connection with the other Party's performance of its ob ligations under the CMLA. 
+   
+ 2.1.2. Press Release. The Parties will issue the mutually agreed-upon joint press release within four (4) business days of the date of the Amendment Effective Date. Except for discussion of any information provided in the joint press release or as otherwise required by applicable law, E-C will not release any public statements regarding the subject of the CLA or the CMLA withou t D-R's prior written approval. 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 2.1.3. The following are added as new definitions in Section 1 of the CMLA: 
+   
+ ' Equipment Lease ' means the Lease Agreement dated March 23, 2015 between Dresser-Rand AS and E-C. 
+   
+ ' Initial System' means the first commercial order and installation of a Combined System, to be delivered to Pacific Ethanol. 
+   
+ ' Initial System Deliverables' means the tangible objects, quantifiable characteristics or functions, and services set forth on Annex A hereto. 
+   
+ ' Initial System Site ' means the location for the installation of the Initial System. 
+   
+ ' Initial System Testing' means testing of the Initial System in accordance with the process described in Annex B hereto, to confirm compliance with the specifications set forth in Annex B." 
+   
+ 2.1.4. The following is added as a new Section 2.1.6 of the CMLA: 
+   
+"Perform all design and development work for the Fundamental Process and E-C Products necessary for the delivery of the Initial System Deliverables and participate in any other des ign and development work necessary for the delivery of the Initial System Deliverables." 
+   
+ 2.1.5. The following is added as a new Section 2.2.6 of the CMLA: 
+   
+"Provide technical data, applications guidelines, and general arrangement drawings to E-C for the D-R Gas Turbine to support E-C's design and commissioning of the Initial System." 
+   
+ 2.1.6. The following is added as a new Section 2.2.7 of the CMLA: 
+   
+"Use commercially reasonable efforts to identify opportunities to sell Combined Systems to third parties, and consult with E-C in the review of such opportunities." 
+   
+ 2.2. Initial System Completion . 
+   
+ 2.2.1. Generally. E-C will perform the Initial System Testing. Results of the Initial System Testing will be appended to the FSAT report previously submitted by E-C to D-R. " Initial System Completion" occurs when the Parties agree (which agreement shall not be unreasonably withheld, conditioned or delayed by either Party) that (i) the Initial System Deliverables have been completed in accordance with Annex A and (ii) the Initial System has passed Initial System Testing in accordance with Annex B. 
+   
+ 2.2.2. Preparation and Access. D-R will make arrangements with E-C for Initial System Testing to be performed as provided in Annex B. D-R will provide E-C no less than 5 business days' prior notice that arrangements for Initial System Testing have been made at the Initial System Site. D-R will provide E-C with the opportunity to conduct and perform Initial System Testing (or re-testing, if necessary) for a period beginning with E-C's receipt of such notice and ending no less than 3 days thereafter (the " Test Period"). D-R will use commercially reasonable efforts to provide E-C with continuous and uninterrupted access to the Initial System Site during the foregoing Test Period. 
+   
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   2   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 2.2.3. Costs; Timeline. E-C and D-R shall each bear the cost of their own personnel in connection with the Initial System Testing, and all other costs of the Initial System Testing shall be paid solely by E-C. E-C will ensure that Initial System Completion occurs on or before May 15, 2017 provided that (i) E-C obtains continuous and uninterrupted access to the Initial System Site during the Test Period, (ii) D-R ensures that all necessary conditions for the Initial System Testing are present while E-C conducts such testing during the Test Period and (iii) the Test Period commences no later than April 27, 2017; all subject to Section 16.1 of the CMLA. If the Parties agree that this deadline is unfeasible or if the conditions in the foregoing sections (i) through (iii) are not satisfied, the Parties will promptly negotiate in good faith an appropriate extension. 
+   
+ 2.3. Bespoke Developments. The design and development work required to fulfill Initial System Completion and provide the Initial System Deliverables will not be deemed Bespoke Developments (as defined in Section 3.10 of the CMLA). Any requested work beyond the scope of Initial System Completion and the System Deliverables will constitute Bespoke Development governed by Section 3.10  of the CMLA. 
+   
+ 3. GRANT OF LICENSES. 
+   
+ 3.1. Exclusivity Period . The following will be added as new Sections 3.1.1 and 3.1.2 of the CMLA: 
+   
+ 3.1.1."E-C hereby grants D-R an exclusive option to negotiate and acquire a worldwide exclusive or a worldwide non-exclusive license under the Licensed IP for D-R to: (i) make, have made, sell, offer for sale and import E-C Products, and (ii) market and commercialize the E-C Products, in both cases as part of the Combined System with Rated Power that is greater th an 4 MWe and less than or equal to 10 MWe (the ' Expanded Scope '). 
+   
+ 3.1.2.The period of such D-R option will commence upon Initial System Completion and will expire on September 15, 2017 (the ' Exclusivity Period '). During the Exclusivity Period: 
+   
+ 1.E-C will not solicit any third party regarding a potential license for some or all of the power ranges within the Expanded Scope; 
+   
+ 2. E-C will not negotiate with any third party any terms or conditions of such a potential license; 
+   
+ 3. E-C will not enter into any agreement with any third party regarding such a potential license, and; 
+   
+ 4. D-R may negotiate with E-C a new expanded license (the ' Expanded License') for some or all of the power ranges within the Expanded Scope, on such terms and subject to such conditions as the Parties may agree, which agreement may include one or more of  the following: 
+   
+ a. Initial license for the Intellectual Property of E-C which is subject to the Expanded License; 
+ 
+   
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   3   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ b. The duration of the Expanded License; 
+   
+ c.Specific technology development goals, which may include agreed costs regarding such development and the allocation of such costs; 
+   
+ d.Specific sales and support resources applicable to D-R's selling the products utilizing the Intellectual Property of E-C which is the subject of the Expanded License; and 
+   
+ e. Whether the Expanded License is exclusive to D-R, and the geographic scope of the Expanded License. 
+   
+For the avoidance of doubt, this Section 3.1.2 will not prohibit E-C from responding to third party scientific or technical inquiries regarding its Intellectual Property, provided that such communications by E-C do not include any solicitation or negotiation of a potential license within the Expanded Scope or any discussion of the legal or commercial terms t hereof." 
+   
+ 3.2. Sales Thresholds; True-Up Payments. Section 3.2 of the CMLA is deleted in its entirety and replaced with the following (without affecting Sections 3.2.1 and 3.2.2): 
+   
+ " Sales Thresholds; True-Up Payments. The License will remain an Exclusive License for so long as D-R sells a minimum of [***] units of the Combined System in each twelve-month period after the Amendment Effective Da te (the ' Sales Threshold'); provided, that the first Sales Threshold period will begin on the earlier of July 15, 2017 (but only if Initial System Testing has not begun due to causes under D-R's reasonable control) and the date of Initial System Completion and will continue for fifteen months, at which point, twelve-month Sales Threshold periods will run consecutively. In addition, in the event that, in any given twelve-month period, D-R sells at least [***] units of the Combined System, then the Sales Threshold for the following twelve-month period will be  waived (the ' Sales Threshold Waiver ')." 
+   
+ 4. CONFIDENTIALITY. 
+   
+Any Confidential Information disclosed by either Party under the CLA will be deemed such Party's Confidential Information for all purposes under the CMLA and will be protected acco rdingly. 
+   
+ 5. GENERAL RELEASE. 
+   
+ 5.1. Release. Each Party, on behalf of itself and its Affiliates, hereby unconditionally and irrevocably releases, acquits and forever discharges the other Party and its Affiliates, their respective permitted successors and assigns, directors, officers, employees, agents, and representatives, from any and all past claims, counterclaims, demands, liabilities, suits, debts and causes of action, whether known or unknown, which arose prior to the Amendment Effective Date under (i) the CLA or (ii) the CMLA as it existed prior to this Amendment(collect ively, " Claims"). Each Party and its Affiliates, and any of their respective permitted assigns and successors in interest, covenant and agree that they will not, directly or indirectly, bring, initiate, request, petition for, maintain or prosecute any Claims in any jurisdiction against the other Party or its Affiliates. 
+   
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   4   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 5.2. Clarification. For avoidance of doubt, Section 5.1 does not release or waive any claim, counterclaim, demand, liability, suit, debt or causes of action: (i) with respect to any indemnification obligation for claims by third parties accruing pursuant to the terms of the CLA or CMLA, even if the third party claim accrued prior to the Amendment Effective Date; or (ii) arising out of a breach of any obligation of either Party under the CMLA, as amended by this Amendment, even if the breach initiated prior to the Amendment Effective Date. 
+   
+ Equipment Lease. E-C and D-R will ensure that E-C and Dresser-Rand AS, respectively, have executed the release set forth in Annex C regarding claims under the Equipment Lease within 10 business d ays from the Amendment Effective Date. 6. 
+   
+ 6. PAYMENTS. 
+   
+ 6.1. Prepaid Credits. D-R will pay E-C $1.2 million within 10 business days from the Amendment Effective Date as a pre-payment against future License Fees under the CMLA. This pre-payment will be cred ited as [***] (each, a " Prepaid Credit") against the License Fees due for each of the first [***] sales of a Combined System (collectively, the " [***]"), if any, as calculated pursuant to Section 4.1 of the CMLA. No refund for the Prepaid Credits shall be due to D-R to the extent that fewer than [***] sales of a Combined System are consummated, but the remaining Prepaid Credits will be credited against any True-Up Payment made by D-R pursuant to Section 3.2.1 of the CMLA. 
+   
+Of the Prepaid Credit, 50% ([***]) will be credited against the initial payment due under Section 4.2(i) of the CMLA (the " Initial Payment"), and the remaining 50% ([***]) will be credited against the later payment due under Section 4.2(ii) of the CMLA (the " Backend Payment "). 
+   
+ 6.2. Example. By way of example only, if the first Combined System sells for $5 million and a First Tier License Fee is owed: 
+   
+The License Fees calculated pursuant to Section 4.1 of the CMLA would be [***], payable as a [***] Initial Payment and a [***] Backend Payment. The Prepaid Credit of [***] would be credited as [***] against the Initial Payment and [***] against the Backend Payment, leaving net amounts of [***] for the Initial Payment and [***] for the Backend Payment. 
+   
+ 6.3. Claims . Settlement of certain cost claims will be separately paid by E-C pursuant to Annex D. 
+   
+ 7. BACKSTOP SECURITY. 
+   
+ 7.1. Backstop Security. Section 11.1 of the CMLA is amended by replacing the phrase "$2.1 MM until June 17, 2017" with "$500,000 until March 31, 2018". 
+   
+ 7.2. Clarification . The following is appended to Section 11.1 of the CMLA: 
+   
+"Notwithstanding anything to the contrary herein, the Parties agree that E-C is only responsible for providing the Backstop Security for E-C Products provided to D-R as part of any agreed-upon Transition Phase, and that any remaining Backstop Security obligations will expire on the end of the last applicable warranty period for any such E-C Products." 
+   
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   5   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 8. KEY PERSONNEL; NON-SOLICIT. 
+   
+ 8.1. Non-Solicit . Section 16.18 of the CMLA is deleted in its entirety and replaced with the following: 
+   
+ " Non-Solicitation. During the term of this Agreement and for twelve (12) months thereafter, neither Party shall directly or indirectly solicit or attempt to employ any then-current employees or boa rd (including advisory board) members of the other Party (collectively, ' Restricted Personnel'), except as mutually agreed by the Parties. Notwithstanding the foregoing, neither Party will be prohibited from soliciting or employing any former Restricted Personnel who is no longer an employee or board (including advisory board) member of the other Party; provided that such former Restricted Personnel did not terminate his or her employment or board (including advisory board) membership with the first Party in response to a targeted solicitation by the second Party. Notwithstanding the general restrictions in this Section 16.18, if E-C is unwilling or unable to fulfill its obligations under this Amendment or the CMLA for any reason, D-R may engage Restricted Personnel of E-C to the extent necessary for D -R to fulfill its obligations to a Customer regarding the Combined System." 
+   
+ 8.2. Clarification. For avoidance of doubt, (a) nothing in this Amendment, including without limitation the provisions of this Section 8, will be construed to alter the ownership and disposition of intellectual property set forth in the CMLA (including the definition of "Fundamental Process Technology Developments" or Section 3.3 thereof and (b) all information relating to the Fundamental Process known by former Restricted Personnel at the time they are employed or otherwise engaged by D-R shall be E-C Background Intellectual Property disclosed to D-R as E-C Confidential Information for the purposes of the definition of "Fundamental Process Technology Developments". 
+   
+ 9. TERMINATION. 
+   
+ 9.1.If Initial System Completion does not occur on or before the date set forth in Section 2.2.3 of this Amendment (subject to any mutually agreed-upon extension), then D-R will be entitled to terminate the CMLA for cause. In the event of such termination, in addition to any other remedies D-R may be entitled to under the CMLA or at law or equity: 
+   
+ 9.1.1. D-R may pursue Plan B in accordance with Section 9.6 of the CMLA; and 
+   
+ 9.1.2. D-R may immediately redeem the full amount of the Backstop Security. 
+   
+ 9.2.Upon any termination of the CMLA, the License granted to D-R by E-C in Section 3.1 thereof will survive, and D-R will only be liable to pay License Fees above and beyond the first US$1.5 million of License Fees (net any applicable Prepaid Credits) that would otherwise come due after the effective date of termination. 
+   
+ 9.3.Subject to Section 16.1 of the CMLA, if by July 15, 2017 (i) D-R has not provided E-C with continuous and uninterrupted access to the Initial System Site during the Test Period or (ii) D-R has not ensured that all necessary conditions for the Initial System Testing were present during the Test Period, then E-C will be entitled to terminate the CMLA for cause pursuant to Section 8.3 of the CMLA. Notwithstanding the foregoing, upon receipt of a notice of termination from E-C pursuant to this Section 9.3, D-R may fully cure the alleged failure to meet the obligations set out in sections (i) and (ii) above by waiving any remaining obligations of E-C under Annex B (Initial System Testing), at which point the require ments of Annex B will be deemed complete. 
+   
+ 10. GENERAL. 
+   
+ 10.1. CLA. The CLA is hereby terminated and, for avoidance of doubt, those clauses that survive as set forth in Section 10.5 of the CLA will so survive in accordance with its terms. 
+ 
+   
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   6   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 10.2. Participation. The Parties acknowledge that D-R or its Affiliates may, from time to time, offer Customers debt or equity financing for equipment or services related to the Combined System (each , a " System Financing "). D-R will use commercially reasonable efforts to deliver a notice (a " Participation Notice") to E-C of any System Financing no later than 15 business days following an offer of System Financing to a Customer. Provided that E-C delivers a notice of its interest to participate in the applicable System Financing within thirty (30) days following its receipt of the Participation Notice, the Parties will use good faith efforts to negotiate a commercially reasonable agreement providing for purchase by E-C at the par value or stated value thereof not less than a [***] participation interest in such System Financing at the same price and on all of the same terms (on a pari passu basis) or the economic equivalent thereof. Any failure by D-R to provide notice of an offer of System Financing shall not give ris e to any liability under the CMLA or otherwise. 
+   
+ 10.3. No Transition Phase Election. For the avoidance of doubt, as of the date hereof, the Parties have not elected to commence any Transition Phase. 
+   
+ 10.4. No Other Amendment. Except as provided for above, this Amendment does not further amend the terms of the CMLA, which remains in full force and effect as currently written. 
+   
+IN WITNESS WHEREOF, E-C and D-R hereto have each caused this Amendment to be executed by them or in the name and on behalf of each of them by one of their respective officers, ther eunto duly authorized, as of the Amendment Effective Date.  
+   
+   Ener-Core Power, Inc.       By: /s/ Alain J. Castro   Name: Alain J. Castro   Title: Chief Executive Office         Dresser-Rand Company       By: /s/ Jesus M. Pacheco   Name: Jesus M. Pacheco   Title: EVP Technology  & Innovation 
+ 
+ 
+   
+ 
+ 
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   7   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ Annex A 
+   
+ Initial System Deliverables 
+ Deliverable   Description Power Oxidizer dump valve leakage   
+ Â·	Perform and report on natural gas sniffer test at dump valve stacks at Initial System Site to verify absence of leakage 
+   
+ 
+ Â·	 Include regular identical test in the inspection / maintenance manual for the Power Oxidizer 
+ Power Oxidizer filter  Perform and report on hot soak calculation to provide an estimate how long the components above the turbine inlet pipe remain above [***] after a hot shut down Integrated controls   Demonstrate start-up and steady-state sequencings at Initial System Site 
+   
+ Test Reviews . D-R will have 5 days following delivery of the Initial System Deliverables (such 5-day period a " Deliverables Review Period") to determine whether the applicable requirements in this Annex A have been met. If D-R does not provide written notice to E-C of its determination that such requirements have not been fully met, specifying the reason for rejection, within 5 business days following the termination of the Deliverables Review Period, the requirements of this Annex A will be  deemed to have been met at the end of such 5 business days. 
+   
+ Rejections. If D-R provides timely notice that the requirements in this Annex A have not been met, E-C will have 10 business days from the date of receipt of such notice, unless otherwise provided for in a Customer contractual commitment, to commence a cure of all material non-conformances described in the written notice of rejection and to deliver to D-R a plan for prompt delivery of conforming Initial System Deliverables. Upon delivery of purportedly remedied Initial System Deliverables, these testing and rejection provisions will again apply, the new Deliverables Review Period running from the date of delivery of the new Initial System Deliverable. If the Initial System Deliverable is again rejected by D-R or fails to meet Customer contractual commitments, D-R may terminate the CMLA as provided in Section 9.1 of the Amendment. For avoidance of doubt, for the Initial System Project, D-R will hav e the right in its sole discretion to make the decision to replace the E-C Products with Plan B. 
+   
+ 
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ Annex B 
+   
+ Initial System Testing 
+   
+ I. Objective 
+   
+The objective of this test is to meet the following acceptance test requirements for the Initial System at the Initial System Site. 
+   
+ Â·During the emissions testing, the Combined System will be operated at full rated power. The Turbine Inlet Temperature (TIT) should be nominally  >[***]. Turbine Exit Temperature (TET) thermocouples may be used to calculate this. 
+   
+ Â·The emissions will be measured at the Power Oxidizer system exit flange interface with the Gas Turbine Inlet Flange (hot inlet-designated TP03) while operating on pipeline natural  gas only - VOCs from Pacific Ethanol site will not be introduced. 
+   
+ NOx  < [***] 
+   
+ CO  < [***] 
+   
+ VOCs (volatile organic compounds)  < [***] 
+   
+ II. Test set up 
+   
+The Initial System will be used to perform this emissions test. The system will be set up with an emissions sample port at the Power Oxidizer system exit. Figure 1 presents the location sampling port for the emissions. The port will include a tube that will be inserted to the depth of the flow to ensure the sample will be extracted from the main system flow. The emissions will be sampled in one location and will not traverse the flow path as is the standard with exhaust flow measurement methods. Traversing in this location is not poss ible due to the pressure boundary. 
+   
+ Figure 1:  Emissions sampling location in the oxidizer system exit. 
+   
+   
+   
+ 
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+A third party emissions tester will be utilized to measure emissions at this location and reported per SCAQMD methods 100.1 and 25.3. 
+   
+ NO x  = [***] is attainable by SCAQMD method 100.1. By using a span gas of [***] NO x  to calibrate the chemiluminescence NO x  analyzer, the third party emissions tester's Reporting Limit is NO x  = [***], but measured values should be lower . 
+   
+ CO < [***] is attainable by SCAQMD method 100.1. By using a span gas of [***] CO to calibrate the NDIR CO analyzer, the third party emissions tester's Reporting Limit is [***]. 
+   
+ VOC < [***] needs confirmation by third party emissions tester. SCAQMD method 25.3 is performed to measure the total VOC (NMOC).  Reporting limit is  [***] . 
+   
+ Instrumentation 
+   
+Below is a list of instrumentation needed to operate the Initial System to the right air cycle test conditions and collect data for the emissions test. Full accuracy descriptions will be provided for item 8. Ener-Core will only provide instrumentation for item #8. The balance of the instrumentation is provided by Dresser-Rand on the Initial System. 
+   
+ 1. Power measurement 
+   
+ 2. Ambient temperature measurement 
+   
+ 3. Compressor inlet temperature 
+   
+ 4. Barometer (relative humidity  & barometric pressure) 
+   
+ 5. Differential pressure measurement across inlet filters 
+   
+ 6. Backpressure measurement (D-R Gas Turbine exhaust pressure) 
+   
+ 
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 7. Pressure measurements (compressor absolute pressure transducers) 
+   
+ 8. NOx, CO and VOC emissions measurement equipment 
+   
+ 9. D-R Gas Turbine exit temperature (6 K-type thermocouples) 
+   
+ Test Procedure 
+   
+The Initial System will start up utilizing pipeline natural gas. The Initial System will also use pipeline natural gas as the direct injected fuel for steady state operation. Full automation of the startup and steady state operation is not required to perform the test. While in steady state the Initial System will maintain full power by maintaining TP04 temperature that was previously defined by D-R during the FSAT test. Table 1 outlines the temperature versus ambient temperature. 
+   
+ Table 1:  Operational adjustment table for ambient temperature versus TP04 
+   
+ [***] 
+   
+This target temperature will be maintained with a tolerance of +/- 10F for the duration of the test. The TP04 measurements will be recorded with the six K type thermocouples located in the gas turbine exit (TE1476A-F). These temperatures are averaged providing a single TP04 measurement match. (Note: this is a production D-R Gas Turbine TP04 measurement set u p). 
+   
+Once the Initial System has been in Steady State for a minimum of 2 hours the emissions sampling per the emissions protocol will start. "Steady State" condition is defined as 2-3 hours after warmer burner is turned off. The emissions sampling will last for 2-3 hours. Once the emissions sampling is finished the test will be complete. 
+   
+E-C will provide a written report outlining the data and results (including any data supplied by D-R that might be requested by E-C), with the 3 rd  party emissions tester full report document supplied as an appendix. 
+   
+ Test Reviews . D-R will have 10 days following receipt of the complete report from E-C (such 10-day period a " Testing Review Period") to determine whether the applicable requirements in this Annex B have been met. If D-R does not provide written notice to E-C of its determination that such requirements have not been fully met, specifying the reason for rejection, within 5 business days following the termination of the Testing Review Period, the requirements of this Annex B will be deeme d to have been met at the end of such 5 business days. 
+   
+ Rejections. If D-R provides timely notice that the requirements in this Annex B have not been met, E-C will have 10 business days from the date of receipt of such notice, unless otherwise provided for in a Customer contractual commitment, to commence a cure of all material non-conformances described in the written notice of rejection and to deliver to D-R a plan for prompt remediation and re-performance of Initial System Testing. Upon additional Initial System Testing following purported remediation by E-C, these testing and rejection provisions will again apply, the new Testing Review Period running from the date of receipt of the subsequent complete report from E-C. If Initial System Testing is again rejected by D-R or fails to meet Customer contractual commitments, D-R may terminate the CMLA as provided in Section 9.1 of the Amendment. 
+   
+ 
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ Annex C 
+   
+ Release of Claims Under the Equipment Lease 
+   
+This Annex C is entered into as of the Amendment Effective Date by and between E-C and Dresser-Rand AS (the " Lease Parties"). The Lease Parties are parties to the Equipment Lease, and wish to mutually release claims under such Equipment Lease as further set forth herein. 
+   
+Each Lease Party, on behalf of itself and its Affiliates, hereby unconditionally and irrevocably releases, acquits and forever discharges the other Lease Party and its Affiliates, their respective permitted successors and assigns, directors, officers, employees, agents, and representatives, from any and all past claims, counterclaims, demands, liabilities, suits, debts and causes of action, whether known or unknown, which arose prior to the Amendment Effective Date under the Equipment Lease (collectively, " Lease Claims"). Each Lease Party and its Affiliates, and any of their respective permitted assigns and successors in interest, covenant and agree that they will not, directly or indirectly, bring, initiate, request, petition for, maintain or prosecute any Lease Claims in any jurisdiction against the other Lease Party or its Affiliates. 
+   
+Notwithstanding the foregoing, the Lease Parties agree and acknowledge that the Lease Claims do not include E-C's obligations to return the Equipment pursuant to Section 2.7 of the  Equipment Lease, and that this Annex C does not affect such E-C obligations.  
+   
+   
+ 
+   Ener-Core Power, Inc.       By:                  Name:     Title:           Dresser-Rand Company       By:     Name:     Title:   
+     
+   
+   
+ 
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ Annex D 
+   
+ Cost Claim Settlement 
+   
+ 1. Unit Claim . E-C will pay a total of [***] to D-R for settlement of certain cost claims (the " Settlement Amount "), which will be paid [***] per sale of the [***] (each, a " Unit Claim") prior to the payment of the License Fees due for each of the [***] of a Combined System as calculated pursuant to Section 4.1 of the CMLA as follows. 
+   
+For each of the [***] of a Combined System, 50% of the Unit Claim ([***]) will be paid by E-C to D-R prior to the Initial Payment, and the remaining 50% of the Unit Claim ([***]) w ill be paid in advance of the Backend Payment. 
+   
+E-C shall have the right, but not the obligation, to prepay the outstanding balance of the Settlement Amount at any time. 
+   
+ 2. Example . By way of example only, assume the first Combined System sells for $5 MM: 
+    
+As demonstrated in Section 6.2 of this Amendment, after crediting the Prepaid Credit, there would be net amounts of [***] payable for the Initial Payment and [***] payable for the Backend Payment. The Unit Claim of [***] would be paid as follows: [***] would be payable from E-C to D-R before the Initial Payment and [***] would be payable from E-C to D-R befo re the Backend Payment. 
+   
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission. Confiden tial treatment has been requested with respect to this omitted information. 
+ 
+   
+   
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 

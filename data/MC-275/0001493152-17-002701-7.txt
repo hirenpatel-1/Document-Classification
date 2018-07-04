@@ -1,0 +1,113 @@
+ htm 39056 Material contracts 10 2017-03-22T05:31:45.236347-05:00 Filing 0001493152-17-002701 2017-03-22 10-K Annual  & Quarterly Reports 0001505497 BioRestorative Therapies, Inc. BRTX BRTXW COMMON OTC 8090 Miscellaneous Health  & Allied Services, Not Elsewhere Classified No NEW YORK DELAWARE DELAWARE Stem Cell Assurance, Inc. false Small Reporting Company 001-37603 EX-10.60 Exhibit Exhibit 7 ex10-60.htm EX-10.60 7 ex10-60.htm 
+   
+ Exhibit 10.60 
+   
+ 
+ STOCK OPTION AGREEMENT , made as of the 10 th  day of June, 2016, between  BIORESTORATIVE THERAPIES, INC.,  a Delaware corporation (the "Company"), and  Mark weinreb  (the "Optionee"). 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ WHEREAS , the Optionee serves as the Chief Executive Officer and Chairman of the Board of the Company; 
+   
+ WHEREAS, the Company desires to provide to the Optionee an additional incentive to promote the success of the Company; 
+   
+ WHEREAS, the Company and the Optionee are parties to an Executive Employment Agreement dated as of March 9, 2015 (the "Employment Agreement"); and 
+   
+ WHEREAS, capitalized terms used but not defined herein shall have the respective meanings ascribed thereto in the Employment Agreement. 
+   
+ NOW ,  THEREFORE, in consideration of the foregoing, the Company hereby grants to the Optionee the right and option to purchase shares of Common Stock of the Company under and pursuant to the terms and conditions of the Company's 2010 Equity Participation Plan (the "Plan") and upon and subject to the following terms and conditions: 
+   
+ 1.  GRANT OF OPTION. The Company hereby grants to the Optionee the right and option (the "Option") to purchase up to Two Hundred Seventy-Five Thousand (275,000) shares of Common Stock of the Company  (the "Option Shares") during the following periods: 
+   
+(a) All or any part of Ninety-One Thousand Six Hundred Sixty-Seven (91,667) shares of Common Stock may be purchased during the period commencing on the date hereof and terminating  at 5:00 P.M. on June 10, 2026 (the "Expiration Date"). 
+   
+(b) All or any part of Ninety-One Thousand Six Hundred Sixty-Seven (91,667) shares of Common Stock may be purchased during the period commencing at 12:01 A.M. on June 10, 2017 and  terminating at 5:00 P.M. on the Expiration Date. 
+   
+(c) All or any part of Ninety-One Thousand Six Hundred Sixty-Six (91,666) shares of Common Stock may be purchased during the period commencing at 12:01 A.M. on June 10, 2018 and te rminating at 5:00 P.M. on the Expiration Date. 
+   
+Notwithstanding the foregoing, (i) in the event that the Optionee's employment with the Company is terminated by the Company Without Cause or by the Optionee for Good Reason (whether following a Change in Control or otherwise) or (ii) in the event that the Optionee's employment with the Company is not terminated by the Company on or prior to the Expiration Date of the Employment Agreement, and the Optionee does not resign his employment on or prior to the Expiration Date of the Employment Agreement, and, on or prior to the Expiration Date of the Employment Agreement, the Company and the Optionee, for any reason, do not enter into an agreement to extend the term of the Employment Agreement (whether on modified terms or otherwise) or enter into a new employment agreement, and, within three (3) months following the Expiration Date of the Employment Agreement, there is a termination of employment Without Cause or the Optionee resigns his employment for any reason, and, on the date of termination of employment, any portion of the Option is not exercisable, such unexerc isable portion of the Option shall become exercisable (an "Option Acceleration Event"). 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+   
+ 2.  NATURE OF OPTION. The Option is not intended to meet the requirements of Section 422 of the Internal Revenue Code of 1986, as amended, relating to "incentive stock options". 
+   
+ 3.  EXERCISE PRICE. The exercise price of each of the Option Shares shall be Three Dollars and Seventy-Three Cents ($3.73) (the "Exercise Price"). The Company shall pay all original issue or transfe r taxes on the exercise of the Option. 
+   
+ 4.  EXERCISE OF OPTIONS. (a) The Option shall be exercised in accordance with the provisions of the Plan. As soon as practicable after the receipt of notice of exercise and payment of the Exercise Price as provided for in the Plan, the Company shall tender to the Optionee a certificate issued in the Optionee's name evidencing the number of Option Shares covered thereby. 
+   
+(b) The Company agrees that, as contemplated in Section 13(b) of the Plan, the Optionee may elect to have the Company reduce the number of Option Shares otherwise issuable by a number of Option Shares having a Fair Market Value (as defined in the Plan) equal to the exercise price of the Option being exercised. In the event of such election, the Company shall  issue to the Optionee a number of Option Shares computed using the following formula: 
+   
+ X   = 
+ Y (A-B) 
+      A 
+         Where X   = the number of Option Shares to be issued to the Optionee         Y   = the number of Option Shares subject to this Option (or the portion there of being cancelled)         A   = the Fair Market Value of one Option Share         B   = the Exercise Price 
+   
+ 5.  TRANSFERABILITY. The Option shall not be transferable other than by will or the laws of descent and distribution and, during the Optionee's lifetime, shall not be exercisable by any person other  than the Optionee. 
+   
+ 6.  TERMINATION OF EMPLOYMENT. To the extent the Option becomes exercisable, the Option shall remain exercisable until the Expiration Date notwithstanding any subsequent termination of employment with the Company or its subsidiaries for any reason whatsoever. In addition, in the event of an Option Acceleration Event, the Option shall remain exercisable until the Expiration Date notwithstanding any termination of employment with the Company or its subsidiaries for any reason whatsoever. 
+   
+ 7.  INCORPORATION BY REFERENCE . The terms and conditions of the Plan are hereby incorporated by reference and made a part hereof. 
+   
+ 
+ 
+   2   
+ 
+ 
+   
+ 
+ 
+   
+ 8.  NOTICES. Any notice or other communication given hereunder shall be deemed sufficient if in writing and hand delivered or sent by registered or certified mail, return receipt requested, addressed to the Company, 40 Marcus Drive, Suite One, Melville, New York 11747, Attention: Vice President of Operations, and to the Optionee at the address indicated below. Notices shall be deemed to have been given on the date of hand delivery or mailing, except notices of change of address, which shall be deemed to have been given when received. 
+   
+ 9.  BINDING EFFECT. This Stock Option Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective legal representatives, successors and assigns. 
+   
+ 10.  ENTIRE AGREEMENT. This Stock Option Agreement, together with the Plan, contains the entire understanding of the parties hereto with respect to the subject matter hereof and may be modified only by  an instrument executed by the party sought to be charged. 
+   
+ 11.  GOVERNING LAW. This Stock Option Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, excluding choice of law rules thereof. 
+   
+ 12.  EXECUTION IN COUNTERPARTS. This Stock Option Agreement may be executed in counterparts, each of which shall be deemed to be an original, but both of which together shall constitute one and the same instrum ent. 
+   
+ 13.  FACSIMILE SIGNATURES. Signatures hereon which are transmitted via facsimile, or other electronic image, shall be deemed original signatures. 
+   
+ 14.  INTERPRETATION; HEADINGS. The provisions of this Stock Option Agreement shall be interpreted in a reasonable manner to give effect to the intent of the parties hereto. The headings and captions under sections and paragraphs of this Stock Option Agreement are for convenience of reference only and do not in any way modify, interpret or construe the intent of the parties or affect any  of the provisions of this Stock Option Agreement. 
+   
+ [ Signature page follows ] 
+   
+ 
+ 
+ 
+   3   
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the parties have executed this Stock Option Agreement as of the day and year first above written. 
+   
+   BIORESTORATIVE THERAPIES, INC.         By:     Name: Mandy Clyde   Title: Vice President of Operations             Signature of Optionee         Mark Weinreb   Name of Optionee         40 Marcus Drive   Melville, NY 11747   Address of Optionee 
+   
+ 
+ 
+   4   
+ 
+ 
+   
+ 
+ 
+ 
+ 

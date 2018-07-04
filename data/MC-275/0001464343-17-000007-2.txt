@@ -1,0 +1,332 @@
+ htm 52084 Material contracts 10 2017-03-31T15:34:26.055623-05:00 Filing 0001464343-17-000007 2017-03-31 10-K Annual  & Quarterly Reports 0001464343 Atlanticus Holdings Corp ATLC COMMON Nasdaq Global Market 6141 Personal Credit Institutions No GEORGIA GEORGIA GEORGIA CompuCredit Holdings Corp false Small Reporting Company 000-53717 LOAN AND SECURITY AGREEMENT Exhibit Exhibit 2 atlc-exhibit1014b123116.htm EX-10.14B 2 atlc-exhibit1014b123116.htm LOAN AND SECURITY AGREEMENT 
+ 
+ 
+ 
+ 
+ 
+ Exhibit 10.14(b) 
+ 
+ 
+ SECOND AMENDMENT 
+ TO LOAN AND SECURITY AGREEMENT 
+ 
+ THIS SECOND AMENDMENT TO LOAN AND SECURITY AGREEMENT   (this "Amendment") is made and entered into as of the 22nd day of November, 2016, by and between   ATLANTICUS HOLDINGS CORPORATION,   a Georgia corporation, as Borrower   (" Borrower "), certain Subsidiaries of Borrower as guarantors (" Guarantors") , and   DOVE VENTURES, LLC,   a Nevada limited liability company, as lender (together with any successors or assigns thereto, " Lender "). 
+ 
+ W   I   T   N   E   S   S   E   T   H : 
+ 
+WHEREAS, Borrower, Guarantors and Lender are parties to a certain Loan and Security Agreement dated as of November 26, 2014, as amended by a certain First Amendment to Loan and Security Agreement dated as of November 23, 2015 (as so amended, the "Loan Agreement"), pursuant to which Lender has made two separate term loans to Borrower, each in the principal am ount of Twenty Million Dollars ($20,000,000) (the "Term Loans"); and 
+      
+WHEREAS, Borrower, Guarantors and Lender wish to amend the Loan Agreement to extend further the termination date of the Term Loans; and 
+ 
+NOW, THEREFORE, for and in consideration of the premises, the terms and conditions set forth herein and other good and valuable consideration, the receipt and sufficiency of which  are hereby acknowledged, the parties hereto hereby agree as follows: 
+ 
+ 1. Defined Terms.  Defined terms used herein, as indicated by the initial capitalization thereof, shall have the same respective meanings ascribed to such terms in the Loan Agreement unless otherwise  specifically defined herein. 
+ 
+ 2. Amendments.   The definition of " Termination Date" contained in Section 1.1 of the Loan Agreement is hereby amended by deleting such definition in its entirety and substituting in lieu thereof a new definition of " Termination Date " to read as follows: 
+ 
+ " Termination Date" means the earliest of (a) the prepayment of the Term Loans in full, (b) the date, if any, of the acceleration of the maturity of the Term Loans pursuant to   Section 9.1(a)   and (c) November 22, 2017. 
+ 
+ 3. Representations and Warranties; No Default.   The Credit Parties hereby jointly and severally represent and warrant to the Lender as follows: 
+ (a)all of the representations and warranties of the Credit Parties contained in the Loan Agreement and the other Loan Documents are true and correct in all material respects (or, to the extent such representation or warranty is qualified as to materiality, remain true and correct) on and as of the date hereof as fully as though such representations and warranti es had been made on the date hereof;   provided  that each reference to the Loan Agreement therein shall be deemed to be a reference to the Loan Agreement after giving effect to this Amendment; and 
+ (b)on and as of the date of this Amendment and after giving effect to the waivers contained herein, no Default or Event of Default has occurred and is continuing under the Loan Agreem ent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. Guarantor Reaffirmation. Each Guarantor hereby consents to and approves all of the terms of this Amendment and further, after giving effect to this Amendment (a) reaffirms all of its covenants, agreements, indebtedness, liabilities and obligations under the Loan Agreement and the other Loan Documents to which it is a party, (b) reaffirms the guaranty by such Guarantor of the Obligations and the grant of Liens in all of such Guarantor's interests in the Collateral owned by it as security for the payment and performance of the Obligations, (c) agrees that notwithstanding the effectiveness of this Amendment or the transactions contemplated thereby, all such covenants, agreements, indebtedness, liabilities, obligations guaranty, grant of Liens and the terms of the Loan Documents to which it is a party are not impaired or affected in any manner whatsoever (except to the extent expressly modified or waived pursuant to this Amendment) and shall continue to be in full force and effect and shall continue to secure all Obligations, and (d) agrees that the Loan Documents to which it is a party sha ll and do remain in full force and effect. 
+ 
+ 5. Expenses.  Borrower agrees to pay, immediately upon demand by Lender, all costs, expenses, attorneys' fees, and other charges and expenses incurred by Lender in connection with the negotiation, preparation, execution and delivery of this Amendment and other instrument, document, agreement or amendment executed in connection with this Amendment. 
+ 
+ 6. Defaults Hereunder.  The breach of any representation, warranty or covenant contained herein or in any document executed in connection herewith, or the failure to observe or comply with any term or agreement contained herein or in any document executed in conjunction herewith, shall constitute an Event of Default under the Loan Documents and Lender shall be entitled to exercise all rights and remedies it may have under the Loan Agreement, any of the other Loan Documents and applicable law. 
+ 
+ 7. Conditions Precedent.  This Amendment shall not become effective until executed and delivered by Lender and a duly authorized officer of each Credit Party. 
+ 
+ 8. References in Loan Documents.  All references in the Loan Agreement and the other Loan Documents to the Loan Agreement shall hereafter be deemed to be references to the Loan Agreement as amended hereby and as th e same may hereafter be amended from time to time. 
+ 
+ 9. No Claims, Offset.  The Credit Parties hereby represent, warrant, acknowledge and agree to and with Lender that (a) no Credit Party holds or claims any right of action, claim, cause of action or damages, either at law or in equity, against Lender which arises from, may arise from, allegedly arise from, are based upon or are related in any manner whatsoever to the Loan Agreement and the Loan Documents or which are based upon acts or omissions of Lender in connection therewith and (b) the Obligations are absolutely owed to Lender, without offset, deduction  or counterclaim. 
+ 
+ 10. No Novation.  The terms of this Amendment are not intended to and do not serve to effect a novation as to the Loan Agreement. The parties hereto expressly do not intend to extinguish any debt or security interest created pursuant to the Loan Agreement. Instead, it is the express intention of the parties hereto to affirm the Loan Agreement and the security created thereby. 
+ 
+ 11. Limitation of Amendment.  Except as expressly set forth herein, this Amendment shall not be deemed to waive, amend or modify any term or condition of the Loan Agreement or any of the other Loan Documents, each of which is hereby ratified and reaffirmed, and which shall remain in full force and effect, nor to serve as a consent to any matter prohibited by the terms and conditions ther eof. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12. Loan Document.  This Amendment shall constitute a "Loan Document" for all purposes of the Loan Agreement and the other Loan Documents. 
+ 
+ 13. Counterparts.  This Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original, but all of which counterparts together shall constitute but one and the same instrument. Signature pages to this Amendment may be detached from multiple separate counterparts and attached to the same document and any facsimile copy of any such executed signature page shall be valid as an original. 
+    
+ 14. Successors and Assigns.  This Amendment shall be binding upon and inure to the benefit of the successors and permitted assigns of the parties hereto. Notwithstanding any other language to this Amendment or the Loan Agreement, any one of the Lenders may at any time assign all or any portion of its rights under the Loan Agreement, as amended hereby, and the Notes, as replaced and substituted pursuant to the Loan Agreement, as amended hereby, in accordance with Section 12.3 of the Loan Agreement. 
+ 
+ 15. Section References.  Section titles and references used in this Amendment shall be without substantive meaning or content of any kind whatsoever and are not a part of the agreements among the parties h ereto evidenced hereby. 
+ 
+ 16. Further Assurances.  Each Credit Party agrees to take such further action as Lender shall reasonably request in connection herewith to evidence the amendments herein contained to the Loan Agreement. 
+ 
+ 17. Governing Law.  This Amendment shall be governed by, and construed in accordance with, the laws of the State of Nevada. 
+ 
+ [Signature pages to follow] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the date first written above. 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ BORROWER: 
+ 
+   
+ 
+ ATLANTICUS HOLDINGS CORPORATION 
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: /s/ William R. McCamey 
+ 
+   
+ 
+ William R. McCamey 
+ Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ GUARANTORS: 
+ 
+   
+ 
+ ACC HOLDING, LLC 
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: /s/William R. McCamey 
+ 
+   
+ 
+ Name: 
+ Title: 
+ 
+   
+ 
+   
+ 
+   
+ 
+ ACCESS FINANCING, LLC 
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: /s/Mitch Saunders 
+ 
+   
+ 
+ Name: Mitch Saunders 
+ Title: Vice President 
+ 
+   
+ 
+   
+ 
+   
+ 
+ ATLANTICUS SERVICES CORPORATION 
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: /s/William R. McCamey 
+ 
+   
+ 
+ Name: William R. McCamey 
+ Title: Chief Financial Officer 
+ 
+ 
+ 
+ [Signature continue on following page] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ CC SERVE CORPORATION 
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: /s/William R. McCamey 
+ 
+   
+ 
+ Name: William R. McCamey 
+Title: Vice President 
+ 
+   
+ 
+   
+ 
+   
+ 
+ CIAC CORPORATION 
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: /s/William R. McCamey 
+ 
+   
+ 
+ Name: William R. McCamey 
+Title: Vice President 
+ 
+   
+ 
+   
+ 
+   
+ 
+ MOBILE TECH INVESTMENTS, LLC 
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: /s/Mitch Saunders 
+ 
+   
+ 
+ Name: Mitch Saunders 
+Title: Vice President 
+ 
+   
+ 
+   
+ 
+   
+ 
+ WILTON ACQUISITIONS, LLC 
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: /s/Mitch Saunders 
+ 
+   
+ 
+ Name: Mitch Saunders 
+Title: Manager 
+ 
+ 
+ 
+ 
+ 
+ [Signature continue on following page] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ LENDER: 
+ 
+   
+ 
+ DOVE VENTURES, LLC, as Lender 
+ 
+ By: Bravo Two Company, Inc., 
+ its manager 
+ 
+ 
+ By:   /s/Joshua C. Miller 
+ Joshua C. Miller 
+ Assistant Secretary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

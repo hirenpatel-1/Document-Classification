@@ -1,0 +1,160 @@
+ htm 50799 Material contracts 10 2017-03-29T16:31:38.245278-05:00 Filing 0001353283-17-000008 2017-03-29 10-K Annual  & Quarterly Reports 0001353283 SPLUNK INC SPLK COM Nasdaq Global Market 7372 Prepackaged Software Yes CALIFORNIA DELAWARE DELAWARE false Large Accelerated Filer 001-35498 EXHIBIT 10.12 Exhibit Exhibit 2 ex-101213117.htm EX-10.12 2 ex-101213117.htm EXHIBIT 10.12 
+ 
+ 
+ 
+ 
+ 
+ Exhibit 10.12 
+ 
+ SECOND AMENDMENT TO OFFICE LEASE AGREEMENT 
+ THIS SECOND AMENDMENT TO THE OFFICE LEASE AGREEMENT   (the " Second   Amendment") is dated December 12, 2016 and is between FRIT SAN JOSE TOWN AND COUNTRY VILLAGE, LLC, a California limited liability company, by its managing member, STREET RETAIL, INC., a Mar yland corporation (" Landlord "), and SPLUNK INC., a Delaware corporation (" Tenant "). 
+ R E C I T A L S 
+ A. Landlord and Tenant are parties to that certain Office Lease Agreement dated August 24, 2015 (the " Lease") pursuant to which Tenant leased the entire first through sixth floors of the office building to be constructed at 3090 Olsen Drive (500 Santana Row), San Jose, California (the " Building"), consisting of approximately 234,622 square feet of Floor Area (as defined in the Lease), the Locker Room (as defined in the Lease) and the Exclusive Elevator Lobbies (as define d in the Lease). 
+ 
+ B.As part of the Lease, the parties entered into a Work Agreement, which was attached to the Lease as Exhibit B and made a part of the Lease. 
+ 
+ C.The parties now wish to amend the Lease and the Work Agreement to correct and update certain information and to obligate Landlord to pay Tenant's contractor directly for the Tenant Work, as that term is defined in the Work Agreement, in an amount not to exceed the amount of the Available Allowance, as that term is defined in the Work Agreement, as amended by  this Second Amendment. 
+THEREFORE, in consideration of the foregoing recitals and the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which  are hereby acknowledged, the parties hereby agree as follows: 
+ 
+ 1. Capitalized Terms.  All initially capitalized defined terms used in this Second Amendment shall have the same meanings as are given such terms in the Lease unless expressly superseded by the terms  of this Second Amendment. 
+ 
+ 2. Term Commencement Date and Rent Commencement Date. Notwithstanding anything to the contrary contained in the Lease, Landlord and Tenant acknowledge and agree that the "Term Commencement Date" and the "Rent Commencement Date" shal l each be December 12, 2016. 
+ 
+ 3. Building Address. The parties hereby delete the reference to "3090 Olsen Drive" in the first sentence of Section 1.01(J) of the Lease and replace it with "3098 Olsen Drive." 
+ 
+ 4. Substantial Completion of Premises. Tenant acknowledges and agrees that Substantial Completion of the Landlord's Work occurred on October 4, 2016. 
+ 
+ 5. Definition of Operating Costs. The parties hereby delete subsection (25) of the last paragraph of Section 6.03.C(25) and replace it with the following: "(25) costs associated exclusively with the retail portions of the Commercial Property other than the retail portions located on the first floor of the Leased Premises, if any (the Operating Costs of which shall be included in the calcul ation of Operating Costs for the Leased Premises)." 
+ 
+ 6. Utilities. The parties hereby delete the fourth (4th) sentence of Section 7.03 of the Lease and replace it with the following new fourth (4 th ) sentence of Section 7.03: 
+ 
+Notwithstanding anything to the contrary in this Lease, utilities for the retail portions located on the first floor of the Leased Premises shall be metered at Landlord's sole cost and expense in accordance with the Building Plans described in Exhibit B-2 of the Work Agreement and (ii) if the Building includes facilities such as elevators for access to the retail areas of the Project that are excluded from the calculation of Floor Area for the purposes hereof, all such areas and/or facilities will be separately metered at Landlord's s ole cost and expense to the extent required by the Final Plans. 
+ 
+ 7. Cabling; Rooftop Installations. The parties hereby delete Section 9.08(B) of the Lease in its entirety and replace it with the following new Section 9.08(B): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subject to the terms and conditions of this Lease including, without limitation, the Rooftop Rules and Regulations (as defined below), Tenant may during the Term, at no additional charge to Tenant, install, operate, maintain and repair on a location of the roof of the Building designated by Landlord, solely in connection with the conduct of Tenant's business  in the Leased Premises, the Rooftop Equipment (as defined below) (collectively, " Rooftop Installations"). All costs associated with the design, fabrication, engineering, permitting, installation, screening, maintenance, repair, operation, use and removal of the Rooftop Installations shall be borne solely by Tenant except to the extent that the Rooftop Installations are part of the Tenant Work and are paid for out of the Tenant Work Allowance or Additional Al lowance. For purposes of this Lease, " Rooftop   Equipment" shall mean (i) telecommunications antennae, microwave dishes and other communications and information technology equipment to serve Tenant's business in the Leased Premises, (ii) connections for such equipment for electrical wiring to the Building's existing electrical supply and cable (including the Tenant Lines) or similar connections necessary to connec t the Rooftop Equipment with Tenant's related equipment located in the Leased Premises. 
+ 
+ 8. Repairs and Maintenance by Tenant; Janitorial; Tenant Capital Repairs. The parties hereby delete Section 10.02.A(d)(ii), but not the "or" that follows, and renumber Section 10.02A(d)(iii) to Section 10.02A(d)(ii). 
+ 
+ 9. Floor Area. The parties hereby delete the number "236,622" in the first paragraph of the Work Agreement and replace it with "234,622". 
+ 
+ 10. Tenant's Agent. The parties hereby delete the name "Per Johanson" in Section 4 of the Work Agreement and replace it with "Ken Tinsley". 
+ 
+ 11. Construction of the Tenant Work.  The parties hereby delete Section 6 of the Work Agreement in its entirety and replace it with the following new Section 6: 
+ 
+ (A)The Plans shall be conclusive as to the entire scope of Tenant Work to be performed by Tenant. Tenant agrees to provide and install the Tenant Work shown on the Plans in a good and workmanlike manner in accordance with the Plans approved by Landlord. Tenant shall pay the cost of all Tenant Work, including all architectural, engineering and other design and construction costs attributable to Change Orders, defined below, subject to application of the Tenant Work Allowance and the Additional Allowance, as set forth in   Section 6   and   Section 9   hereof. 
+ 
+ (B) No material changes or modifications to the Plans shall be made unless by written change order (" Change Order") signed by Landlord and Tenant, provided that Landlord shall have five (5) Business Days to review and notify Tenant of Landlord's approval or disregard of such proposed changes or modifications, and provided further Landlord will not unreasonably withhold approval of any Change Order. Tenant shall deliver to Landlord any such revised Plans approved and dated by Tenant in writing. Any such changes and/or additions shall be subject to Landlord's prior written approval of the Plans depicting such changes and/or additions. 
+ 
+ (C)Tenant shall pay an administrative fee to compensate Landlord for reviewing the Plans and monitoring the Tenant Work, equal to two percent (2%) of the so-called "hard cost" of Tenant Work. Landlord shall invoice Tenant for such administrative fee based on the total "hard costs" of construction set forth in each Application for Payment (as defined below) that is submitted by Tenant's contractor to Tenant in accordance with Section 9(C) (with the last invoice for the administrative fee balanced to reflect final, actual hard costs). Tenant shall pay each such invoice, as Additional Rent, no later than ten (10) business days after its receipt thereof. Notwithstanding the foregoing, Tenant expressly acknowledges and agrees that Landlord has no responsibility for, and shall not be obligated to provide, any construction management services in connection with the Tenant Work Any construction man agement services shall be provided by Tenant at its sole cost and expense. 
+ 
+ (D)Tenant shall pay the cost of all Tenant Work, subject to application of the Available Allowance and Additional Allowance as set forth in   Section 6   and   Section 9  hereof. Any costs payable to Landlord under this Work Agreement that are not paid from the Available Allowance and not paid from the Additional Allowance shall be payable as Additional Rent by Tenant to Landlord within ten (10) calendar days after receipt of an invoice therefor from Landlord, 
+ 
+ 12. Tenant Work Allowance.  The parties hereby delete Section 9(B) of the Work Agreement in its entirety and replace it with the following new Section 9(B): 
+ 
+(B) Provided no Default exists under the Lease that is not cured by Tenant, Landlord agrees to provide Tenant with an allowance (" Tenant Work Allowance ") in the amount of $12,904,210, which is equal to $55.00 per square foot of Floor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Area in the Leased Premises. Subject to the terms and conditions hereof, the Tenant Work Allowance shall be applied against the actual out-of-pocket third party costs and expenses incurred in connection with the design and construction of the Tenant Work. Landlord further agrees that if Landlord is able to obtain an exemption from or a reduction in the City  of San Jose's (the " City ") Building and Structure Construction Tax (S.J. Municipal Code Section 4.46.010 et seq.) (the " Construction Tax") in connection with the construction of the Landlord Work as a result of Tenant's status as an "office and/or research and development user", then Landlord shall pay the actual a mount of such reduction or exemption (the " Additional Allowance") to Tenant,. Landlord agrees to use commercially reasonable efforts to expeditiously obtain the Additional Allowance through any exemption and/or reduction of the Construction Tax; provided, however, that Tenant expressly acknowledges and agrees that (i) neither Landlord nor any of its employees and/or agents have made any representations and/or warranties to Tenant that Landlord will obtain any such reduction and/or exemption from the Construction Tax; and (ii) Landlord's failure to obtain any reduction and/or exemption from the Construction Tax shall neither constitute a default hereunder nor otherwise affect Tenant's obligations hereunder. Tenant agrees to fully cooperate with Landlord in connection with Landlord's efforts to seek a reduction and/or exemption from the Construction Tax. The Tenant Work Allowance and the Additional Allowance shall not be applied to the costs of any furniture, computers, equipment, personal property, or for any other costs other than as provided above. Tenant shall pay all costs in excess of the Tenant Work Allowance and any Additional Allowance for the design and construction of the Tenant Work. Tenant acknowledges and agrees that (a) the Additional Allowance is estimated to be $2,128,693.00, (b) the City has informed Landlord that it intends to pay such amount in three (3) installments (each without interest) in accordance with the following schedule: a first installment of $728,693.00 to be paid no later than December 31, 2016, a second installment of $700,000 to be paid no later than December 31, 2017, and a third installment of $700,000 to be paid no later than December 31, 2018, (c) the second and third installments are subject to the City's City Council (the " City Council") appropriating such funds in the City's fiscal years 2017-2018 and 2018-2019, respectively, (d) if the City Council does not appropriate such funds, then the City shall not be required to pay such amounts, and (e) neither Landlord nor any of its employees or agents have made any representations, warranties or provided any other assurances to Tenant that the City Council will appropriate such funds or that such funds will be paid in a timely manner, if at all. Subject to the foregoing, Landlord agrees that it shall pay each installment of the Additional Allowance it actually receives from the City to Tenant within ten (10) business day of its receipt of the same. Further, Landlord will keep Tenant reasonably apprised of the progress of its efforts to obtain the Additional Allowance, and will, promptly after any relevant exemption or reduction is obtained, provide Tenant with written evidence of such exemption or reduction. Any amount of the Tenant Work Allowance that has not been used in accordance with the foregoing or this Work Agreement within five hundred forty-eight (548) days after Substantial Completion shall be retained by Landlord and Tenant shall have no rights whatsoever with respect thereto. 
+ 13. Disbursement of Available Allowance. The parties hereby delete Section 9(C) of the Work Agreement in its entirety and replace it with the following new Section 9(C): 
+ 
+ (C) As used herein, " Available Allowance" means the Tenant Work Allowance, less any amount paid for the preparation of the Plans. Provided that this Lease is then in full force and effect and Tenant is not in Default of  any of its obligations under the Lease, including this   Exhibit B , then Landlord shall pay the Available Allowance as follows: 
+ (i)Subject to the terms and conditions of this Lease, Landlord will disburse the Available Allowance not more frequently than monthly based on the applications for payment (each an " Application for Payment") submitted in accordance herewith, until the Available Allowance, less Tenant's payments of the administration fee, is completely used. Each such Application for Payment will be based on the actual "soft costs" of construction incurred during the month and on the percentage completion of the "hard costs" of construction at the end of the month, and will in clude a retainage equal to 10% of the billed "hard costs" (the " Retainage"). Subject to the terms and conditions hereof, Landlord shall pay the amount set forth in each Application for Payment (less the Retainage) no later than thirty (30) days after receipt thereof. Each Application for Payment shall (a) be accompanied by (I) a certification of Tenant's architect that the Tenant Work has been completed to a specified percentage completion, (II) an affidavit or other certification from Tenant listing all contractors and suppliers with whom Tenant has contracted with in connection with the Tenant Work, together with the cost of each contract, (III) an affidavit or other certification from Tenant's general contractor listing all subcontractors and suppliers whom the general contractor has contracted with in connection with Tenant's Work, together with the cost of each contract, and (IV) conditional lien waivers in a form satisfactory to Landlord from Tenant's general contractor, all subcontractors and material suppliers involved in the Tenant Work with contracts having a value in excess of $25,000.00 and related to the initial progress payment (conditioned only on payment), and with respect to any payments other than the Landlord's first payment, copies of partial, unconditional lien waivers in a form satisfactory to Landlord from all contractors, subcontractors and material suppliers covering all work and materials under with contracts having a value in excess of $25,000.00 which were the subject of the immediately previous progress payment by Landlord. Tenant hereby instructs Landlord that, upon delivery of an Application for Payment and receipt of the foregoing su pporting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+materials, Landlord shall pay eighty percent (80%) of the amount due under such Application for Payment (not to exceed, in the aggregate, the Available Allowance) directly to Tenan t's general contractor, Devcon Construction, Inc., (" Tenant's GC"). In connection with the foregoing, Tenant expressly acknowledges and agrees as follows: (1) Landlord shall continue to pay such amounts to Tenant's GC unless and until Landlord receives written notice from Tenant's Agent instructing Landlord to discontinue such direct payments, (2) Landlord shall receive a dollar-for-dollar credit against the total amount of the Available Allowance for all amounts directly paid to Tenant's GC, (3) Tenant shall remain solely responsible to Tenant's GC for the performance of its obligations under its contract(s) with Tenant's GC, and (4) Landlord's payment of any amounts of the Available Allowance shall not be deemed a representation, warranty or guaranty by Landlord to Tenant as to any aspect of the Tenant Work including, without limitation, that the Tenant Work has been completed in accordance with the terms and conditions of the Lease. 
+ 
+ (ii)Subject to the terms of this Section 9(c), the Retainage shall be held back until completion of all of the Tenant Work and shall be disbursed directly to Tenant's contractor within thirty (30) days after satisfaction of each of the following conditions: (a) receipt by Landlord of an occupancy permit for the entire Leased Premise; (b) Tenant's execution and delivery to Landlord of any required certificate agreements required under the Lease to specify or confirming the Term Commencement Date and Termination Date; (c) receipt by Landlord of appropriate paid receipts or invoices and final lien waivers from all contractor and subcontractors performing any Tenant Work with contracts having a value in excess of $25,000.00 in connection with the Tenant Work, in a form satisfactory to Landlord, (d) Tenant's architect delivers to Landlord AIA Form G704, certifying that the construction of all of the Tenant Work has been substantially completed, (e) Tenant delivers to Landlord "as-built" drawings in CAD format showing the Tenant Work (updated by Tenant's architect as necessary to reflect all changes made to the Plans during the course of construction; provided, however, that the foregoing shall not permit Tenant to make changes to the Plan except as  otherwise expressly provided in this   Exhibit B), (f) Landlord's receipt of copies of all permits, licenses, certificates and other governmental authorizations and approvals in connection with, and indicating final approval of, the last Phase of the Tenant Work, and which will be necessary for the operation of Tenant's business within the Leased Premises , (g) Landlord's receipt from Tenant of a conformed copy of the a Notice of Completion recorded in the office of the Recorder of the County of Santa Clara, in accordance with California Civil Code Section 3093 or any successor statute, and (h) receipt by Landlord of copies of all warranties, guaranties, and operating manuals and information relating to the improvements, equipment, and systems in the Leased P remises installed as part of Tenant's Work. 
+ 
+Notwithstanding the foregoing, Landlord shall have the right, without the obligation, to apply all or any portion of the undisbursed Tenant Work Allowance or the Additional Allowance to remedy any monetary Default by Tenant occurring hereunder; provided, however, it is expressly covenanted and agreed that such remedy by Landlord shall not be deemed to waive, or release, the monetary Default of Tenant. The foregoing remedy of Landlord is in addition to, and not in substitution for, all other rights and remedies of Landlord in the event  of a Tenant Default under the Lease. 
+If Landlord fails to pay any portion of the Tenant Improvement Allowance or the Additional Allowance when due pursuant to the terms of this   Exhibit B  after submission of all required documents and satisfaction of each of the foregoing conditions, and such failure continues for more than fifteen (15) Business Days following a second notice from Tenant to Landlord of Landlord's delinquency, which notice shall specifically refer to the offset right herein provided, then, subject to the Offset Limit (as defined below), Tenant shall be entitled to deduct from Minimum Monthly Rent payable by Tenant under this Lease the amount of the unpaid portion of the Tenant Improvement Allowance commencing with the Minimum Monthly Rent first due and payable after the expiration of such fifteen (15) day period. Notwithstanding the foregoing, in no event shall Tenant have the right to deduct from Minimum Monthly Rent payable by Tenant under this Lease if Tenant has received written notice of a Default hereunder, and such Default remains uncured. Notwithstanding anything to the contrary contained herein, Tenant agrees that during any period that Tenant is entitled to deduct sums from Minimum Monthly Rent (or any portion thereof) pursuant to this Section, then Tenant's offset right shall be limited such that Tenant pays each month at least fifty percent (50%) of each successive installment of Minimum Monthly R ent (the " Offset Limit "). 
+ 
+ 14. Change Orders . Attached hereto as   Exhibit A  is a list of Change Orders approved by Landlord and Tenant as of the date hereof. Tenant agrees that Tenant shall pay Landlord the sum of $92,433.79 in connection with such approved Change Orders. Tenant shall pay, as Additional Rent, such amount, either in immediately available funds or by authorizing Landlord in writing to deduct such amount from the Available Allowance, no later than ten (10) business days after the mutual execution and delivery of this Amendment. 
+ 
+ 15. No Further Modification; Conflict.  Except as set forth in this Second Amendment, all of the terms and provisions of the Lease shall remain unmodified and in full force and effect.  All references in the Lease to the terms such as "this Lease", "this Agreement", "herein" or "hereof" shall refer to the Lease as amended by this Second Amendment. When used in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+this Second Amendment, the term "Lease" refers to the Lease as amended by this Second Amendment. In the event of any conflict between the terms and conditions of the Lease and the terms and conditions of this Second Amendment, the terms and conditions of this Second Amendment shall prevail. 
+ 
+ 16. Interpretation. Both Landlord and Tenant have been represented in the preparation and negotiation of this Second Amendment by legal counsel. As a result, this Second Amendment reflects the joint efforts of the parties and has been jointly prepared by the parties. This Second Amendment supersedes all prior discussions, writings, amendments or correspondence concerned the matters addressed in this Second Amendment. This Second Amendment shall be construed in accordance with this plain meaning and without regard to any rule of construction that would result in the Second Amendment being construed in a manner more or less favorable to either party to this Second Amendment. 
+ 
+ 17. Successors and Assigns. This Second Amendment shall be binding upon and inure to the benefit of Landlord and Tenant and their respective successors and permitted assigns. 
+ 
+ 18. Counterparts. This Second Amendment may be executed in duplicate counterparts, each of which shall be deemed an original and all of which, when taken together, shall constitute one and the same instrument. Any e-mail transmittal of original signature versions of this Second Amendment shall be considered to have the same legal effect as execution and delivery of the original document and shall be treated in all manner and respects as the original document. The parties also agree to promptly exchange counterparts with original signatures upon the r equest of either party. 
+ 
+ [Signature page to follow.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto intending to be legally bound hereby have executed this Second Amendment under their respective hands and seals as of the day and year first  above written. 
+LANDLORD:    FRIT SAN JOSE TOWN AND COUNTRY VILLAGE, LLC, a California limited liability company, by its managing member, STREET RETAIL, INC., a Maryland corporation 
+ 
+ By:    ________________________________ 
+ Name:    ________________________________ 
+ Title:    ________________________________ 
+ 
+ 
+ TENANT:    SPLUNK INC., a Delaware corporation 
+          
+ By:    ________________________________ 
+ Name:    Timothy C. Emanuelson 
+ Title:    VP Worldwide Controller 
+ 
+ 
+ 
+ 
+ 

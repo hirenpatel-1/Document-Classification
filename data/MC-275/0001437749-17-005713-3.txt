@@ -1,0 +1,313 @@
+ htm 77899 Material contracts 10 2017-03-31T11:31:10.836115-05:00 Filing 0001437749-17-005713 2017-03-31 10-K Annual  & Quarterly Reports 0001053691 Diffusion Pharmaceuticals Inc. RESX COM OTC 2834 Pharmaceutical Preparations No ILLINOIS DELAWARE DELAWARE RestorGenex Corp;Stratus Media Group, Inc;FERIS INTERNATIONAL, INC. false Small Reporting Company 001-37942 EXHIBIT 10.5 Exhibit Exhibit 3 ex10-5.htm EX-10.5 3 ex10-5.htm EXHIBIT 10.5 
+ Exhibit 10.5 
+   
+ STOCK OPTION AGREEMENT 
+   
+ THIS STOCK OPTION AGREEMENT (this " Agreement ") is entered into and effective as of [                   ] (the " Grant Date ") by and between Diffusion Pharmaceuticals Inc., a Delaware corporation (the " Company "), and [                    ] (" Optionee "). 
+   
+ A.                                      The Company has adopted the Diffusion Pharmaceuticals Inc. 2015 Equity Incentive Plan (as such plan may be amended from time to time, the " Plan ") authorizing the Board of Directors (the " Board") of the Company, or a committee as provided for in the Plan (the Board or such a committee to be referred to as the " Committee "), to grant stock options, among other incentive awards, to certain individuals. 
+   
+ B.                                      The Company desires to grant an option to purchase shares of common stock, par value $0.001 per share, of the Company (the " Common Stock ") to Optionee pursuant to the Plan. 
+   
+ C.                                      All of the capitalized terms used in this Agreement not otherwise defined in this Agreement have the same respective meanings as defined in the Plan. 
+   
+NOW, THEREFORE, in consideration of the mutual promises and covenants hereinafter set forth, the Company and Optionee agree as follows: 
+   
+ 1.                                         Grant of Option; Exercise Price.  The Company hereby grants to Optionee, upon the terms and subject to the conditions set forth in this Agreement and the Plan, and effective as of the Grant Date, an option (the  " Option ") to purchase all or any portion of [              ] shares (the " Option Shares") of the Company's Common Stock, at an exercise price of $[       ] per share, which represents 100% of the Fair Market Value of a share of Common Stock on the Grant Date, as dete rmined in accordance with the Plan (such exercise price, as adjusted from time to time pursuant to  Section 5  of this Agreement and Section 4.3 of the Plan, the " Exercise Price").  The Option is not intended to be an "incentive stock option," as that term is used in Section 422 of the Internal Revenue Code of 1986, as amended (the " Code "). 
+   
+ 2.                                         Vesting.  The Option shall vest and become exercisable in [12 quarterly/                        ] equal (or as nearly equal as possible) installments on [the last calendar day of each calendar quarter/              ] over a [three-year/        ] period, beginning on [              ].  [Optionee shall receive a full quarter of vesting for the [         ] calendar qu arter of [     ].] 
+   
+ [OR, IN THE CASE OF PERFORMANCE-BASED VESTING] 
+   
+ [The Option shall vest and become exercisable [                      ]]. 
+   
+ 3.                                         Exercise of Option . 
+   
+ 3.1.                               Notice; Payment.  Subject to the terms and conditions set forth in this Agreement, including vesting of the Option in  Section 2  of this Agreement and termination of the Option in  Section 4 of this Agreement, and the Plan, the Option may be exercised, in whole or in part, at any time and from time to time, by delivery to the Company of written notice of the exercise of the Option, in substantially the form as provided by the Company, stating the number of Option Shares being purchased (the " Purchased Shares"), and accompanied by payment in full of the total aggregate Exercise Price of the Purchased Shares.  The Exercise Price shall be payable in full in any one of the following alter native forms: 
+   
+ (a)                                    Full payment in cash, personal check or certified bank or cashier's check; 
+   
+ (b)                                    Any broker assisted cashless exercise procedure which is acceptable to the Company; or 
+   
+ (c)                                     Cashless net exercise. 
+   
+ 
+   
+   
+ 
+   
+ 
+   
+Upon a cashless net exercise, Optionee shall receive the number of shares of Common Stock equal to a number (as determined below) of shares of Common Stock computed using the follo wing formula: 
+   
+ 
+   
+ 
+ X 
+ 
+ = 
+ 
+   
+ 
+ Y - [ 
+ 
+ (A)(Y) 
+ 
+ ] 
+ 
+   
+   
+ B 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Where 
+ 
+ X 
+ 
+ = 
+ 
+ the number of shares of Common Stock to be issued to Optionee. 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Y 
+ 
+ = 
+ 
+ the number of Purchased Shares. 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ A 
+ 
+ = 
+ 
+ the Exercise Price. 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ B 
+ 
+ = 
+ 
+ the Fair Market Value of one share of Common Stock on the date of exercise. 
+ 
+   
+ 3.2.                               Issuance of Purchased Shares; No Fractional Shares.  Following receipt of the exercise notice and the payment referred to above, the Company shall, as soon as reasonably practicable thereafter, cause certificates (or book-entry notations) representing the Purchased Shares (or such fewer number of Purchased Shares if a cashless net exercise is used) to be delivered to Optionee either at Optionee's address set forth in the records of the Company or at such other address as Optionee may designate in writing to the Company or issue and deposit the Purchased Shares for Optionee's benefit with any broker with which Optionee has an account relationship or the Company has engaged to provide such services under the Plan;  provided ,  however, that the Company shall not be obligated to issue a fraction or fractions of a share otherwise issuable upon exercise of the Option, and may pay to Optionee, in cash or cash equivalent, the Fair Market Value of any such fraction or fractions of a share as of the date of exercise. If requested by the Company in connection with any exercise of the Option, Optionee shall also deliver this Agreement to the Company, which shall endorse hereon a notation of the exercise and, and if the Option is exercised in part, shall return this Agreement to Optionee.  The date of exercise of an Option that is validly exercised shall be deemed to be the date on which there shall have been delivered to the Company the notice refer red to in  Section 3.1 of this Agreement and full payment of the Exercise Price of the Purchased Shares.  Optionee shall not be deemed to be a holder of any Purchased Shares pursuant to exercise of the Option until the date of issuance of a stock certificate or book-entry notation to Optionee for such shares following payment in full for the Purchased Shares. 
+   
+ 3.3.                               Tax Withholding.  The Company is entitled to (a) withhold and deduct from future wages of Optionee (or from other amounts that may be due and owing to Optionee from the Company or a Subsidiary), or make other arrangements for the collection of, all amounts the Company reasonably determines are necessary to satisfy any and all federal, foreign, state and local withholding and employment related tax requirements attributable to the Option, including, without limitation, the grant, exercise or vesting of, the Option; (b) withhold cash paid or payable or shares of Common Stock from the shares issued or otherwise issuable to Optionee in connection with the Option; or (c) require Optionee promptly to remit the amount of such withholding to the Company before taking any action, including issuing any shares of Common Stock, with respect to the Option.  Shares of Common Stock issued or otherwise issuable to Optionee in connection with the Option that gives rise to the tax withholding obligation that are withheld for purposes of satisfying Optionee's withholding or employment-related tax  obligation will be valued at their Fair Market Value on the Tax Date. 
+   
+ 3.4.                               Remaining Option Shares.  Option Shares will no longer be outstanding under the Option (and will therefore not thereafter be exercisable) following the exercise of the Option to the extent of (a) shares used to pay the Exercise Price of an Option under the "cashless net exercise" method (b) shares actually delivered to Optionee as a result of such exercise and (c) any shares withh eld for purposes of tax withholding. 
+   
+ 4.                                         Termination of Option . 
+   
+ 4.1.                               Time of Termination .  Except as provided in this  Section 4  and  Section 5 of this Agreement, the Option shall terminate, no longer be exercisable and expire at 5:00 p.m., Eastern Time, on [                  ] (the " Time of Termination "). 
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ 4.2.                               Termination for Cause.  In the event Optionee's employment (in the event that Optionee is an Employee) or other service (in the event that Optionee is a Consultant) with the Company and all Subsidiaries is terminated by the Company for Cause, the Option will immediately terminate without notice of any kind, and the Option will no longer be exercisable. 
+   
+ 4.3.                               Termination Due to Death, Disability or Retirement .  In the event Optionee's employment (in the event that Optionee is an Employee) or other service (in the event that Optionee is a Consultant) with the Company and all Subsidiaries is terminated by reason of Optionee's death, Disability or Retirement, the Option will remain exercisable, to the extent exercisable as of the date of such termination, for a pe riod of one (1) year after such termination (but in no event after the Time of Termination). 
+   
+ 4.4.                               Termination for Other Reasons.  In the event Optionee's employment (in the event that Optionee is an Employee) or other service (in the event that Optionee is a Consultant)  with the Company and all Subsidiaries is terminated for any other reason, the Option will, to the extent exercisable as of such termination, remain exercisable for a period of three (3) months after such termination  (but in no event after the Time of Termination). 
+   
+ 4.5.                               Effect of Actions Constituting Cause or Adverse Action.  Notwithstanding anything in this Agreement to the contrary and in addition to the rights of the Committee under  Sections 13.5 and 13.6 of the Plan, if Optionee is determined by the Committee, acting in its sole discretion, to have taken any action that would constitute Cause or an Adverse Action during or after the termination of employment or other service with the Company or a Subsidiary, irrespective of whether such action or the Committee's determination occurs before or after termination of Optionee's employment or other service with the Company or any Subsidiary and irrespective of whether or not Optionee was terminated as a result of such Cause or Adverse Action, (a) all rights of Optionee under the Option and this Agreement will terminate and be forfeited without notice of any kind, and (b) the Committee in its sole discretion will have the authority to rescind the exercise, vesting, settlement or issuance of, or payment in respect of, the Option that was exercised, vested, settled or issued, or as to which such payment was made, and to require Optionee to pay to the Company, within ten (10) days of receipt from the Company of notice of such rescission, any amount received or the amount of any gain realized as a result of such rescinded exercise, vesting, settlement, issuance or payment (including any dividends paid or other distributions made with respect to any shares of Common Stock subject to the Option).  The Company may defer the exercise of the Option for a period of up to six (6) months after receipt of Optionee's written notice of exercise or the issuance of Purchased Shares upon the vesting of the Option for a period of up to six (6) months after the date of such vesting in order for the Committee to make any determination as to the existence of Cause or an Adverse Action.  The Company will be entitled to withhold and deduct from future wages of Optionee (or from other amounts that may be due and owing to Optionee from the Company or a Subsidiary) or make other arrangements for the collection of all amounts necessary to satisfy such payment obligations.  This  Section 4.5  will not apply to the Option following a Change in Control. 
+   
+ 4.6.                               Clawback/Forfeiture.  The Option and Option Shares issued or issuable pursuant to the Option are subject to forfeiture or clawback by the Company to the extent required and allowed by law, including the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 and the Sarbanes Oxley Act of 2002 and any implementing rules and regulations promulgated thereunder, and pursuant to any forfeiture, clawback or similar policy of the Company, as such laws, rules, regulations and policy may be in effect from time to time. 
+   
+ 5.                                         Adjustments.  In the event of any reorganization, merger, consolidation, recapitalization, liquidation, reclassification, stock dividend, stock split, combination of shares, rights offering, divestiture or extraordinary dividend (including a spin-off), or any other similar change in the corporate structure or shares of the Company, the Committee (or, if the Company is not the surviving corporation in any such transaction, the board of directors of the surviving corporation), will make appropriate adjustment (which determination will be conclusive) as to the number and kind of securities or other property (including cash) subject to, and the Exercise Price of, the Option in order to prevent dilution or enlargement of the r ights of Optionee. 
+   
+ 6.                                         Change in Control.  The Option shall become immediately vested and exercisable upon completion of a Change in Control and remain exercisable through the Time of Termination regardless of whether Optionee remains in the employment or service of the Company.  Notwithstanding any of the foregoing, in connection with a Change in Control, the Committee, in its sole discretion, at  any time after the grant of the Option, may take whatever action it deems appropriate pursuant to  Section 15.3  of the Plan. 
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ 7.                                         Rights as a Stockholder.  Optionee will have no rights as a stockholder of the Company unless and until all conditions to the effective exercise of the Option (including, without limitation, the conditio ns set forth in  Section 3 of this Agreement) have been satisfied and Optionee has become the holder of record of such shares.  No adjustment will be made for dividends or distributions with respect to the Option as to which there is a record date preceding the date Optionee becomes the holder of record of such shares, except as may otherwise be provided in the Plan or determined by  the Committee in its sole discretion. 
+   
+ 8.                                         Restrictions on Transfer.  Except pursuant to testamentary will or the laws of descent and distribution or as otherwise expressly permitted by the Plan, no right or interest of Optionee in the Option prior to exercise may be assigned or transferred, or subjected to any lien, during the lifetime of Optionee, either voluntarily or involuntarily, directly or indirectly, by operation of law or otherwise.  Optionee, however, will be entitled to designate a beneficiary to receive the Option upon Optionee's death, and, in the event of Optionee's death, exercise of  the Option (to the extent permitted pursuant to  Sections 2 and 4  of this Agreement) may be made by Optionee's legal representatives, heirs and legatees. 
+   
+ 9.                                         Market Stand-off.  Optionee, if so requested by the Company or any representative of the underwriters in connection with a firmly underwritten public offering of securities by the Company pursuant to a registration statement under the Securities Act following the date of this Agreement, shall not sell or otherwise transfer any Option Shares during the 180-day period following the effective date of such registration statement.  The Company may impose stop-transfer instructions with respect to securities subject to the foregoing restriction until the e nd of such 180-day period.  This  Section 9 will not apply to the sale of any Option Shares to an underwriter pursuant to an underwriting agreement and shall only be applicable to Optionee if all then current executive offi cers and directors of the Company enter into similar agreements. 
+   
+ 10.                                  Employment or Service.  Nothing in this Agreement or the Plan will interfere with or limit in any way the right of the Company or any Subsidiary to terminate the employment or service of Optionee at any time, nor confer upon Optionee any right to continue in the employment or other service with the Company or any Subsidiary. 
+   
+ 11.                                  Option Subject to Plan.  The Option and the Option Shares granted and issued pursuant to this Agreement have been granted and issued under, and are subject to the terms of, the Plan.  The terms of the Plan are incorporated by reference in this Agreement in their entirety, and Optionee, by execution of this Agreement, acknowledges having received a copy of the Plan.  The provisions of this Agreement will be interpreted as to be consistent with the Plan, and any ambiguities in this Agreement will be interpreted by reference to the Plan.  In the event that any provision of this Agreement is inconsistent with the terms of the Plan, the terms of the Plan will prevail.  All of the capitalized terms used in this Agreement not otherwise def ined in this Agreement have the same respective meanings as defined in the Plan. 
+   
+ 12.                                  General Provisions . 
+   
+ 12.1.                        Governing Law; Venue.  This Agreement and all rights and obligations under this Agreement will be governed by and construed exclusively in accordance with the laws of the State of Delaware, notwithstanding the conflicts of laws principles of any jurisdictions.  By acceptance of the Option, Optionee is deemed to submit to the exclusive jurisdiction and venue of the federal or state courts of the State of Illinois to resolve any and all issues that may arise out of or relate to the Option or this Agreement. 
+   
+ 12.2.                        Entire Agreement.  This Agreement and the Plan set forth the entire agreement and understanding of the parties to this Agreement with respect to the grant and exercise of the Option and the administration of the Plan and supersede all prior agreements, arrangements, plans and understandings relating to the grant and exercise of the Option and the administration of the Plan. 
+   
+ 12.3.                        Failure to Enforce Not a Waiver.  The failure of the Company or Optionee to enforce at any time any provision of this Agreement shall in no way be construed to be a waiver of such provision or of any other provi sion hereof. 
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ 12.4.                        Notices .  All notices, requests, demands and other communications (collectively, " Notices") given pursuant to this Agreement shall be in writing, and shall be delivered by personal service, courier, facsimile transmission, email transmission of a pdf format data file or by United States first class, registered or certified mail, postage prepaid, addressed to the party at the address set forth on the signature page of this Agreement.  Any Notice, other than a Notice sent by registered or certified mail, shall be effective when received; a Notice sent by registered or certified mail, postage prepaid return receipt requested, shall be effective on the earlier of when received or the third day following deposit in the United States mails.  Any party may from time to time change its address for further Notices hereunder by giving notice to the other party in the manner prescribed in this Section 12.5. 
+   
+ 12.5.                        Successors and Assigns.  Except to the extent specifically limited by the terms and provision of this Agreement, this Agreement shall be binding upon and inure to the benefit of the parties hereto and t heir respective successors, assigns, heirs and personal representatives. 
+   
+ 12.6.                        Execution.  This Agreement may be executed in two or more counterparts, all of which when taken together shall be considered one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to the other party, it being understood that both parties need not sign the same counterpart.  In the event that any signature is delivered by facsimile transmission or by email delivery of a "pdf" format data file, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile or "pdf" signature page were an original thereof. 
+   
+ 12.7.                        Titles, Captions and Sections.  Titles and captions contained in this Agreement are inserted for convenience of reference only and do not constitute a part of this Agreement for any other purpose.  References  to Sections in this Agreement refer to Sections of this Agreement unless otherwise stated. 
+   
+ 12.8.                        Nature of the Grant .  In accepting the Option and by execution of this Agreement, Optionee acknowledges that: 
+   
+ (a)                                   The Plan is established voluntarily by the Company, it is discretionary in nature and it may be modified, amended, suspended or terminated by the Company in its sole discretion at  any time, unless otherwise provided in the Plan. 
+   
+ (b)                                   The grant of the Option is voluntary and occasional and does not create any contractual or other right to receive future Option grants, or benefits in lieu of Option grants, even i f Option grants have been granted repeatedly in the past. 
+   
+ (c)                                    All decisions with respect to future Option grants, if any, will be at the sole discretion of the Company. 
+   
+ (d)                                    Optionee is voluntarily participating in the Plan. 
+   
+ (e)                                    The Option grant is not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments and in no event shall be considered as compensation for, or relati ng in any way to, past services for the Company. 
+   
+ (f)                                     In the event that Optionee is not an employee of the Company, the Option will not be interpreted to form an employment contract or relationship with the Company. 
+   
+ (g)                                    The future value of the Common Stock is unknown and cannot be predicted with certainty and if the Option vests and Optionee exercises the Option in accordance with the terms of thi s Agreement and is issued Purchased Shares, the value of those shares may increase or decrease. 
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ (h)                                   In consideration of the grant of the Option, no claim or entitlement to compensation or damages shall arise from termination of the Option or diminution in value of the Option or Purchased Shares acquired upon exercise of the Option resulting from termination of Optionee's employment or service by the Company (for any reason whatsoever and whether or not in breach of local labor laws) and Optionee irrevocably releases the Company and its Subsidiaries, and their respective directors, officers, employees and agents, from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by acceptance of the Option and execution of this Agreement, Optionee shall be deemed irrevocably to have waived his or her entitlement to pursue such claim. 
+   
+ (i)                                       The Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding Optionee's participation in the Plan, or Optionee's purchas e or sale of the underlying Option Shares. 
+   
+ (j)                                      Optionee is hereby advised to consult with his or her own personal tax, legal and financial advisors regarding his or her participation in the Plan before taking any action related  to the Plan or the Option. 
+   
+ [Remainder of page intentionally left blank; signature page follows] 
+   
+ 
+   
+   
+ 
+   
+ 
+   
+IN WITNESS WHEREOF, the parties to this Agreement have executed this Agreement effective as of the Grant Date. 
+   
+ 
+ OPTIONEE: 
+ 
+ DIFFUSION PHARMACEUTICALS INC. 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ By: 
+ 
+   
+ 
+ [Signature] 
+ 
+   
+ 
+ Name: 
+ 
+   
+ 
+   
+ 
+   
+ 
+ Title: 
+ 
+   
+ 
+ Name: 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ Address: 
+ 
+   
+ 
+ Address: 
+ 
+ 2020 Avon Court, Suite 4 
+ 
+   
+ 
+   
+ 
+ Charlottesville, Virginia 22902 
+ 
+   
+ 
+   
+ 
+ By execution of this Agreement, Optionee acknowledges having received a copy of the Plan. 
+ 
+   
+ 
+   

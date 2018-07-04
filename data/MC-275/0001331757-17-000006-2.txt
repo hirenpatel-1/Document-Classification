@@ -1,0 +1,541 @@
+ htm 148874 Material contracts 10 2017-03-24T16:31:39.935169-05:00 Filing 0001331757-17-000006 2017-03-24 10-K Annual  & Quarterly Reports 0001331757 Federal Home Loan Bank of Dallas 6111 No TEXAS false Non-accelerated Filer 000-51405 EXHIBIT 10.12 Exhibit Exhibit 2 fhlbdallas-123116xex_1012.htm EX-10.12 2 fhlbdallas-123116xex_1012.htm EXHIBIT 10.12 
+ 
+ 
+ 
+ 
+ 
+      
+ Exhibit 10.12 
+ 
+ FEDERAL HOME LOAN BANK OF DALLAS 
+ 2017 DEFERRED COMPENSATION PLAN 
+ 
+ Federal Home Loan Bank of Dallas (the " Bank "), hereby establishes the Federal Home Loan Bank of Dallas   2017 Deferred Compensation Plan (the " Plan "), effective January 1, 2017 (the " Effective Date "), for the purpose of attracting and retaining high quality executives and Directors  and promoting in them increased efficiency and an interest in the successful operation of the Bank. The Plan is intended to, and shall be interpreted to, comply in all respects wit h Code Section 409A . 
+ 
+ ARTICLE I 
+ DEFINITIONS 
+ 
+ 1.1   " 401(k) Refund Offset Amount" shall mean, for any particular Plan Year, an amount of Base Salary, if any, that is equal to the gross amount that is refunded to a Participant under a plan qualified pursuant to Code Section 401(k) during a Plan Year as a result of such qualified plan's nondiscrimination testing for the prior Plan Year. 
+   
+ 1.2 " Account " or " Accounts " shall mean the bookkeeping account or accounts established under this Plan pursuant to Article 4. 
+ 
+ 1.3 " Bank Contributions " shall mean the contributions made by the Bank pursuant to Section 3.3. 
+ 
+ 1.4 " Bank Contribution Account" shall mean the Account maintained for the benefit of the Participant which is credited with Bank Contributions, if any, pursuant to Section 4.2. 
+ 
+ 1.5 " Bank Matching Contribution " shall have the meaning set forth in Section 3.3(b). 
+ 
+ 1.6 " Base Salary" shall mean a Participant's annual base salary, excluding incentive and discretionary bonuses, commissions, reimbursements and other non-regular remuneration, received from the Bank prior to reduction for any salary deferrals under benefit plans sponsored by the Bank, including but not limited to, plans established pursuant to Code Section 125 or qualified  pursuant to Code Section 401(k). 
+ 
+ 1.7 " Beneficiary " or " Beneficiaries " shall mean the person, persons or entity designated as such pursuant to Section 7.1. 
+ 
+ 1.8 " Board " shall mean the Board of Directors of the Bank. 
+ 
+ 1.9 " Bonus(es)" shall mean amounts paid to the Participant by the Bank in the form of discretionary, annual incentive compensation, or any other bonus designated by the Committee as eligible for deferral pursuant to this Plan, before reductions for contributions to or deferrals under any pension, deferred compensation or benefit plans sponsored by the Bank. 
+   
+ 1.10 " Claims " shall have the meaning set forth in Section 10.7. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.11 " Code" shall mean the Internal Revenue Code of 1986, as amended, as interpreted by Treasury regulations and applicable authorities promulgated thereunder. 
+ 
+ 1.12 " Committee" shall mean the person or persons appointed by the Board to administer the Plan in accordance with Article 9. 
+ 
+ 1.13   " Compensation " shall mean all amounts eligible for deferral for a particular Plan Year under Section 3.1. 
+ 
+ 1.14 " Crediting Rate" shall mean the notional gains and losses credited on the Participant's Account balance that are based on the Participant's choice among the investment alternatives made available  by the Committee pursuant to Section 3.4 of the Plan. 
+ 
+ 1.15 " Deferral Account" shall mean an Account maintained for each Participant that is credited with Participant deferrals pursuant to Section 4.1 
+ 
+ 1.16 " Director " shall mean a member of the Board. 
+ 
+ 1.17 "Director's Fees"  shall mean compensation for services as a member of the Board, excluding reimbursement of expenses or other nonâ€‘regular forms of compensation, before reductions for contributions  to or deferrals under any deferred compensation plan sponsored by the Bank. 
+ 
+ 1.18 " Distributable Amount " shall mean the vested balance in the applicable Account as determined under Article 4. 
+ 
+ 1.19 " Eligible Executive " shall mean a highly compensated or management level employee   of the Bank selected by the Committee to be eligible to participate in the Plan. 
+ 
+ 1.20 " ERISA" shall mean the Employee Retirement Income Security Act of 1974, as amended, including Department of Labor and Treasury regulations and applicable authorities promulgated thereund er. 
+ 
+ 1.21 " Financial Hardship" shall mean a severe financial hardship to the Participant resulting from an illness or accident of the Participant, the Participant's spouse, or a dependent (as defined in Code Section 152, without regard to Code Section 152(b)(1), (b)(2), and (d)(1)(B))) of the Participant, loss of the Participant's property due to casualty, or other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the Participant, but shall in all events correspond to the meaning of the term "unforeseeable e mergency" under Code Section 409A. 
+   
+ 1.22 " Fund " or " Funds" shall mean one or more of the investments selected by the Committee pursuant to Section 3.4 of the Plan. 
+ 
+ 1.23 " Fund Subaccount " shall have the meaning set forth in Section 4.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.24 " Hardship Distribution" shall mean an accelerated distribution of benefits or a cancellation of deferral elections pursuant to Section 6.5   to a Participant who has suffered a Financial Hardship. 
+ 
+ 1.25 " Interest Rate" shall mean, for each Fund, the rate of return derived from the net gain or loss on the assets of such Fund, as determined by the Committee. 
+ 
+ 1.26 " Participant" shall mean any Eligible Executive or Director who becomes a Participant in this Plan in accordance with Article 2. 
+ 
+ 1.27 " Participant Election(s)" shall mean the forms or procedures by which a Participant makes elections with respect to (a) voluntary deferrals of his/her Compensation, (b) the Funds, which shall act as the basis for crediting of interest on Account balances, and (c) the form and timing of distributions from Accounts. Participant Elections may take the form of an electronic communicati on followed by appropriate confirmation according to specifications established by the Committee. 
+ 
+ 1.28 " Payment Date" shall mean the date by which a total distribution of the Distributable Amount shall be made or the date by which installment payments of the Distributable Amount shall commence. 
+   
+ (a)  For benefits triggered by the Participant's Retirement, the Payment Date shall be the first business day of the January commencing after the Retirement occurs, and the applicable amount shall be calculated as of the last business day of December of the year in which the Retirement occurs. Subsequent installments, if any, shall be calculated as of the last business day of December of each succeeding Plan Year after the initial calculation, and shall be made in January of each Plan Year following the Plan Year in which the initial insta llment payment was payable. 
+ 
+ (b)For benefits triggered by the Participant's Termination of Service, the Payment Date shall be the first business day of the month commencing after the month in which the Termination of Service occurs, and the applicable amount shall be calculated as of the last business day of the month in which the Termination of Service occurs. 
+    
+ (c)For benefits triggered by the death of a Participant, the Payment Date shall be the first business day of the month commencing after the month in which the Participant's death occurs, and the applicable amount shall be calculated as of the last business day of the month in which the death occurs. The Committee shall be provided with documentation reasonably  necessary to establish the fact of the Participant's death. 
+ 
+ (d)The Payment Date of a Scheduled Distribution shall be the first business day of January of the Plan Year in which the distribution is elected to commence, and the applicable Distributable Amount shall be calculated as of the last business day of the preceding December. Subsequent installments, if any, shall be calculated as of the last business day of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December of each succeeding Plan Year after the initial calculation, and shall be made in January of each Plan Year following the Plan Year in which the initial installment payment  was payable. 
+ 
+Notwithstanding the foregoing, the Payment Date shall not be before the earliest date on which benefits may be distributed under Code Section 409A without violation of the provisio ns thereof, as reasonably determined by the Committee. 
+ 
+ 1.29 " Performance-Based Compensation" shall mean compensation the entitlement to or amount of which is contingent on the satisfaction of pre-established organizational or individual performance criteria relating to a performance period of at least twelve (12) consecutive months, as determined by the Committee in accordance with Treas. Reg. Â§1.409A-1(e). 
+ 
+ 1.30 " Plan Year " shall mean the calendar year, commencing on January 1 and ending on December 31. 
+ 
+ 1.31 "Qualified Plan"  shall mean the defined contribution plan maintained by the Bank which qualifies under Code Section 401(a). 
+ 
+ 1.32 "Retirement"   shall mean a Participant's Separation from Service on or after having attained age fifty-five (55). 
+ 
+ 1.31 " Retirement Account" shall mean the Participant's Account(s), including Deferral Accounts (other than Scheduled Distribution Accounts that have commenced distribution) and vested portions of the Bank Contribution Account, which are distributable in the event of the Participant's Retirement in accordance with Section 6.1. 
+ 
+ 1.33 " Separation from Service" shall mean a termination of services provided by a Participant, whether voluntarily or involuntarily, other than by reason of death, as determined by the Committee in accordance with Treas. Reg. Â§1.409A-1(h). In determining whether a Participant has experienced a Separation from Service, the following provisions shall apply: 
+ 
+ (a)For a Participant who provides services to the Bank as an employee, except as otherwise provided in part (c) of this Section, a Separation from Service shall occur when such Participant has experienced a termination of employment. A Participant shall be considered to have experienced a termination of employment when the facts and circumstances indicate that the Participant and the Bank reasonably anticipate that either (i) no further services will be performed after a certain date, or (ii) that the level of bona fide services the Participant will perform after such date (whether as an employee or as an independent contractor) will permanently decrease to no more than 20% of the average level of bona fide services performed by such Participant (whether as an employee or an independent contractor) over the immediately preceding thirty-six (36) month period (or the full period of services to the employer if the Participant has been providing services less than thirty-six (36) months). If a Participant is on military leave, sick leave, or other bona fide 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+leave of absence, the employment relationship between the Participant and the Bank shall be treated as continuing intact, provided that the period of such leave does not exceed six months, or if longer, so long as the Participant retains a right to reemployment with the Bank under an applicable statute or by contract. If the period of a military leave, sick leave, or other bona fide leave of absence exceeds six months and the Participant does not retain a right to reemployment under an applicable statute or by contract, the employment relationship shall be considered to be terminated for purposes of this Plan as of the first day immediately following the end of such 6-month period. In applying the provisions of this paragraph, a leave of absence shall be considered a bona fide leave of absence only if there is a reasonable expectation that the Participant will return to perform services  for the Bank. 
+   
+ (b)For a Participant, if any, who provides services to the Bank as an independent contractor, except as otherwise provided in part (c) of this Section, a Separation from Service shall occur upon the expiration of the contract (or in the case of more than one contract, all contracts) under which services are performed for the Bank, provided that the expiration of such contract(s) is determined by the Committee to constitute a good-faith and complete termination of the contractual relationship between the Participant and the Bank. 
+ 
+ (c)For a Participant, if any, who provides services to the Bank as both an employee and an independent contractor, a Separation from Service generally shall not occur until the Participant has ceased providing services as both an employee and as an independent contractor, as determined in accordance with the provisions set forth in parts (a) and (b) of this Section, respectively. Similarly, if a Participant either (i) ceases providing services for the Bank as an independent contractor and begins providing services as an employee, or (ii) ceases providing services as an employee and begins providing services as an independent contractor, the Participant will not be considered to have experienced a Separation from Service until the Participant has ceased providing services for the Bank in both capacities, as determined in accordance with the applicable provisions set forth in parts (a) and (b) of this Section. Notwithstanding the foregoing provisions in this part (c), if a Participant provides services for the Bank as both an employee and as a Director, to the extent permitted by Treas. Reg. Â§1.409A-1(h)(5) the services provided by such Participant as a Director shall not be taken into account in determining whether the Participant has experienced a Separation from Service as an employee, and the services provided by such Participant as an employee shall not be taken into account in determining whether the Participant ha s experienced a Separation from Service as a Director. 
+ 
+ 1.34 " Scheduled Distribution" shall mean a scheduled distribution date elected by the Participant for distribution of deferrals from a Scheduled Distribution Account, including notional earnings thereon, as p rovided under Section 6.4. 
+ 
+ 1.35 " Scheduled Distribution Account" shall mean a Participant's Account to which a Scheduled Distribution election pursuant to Section 6.4 applies. 
+ 
+ 1.36 " Termination of Service " shall mean a Participant's Separation from Service that does   not   qualify as a Retirement. 
+ 
+ ARTICLE II 
+ PARTICIPATION 
+ 
+ 2.1 Eligibility. Prior to each Plan Year, the Committee shall, in its sole discretion, select the particular Eligible Executives and Directors who may participate in the Plan for the next followi ng Plan Year (or in the case of newly eligible Participants, prior to the election period set 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+forth in Section 3.2 for such Participants). To the extent permitted by the Committee, Eligible Executives and Directors who participate in the Plan may also participate in other incentive or benefit plans of the Bank. Notwithstanding any provision in this Plan to the contrary, the Committee may at any time, and from time to time, cause the cessation of part icipation of any Eligible Executive or Director for future Plan Years. 
+ 
+ 2.2 Enrollment Requirements; Commencement of Participation . 
+   
+ (a)As a condition to participation, each Eligible Executive and Director permitted by the Committee to participate in the Plan shall complete, execute and return to the Committee the appropriate Participant Elections, as well as such other documentation and information as the Committee reasonably requests, by the deadline(s) established by the Committee. In addition, the Committee shall establish from time to time such other enrollment requirements as it determines, in its sole discretion, are necessary. 
+ 
+ (b)Each Eligible Executive and Director shall commence participation in the Plan on the date that the Committee determines that the Eligible Executive or Director has met all enrollment requirements set forth in this Plan and required by the Committee, including returning all required documents to the Committee within the specified time period. 
+ 
+ (c)If an Eligible Executive or Director fails to meet all requirements established by the Committee within the period required, that Eligible Executive or Director shall not be eligib le to participate in the Plan during such Plan Year. 
+ 
+ ARTICLE III 
+ CONTRIBUTIONS  & DEFERRAL ELECTIONS 
+ 
+ 3.1 Elections to Defer Compensation. Elections to defer Compensation shall take the form of a whole percentage (less applicable payroll withholding requirements for Social Security and income taxes and employee bene fit plans, as determined in the sole and absolute discretion of the Committee) of up to a   maximum   of: 
+ 
+ (1) 100% of Base Salary, 
+ (2) 100% of Bonuses, and 
+ (3) 100% of Director's Fees. 
+ 
+The Committee may, in its sole discretion, adjust for subsequent Plan Years on a prospective basis the maximum deferral percentages described in this Section for one or more types of Compensation (including, without limitation, for particular types of Bonuses) and for one or more subsequent Plan Years; such revised deferral percentages shall be indicated on a Participant Election form approved by the Committee. Notwithstanding the foregoing, in no event shall the maximum deferral percentages be adjusted after the last date on which deferral elections for the applicable type(s) of Compensation must be submitted and become irrevocable in accordance with Section 3.2 below and the requirements of Code Section 409A. In addition to the deferral types described above, the Committee may permit a Participant to make a 401(k) Refund Offset Amount election for a Plan Year, in accordance with the de ferral election timing requirements in Section 3.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+below and as further described in a Participant Election form. By way of example, the Committee may permit a Participant to elect to defer a 401(k) Refund Offset Amount for the 2018 Plan Year by submitting an election no later than December 31, 2017; such election would provide for an additional deferral of Base Salary in 2018 equal to any refund amount that  is distributed to the Participant during the 2018 Plan Year from the Qualified Plan. 
+ 
+ 3.3 Timing of Deferral Elections; Effect of Participant Election(s). 
+ 
+ (a) General Timing Rule for Deferral Elections. Except as otherwise provided in this Section 3.2, in order for a Participant to make a valid election to defer Compensation, the Participant must submit Participant Election(s) o n or before the deadline established by the Committee, which shall be no later than the December 31 st  preceding the Plan Year in which such Compensation will be earned. Any deferral election made in accordance with this Section 3.2(a) shall be irrevocable; provided, however, that if the Committee permits or requires Participants to make a deferral election by the deadline described above for an amount that qualifies as Performance-Based Compensation, the Committee may permit a Participant to subsequently change his or her deferral election for such Performance-Based Compensation by submitting new Participant Election(s) in accordance  with Section 3.2(c) below. 
+ 
+ (b) Timing of Deferral Elections for New Plan Participants.  An Eligible Executive who first becomes eligible to participate in the Plan on or after the beginning of a Plan Year, as determined in accordance with Treas. Reg. Â§1.409A-2(a)(7)(ii) and the "plan aggregation" rules provided in Treas. Reg. Â§1.409A-1(c)(2), may be permitted to make an election to defer the portion of Compensation attributable to services to be performed after such election, provided that the Participant submits Participant Election(s) on or before the deadline established by the Committee, which in no event shall be later than thirty (30) days after the Participant first becomes eligible to participate in the Plan. If a deferral election made in accordance with this Section 3.2(b) relates to compensation earned based upon a specified performance period, the amount eligible for deferral shall be equal to (i) the total amount of compensation for the performance period, multiplied by (ii) a fraction, the numerator of which is the number of days remaining in the service period after the Participant's deferral election is made, and the denominator of which is the total number of days in the performance period. Any deferral election made in accordance with this Section 3.2(b) shall become irrevocable no later than the 30 th   day after the date the Participant first becomes eligible to participate in the Plan. 
+ 
+ (c) Timing of Deferral Elections for Performance-Based Compensation .  Subject to the limitations described below, the Committee may determine that an irrevocable deferral election for an amount that qualifies as Performance-Based Compensation may be made by submitting Participant Election(s) on or before the deadline established by the Committee, which in no event shall be later than six (6) months before the end of the performance period, and in no event before any amount of the Performance-Based Compensation has become "readily ascertainable" within the meaning of Treas. Reg. Â§1.409A-2(a)(8). In order for a Participant to be eligible to make a deferral election for Performance-Based Compensation in accordance with the deadline established pursuant to this Section 3.2(c), the Participant must have performed services continuously from the later of (i) the beginning of the performance period for such compensation, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+or (ii) the date upon which the performance criteria for such compensation are established, through the date upon which the Participant makes the deferral election for such compens ation. 
+ 
+ (d) Timing Rule for Deferral of Compensation Subject to Risk of Forfeiture. With respect to compensation (i) to which a Participant has a legally binding right to payment in a subsequent year, and (ii) that is subject to a forfeiture condition requiring the Participant's continued services for a period of at least twelve (12) months from the date the Participant obtains the legally binding right, the Committee may determine that an irrevocable deferral election for such compensation may be made by timely delivering Participant Election(s) to the Committee in accordance with its rules and procedures, no late r than the 30 th  day after the Participant obtains the legally binding right to the compensation, provided that the election is made at least twelve (12) months in advance of the earliest date at which the forfeiture condition could lapse, as determined in accordance with Treas. Reg. Â§1.409A-2(a)(5). Any deferral election(s) made in accordance with this Section 3.2(d) shall  become irrevocable no later than the 30 th  day after the Participant obtains the legally binding right to the compensation subject to such deferral election(s). 
+    
+ (e) Separate Deferral Elections for Each Plan Year. In order to defer Compensation for a Plan Year, a Participant must submit a separate deferral election with respect to Compensation for such Plan Year by affirmatively filing a Participant Election during the enrollment period established by the Committee prior to the beginning of such Plan Year (or at such other time contemplated under this Section 3.2), which election shall be effective on the first day of the next following Plan Year (unless otherwise specified on the Participant Election). 
+ 
+ 3.3 Bank Contributions . 
+   
+ (a) Discretionary Bank Contributions. The Bank shall have the discretion to make discretionary Bank Contributions to the Plan at any time and in any amount on behalf of any Participant. Bank Contributions shall be made in the complete and sole discretion of the Bank and no Participant shall have the right to receive any Bank Contribution in any particular Plan Year regardless of whether Bank C ontributions are made on behalf of other Participants. 
+ 
+ (b) Bank Matching Contributions. The Bank shall make a matching contribution to each Participant's Bank Contribution Account for each Plan Year in which the Participant makes an elective deferral under this Plan, which shall be up to the maximum matching contributions that the Bank would have made to the Participant's account under the Qualified Plan had the Participant's elective deferral been contributed to the Qualified Plan without regard to any statutory or regulatory limitations on salary reduction or matching contributions to the Qualified Plan, or on compensation taken into account in calculating employer or employee contributions to the Qualified Plan (the " Bank Matching Contribution"); provided, however, the Bank Matching Contribution for each Plan Year shall be reduced by the amount of Bank contributions actually credited to the Participant under the Qualified Plan for such Plan Year. The Bank will make the above-referenced matching contribution with respect to each Participant, except to the extent prohibited or limited by law in which case no such contribution shall be made and any matching contributions previously made which are prohibited or limited by such law shall be forfeited and returned to the Bank. The amount of the Bank Matching Contribution added to the Participant's Bank Contribution Account is dependent on the applicable formula for matching contributions under the Qualifi ed Plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.4 Investment Elections . 
+   
+ (a) Participant Designation. At the time of entering the Plan and/or of making a deferral election under the Plan, the Participant shall designate, on a Participant Election provided by the Committee, the Funds in which the Participant's Accounts shall be deemed to be invested for purposes of determining the amount of earnings and losses to be credited to each Account. The Participant may specify that all or any percentage of his or her Accounts shall be deemed to be invested, in whole percentage increments, in one or more of the Funds selected as alternative investments under the Plan from time to time by the Committee pursuant to subsection (b) of this Section. If a Participant fails to make an election among the Funds as described in this section, the Participant's Account balance shall automatically be allocated into a default Fund, as determined by the Committee in its sole discretion. A Participant may change any designation made under this Section as permitted by the Committee by filing a revised election, on a Participant Election provided by the Committee. Notwithstanding the foregoing, the Committee, in its sole discretion, may impose limitations on the frequency with which one or more of the Funds elected in accordance with this Section may be added or deleted by such Participant; furthermore, the Committee, in its sole discretion, may impose limitations on the frequency with which the Participant may change the portion of his or her Account balance allocated to each previously or newly elected Fund. In addition, the Committee may, in its sole discretion, disregard a Participant's designation of a Fund on a P articipant Election. 
+   
+ (b) Investment Funds. The Committee may select, in its sole and absolute discretion, each of the types of commercially available investments communicated to the Participant pursuant to subsection (a) of this Section to be the Funds. The Interest Rate of each such commercially available investment shall be used to determine the amount of earnings or losses to be credited to the Participant's Account under Article IV. The Participant's choice among investments shall be solely for purposes of calculation of the Crediting Rate on Accounts. The Bank shall have no obligation to set aside or invest amounts as directed by the Participant and, if the Bank elects to invest amounts as directed by the Participant, the Participant shall have n o more right to such investments than any other unsecured general creditor. 
+ 
+ 3.5 Distribution Elections . 
+ 
+ (a) Initial Election. At the time of making a deferral election under the Plan, the Participant shall designate the time and form of distribution of deferrals made pursuant to such election (together with any earnings credited thereon) from among the alternatives specified under Article VI for the applicable distribution. At the time of a Participant's initial enrollment in the Plan, a Participant must elect the form of distribution for the Participant's Accounts. The form of distribution may be (i) a lump sum; (ii) substantially equal annual installments over up to fifteen (15) years for the Retirement Account; and (iii) substantially equal annual installments over up to four (4) years for a Scheduled Distribution Account. A new distribution election may be made at the time of subsequent deferral elections with respect to deferrals in Plan Years beginning after the election is made, in accordance with the  Participant Election forms. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ (b) Modification of Election. A distribution election with respect to previously deferred amounts may only be changed under the terms and conditions specified in Code Section 409A and this Section.  Except as permitted under Code Section 409A, no acceleration of a distribution is permitted. A subsequent election that delays payment or changes the form of payment for a Participant's Retirement Account or Scheduled Distribution Account shall be permitted if and only if all of the following requirements are met: 
+ 
+ (1)the new election does not take effect until at least twelve (12) months after the date on which the new election is made; 
+ 
+ (2)the new election delays payment for at least five (5) years from the date that payment would otherwise have been made, absent the new election; and 
+ 
+ (3)in the case of payments made according to a Scheduled Distribution, the new election is made not less than twelve (12) months before the date on which payment would have been made (or, in the case of installment payments, the first installment payment would have been made) absent the new election. 
+ 
+For purposes of application of the above change limitations, installment payments shall be treated as a single payment under Code Section 409A. Election changes made pursuant to this Section shall be made in accordance with rules established by the Committee and shall comply with all requirements of Code Section 409A and applicable authorities. 
+ 
+ ARTICLE IV 
+ ACCOUNTS 
+ 
+ 4.1 Deferral Accounts . The Committee shall establish and maintain up to six (6)  Deferral Accounts for each Participant under the Plan, of which one (1) shall be the Retirement Account. Each Participant's Deferral Accounts shall be further divided into separate  subaccounts (" Fund Subaccounts"), each of which corresponds to a Fund designated pursuant to Section 3.4. A Participant's Deferral Account shall be credited as follows: 
+ 
+ (a)As soon as reasonably possible after amounts are withheld and deferred from a Participant's Compensation, the Committee shall credit the Fund Subaccounts of the Participant's Deferral Accounts with an amount equal to Compensation deferred by the Participant in accordance with the designation under Section 3.4; that is, the portion of the Participant's deferred Compensation designated to be deemed to be invested in a Fund shall be credited to the Fund Subaccount to be invested in that Fund; 
+ 
+ (b)Each business day, each Fund Subaccount of a Participant's Deferral Accounts shall be credited with earnings or losses in an amount equal to that determined by multiplying the balance credited to such Fund Subaccount as of the prior day, less any distributions valued as of the end of the prior day, by the Interest Rate for the corresponding Fund as determine d by the Committee pursuant to Section 3.4(b); and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ (c)In the event that a Participant elects for a given Plan Year's deferral of Compensation to be allocated to one or more Scheduled Distribution Accounts, all amounts attributed to the deferral of Compensation for such Plan Year shall be accounted for in a manner which allows separate accounting for the deferral of Compensation and investment gains and losses a ssociated with amounts allocated to each such separate Scheduled Distribution Account. 
+ 
+ 4.2 Bank Contribution Account. The Committee shall establish and maintain a Bank Contribution Account for each Participant under the Plan. For purposes of a Participant's distribution elections, Bank Contributions shall be allocated to the Retirement Account and subject to distribution in the form applicable to such Retirement Account. Each Participant's Bank Contribution Account shall be further divided into separate Fund Subaccounts corresponding to the Fund designated pursuant to Section 3.4(a). A Participant's Bank Contribution Account shall be credited as fo llows: 
+ 
+ (a)As soon as reasonably possible after a Bank Contribution is made, the Bank shall credit the Fund Subaccounts of the Participant's Bank Contribution Account with an amount equal to the Bank Contributions, if any, made on behalf of that Participant, that is, the proportion of the Bank Contributions, if any, designated to be deemed to be invested in a certain F und shall be credited to the Fund Subaccount to be invested in that Fund; and 
+ 
+ (b)Each business day, each Fund Subaccount of a Participant's Bank Contribution Account shall be credited with earnings or losses in an amount equal to that determined by multiplying the balance credited to such Fund Subaccount as of the prior day, less any distributions valued as of the end of the prior day, by the Interest Rate for the corresponding Fund as d etermined by the Committee pursuant to Section 3.4(b). 
+ 
+ 4.3 Trust; Funding. The Bank shall be responsible for the payment of all benefits under the Plan. At its discretion, the Bank may establish one or more grantor trusts for the purpose of providing for payment of benefits under the Plan. Such trust or trusts may be irrevocable, but the assets thereof shall be subject to the claims of the Bank's creditors. Benefits paid to the Participant from any such trust or trusts shall be considered paid by the Bank for purposes of meeting the obligations of the Bank under the Plan. Notwithstanding anything herein to the contrary, the Plan shall at all times be entirely unfunded for purposes of ERISA and the Code, and there shall be no requirement for the Bank to segregate assets of the Bank for payment of any amounts hereunder. Neither the Plan nor the establishment of any Account shall create or be construed to create a trust or separate fund of any kind or a fiduciary relationship between the Bank, the Board, or the Committee and any Participant. No Participant, Beneficiary or other person shall have any interest in any particular assets of th e Bank (or any of its affiliates) by reason of the right to receive any amounts under the Plan. 
+ 
+ 4.4 Statement of Accounts. The Committee shall provide each Participant with electronic statements at least quarterly setting forth the Participant's Account balance as of the end of each applicable period . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ARTICLE V 
+ VESTING 
+ 
+ 5.1 Vesting of Deferral Accounts. The Participant shall be 100% vested at all times in amounts credited to the Participant's Deferral Accounts. 
+ 
+ 5.2 Vesting of Bank Contribution Account . 
+   
+ (a)Discretionary Bank Contributions credited to the Participant's Bank Contribution Account shall be vested based upon the schedule or schedules determined by the Bank in its sole dis cretion and communicated to the Participant. 
+ 
+ (b)Bank Matching Contributions credited to the Participant's Bank Contribution Account shall be 100% vested at all times. 
+ 
+ ARTICLE VI 
+ DISTRIBUTIONS 
+ 
+ 6.1 Retirement Distributions. Except as otherwise provided herein, in the event of a Participant's Retirement, the Distributable Amount credited to the Participant's Retirement Account (including all vested Bank Contributions) and any Scheduled Distribution Account(s) that have not commenced distribution, shall be paid to the Participant in a lump sum on the Payment Date following the Participant's Retirement, unless the Participant has made an alternative benefit election on a timely basis to receive substantially equal annual installments over up to fifteen (1 5) years. 
+ 
+ 6.2 Termination Distributions. Except as otherwise provided herein, in the event of a Participant's Termination of Service, the Distributable Amount credited to the Participant's Retirement Account (including all vested Bank Contributions) and any Scheduled Distribution Account(s) that have not commenced distribution, shall be paid to the Participant in a lump sum on the Payment Date fo llowing the Participant's Termination of Service. 
+ 
+ 6.3 Death Benefits. Notwithstanding any provision in this Plan to the contrary, in the event that the Participant dies prior to complete distribution of his or her Accounts under the Plan, the Participant's Beneficiary shall receive a death benefit equal to the Distributable Amount (or remaining Distributable Amount in the event installment payments have commenced) credited to the Participant's Deferral Accounts and Bank Contribution Account in a lump sum on the Payment Date following the Participant's death. 
+ 
+ 6.4 Scheduled Distributions . 
+   
+ (a) Scheduled Distribution Election. Participants shall be entitled to designate one or more Deferral Accounts as Scheduled Distribution Accounts in accordance with Section 3.5 (each, a " Scheduled Distribution Account"). In the case of a Participant who has elected to receive a Scheduled Distribution, such Participant shall receive the Distributable Amount, with respect to the specified deferra ls, including earnings thereon, which have been elected by the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Participant to be subject to such Scheduled Distribution election in accordance with Section 3.5. The Committee shall determine the earliest commencement date that may be elected by the Participant for each Scheduled Distribution Account and such date shall be indicated on the Participant Election. The Participant may elect to receive the Scheduled Distribution Account in a single lump sum or substantially equal annual installments over a period of up to four (4) years .  A Participant may delay and change the form of payment of a Scheduled Distribution Account, provided such revised election complies with the requirements of Section 3.5(b). By way  of clarification, the Bank Contribution Account shall   not   be distributable as a Scheduled Distribution. 
+    
+ (b) Relationship to Other Benefits . 
+    
+ (1) In the event of a Participant's Retirement, Termination of Service or death   prior to  the initial Payment Date for one or more Scheduled Distribution Accounts, the amounts allocated to such Scheduled Distribution Account(s) shall   not  be distributed under this Section 6.4, but rather shall be distributed in accordance with Section 6.1, Section 6.2. or Section 6.3, as applicable. 
+ 
+ (2) In the event of a Participant's Retirement or Termination of Service   after  one or more Scheduled Distribution Accounts has commenced installment payments, such Scheduled Distribution Account(s) shall continue to be paid at the same time and in the same fo rm as if the Retirement or Termination of Service, as applicable, had not occurred. 
+ 
+ (3) In the event of a Participant's death   after  one or more Scheduled Distribution Accounts has commenced installment payments, the remaining Distributable Amount in such Scheduled Distribution Account(s) shall be distributed in  accordance with Section 6.3. 
+ 
+ 6.5 Hardship Distributions . 
+    
+ (a)Upon a finding that the Participant has suffered a Financial Hardship, in accordance with Code Section 409A, the Committee may, at the request of the Participant, accelerate distribution of benefits and/or approve cancellation of deferral elections under the Plan, subject to the following conditions: 
+ 
+ (1)The request to take a Hardship Distribution shall be made by filing a form provided by and filed with the Committee prior to the end of any calendar month. 
+ 
+ (2)Upon a finding that the Participant has suffered a Financial Hardship in accordance with Treasury Regulations promulgated under Code Section 409A, the Committee may, at the request of the Participant, accelerate distribution of benefits and/or approve cancellation of current deferral elections under the Plan in the amount reasonably necessary to alleviate such Financial Hardship. The amount distributed pursuant to this Section with respect to the Financial Hardship shall not exceed the amount necessary to satisfy such Financial Hardship, plus amounts necessary to pay taxes reasonably anticipated as a result of the distribution, after taking into account the extent to which such hardship is or may be relieved through reimbursement or compensation by insurance or otherwise or by liquidation of the Participant's assets (to the extent the liquidation of such assets would not itself cause sev ere financial hardship). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3)The amount (if any) determined by the Committee as a Hardship Distribution shall be paid in a single cash lump sum as soon as practicable after the end of the calendar month in whi ch the Hardship Distribution determination is made by the Committee. 
+ 
+ (b)In the event a Participant receives a hardship distribution under the Qualified Plan pursuant to Treas. Reg. Â§1.401(k)-1(d)(3), the Committee may (i) cancel the Participant's current deferral elections under this Plan and/or (ii) preclude the Participant from submitting additional deferral elections pursuant to Article III, to the extent deemed necessary to  comply with Treas. Reg. Â§1.401(k)-1(d)(3). 
+ 
+ ARTICLE VII 
+ PAYEE DESIGNATIONS AND LIMITATIONS 
+ 
+ 7.1 Beneficiaries . 
+    
+ (a) Beneficiary Designation. The Participant shall have the right, at any time, to designate any person or persons as Beneficiary (both primary and contingent) to whom payment under the Plan shall be made in the event of the Participant's death. If the Participant names someone other than his or her spouse as a Beneficiary, the Committee may, in its sole discretion, determine that spousal consent is required to be provided in a form designated by the Committee, executed by such Participant's spouse and returned to the Committee. The Beneficiary designation shall be effective when it is submitted to and acknowledged by the Committee during the Participant's lifetime in the format prescribed by the Committee. 
+   
+ (b) Absence of Valid Designation. If a Participant fails to designate a Beneficiary as provided above, or if every person designated as Beneficiary predeceases the Participant or dies prior to complete distribution of the Participant's benefits, then the Committee shall deem the Participant's estate to be the Beneficiary and shall direct the distribution of such benefits to the Participant 's estate. 
+ 
+ 7.2 Payments to Minors. In the event any amount is payable under the Plan to a minor, payment shall not be made to the minor, but instead such payment shall be made (a) to that person's living parent(s) to act as custodian, (b) if that person's parents are then divorced, and one parent is the sole custodial parent, to such custodial parent, to act as custodian, or (c) if no parent of that person is then living, to a custodian selected by the Committee to hold the funds for the minor under the Uniform Transfers or Gifts to Minors Act in effect in the jurisdiction in which the minor resides. If no parent is living and the Committee decides not to select another custodian to hold the funds for the minor, then payment shall be made to the duly appointed and currently acting guardian of the estate for the minor or, if no guardian of the estate for the minor is duly appointed and currently acting within sixty (60) days after the date the amount becomes payable, payment shall be deposited with the court having jurisdiction over the estate of the minor. 
+ 
+ 7.3 Payments on Behalf of Persons Under Incapacity. In the event that any amount becomes payable under the Plan to a person who, in the sole judgment of the Committee, is considered by reason of physical or mental condition to be  unable to give a valid receipt therefore, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the Committee may direct that such payment be made to any person found by the Committee, in its sole judgment, to have assumed the care of such person. Any payment made pursuant to such determination shall constitute a full release and discharge of any and all liability of the Committee and the Bank under the Plan. 
+ 
+ ARTICLE VIII 
+ LEAVE OF ABSENCE 
+ 
+ 8.1Paid Leave of Absence. If a Participant is authorized by the Participant's Bank to take a paid leave of absence from employment, and such leave of absence does not constitute a Separation from Service, (a) the Partici-pant shall continue to be considered eligible for the benefits provided under the Plan, and (b) deferrals shall continue to be withheld during  such paid leave of absence in accordance with Article III. 
+ 
+ 8.2 Unpaid Leave of Absence  If a Participant is authorized by the Bank to take an unpaid leave of absence from employ-ment for any reason, and such leave of absence does not constitute a Separation from Service, such Participant shall continue to be eligible for the benefits provided under the Plan. During the unpaid leave of absence, the Participant shall not be allowed to make any additional deferral elections. However, if the Participant returns to employment, the Participant may elect to defer for the Plan Year following his or her return to employment and for every Plan Year thereafter while a Participant in the Plan, provided such deferral elections are otherwise allowed and a Participant Election is delivered to and accepted by the  Committee for each such election in accordance with Article III above. 
+ 
+ ARTICLE IX 
+ ADMINISTRATION 
+ 
+ 9.1 Committee. The Plan shall be administered by a Committee appointed by the Board, which shall have the exclusive right and full discretion (a) to designate the Eligible Executives and Directors who are eligible to participate in the Plan for a Plan Year, (b) to appoint agents to act on its behalf, (c) to select and establish Funds, (d) to interpret the Plan (and all Participant Elections), (e) to decide any and all matters arising hereunder (including the right to remedy possible ambiguities, inconsistencies, or admissions), (f) to make, amend and rescind such rules as it deems necessary for the proper administration of the Plan, (g) to employ agents, attorneys, accountants or other persons (who also may be employed by or represent the Bank) for such purposes as the Committee considers necessary or desirable in connection with its duties hereunder, (g) to make all other determinations and resolve all questions of fact necessary or advisable for the administration of the Plan, including determinations regarding eligibility for benefits payable under the Plan, and (h) to perform any and all other acts necessary or appropriate for the proper management and administration of the Plan. A majority of the Committee shall constitute a quorum, and the act of a majority of the members of the Committee present at a meeting at which a quorum is present shall be the act of the Committee. All interpretations of the Committee with respect to any matter hereunder shall be final, conclusive and binding on all persons affected thereby. No member of the Committee or agent thereof shall be liable for any determination, decision, or action made in good faith with respect to the Plan. The Bank will indemnify and hold harmless the members of the Committee and its agents from and against any and all lia bilities, costs, and expenses incurred 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+by such persons as a result of any act, or omission, in connection with the performance of such persons' duties, responsibilities, and obligations under the Plan, other than such liabilities, costs, and expenses as may result from the bad faith, willful misconduct, or criminal acts of such persons. By participating in the Plan, each Participant irrevocably waives and releases any right or opportunity such Participant might have to assert (or participate or cooperate in) any Claim arising out of this Plan against any member of the Comm ittee. 
+   
+ 9.2 Claims Procedure. Any Participant, former Participant or Beneficiary may file a written claim with the Committee setting forth the nature of the benefit claimed, the amount thereof, and the basis for claiming entitlement to such benefit. The Committee shall determine the validity of the claim and communicate a decision to the claimant promptly and, in any event, not later than ninety (90) days after the date of the claim. The claim may be deemed by the claimant to have been denied for purposes of further review described below in the event a decision is not furnished to the claimant within such ninety (90) day period. If additional information is necessary to make a determination on a claim, the claimant shall be advised of the need for such additional information within forty-five (45) days after the date of the claim. The claimant shall have up to one hundred eighty (180) days to supplement the claim information, and the claimant shall be advised of the decision on the claim within forty-five (45) days after the earlier of the date the supplemental information is supplied or the end of the one hundred eighty (180) day period. Every claim for benefits which is denied shall be denied by written notice setting forth in a manner calculated to be understood by the claimant (a) the specific reason or reasons for the denial, (b) specific reference to any provisions of the Plan (including any internal rules, guidelines, protocols, criteria, etc.) on which the denial is based, (c) description of any additional material or information that is necessary to process the claim, and (d) an explanation of the procedure for further reviewing the denial of the claim and shall include an explanation of the claimant's right to pursue legal action in the event of   an adverse determination on review. 
+ 
+ 9.3 Review Procedures. Within sixty (60) days after the receipt of a denial on a claim, a claimant or his/her authorized representative may file a written request for review of such denial. Such review shall be undertaken by the Committee and shall be a full and fair review. The claimant shall have the right to review all pertinent documents. The Committee shall issue a decision not later than sixty (60) days after receipt of a request for review from a claimant unless special circumstances, such as the need to hold a hearing, require a longer period of time, in which case a decision shall be rendered as soon as possible but not later than one hundred twenty (120) days after receipt of the claimant's request for review. The decision on review shall be in writing and shall include specific reasons for the decision written in a manner calculated to be understood by the claimant with specific reference to any provisions of the Plan on which the decision is based and shall include an explanation of the claimant's right to pursue legal action in the event of   an adverse determination on review. 
+ 
+ ARTICLE X 
+ MISCELLANEOUS 
+ 
+ 10.1 Termination of Plan. Although the Bank anticipates that it will continue the Plan for an indefinite period of time, there is no guarantee that the Bank will continue the Plan or will not terminate th e Plan at any time in the future. Accordingly, the Bank reserves the right 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+to terminate the Plan with respect to all of its Participants. In the event of a Plan termination, no new deferral elections shall be permitted for the affected Participants and such Participants shall no longer be eligible to receive new Bank Contributions. However, after the Plan termination the Account balances of such Participants shall continue to be credited with deferrals attributable to any deferral election that was in effect prior to the Plan termination to the extent deemed necessary to comply with Code Section 409A and related Treasury Regulations, and additional amounts shall continue to be credited or debited to such Participants' Account balances pursuant to Article IV. In addition,  following a Plan termination, Participant Account balances shall remain in the Plan and shall not be distributed until such amounts become eligible for distribution in accordance w ith the other applicable provisions of the Plan.  Notwithstanding the preceding sentence, to the extent permitted by Treas. Reg. Â§1.409A-3(j)(4)(ix) or as otherwise permitted under Code Section 409A, the Bank may provide that upon termination of the Plan, all Account balances of the Participants shall be distributed, subject to and in accordance with any rules established by the Bank deemed necessary to co mply with the applicable requirements and limitations of Code Section 409A. 
+ 
+ 10.2   Amendment.    Amendment The Bank may, at any time, amend or modify the Plan in whole or in part. Notwithstanding the foregoing, no amendment or modification shall be effective to decrease the value of a Participant's vested Account balance in existence at the time the amendment or modification is made. 
+ 
+ 10.3 Unsecured General Creditor. The benefits paid under the Plan shall be paid from the general assets of the Bank, and the Participant and any Beneficiary or their heirs or successors shall be no more than unsecured general creditors of the Bank with no special or prior right to any assets of the Bank for payment of any obligations hereunder. It is the intention of the Bank that this Pl an be unfunded for purposes of ERISA and the Code. 
+ 
+ 10.4 Restriction Against Assignment. The Bank shall pay all amounts payable hereunder only to the person or persons designated by the Plan and not to any other person or entity. No part of a Participant's Accounts shall be liable for the debts, contracts, or engagements of any Participant, Beneficiary, or their successors in interest, nor shall a Participant's Accounts be subject to execution by levy, attachment, or garnishment or by any other legal or equitable proceeding, nor shall any such person have any right to alienate, anticipate, sell, transfer, commute, pledge, encumber, or assign any benefits or payments hereunder in any manner whatsoever. No part of a Participant's Accounts shall be subject to any right of offset against or reduction for any amount payable by the Participant or Beneficiary, whether to the Bank or any other party, under any arrangement other than under the terms of this Plan. 
+   
+ 10.5 Withholding. The Participant shall make appropriate arrangements with the Bank for satisfaction of any federal, state or local income tax withholding requirements, Social Security and other employee tax or other requirements applicable to the granting, crediting, vesting or payment of benefits under the Plan. There shall be deducted from each payment made under the Plan or any other Compensation payable to the Participant (or Beneficiary) all taxes that are required to be withheld by the Bank in respect to such payment or this Plan. To the extent permissible under Code Section 409A, the Bank shall have the right to reduce any payment (or other Compensation) by the amount of cash sufficient to provide the amount of said ta xes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 10.6 Code Section 409A. The Bank intends that the Plan comply with the requirements of Code Section 409A (and all applicable Treasury Regulations and other guidance issued thereunder) and shall be operated and interpreted consistent with that intent. Notwithstanding the foregoing, the Bank makes no representation that the Plan complies with Code Section 409A. Notwithstanding anything in this Plan (or any Participant Election) to the contrary, in the event the Account of a Participant who should become a "specified employee" (within the meaning of Code Section 409A and Treasury Regulations thereunder) becomes payable due to such Participant's Separation from Service, then such payment shall not be made or commence until the earliest of (i) the expiration of the six (6) month period measured from the date of the Participant's Separation from Service or (ii) the date of the Participant's death following such Separation from Service. Upon the expiration of the foregoing deferral period, any payment which would have otherwise been made during that period in the absence of the foregoing shall be made to the Participant or the Participant's Beneficiary. Except as provided in Code Section 409A and Treasury Regulation section 1.409A-3(j)(4) and the express provisions of this Plan, neither a Participant nor the Bank can accelerate the time or schedule of any payment or amount scheduled to be paid pursuant to the terms of the Plan. 
+ 
+ 10.7 Effect of Payment; Claims. Any payment made in good faith to a Participant or the Participant's Beneficiary shall, to the extent thereof, be in full satisfaction of all claims against the Committee, its members and the Bank. A Participant's sole remedy for any claim, liability or obligation of any nature, arising out of or relating to this Plan or an alleged breach of this Plan (col lectively, " Claims") shall be against the Bank, and no Participant shall have any claim or right of any nature against any affiliate of the Bank or any owner or existing or former director, officer or employee of the Bank or any affiliate (including the Board and the Committee). The individuals and entities described above in this Section 10.7 (other than the Bank) shall be t hird-party beneficiaries of this Plan for purposes of enforcing the terms of this Section 10.7. 
+   
+ 10.8 Errors in Account Statements, Deferrals or Distributions. In the event an error is made in an Account statement, such error shall be corrected on the next statement following the date such error is discovered. In the event of an operational error, including, but not limited to, errors involving deferral amounts, overpayments or underpayments, such operational error shall be corrected in a manner consistent with and as permitted by any correction procedures established under Code Section 409A. If any portion of a Participant's Account(s) under this Plan is required to be included in income by the Participant prior to receipt due to a failure of this Plan to comply with the requirements of Code Section 409A, the Committee may determine that such Participant shall receive a distribution from the Plan in an amount equal to the lesser of (i) the portion of his or her Account required to be included in income as a result of the failure of the Plan  to comply with the requirements of Code Section 409A, or (ii) the unpaid vested Account balance. 
+ 
+ 10.9 Domestic Relations Orders. Notwithstanding any provision in this Plan to the contrary, in the event that the Committee receives a domestic relations order, as defined in Code Section 414(p)(1)(B), pursuant to which a court has determined that a spouse or former spouse of a Participant has an interest in the Participant's benefits under the Plan, the Committee shall have the right to immediately distribute the spouse's or former spouse's vested interest in the Participant's benefits under the Plan to such spouse or former spouse to the extent necessary to 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fulfill such domestic relations order, provided that such distribution is in accordance with the requirements of Code Section 409A. 
+ 
+ 10.10 Employment / Service Not Guaranteed. Nothing contained in the Plan nor any action taken hereunder shall be construed as a contract of employment or as giving any Participant any right to continue the provision of se rvices in any capacity whatsoever to the Bank. 
+ 
+ 10.11 No Guarantee of Tax Consequences. The Bank, Board and Committee make no commitment or guarantee to any Participant that any federal, state or local tax treatment will apply or be available to any person eligible for benefits under the Plan and assume no liability whatsoever for the tax consequences to any Participant. 
+ 
+ 10.12 Successors of the Bank. The rights and obligations of the Bank under the Plan shall inure to the benefit of, and shall be binding upon, the successors and assigns of the Bank. 
+ 
+ 10.13 Notice. Any notice or filing required or permitted to be given to the Bank or the Participant under this Agreement shall be sufficient if in writing and hand-delivered, or sent by registered or certified mail, in the case of the Bank, to the principal office of the Bank, directed to the attention of the Committee, and in the case of the Participant, to the last known address of the Participant indicated on the employment records of the Bank. Such notice shall be deemed given as of the date of delivery or, if delivery is made by mail, as of the date shown on the postmark on the receipt for registration or certification. Notices to the Bank may be permitted by electronic communication according to specifications establ ished by the Committee. 
+ 
+ 10.14 Headings. Headings and subheadings in this Plan are inserted for convenience of reference only and are not to be considered in the construction of the provisions hereof. 
+ 
+ 10.15 Gender, Singular and Plural. All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine, or neuter, as the identity of the person or persons may require. As the context may r equire, the singular may be read as the plural and the plural as the singular. 
+ 
+ 10.16 Governing Law. The Plan is intended to constitute an unfunded plan for a select group of management or highly compensated employees and rights hereunder shall be governed by the laws of the Sta te of Texas. The bank is a governmental entity and this Plan is not subject to ERISA. 
+ 
+ 10.17 Entire Agreement .  Unless specifically indicated otherwise, this Plan supersedes any and all prior communications, understandings, arrangements or agreements between the parties, including the Bank, the Board, the Committee and any and all Participants, whether written, oral, express or implied relating thereto. 
+ * * * * * * * * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+IN WITNESS WHEREOF, the Board of Directors of the Bank has approved the adoption of this Plan as of the Effective Date and has caused the Plan to be executed by its duly authorized  representative this 26 th   day of September, 2016. 
+ 
+ FEDERAL HOME LOAN BANK OF DALLAS 
+ By       /s/ Brehan Chapman      
+ Name   Brehan Chapman      
+ Title   EVP, CAO      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Signature Page to the 
+ Federal Home Loan Bank of Dallas 2017 Deferred Compensation Plan 
+ 
+ 
+ 
+ 

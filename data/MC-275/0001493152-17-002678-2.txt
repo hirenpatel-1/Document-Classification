@@ -1,0 +1,963 @@
+ htm 343207 Material contracts 10 2017-03-21T13:30:39.720599-05:00 Filing 0001493152-17-002678 2017-03-21 10-K Annual  & Quarterly Reports 0000883975 Microbot Medical Inc. STEM COM Nasdaq Capital Market 2836 Biological Products, Except Diagnostic Substances No CALIFORNIA DELAWARE DELAWARE STEMCELLS INC;CYTOTHERAPEUTICS INC/DE false Accelerated Filer 000-19871 EX-10.11 Exhibit Exhibit 2 ex10-11.htm EX-10.11 2 ex10-11.htm 
+   
+ EXECUTION COPY 
+   
+ ASSET PURCHASE AGREEMENT 
+   
+ DATED AS OF NOVEMBER 11, 2016 
+   
+ BY AND AMONG 
+   
+ STEMCELLS, INC., 
+   
+ STEM CELL SCIENCES HOLDINGS LIMITED, 
+   
+ STEMCELLS CALIFORNIA, INC., 
+   
+ AND 
+   
+ BOCO SILICON VALLEY, INC. 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ ARTICLE I PURCHASE PRICE AND CLOSING 1       Section 1.1. Sale and Purchase of the Purchased Assets 1 Section 1.2. Delivery of the Purchased Assets 3 Section 1.3. Excluded Assets 4 Section 1.4. Assumption of Liabilities 4 Section 1.5. Retained Liabilities 5 Section 1.6. Purchase Price 6 Section 1.7. Closing 6       ARTICLE II REPRESENTATIONS AND WARRANTIES OF THE SELLER 8       Section 2.1. Organization, Standing and Corporate Power 8 Section 2.2. Purchased Assets 8 Section 2.3. Authority; Noncontravention; Voting Requirements 8 Section 2.4. Governmental Approvals and Consents 9 Section 2.5. Seller SEC Documents; Undisclosed Liabilities 10 Section 2.6. Legal Proceedings 10 Section 2.7. Compliance With Laws; Permits 10 Section 2.8. Taxes 10 Section 2.9. Personnel Matters 11 Section 2.10. Key Products IP Contracts 11 Section 2.11. Intellectual Property 11 Section 2.12. Regulatory Matters 13 Section 2.13. Brokers and Other Advisors 14 Section 2.14. Related Party Transactions 14 Section 2.15. Solvency; Fair Consideration; No Fraudulent Conveyance 14     ARTICLE III REPRESENTATIONS AND WARRANTIES OF BOCO US 15     Section 3.1. Organization, Standing and Corporate Power 15 Section 3.2. Authority; Noncontravention 15 Section 3.3. Governmental Approvals and Consents 15 Section 3.4. Legal Proceedings 15 Section 3.5. Financial Capability 16       ARTICLE IV PRE-CLOSING COVENANTS AND AGREEMENTS 16       Section 4.1. Conduct of the Business Prior to Closing 16 Section 4.2. Commercially Reasonable Efforts 16 Section 4.3. No Shopping 16 Section 4.4. Microbot Merger; Stockholder Approval 16 
+   
+ 
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+   
+ ARTICLE V POST-CLOSING COVENANTS AND AGREEMENTS 17       Section 5.1. Public Announcements 17 Section 5.2. Access to Information 17 Section 5.3. Confidentiality 18 Section 5.4. Fees and Expenses 19 Section 5.5. Further Assurances 19 Section 5.6. Key Products IP Contracts 19 Section 5.7. Seller Non-Competition and Non-Solicitation 19 Section 5.8. Change of Names 20 Section 5.9. Certain Tax Matters 20       ARTICLE VI CONDITIONS TO CLOSING 20       Section 6.1. Conditions to BOCO US's Obligation to Close 20 Section 6.2. Conditions to the Sellers' Obligation to Close 21 Section 6.3. Conditions to Obligations of Each Party to Close 21       ARTICLE VII TERMINATION 21       Section 7.1. Circumstances for Termination 21 Section 7.2. Effect of Termination 22       ARTICLE VIII INDEMNIFICATION 22       Section 8.1. Survival of Representations and Warranties; Indemnification 22 Section 8.2. Indemnification Procedures 23 Section 8.3. Limitations on Indemnification 25 Section 8.4. Indemnity Escrow 26 Section 8.5. Tax Treatment of Indemnity Payments 27 Section 8.6. Exclusive Remedies 27     ARTICLE IX MISCELLANEOUS 27       Section 9.1. Assignment 27 Section 9.2. Counterparts 27 Section 9.3. Entire Agreement; No Third Party Beneficiaries 27 Section 9.4. Governing Law 28 Section 9.5. Arbitration 28 Section 9.6. Specific Performance 29 Section 9.7. Notices 29 Section 9.8. Severability 30 Section 9.9. Definitions 30 Section 9.10. Interpretation 34 Section 9.11. No Other Warranties 34 Section 9.12. English Language 34 
+     
+ 
+   ii   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ List of Exhibits and Schedules 
+ Exhibits 
+   
+ Exhibit A Form of Escrow Agreement Exhibit B Form of UCC-3 Termination Statement Exhibit C Form of Bill of Sale Exhibit D-1 Form of Assignment of Patents and Patent Applications Exhibit D-2 Form of Assignment of Trademarks Exhibit D-3 Form of Assignment of Domain Names Exhibit E Form of Assignment and Assumption Agreement Exhibit F Form of Receipt Exhibit G Letter of Intent 
+   
+ Schedules 
+   
+ Schedule 1.1(l) Key Products Inventory Schedule 1.2 Laboratories Schedule 2.11(c) Updated IP Docket Schedule 9.9(l) Key Products IP Contracts 
+   
+ 
+ 
+   iii   
+ 
+ 
+   
+ 
+ 
+   
+ ASSET PURCHASE AGREEMENT 
+   
+ This ASSET PURCHASE AGREEMENT (this " Agreement "), dated as of November 11, 2016 (the " Execution Date "), is among STEMCELLS, INC., a Delaware corporation (" STEMCELLS Parent"), STEM CELL SCIENCES HOLDINGS LIMITED, a private limited company registered in Scotland that is a wholly-owned subsidiary of STEMCELLS Parent (" STEMCELLS Holdings"), STEMCELLS CALIFORNIA, INC., a California corporation that is a wholly-owned subsidiary of Holdings (" STEMCELLS Subsidiary "), and BOCO Silicon Valley, Inc., a California corporation (" BOCO US"). STEMCELLS Parent, STEMCELLS Holdings and STEMCELLS Subsidiary are referred to herein collectively as the " Sellers " and each is individually referred to as a " Seller." The Sellers, on the one hand, and BOCO US, on the other hand, are referred to herein collectively as the " Parties " or " parties " hereto; and each is individually referred to as a " Party " or " party " hereto. 
+   
+WHEREAS, the Boards of Directors of the Sellers and the Board of Directors of BOCO US have approved the acquisition of the Purchased Assets by BOCO US on the terms and subject to t he conditions set forth in this Agreement; and 
+   
+WHEREAS, BOCO US desires to purchase from the Sellers, and the Sellers desires to sell to BOCO US, the Purchased Assets, upon the terms and subject to the conditions hereinafter se t forth. 
+   
+NOW, THEREFORE, in consideration of the representations, warranties, covenants and agreements contained in this Agreement, and intending to be legally bound hereby, the Sellers, BO CO US hereby agree as follows: 
+   
+ ARTICLE I 
+ PURCHASE PRICE AND CLOSING 
+   
+ Section 1.1. Sale and Purchase of the Purchased Assets. Subject to the terms and conditions set forth in this Agreement, at the time set forth in Section 1.7, the Sellers shall sell, transfer and assign (or cause to be sold, transferred, assigned and delivered) to BOCO US, and BOCO US shall purchase and acquire, free and clear of any Liens, all right, title and interest in and to the Purchased Assets. Delivery of the Purchased Assets shall be made in accordance with Section 1.2. For purposes of this Agreement, the " Purchased Assets" shall mean all of the Sellers' rights, titles to, or interests as of the Closing in the following assets: 
+   
+(a) the Key Products, including all formulations thereof and all proprietary rights of the Sellers embodied in or associated with the Key Products which is not otherwise set forth  in this Section 1.1; 
+   
+(b) all Intellectual Property Rights embodied or disclosed in or otherwise related to the Key Products, or the research, production, manufacture, or development of any Key Product, including the Intellectual Property Rights described in Section 2.11(c) of the Sellers Disclosure Schedule (the " Key Products IP Rights"), together with all of the Sellers' rights to sue and obtain damages and equitable relief for past, present and future infringement, misappropriation or violation of any of the f oregoing; 
+   
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+ 
+   
+(c) all written disclosures of all inventions made by all of the Sellers' present or former officers, directors, employees, consultants or other third parties who developed or co-d eveloped any Key Products or any Intellectual Property Rights embodied or disclosed therein (the " Identified Employees") and the right to enforce any and all written assignments by each Identified Employee of any and all such inventions, work product, results and deliverables that relate solely to  the Key Products; 
+   
+(d) all rights to the use of the names (i) "StemCells, Inc.," (ii) "HuCNS-SC," and (iii) "hLEC," and any service marks, trademarks, trade names, d/b/a names, fictitious names, iden tifying symbols, logos, emblems, signs or insignia containing or comprising the foregoing (the " Seller Marks "), and any name or mark confusingly similar thereto; 
+   
+ (e) all rights to the website:  http://www.stemcellsinc.com/, including the domain name and all other intellectual property rights or proprietary rights included therein (the " Seller Website "); 
+   
+ (f) all notebooks, records and other media embodying the Key Products; 
+   
+(g) all filings and supporting documents and other correspondence submitted to and received from any Regulatory Authority relating to the Key Products, and all data contained therein or incorporated therein by reference, including any Investigational New Drug application (IND), Clinical Trial Application (CTA), investigator's brochures, pharmacology/toxicology data and reports, correspondence to and from a Regulatory Authority, written summaries of any oral discussions with a Regulatory Authority, including minutes from teleconferences and meetings with a Regulatory Authority, registrations and licenses, adverse event files, complaint files and manufacturing and testing records, all qualification and validation  documents, and all documentation pertaining to any Regulatory Authority inspections (the " Purchased Assets Regulatory Documentation "); 
+   
+(h) all data, information, publications, studies and other materials of the Sellers embodying or relating to (i) the clinical and non-clinical (including  in vitro and animal) testing of the Key Products performed by or on behalf of the Sellers, and (ii) clinical field experience with the Key Products that is necessary or useful for making r egulatory filings for, or marketing of, the Key Products; 
+   
+(i) all authorizations, registrations, filings, permits, licenses, franchises, orders, approvals, concessions, consents and other regulatory approvals issued by any Regulatory Authority to the Sellers which are required (i) for clinical testing of any Key Products, or (ii) for the handling, possession, importation, marketing, promotion, pricing or sale of an y Key Products and all applications for any of the aforementioned items; 
+   
+(j) all environmental, health and safety records and permits issued to the Sellers for the Key Products; 
+   
+(k) all manufacturing product records relating to any Key Products, including all of the reports, files, data and other documents and information produced by or for the Sellers in  connection with the manufacture of any Key Products; 
+   
+ 
+ 
+   2   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(l) all inventory of finished Key Products and all materials, samples, assays, reagents, chemicals generated or used by the Sellers (or Persons working on their behalf) in the research, development, manufacture or use of any Key Product, including the inventory set forth in Section 1.1(l) of the Sellers Disclosure Schedule (collectively, the " Purchased Cell Banks "); 
+   
+ (m) all rights, benefits and interests under the Edinburgh License Agreement, as amended; 
+   
+(n) all rights, benefits and interests under any Key Products IP Contracts, as amended, which may be assigned to BOCO US or to one of its Affiliates; and 
+   
+(o) all claims, causes of action, defenses and rights of offset or counterclaim (at any time or in any matter existing or arising, whether choate or inchoate, known or unknown, contingent or noncontingent), with respect to any Key Products, Key Products IP Contracts or Key Products IP Rights, including (i) claims under warranties or guarantees or indemnities, to the extent related to the Purchased Assets or the Assumed Liabilities, and (ii) claims against any of the Identified Employees for any misuse of the Confidential Information i ncluded in the Purchased Assets. 
+   
+To the extent any of the Purchased Assets consist of records, files, notebooks or other information, and such information is included in media that also contains information relating to any of the Excluded Assets, then the Purchased Assets shall include the original of such media, and the Sellers shall be entitled to retain a copy of the information relating to the Excluded Assets, or to receive a copy from BOCO US if all of the copies are delivered to BOCO US, in each case subject to compliance with Section 5.2, Section 5.3 and Secti on 5.7. 
+   
+ Section 1.2. Delivery of the Purchased Assets . 
+   
+(a) At the Closing, the Sellers shall deliver or make available the Purchased Assets, other than the Seller Website, within the Sellers' possession and control, to BOCO US through  (i) delivery of two WD My Book Duo 12TB hard drives (P/N WDBLWE0120JCH) (the " Hard Drives"), (ii) access to the boxes of documents identified on Section 1.2(a) of the Sellers Disclosure Schedule (the " Identified Boxes ") being stored pursuant to an agreement by and between STEMCELLS Parent and DataSafe (the " DataSafe Agreement"), (iii) access to the Sellers' SharePoint drive hosted by Microsoft Corporation (which shall remain fully active and accessible by BOCO US until the later of: (x) 90 days after Closing and (2) 180 days after Execution Date, at the sole expense of STREMCELLS Parent) and (iv) access to the Purchased Cell Banks which are in the custody of the laboratories identified on Section 1.2 of the Sellers Disclosure Schedule, which shall remain in the custody of the laboratories identified on Section 1.2 of the Sellers Disclosure Schedule pursuant to the terms of the Sellers' existing agreements with Miltenyi Biotech and Fisher Bioservices or a newly executed agreement with BOCO US, as applicable. Within 90 days following the Closing Date, the Sellers shall transfer all of their rights, title and interest in the Seller Website to BOCO US. 
+   
+(b) The Sellers undertake that, for the period of 90 days immediately following the Closing Date, upon BOCO US's reasonable request, the Sellers will use commercially reasonable efforts to provide to BOCO US, and to procure that the employees and agents of and professional advisers to the Sellers will provide to BOCO US, whatever information and assistance is reasonably necessary to effectuate the transfer of record or legal ownership of the Purchased Assets to BOCO US. The Sellers shall pay any costs and expenses reasonably incurred by the Sellers and their respective employees, agents and/or professional advisers in the provision of this information and assistance (excluding, for the avoidance of doubt, any costs or expenses incurred in the provision of services, including mailing, shipment and cell storage, provided by third parties). 
+   
+ 
+ 
+   3   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 1.3. Excluded Assets. Other than the Purchased Assets, none of the Sellers shall sell, transfer, assign or deliver to BOCO US any of their rights, titles to or interests in any of their other assets ( the " Excluded Assets"), which are not part of the sale and purchase contemplated hereunder, are excluded from the Purchased Assets, and shall remain the property of the Sellers after the Closing. The  following assets of the Sellers are examples of Excluded Assets: 
+   
+ (a) all cash, cash equivalents and short term investments; 
+   
+(b) all personnel records and other records that the Sellers are required by applicable Laws to retain in their possession; 
+   
+ (c) all financial records; 
+   
+ (d) all corporate records; 
+   
+(e) all third-party contracts other than any Key Products IP Contracts and the Edinburgh License Agreements; 
+   
+ (f) all legal records; 
+   
+ (g) all claims for refund of Taxes; 
+   
+ (h) any employees; and 
+   
+(i) all rights of the Sellers under this Agreement or any other agreement, instrument, certificate or document required to be delivered to the Sellers at the Closing. 
+   
+ Section 1.4. Assumption of Liabilities. Effective as of the Closing, the Sellers shall not have any liability or obligation with respect to, and BOCO US shall assume and thereafter pay, perform and discharge when due, without recourse to the Sellers, only the Liabilities that become due payable with respect to the Purchased Assets solely as a result of actions or omissions of BOCO US or its Affi liates after the Closing (collectively, the " Assumed Liabilities"). BOCO US shall take, and cause its Affiliates to take, all reasonable steps to mitigate any Assumed Liabilities upon and after becoming aware of any event that that could reasonably be expected to give rise to such Assumed Liabilities. For the avoidance of doubt, Assumed Liabilities shall not include any Liabilities of any kind existing prior to the Closing Date, or which become Liabilities after the Closing, solely to the extent resulting from actions taken by any of the Sellers prior to the Closing, including any Liabilities relating to any course of conduct, breach, violation or other action of any of the Sellers which occurred prior to the Closing,  provided that such action was not required by this Agreement or taken at the request or direction of BOCO US. 
+   
+ 
+ 
+   4   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 1.5. Retained Liabilities . 
+   
+(a) Notwithstanding anything to the contrary contained in this Agreement, other than the Assumed Liabilities, BOCO US and its Affiliates shall not have any liability or obligation with respect to, shall not assume or agree to pay, perform or discharge, and shall not be deemed by virtue of the execution and delivery of this Agreement or any document delivered at the Closing pursuant to this Agreement, or as a result of the consummation of the Transactions, to have assumed, or to have agreed to pay, perform or discharge, any liability or obligation of the Sellers, whether primary or secondary, direct or indirect, known or unknown, asserted or unasserted, due or to become due, accrued, absolute, contingent or otherwise, and whether arising prior to the Closing Date (such Liabilities not assumed by BOCO US and its Affiliates, are collectively referred to as the " Retained Liabilities"). The "Retained Liabilities" shall include, to the extent that they are not Assumed Liabilities, the following: 
+   
+(i) all Liabilities of the Sellers, or any member of any consolidated, affiliated, combined or unitary group of which Seller or any of its Subsidiaries is or has been a member, for Taxes (including any Liability for Taxes relating to any of the Purchased Assets, or the ownership, control, lease or license of any of the Purchased Assets); 
+   
+ (ii) all Liabilities of the Sellers arising pursuant to this Agreement; 
+   
+(iii) all Liabilities and obligations of the Sellers arising under the Sellers' employee benefit plans or relating to payroll, vacation, sick leave, workers' compensation and unemp loyment benefits of any kind; 
+   
+(iv) all Liabilities of the Sellers in connection with any claims, actions, suits, audits, inquiries, proceedings by any Governmental Authority or third party (including any stockholders of the Sellers, whether brought directly, derivatively or otherwise, but not including any Liabilities arising solely from the ownership, control, license or use of the Purchased Assets by or on behalf of BOCO US or any of its Affiliates following the Closing), including any claims, actions, suits, audits, inquiries, proceedings arising as a result of  or relating to the entry into the Agreement or the consummation of the Transactions; 
+   
+(v) all Liabilities of the Sellers relating to, arising out of or incurred in connection with any of the Excluded Assets; 
+   
+ (vi) all Liabilities of the Sellers arising under any environmental Law; 
+   
+ (vii) all Liabilities of the Sellers arising as a result of violations of any Laws by Sellers; 
+   
+ (viii) all Liabilities of the Sellers for Indebtedness; 
+   
+(ix) all Liabilities arising out of or resulting from any breach by the Sellers under any Key Products IP Contracts prior to the date on which any such Key Products IP Contract is  transferred by the Sellers to BOCO US in accordance with the terms of this Agreement; and 
+   
+ 
+ 
+   5   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(x) all Liabilities arising out of or related to any broker's, finder's, advisory or other similar fee or commission, or the reimbursement of expenses, in connection with the Trans actions based upon arrangements made by or on behalf of the Sellers. 
+   
+ (b) The Sellers shall pay, discharge and perform all of the Retained Liabilities when due. 
+   
+ Section 1.6. Purchase Price . 
+   
+(a) On the terms and subject to the conditions set forth in this Agreement, as consideration for the sale, transfer, assignment and delivery of the Purchased Assets to BOCO US, BOCO US shall purchase and acquire all rights, titles and interests in and to the Purchased Assets for an aggregate purchase price equal to USD4,000,000 if the Closing occurs on or before December 1, 2016 and an aggregate purchase price equal to USD3,900,000 if the Closing occurs after December 1, 2016 (the " Purchase Price "). The Parties hereby acknowledge and agree that USD300,000 of the Purchase Price (the " Letter Agreement Deposit Amount") was paid prior to the Execution Date by Bright Oceans Corporation (HK) Limited, on behalf of BOCO US, to the Sellers pursuant to that certain letter agreement attached as  Exhibit G to this Agreement, which USD300,000 shall be treated in all respects as if such amount had been funded by BOCO US as a portion of the Purchase Price. 
+   
+ (b) On the date hereof, BOCO US, STEMCELLS Parent and Continental Stock Transfer  & Trust Company, a New York corporation (the " Escrow Agent "), are executing and delivering an Escrow Agreement in the form attached hereto as  Exhibit A  (the " Escrow Agreement "). 
+   
+ (c) On November 14, 2016, BOCO US will fund USD3,700,000 (the " Escrow Deposit") to the Escrow Agent in cash by wire transfer of immediately available funds to the account designated in writing by the Escrow Agent pursuant to the Escrow Agreement (the " Escrow Account "). 
+   
+(d) Of the Purchase Price, the amount of USD100,000 shall be in consideration for the assignment of the Edinburgh License Agreement to BOCO US. 12.82% of the remaining Purchase Price shall be in consideration for the assignment of patents and patent applications included within the Purchased Assets, other than the patents and patent applications licensed under the Edinburgh License Agreement, to BOCO US. 25.64% of the remaining Purchase Price shall be in consideration for the assignment of the Trade Secrets included within the Purchased Assets to BOCO US. 61.28% of the remaining Purchase Price shall be in consideration for the sale and transfer of Purchased Cell Banks to BOCO US. 0.26% of the remaining Purchase Price shall be in consideration for the transfer of books and records included within the Purchased Assets, including Purchased Assets Regulatory Documentation, to BOCO US. 
+   
+ Section 1.7. Closing . 
+   
+ (a) The closing (the " Closing") of the purchase and sale of the Purchased Assets shall take place at 10:00 a.m. (Los Angeles time) on the date that is three Business Days after the day on which all of the conditions to closing set forth in ARTICLE VI are satisfied or waived (other than conditions that are intended to be satisfied at the Closing), or at such other date, time or place as  the Parties may agree (the " Closing Date "). 
+   
+ 
+ 
+   6   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ (b) At the Closing, the Sellers and BOCO US shall execute and deliver the following documents: 
+   
+ (i) a duly authorized UCC-3 in the form attached hereto as  Exhibit B from Alpha Capital Anstalt evidencing the release of its lien on the Purchased Assets, effective as of the Closing; 
+   
+ (ii) a duly executed bill of sale in the form attached hereto as  Exhibit C  for all other Purchased Assets; 
+   
+ (iii) duly executed assignments in the forms attached hereto as  Exhibit D-1, Exhibit D-2 and Exhibit D-3 ; 
+   
+ (iv) a duly executed assignment and assumption agreement in sale in the form attached hereto as  Exhibit E, effecting the assignment to and assumption by BOCO US of the Purchased Assets and the Assumed Liabilities; and 
+   
+ (v) a receipt for an amount equal to the Purchase Price  minus  the Letter Agreement Deposit Amount  minus  the Holdback Amount (as defined in Section 8.3(a)) (such amount, the " Closing Purchase Price," which, for the avoidance of doubt, shall equal USD3,300,000, if the Closing occurs on or before December 1, 2016, and USD3,200,000, if the Closing occurs after December 1, 2016)  in the form attached hereto as  Exhibit F . 
+   
+(c) At least three Business Days prior to the Closing (after all of the conditions to the Closing set forth in ARTICLE VI are satisfied or waived (other than conditions that are intended to be satisfied at the Closing)) in accordance with ARTICLE VI, BOCO US and STEMCELLS Parent shall sign and deliver joint written instructions to the Escrow Agent substantially in the form attached as Schedule 2 to the Escrow Agreement notifying the Escrow Agent of the Closing Date and directing the Escrow Agent to release funds in accordance with the  provisions of Section 1.7(d). 
+   
+(d) At the Closing, except as provided by Section 1.7(e), the Escrow Agent shall release from the Escrow Account in accordance with the terms of the Escrow Agreement (i) to STEMCELLS Parent, an amount equal to 85% of the Closing Purchase Price from the Escrow Account and (ii) to the individuals whose consulting agreements are described in Section 2.14 of the  Sellers Disclosure Schedule (the " Consultants"), an aggregate amount equal to 15% of the Closing Purchase Price, in accordance with the terms of such consulting agreements. USD400,000 of the Purchase Price will remain in the  Escrow Account pursuant to the terms of Section 8.4. 
+   
+(e) If the Closing has not occurred by December 1, 2016, then USD100,000 of the Escrow Deposit will be returned by the Escrow Agent to BOCO US. At the Closing, the remainder of the Escrow Deposit will be divided 85%/15%, as provided in Section 1.7(d), with USD400,000 remaining as the holdback pursuant to the terms of Section 8.4. 
+   
+ 
+ 
+   7   
+ 
+ 
+   
+ 
+ 
+   
+ 
+(f) The Closing shall take place at the offices of Dentons US, LLP, 1530 Page Mill Road, Suite 200, Palo Alto, CA 94304-1125, USA. 
+   
+ ARTICLE II 
+ REPRESENTATIONS AND WARRANTIES OF THE SELLER 
+   
+ Except as set forth in the disclosure schedule delivered by the Sellers to BOCO US (the " Sellers Disclosure Schedule") prior to the execution of this Agreement, the Sellers represent and warrant to BOCO US that as of the Closing Date: 
+   
+ Section 2.1. Organization, Standing and Corporate Power. Each of the Sellers is duly organized, validly existing and in good corporate standing (or equivalent status) under the Laws of the state of its incorporation or organization and has all requisite corporate power and authority to own, lease and operate its properties and assets and to carry on its business as it is now being conducted. Each of the Sellers is duly licensed or qualified to do business and is in good standing (or equivalent status) as a foreign corporation or other entity in each jurisdiction in which the nature of the business conducted by it or the character or location of the properties and assets owned, leased or operated by it requires such license or qualification. 
+   
+ Section 2.2. Purchased Assets . 
+   
+(a) The Sellers have good, valid and marketable title to all of the Purchased Assets free and clear of any Liens. Except as set forth in Section 2.2(a) of the Sellers Disclosure Schedule the Purchased Assets include all of the assets, rights and properties (including Intellectual Property Rights) of the Sellers that are currently held for use by the Sellers  for the manufacture, study, commercialization or development of the Key Products. 
+   
+(b) Except as set forth in Section 2.2(b) of the Sellers Disclosure Schedule, all of the Purchased Cell Banks has been maintained in accordance with normal industry practice and in  accordance with all applicable Laws. 
+   
+(c) Except as set forth in Section 2.2(c) of the Sellers Disclosure Schedule, to the Knowledge of the Sellers, the Hard Drives and/or the Identified Boxes contain accurate copies of the Purchased Assets that have previously been reduced to a tangible format (written, electronic or otherwise) still within the Sellers' possession or control. 
+   
+ Section 2.3. Authority; Noncontravention; Voting Requirements . 
+   
+(a) The Sellers have all requisite corporate power and authority to execute and deliver this Agreement and to perform their obligations hereunder and to consummate the Transactions. The execution, delivery and performance by the Sellers of this Agreement and the consummation by them of the Transactions, have been duly and validly authorized by all necessary corporate action on the part of the Sellers and no other corporate action on the part of the Sellers is necessary to authorize the execution, delivery and performance by the Sellers of this Agreement or the consummation by them of the Transactions. This Agreement has been duly and validly executed and delivered by the Sellers and, assuming due authorization, execution and delivery by the other parties hereto, constitutes legal, valid and binding obligations of the Sellers, enforceable against the Sellers in accordance with its terms, except that such enforceability may be limited by bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and other similar Laws affecting creditors' rights general ly and by general principles of equity (the " Bankruptcy and Equity Exception "). 
+   
+ 
+ 
+   8   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(b) The STEMCELLS Parent Board of Directors, at a meeting duly called and held at which all of the members of the STEMCELLS Parent Board of Directors were present in person or by telephone in compliance with the applicable provisions of the Delaware General Corporation Law (the " DGCL"), has duly and unanimously adopted resolutions (i) adopting and approving this Agreement and approving the Transactions, and (ii) declaring that this Agreement and the Transactions are advisable and in the best interests of the Sellers and its stockholders, and none of the aforesaid actions by the STEMCELLS Parent Board of Directors has been amended, rescinded or modified as of the Closing Date. No further corporate action is required by the STEMCELLS Parent Board of Directors in order for the Sellers to approve this Agreement or th e Transactions. 
+   
+(c) None of the execution and delivery of this Agreement by the Sellers, the consummation by the Sellers of the Transactions or compliance by the Sellers with any of the terms or provisions hereof will (i) conflict with, or result in a violation or breach of, any provision of any certificate of incorporation, certificate of formation, bylaws, operating agree ment or comparable organizational document (each an " Organizational Document") of the Sellers, (ii) violate any Laws applicable to the Purchased Assets, (iii) conflict with, or result in any violation or breach of, or constitute (with or without notice or lapse of time, or both) a default (or give rise to a right of termination, cancellation or acceleration of any obligations or loss of any material benefit) under, require a consent or waiver under, require the payment of a penalty under, any terms, conditions or provisions of any loan or credit agreement, debenture, note, bond, mortgage, indenture, deed of trust or Contract to which the Sellers is a party or by which any of the Purchased Assets may be bound, or (iv) result in the creation or imposition of any Lien on any Purchased Ass et. 
+   
+(d) The DGCL does not require that this Agreement or the Transactions be approved by holders of any class or series of capital stock of the STEMCELLS Parent. 
+   
+ Section 2.4. Governmental Approvals and Consents. Except for filings required under, and compliance with other applicable requirements of, the Securities Exchange Act of 1934, as amended (the " Exchange Act "), and the Securities Act of 1933, as amended (the " Securities Act"), the rules and regulations promulgated under the Exchange Act and the Securities Act, the rules and regulations of the Nasdaq Stock Market (" Nasdaq"), no consents or approvals of, or filings, declarations or registrations with, any Governmental Authority are necessary (a) for the execution and delivery of this Agreement by the Sellers or the consummation by the Sellers of the Transactions, (b) to avoid the breach of the Key Products IP Contracts or the creation of a Lien on any of the Purchased Assets, or (c) to enable BOCO US to own the Purchased Assets following the Closing Date, except in each case as would not reasonably be expected to have, individually or in the aggregate,  a Seller Material Adverse Effect. 
+   
+ 
+ 
+   9   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 2.5. Seller SEC Documents; Undisclosed Liabilities. 
+   
+(a) Since December 31, 2015, the Sellers have timely filed or furnished, as applicable, all reports, forms, schedules, statements, prospectuses, registration statements and other document required to be filed or furnished by the Sellers under the Securities Act or the Exchange Act, as the case may be (such documents, collectively, and in each case including  all exhibits and schedules thereto and documents incorporated by reference therein, the " Seller SEC Documents"). Each Seller SEC Document, as of its filing date or, if amended or supplemented prior to the date of this Agreement, as of the date of its last such amendment or supplement, complied as to form, and each such Seller SEC Document filed subsequent to the date hereof will comply as to form, in all material respects with the requirements of the Securities Act or the Exchange Act, as the case may be, and the rules and regulations promulgated thereunder, applicable to such Seller SEC Documents. Each Seller SEC Document, as of its filing date or, if amended or supplemented prior to the date of this Agreement, as of the date of its last such amendment or supplement, did not, and each such Seller SEC Document filed subsequent to the date hereof will not, contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary in order to make the statements made therein, in light of the circumstances under which they were made, not misleading. 
+   
+(b) None of the Sellers has any liabilities or obligations of any nature (whether accrued, absolute, contingent or otherwise) other than liabilities or obligations that (i) have been discharged or paid in full prior to the date of this Agreement in the ordinary course of business, or (ii) are accrued or reserved against in the most recent financial statements included in the Sellers SEC Documents filed prior to the date hereof or are reflected in the notes thereto. 
+   
+ Section 2.6. Legal Proceedings. To the extent relating to the Purchased Assets, (a) there is no legal or administrative proceeding, claim, suit or action pending or, to the Knowledge of the Sellers, threatened, against or affecting, the Sellers, any of their respective assets or rights, any of the Identified Employees in their respective capacities as such before (or, in the case of threatened actions, suits, investigations or proceedings, would be before) any arbitrator or Governmental Authority, nor (b) is there any injunction, order, judgment, ruling or decree  (" Order") of any arbitrator or Governmental Authority imposed upon or outstanding against the Sellers, or any of their respective assets or rights, or, to the Knowledge of the Sellers, in vestigation by any Governmental Authority involving the Sellers. 
+   
+ Section 2.7. Compliance With Laws; Permits. Each of the Sellers has been and is currently in compliance in all material respects with all laws, injunctions, judgments, decrees, rulings, statutes, ordinances, codes, rules, regulations, decrees and orders of Governmental Authorities, including the Occupational Safety and Health Act of 1970 (29 U.S.C. Â§ 651 et seq.) and rules and regulations of the U. S. Securities Exchange Commission and Nasdaq (collectively, " Laws") applicable to the Purchased Assets or the Identified Employees, including Laws relating to occupational safety and health, manufacturing practice, labeling, handling and use of compounds and products and employee exposure monitoring and control. None of the Sellers has received any written notice or other written communication alleging or relating to a po ssible violation by the Sellers of any Laws applicable to the Purchased Assets. 
+   
+ Section 2.8. Taxes. There are no federal, state, county, local or foreign taxes due and payable by the Sellers which have not been timely paid, which is reasonably likely to result in the creation of any Lien upon any of the Purchased Assets. There are no accrued and unpaid federal, state, country, local or foreign taxes of the Sellers which are due, whether or not assessed or disputed, which is reasonably likely to result in the creation of any Lien upon any of the Purchased Assets. 
+   
+ 
+ 
+   10   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 2.9. Personnel Matters. There are no claims or legal proceedings pending or, to the Knowledge of the Sellers, threatened, by or between the Sellers and any of the Identified Employees which: (i) questions the validity of any assignment by any of the Identified Employees of any Key Products IP Rights, (ii) demands payment for any assignment by any of the Identified Employees of any Key Products IP Rights or (iii) which is reasonably likely to result in the creation of any Lien upon any of the Purchased Assets. 
+   
+ Section 2.10. Key Products IP Contracts. The Sellers have heretofore made available to BOCO US true, correct and complete copies of the Key Products IP Contracts. Except as set forth in Section 2.10 of the Sellers Disclosure Schedule: (a) each of the Key Products IP Contract constitutes the valid and legally binding obligation of the Sellers, enforceable in accordance with its terms (subject to the Bankruptcy and Equity Exception) and (b) to the Knowledge of Sellers, is in full force and effect. The Sellers are not (and with the giving of notice or lapse of time would not be) in material breach of, or default under, any Key Products IP Contract and, to the Knowledge of the Sellers, no other party thereto is in material breach of, or default under, in any respect, any Key Products IP Contracts. To Sellers' Knowledge, there exist no Contracts which could reasonably be expected to impose material obligations on or bind BOCO US o r any of its Affiliates in any material way upon or following consummation of the Transactions. 
+   
+ Section 2.11. Intellectual Property . 
+   
+(a) The Sellers exclusively own, have a valid license or otherwise have the valid right to use or access, all Key Products IP Rights free and clear of all Liens. 
+   
+(b) Except as set forth in Section 2.11(b) of the Sellers Disclosure Schedule, to the Knowledge of the Sellers, all of the Trade Secrets included in the Key Product IP Rights that have been reduced to a tangible form by the Sellers are, if still within Seller's possession and control, included in either the Hard Drives or the Identified Boxes. 
+   
+(c) Section 2.11(c) of the Sellers Disclosure Schedule sets forth a true, correct and complete list of (i) each patent, patent application, trademark registration, trademark application, copyright registration and domain name registration in which the Sellers have or purports to have an ownership interest of any nature relating to the Key Products (whether e xclusively, jointly with another Person, or otherwise) (collectively, " Key Products Registered IP"), (ii) the jurisdiction in which such item of the Key Products Registered IP has been registered or filed and the applicable registration or serial number, (iii) any other Person that has an ownership interest in such item of the Key Products Registered IP and the nature of such ownership interest. Except as set forth in Section 2.11(c) of the Sellers Disclosure Schedule, each of the material Key Products Registered IP is subsisting, and, to the Sellers' Knowledge, valid and enforceable, and has not been adjudged invalid or unenforceable in whole or part. Except as set forth in Section 2.11(c) of the Sellers Disclosure Schedule, no Key Products IP Right is subject to any outstanding decree, order, injunction, judgment or ruling restricting the use of such Intellectual Property Right or that is reasonably likely to impair the validity or enforceability of such Intellectual Property Right. Except as set forth in Section 2.11(c) of the Sellers Disclosure Schedule, to the Knowledge of the Sellers, no Person has asserted by way of declaratory action, invalidation action, nullity action, revocation action, opposition, reexamination or similar action that the Key Products IP Rights are invalid and/or unenforceable, except in connection with any legal proceeding that has been disclosed to BOCO US and which legal proceeding is no longer pending. 
+   
+ 
+ 
+   11   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(d) Except as set forth in Section 2.11(d) of the Sellers Disclosure Schedule, there are no pending or, to the Knowledge of the Sellers, threatened claims (i) that, with respect to the Purchased Assets, the Sellers have infringed, misappropriated or otherwise violated, or is infringing, misappropriating or otherwise violating (including with respect to the manufacture, use, distribution, marketing, or sale by the Sellers of any Key Products), any Intellectual Property Rights of any Person, (ii) based upon or challenging or seeking to deny or restrict the use by or ownership of the Sellers of any of the Key Products IP Rights, or (iii) alleging that any Key Products IP Right is being licensed or sublicensed in conflict with the terms of any license or other Contract. No Person has asserted by way of allegation, "cease and desist" demands, unsolicited offers of license or otherwise or, to the Sellers' Knowledge, has the right to assert any claim regarding the use of, or challenging or questioning the Sellers' right or title in, any of the Key Products IP Rights. 
+   
+(e) To the Knowledge of the Sellers, no Person or Persons is or are infringing, misappropriating or otherwise violating any Key Products IP Rights. 
+   
+(f) The Sellers have taken reasonable security measures, including measures against unauthorized disclosure, to protect the secrecy, confidentiality, and value of its Trade Secrets and other Confidential Information related to the Key Products. With respect to the Key Products, to Sellers' Knowledge, none of the Identified Employees (i) is obligated (or was obligated at any time while employed by the Sellers) under any Contract to assign any invention made, conceived, or reduced to practice during the period of such Identified Employee's employment by the Sellers to any Person other than the Sellers, (ii) has assigned to any Person other than the Sellers any inventions made, conceived, or reduced to practice during the period of such Identified Employee's employment by the Seller or (iii) has retained any tangible form of the Trade Secrets or other Confidential Information related to the Key Products. To the Knowledge of the Sellers, neither the execution nor delivery of this Agreement will conflict with or result in a breach of the terms, conditions or provisions of, or constitute a default under, any Contract, covenant or instrument under which any of its Identified Employees are now obligated. The Sellers do not believe that they are utilizing, or that it will be necessary to utilize, in connection with the Key Products, any inventions of any of the Identified Employees made prior to their employment by the Seller s that have not been licensed to or acquired by the Sellers. 
+   
+(g) Except as set forth in Section 2.11(g) of the Sellers Disclosure Schedule, the execution and delivery of this Agreement by the Sellers do not, and the consummation by the Sellers of the Transactions and compliance by the Sellers with the provisions of this Agreement will not, (i) alter, impair, diminish or result in the loss of any rights or interests of the Sellers in respect of any material Key Products IP Rights or under any Key Products IP Contract, (ii) grant or require the Sellers or BOCO US or its Affiliates to grant to any Person any rights in respect of any material Key Products IP Rights, or (iii) subject the Sellers or BOCO US or its Affiliates to any increase in or acceleration of royalties or o ther payments in respect of any Key Products IP Rights or under any Key Products IP Contract. 
+   
+ 
+ 
+   12   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 2.12. Regulatory Matters . With respect to the Key Products: 
+   
+(a) To the extent relating to the Purchased Assets, the Sellers are in compliance in all material respects with all applicable statutes, rules and regulations of the FDA, and, to the extent applicable, other Regulatory Authorities, with respect to the clinical testing, manufacture, labeling, storing, testing, or distribution of their compounds and products, including current "Good Manufacturing Practice," or cGMP regulations, "Good Clinical Practice" or GCP regulations to the extent the clinical data from any of their clinical studies is used to support regulatory approval of the Sellers' products, "Good Laboratory Practice" (as such terms are defined in applicable Laws) or GLP regulations to the extent the non-clinical data from Seller non-clinical studies is used to support regulatory approval of any products of the Sellers. 
+   
+(b) To the extent relating to the Purchased Assets, the Sellers are in compliance in all material respects with all applicable registration and listing requirements set forth at 21  U.S.C. Â§ 360 and all similar applicable laws and regulations. 
+   
+(c) None of the Sellers, nor, to the Knowledge of the Sellers, any Person who is providing or has provided services to the Sellers (including Third Party Suppliers), is in receipt of notice of, or is subject to, any adverse inspection, finding of non-compliance, compelled or voluntary recall, investigation, penalty for corrective or remedial action or other compliance or enforcement action, by the FDA or any other applicable Regulatory Authority, relating to the Purchased Assets. There are no pending or, to the Knowledge of the Sellers, threatened actions, proceedings or complaints by the FDA or any other applicable Regulatory Authority against the Sellers, or any Person providing services to the Sellers (including Third Party Suppliers), relating to the Purchased Assets. The Sellers have not received an FDA 483 or similar inspection report or warning letter relating to the Purchased Ass ets. 
+   
+(d) Except as set forth in Section 2.12(d) of the Sellers Disclosure Schedule, the Purchased Cell Banks, including, to the Sellers' Knowledge, all key materials, reagents, active pharmaceutical ingredients, compounds and products used in the manufacture of the Purchased Cell Banks supplied by third-party suppliers (" Third Party Suppliers"), have been manufactured, handled, stored and distributed in accordance with applicable Laws, including current "Good Manufacturing Practice," or cGMP regulations, except as has not had, or would not reasonably be expected to have, individually or in the aggregate, a Seller Material Adverse Effect. 
+   
+(e) None of the Sellers has received any notification from the FDA or any other applicable Regulatory Authority indicating that any of the Key Products are misbranded or adulterated as defined in 21 U.S.C. Â§ 321, et seq., as amended, and the rules and regulations promulgated thereunder. 
+   
+(f) Neither the Sellers nor, to the Sellers' Knowledge, any of the Identified Employees, has made an untrue statement of a material fact or fraudulent statement to the FDA or any other Regulatory Authority, failed to disclose a material fact required to be disclosed to the FDA or any other Regulatory Authority, or committed an act, made a statement or failed to make a statement, in each case relating to the Purchased Assets, that, at the time such disclosure was made, would reasonably be expected to provide a basis for any investigation by, and, to the Knowledge of the Sellers, no such investigation has been instituted or threatened by, (i) the FDA pursuant to its "Fraud, Untrue Statements of Material Facts, Bribery, and Illegal Gratuities," set forth in 56 Fed. Reg. 46191 (September 10, 1991), (ii) Department of Health and Human Services Officer of Inspector General or Department of Justice pursuant to the Federal Anti-Kickback Statute (42 U.S.C. Â§ 1320a-7(b)) or the Federal False Claims Act (31 U.S.C. Â§ 3729 et seq.), or (iii) any equivalent statute of any jur isdiction in the European Union. 
+   
+ 
+ 
+   13   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(g) The Sellers have not used in any capacity the services of any Persons debarred under any jurisdiction's debarment provisions including subsections 306(a) or 306(b) of the Generic Drug Enforcement Act of 1992, disqualified as a testing facility under CFR Part 58, subpart K, or disqualified as a clinical investigator under 21 CFR 312.70, in connection with any of the services relating to the Purchased Assets performed by the Sellers or its contractors. To the Sellers' Knowledge, there are no pending or threatened actions, suits, claims, investigations or legal or administrative proceedings relating to the debarment or disqualification of any Person performing any services relating to the Purchased Assets for  the Sellers. 
+   
+(h) The Sellers have complied in all material respects with all applicable Laws, guidelines and regulations relating to the collection and/or use of the human cell lines, tissue, human clinical isolates or similar human-derived materials and the Sellers have obtained any approvals, consents, and/or authorization required by applicable Laws (including the Health Insurance Portability and Accountability Act and regulations promulgated thereunder) for the collection, use, and/or transfer of such human cell lines, tissue, human clinical isolates or similar human-derived materials. Such human cell lines, tissue, human clinical isolates or similar human-derived materials may be used without any obligations to the individuals or entities who contributed the materials, including any obligations of compensation to such individuals or entities who contributed the materials for any purposes, including any obligations of compensation to such individuals or entities who contributed the materials or any other third party for the intellectual property associated with, or commercial use of, such materials for any purposes, other than payment obligations which do not exceed $50,000 in the aggregate. 
+   
+ Section 2.13. Brokers and Other Advisors. No agent, broker, investment banker, financial advisor or other Person is entitled to any broker's, finder's, advisory or other similar fee or commission, or the reimbursement of expenses, in connection with the Transactions based upon arrangements made by or on behalf of the Sellers. 
+   
+ Section 2.14. Related Party Transactions. Except as set forth in Section 2.14 of the Sellers Disclosure Schedule, as of the date hereof, no, director, officer or other Affiliate of the Sellers or any of such Person's Affiliates, or any entity in which any such Person has a direct or indirect material interest, (a) has any right, title, or interest in any Key Products IP Rights, or (b) is party to  or bound by any Key Products IP Contract. 
+   
+ Section 2.15. Solvency; Fair Consideration; No Fraudulent Conveyance. Upon the consummation of the Transactions, the Sellers will be Solvent. The Sellers are not entering into this Agreement and consummating the Transactions with the intent to defraud, delay or hinder the Sellers' creditors and the consummation of the Transactions will not have any such effect. The Transactions do not constitute a fraudulent conveyance, or otherwise give rise to any right of any creditor of the Sellers whatsoever to any of the Purchased Assets after the Closing. 
+   
+ 
+ 
+   14   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ ARTICLE III 
+ REPRESENTATIONS AND WARRANTIES OF BOCO US 
+   
+ BOCO US represents and warrants to the Sellers that: 
+   
+ Section 3.1. Organization, Standing and Corporate Power. BOCO US is duly organized and validly existing under the Laws of the state of its incorporation and has all requisite corporate power and authority to own, lease and operate its  properties and assets and to carry on its business as it is now being conducted. 
+   
+ Section 3.2. Authority; Noncontravention . 
+   
+(a) BOCO US has all requisite corporate or other power and authority to execute and deliver this Agreement, and to perform its obligations hereunder and to consummate the Transactions. The execution, delivery and performance by BOCO US of this Agreement, and the consummation by BOCO US of the Transactions, have been duly authorized by all necessary corporate or other action on the part of BOCO US, and no other corporate or other action on the part of BOCO US is necessary to authorize the execution, delivery and performance by BOCO US of this Agreement or the consummation by it of the Transactions. This Agreement has been duly executed and delivered by BOCO US and, assuming due authorization, execution and delivery hereof by the Sellers, constitutes a legal, valid and binding obligation of BOCO US, enforceable against BOCO US in accordance with its terms, subject to the Bankruptcy and Equ ity Exception. 
+   
+(b) None of the execution and delivery of this Agreement by BOCO US, the consummation by BOCO US of the Transactions or compliance by BOCO US with any of the terms or provisions hereof will (i) conflict with, or result in a violation or breach of, any provision of any Organizational Document of BOCO US, (ii) violate any Laws applicable to BOCO US or its properties or assets or (iii) conflict with, or result in any violation or breach of, or constitute (with or without notice or lapse of time, or both) a default (or give rise to a right of termination, cancellation or acceleration of any obligations or loss of any material benefit) under, require a consent or waiver under, require the payment of a penalty under, any terms, conditions or provisions of any loan or credit agreement, debenture, note, bond, mortgage, indenture, deed of trust or Contract to which BOCO US is a party and by which any of its properties or assets are subject, except, in each case of clauses (ii) and (iii), as would not reasonably be expected to have, individually or in the aggregate, a mater ial and adverse effect on the ability of BOCO US to consummate the Transactions (a " BOCO US Material Adverse Effect "). 
+   
+ Section 3.3. Governmental Approvals and Consents. No consents or approvals of, or filings, declarations or registrations with, any Governmental Authority are necessary (a) for the execution and delivery of this Agreement by BOCO US or the consummation by BOCO US of the Transactions, or (b) to enable BOCO US to own the Purchased Assets following the Closing Date. 
+   
+ Section 3.4. Legal Proceedings. There is no legal or administrative proceeding, claim, suit or action pending or, threatened before any arbitrator or Governmental Authority, that would be expected to prevent, delay, make illegal or otherwise interfere with the ability of BOCO US to consummate the Transactions. 
+   
+ 
+ 
+   15   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 3.5. Financial Capability. BOCO US has ready access to sufficient funds to pay the Purchase Price on the terms and conditions contemplated by this Agreement and to perform and consummate the Transactions. 
+   
+ ARTICLE IV 
+ PRE-CLOSING COVENANTS AND AGREEMENTS 
+   
+ Section 4.1. Conduct of the Business Prior to Closing. Except as contemplated in this Agreement, as required by applicable Law or with the written consent of BOCO US, from the Execution Date until the Closing or the earlier termination of this Agreement pursuant to its terms, the Sellers shall use commercially reasonable efforts to maintain the Purchased Assets in the same condition as they are on the Execution Date. Without limiting the generality of the foregoing, as contemplated in this Agreement, as required by applicable Law or with the written consent of BOCO US, from the Execution Date until the Closing or the earlier termination of this Agreement pursuant to its terms, the Sellers shall not: 
+   
+(a) divest, sell, transfer, lease, license, abandon, allow to lapse, mortgage, pledge or otherwise dispose of, or encumber, or agree to divest, sell, transfer, lease, license, abandon, allow to lapse, mortgage, pledge or otherwise dispose of, or encumber, any of the Purchased Assets; 
+   
+(b) amend, modify or terminate any Key Products IP Contract, except in connection with the assignment of any right, benefit or interest thereunder to BOCO US pursuant to this Agree ment; 
+   
+ (c) abandon, let lapse or cancel any Key Products IP Rights; or 
+   
+(d) alter in any way any of the files on the Hard Drives without the prior written authorization from BOCO US. 
+   
+ Section 4.2. Commercially Reasonable Efforts. From the Execution Date until the Closing, each of the Sellers and BOCO US shall use commercially reasonable efforts to cause to be fulfilled and satisfied all of the conditions  to Closing set forth in ARTICLE VI. 
+   
+ Section 4.3. No Shopping. Subject to BOCO US's funding the Escrow Deposit in accordance with Section 1.6(c), until the earlier of (a) the Closing and (b) the termination of this Agreement pursuant to its terms, no Seller shall, nor shall any Seller authorize or permit any of its representatives to, (i) initiate, solicit or knowingly encourage the submission of any proposal concerni ng the sale of all or any part of Purchased Assets (a " Competing Transaction") or (ii) hold any discussions or enter into any agreements with, or provide any information or respond to, any third party concerning a proposed Competing Transaction or cooperate in any way with, agree to, assist or participate in, solicit, consider, entertain, facilitate or encourage any effort or attempt by any third party to do or seek any of the foreg oing. 
+   
+ Section 4.4. Microbot Merger; Stockholder Approval. Following the Execution Date and until all obligations of STEMCLLS Parent to complete the Microbot Merger are terminated, STEMCELLS Parent shall continue to take all commercially reasonable action necessary in accordance with the DGCL and its certificate of incorporation and bylaws to consummate the Microbot Merger. In the event that, prior to any consummation of the Microbot Merger, all agreements under which STEMCELLS Parent and Microbot have agreed to consummate the Microbot Merger have been terminated in accordance with their respective terms and all applicable Laws, and no party thereto has in good faith contested any such termination, STEMCELLS Parent shall thereafter take all commerically reasonable action necessary in accordance with the DGCL and its certificate of incorporation and bylaws to seek the affirmative votes or consents of its stockholders to approve and adopt the Tr ansactions (the " Transactions Stockholder Approval"). All actions taken pursuant to this Section 4.4 shall be taken at the sole cost and expense of the Sellers. 
+   
+ 
+ 
+   16   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 4.5. Access to Information Prior to the Closing. If the Closing does not occur on or before December 1, 2016, the Sellers shall, during the period from December 1, 2016 through the Closing Date: (a) give BOCO US and its authorized representatives reasonable access during regular business hours to the Hard Drives and the Identified Boxes as BOCO US may reasonably request for the sole purpose of cataloging what is included in the Hard Drives and the Identified Boxes; and (b) use their commercially reasonable efforts to enable BOCO US to have access to the Hard Drives and the Identified Boxes and provide BOCO US with answers to inquiries regarding the Purchased Assets for the purpose referenced above;  provided that the total time spent by the Sellers or BOCO US in connection with the foregoing shall not exceed 30 hours in the aggregate. In connection with BOCO US's access to the Purchased Assets as set forth in this Section 4.5, BOCO US shall be accompanied at all times by a representative of the Sellers (who may be a former employee or consultant designated by t he Sellers) unless the Sellers otherwise agree. 
+   
+ ARTICLE V 
+ POST-CLOSING COVENANTS AND AGREEMENTS 
+   
+ Section 5.1. Public Announcements. Notwithstanding anything to the contrary, both BOCO US and the Sellers may issue a press release or other public announcement of the Transactions after the Execution Date. 
+   
+ Section 5.2. Access to Information . 
+   
+(a) The Sellers shall preserve until the 12-month anniversary of the Closing Date all books, Contracts and records possessed by the Sellers which are not included in the Purchased Assets which may reasonably be expected to contain information relating to any of the Purchased Assets; provided that if the Sellers decide to dispose of any books, Contracts and records possessed by the Sellers which are not included in the Purchased Assets which may reasonably be expected to contain information of scientific importance directly relating to any of the Purchased Assets prior to the 6 year anniversary of the Closing, the Sellers shall first notify BOCO US at least 30 days prior to any such disposition and BOCO US shall have the right, at its own expense, to retrieve all originals and all copies of such information before it is disposed of by the Sellers. If BOCO US exercises its right to retrieve any books, Contracts and records pursuant to this Section 5.2(a), the Sellers shall use their commercially reasonable efforts to cooperate with BOCO US to assist BOCO US with the  retrieval of any such books, Contracts and records. 
+   
+(b) For the 12-month period beginning on the Closing Date, the Sellers shall afford to BOCO US and its representatives reasonable access during normal business hours to all of its properties, books, Contracts and records related to the Purchased Assets, and the Sellers shall instruct their employees, counsel, financial advisors, auditors and other authorized representatives to cooperate with BOCO US, in connection with any reasonable request for such access. BOCO US and its representatives shall have the right to make copies of such books, Contracts and records as may be reasonably necessary to make full use of the Purchased Assets. 
+   
+ 
+ 
+   17   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(c) In the event that a Seller becomes subject to any action, suit, investigation or proceeding related to the Purchased Assets or is required to file or furnish any document with any Governmental Authority related to the Purchased Assets, or access to the Purchased Assets by the Sellers is reasonably necessary for compliance with any applicable Law, BOCO US shall afford to the Sellers and their representatives reasonable access during normal business hours to all of the properties, books, Contracts and records included within the Purchased Assets which are still in the possession of BOCO US and its Affiliates, and BOCO US shall instruct their employees, counsel, financial advisors, auditors and other authorized representatives to cooperate with the Sellers, in connection with any reasonable request for such access. The Sellers and their representatives shall have the right, at the Sellers' sole expense, to make copies of such books, Contracts and records as may be reasonably necessary for the foregoing purposes. 
+   
+ Section 5.3. Confidentiality. The Sellers recognize that by reason of their ownership of the Purchased Assets, including the use and ownership of the Key Products, the Sellers have acquired Confidential Information and Trade Secrets concerning the Key Products and the other Purchased Assets, the use or disclosure of which could cause BOCO US or its Affiliates substantial loss and damages. Accordingly, the Sellers covenant to BOCO US that the Sellers will not, except in performance of its obligations to BOCO US or with the prior written consent of BOCO US, disclose, or cause any third party to disclose, any Confidential Information relating to the Key Products or other Purchased Assets that they may learn or have learned by reason of their ownership of the Key Products or other Purchased Assets, unless (a) it is available to the public prior to the Closing or becomes generally available to the public other than as a result of disclosure by the Sellers or any of its Affiliates as a result of a breach of this Section 5.3, (b) disclosure is required by applicable Law , (c) disclosure is necessary to defend or prosecute any indemnification claim or any litigation or dispute, including in connection with any claim of any Seller against BOCO US, or (d) such information becomes available to a Seller on a non-confidential basis from a source other than BOCO US or any of its Affiliates, without, to the Seller's Knowledge, being subject to any contractual or other obligation of confidentiality to BOCO US or any of its Affiliates. Notwithstanding the foregoing, the provisions of this Section 5.3 do not apply to: (i) the issue by the Parties of the announcements described herein, (ii) any announcement required to be made by any Party by virtue of the regulations of the SEC or any analogous securities regulatory authority of any Governmental Authority outside of the United States, by any Governmental Authority competent to require the same, or by any applicable Law or applicable requirem ent of a stock exchange,  provided that in any of the foregoing instances, the other Party, to the extent lawful and practicable, is first given a reasonable opportunity to take the necessary measures to prevent or otherwise limit the content of such announcement; (iii) any statement or disclosure made in good faith by any Party after the Closing Date in connection with any civil, criminal, regulatory or arbitration proceedings in any jurisdiction brought or threatened by or against it in relation to this Agreement or any other document(s) referred to in it, or (iv) any disclosure made by a Party to its professional advisers, collaborators, lenders, and business associates provided that such disclosure is made under obligations of confidentiality. Moreover, nothing in this Section 5.3 shall limit in any way the ability of any Party to consult any professional adviser (including a tax adviser independent from all other entities involved in the transaction) in relation to any matter arising out of this Agreement or any of the other documents referred to in it, including the tax treatment and tax str ucture of the Transactions. 
+   
+ 
+ 
+   18   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 5.4. Fees and Expenses. Except as expressly set forth in this Agreement, all fees and expenses incurred in connection with the Transactions shall be paid by the party incurring such expenses, whether or not the Transactions are consummated. For the avoidance of doubt, except as expressly set forth in this Agreement, all fees and expenses incurred in connection with the Transactions by the Sellers shall be borne by the Sellers and none shall be borne by, or be the responsibility of BOCO US or included in the Assumed Liabilities. 
+   
+ Section 5.5. Further Assurances. In the event that at any time during the 90-day period immediately after the Closing Date any further action is necessary to fully effect the Transactions, including the assignment of any Key Products IP Rights, each of the Parties shall take, or cause to be taken, at BOCO US's sole expense, such further action (including (i) transferring to BOCO US any asset or liability contemplated by this Agreement to be a Purchased Asset or an Assumed Liability, respectively, which was not transferred to BOCO US at or before the Closing, and (ii) the execution and delivery of such further instruments and documents) as the other Party may reasonably request. 
+   
+ Section 5.6. Key Products IP Contracts. For the period of 90 days immediately following the Closing Date, upon BOCO US's written request, the Sellers will use commercially reasonable efforts to assign to either BOCO US or to one of its designated Affiliates each of the Key Products IP Contacts if not assigned at the Closing. 
+   
+ Section 5.7. Seller Non-Competition and Non-Solicitation . 
+   
+(a) During the four-year period immediately following the Closing Date, none of the Sellers nor any of their Affiliates will: 
+   
+(i) engage in, cause any third party to engage in, own, or have any financial interest in, a business that is engaged in, the research, development or commercialization of any of the Key Products for any purpose anywhere in the United States and any other country that the Sellers engaged in the research, development or commercialization of the Key Products i n prior to the Closing,  provided that such ownership or financial interest shall not apply to any investment of up to 1% of any class of publicly traded securities or up to 5% of the securities of a private compa ny; 
+   
+(ii) solicit or attempt to solicit any Person who is or has been a supplier, distributor, collaborator, contract research organization, licensor, licensee or any other business relation of the Sellers within the past three years to (A) cease doing business with BOCO US or its Affiliates, or (B) alter or limit its business relationship with BOCO US or its Aff iliates; or 
+   
+(iii) solicit, or cause any third party to solicit, for employment or employ any employee of BOCO US or its Affiliates, or request, induce or advise any employee to leave the emplo yment of BOCO US or any of its Affiliates, without the prior written consent of BOCO US;  provided, that a general offer of employment to the public shall not be deemed prohibited hereunder as long as not specifically directed at employees of BOCO US or any of its Affiliates. For the avoidance of doubt, upon the closing of the Microbot Merger, Microbot shall be considered an Affiliate of STEMCELLS Parent and will thereby be subject to the foregoing provi sions of this Section 5.7. 
+   
+ 
+ 
+   19   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(b) The nature and scope of the foregoing protection has been carefully considered by the parties hereto. The parties hereto agree and acknowledge that the duration, scope and geographic areas applicable to such provisions are fair, reasonable and necessary and that adequate compensation has been received by the Sellers for such obligations. If, however, for any reason any court of competent jurisdiction determines in a final and non-appealable judgment that any such restrictions are not reasonable, such restrictions shall be interpreted, modified or rewritten to include as much of the duration, scope and geographic area identified in this Section 5.7 as will render such restrictions valid and enforceable. 
+   
+(c) In the event of a breach or threatened breach of this Section 5.7, BOCO US shall be entitled, without the posting of a bond, to an injunction restraining such breach. Nothing herein contained shall be construed as prohibiting any party from pursuing any other remedy available to it for such breach or threatened breach. 
+   
+ Section 5.8. Change of Names. Promptly upon the Closing, the Sellers shall take commercially reasonable efforts to discontinue their use of any and all Seller Marks. Notwithstanding the foregoing, BOCO US hereby grants to the Sellers a limited, worldwide, non-transferable, non-sublicensable, royalty-free, fully paid-up, non-exclusive license solely to use, reproduce and display the Seller Marks solely on existing forms, stationery and other materials bearing the Seller Marks as of the Closing or to indicate, for informational purposes, the transfer of the Purcha sed Assets and to make filings and other submissions required by Law. 
+   
+ Section 5.9. Certain Tax Matters. Notwithstanding anything herein to the contrary, the Sellers shall be solely liable for, and shall pay when due, any transfer, gains, documentary, sales, use, registration, stamp , value-added or other similar Taxes (" Transfer Taxes") payable by reason of the Transactions, and the Sellers shall file, at their expense, all necessary Tax Returns and other documentation with respect to all Transfer Taxes. 
+   
+ ARTICLE VI 
+ CONDITIONS TO CLOSING 
+   
+ Section 6.1. Conditions to BOCO US's Obligation to Close. The obligations of BOCO US to consummate the Transactions shall be subject to the satisfaction, on or prior to the Closing Date, of each of the following conditions, any of which  may be waived by BOCO US in writing: 
+   
+(a) The representations and warranties of Sellers in ARTICLE II shall be true and correct in all respects as of the Closing (or, to the extent such representations and warranties speak as of a specific date or time, they shall be true in all respects as of such date or time), except as otherwise contemplated by this Agreement and except for such inaccuracies under such representations and warranties which, taken together in their entirety, would not, individually or in the aggregate, result in a Seller Material Adverse Effect; 
+   
+ 
+ 
+   20   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(b) the Sellers shall have performed, in all material respects, all covenants and obligations in this Agreement required to be performed by the Sellers as of the Closing Date; and 
+   
+ (c) there shall not have occurred any Seller Material Adverse Effect. 
+   
+ Section 6.2. Conditions to the Sellers' Obligation to Close. The obligations of the Sellers to consummate the Transactions shall be subject to the satisfaction, on or prior to the Closing Date, of each of the following conditions, any of w hich may be waived by the Sellers in writing: 
+   
+(a) the representations and warranties of BOCO US in ARTICLE III shall be true and correct in all respects as of the Closing Date (or, to the extent such representations and warranties speak as of a specific date or time, they shall be true in all respects as of such date or time) and except for such inaccuracies under such representations and warranties which, taken together in their entirety, would not, individually or in the aggregate, impair or delay the ability of BOCO US to consummate the Transactions; 
+   
+(b) BOCO US shall have performed its obligations in Section 1.6(c) and any other material covenants and obligations required in this Agreement to be performed by BOCO US as of the  Closing Date; and 
+   
+ (c) there shall not have occurred any BOCO US Material Adverse Effect. 
+   
+ Section 6.3. Conditions to Obligations of Each Party to Close. The respective obligations of each Party to consummate the Transactions shall be subject to the satisfaction, on or prior to the Closing Date, of each of the following conditions , which may be waived by mutual consent of the Sellers and BOCO US, in writing: 
+   
+ (a)  No Legal Impediments to Closing. There shall not be in effect any Order issued by any Governmental Authority preventing the consummation of the Transactions, seeking any Losses as a result of the Transactions, or otherwise affecting the right or ability of BOCO US to own, operate or control the Purchased Assets. There shall not be any applicable Law prohibiting the Sellers from selling or BOCO US from owning, operating or controlling the Purchased Assets or that makes this Agreement or the consummation of the Transactions illegal; and 
+   
+ (b)  Microbot Merger; Stockholder Approval. The Microbot Merger will have been consummated or the Transactions Stockholder Approval will have been obtained in accordance with Section 4.4. 
+   
+ ARTICLE VII 
+ TERMINATION 
+   
+ Section 7.1. Circumstances for Termination . At any time prior to the Closing, this Agreement: 
+   
+(a) shall terminate immediately upon BOCO US's failure to fund the Escrow Deposit in accordance with Section 1.6(c); and 
+   
+ 
+ 
+   21   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ (b) may be terminated by written notice explaining the reason for such termination: 
+   
+ (i) by the mutual written consent of BOCO US and the Sellers; 
+   
+(ii) by either BOCO US or the Sellers, if (i) the non-terminating Party is in material breach of any material provision of this Agreement and such breach shall not have been cured within 30 days of receipt by such Party of written notice from the terminating Party of such breach and (ii) the terminating Party is not, on the date of termination, in material b reach of any material provision of this Agreement; 
+   
+(iii) by either the Sellers or BOCO US, if the Closing has not occurred on or prior to 120 days from the Execution Date (the " Drop-Dead Date ") for any reason;  provided further ,  however, that the rights to terminate this Agreement under this Section 7.1(b)(iii) shall not be available to any Party whose breach of any covenants or agreements contained in this Agreement has been the cause of, or resulted in, the failure of the Closing Date to occur on or before the Drop-Dead Date; and 
+   
+ (iv) by either Party at any time following 180 days from the Execution Date. 
+   
+ Section 7.2. Effect of Termination . If this Agreement is terminated in accordance with Section 7.1: 
+   
+(a) all obligations of the Parties hereunder shall immediately terminate, except for the obligations set forth in Section 5.4, this Section 7.2 and Section 9.5,  provided ,  however, that nothing herein shall relieve any Party from Liability for any breach of this Agreement prior to such termination; and 
+   
+(b) to the extent that BOCO US has funded the Escrow Account with the Escrow Deposit pursuant to Section 1.6(c), the Escrow Agent shall release the Escrow Deposit to BOCO US from t he Escrow Account in accordance with the terms of the Escrow Agreement. 
+   
+ ARTICLE VIII 
+ INDEMNIFICATION 
+   
+ Section 8.1. Survival of Representations and Warranties; Indemnification . 
+   
+(a) The representations and warranties of the parties contained in this Agreement and any document delivered pursuant to this Agreement shall survive the Closing until the date tha t is one year following the Closing Date (the " Survival Period ");  provided ,  however, that any claim with respect to fraud, criminal activity or willful misconduct on the part of the Sellers will survive and can be made by a BOCO Indemnified Party at any time. Notwithstanding anything to the contrary in this Section 8.1, the indemnification obligations pursuant to this ARTICLE VIII shall not terminate with respect to any indemnification claim made by a BOCO Indemnified Party prior to the expiration of the applicable Survival Period until such claim is resolved. 
+   
+ 
+ 
+   22   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(b) From and after the Closing, and subject to the terms of this ARTICLE VIII, the Sellers hereby jointly and severally agree to indemnify, defend and hold harmless BOCO US and its Affiliates and their respective directors, managers, officers, employees, equity holders, members, partners, agents, attorneys, representatives, successors and assigns (collective ly, the " BOCO Indemnified Parties") from and against, and pay to the applicable BOCO Indemnified Parties, the amount of any and all losses, liabilities, claims, obligations, deficiencies, demands, judgments, damages (including consequential damages), interest, fines, penalties, claims, suits, actions, causes of action, assessments, awards, costs and expenses (including costs of investigation and defense and reasonable attorneys' and other professionals' fees), whether or not involving a third party claim (individually, a " Loss " and, collectively, " Losses") actually incurred by the BOCO Indemnified Parties and solely to the extent based upon, attributable to or resulting from: 
+   
+(i) any inaccuracy in or breach of the representations or warranties made by the Sellers in Section 2.1, Section 2.2, Section 2.3 and Section 2.4 of this Agreement; 
+   
+(ii) any inaccuracy in or breach of the representations or warranties made by the Sellers in Section 2.11 of this Agreement; 
+   
+(iii) any inaccuracy in or breach of the representations or warranties made by the Sellers in Section 2.5, Section 2.6, Section 2.7, Section 2.8, Section 2.9, Section 2.12, Section  2.13, Section 2.14 and Section 2.15 this Agreement; 
+   
+(iv) any breach or non-performance of any covenant or other agreement prior to the Closing on the part of the Sellers under this Agreement or any document delivered pursuant to thi s Agreement; 
+   
+(v) any breach or non-performance of any covenant or other agreement after the Closing on the part of the Sellers under this Agreement or any document delivered pursuant to this Ag reement; 
+   
+(vi) any misuse after the Closing of any Trade Secrets or other Confidential Information solely to the extent related to the Key Products by any of the Sellers or any of their Affi liates; and 
+   
+ (vii) any of the Excluded Assets or any of the Retained Liabilities. 
+   
+ Section 8.2. Indemnification Procedures . 
+   
+(a) Any claim for indemnification on account of a Loss which does not result from a Third Party Claim (a " Direct Claim") shall be asserted by the BOCO Indemnified Party giving the Sellers prompt written notice thereof. The failure to give such prompt written notice,  provided that such notice is delivered within the Survival Period, shall not, however, relieve the Sellers of their indemnification obligations, except to the extent the Sellers can demonstrate actual material loss and prejudice as a result of such failure. Such notice by the BOCO Indemnified Party shall describe the Direct Claim and include a reasonably detailed de scription of the amount of the Loss (the " Claimed Amount") actually incurred by the BOCO Indemnified Party and matter or condition set forth in Section 8.1(b) allegedly giving rise to the Direct Claim. The Sellers shall have 60 days aft er their receipt of such notice (the " Direct Claim Response Period") to respond in writing to such Direct Claim. During such Direct Claim Response Period, the BOCO Indemnified Party shall allow the Sellers and their professional advisors to investigate the matter or circumstance alleged to give rise to the Direct Claim, and whether and to what extent any amount paid in respect of the Direct Claim is attributable to such matter or circumstance, and the BOCO Indemnified Party shall assist the Sellers' investigation by giving such information and assistance (including access to the BOCO Indemnified Party's premises and personnel and the right to examine and copy any accounts, documents or records) as the Sellers or any of their professional advisors may reasonably request. If the Sellers dispute their obligation to pay the Claimed Amount, BOCO US and the Sellers shall attempt in good faith to reach an agreement as to the disputed matter. If BOCO US and the Sellers shall have failed to resolve such disputed matters within 90 days after expiration of the Direct Claim Response Period, then such outstanding dispute shall be determined  by arbitration conducted in accordance with Section 9.5. 
+   
+ 
+ 
+   23   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(b) In the event that any Legal Proceedings shall be instituted or that any claim or demand shall be asserted by any third party in respect of which indemnification may be sought u nder Section 8.1(b) hereof (a " Third Party Claim"), the BOCO Indemnified Party shall promptly cause written notice of the assertion of any Third Party Claim of which it has knowledge which is covered by this indemnity to be forwarded to the Sellers. The failure of the BOCO Indemnified Party to give reasonably prompt notice of any Third Party Claim,  provided that such notice is delivered within the Survival Period, shall not release, waive or otherwise affect the Sellers' obligations with respect thereto except to the extent that the Sellers can demonstrate actual material loss and prejudice as a result of such failure. Subject to the provisions of this Section 8.2, the Sellers shall have the right, at their sole expense, to be represented by counsel of their choice and to defend against, negotiate, settle or otherwise deal with any Third Party Claim which relates to any Losses indemnified against by them hereunder. If the Sellers elect to defend against, negotiate, settle or otherwise deal with any Third Party Claim which relates to any Losses indemnified against by them hereunder, they shall, within twenty days of the BOCO Indemnified Party's written notice of the assertion of such Third Party Claim (or sooner, if the nature of the Third  Party Claim so requires), notify the BOCO Indemnified Party of their intent to do so;  provided that the Sellers must conduct their defense of the Third Party Claim actively and diligently thereafter in order to preserve their rights in this regard. If the Sellers elect not to defend against, negotiate, settle or otherwise deal with any Third Party Claim which relates to any Losses indemnified against by them hereunder, fails to notify the BOCO Indemnified Party of their election as herein provided or contests their obligation to indemnify the BOCO Indemnified Party for such Losses under this Agreement, the BOCO Indemnified Party may (subject to the terms of this Section 8.2(b)) at its sole expense defend against, negotiate, settle or otherwise deal with such Third Party Claim. If the Sellers shall assume the defense of any Third Party Claim, the BOCO Indemnified Party may participate, at his, her or its own expense, in the defense of such Third Party Claim;  provided ,  however, that such BOCO Indemnified Party shall be entitled to participate in any such defense with separate counsel if (i) so requested by the Sellers to participate or (ii) in the reasonable, good-faith opinion of counsel to the BOCO Indemnified Party, a conflict with respect to such Third Party Claim exists between the BOCO Indemnified Party and the Sellers that cannot be waived and would make such separate representation advisable. Each Party agrees to provide reasonable access to each other Party to such documents and information as may reasonably by requested in connection with the defense, negotiation or settlement of any such Third Party Claim. Notwithstanding anything in this Section 8.2 to the contrary, neither the Sellers nor any BOCO Indemnified Party shall, without the written consent of the other Party, settle or compromise any Third Party Claim or permit a default or consent to entry of any judgment unless (x) the claimant (or claimants) and such Party provide to such other Party an unqualified release from all liability in respect of the Third Party Claim and such settlement or compromise, or such default or entry of judgment, as applicable, does not oblige such other Party to take or forbear any action or waive any right or (y) if such Third Party Claim is with respect to Taxes, such settlement or compromise, or such default or entry of judgment, as applicable, could not reasonably be expected to have an ad verse effect on the Sellers or BOCO US, as applicable. 
+   
+ 
+ 
+   24   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(c) After any final decision, judgment or award shall have been rendered by a Governmental Authority of competent jurisdiction and the expiration of the time in which to appeal therefrom, or a settlement shall have been consummated, or the BOCO Indemnified Party and the Sellers shall have arrived at a mutually binding agreement, in each case with respect to a Third Party Claim hereunder, the BOCO Indemnified Party shall forward to the Sellers and the Escrow Agent notice of any sums due and owing by the Sellers pursuant to this ARTICLE VIII with respect to such matter and the Sellers shall pay all of such remaining sums so due and owing to the BOCO Indemnified Party in accordance with Section 8.4. 
+   
+ Section 8.3. Limitations on Indemnification . 
+   
+(a) Notwithstanding anything to the contrary: (i) the Sellers' maximum aggregate liability to the BOCO Indemnified Parties with respect to all Losses and other payments arising out of or relating to the matters described in Section 8.1(b), including Section 8.1(b)(i) and Section 8.1(b)(vii), shall not exceed an amount equal to USD4,000,000 (the " Cap"); (ii) the Sellers' maximum aggregate liability to the BOCO Indemnified Parties with respect to all Losses and other payments arising out of or relating to the matters described in Section 8.1(b)(ii), Section 8.1(b)(v) and Section 8.1(b)(vi) shall not exceed an amount equal to USD3,000,000, (iii) the Sellers' maximum aggregate liability to the BOCO Indemnified Parties with respect to all Losses and other payments arising out of or relating to the matters described in Section 8.1(b)(iii) and Section 8.1(b)(iv) shall not exceed an amo unt equal to USD400,000 (the " Holdback Amount") and (iv) there shall be no Cap with respect to Losses arising from fraud, criminal activity or willful misconduct on the part of the Sellers. 
+   
+(b) There shall be disregarded for all purposes (including, for the avoidance of doubt, the application of the de minimis threshold in Section 8.3(c) below) any Direct Claim or Thi rd-Party Claim (each a " Claim") in respect of which the amount which a BOCO Indemnified Party would otherwise (but for the provisions of this Section 8.3(b)) be entitled to recover would be less than USD10,000 . 
+   
+(c) None of the Sellers shall be obligated to indemnify any Person with respect to any Losses arising out or relating to matters described in Section 8.1(b), until the aggregate am ount of all Losses in respect of indemnification under Section 8.1(b) exceeds USD40,000 (the " Minimum") in which event Seller shall be required to pay or be liable for all such Losses from the first dollar. 
+   
+(d) For purposes of determining the failure of any representations or warranties to be true and correct, the breach of any covenants or agreements, and calculating Losses hereunder, any materiality or Seller Material Adverse Effect or BOCO US Material Adverse Effect qualifications in the representations, warranties, covenants and agreements shall be disregar ded. 
+   
+ 
+ 
+   25   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(e) Notwithstanding anything contrary contained in this Agreement, (i) any Liability of the Sellers in respect of any Claim shall terminate absolutely if the action or proceeding in respect of it shall not have been commenced by being both issued and served on the Sellers, as the case may be, within the period of 6 months from the date on which the Sellers received notice from the BOCO Indemnified Party of such Claim; (ii) none of the Sellers shall be liable in respect of any Claim based upon a Liability that is contingent, only unless and until such contingent liability becomes an actual liability; and (iii) the Sellers shall cease to have any Liability for any Claim, unless notice is given in accordance with  Section 8.2 on or before the first anniversary of Closing Date. 
+   
+(f) Notwithstanding anything contrary contained in this Agreement, none of the Sellers shall have any liability in respect of any Claim to the extent that BOCO US is insured against any loss or damage suffered by any Seller forming the basis of the Claim in question under the terms of any insurance policy of BOCO US. 
+   
+(g) Where the scope of any Seller's liability in relation to any particular matter the subject of a specific warranty has been limited expressly pursuant to that or any other warranty or any other provision of this Agreement, the Sellers shall have no liability in respect of any Claim relating to such matter other than under the terms of that specific warran ty. 
+   
+(h) For the avoidance of doubt: (i) nothing herein shall limit BOCO US's obligation to mitigate its loss in respect of any Claim to the extent reasonable and practicable; and (ii) no BOCO Indemnified Parties shall be entitled to recover damages in respect of any Claim or otherwise obtain reimbursement or restitution more than once in respect of the same fact  or subject matter. 
+   
+ Section 8.4. Indemnity Escrow . 
+   
+(a) Any payment the Sellers are obligated to make to any BOCO Indemnified Parties pursuant to this ARTICLE VIII shall be paid, first, to the extent there are sufficient funds in the Escrow Account, by release of funds to the BOCO Indemnified Parties from the Escrow Account by the Escrow Agent in accordance with the provisions of the Escrow Agreement, within five Business Days after the date notice of any sums due and owing is given to the Sellers (with a copy to the Escrow Agent pursuant to the Escrow Agreement), by the applicable BOCO Indemnified Party and shall accordingly reduce the Escrow Account and, second, to the extent the Escrow Account is insufficient to pay any remaining sums due, then Sellers shall be required to pay all such additional sums due and owing to the BOCO Indemnified Parties by wire transfer of immediately available funds within five Business Days after the date o f such notice. 
+   
+(b) On the expiration of the Survival Period, the Escrow Agent shall release the funds in the Escrow Account (to the extent not utilized to pay for any indemnification claim), 85% of such funds to STEMCELLS Parent and 15% of such funds to the Consultants, in accordance with the terms of the Escrow Agreement, except that the Escrow Agent shall retain an amount (up to the total amount then held by the Escrow Agent) equal to the amount of claims for indemnification under this ARTICLE VIII asserted prior to such expiration of the Survival  Period but not yet resolved (" Unresolved Claims"). The Escrow Account retained for Unresolved Claims shall be released by the Escrow Agent (to the extent not utilized to pay BOCO US for any such claims resolved in favor of BOCO  US) upon their resolution in accordance with this ARTICLE VIII and the Escrow Agreement. 
+   
+ 
+ 
+   26   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 8.5. Tax Treatment of Indemnity Payments. Seller and BOCO US agree to treat any indemnity payment made pursuant to this this ARTICLE VIII as an adjustment to the Purchase Price for all Tax purposes. 
+   
+ Section 8.6. Exclusive Remedies. Subject to Section 9.6, the parties acknowledge and agree that their sole and exclusive remedy with respect to any and all claims (other than claims arising from fraud, criminal activity or willful misconduct) for any breach of any representation, warranty, covenant, agreement or obligation set forth herein or otherwise relating to the subject matter of this Agreement shall be pursuant to the indemnification provisions set forth in this ARTICLE VIII. Notwithstanding the foregoing, nothing contained in this Agreement shall limit a party's right to pursue equitable remedies, including, without limitation, injunctive relief and specific performance. 
+   
+ ARTICLE IX 
+ MISCELLANEOUS 
+   
+ Section 9.1. Assignment. Neither this Agreement nor any of the rights, interests or obligations hereunder shall be assigned or delegated, in whole or in part, by operation of applicable Laws or otherwise , by any of the parties without the prior written consent of the other parties;  provided, that (a) BOCO US may assign any of its rights and obligations hereunder, in whole or in part, to any of its Affiliates without obtaining the consent of the Sellers, and (b) each of the Sellers may assign any of its rights and obligations hereunder, in whole or in part, without obtaining the consent of BOCO US, to any of their Affiliates and to any third pa rty by sale of stock or operation of Law in connection with a  bona fide third party merger or sale of substantially all of such Seller's assets to such third party. Subject to the preceding sentence, this Agreement shall be binding upon, inure to the benefit of, and be enforceable by, the parties hereto and their respective successors and permitted assigns. Any purported assignment not permitted under this Section 9.1 shall be  null and void. 
+   
+ Section 9.2. Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall be deemed to be one and the same agreement. A signed copy of this Agreement delivered by facsimile, e-mail or other means of Electronic Transmission shall be deemed to have the same legal effect as delivery of an original signed copy o f this Agreement. 
+   
+ Section 9.3. Entire Agreement; No Third Party Beneficiaries. This Agreement, including the Sellers Disclosure Schedule, the exhibits hereto, the documents and instruments relating to the Transactions referred to herein, and the Confidentiality Agreement constitute the entire agreement, and supersede all prior agreements and understandings, both written and oral among the parties with respect to the subject matter of this Agreement and the Confidentiality Agreement. Nothing in this Agreement, express or implied, is intended to or shall confer upon any Person (other than the parties hereto) any  right, benefit or remedy of any nature whatsoever under or by reason of this Agreement. 
+   
+ 
+ 
+   27   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 9.4. Governing Law. This Agreement shall in all respects be governed by, and construed in accordance with, the Laws (excluding conflict of laws rules and principles) of the State of New York applicable to agreements made and to be performed entirely within such State, including all matters of construction, validity and performance. 
+   
+ Section 9.5. Arbitration . 
+   
+(a) Any controversy, claim or dispute arising out of or related to this Agreement or the interpretation, performance, or breach hereof, including but not limited to alleged violations of state or federal statutory or common law rights or duties, all tort claims and all claims for punitive damages (a " Dispute "), shall be resolved solely according to the procedures set forth in this Section 9.5. 
+   
+(b) The parties shall attempt, whenever possible, to discuss and resolve any Disputes on an informal basis, in order to avoid the expense and delay associated with arbitration. A p arty invoking these dispute resolution procedures shall deliver a notice to the other parties (a " Dispute Notice") of the claims it intends to bring and the relief sought, including sufficient details regarding the factual, contractual or other legal bases for the party's claim as reasonably required to enable the parties receiving the Dispute Notice to evaluate the claim and respond thereto. No arbitrator shall have authority to consider or resolve any Dispute that is not first the subject of a Dispute Notice and subject to informal dispute resolution pursuant to this Section. 
+   
+(c) If the parties are unable to resolve one or more Disputes informally, any party to the Dispute may initiate a confidential binding arbitration proceeding for the final resolution of such remaining Disputes. A party shall initiate arbitration by delivering a notice to the other parties (an " Arbitration Notice") describing the Disputes to be arbitrated. Within 10 Business Days of receiving an Arbitration Notice, the receiving party may deliver its own Arbitration Notice, specifying additional Disputes to be submitted to arbitration. If more than one Dispute is to be arbitrated, the subject matters of the various Disputes need not be related to each other. 
+   
+(d) Any arbitration shall be submitted to the Hong Kong branch of the China International Economic and Trade Arbitration Commission (" CIETAC") for arbitration in accordance with the CIETAC's arbitration rules in effect at the time of execution of this Agreement, which rules are incorporated herein by this reference. 
+   
+ (e) The arbitration tribunal shall consist of three arbitrators (the " Arbitrators"): (a) one selected by BOCO US, (b) one selected by the Sellers, and (c) one selected jointly by BOCO US and the Sellers, none of whom shall be a U.S. or Chinese national. Each Ar bitrator shall speak fluently both English and at least one of the Chinese languages. 
+   
+(f) The arbitration tribunal shall issue a written opinion in English setting forth its award, factual determinations and the legal basis for its decision. The arbitration proceedings will be conducted in English. BOCO US may, at its own option and expense, have such opinion or such proceeding translated into Chinese. 
+   
+(g) The arbitration decision shall be binding and final upon the parties thereto, and judgment on any award rendered by the Arbitrators may be entered in any court having jurisdict ion thereof. 
+   
+ 
+ 
+   28   
+ 
+ 
+   
+ 
+ 
+ 
+   
+(h) Each Party will bear its own costs associated with the resolution or arbitration of any Dispute. The costs to be paid to CIETAC to conduct the arbitration will be shared 50% by  the Sellers and 50% by BOCO US. 
+   
+ Section 9.6. Specific Performance. The parties agree that irreparable damage would occur in the event that any of the provisions of Section 5.7 were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that BOCO US shall be entitled to an injunction or injunctions to prevent breaches of Section 5.7 and to enforce specifically the terms and provisions thereof in any court having jurisdiction thereof, without bond or other security being required, this being in addition to any other remedy to which BOCO US is entitl ed under applicable Laws or in equity. 
+   
+ Section 9.7. Notices. All notices, requests and other communications to any party hereunder shall be in writing and shall be deemed given if delivered personally, or sent by nationally recognized over night courier (providing proof of delivery) to the parties at the following addresses: 
+   
+ If to BOCO US, to: 
+   
+ BOCO Silicon Valley, Inc. 
+ 43152 Nielson Court 
+ Fremont, CA 94539 
+ Attention: Shirley Zhou 
+   
+ with a copy, which will not constitute notice, to: 
+   
+ Dentons US, LLP 
+ 1530 Page Mill Road, Suite 200 
+ Palo Alto, CA 94304-1125 
+ Attention: Peter Su 
+ Ilan Katz 
+   
+ If to the Sellers, to: 
+   
+ StemCells, Inc. 
+ 39899 Balentine Drive, Suite 200 
+ Newark, CA 94560 
+ Attention: President 
+   
+ with a copy, which will not constitute notice, to: 
+   
+ Ropes  & Gray LLP 
+ 36F, Park Place1601 Nanjing Road West 
+ Shanghai 200040, PRC 
+ Attention: Arthur Mok, Esq. 
+   
+or such other address or facsimile number as such party may hereafter specify by like notice to the other parties hereto. All such notices, requests and other communications shall be deemed received on the date of receipt by the recipient thereof if received prior to 5:00 p.m. (local time) on a Business Day in the place of receipt. Otherwise, any such notice, request or communication shall be deemed to have been received on the next succeeding Business Day in the place of receipt. 
+   
+ 
+ 
+   29   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ Section 9.8. Severability. If any term or other provision of this Agreement is determined by a court of competent jurisdiction to be invalid, illegal or incapable of being enforced by any rule of any applicable Laws or public policy, all other terms, provisions and conditions of this Agreement shall nevertheless remain in full force and effect. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible to the fullest extent permitted by applicable Laws in an acceptable manner to the end that the Transactions are fulfilled to the extent possi ble. 
+   
+ Section 9.9. Definitions . As used in this Agreement, the following terms have the meanings ascribed thereto below: 
+   
+ (a) " Affiliate" shall mean, with respect to any Person, any other Person directly or indirectly controlling, controlled by or under common control with such Person. 
+   
+ (b) " Business Day" shall mean a day except a Saturday, a Sunday or other day on which banks in Beijing, New York or Tel Aviv are authorized or required by applicable Laws to be closed. 
+   
+ (c) " Confidential Information" shall mean all confidential or proprietary information, whether written or oral. Notwithstanding the foregoing, Confidential Information shall not include information (i) which was publicly known prior to initial disclosure of such information by a disclosing Person, (ii) that has become publicly known, in print or other tangible form, without any act or omission of any Person other than the disclosing Person, (iii) received by a receiving party without restriction at any time from a third party, other than the disclosing party, rightfully having possession of and the right to disclose such information, (iv) shown to have been otherwise known by the receiving party prior to disclosure of such information by the disclosing party to the receiving party, or (v) shown to have been independently developed by employees or agents of the receiving party without access to or use of such informa tion of the disclosing party. 
+   
+ (d) " Confidentiality Agreement" means that certain Mutual Confidential Disclosure Agreement, dated March 9, 2015, as amended on September 25, 2016, by and between STEMCELLS Parent and Bright Oceans Corporation. 
+   
+ (e) " Contracts" shall mean all written contracts, agreements, arrangements, leases, licenses, obligations, sales and purchase orders, commitments, and other written arrangements or undertakings that are binding, or purport to be binding by their terms, on the parties thereto, and any outstanding bids or proposals (which bids or proposals if accepted by the recipient there of would result in a binding contract). 
+   
+ (f) " Edinburgh Licence Agreement" shall mean that certain license agreement made between Stem Cells Sciences Limited and the University of Edinburgh, dated January 31, 2006, as amended prior to the Closing; 
+   
+ 
+ 
+   30   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ (g) " FDA" shall mean the United States Food and Drug Administration or any successor federal agency thereto. 
+   
+ (h) " GAAP " shall mean generally accepted accounting principles in the United States. 
+   
+ (i) " Governmental Authority" shall mean any government, court, regulatory or administrative agency, commission, authority, department, court, or official, including any political subdivision thereof, any governmental self-regulatory agency or any other governmental instrumentality, whether federal, state, local, domestic, foreign or multinational. 
+   
+ (j) " Indebtedness" shall mean all obligations and indebtedness of the Sellers (i) for borrowed money (other than trade debt and other similar liabilities incurred in the ordinary course of business), (ii) evidenced by a note, bond, debenture or similar instrument, (iii) created or arising under any capital lease, conditional sale, earn out or other arrangement for the deferral of purchase price of any property, (iv) under letters of credit, banker's acceptances or similar credit transactions, (v) for any other Person's obligation or indebtedness of the same type as any of the foregoing, whether as obligor, guarantor or otherwise, (vi) for interest on any of the foregoing, and/or (vii) for any premiums, prepayment or termination  fees, expenses or breakage costs due upon prepayment of any of the foregoing. 
+   
+ (k) " Intellectual Property Rights" shall mean, collectively, all United States and non-United States (i) Trademarks, (ii) copyrights, including computer software and Internet web sites, (iii) patents, inventions and discoveries, whether patentable or not, (iv) Trade Secrets, (v) all other intellectual and industrial property not enumerated or described above, and (vi) all registrations and applications therefor, and all reissues, reexaminations, provisionals, divisions, continuations, supplemental protections, renewals, extensions, restorations and reversions thereof . 
+   
+ (l) " Key Products" shall mean all stem and progenitor cell lines that have been researched, studied or manufactured by STEMCELLS Parent since January 1, 2007, consisting of: (i) HuCNS-SC neural stem cells, (ii) human liver engrafting cells or "hLEC" cells (as described in expired U.S. Pat. Nos. 7,211,404 and 8,283,164 ), and (iii) oligo progenitor cells (as described in U.S.  Pat. Application No. 12/646,228). 
+   
+ (m) " Key Products IP Contracts " shall mean the contracts set forth in Section 9.9(m) of the Sellers Disclosure Schedule. 
+   
+ (n) " Knowledge " of the Sellers (and words of similar import such as " to the Sellers' Knowledge") shall mean the knowledge of Ken Stratton, President, General Counsel and Secretary of STEMCELLS Parent (" Stratton "), after reasonable review and due inquiry of Ian Massey, former CEO of STEMCELLS Parent (" Massey "), Ann Tsukamoto, former EVP of Research  & Development of STEMCELLS Parent (" Tsukamoto "), and Greg Schiffman, former CFO of STEMCELLS Parent (" Schiffman " and together with Massey and Tsukamoto, the " Former Executives"), with the understanding that solely with respect to Section 2.2, Section 2.11 and Section 2.12, "Knowledge" shall mean the actual knowledge of Stratton, after inquiry of the For mer Executives. 
+   
+ (o) " Liability" shall mean, with respect to any Person, any liability or obligation of such Person of any kind, character or description, whether known or unknown, absolute or contingent, accrued or unaccrued, liquidated or unliquidated, secured or unsecured, joint or several, due or to become due, vested or unvested, executory, determined, determinable or otherwise and w hether or not the same is required to be accrued on the financial statements of such Person. 
+   
+ 
+ 
+   31   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ (p) " Lien" shall mean, with respect to any property or asset (including any security), any mortgage, lien, pledge, charge, security interest, encumbrance or other adverse claim of any kind in respect of such property or asset, but shall not include (i) non-monetary liens and other imperfections of title as do not materially detract from the value or impair the use of the property subject thereto or make such property unmarketable, (ii) non-exclusive licenses of Intellectual Property Rights, and (iii) exclusive licenses of Intellectual Property Rights outside the field of developing any of the Key Products as human therapeutics. For purposes of this Agreement, a Person shall be deemed to own subject to a Lien any property or asset that it has acquired or holds subject to the interest of a vendor or lessor under any conditional sale agreement, capital lease or other title retention agreement relati ng to such property or asset. 
+   
+ (q) " Microbot " shall mean Microbot Medical Ltd. 
+   
+ (r) " Microbot Merger" shall mean the proposed change-of-control transaction between STEMCELLS Parent and Microbot, as contemplated by the stockholder proxy materials filed by STEMCELLS Parent with the  SEC on September 27, 2016. 
+   
+ (s) " Person" shall mean an individual, a corporation, a limited liability company, a partnership, an association, a trust or any other entity, including a Governmental Authority. 
+   
+ (t) " Regulatory Authority" shall mean any applicable Governmental Authority, domestic or foreign (including the United Kingdom Medicines and Healthcare Products Regulatory Agency), involved in granting approvals for the testing, manufacturing, marketing, reimbursement and/or pricing of a compound or product, and any successor Governmental Authority having substantially the same func tion. 
+   
+ (u) " SEC " shall mean the Securities and Exchange Commission. 
+   
+ (v) " Seller Material Adverse Effect " shall mean (i) a material adverse effect on the Purchased Assets, taken as a whole;  provided that any effect resulting from any of the following shall not be considered when determining whether a Seller Material Adverse Effect shall have occurred: (A) changes in the general market, capital markets, economic, legal, regulatory or political conditions in the United States or any other region outside of the United States (including the commencement, continuation or escalation of a war or material armed hostilities), (B) changes in GAAP, (C) changes or effects that generally affect the industries in which the Sellers operated, so long as such changes or conditions in the industries in which the Sellers operates do not have a materially disproportionate effect on the Purchased Assets, taken as a whole, compared with the assets of other companies operating in such industries, (D) the announcement of this Agreement or the pendency or consummation of the Transactions, including the impact that such execution and announcement and consummation have on the relationships, contractual or otherwise, of Sellers with employees, customers, suppliers or partners and any litigation arising in connection with the transactions contemplated by this Agreement, (E) compliance with the terms of, or the taking of any action required by, this Agreement by Sellers or any action taken by Sellers at the request or direction of BOCO US, and (F) changes or effects that arise out of or are attributable to the commencement, occurrence, continuation or intensification of any war, sabotage, armed hostilities or acts of terrorism; and (ii) any event, change, development, effect, condition circumstance, matter, occurrence or state of facts that prevents or materially delays, or would be reasonably expected to prevent or materially delay, consummation of the Transactions or the performance by the Sellers of any of its material obligations under this Agreement. For the avoidance of any doubt, (i) the destruction of a material portion of the Purchased Cell Banks or any other condition arising before the Closing Date which causes the Purchased Cell Banks to be unusable or (ii) any Seller failing to be Solvent at all times up to and through the Closing of  the Transactions will be deemed to be a Seller Material Adverse Effect. 
+   
+ 
+ 
+   32   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ (w) " Solvent" shall mean with respect to any Person that, as of any date of determination, (i) the amount of the Fair Value and Present Fair Saleable Value of the assets of such Person exceeds as of such date its respective Stated Liabilities and other Contingent Liabilities, (ii) such Person will not have, as of such date, an unreasonably small amount of capital for the operation of the business in which such Person is engaged following such date (iii) such Person will have sufficient assets and cash flow to pay its respective Stated Liabilities and other Contingent Liabilities as they mature or otherwise become due, and (iv) such Person does not intend to, and does not believe that it will, incur debts beyond such Person's ability to pay as such debts mature. For purposes of this definition (A) the term, "Fair Value" means the amount at which the assets, in their entirety, of such Person would change hands between a willing buyer and a willing seller, within a commercially reasonable period of time, each having reasonable knowledge of the relevant facts, with neither being  under any compulsion to act, (B) the term " Present Fair Saleable Value" means the amount that could be obtained by an independent willing seller from an independent willing buyer if the assets of such Person are sold with reasonable promptness under  normal selling conditions in a current market, (C) the term " Stated Liabilities" means all known liabilities and recorded liabilities (including Contingent Liabilities that would be recorded in accordance with GAAP consistently applied) of such Person, and (D ) the term " Contingent Liabilities" means the estimated amount of liability reasonably likely to result from pending litigation, asserted claims and assessments, guaranties, uninsured risks and other contingent lia bilities of such Person. 
+   
+ (x) " Subsidiary" shall mean, with respect to any specified Person, any other Person of which (or in which) such specified Person will, at the time, directly or indirectly through one or more subsidiaries, (a) own at least 50% of the outstanding capital stock (or other shares of beneficial interest) having ordinary voting power to elect a majority of the board of directors or other similar governing body (irrespective of whether at the time capital stock (or other shares of beneficial interest) of any other class or classes of such Person shall or might have voting power upon the occurrence of any contingency), (b) hold at least 50% of the interests in the capital or profits, (c) hold at least 50% of the beneficial interest (in the case of any such Person that is a trust or estate), or (d) be a general partner (in the case of a partnership) or a managing member (in the case of a limited liability compan y). 
+   
+ (y) " Trademark" shall mean trademarks, service marks, trade dress, trade names, brand names, domain names and any other indicia of origin or goodwill, together with all registrations and applica tions for registration thereof and all good will associated therewith. 
+   
+ 
+ 
+   33   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ (z) " Trade Secret" shall mean trade secrets, know-how, inventions (whether patented or patentable), technology, data, data bases, preclinical and clinical study reports, protocols, data and analyses, and all other confidential or proprietary information, including formulae, patterns, compilations, programs, devices, methods, techniques, processes, business methods, drawings, prototypes, models, designs, customer lists, supplier lists, ideas, practices, test results, assays, techniques, specifications, formulations, knowledge, skill, experience, materials and compositions of matter, including pharmaceutical, chemical and biological materials, products, research tools, software programs, algorithms, computational combinatorial medicinal chemistry technologies, scientific, technical, or test data, including pharmacological, biological, chemical, biochemical, toxicological and clinical test data, analytical and quality control data, and stability data, safety data, studies, procedures, plans, diagrams, sketches, documentation, and patent-related and other legal information or descript ions. 
+   
+ (aa) " Transactions " shall mean the transactions contemplated by this Agreement. 
+   
+ Section 9.10. Interpretation. When a reference is made in this Agreement to an Article, a Section, Exhibit, Annex or Schedule, such reference shall be to an Article of, a Section of, or an Exhibit, Annex or Schedule to, this Agreement unless otherwise indicated. All Exhibits, Annexes and Schedules annexed hereto or referred to herein are hereby incorporated in and made a part of this Agreement as if set forth in full herein. The table of contents and headings contained in this Agreement are for reference purposes only and shall not affect in any way the meaning  or interpretation of this Agreement. Whenever the words " include ," " includes " or " including " are used in this Agreement, they shall be deemed to be followed by the words " without limitation ," unless preceded by the word "not." The words " hereof ," " herein " and " hereunder" and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The word " extent" in the phrase "to the extent" means the degree to which a subject or other thing extends, and such phrase does not mean simply "if". All reference to "dollars," "USD" or "$" shall be references to United States dollars. All terms defined in this Agreement shall have the defined meanings when used in any document made or delivered pursuant hereto unless otherwise defined therein. The definitions contained in this Agreement are applicable to the singular as well as the plural forms of such terms and to the masculine as well as to the feminine and neuter genders of such term. The parties hereto have participated jointly in the negotiation and drafting of this Agreement and, in the event an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as jointly drafted by the parties hereto and no presumption or burden of proof shall arise favoring or disfavo ring any party by virtue of the authorship of any provision of this Agreement. 
+   
+ Section 9.11. No Other Warranties. Except as specifically set forth in this Agreement, there are expressly excluded from this Agreement to the fullest extent permitted by Law: (i) all warranties, conditions and other terms implied by Law; and (ii) any term that may otherwise additionally be implied into this Agreement to give it business efficacy or as a result of extrinsic matters such as c ustom, usage or course of dealing. 
+   
+ Section 9.12. English Language. This Agreement has been negotiated, drafted and entered into by the Parties in English. If this Agreement is translated into another language, the English language text shall in  any event prevail. 
+   
+ [ signature page follows ] 
+   
+ 
+ 
+   34   
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the parties hereto have caused this Asset Purchase Agreement to be duly executed and delivered as of the date first above written. 
+   
+ STEMCELLS, INC.   BOCO SILICON VALLEY, INC.       By: /s/ Ken Stratton   By: /s/ Xiangli Zhou Name: Ken Stratton   Name: Xiangli Zhou Title: President   Title: CEO/GM           STEM CELL SCIENCES HOLDINGS LIMITED                 By: /s/ Ken Stratton       Name: Ken Stratton       Title: Director                 STEMCELLS CALIFORNIA, INC.                 By: /s/ Ken Stratton       Name: Ken Stratton       Title: Director       
+   
+ SIGNATURE PAGE TO ASSET PURCHASE AGREEMENT 
+   
+ 
+ 
+       
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 

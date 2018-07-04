@@ -1,0 +1,668 @@
+ htm 93854 Material contracts 10 2017-04-10T13:30:29.227638-05:00 Filing 0001511164-17-000176 2017-04-10 10-K Annual  & Quarterly Reports 0001509957 Wrapmail, Inc. WRAP COM OTC 7310 FLORIDA FLORIDA FLORIDA false Small Reporting Company 000-55753 AMENDED BRIDGE FINANCING AGREEMENT WITH SKY DIRECT, LLC, DATED AUGUST 20, 2015 Exhibit Exhibit 2 f101.htm EX-10.1 2 f101.htm AMENDED BRIDGE FINANCING AGREEMENT WITH SKY DIRECT, LLC, DATED AUGUST 20, 2015 
+ 
+ DEBT AMENDMENT 
+ 
+The Holder (the "Holder") is the holder of an outstanding promissory note issued by WRAPmail Inc. (the "Company"), in the principal amount of up to $100,0000 of which the Company h as received $21,500 on 3/24/16 and $8,500 on 4/4/16 for a total of $30,000 (the "Note"), 
+ 
+ The Holder and the Company now desire to amend certain provisions of the Notes as follows: 
+ 
+ (a) 
+the Note, including all accrued interest thereon, shall be convertible into shares of the Company's common stock  at  a  conversion price  equal to the lesser of (i) $0.01, or (ii) fifty percent (50%) of the lowest Closing Bid Price of the Common Stock for the thirty (30) Trading Days preceding the Conversion Date; 
+ 
+ (b) 
+ the Maturity Date of the Notes shall be March 15, 2017; and 
+ 
+ (c) 
+The Holder may not convert the Notes to the extent such conversion would result in the Holder, together with any affiliate thereof, beneficially owning (as determined in accordance with Section 13(d) of the Exchange Act and the rules promulgated thereunder) in excess of 9.999% of the then issued and outstanding shares of Common Stock held by such Holder after application of this Section. Since the Holder will not be obligated to report to the Company the number of shares of Common Stock it may hold at the time of a conversion hereunder, unless the conversion at issue would result in the issuance of shares of Common Stock in excess of 9.999% of the then outstanding shares of Common Stock without regard to any other shares which may be beneficially owned by the Holder or an affiliate thereof, the Holder shall have the authority and obligation to determine whether the restriction contained in this Section will limit any particular conversion hereunder and to the extent that the Holder determines that the limitation contained in this Section applies, the determination of which portion of the principal amount of Notes are convertible shall be the responsibility and obligation of the Holder.  If the Holder has delivered a Conversion Notice for a principal amount of Notes that would result in the issuance of in excess of the permitted amount hereunder, without regard to any other shares that the Holder or its affiliates may beneficially own, the Company shall notify the Holder of this fact and shall honor the conversion for the maximum principal amount permitted to be converted on such Conversion Date and, at the option of the Holder, either retain any principal amount tendered for conversion in excess of the permitted amount hereunder for future conversions or return such excess principal amount to the Holder. The provisions of this Section may be waived by a Holder (but only as to itself and not to a ny other Holder) upon not less than 65 days prior notice to the Company. 
+ 
+This Agreement shall be construed as to both validity and performance and enforced in accordance with and governed by the laws of the State of New York, without giving effect to th e conflicts of the law principles thereof. 
+ 
+ 
+ 
+ 
+This Agreement may not be modified or changed except by an instrument or instruments in writing executed by the parties hereto. 
+ 
+ Dated: June 2, 2016 
+ 
+ /s/ Marco Alfonsi 
+ Marco Alfonsi 
+ CEO 
+ 
+ 
+ 
+ S KY-  _ DIRECTLL, 
+ 
+ By________________ 
+ 
+ 
+ 
+THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR QUALIFIED UNDER APPLICABLE STATE SECURITIES LAWS AND HAVE BEEN TAKEN FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR SALE IN CONNECTION WITH ANY DISTRIBUTION THEREOF. THE SECURITIES MAY NOT BE SOLD OR OTHERWISE TRANSFERRED IN THE ABSENCE OF SUCH REGISTRATION AND QUALIFICATION WITHOUT, EXCEPT UNDER CERTAIN SPECIFIC LIMITED CIRCUMSTANCES, AN OPINION OF COUNSEL FOR THE HOLDER THAT SUCH REGISTRATION AND QUALIFICATION ARE  NOT REQUIRED. 
+ 
+ 
+ WRAPmail, Inc. 
+ 
+ 12% CONVERTIBLE PROMISSORY NOTE 
+ 
+ $ 3,000.00 (US) 
+ November 22, 2016 
+ 
+ 
+ 1. 
+Principal and Interest. WRAPmail, Inc., a Florida corporation (the "Company"), for value received, hereby promises to pay to the order of SKY-DIRECT LLC (the "Holder") in lawful money of the United States at the address of the Holder set forth below, the principal amount of THREE THOUSAND DOLLARS ($30,000.00) together with interest at a rate equal to Twelve Percent (12%) per annum. Interest payments shall be accrued monthly for the benefit of the Holder. The principal and any accrued interest on this Note are due and payable on May 21, 2017, unless the Holder elects to convert this Note into shares of common stock ("Common Stock") of WRAPmail, Inc., (the "Company") pursuant to Section 3. Upon payment in full of all principal and interest payable hereunder, or conversion to common stock, this Note shall be surrendered to the Company for cancellation. The Company may prepay this Note at any time without penalty, subject to the election of the Holder exercising their rights under Section 3. 
+ 
+ 2. 
+ Security for Note.      The Note shall be secured by the Common stock of the Company. 
+ 
+ 3. 
+Conversion of Note into Common Stock. The Holder of this Note is entitled, at its option, at any time after the issuance of this Note, to convert all or any lesser portion of the Outstanding Principal Amount and accrued but unpaid Interest into Common Stock shall be convertible into shares of the Company's common stock at a conversion price equal to the lesser of (i) $0.01, or (ii) at a conversion price (the "Conversion Price") for each share of Common Stock at 50% discount from the lowest closing bid price in the 30 trading days prior to the day that the Holder requests conversion, unless otherwise modified by mutual agreement between the Parties. Upon the exercise of any conversion, the Holder shall notify the Issuer whether principal or interest is being converted (The Common stock into which the Note is converted shall be referred to in this agreement as "Conversion Shares.") In the event that holder elects to convert this Note in part, the conversion price for each conversion event shall be calculated at the time of conversion in part. The Holder may convert this Note into Common Stock by delivering a conversion notice, the form of conversion notice attached to the Note as Exhibit B, executed by the Holder of the Note evidencing such Holder's intention to convert the Note. No fractional shares of common stock shall be issued upon conversion of the Note, and in lieu thereof, the number of shares of common stock to be issued for the Note converted shall be rounded down to the nearest whole number of shares of common stock. 
+ 
+ 
+ 
+ 
+ 
+ 3.1 
+Conversion Limitations. On conversion of the note to shares in the Company, the Holder shall at no time hold more than 9.9% of the outstanding stock of the Company. 
+ 
+ 3.2 
+ Authorized Shares.  If at the time of conversion pursuant to this Section 2 there are insufficient authorized shares of Common Stock to permit conversion of this Note in full, then the Company shall take all corporate action necessary to authorize a sufficient number of shares to permit such conversion in full. 
+ 
+ 3.3 
+Stock Certificate. Upon conversion of this Note, the Holder shall surrender this Note, duly endorsed, at the principal office of the Company. At its expense, the Company shall, as soon as practicable thereafter, issue and deliver to the Holder at such principal office a certificate or certificates, either physically or via DWAC, for the number of shares to which the Holder shall be entitled upon such conversion (bearing such legends as are required by applicable state and federal securities laws and in the opinion of counsel to the Co mpanies). 
+ 
+ 
+ 4. 
+Transfers. This Note may be transferred only in compliance with applicable federal and state securities laws and only upon surrender of the original Note for registration of transfer, duly endorsed, or accompanied by a duly executed written instrument of transfer in form satisfactory to the Company. Thereupon, a new promissory note for like principal amount and interest will be issued to, and registered in the name of, the transferee. Interest and principal are payable only to the registered holder of this Note. 
+ 
+ 5. 
+ Attorneys' Fees.  If the indebtedness represented by this Note or any part thereof is collected in bankruptcy, receivership or other judicial proceedings or if this Note is placed in the hands of attorneys for collection after default, the Company agrees to pay, in addition to the principal and interest payable hereunder, reasonable attorneys' fees and costs incurred by the Hol der. 
+ 
+ 6. 
+Notices. Any notice, other communication or payment required or permitted hereunder shall be in writing and shall be deemed to have been given upon delivery if personally delivered or upon deposit if deposited in the United States mail for mailing by registered or certified mail, postage prepaid, and addressed as follows: 
+ 
+ If  to the Holder: 
+ SKY-DIRECT LLC 
+ 136 Wheatley Rd Glen Head, NY 11545 
+ Email:  skydirectllc@gmail.com 
+ 
+ If  to the Company 
+ 
+ WRAPmail, Inc. 
+ 960 S. Broadway 
+ Hicksville, NY 11801 
+ Email:  Marco@wrapmail.com 
+ 
+Each of the above addressees may change its address for purposes of this section by giving to the other addressee notice of such new address in conformance with this section. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7. 
+Waivers. The Company hereby waives presentment, demand for performance, notice of non-per formance, protest, notice of protest and notice of dishonor. o delay on the part of the Holder in exercising any right hereunder  shall operate as a waiver of such right or any other  right. 
+ 
+ 8. 
+Usury Savings Clause. The Company and Holder intend to comply at all times with applicable usury laws. If at any time such laws would render usurious any amounts due under this Note under applicable law, then it is the Company' s and Holder's express intention that  the Company not be required to pay interest on  this Note at a rate in excess of the maximum  lawful rate, that the provisions of this Section 7 shall control over all other provisions of this Note which may be in apparent conflict here under, that such excess amount shall be immediately  credited  to the principal balance of this Note, and the provisions hereof shall  immediately  be reformed  and the amounts thereafter decreased , so as to comply with the then applicable usury law, but so as to permit the recovery of the fullest amount  otherwise due under this  Note. 
+ 
+ 
+ 9. 
+Governing Law. This Note is being delivered in  and  shall  be construed  in accordance with the laws of the State of New York , without  regard to the conflicts of law's provision s thereof. 
+ 
+ 10. 
+Amendment. Any amendment hereto or waiver of any provision hereof may be made only with the written consent of the Company and the Holder. This Note shall inure to the benefit of and bind the successors, permitted assigns, heirs , executors, and administrators of the Company and Holder. 
+ 
+ 
+ 
+ WRAPmail, Inc. 
+ 
+ 
+ /s/ Marco Alfonsi 
+ Marco Alfonsi 
+ President 
+ 
+ 
+ 
+ 
+ Holder: 
+ 
+ 
+ /s/ Darlene Pergola 
+ Sky Direct, LLC 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exhibit B. 
+ 
+ NOTICE OF CONVERSION 
+ 
+ 
+ The undersigned hereby elects to convert $ 
+ principal amount plus accrued interest in the amount of$    for a total Conversion amount of$    of this Note into Shares of Common Stock of     , (the " Company"), as of the date written below. No fee will be charged to the Holder or Holder's Custodian for any conversion, except for transfer taxes, if any. 
+ 
+The undersigned hereby requests that the Borrower issue a certificate or certificates for the number of shares of Common Stock set forth below (which numbers are based on the Holde r's calculation attached hereto) in the name(s) specified immediately below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Date of Conversion: 
+   
+ 
+ Conversion Price: 
+   
+ 
+ Shares to Be Delivered: 
+   
+ 
+ Outstanding Shares: 
+ 
+ Is this Conversion Below 9.99%: 
+ ----------- Asof -- - 20 
+ 
+ Yes, 
+ I 
+ No 
+ 
+ 
+ /s/ Darlene Pergola 
+ Sky Direct, LLC 
+ 
+ 
+ 
+ 
+ 
+THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR QUALIFIED UNDER APPLICABLE STATE SECURITIES LAWS AND HAVE BEEN TAKEN FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR SALE IN CONNECTION WITH ANY DISTRIBUTION THEREOF. THE SECURITIES MAY NOT BE SOLD OR OTHERWISE TRANSFERRED IN THE ABSENCE OF SUCH REGISTRATION AND QUALIFICATION WITHOUT, EXCEPT UNDER CERTAIN SPECIFIC LIMITED CIRCUMSTANCES, AN OPINION OF COUNSEL FOR THE HOLDER THAT SUCH REGISTRATION AND QUALIFICATION ARE  NOT REQUIRED. 
+ 
+ 
+ WRAPmail, Inc. 
+ 
+ 12% CONVERTIBLE PROMISSORY NOTE 
+ 
+ $ 20,000.00 (US) 
+ October 17, 2016 
+ 
+1. Principal and Interest. WRAPmail, Inc., a Florida corporation (the "Company"), for value received, hereby promises to pay to the order of SKY-DIRECT LLC (the "Holder") in lawful money of the United States at the address of the Holder set forth below, the aggregate principal amount of TWENTY THOUSAND DOLLARS ($20,000.00) as described on Schedule A, together with interest at a rate equal to Twelve Percent (12%) per annum. Interest payments shall be accrued monthly for the benefit of the Holder. The principal and any accrued interest on this Note are due and payable on April 16, 2017, unless the Holder elects to convert this Note into shares of common stock ("Common Stock") of WRAPmail, Inc., (the "Company") pursuant to Section 3. Upon payment in full of all principal and interest payable hereunder, or conversion to common stock, this Note shall be surrendered to the Company for cancellation. The Company may prepay this Note at any time without penalty, subject to the election of the Holder exercising their rights under Section 3. 
+ 
+ 2. Security for Note.     The Note shall be secured by the Common stock of the Company. 
+ 
+3. Conversion of Note into Common Stock. The Holder of this Note is entitled, at its option, at any time after the issuance of this Note, to convert all or any lesser portion of the Outstanding Principal Amount and accrued but unpaid Interest into Common Stock shall be convertible into shares of the Company's common stock at a conversion price equal to the lesser of (i) $0.01, or (ii) at a conversion price (the "Conversion Price") for each share of Common Stock at 50% discount from the lowest closing bid price in the 30 trading days prior to the day that the Holder requests conversion, unless otherwise modified by mutual agreement between the Parties. Upon the exercise of any conversion, the Holder shall notify the Issuer whether principal or interest is being converted (The Common stock into which the Note is converted shall be referred to in this agreement as "Conversion Shares.") In the event that holder elects to convert this Note in part, the conversion price for each conversion event shall be calculated at the time of conversion in part. The Holder may convert this Note into Common Stock by delivering a conversion notice, the form of conversion notice attached to the Note as Exhibit B, executed by the Holder of the Note evidencing such Holder's intention to convert the Note. No fractional shares of common stock shall be issued upon conversion of the Note, and in lieu thereof, the number of shares of common stock to be issued for the Note converted shall be rounded down to the nearest whole number of shares of common stock. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.1 
+Conversion Limitations. On conversion of the note to shares in the Company, the Holder shall at no time hold more than 9.9% of the outstanding stock of the Company. 
+ 
+ 3.2 
+ Authorized Shares.  If at the time of conversion pursuant to this Section 2 there are insufficient authorized shares of Common Stock to permit conversion of this Note in full, then the Company shall take all corporate action necessary to authorize a sufficient number of shares to permit such conversion in full. 
+ 
+ 3.3 
+Stock Certificate. Upon conversion of this Note, the Holder shall surrender this Note, duly endorsed, at the principal office of the Company. At its expense, the Company shall, as soon as practicable thereafter, issue and deliver to the Holder at such principal office a certificate or certificates, either physically or via DWAC, for the number of shares to which the Holder shall be entitled upon such conversion (bearing such legends as are required by applicable state and federal securities laws and in the opinion of counsel to the Co mpanies). 
+ 
+4. Transfers. This Note may be transferred only in compliance with applicable federal and state securities laws and only upon surrender of the original Note for registration of transfer, duly endorsed, or accompanied by a duly executed written instrument of transfer in form satisfactory to the Company. Thereupon, a new promissory note for like principal amount and interest will be issued to, and registered in the name of, the transferee. Interest and principal are payable only to the registered holder of this Note. 
+ 
+ 5. Attorneys' Fees.  If the indebtedness represented by this Note or any part thereof is collected in bankruptcy, receivership or other judicial proceedings or if this Note is placed in the hands of attorneys for collection after default, the Company agrees to pay, in addition to the principal and interest payable hereunder, reasonable attorneys' fees and costs incurred by the Hol der. 
+ 
+6. Notices. Any notice, other communication or payment required or permitted hereunder shall be in writing and shall be deemed to have been given upon delivery if personally delivered or upon deposit if deposited in the United States mail for mailing by registered or certified mail, postage prepaid, and addressed as follows: 
+ 
+ If  to the Holder: 
+ SKY-DIRECT LLC 
+ 136 Wheatley Rd Glen Head, NY 11545 
+ Email:  skydirectllc@gmail.com 
+ 
+ If  to the Company 
+ 
+ WRAPmail, Inc. 
+ 960 S. Broadway 
+ Hicksville, NY 11801 
+ Email:  Marco@wrapmail.com 
+ 
+Each of the above addressees may change its address for purposes of this section by giving to the other addressee notice of such new address in conformance with this section. 
+ 
+ 
+ 
+ 
+7. Waivers. The Company hereby waives presentment, demand for performance, notice of non-per formance, protest, notice of protest and notice of dishonor. No delay on the part of the Holder in exercising  any  right hereunder  shall operate as a waiver of such right or any other right. 
+ 
+8. Usury Savings Clause. The Company and Holder intend to comply at all times with applicable usury laws.  If at any time such laws would render usurious any amounts due under this Note under applicable la w, then it is the Company' s and Holder' s express intention that the Company not be required to pay interest  on this Note at a  rate in excess of the maximum  lawful rate, that the provisions of this Section  7 shall control over all other provisions of this Note which may be in apparent conflict hereunder, that such excess amount shall  be immediately  credited to  the principal balance of this Note, and the  provisions  hereof shall  immediately  be reformed  and the amounts thereafter decreased , so as to comply with the then applicable usury la w, but so as to  permit the recovery  of the fullest  amount otherwise due under this Note . 
+ 
+9. Governing Law.  This note is  being  delivered  in  and  shall  be  construed  in accordance with the laws of the State of New York , without  regard  to the conflicts of law's  provisions  thereof . 
+ 
+10. Amendment. Any amendment hereto or waiver of any provision hereof may be made only with the written consent of the Company and the Holder. This note shall inure to the benefit of and bind the successors, permitted assigns, heirs, executors, and administrators of the Company and Holder. 
+ 
+ 
+ 
+ WRAPmail, Inc. 
+ /s/ Marco Alfonsi 
+ Marco Alfonsi 
+ President 
+ 
+ 
+ 
+ 
+ Holder: 
+ 
+ By: 
+ _ 
+ 
+ 
+ 
+ Schedule A 
+ 
+ Date 
+ Amount 
+ Type 
+ Recipient 
+ 
+ 
+ 10/4/16 
+ 
+ $10,000.00 
+ 
+ WIRE 
+ 
+ Wrapmail Inc. 
+ 
+ 10/5/16 
+ 
+ $2,500.00 
+ 
+ WIRE 
+ 
+ Wrapmail Inc. 
+ 
+ 10/17/16 
+ 
+ $7,500.00 
+ 
+ WIRE 
+ 
+ Wrapmail Inc. 
+ 
+ 
+ 
+ 
+ Exhibit B. 
+ 
+ NOTICE OF CONVERSION 
+ 
+ 
+ 
+ The undersigned hereby elects to convert $ 
+ principal amount plus accrued interest in the 
+ 
+ amount of$ 
+ for a total Conversion amount of$ 
+ of this Note into Shares of Common Stock of     _;  (the   "Company"),   as   of   the  date  written below. No fee will be charged to the Holder or Holder's Custodian for any conversion, except for transfer taxes, if any. 
+ 
+The undersigned hereby requests that the Borrower issue a certificate or certificates for the number of shares of Common Stock set forth below (which numbers are based on the Holde r's calculation attached hereto) in the name(s) specified immediately below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Date of Conversion: 
+   
+ 
+ Conversion Price: 
+   
+ 
+ Shares to Be Delivered: 
+   
+ 
+ Outstanding Shares: 
+ 
+ Is this Conversion Below 9.99%: 
+ 
+ Remaining.   principal balance Due: 
+ Signature 
+ ----------- Asof 
+ 
+ Yes 
+ I 
+ No 
+ 
+ 
+ 
+ - 
+ - 20 
+ 
+ 
+ /s/ Darlene Pergola 
+ Darlene Pergola 
+ Sky Direct, LLC 
+ 
+ 
+ 
+ 
+THE SECURITIES REPRESENTED HEREBY HAVE  NOT  BEEN  REGISTERED  UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR QUALIFIED UNDER APPLICABLE STATE SECURITIES LAWS AND HAVE BEEN TAKEN FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR SALE IN CONNECTION WITH ANY DISTRIBUTION THEREOF. THE SECURITIES MAY NOT BE SOLD OR OTHERWISE TRANSFERRED IN THE ABSENCE OF SUCH REGISTRATION AND QUALIFICATION WITHOUT, EXCEPT UNDER CERTAIN SPECIFIC LIMITED CIRCUMSTANCES, AN OPINION OF COUNSEL FOR THE HOLDER THAT SUCH REGISTRATION AND QUALIFICATION  ARE NOT REQUIRED. 
+ 
+ 
+ WRAPmail, Inc. 
+ 
+ 12% CONVERTIBLE PROMISSORY NOTE 
+ 
+ $ 12,000.00 (US) 
+ August 31, 2016 
+ 
+1. Principal and Interest. WRAPmail, Inc., a Florida corporation (the "Company"), for value received, hereby promises to pay to the order of SKY-DIRECT LLC (the "Holder") in lawful money of the United States at the address of the Holder set forth below, the aggregate principal amount of TWELVE THOUSAND DOLLARS ($12,000.00) as described on Schedule A, together with interest at a rate equal to Twelve Percent (12%) per annum. Interest payments shall be accrued monthly for the benefit of the Holder. The principal and any accrued interest on this Note are due and payable on August 30, 2017, unless the Holder elects to convert this Note into shares of common stock ("Common Stock") of WRAPmail, Inc., (the "Company") pursuant to Section 3. Upon payment in full of all principal and interest payable hereunder, or conversion to common stock, this Note shall be surrendered to the Company for cancellation. The Company may prepay this Note at any time without penalty, subject to the election of the Holder exercising their rights under Section 3. 
+ 
+ 2. Security for Note.        The Note shall be secured by the Common stock of the Company. 
+ 
+3. Conversion of Note into Common Stock. The Holder of this Note is entitled, at its option, at any time after the issuance of this Note, to convert all or any lesser portion of the Outstanding Principal Amount and accrued but unpaid Interest into Common Stock shall be convertible into shares of the Company's common stock at a conversion price equal to the lesser of (i) $0.01, or (ii) at a conversion price (the "Conversion Price") for each share of Common Stock at 50% discount from the lowest closing bid price in the 30 trading days prior to the day that the Holder requests conversion, unless otherwise modified by mutual agreement between the Parties. Upon the exercise of any conversion, the Holder shall notify the Issuer whether principal or interest is being converted (The Common stock into which the Note is converted shall be referred to in this agreement as "Conversion Shares.") In the event that holder elects to convert this Note in part, the conversion price for each conversion event shall be calculated at the time of conversion in part. The Holder may convert this Note into Common Stock by delivering a conversion notice, the form of conversion notice attached to the Note as Exhibit B, executed by the Holder of the Note evidencing such Holder's intention to convert the Note. No fractional shares of common stock shall be issued upon conversion of the Note, and in lieu thereof, the number of shares of common stock to be issued for the Note converted shall be rounded down to the nearest whole number of shares of common stock. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.1 
+Conversion Limitations. On conversion of the note to shares in the Company, the Holder shall at no time hold more than 9.9% of the outstanding stock of the Company. 
+ 
+ 3.2 
+ Authorized Shares.  If at the time of conversion pursuant to this Section 2 there are insufficient authorized shares of Common Stock to permit conversion of this Note in full, then the Company shall take all corporate action necessary to authorize a sufficient number of shares to permit such conversion in full. 
+ 
+ 3.3 
+Stock Certificate. Upon conversion of this Note, the Holder shall surrender this Note, duly endorsed, at the principal office of the Company. At its expense, the Company shall, as soon as practicable thereafter, issue and deliver to the Holder at such principal office a certificate or certificates, either physically or via DWAC, for the number of shares to which the Holder shall be entitled upon such conversion (bearing such legends as are required by applicable state and federal securities laws and in the opinion of counsel to the Co mpanies). 
+ 
+4. Transfers. This Note may be transferred only in compliance with applicable federal and state securities laws and only upon surrender of the original Note for registration of transfer, duly endorsed, or accompanied by a duly executed written instrument of transfer in form satisfactory to the Company. Thereupon, a new promissory note for like principal amount and interest will be issued to, and registered in the name of, the transferee. Interest and principal are payable only to the registered holder of this Note. 
+ 
+ 5. Attorneys' Fees.  If the indebtedness represented by this Note or any part thereof is collected in bankruptcy, receivership or other judicial proceedings or if this Note is placed in the hands of attorneys for collection after default, the Company agrees to pay, in addition to the principal and interest payable hereunder, reasonable attorneys' fees and costs incurred by the Hol der. 
+ 
+6. Notices. Any notice, other communication or payment required or permitted hereunder shall be in writing and shall be deemed to have been given upon delivery if personally delivered or upon deposit if deposited in the United States mail for mailing by registered or certified mail, postage prepaid, and addressed as follows: 
+ 
+ If  to the Holder: 
+ SKY-DIRECT LLC 
+ 136 Wheatley Rd Glen Head, NY 11545 
+ Email:  skydirectllc@gmail.com 
+ 
+ If  to the Company 
+ 
+ WRAPmail, Inc. 
+ 960 S. Broadway 
+ Hicksville, NY 11801 
+ Email:  Marco@wrapmail.com 
+ 
+Each of the above addressees may change its address for purposes of this section by giving to the other addressee notice of such new address in conformance with this section. 
+ 
+ 
+ 
+ 
+7. Waivers. The Company hereby waives presentment, demand for performance, notice of non-per formance, protest, notice of protest and notice of dishonor. No delay on the part of the Holder in exercising any right hereunder  shall operate as a waiver of such right or any other right. 
+ 
+8. Usury Savings Clause. The Company and Holder intend to comply at all times with applicable usury laws.  If at any time such laws would render usurious any amounts due under this Note under applicable law, then it is the Company' s and Holder's express intention  that  the Company not be required to pay interest on  this Note at a rate in excess of the maximum  lawful rate, that the provisions of this Section 7 shall control over all other provisions of this Note which may be in apparent conflict hereunder , that such excess amount shall be immediately  credited to  the principal balance of this Note, and the  provisions  hereof  shall  immediately  be reformed  and the amounts thereafter decreased , so as to comply with the then applicable usury law, but so as to permit  the recovery  of the fullest amount  otherwi se due under  this Note. 
+ 
+9. Governing Law. This Note is being  delivered  in  and  shall  be  construed  in accordance with the laws of the State of New  York , without  regard  to the conflicts of laws  p rovisions thereof. 
+ 
+10. Amendment. Any amendment hereto or waiver of any provision hereof may be made only with the written consent of the Company and the Holder. This Note shall inure to the benefit of and bind the successors, permitted assign s, heirs, executors, and administrators of the Company and Holder. 
+ 
+ 
+ 
+ WRAPmail, Inc. 
+ /s/ Marco Alfonsi 
+ Marco Alfonsi 
+ President 
+ 
+ 
+ 
+ Holder: 
+ 
+ By: 
+ 
+ 
+ 
+ 
+ 
+ Schedule A 
+ 
+ 
+ Date 
+ Amount 
+ Type 
+ Recipient 
+ 
+ 
+ 8/2/16 
+ 
+ $3,000.00 
+ 
+ WIRE 
+ 
+ Wrapmail Inc. 
+ 
+ 8/19/16 
+ 
+ $3,000.00 
+ 
+ WIRE 
+ 
+ Wrapmail Inc. 
+ 
+ 8/24/16 
+ 
+ $3,000.00 
+ 
+ WIRE 
+ 
+ Wrapmail Inc. 
+ 
+ 8/31/16 
+ 
+ $3,000.00 
+ 
+ WIRE 
+ 
+ Wrapmail Inc. 
+ 
+ 
+ 
+ 
+ Exhibit B. 
+ 
+ NOTICE OF CONVERSION 
+ 
+ 
+ 
+ The undersigned hereby elects to convert $ 
+ principal amount plus accrued interest in the 
+ 
+ amount of$ 
+ for a total Conversion amount of$ 
+ of this Note into 
+ 
+ Shares of Common Stock of 
+ (the  "Company"),   as  of  the  date written 
+below. No fee will be charged to the Holder or Holder's Custodian for any conversion, except for transfer taxes, if any. 
+ 
+The undersigned hereby requests that the Borrower issue a certificate or certificates for the number of shares of Common Stock set forth below (which numbers are based on the Holde r's calculation attached hereto) in the name(s) specified immediately below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Date of Conversion: 
+   
+ 
+ Conversion Price: 
+   
+ 
+ Shares to Be Delivered: 
+   
+ 
+ Outstanding Shares: 
+ 
+ Is this Conversion Below 9.99%: 
+ 
+ ---------- 
+ 
+ Yes    I   N o 
+ Asof 
+ 
+ 
+ 
+ Remaining principal Balance Due: 
+   
+ 
+ 
+ 
+ /s/ Darlene Pergola 
+ Darlene Pergola 
+ Sky Direct, LLC 
+ 
+ 
+ 
+ 
+THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR QUALIFIED UNDER APPLICABLE STATE SECURITIES LAWS AND HAVE BEEN TAKEN FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR SALE IN CONNECTION WITH ANY DISTRIBUTION THEREOF. THE SECURITIES MAY NOT BE SOLD OR OTHERWISE TRANSFERRED IN THE ABSENCE OF SUCH REGISTRATION AND QUALIFICATION WITHOUT, EXCEPT UNDER CERTAIN SPECIFIC LIMITED CIRCUMSTANCES, AN OPINION OF COUNSEL FOR THE HOLDER THAT SUCH REGISTRATION AND QUALIFICATION ARE  NOT REQUIRED. 
+ 
+ 
+ WRAPmail, Inc. 
+ 
+ 12% CONVERTIBLE PROMISSORY NOTE 
+ 
+ $ 5,000.00 (US) 
+ July 22, 2016 
+ 
+ 1. 
+Principal and Interest. WRAPmail, Inc., a Florida corporation (the "Company"), for value received, hereby promises to pay to the order of SKY-DIRECT LLC (the "Holder") in lawful money of the United States at the address of the Holder set forth below, the principal amount of FIVE THOUSAND DOLLARS ($5,000.00), together with interest at a rate equal to Twelve Percent (12%) per annum. Interest payments shall be accrued monthly for the benefit of the Holder. The principal and any accrued interest on this Note are due and payable on July 21, 2017, unless the Holder elects to convert this Note into shares of common stock ("Common Stock") of WRAPmail, Inc., (the "Company") pursuant to Section 3. Upon payment in full of all principal and interest payable hereunder, or conversion to common stock, this Note shall be surrendered to the Company for cancellation. The Company may prepay this Note at any time without penalty, subject to the election of the Holder exercising their rights under Section 3. 
+ 
+ 2. 
+ Security for Note.    The Note shall be secured by the Common stock of the Company. 
+ 
+ 
+ 3. 
+Conversion of Note into Common Stock. The Holder of this Note is entitled, at its option, at any time after the issuance of this Note, to convert all or any lesser portion of the Outstanding Principal Amount and accrued but unpaid Interest into Common Stock shall be convertible into shares of the Company's common stock at a conversion price equal to the lesser of (i) $0.01, or (ii) at a conversion price (the "Conversion Price") for each share of Common Stock at 50% discount from the lowest closing bid price in the 30 trading days prior to the day that the Holder requests conversion, unless otherwise modified by mutual agreement between the Parties. Upon the exercise of any conversion, the Holder shall notify the Issuer whether principal or interest is being converted (The Common stock into which the Note is converted shall be referred to in this agreement as "Conversion Shares.") In the event that holder elects to convert this Note in part, the conversion price for each conversion event shall be calculated at the time of conversion in part. The Holder may convert this Note into Common Stock by delivering a conversion notice, the form of conversion notice attached to the Note as Exhibit B, executed by the Holder of the Note evidencing such Holder's intention to convert the Note. No fractional shares of common stock shall be issued upon conversion of the Note, and in lieu thereof, the number of shares of common stock to be issued for the Note converted shall be rounded down to the nearest whole number of shares of common stock. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.1 
+Conversion Limitations. On conversion of the note to shares in the Company, the Holder shall at no time hold more than 9.9% of the outstanding stock of the Company. 
+ 
+ 3.2 
+Authorized Shares. If at the time of conversion pursuant to this Section 2 there are insufficient authorized shares of Common Stock to permit conversion of this Note in full, then the Company shall take all corporate action necessary to authorize a sufficient number of shares to permit such conversion in full. 
+ 
+ 3.3 
+Stock Certificate. Upon conversion of this Note, the Holder shall surrender this Note, duly endorsed, at the principal office of the Company. At its expense, the Company shall, as soon as practicable thereafter, issue and deliver to the Holder at such principal office a certificate or certificates, either physically or via DWAC, for the number of shares to which the Holder shall be entitled upon such conversion (bearing such legends as are required by applicable state and federal securities laws and in the opinion of counsel to the Co mpanies). 
+ 
+ 4. 
+Transfers. This Note may be transferred only in compliance with applicable federal and state securities laws and only upon surrender of the original Note for registration of transfer, duly endorsed, or accompanied by a duly executed written instrument of transfer in form satisfactory to the Company. Thereupon, a new promissory note for like principal amount and interest will be issued to, and registered in the name of, the transferee. Interest and principal are payable only to the registered holder of this Note. 
+ 
+ 5. 
+ Attorneys' Fees.  If the indebtedness represented by this Note or any part thereof is collected in bankruptcy, receivership or other judicial proceedings or if this Note is placed in the hands of attorneys for collection after default, the Company agrees to pay, in addition to the principal and interest payable hereunder, reasonable attorneys' fees and costs incurred by the Hol der. 
+ 
+ 6. 
+Notices. Any notice, other communication or payment required or permitted hereunder shall be in writing and shall be deemed to have been given upon delivery if personally delivered or upon deposit if deposited in the United States mail for mailing by registered or certified mail, postage prepaid, and addressed as follows: 
+ 
+ If  to the Holder: 
+ SKY-DIRECT LLC 
+ 136 Wheatley Rd Glen Head, NY 11545 
+ Email:  skydirectllc@gmail.com 
+ 
+ If  to the Company 
+ 
+ WRAPmail, Inc. 
+ 960 S. Broadway 
+ Hicksville, NY 11801 
+ Email:  Marco@wrapmail.com 
+ 
+Each of the above addressees may change its address for purposes of this section by giving to the other addressee notice of such new address in conformance with this section. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7. 
+Waivers. The Company hereby waives presentment, demand for performance, notice of non-per formance, protest, notice of protest and notice of dishonor. No delay on the part of the H older in exercising any right hereunder shall operate as a waiver of such right or any other right. 
+ 
+ 8. 
+Usury Savings Clause. The Company and Holder intend to comply at all times with applicable usury laws.  If at any time such laws would render usurious any amounts due under this Note under applicable law, then it is the Company' s and Holder's express intention that the Company not be required to pay interest  on  this Note at a rate in excess of the maximum  lawful rate, that the provisions of this Section  7 shall control over all other provisions of this Note which may be in apparent conflict hereunder , that such excess amount shall be immediately  credited to  the principal balance of this Note, and the provisions  hereof  shall  immediately  be reformed  and the an1ounts thereafter decreased , so as to comply with the then applicable usury law, but so as to  permit the recovery of the fullest amount otherwise due under this Note. 
+ 
+ 
+ 9. 
+Governing Law. This Note is  being  delivered  in  and  shall  be  construed  in accordance with the laws of the State of New York , without regard  to the conflicts of laws provis ions  thereof. 
+ 
+ I 0. Amendment. Any amendment hereto or waiver of any provision hereof may be made only with the written consent of the Company and the Holder. This Note shall inure to the benefit of and bind the successors, permitted assigns, heirs, executors, and administrators of the Company and Holder. 
+ 
+ 
+ 
+ WRAPmail l, Inc. 
+ 
+ /s/ Marco Alfonsi 
+ Marco Alfonsi 
+ President 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Holder: 
+ 
+ /s/ Darlene Pergola 
+ Darlene Pergola 
+ Sky Direct, LLC 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exhibit  B. 
+ 
+ NOTICE OF CONVERSION 
+ 
+ 
+ 
+ The undersigned hereby elects to convert $ 
+ principal amount plus accrued interest in the 
+ 
+ amount of$ 
+ for a total Conversion amount of$ 
+ of this Note into Shares of Common Stock of     , (the   "Company"),  as  of  the date  written below. No fee will be charged to the Holder or Holder's Custodian for any conversion, except for transfer taxes, if any. 
+ 
+The undersigned hereby requests that the Borrower issue a certificate or certificates for the number of shares of Common Stock set forth below (which numbers are based on the Holde r's calculation attached hereto) in the name(s) specified immediately below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Date of Conversion: 
+   
+ 
+ Conversion Price: 
+   
+ 
+ Shares to Be Delivered: 
+   
+ 
+ Outstanding Shares: 
+ 
+ Is this Conversion Below 9.99%: 
+ ----------- As of 2017 
+ 
+ Yes, 
+ I 
+ No 
+ 
+ /s/ Darlene Pergola 
+ Darlene Pergola 
+ Sky Direct, LLC 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,243 @@
+ htm 68032 Material contracts 10 2017-03-31T15:34:20.495649-05:00 Filing 0001387131-17-001806 2017-03-31 10-K Annual  & Quarterly Reports 0001444706 CROSSROADS CAPITAL, INC. XRDC COMMON Nasdaq Capital Market 6726 Unit Investment Trusts  & Investment Funds, Closed-end COLORADO MARYLAND MARYLAND BDCA VENTURE, INC.;KEATING CAPITAL INC false Small Reporting Company 814-00778 SECURITIES TRANSFER AGREEMENT, DATED MARCH [__], 2017 Exhibit Exhibit 4 ex10-13.htm EX-10.13 4 ex10-13.htm SECURITIES TRANSFER AGREEMENT, DATED MARCH [__], 2017 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Crossroads Capital, Inc. 10-K 
+ Exhibit 10.13 
+   
+ SECURITIES TRANSFER AGREEMENT 
+   
+ THIS SECURITIES TRANSFER AGREEMENT (this " Agreement ") is made as of March [___], 2017 (the " Effective Date "), by and among Crossroads Capital, Inc., a Maryland corporation (" Seller "), the persons and entities set forth on the Schedule of Purchasers attached hereto as  Exhibit A  (each a " Purchaser " and collectively, the " Purchasers "), and Silkroad, Inc., a Delaware corporation (the " Company "). 
+   
+ RECITALS 
+   
+WHEREAS, Seller is record owner of the number of shares of the Company's Series D-1 Preferred Stock set forth on  Exhibit A  (" D-1 Preferred Stock"), the number of warrants to purchase shares of the Company's Series D-1 Preferred Stock set forth on  Exhibit A  (" Warrants ") and the number of shares of the Company's Series D-2 Preferred Stock set forth on  Exhibit A  (" D-2 Preferred Stock " and, together with the Warrants and the D-1 Preferred Stock, the " Transferred Securities "); 
+   
+ WHEREAS, Seller desires to transfer the Transferred Securities to the Purchasers as set forth on  Exhibit A  hereto, for consideration, as indicated below; and 
+   
+WHEREAS, each of the Purchasers desires to acquire all of Seller's right, title and interest to the Transferred Securities as set forth in  Exhibit A . 
+   
+NOW, THEREFORE, in consideration of the foregoing recitals and the mutual promises hereinafter set forth, the parties hereto agree as follows: 
+   
+ AGREEMENT 
+   
+ 1.           Transfer of Transferred Securities . On the Effective Date and subject to the terms and conditions of this Agreement, Seller hereby sells to each of the Purchasers, and each such Purchaser hereby purchases from Selle r the number of Transferred Securities set forth opposite such Purchaser's name on  Exhibit A  hereto, at the aggregate price set forth on  Exhibit A  (the " Purchase Price ").  Exhibit B hereto sets forth the price per share of D-1 Preferred Stock, the price per share of D-2 Preferred Stock and the price per Warrant in connection with the sale and purchase of the Transferred Securities. The Company hereby consents to such transfer and waives any applicable right of first refusal (the " Transfer Restrictions ") with respect to such transfer. 
+   
+ 2.           Closing of Transfer . 
+   
+ (a)           Deliveries by Seller. Seller hereby delivers to the Company or is causing to be delivered to the Company on Seller's behalf (i) any stock certificates and warrant certificates representing the Transferred Securities, if in Seller's possession (or Seller otherwise authorizes the Company to remove any such stock certificates or warrant certificates from escrow for cancellation and reissuance to each of the Purchasers); and (ii) a duly authorized and executed copy of this Agreement, in each case the delivery of which is hereby acknowledged to be an express condition of the Company's execution, delivery and performance pursuant to this Agreement and the transactions contemplated hereby. Seller hereby delivers to each of the Purchasers an executed copy of this Agreement. Seller hereby instructs the Company to: (x) cancel any stock certificate and warrant certificate issued to Seller representing the Transferred Securities; and (y) issue duly executed stock certificates and a warrant certificate evidencing the Transferred Securities in the name of the Purchaser who is purchasing such Trans ferred Securities as set forth on  Exhibit A  hereto. 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ (b)           Deliveries by Purchaser. Each of the Purchasers hereby delivers to Seller: (i) a duly authorized and executed copy of this Agreement, and (ii) the aggregate Purchase Price of the Transferred Securities to be purchased by such Purchaser, made payable to Seller, by wire transfer of immediately available funds to an account designated by Seller. 
+   
+ 3.              Purchaser Representations and Warranties .  Each of the Purchasers hereby represents and warrants as follows to the Company and Seller: 
+   
+ (a)           Authority. Such Purchaser has full legal right, power and authority to enter into and perform its obligations under this Agreement, and this Agreement constitutes its valid and legally binding obligation, enforceable in accordance with its terms except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement of creditors' rights generally, and (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies. Such Purchaser, if other than a natural person, has been duly organized and is validly existing in good standing under the laws of the jurisdiction of its organization as the type of entity that it purports to be and all corporate or other entity actions necessary to authorize the transactions contemplated by this Agreement have been duly taken. The person(s) executing and delivering this Agreement on behalf of such Purchaser are duly authorized to do so. 
+   
+(b)          The execution and delivery of this Agreement by such Purchaser, the consummation of the transactions contemplated in this Agreement, and the compliance with the terms of this Agreement will not conflict with, result in the breach of, or constitute a default under, or require any consent or approval under, any agreement or instrument to which such Purchaser is a party or by which such Purchaser may be bound, or result in the material violation of any law, rule or regulation or any writ, order or decree of any court or gove rnmental agency applicable to such Purchaser. 
+   
+ (c)           Purchase for Own Account. Such Purchaser is purchasing the Transferred Securities for such Purchaser's own account, for investment purposes only and not with a view to, or for sale in connection with, a distribution of the Transferred Securities within the meaning of the Securities Act of 1933, as amended (the " Act"). Such Purchaser has no present intention of selling or otherwise disposing of all or any portion of the Transferred Securities and such Purchaser has not granted or agreed to grant any beneficial ownership of any of the Transferred Securities to any other person (other than the members, manager, partners and/or stockholders of such Purchaser who may be deemed to have an indirect beneficial interest by virtue of their ownership interests in such Purchaser). 
+   
+ 
+ 
+ 
+ 2 
+ 
+   
+ 
+   
+ (d)           Accredited Investor. Such Purchaser is an accredited investor as defined in Rule 501(a) of Regulation D promulgated under the Act. 
+   
+ (e)           Access to Information. Such Purchaser has received all information it considers necessary or appropriate in connection with its acquisition of the Transferred Securities. Such Purchaser further represents it has had an opportunity to pose questions and receive answers from the Company concerning the Company's business, management and financial affairs. 
+   
+ (f)            Investment Experience. Such Purchaser is an investor in securities of companies in the development stage and acknowledges that it is able to fend for itself, can bear the economic risk of its investment, and has such knowledge and experience in financial or business matters that it is capable of evaluating the merits and risks of the investment in the Transferred Securities. If other than an individual, such Purchaser also represents it has not been organized for the purpose of acquiring the Transferred Securities. 
+   
+ (g)           Understanding of Risks. Such Purchaser is fully aware of: (i) the highly speculative nature of the Transferred Securities; (ii) the financial hazards involved; (iii) the lack of liquidity of the Transferred Securities; (iv) the qualifications and backgrounds of the management of the Company; and (v) the tax consequences of acquiring the Transferred Securities. 
+   
+ (h)           Restricted Securities. Such Purchaser understands that the Transferred Securities will be characterized as "restricted securities" under the federal securities laws inasmuch as they are being acquired in a transaction not involving a public offering and that under such laws and applicable regulations such securities may be resold without registration under the Act, only in certain limited circumstances. In this connection, such Purchaser represents that it is familiar with Rule 144 promulgated under the Act, as presently in effect, and understands the res ale limitations imposed thereby and by the Act. 
+   
+ (i)            Compliance with Securities Laws. Such Purchaser understands and acknowledges that, in reliance upon the representations and warranties made by such Purchaser herein, the Transferred Securities are not being regi stered with the Securities and Exchange Commission (the " SEC") under the Act or being qualified under the California Corporate Securities Law of 1968, as amended (the " California Law"), but instead are being transferred under an exemption or exemptions from the registration and qualification requirements of the Act and California Law or other applicable securities laws which impose certain restrictions on such Purchaser's ability to transfer the Transferred Securities. 
+   
+ (j)            Securities Law Restrictions on Transfer. Such Purchaser understands that such Purchaser may not transfer any Transferred Securities unless such Transferred Securities are registered under the Act or qualified under California Law or other applicable securities laws or unless, in the opinion of counsel to the Company, exemptions from such registration and qualification requirements are available. Such Purchaser understands that only the Company may file a registration statement with the SEC or the California Commissioner of Corporations or other applicable securities commissioners and that the Company is under no obligation to do so with respect to the Transferred Securities. Such Purchaser has also been advised that exemptions from registration and qualification may not be available or may not permit such Purchaser to transfer all or any of the Transferred Securities in the amounts or at the times proposed by such Purchaser. 
+   
+ 
+ 
+ 
+ 3 
+ 
+   
+ 
+   
+ (k)           No General Solicitation. At no time was such Purchaser presented with or solicited by any publicly issued or circulated newspaper, mail, radio, television, internet or other form of general advertising o r solicitation in connection with the Transferred Securities. 
+   
+ (l)            Foreign Status. If such Purchaser is not a United States person (as defined by Section 7701(a)(30) of the Internal Revenue Code of 1986, as amended), such Purchaser hereby represents that it has satisfied itself as to the full observance of the laws of its jurisdiction in connection with any invitation to subscribe for the Transferred Securities or any use of this Agreement, including (i) the legal requirements within its jurisdiction for the purchase of the Transferred Securities, (ii) any foreign exchange restrictions applicable to such purchase, (iii) any governmental or other consents that may need to be obtained, and (iv) the income tax and other tax consequences, if any, that may be relevant to the purchase, holding, redemption, sale, or transfer of the Transferred Securities. Such Purchaser's continued beneficial ownership of the Transferred Securities will not violate any applicable securities  or other laws of such Purchaser's jurisdiction. 
+   
+ 4.              Seller Representations and Warranties .  Seller hereby represents and warrants as follows to the Company and each of the Purchasers: 
+   
+ (a)           Title to Transferred Securities. Seller has valid marketable title to the Transferred Securities, free and clear of any pledge, lien, security interest, encumbrance, claim or equitable interest other than the Transfer Restrictions and any restrictions imposed by applicable laws. Upon the sale and transfer of the Transferred Securities, and payment therefor, in accordance with the provisions of this Agreement, each of the Purchasers will acquire valid marketable title to the Transferred Securities purchased by such Purchaser, free and clear of any pledge, lien, security interest, encumbrance, claim or equitable interest other than the Transfer Restrictions and any restrictions imposed by applicable laws. 
+   
+ (b)           Authority. Seller has full legal right, power and authority to enter into and perform its obligations under this Agreement and this Agreement constitutes its valid and legally binding obligation, enforceable in accordance with its terms except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement of creditors' rights generally, and (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies. Seller is not obligated to transfer the Transferred Securities to any other person or entity other than pursuant to the Transfer Restrictions. Seller, if other than a natural person, has been duly organized and is validly existing in good standing under the laws of the jurisdiction of its organization as the type of entity that it purports to be and all corporate or other entity actions necessary to authorize the transactions contemplated by this Agreement have been duly taken. The person(s) executing and delivering this Agreement on beha lf of Seller are duly authorized to do so. 
+   
+ 
+ 
+ 
+ 4 
+ 
+   
+ 
+   
+ (c)           Transfer for Own Account. Seller is selling the Transferred Securities for Seller's own account only and not with a view to, or for sale in connection with, a distribution of the Transferred Securities within the meaning of the Act. No portion of the Purchase Price will be received indirectly by the Company. 
+   
+ (d)           No General Solicitation. At no time has Seller presented any of the Purchasers or any other party through any publicly issued or circulated newspaper, mail, radio, television, internet or other form of g eneral advertisement or solicitation in connection with the transfer of the Transferred Securities. 
+   
+ (e)           No Broker-Dealer. Seller has not effected this transfer of the Transferred Securities by or through a broker-dealer in any public offering. 
+   
+ (f)            Sophisticated Seller. Seller (i) is a sophisticated individual or entity familiar with transactions similar to those contemplated by this Agreement, (ii) has adequate information concerning the business and financial condition of the Company to make an informed decision regarding the sale of the Transferred Securities, (iii) has independently and without reliance upon any of the Purchasers or the Company, and based on such information and the advice of such advisors as Seller has deemed appropriate, made its own analysis and decision to enter into this Agreement. Seller acknowledges that none of the Purchasers, the Company or their respective affiliates is acting as a fiduciary or financial or investment adviser to Seller, and has not given Seller any investment advice, opinion or other information on whether the sale of the Transferred Securities is prudent. Seller further acknowledges that (A) any of the Purchasers currently may have, and later may come into possession of, other information with respect to the Company that is not known to Seller and that may be material to a decisi on to sell the Transferred Securities (" Seller Excluded Information"), (B) Seller has determined to sell the Transferred Securities notwithstanding its lack of knowledge of the Seller Excluded Information, and (C) neither any of the Purchasers nor the Company shall have any liability to Seller, and Seller waives and releases any claims that it might have against any such Purchaser or the Company, whether under applicable securities laws or otherwise, with respect to the nondisclosure of the Seller Excluded Information in connection with the sale of the Transferred Securities and the transactions contemplated by this Agreement. Seller understands that the Purchasers will rely on the accuracy and truth of the foregoing representations, and Seller hereby consents to such reliance . 
+   
+ 5.              Compliance with Laws and Regulations. The sale and transfer of the Transferred Securities will be subject to and conditioned upon compliance by the Company and the Purchasers with all applicable state and federal laws and regulations and with all applicable requirements of any stock exchange or automated quotation system on which the Company's securities may be listed or quoted at the time of  such sale or transfer. 
+   
+ 
+ 
+ 
+ 5 
+ 
+   
+ 
+   
+ 6.              No Reliance . Each of Seller and the Purchasers acknowledges and agrees that neither the Company, nor any of its stockholders, officers, directors, employees, or agents (other than Seller and Purchaser) have (a) acted as an agent, finder or broker for Seller or any of the Purchasers or their respective agents with respect to the offer, purchase and/or sale of the Transferred Securities, (b) made any representations or warranties of any kind, express or implied, to Seller or any of the Purchasers or their respective agents in connection with the offer, purchase and/or sale of the Transferred Securities or (c) have at any time had any duty to Seller or any of the Purchasers or their respective agents to disclose any information relating to the Company, its business, or financial condition or relating to any other matters in connection with the offer, purchase and/or sale of the Transferred Securities other than regular provision by the Company of certain financial information to Seller and Purchasers in the ordinary course in their capacity as existing stockholders of the Company. In making its decision to sell the Transferred Securities, Seller is relying solely on its own knowledge and experience and the representations and warranties of the Purchasers (and not on any information provided by the Company or its agents). In making its decision to purchase the Transferred Securities, each of the Purchasers is relying solely on its own knowledge and experience and the representations and warranties of Seller (and not on any information provided by the Company or its agents). 
+   
+ 7.              Restrictive Legends and Stop-Transfer Orders . 
+   
+ (a)           Legends. Unless otherwise agreed by the Company, each of the Purchasers understands and agrees that the Company will place the legends set forth below or similar legends on any stock certificate(s) and warrant certificate(s) evidencing the Transferred Securities, together with any other legends that may be required by (i) state or federal securities laws, (ii) any other agreement affecting the Transferred Securities between Seller and the Company, or between Seller and any third party, or (iii) any other agreement applicable to such Purchase r: 
+   
+THE [SHARES][WARRANTS] REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR UNDER STATE SECURITIES LAWS AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF. NO SUCH SALE OR DISTRIBUTION MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL FOR THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933. 
+   
+THE [SHARES][WARRANTS] REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO A 180-DAY MARKET STANDOFF RESTRICTION AS SET FORTH IN AN AGREEMENT BETWEEN THE COMPANY AND THE [STOCKHOLDER][WARRNATHOLDER], A COPY OF WHICH IS ON FILE WITH THE SECRETARY OF THE COMPANY. AS A RESULT OF SUCH AGREEMENT, THESE [SHARES][WARRANTS] MAY NOT BE TRADED PRIOR TO 180 DAYS AFTER THE E FFECTIVE DATE OF THE INITIAL PUBLIC OFFERING OF THE COMMON STOCK OF THE ISSUER HEREOF. 
+   
+ THE  [SHARES][WARRANTS]  EVIDENCED  BY THIS CERTIFICATE ARE SUBJECT TO A VOTING AGREEMENT (A COPY OF WHICH MAY BE OBTAINED UPON WRITTEN REQUEST FROM THE COMPANY), AND BY ACCEPTING ANY INTEREST IN SUCH  [SHARES][WARRANTS] THE PERSON ACCEPTING SUCH INTEREST SHALL BE DEEMED TO AGREE TO AND SHALL BECOME BOUND BY ALL THE PROVISIONS OF THAT VOTING AGREEMENT, INCLUDING CERTAIN RESTRICTIONS ON TRANSFER AN D OWNERSHIP SET FORTH THEREIN. 
+   
+ 
+ 
+ 
+ 6 
+ 
+   
+ 
+   
+ (b)           Stop-Transfer Instructions. Each of the Purchasers agrees that, in order to ensure compliance with the restrictions imposed by this Agreement, the Company may issue appropriate "stop-transfer" instructions to its transfer agent, if any, and if the Company acts as its own transfer agent, it may make appropriate notations to the same effect in its own records. The Company will not be required (i) to transfer on its books any of the Transferred Securities that have been sold or otherwise transferred in violation of any of the provisions of this Agreement or (ii) to treat as owner of such Transferred Securities, or to accord the right to vote or receive dividends, to any Purchaser or other person to whom such Transferred Securities have been so transferred. Each of the Purchasers further understands and agrees that the Company may require written assurances, in form and substance satisfactory to counsel for the Company (which may include a requirement that such Purchaser's counsel provide a legal opinion acceptable to the Company), before the Company effects any future transfers of the Transfe rred Securities. 
+   
+ 8.              Tax Acknowledgment. Seller acknowledges and agrees that Seller shall be liable for all taxes imposed on Seller related to the sale of the Transferred Securities to the Purchasers. Seller acknowledges that Seller has had an opportunity to consult Seller's own Tax, Legal and Financial Advisors regarding the Sale of the Transferred Securities under this Agreement. 
+   
+ 9.              Mutual Release; Indemnification . 
+   
+(a)          Seller hereby releases the Company, each of the Purchasers, each of their respective parents, subsidiaries, successors, predecessors and affiliates, and each of their respective directors, officers, employees, shareholders, agents, attorneys, insurers, affiliates and assigns (collectively, the " Released Parties"), of and from any and all claims, liabilities and obligations, both known and unknown, that arise out of or are in any way related to (1) ownership of the Transferred Securities, (2), any facts or circumstances relating to the Company or the operation of its business which existed prior to the Effective Date, or (3) the sale of the Transferred Securities to the Purchasers, including without limitation any tax liability of the Seller; provided that the foregoing release shall not apply to (i) claims, liabilities and obligations pursuant to this Agreement, or (ii) any claim for indemnification by the Seller Released Parties expressly provided for in this Section 9. Seller hereby agrees to indemnify the Released Parties to the fullest extent permitted by applicable law and to save and hold each of them harmless from and in respect of all (a) reasonable fees, costs, and expenses, including legal fees, paid in connection with or resulting from any claim, action, or demand against the Released Parties, that arise out of or in any way relate to the breach by Seller of its representations, warranties and obligations in this Agreement, including without limitation any tax liability, and (b) any actual losses or damages (excluding any special, punitive, exemplary, incidental, consequential, indirect, lost profits, diminution in value or other losses based on "multiple of profits", "multiple of earnings" or similar valuation methodology) resulting from such claims, actions, and demands, including amounts paid in settlement or compromise of any such claim, action or demand. 
+   
+ 
+ 
+ 
+ 7 
+ 
+   
+ 
+   
+(b)          Each of the Purchasers hereby release Seller and Seller's parents, subsidiaries, successors, predecessors and affiliates, and each of their respective directors, officers, employees, shareholders, agents, attorneys, insurers, affiliates and assign (collectively, the " Seller Released Parties"), of and from any and all claims, liabilities and obligations, both known and unknown, that arise out of or are in any way related to (1) the ownership of the Transferred Securities, (2) any facts or circumstances relating to the Company or the operation of its business which existed prior to the Effective Date, or (3) the sale of the Transferred Securities to the Purchasers, including without limitation any tax liability of such Purchaser; provided that the foregoing shall not apply to (i) claims, liabilities and obligations pursuant to this Agreement, or (ii) any claim for indemnification by the Released Parties expressly provided for in this Section 9. Each Purchaser, severally and not jointly, agrees to indemnify the Seller Released Parties to the fullest extent permitted by applicable law and to save and hold each of them harmless from and in respect of all (a) reasonable fees, costs, and expenses, including legal fees, paid in connection with or resulting from any claim, action, or demand against the Released Parties, that arise out of or in any way relate to the breach by such Purchaser of its representations, warranties and obligations in this Agreement, and (b) any actual losses or damages (excluding any special, punitive, exemplary, incidental, consequential, indirect, lost profits, diminution in value or other losses based on "multiple of profits", "multiple of earnings" or similar valuation methodology) resulting from such claims, actions, and demands, including amounts paid in settlement or compromise of any such claim, action or demand. 
+   
+ 10.            Miscellaneous . 
+   
+ (a)           Successors and Assigns. This Agreement shall be binding on and inure to the benefit of the parties hereto and their respective successors, heirs, personal representatives and permitted assigns. The Company may assign any of its rights and obligations under this Agreement. No other party to this Agreement may assign, whether voluntarily or by operation of law, any of its rights an d obligations under this Agreement, except with the prior written consent of the Company. 
+   
+ (b)           Notices. Any notice required or permitted by this Agreement shall be in writing and shall be deemed sufficient upon delivery, when delivered personally or by overnight courier or sent by facsimile or e-mail (upon confirmation of receipt), or three (3) days after being deposited in the U.S. mail, as certified or registered mail, with postage prepaid, addressed to the party to be notified as follows: (i) if to Seller, to the address set forth on Seller's signature page hereto, (ii) if to any of the Purchasers, to the address set forth by such  Purchaser's name on  Exhibit A hereto, and (iii) if to the Company, to Silkroad, Inc., Attn: Merri Chandler, 100 South Wacker Drive, Suite 425, Chicago, IL 60606. 
+   
+ (c)           Governing Law. This Agreement will be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to that body of laws pertaining to conflict of laws. 
+   
+ (d)           Amendments and Waivers. This Agreement may be amended only by a written agreement executed by each of the parties hereto. No amendment of or waiver of, or modification of any obligation under this Agreement will be enforceable unless set forth in a writing signed by the party against which enforcement is sought. Any amendment effected in accordance with this section will be binding upon all parties hereto and each of their respective successors and assigns. No delay or failure to require performance of any provision of this Agreement shall constitute a waiver of that provision as to that or any other instance. No waiver granted under this Agreement as to any one provision herein shall constitute a subsequent waiver of such provision or of any other provision herein, nor shall it constitute the waiver of any performance other than the actual performance specifically waived. 
+   
+ 
+ 
+ 
+ 8 
+ 
+   
+ 
+   
+ (e)           Confidentiality. Each of the Purchasers and Seller agrees that it will keep confidential and will not disclose or use for any purpose any information about the terms of this Agreement and the transactions contemplated hereby and any confidential information obtained from the Company in connection herewith, unless any such information (i) is known or becomes known to the public in general (other than as a result of a breach of this Agreement by the disclosing party), or (ii) is or has been made known or disclosed to the disclosing party by a third pa rty without a breach of any confidentiality obligations by such third party;  provided, however, that either Seller or any of the Purchasers may disclose such information (i) to its attorneys, accountants, consultants, and other professionals to the extent necessary to obtain their services in connection with the transfer and ownership of the Transferred Securities; (ii) to any affiliate in the ordinary course of business,  provided that such affiliate agrees to maintain the confidentiality of such information in accordance herewith; or (iii) as may be required by law or regulatory agencies,  provided that the disclosing party promptly notifies the other parties hereto in advance of such disclosure and agrees to cooperate to take reasonable steps to minimize the extent of any s uch required disclosure. 
+   
+ (f)            Further Assurances. The parties agree to execute such further documents and instruments and to take such further actions as may be reasonably necessary to carry out the purposes and intent of this A greement. 
+   
+ (g)           Entire Agreement. This Agreement and the documents referred to herein constitute the entire agreement and understanding of the parties with respect to the subject matter of this Agreement, and supersede all prior understandings and agreements, whether oral or written, between or among the parties hereto with respect to the specific subject matter hereof. This Agreement shal l not be effective until signed by all parties hereto, including the Company. 
+   
+ (h)        Severability. If any provision of this Agreement is determined by any court or arbitrator of competent jurisdiction to be invalid, illegal or unenforceable in any respect, such provision will be enforced to the maximum extent possible given the intent of the parties hereto. If such clause or provision cannot be so enforced, such provision shall be stricken from this Agreement and the remainder of this Agreement shall be enforced as if such invalid, illegal or unenforceable clause or provision had (to the extent not enforceable) never been contained in this Agreement. Notwithstanding the forgoing, if the value of this Agreement based upon the substantial benefit of the bargain for any party is materially impaired, which determination as made by the presiding court or arbitrator of competent jurisdiction shall be binding, then both parties agree to substitute such provision(s) through good faith negot iations. 
+   
+ (i)            Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed and delivered will be deemed an original, and all of which together shall constitute one and the same agreement. This Agreement may be executed and delivered by facsimile or other means of electronic delivery and upon such delivery the signature will be deemed to h ave the same effect as if the original signature had been delivered to the other party. 
+   
+ 
+ 
+ 
+ 9 
+ 
+   
+ 
+   
+ (j)            Specific Enforcement. Unless this Agreement has been terminated, each party to this Agreement acknowledges and agrees that any breach by it of this Agreement shall cause any (or either) of the other parties irreparable harm which may not be adequately compensable by money damages. Accordingly, except in the case of termination, in the event of a breach or threatened breach by a party of any provision of this Agreement, each party shall be entitled to seek the remedies of specific performance, injunction or other preliminary or equitable relief, without having to prove irreparable harm or actual damages. The foregoing right shall be in addition to such other rights or remedies as may be available to any party for such breach or thr eatened breach, including but not limited to the recovery of money damages. 
+   
+ (k)           Costs of Enforcement. If any party to this Agreement seeks to enforce its rights under this Agreement by legal proceedings against any other party to this Agreement, the non-prevailing party or parties named in such legal proceedings shall pay all costs and expenses incurred by the prevailing party or parties, including, without limitation, all reasonable attorneys' fees. 
+   
+ [Remainder of Page Intentionally Blank] 
+   
+ 
+ 
+ 10 
+ 
+   
+ 
+   
+IN WITNESS WHEREOF, the parties have executed this Securities Transfer Agreement as of the Effective Date. 
+   
+ 
+   COMPANY:         Silkroad , I nc .         By:       John Shackleton, Chief Executive Officer 
+   
+ 
+ [S ignature  P age to  S ecurities  T ransfer  A greement ] 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+IN WITNESS WHEREOF, the parties have executed this Securities Transfer Agreement as of the Effective Date. 
+   
+   
+   
+   CROSSROADS CAPITAL, INC .         By:           Name:           Title:           FOUNDATION CAPITAL V, L.P.         By: Foundation Capital Management Co. V, LLC, its Manager         By:       Manager         FOUNDATION CAPITAL V PRINCIPALS FUND, LLC         By: Foundation Capital Management Co. V, LLC, its Manager         By:       Manager         AZURE CAPITAL PARTNERS II, L.P.         By: Azure Capital Partners VC Administrators II, LP, its General Partner         By:           Name:           Title:   
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   AZURE ENTREPRENEURS II, L.P.         By: Azure Capital Partners VC Administrators II, LP, its General Partner         By:           Name:           Title:   
+   
+ 
+ 
+ 13 
+ 
+ 
+   
+ 

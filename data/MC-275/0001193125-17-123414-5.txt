@@ -1,0 +1,62 @@
+ htm 19586 Material contracts 10 2017-04-13T17:00:31.65387-05:00 Filing 0001193125-17-123414 2017-04-13 10-K Annual  & Quarterly Reports 0000884940 STEIN MART INC SMRT COM Nasdaq Global Market 5651 Family Clothing Stores No FLORIDA FLORIDA FLORIDA false Accelerated Filer 000-20052 FORM OF RESTRICTED STOCK AWARD AGREEMENT Exhibit Exhibit 5 d262560dex1010.htm EX-10.10 5 d262560dex1010.htm FORM OF RESTRICTED STOCK AWARD AGREEMENT 
+ Exhibit 10.10 
+ STEIN MART, INC. 
+ 2001 OMNIBUS PLAN 
+ RESTRICTED SHARE AWARD AGREEMENT 
+ THIS AGREEMENT  is made and entered into as of the date set forth on the signature page hereof (the " Grant Date " )  by and between  STEIN MART, INC.,  a Florida corporation  ("Company " ),  and the Participant whose signature is set forth on the signature page hereof (the " Participant " ). 
+ W I T N E S S E T H 
+ WHEREAS,  the Company has adopted the Stein Mart, Inc. 2001 Omnibus Plan  ( " Omnibus Plan " )  and the Stein Mart 2016-2018 Long Term incentive Compensation Plans (the  " Incentive Plans "  and together with the Omnibus, the  " Plans " ), the terms of both of which, to the extent not stated herein, are specifically incorporated by reference in this Agreement; 
+ WHEREAS, the purpose of the Plans is to permit Awards under the Incentive Plans to be granted to certain Participants of the Company and its Affiliates and to further specify the terms and  conditions under which such individuals may receive such Awards; 
+ WHEREAS, the Participant is now employed in an officer, management or advisory capacity and the Company desires him or her to remain in such capacity, to secure or increase his or her owne rship of shares of the Company 's common stock in order to increase his or her incentive and personal interest in the success and growth of the Company; and 
+ WHEREAS, defined terms used herein and not otherwise defined herein shall have the meanings set forth in the Plans. 
+ NOW, THEREFORE, in consideration of the premises and of the covenants and agreements herein set forth, the parties hereby mutually covenant and agree as follows: 
+ 1.      Restricted Share Grant. Subject to the terms and conditions set forth herein, the Company hereby grants to the Participant the number of restricted shares (the  " Restricted Shares ' ) of the Company's common stock set forth on the signature page hereof, at the value per Share set forth on the signature page hereof. 
+ 2.      Nontransferability of Shares. The Restricted Shares are not transferable other than by will or by the laws of descent and distribution. 
+ 3.      Grant and Vesting. 
+ The Restricted Shares subject to this Grant shall Vest as follows (the  " Service Condition " ): One hundred percent (100%) of such Restricted Shares shall vest upon on February 2, 2019 (the " Award Date") if the Participant receiving such award remains employed by the Company on the Award Date. Notwithstanding the foregoing, if a Participant 's employment with the Company is terminated because of a Termination Event (as defined in the Incentive Plan relating to death, disability, retirement at or after the Participant ' s 62 nd birthday, or termination within a certain time following a Change of Control), then the Service Condition shall be deemed to have been met as 
+   
+ 1 
+ 
+ 
+to a portion of the unvested Restricted Shares as equals the percent of the Service Condition which has been met as of the Termination Event. By way of example, if a Participant dies 12 months following the Award Date of the Participation Award, then the Participant (or the Participant ' s estate) will receive 1/3 rd of the Restricted Shares which would otherwise have Vested upon satisfaction of the Service Condition (12 months as a percent of 36 months). 
+ 4.      Certificate Issued. The certificate(s) evidencing the Restricted Shares that are the subject of this Grant are being currently issued, but are subject to forfeiture until they Vest as provided above  and will be treated as outstanding unless and until a forfeiture occurs. 
+ 5.      Rights As Stockholder. The Participant shall have the rights as a holder of the Restricted Shares until and unless and to the extent the Restricted Shares are forfeited and cancelled as provided above; provided, however, that dividends otherwise payable as to such Restricted Shares shall accrue and not be paid unless and until the vesting of the Restricted Shares with respect to  which such dividends have accrued. 
+ 6.      Tax Withholding. 
+(a)    It shall be a condition of the Grant of the Restricted Shares provided herein that the Participant, and the Participant agrees, that the Participant shall pay to the Company upon its demand, such amount as may be requested by the Company for the purpose of satisfying its liability to withhold federal, state, or local income, employment or other taxes incurred by reason of the Grant provided herein or the Vesting thereof. The amount that will be due from the Participant, if any, will be determined at the time the risk of forfeiture is removed and Vesting occurs, or if a Section 83(b) election (defined below) is made, as of the date of this Grant. 
+(b)    In the event that a Section 83(b) election is not made, the Participant may elect to have the Company withhold that number of Restricted Shares otherwise deliverable to the Participant upon the Vesting of the Restricted Shares or to deliver to the Company a number of Shares, in each case, having a  Fair Market Value on the date of Vesting equal to the minimum amount required to be withheld as a result of such exercise. The election must be made in writing and must be delivered to the Company prior to the date of Vesting. If the number of shares so determined shall include a fractional share, the Participant shall deliver cash in lieu of such fractional share. All elections shall be made in a form approved by the committee and shall be subject to disapproval, in whole or in part by the Committee. 
+(c)    The Participant has reviewed with the Participant's own tax advisors the federal, state, local and foreign tax consequences of the transactions contemplated by this Agreement. The Participant is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The Participant understands that the 
+   
+ 2 
+ 
+ 
+Participant (and not the Company) shall be responsible for the Participant's own tax liability that may arise as a result of the transactions contemplated by this Agreement. The Pa rticipant understands that Section 83 of the Internal Revenue Code of 1986, as amended (the  "Code"), taxes as ordinary income the fair market value of the Restricted Shares as of the date any restrictions on the Shares lapse. In this context, "restriction" includes the Vesting conditions set forth in Section 3 hereof. The Participant understands that the Participant may elect to be taxed at the time the Restricted Shares are granted under this Agreement rather than when they become Vested and no longer subject to a substantial risk of forfeiture by filing an election under Section 83(b) of the Code with the I.R.S. within 30 days fro m the date of Grant. 
+THE PARTICIPANT ACKNOWLEDGES THAT IT IS THE PARTICIPANT'S SOLE RESPONSIBILITY AND NOT THE COMPANY'S TO TIMELY FILE THE ELECTION UNDER SECTION 83(b), EVEN IF THE PARTICIPANT REQUEST S THE COMPANY OR ITS REPRESENTATIVES TO MAKE THIS FILING ON THE PARTICIPANT'S BEHALF. 
+ 7.      Powers of Company Not Affected. The existence of the Restricted Shares shall not affect in any way the right or power of the Company or its stockholders to make or authorize any combinations, subdivision or reclassification of the Shares or any reorganization, merger, consolidation, business combination, exchange of Shares, or other change in the Company 's capital structure or its business, or any issue of bonds, debentures or stock having rights or preferences equal, superior or affecting the Option Stock or the rights thereof or dissolution or liquidation of the Company, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise. Nothing in this Agreement shall confer upon the Participant any right to continue in the employment of the Company or any Affiliate, or interfere with or limit in any way the right of the Company or any Affiliate to terminate the Participant's employment at any time. 
+ 8.      Interpretation by Committee. The Participant agrees that any dispute or disagreement which may arise in connection with this Agreement shall be resolved by the Committee, in its sole discretion, and that any interpretation by the Committee of the terms of this Agreement or the Plan and any determination made by the Committee under this Agreement or the Plan may be made in the sole discretion of the Committee and shall be final, binding, and conclusive. Any such determination need not be uniform and may be made differently among Participants awarded Option Stock. 
+ 9.      Miscellaneous. (a) This Agreement shall be governed and construed in accordance with the laws of the State of Florida applicable to contracts made and to be performed therein between residents t hereof. 
+(a)    This Agreement may not be amended or modified except by the written consent of the parties hereto. 
+(b)    The captions of this Agreement are inserted for convenience of reference only and shall not be taken into account in construing this Agreement. 
+(c)    Any notice, filing or delivery hereunder or with respect to Restricted Shares shall be given to the Participant at either his usual work location or his home address as indicated in the records of the Company, and shall be given to the Committee or the Company at 1200 Riverplace Boulevard, Jacksonville, Florida 32202, Attention Corporate Secretary. Al l such notices shall be given by first class mail, postage prepaid, or by personal delivery. 
+   
+ 3 
+ 
+ 
+(d) This Agreement shall be binding upon and inure to the benefit of the Company and its successors and assigns and shall be binding upon and inure to the personal benefit of the P articipant, the Beneficiary and the personal representative(s) and heirs of the Participant. 
+IN WITNESS WHEREOF, the Company has caused this instrument to be executed by its duly authorized officer, and the Participant has hereunto affixed his hand, all on the day and year  set forth below. 
+   
+ 
+   STEIN MART, INC. By:   
+ 
+   
+ D. Hunt Hawkins - President and Chief Operating Officer 
+ Signed Electronically 
+ Name 
+ 
+   
+ 
+ No. of Restricted Shares :    # of Shares Granted 
+ 
+ Grant Date :        Grant Date                                 
+ 
+   
+ 4 

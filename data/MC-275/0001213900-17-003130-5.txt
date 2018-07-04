@@ -1,0 +1,318 @@
+ htm 101806 Material contracts 10 2017-03-31T14:30:56.592523-05:00 Filing 0001213900-17-003130 2017-03-31 10-K Annual  & Quarterly Reports 0000086264 Carbon Natural Gas Co CRBO COM OTC 1311 Crude Petroleum  & Natural Gas No COLORADO DELAWARE DELAWARE ST LAWRENCE SEAWAY CORP false Small Reporting Company 000-02040 UNCONDITIONAL GUARANTY Exhibit Exhibit 5 f10k2016ex10ia_carbonnatural.htm EX-10.1A 5 f10k2016ex10ia_carbonnatural.htm UNCONDITIONAL GUARANTY 
+ Exhibit 10.1(a) 
+   
+ UNCONDITIONAL GUARANTY 
+   
+ THIS UNCONDITIONAL GUARANTY (this " Guaranty") dated as of October 3, 2016, is made by NYTIS EXPLORATION COMPANY LLC, a Delaware limited liability company, NYTIS EXPLORATION (USA) INC., a Delaware corporation, each a Subsidi ary of CARBON NATURAL GAS COMPANY, a Delaware corporation (" Borrower"), whether as an original signatory hereto or as an Additional Guarantor (together with each such Person's permitted successors and permitted assigns, collectively, " Guarantors " and each individually, a " Guarantor"), in favor of LEGACYTEXAS BANK, as administrative agent for the benefit of the Guaranteed Parties, as defined herein (in such capacity, " Administrative Agent"), and is executed and delivered pursuant to that certain Credit Agreement dated as of the date hereof (as the same may be amended, restated or modified from time to time, the " Credit Agreement ") among Administrative Agent, the financial institutions party thereto (the " Lenders ") and Borrower. 
+   
+WHEREAS, Borrower has executed and delivered the Credit Agreement, and to induce the Guaranteed Parties to make the loans and other financial accommodations provided for in the Credit Agreement and any Bank Product Agreements, Guarantors have agreed to guarantee the payment and satisfaction of the Obligations and to execute and deliver this Guaranty; and 
+   
+WHEREAS, each Guarantor is a Subsidiary of Borrower, and each Guarantor desires that the Guaranteed Parties extend credit and make financial accommodations to Borrower as contemplated by the Credit Agreement, and each Guarantor will directly or indirectly benefit from the extensions of credit and financial accommodations for the purposes for which the credit and financial accommodations are being extended pursuant to the Credit Agreement and the Bank Product Agreements; and 
+   
+WHEREAS, each Guarantor, by and through the action of its governing body, has determined that it may reasonably be expected to benefit, directly or indirectly, from guarantying the  Obligations, all as hereinafter provided; 
+   
+NOW, THEREFORE, in consideration of the foregoing, and intending to be legally bound hereby, Guarantors guarantee to the Guaranteed Parties the prompt and full payment and performa nce of the Obligations upon the following terms and conditions: 
+   
+ 1.        Definitions . Capitalized terms used herein which are defined in the Credit Agreement have the meanings provided therefor in the Credit Agreement unless the context hereof otherwise requires or provides. As  used herein: 
+   
+ " Guaranteed Parties " means  the collective reference to Administrative Agent, each Lender, the L/C Issuer, each Bank Product Provider and any other Person the Obligations owing to which are, or are purported  to be, guaranteed under the terms hereof . 
+   
+ " Release Date" means the last to occur of the dates on which Liens securing the Obligations may be released pursuant to Section 11.9(a)(i) of the Credit Agreement. 
+   
+ 
+ 
+ UNCONDITIONAL GUARANTY - Page  1   
+ 
+   
+ 
+ 
+   
+ 2.        Guaranty . 
+   
+(a)       In consideration of loans, advances or other credit heretofore or hereafter granted by the Guaranteed Parties to Borrower pursuant to the Credit Agreement and in further consideration of any Bank Product Agreements, Guarantors hereby, jointly and severally, unconditionally, absolutely and irrevocably, guarantee to the Guaranteed Parties the due and punctual payment at maturity, whether by acceleration or otherwise, and the due fulfillment and performance of the Obligations. Each Guarantor is jointly and severally liable for the full payment and performance of the Obligations as a primary obligor. 
+   
+ (b)       In order to provide for just and equitable contribution among the Guarantors, subject to  Section 6 hereof, the Guarantors agree that in the event a payment shall be made on any date under this Guaranty by any Guarantor (the " Funding Guarantor "), each other Guarantor (each a " Contributing Guarantor") shall indemnify the Funding Guarantor in an amount equal to the amount of such payment, in each case multiplied by a fraction the numerator of which shall be the net worth of the Contributing Guarantor as of such date and the denominator of which shall be the aggregate net worth of all the Contributing Guarantors together with the net worth of the Funding Guarantor as of such date. Any Contributing Guarantor making any payment to a Funding Guarantor pursuant to this  Section 2(b)  shall be subrogated to the rights of such Funding Guarantor to the extent of such payment. 
+   
+ 3.        Payment. If any of the Obligations is not punctually paid when the same becomes due and payable, either by its terms or as a result of the exercise of any power to accelerate, Guarantors shall, immediately on demand and without presentment, protest, notice of protest, notice of nonpayment, notice of intent to accelerate, notice of acceleration or any other notice w hatsoever (all of which are expressly waived in accordance with  Section 4 hereof), pay to Administrative Agent the amount due and payable thereon at its office specified in the Credit Agreement. It is not necessary for Administrative Agent, in order to enforce such payment by Guarantors, first to institute suit or exhaust its remedies against Borrower or others liable on the Obligations, or to enforce its rights against any security given to secure the Obligations. Administrative Agent is not required to mitigate damages or take any other action to reduce, collect or enforce the Obligations. No setoff, counterclaim, reduction or diminution of any obligation, or any defense of any kind which any Guarantor has or may have against Borrower or any Guaranteed Party shall be available hereunder to Guarantors. No payment by any Guarantor shall discharge the liability of Guarantors hereunder until the Obligations have been fully satisfied and the Release Date shall have occurred. If Administrative Agent must rescind or restore any payment, or any part thereof, received by Administrative Agent on any part of the Obligations, any prior release or discharge from the terms of this Guaranty given Guarantors by Administrative Agent or any reduction of any Guarantor's liability hereunder shall be without effect, and this Guaranty shall remain in full force and effect. Each Guarantor shall make all payments hereunder without setoff or counterclaim and free and clear of and without deduction for any taxes, levies, imposts, duties, charges, fees, deductions, withholdings, compulsory loans, restrictions or conditions of any nature now or hereafter imposed or levied by any jurisdiction or any political subdivision thereof or taxing or other authority therein unless such Guarantor is compelled by law to make such deduction or withholding. If any such obligation (other than one arising with respect to taxes based on or measured by the income or profits of the Guaranteed Parties) is imposed upon any Guarantor with respect to any amount payable by it hereunder, such Guarantor will pay to the Administrative Agent, on behalf of the Guaranteed Parties, on the date on which such amount is due and payable hereunder, such additional amount in Dollars as shall be necessary to enable the Guaranteed Parties to receive the same net amount which the Guaranteed Parties would have received on such due date had no such obligation been imposed upon such Guarantor. Each Guarantor will deliver promptly to the Administrative Agent, on behalf of the Guaranteed Parties, certificates or other valid vouchers for all taxes or other charges deducted from or paid with respect to payments made by such Guarantor hereunder. The obligations of each Guarantor under this  Section 3  shall survive the payment in full of the Obligations and termination of this Guaranty. 
+   
+ 
+ 
+ UNCONDITIONAL GUARANTY - Page  2   
+ 
+   
+ 
+ 
+   
+ 4.        Agreements and Waivers . To the extent not prohibited by applicable Law, each Guarantor: 
+   
+(a)       agrees to all terms and agreements heretofore or hereafter made by Borrower with Administrative Agent and/or any other Guaranteed Party; 
+   
+(b)       agrees that Administrative Agent may without impairing its rights or the obligations of such Guarantor hereunder (i) waive or delay the exercise of any of its rights or remedies against or release Borrower or any other Person, including, without limitation, any other Person who is or whose Property is liable with respect to the Obligations or any p art thereof (Guarantors and any such other Person or Persons are hereafter collectively called the  " Sureties "  and each individually called a  " Surety "); (ii) take or accept any other security, collateral or guaranty, or other assurance of the payment of all or any part of the Obligations; (iii) release, surrender, exchange, or subordinate any collateral, property or security, at any time existing in connection with, or assuring or securing payment of, all or any part of the Obligations or the liability of such Guarantor or any other Surety; (iv) increase, renew, extend, or modify the terms of any of the Obligations or any instrument or agreement evidencing the same; (v) apply payments by Borrower, any Surety, or any other Person to any of the Obligations; (vi) bring suit against any one or more Sureties without joining any other Surety or Borrower in such proceeding; (vii) compromise or settle with any one or more Sureties in whole or in part for such consideration or no consideration as Administrative Agent may deem appropriate; or ( viii) partially or fully release any Guarantor or any other Surety from liability hereunder; 
+   
+(c)       agrees that the obligations of such Guarantor under this Guaranty shall not be released, diminished, or adversely affected by any of the following: (i) the insolvency, bankruptcy, rearrangement, adjustment, composition, liquidation, disability, dissolution or lack of power of Borrower or any Surety; (ii) the invalidity, illegality or unenforceability of all or any part of the Obligations or any document or agreement executed in connection with the Obligations, for any reason, or the fact that any debt included in the Obligations exceeds the amount permitted by law; (iii) the fact that any collateral, security, security interest or Lien contemplated or intended to be given, created or granted as security for the repayment of the Obligations is not properly perfected or created, or proves to be unenforceable or subordinate to any other security interest or Lien; (iv) the fact that Borrower has any defense to the payment of all or any part of the Obligations; (v) any payment by Borrower or any Surety to Administrative Agent and/or any other Guaranteed Party is a preference under applicable Debtor Relief Laws, or for any reason Administrative Agent and/or any other Guaranteed Party is required to refund such payment or pay such amounts to Borrower, any such Surety, or someone else; (vi) any defenses which Borrower could assert on the Obligations, including but not limited to failure of consideration, breach of warranty, fraud, accord and satisfaction, strict foreclosure, statute of frauds, bankruptcy, statute of limitations, lender liability and usury; or (vii) any other action taken or  omitted to be taken with respect to the  Credit Agreement, the Loan Documents, the Obligations, the security and the collateral therefor whether or not such action or omission prejudices such Guarantor or any Surety or increases the likelihood that such Guar antor will be required to pay the Obligations pursuant to the terms hereof; 
+   
+(d)       agrees that such Guarantor is obligated to pay the Obligations when due, notwithstanding any occurrence, circumstance, event, action or omission whatsoever whether or not particularly described herein, except for the full and final payment and satisfaction of the Obligations; 
+   
+(e)       waives all rights and remedies now or hereafter accorded by applicable Law to guarantors or sureties, including without limitation any defense, right of offset or other claim which such Guarantor may have against Borrower or which Borrower may have against Administrative Agent and/or the Guaranteed Parties; 
+   
+(f)       waives all notices whatsoever with respect to this Guaranty or with respect to the Obligations, including, but without limitation, notice of (i) Administrative Agent's and/or the Guaranteed Parties' acceptance hereof or its or their intention to act, or its or their action, in reliance hereon; (ii) the present existence, future incurring, or any amendment of the provisions of any of the Obligations or any terms or amounts thereof or any change therein in the rate of interest thereon; (iii) any default by Borrower or any Surety; or (iv) the obtaining, enforcing, or releasing of any guaranty or surety agreement (in addition hereto), pledge, assignment, or other security for any of the Obligations; 
+   
+ 
+ 
+ UNCONDITIONAL GUARANTY - Page  3   
+ 
+   
+ 
+ 
+   
+(g)       waives notice of presentment for payment, notice of protest, protest, demand, notice of intent to accelerate, notice of acceleration and notice of nonpayment, protest in relation to any instrument evidencing any of the Obligations, and any demands and notices required by Law, except as such waiver may be expressly prohibited by Law, and diligence i n bringing suits against any Surety; and 
+   
+(h)       waives each right to which it may be entitled by virtue of the laws of the State of Texas governing or relating to suretyship and guaranties, including, without limitation, any rights under Rule 31, Texas Rules of Civil Procedure, Chapter 51 of the Texas Property Code, Section 17.001 of the Texas Civil Practice and Remedies Code, Section 3.605 of the UCC, and Chapter 43 of the Texas Civil Practice and Remedies Code, as any or all of the same may be amended or construed from time to time, or the common law of the State of Tex as at all relevant times. 
+   
+ 5.        Liability. The liability of each Guarantor under this Guaranty is irrevocable, absolute and unconditional, without regard to the liability of any other Person, and shall not in any manner be affected by reason of any action taken or not taken by Administrative Agent and/or any other Guaranteed Party, which action or inaction is herein consented and agreed to, nor by the partial or complete unenforceability or invalidity of any other guaranty or surety agreement, pledge, assignment or other security for any of the Obligations. No delay in making demand on Sureties or any of them for satisfaction of the liability hereunder shall prejudice Administrative Agent's right to enforce such satisfaction. All of Administrative Agent's rights and remedies shall be cumulative and any failure of Administrative Agent to exercise any right hereunder shall not be construed as a waiver of the right to exercise the same or any other right at any time, and from time to time, thereafter. This is a continuing guaranty of payment, not a guaranty of collection, and this Guaranty shall be binding upon Guarantors regardless of how long before or after the date hereof any of the Obligations were or are incurred. 
+   
+ 6.        Subordination. If Borrower or any other Obligated Party is now or hereafter becomes indebted to one or more Guarantors (such indebtedness and all interest thereon is referred to as the " Affiliated Debt"), such Affiliated Debt shall be subordinate in all respects to the full payment and performance of the Obligations, and no Guarantor shall be entitled to enforce or, during the existence of an Event of Default, receive payment with respect to any Affiliated Debt until the Release Date. Each Guarantor agrees that any Liens, mortgages, deeds of trust, security interests, judgment liens, charges or other encumbrances upon Borrower's or any other  Obligated Party's assets securing the payment of the Affiliated Debt shall be and remain subordinate and inferior to any Liens, security interests, judgment liens, charges or other encumbrances u pon Borrower's or any other  Obligated Party's assets securing the payment of the Obligations, and without the prior written consent of Administrative Agent, no Guarantor shall exercise or enforce any creditor's rights of an y nature against Borrower or any other  Obligated Party to collect the Affiliated Debt (other than demand payment therefor). In the event of the receivership, bankruptcy, reorganization, arrangement, debtor's relief or other insolvency  proceedings involving Borrower or any applicable  Obligated Party as a debtor, Administrative Agent has the right and authority, either in its own name or as attorney-in-fact for any applicable Guarantor, to file such proof of debt, claim, petition or other documents and to take such other steps as are necessary to prove its rights hereunder and receive directly from the receiver, trustee or other court custodian, payments, distributions or other dividends which would otherwise be payable upon the Affiliated Debt. Each Guarantor hereby assigns such payments, distributions and dividends to Administrative Agent, and irrevocably appoints Administrative Agent as its true and lawful attorney-in-fact with authority to make and file in the name of such Guarantor any proof of debt, amendment of proof of debt, claim, petition or other document in such proceedings and to receive payment of any sums becoming distributable on account of the Affiliated Debt, and to execute such other documents and to give acquittances therefor and to do and perform all such other acts and things for and on behalf of such Guarantor as may be necessary in the opinion of Administrative Agent in order to have the Affiliated Debt allowed in any such proceeding and to receive payments, distributions or dividends of or on account of the Affi liated Debt. 
+   
+ 
+ 
+ UNCONDITIONAL GUARANTY - Page  4   
+ 
+   
+ 
+ 
+   
+ 7.        Subrogation. No Guarantor waives or releases any rights of subrogation, reimbursement or contribution which such Guarantor may have, after full and final payment of the Obligations, against others liable on the Obligations. Each Guarantor's rights of subrogation and reimbursement are subordinate in all respects to the rights and claims of Administrative Agent and the other Guaranteed Parties, and no Guarantor may exercise any rights it may acquire by way of subrogation under this Guaranty, by payment made hereunder or otherwise, until the Release Date. If any amount is paid to any Guarantor on account of such subrogation rights prior to the Release Date, such amount shall be held in trust for the benefit of Administrative Agent and/or the other Guaranteed Parties to be credited and applied on the Obligations, whether matured or unmatured. If all Obligations have been paid in full and on the Release Date, there is no proceeding pending to recover any payments made on or transfers of property with respect to the Obligations from Lenders, such trust shall be released. If on the Release Date, any proceeding to recover payments made on or transfers of property with respect to the Obligations from Lenders is pending, such funds shall be held in trust until  the final resolution of such proceeding. 
+   
+ 8.        Other Indebtedness or Obligations of Guarantors. If any Guarantor is or becomes liable for any indebtedness owed by Borrower or any other Obligated Party to the Guaranteed Parties by endorsement or otherwise than under this Guaranty, such liability shall not be affected by this Guaranty, and the rights of Administrative Agent and the Guaranteed Parties hereunder shall be cumulative of all other rights that Administrative Agent and the Guaranteed Parties may have against such Guarantor. The exercise by Administrative Agent of any right or remedy hereunder or under any other instrument or at law or in equity shall not preclude the concurrent or subsequent exercise of any other instrument or remedy at law or in equity and shall not preclude the concurrent or subsequent exercise of any other right or remedy. Further, without limiting the generality of the foregoing, this Guaranty is given by Guarantors as an additional guaranty to all guaranties heretofore or hereafter executed and delivered to Administrative Agent and/or the Guaranteed Parties by Guarantors in favor of Administrative Agent and/or the Guaranteed Parties relating to the indebtedness of Borrower and the other Obligated Parties to the Guaranteed Parties, and nothing herein shall be deemed to replace or be in lieu of any other  of such previous or subsequent guarantees. 
+   
+ 9.        Representations . Each Guarantor represents as follows: 
+   
+(a)       such Guarantor has received, or will receive, direct or indirect benefit from the Obligations and from the making of this Guaranty; 
+   
+(b)       such Guarantor is familiar with, and has independently reviewed the books and records regarding, the financial condition of Borrower and is familiar with the value of any and all Collateral intended to be created as security for the payment of the Obligations, but such Guarantor is not relying on such financial condition, the collateral, or the agr eement of any other party to become a Surety as an inducement to enter into this Guaranty; 
+   
+(c)       neither Administrative Agent, any Guaranteed Party, any Surety, nor any other Person has made any representation, warranty or statement to such Guarantor in order to indu ce such Guarantor to execute this Guaranty; 
+   
+ 
+ 
+ UNCONDITIONAL GUARANTY - Page  5   
+ 
+   
+ 
+ 
+   
+(d)       as of the date hereof, and after giving effect to this Guaranty and the contingent obligation evidenced hereby, such Guarantor is, and will be, Solvent and has not entere d into any transaction with the intent to hinder, delay or defraud a creditor; 
+   
+(e)       the execution, delivery, and performance by such Guarantor of this Guaranty and the other Loan Documents to which such Guarantor is or may become a party and compliance with the terms and provisions hereof and thereof have been duly authorized by all requisite action on the part of such Guarantor and do not and will not (i) violate or conflict with, or result in a breach of, or require any consent under (x) the Constituent Documents of such Person, (y) any applicable Law, rule, or regulation or any order, writ, injunction, or decree of any Governmental Authority or arbitrator, or (z) any agreement or instrument to which such Guarantor is a party or by which it or any of its Properties is bound or subject which could result in a Material Adverse Event, or (ii) constitute a default under any such agreement or instrument which could result in a Material Adverse Event, or result in  the creation or imposition of any Lien upon any of the revenues or assets of such Guarantor; 
+   
+(f)       the governing body of such Guarantor, acting pursuant to a duly called and constituted meeting, after proper notice, or pursuant to a valid unanimous consent, has determi ned that (i) such Guarantor has received, or will receive, direct or indirect benefit from the   Obligations and the making of this Guaranty, and (ii) this Guaranty is in the best interests of such Guarantor; and 
+   
+ (g)       such Guarantor (i) is duly incorporated or organized, as the case may be, validly existing, and in good standing under the Laws of the  jurisdiction of its incorporation or organization , (ii) has all requisite power and authority to own its assets and carry on its business as now being or as proposed to be conducted, and (iii) is qualified to do business in all jurisdictions in which the nature of its business makes such qualification necessary and where failure to so qualify could result in a Material Adverse Event, and (iv) has the power and authority to execute, deliver and perform its obligations under this Guaranty and the other Loan Documents to which it is or may become a party. 
+   
+ 10.        Covenants of Guarantors . So long as the Credit Agreement is in effect and until the Release Date, unless compliance has been waived in writing by Administrative Agent, each Guarantor will 
+   
+(a)       promptly give written notice to Administrative Agent of (i) any action, proceeding or claim of which such Guarantor may have notice, which may be commenced or asserted against such Guarantor or relate to this Guaranty and (ii) any dispute which may exist between such Guarantor and any Governmental Authority, which in either case may substantially a ffect the properties and assets of such Guarantor; 
+   
+ (b)       pay or discharge at or before maturity or before becoming delinquent (i) all taxes, levies, assessments, and governmental charges imposed on it or its income or profits or any of its Property, and (ii) all lawful claims for labor, material, and supplies, which, if unpaid, might become a Lien upon any of its Property;  provided, however, such Guarantor shall not be required to pay or discharge any tax, levy, assessment, or governmental charge which is being contested in good faith by appropriate proceedings dilig ently pursued, and for which adequate reserves in accordance with GAAP have been established ; 
+   
+(c)       allow any representative of Administrative Agent or any Lender to visit and inspect any of its Properties and to examine its books and records in accordance with Section  7.6 of the Credit Agreement; 
+   
+ 
+ 
+ UNCONDITIONAL GUARANTY - Page  6   
+ 
+   
+ 
+ 
+   
+(d)       not wind up, liquidate or dissolve its affairs or enter into any transaction of merger or consolidation unless permitted by Section 8.3 of the Credit Agreement; and 
+   
+ (e)        not Dispose of any of its assets, except in accordance with Section 8.8 of the Credit Agreement. 
+   
+ 11.        Setoff. If an Event of Default exists, Administrative Agent and each Guaranteed Party shall have the right to set off against the Obligations, at any time and without prior notice to any Guarantor (but in any event in accordance with Section 4.3 of the Credit Agreement), any and all deposits (general or special, time or demand, provisional or final) or other sums at any time credited by or owing from Administrative Agent or such Guaranteed Party to such Guarantor whether or not the Obligations under the Loan Documents are then due and irrespective of whether or not such Guaranteed Party shall have made demand under this Guaranty or any other Loan Document and although such Obligations may be contingent or unmatured or denominated in a currency different from that of the applicable deposit or indebtedness. Each Guaranteed Party agrees promptly to notify the affected Guarantor and Administrative  Agent after any such set-off and application made by such Guaranteed Party;  provided ,  however, that the failure to give such notice shall not affect the validity of such set-off and application. 
+   
+ 12.        Costs and Expenses. Guarantors jointly and severally agree to pay to Administrative Agent and the Guaranteed Parties, upon demand, all documented out-of-pocket costs and expenses, including attorneys' fees, that may be incurred by Administrative Agent and the Guaranteed Parties in attempting to cause the Obligations to be satisfied or in attempting to cause satisfaction of Gu arantors' liability under this Guaranty. 
+   
+ 13.        Exercising Rights, Etc. No notice to or demand upon any Guarantor in any case shall, of itself, entitle such Guarantor or any other Guarantor to any other or further notice or demand in similar or other circumstances. No delay or omission by Administrative Agent in exercising any power or right hereunder shall impair such right or power or be construed as a waiver thereof or any acquiescence therein, nor shall any single or partial exercise of any such power preclude other or further exercise thereof, or the exercise of any other right or power hereunder. 
+   
+ 14.        Reference to Credit Agreement;  Incorporation of Certain Provisions by Reference. Reference is hereby made to the representations, warranties and covenants of the Borrower set forth in Articles 6, 7, and 8 of the Credit Agreement which are incorporated herein by reference for all purposes. Each Guarantor (a) reaffirms that each such representation and warranty is true and correct in every material respect with respect to such Guarantor to the extent that such representation and warranty refers to such Guarantor, and (b) agrees, with respect to the covenants, to take, or refrain from taking, as the case may be, each action that is necessary to be taken or not taken, as the case may be, so that no Default or Event of Default is caused by the failure to take such action or to refrain from taking such action by such Guarantor or any of its Subsidiaries. Further, the provisions of Section 12.12 of the Credit Agreement captioned "Governing Law; Venue; Service of Process" and Section 12.18 of the Credit Agreement captioned "WAIVER OF JURY TRIAL" are incorporated herein by reference for all purposes. If the Credit Agreement shall cease to remain in effect for any reason whatsoever during any period and any part of the Obligations remain unpaid, then the terms, covenants, and agreements set forth therein applicable to the Guarantors shall nevertheless continue in full force and effect as obligations of each Guarantor under this Guaranty. 
+   
+ 15.        Notices. All notices and other communications provided for herein shall be in writing and shall be delivered in accordance with Section 12.11 of the Credit Agreement as follows: 
+   
+ (a)       if to Guarantors, at their addresses set forth on the signature pages hereof; and 
+   
+ (b)       if to Administrative Agent, as provided in Schedule 12.11 of the Credit Agreement. 
+   
+ 
+ 
+ UNCONDITIONAL GUARANTY - Page  7   
+ 
+   
+ 
+ 
+   
+ 16.        Benefit; Binding Effect. This Guaranty shall inure to the benefit of Administrative Agent and each other Guaranteed Party and their respective successors and assigns, and to any interest in any of the Obligations. All of the obligations of Guarantors arising hereunder shall be jointly and severally binding on each of the Persons signing this Guaranty, and their respective successo rs and assigns ( provided, however, that no Guarantor may, without the prior written consent of Administrative Agent, in each instance, assign or delegate any of its rights, powers, duties or obligations hereunder, and any attempted assignment or delegation made without Administrative Agent's prior written consent shall be void ab initio and of no force or effect). 
+   
+ 17.        Entirety and Amendments. This Guaranty embodies the entire agreement between the parties and supersedes all prior agreements, conditions, and understandings, if any, relating to the subject matter hereof and thereof, and this Guaranty may be amended only by an instrument in writing executed by Guarantors, Administrative Agent (with the requisite consent, if any, of the Required Le nders or all Lenders in accordance with the Credit Agreement). 
+   
+ 18.        Counterparts. This Guaranty may be executed in one or more counterparts, each of which will be deemed to be an original copy of this Guaranty and all of which, when taken together, will be deemed to constitute one and the same Guaranty. Delivery of an executed counterpart of a signature page of this Guaranty by facsimile or other electronic imaging means (e.g. "pdf" or  "tif") shall be effective as delivery of a manually executed counterpart of this Guaranty. 
+   
+ 19.        Multiple Guarantors .  It is specifically agreed that Administrative Agent may enforce the provisions hereof with respect to one or more Guarantors without seeking to enforce the same as to all or any Gu arantors. If one or more additional guaranty agreements (" Other Guaranties ") are executed by one or more additional guarantors (" Other Guarantors"), which guarantee, in whole or in part, any of the Obligations, it is specifically agreed that Administrative Agent may enforce the provisions of this Guaranty or of the Other Guaranties with respect to one or more of the Guarantors or any one or more of the Other Guarantors under the Other Guaranties without seeking to enforce the provisions of this Guaranty or the Other Guaranties as to all or any of the Guarantors or the Other Guarantors. Each Guarantor hereby waives any requirement of joinder of all or any other Guarantor or all or any of the Other Guarantors in any suit or proceeding to enforce the provisions of this Guaranty or of the Other Guaranties. The liability hereunder of all Guarantors hereunder  shall be joint and several. 
+   
+ 20.        Additional Guarantors. From time to time subsequent to the date hereof, additional Persons may become parties hereto as additional Guarantors (each, an " Additional Guarantor "), by executing a joinder agreement in the form of  Exhibit A  hereto (each, a " Joinder Agreement"). Upon delivery of any such Joinder Agreement to Administrative Agent, notice of which is hereby waived by Guarantors, each Additional Guarantor shall be a Guarantor and shall be as fully a party hereto as if Additional Guarantor were an original signatory hereto. Each Guarantor expressly agrees that its obligations arising hereunder shall not be affected or diminished by the addition or release of any other Guarantor hereunder, nor by any election of Administrative Agent not to cause any Subsidiary of Borrower to become an Additional Guarantor hereunder. This Guaranty shall be fully effective as to any Guarantor that is or becomes a party hereto regardless of whether any other Person becomes or fails to beco me or ceases to be a Guarantor hereunder. 
+   
+ 
+ 
+ UNCONDITIONAL GUARANTY - Page  8   
+ 
+   
+ 
+ 
+   
+ 21.        Maximum Liability.  Anything in this Guaranty to the contrary notwithstanding, the obligations of each Guarantor hereunder shall be limited to a maximum aggregate amount equal to the largest amount that would not render its obligations hereunder subject to avoidance as a fraudulent transfer or conveyance under Section 548 of Title 11 of the United States Code or any applicable  provisions of comparable Law (collectively, the " Fraudulent Transfer Laws"), in each case after giving effect to all other liabilities of such Guarantor, contingent or otherwise, that are relevant under the Fraudulent Transfer Laws (specifically excluding, however, any liabilities of such Guarantor in respect of intercompany indebtedness to other Obligated Parties or Affiliates of other Obligated Parties to the extent that such indebtedness would be discharged in an amount equal to the amount paid or property conveyed by such Guarantor under the Loan Documents) and after giving effect as assets, subject to Section 7, to the value (as determined under the applicable provisions of the Fraudulent Transfer Laws) of any rights to subrogation or contribution of such Guarantor pursuant to (a) applicable Law or (b) any agreement providing for an equitable allocation among such Guarantor and other Obligated Parties of obligations arising under the Loan Documents and B ank Product Agreements. 
+   
+ 22.        ENTIRE AGREEMENT. THIS GUARANTY AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL A GREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES. 
+   
+ [Remainder of Page Intentionally Left Blank; Signature Pages Follow] 
+   
+ 
+ UNCONDITIONAL GUARANTY - Page  9   
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, Guarantors, intending to be jointly and severally legally bound hereby, have executed this Guaranty as of the date and year first above written. 
+   
+ 
+   NYTIS EXPLORATION COMPANY LLC       By: Nytis Exploration (USA) Inc.,     its sole Manager 
+   
+   By:       Patrick R. McDonald     Chief Executive Officer 
+   
+   Address:       2480 Fortune Drive, Suite 300   Lexington, Kentucky  40509 
+   
+   NYTIS EXPLORATION (USA) INC.         By:       Patrick R. McDonald     Chief Executive Officer 
+   
+   Address:       1700 Broadway, Suite 1170   Denver, Colorado  80290 
+   
+   
+  UNCONDITIONAL GUARANTY - Signature Page 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ EXHIBIT A 
+   
+ Form of Guaranty Joinder Agreement 
+   
+ JOINDER AGREEMENT 
+   
+ THIS JOINDER AGREEMENT (this " Joinder Agreement ") is entered into as of ______________, 20___, by the undersigned (" Additional Guarantor "), in favor of LEGACYTEXAS BANK, for the benefit of the Guaranteed Parties (in such capacity, " Administrative Agent "). 
+   
+ WHEREAS, CARBON NATURAL GAS COMPANY, a Delaware corporation (" Borrower"), Administrative Agent and the Lenders party thereto have entered into that certain Credit Agreement dated as of October 3, 2016 (as the same has been or may be amended, restated  or modified from time to time, the " Credit Agreement "); and 
+   
+WHEREAS, pursuant to the Credit Agreement, certain Subsidiaries of Borrower entered into that certain Unconditional Guaranty dated as of October 3, 2016 (as the same has been or ma y be amended, restated or modified from time to time, the " Guaranty") in favor of Administrative Agent for the benefit of the Guaranteed Parties, in order to, among other things, induce the Guaranteed Parties to make the loans and other financial  accommodations provided for in the Credit Agreement and Bank Product Agreements; and 
+   
+WHEREAS, Additional Guarantor is a Subsidiary of Borrower, and Additional Guarantor desires that the Lenders extend credit to Borrower as contemplated by the Credit Agreement, and Additional Guarantor will directly or indirectly benefit from the use of the loan proceeds by Borrower for the purposes for which the credit is being extended pursuant to the Credi t Agreement; and 
+   
+WHEREAS, Additional Guarantor, by and through the action of its governing body, has determined that it may reasonably be expected to benefit, directly or indirectly, from guarantyi ng the Obligations (as defined in the Credit Agreement), all as provided therein; 
+   
+ ACCORDINGLY, Additional Guarantor hereby agrees with Administrative Agent as follows: 
+   
+ 1.           Definitions. All capitalized terms used herein and not otherwise defined shall have the meanings assigned to such terms in the Guaranty. 
+   
+ 2.           Party to Guaranty. Additional Guarantor hereby acknowledges, agrees and confirms that, by its execution of this Joinder Agreement, Additional Guarantor will be deemed to be a party to the Guaranty and a "Guarantor" for all purposes of the Guaranty, and shall have all of the obligations of a Guarantor thereunder as if it had executed the Guaranty. Additional Guarantor hereby ratifies, as of the date hereof, and agrees to be bound by, all of the terms, provisions and conditions applicable to Guarantors contained in the Guaranty. Without limiting the gen erality of the foregoing terms of this  Section 2, Additional Guarantor hereby, jointly and severally with the other Guarantors, unconditionally, absolutely and irrevocably guarantees to the Guaranteed Parties, as provided in the Guaranty, the due and punctual payment at maturity, whether by acceleration or otherwise, and the due fulfillment and performance of the Obligations. Additional Guarantor is jointly and severally liable for the full payment and performance of the Obligations as a primary obligor. 
+   
+ 3.           Address for Notice Purposes. The address of Additional Guarantor for purposes of all notices and other communications is set forth on the signature page hereof. 
+   
+   
+ 
+ EXHIBIT A - Form of Guaranty Joinder Agreement - Page 1 
+   
+ 
+ 
+   
+ 
+   
+ 
+ 
+   
+ 4.           Waiver of Acceptance . Additional Guarantor hereby waives acceptance by  Administrative Agent and the Guaranteed Parties of the guaranty by Additional Guarantor under the Guaranty upon the execution of this Joinder Agreement by Additional Guarantor. 
+   
+ 5.           Representations and Warranties. Additional Guarantor hereby represents and confirms that the representations and warranties set forth in the Guaranty and in the Credit Agreement which are applicable to Guarantors are true and correct with respect to Additional Guarantor on and as of the date hereof (and after giving effect hereto), as if set forth herein in their entirety. 
+   
+ 6.           Severability. Any provision of this Joinder Agreement held by a court of competent jurisdiction to be invalid or unenforceable shall not impair or invalidate the remainder of this Joinder Agre ement and the effect thereof shall be confined to the provision held to be invalid or illegal. 
+   
+ 7.           Counterparts. This Joinder Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Joinder Agreement shall become effective when it shall have been executed by Administrative Agent and when Administrative Agent shall have received counterparts hereof that, when taken together, bear the signatures of each of the other parties hereto. Delivery of an executed counterpart of a signature page of this Joinder Agreement by facsimile or other electronic imaging means (e.g. "pdf" or "tif") shall be effective as delivery of a manually executed counterpart of this Joinder Agreement. 
+   
+ 8.           Governing Law. This Joinder Agreement and any claims, controversy, dispute or cause of action (whether in contract or tort or otherwise) based upon, arising out of or relating to this Joinder Agreement and the transactions contemplated hereby and thereby shall be governed by, and construed in accordance with, the law of the State of Texas (without reference to applicable  rules of conflicts of laws). 
+   
+ 9.           L oan Document. This Joinder Agreement is a Loan Document for all purposes and each reference in any Loan Document to the Guaranty shall mean the Guaranty as supplemented by this Joinder Agreeme nt. 
+   
+ 10.         ENTIRE AGREEMENT. THIS JOINDER AGREEMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQ UENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. 
+   
+   
+ [Remainder of Page Intentionally Left Blank; Signature Pages Follow] 
+   
+   
+ 
+ EXHIBIT A - Form of Guaranty Joinder Agreement - Page 2 
+   
+ 
+ 
+   
+ 
+   
+ 
+ 
+     
+IN WITNESS WHEREOF, the undersigned Additional Guarantor and Administrative Agent have executed this Joinder Agreement as of the date first above written. 
+   
+   ADDITIONAL GUARANTOR:         By:               Name:     Title:   
+   
+   Address:                       Facsimile:   
+ 
+ 
+   
+   
+ 
+ EXHIBIT A - Form of Guaranty Joinder Agreement - Signature Page  
+   
+ 
+ 
+   
+ 
+   
+ 
+ 
+   
+ 
+   
+ ACCEPTED BY: 
+ 
+LEGACYTEXAS BANK, as Administrative Agent 
+ 
+         By:                 Name:     Title:   
+   
+ 
+   
+ 
+ EXHIBIT A - Form of Guaranty Joinder Agreement - Signature Page 
+   
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+   

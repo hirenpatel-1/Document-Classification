@@ -1,0 +1,307 @@
+ htm 67382 Material contracts 10 2017-03-31T15:34:20.495649-05:00 Filing 0001387131-17-001806 2017-03-31 10-K Annual  & Quarterly Reports 0001444706 CROSSROADS CAPITAL, INC. XRDC COMMON Nasdaq Capital Market 6726 Unit Investment Trusts  & Investment Funds, Closed-end COLORADO MARYLAND MARYLAND BDCA VENTURE, INC.;KEATING CAPITAL INC false Small Reporting Company 814-00778 STOCK PURCHASE AGREEMENT, DATED DECEMBER 7, 2016 Exhibit Exhibit 2 ex10-11.htm EX-10.11 2 ex10-11.htm STOCK PURCHASE AGREEMENT, DATED DECEMBER 7, 2016 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ Crossroads Capital, Inc. 10-K 
+ Exhibit 10.11 
+   
+ 
+ EXECUTION VERSION 
+   
+ 
+ STOCK PURCHASE AGREEMENT 
+   
+THIS STOCK PURCHASE AGREEMENT (the "Agreement") is made and entered into as of December __7_, 2016 by and among Novirian Pacific, LP and Novirian Palomar, LP (together, the "Buyers" and each, a "Buyer"), Crossroads Capital, Inc., formerly known as Keating Capital, Inc. ("Seller"), and for purposes of Section 4 only, Centrify Corporation, a Delaware corporati on (the "Company"). 
+   
+ RECITALS 
+   
+A.      Seller owns of record and beneficially 1,084,873 shares of the issued and outstanding Series E Preferred Stock (the "Stock") of the Company; and 
+   
+B.       The Buyers desires to purchase from Seller, and Seller desires to sell to the Buyers, all of the Stock. 
+   
+ AGREEMENT 
+   
+ The Buyers and Seller hereby agree as follows: 
+   
+ 1.         Purchase and Sale of Shares . 
+   
+ 1.1        Purchase and Sale. Subject to the terms and conditions of this Agreement, at the Closing (as hereinafter defined), Seller agrees to sell and transfer to the Buyers, and the Buyers agree to purchase from Seller, an aggregate of 1,084,873 shares of the Stock (the "Transfer Shares"), with Novirian Pacific, LP to purchase 602,755 shares of the Stock and Novirian Palomar, LP to purchase 482,118 shares of the Stock, in each case, at a purchase price of $2.94965401 per share (the "Purchase Price"), or an aggregate purchase price of $1,777,918.70 and $1,422,0 81.30, respectively. 
+   
+ 1.2        Closing. The closing of the purchase and sale of the Transfer Shares (the "Closing") shall take place on 10:00 a.m. (PST) at the offices of DLA Piper LLP (US), 2000 University Avenue, East Palo Alto, California 94043, on the date of this Agreement, or at such other time and place as the Buyers and Seller shall agree in writing. The date of the Closing is hereinafte r referred to as the "Closing Date." 
+   
+ 1.3        Delivery. Subject to the terms and conditions of this Agreement, at the Closing, Seller will deliver to the Buyers the stock certificate or certificates held by Seller representing the Tra nsfer Shares together with a duly executed stock assignment in the form attached hereto as  Exhibit A (the "Stock Assignment Separate From Certificate"), against payment of the Purchase Price therefor by wire transfer of immediately available funds to Seller's account pursuant to  the wiring instructions attached hereto as  Exhibit B. For the avoidance of doubt, Seller shall assign the Transfer Shares in the allocations set forth in Section 1.1 and the Stock Assignment Separate From Certificate but the Company shall be responsible for the issuance of stock certificates to each Buyer representing the Transfer Shares in accordance with Section 4 hereof. 
+   
+ 
+ 
+ 
+ 1 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+ 2.         Assignment of Rights and Obligations. Seller hereby assigns to the Buyers, effective upon the Closing, all of Seller's rights, title and interest under the Fourth Amended and Restated Registration Rights Agreement by and among the Company, Seller and certain other stockholders of the Company dated as of January 14, 2014, as amended by that certain First Amendment to Fourth Amended and Restated Registration Rights Agreement by and among the Company and certain other stockholders of the Company dated as of June 19, 2014 (together, the "Registration Rights Agreement"), the Fourth Amended and Restated Stockholders Agreement by and among the Company, Seller and certain other stockholders of the Company, as amended by that certain Amendment No. 1 to Fourth Amended and Restated Stockholders Agreement by and among the Company and certain other stockholders of the Company dated as of December , 2016 (together, the "Stockholders Agreement"), the Fourth Amended and Restated Voting Agreement by and among the Company, Seller and certain other stockholders of the Company dated as of January 14, 2014, as amended by that certain Amendment No. 1 to Fourth Amended and Restated Voting Agreement by and among the Company and certain other stockholders of the Company dated as of December , 2016 (together, the "Voting Agreement") and the Side Letter Agreement by and between the Company and Seller dated as of May 16, 2014 (the "Letter Agreement", and collectively with the Registration Rights Agreement, the Stockholders' Agreement and the Voting Agreement, in each case, as amended and restated from time to time, the "Stock Documents") to the extent that such rights pertain to the Transfer Shares. The Buyers hereby agree, effective upon the Closing, to be bound by, and to assume all obligations arising on or after the Closing Date under, the Stock Documents, to the extent such obligations pertain to the Transfer Shares and will execute counterpart signature pages to the Stock Documents if requested by the C ompany. 
+   
+ 3.        Representations and Warranties. 
+   
+ 3.1        Representations and Warranties of Seller . Seller hereby represents and warrants to the Buyers as follows: 
+   
+(a)       Seller has the full right, power and authority to enter into and deliver this Agreement, to perform Seller's obligations hereunder and to consummate the transactions contemplated hereby. All corporate action on the part of Seller necessary for the execution of this Agreement and the performance of Seller's obligations hereunder has been taken. This Agreement has been duly executed and delivered by Seller. This Agreement constitutes the valid and binding obligation of Seller, enforceable against Seller in accordance with its  terms. 
+   
+(b)       The execution and delivery of this Agreement by Seller, the consummation of the transactions contemplated in this Agreement, and the compliance with the terms of this Agreement will not, (i) subject to the Company's execution of this Agreement for purposes of Section 4 hereof with respect to the Stock Documents, conflict with, result in the breach of, or constitute a default under, or require any consent or approval under, any agreement or instrument to which Seller is a party or by which Seller may be bound, or (ii) result in the material violation of any law, rule or regulation or any writ, order or decree of any court or governmental agency applicable to Seller. 
+   
+ 
+ 
+ 
+ 2 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+(c)       The sale of the Transfer Shares to the Buyers hereunder is not subject to any preemptive rights or rights of first refusal, tag-along, co-sale or similar rights that have not been properly waived or complied with (i) prior to the date hereof or (ii) pursuant to Section 4 hereof with respect to the Stock Documents. The Stock Documents and in the Seller's actual knowledge, the Company's Certificate of Incorporation and Bylaws, in each case in the forms attached hereto as  Exhibit C, are the only documents, agreements or instruments to which Seller is a party or otherwise subject to that relate to the rights, preferences and privileges of and restrictions on  the Transfer Shares. 
+   
+(d)       Seller is the sole record and beneficial owner of the Transfer Shares and has the full right, power and authority to sell and transfer the Transfer Shares hereunder, free and clear of any suit, proceeding, call, voting trust, proxy, lien, security interest, encumbrance, option, charge, equitable interest or restriction of any kind or nature whatsoever (collectively, "Liens"); provided, however, that the Transfer Shares are and will remain subject to (i) the terms and conditions of the Stock Documents and (ii) restrictions on transfer under applicable state and federal securities laws (such Liens in clauses (i) and (ii) above, "Permitted Liens"). Upon the payment for and the delivery of the Transfer Shares as herein provided, the Buyers will acquire good and valid title to the Transfer Shares, free and clear of any and all Liens other than Permitted Liens. 
+   
+(e)       Seller acknowledges and confirms that (i) Seller has received all the information Seller considers necessary or appropriate for deciding whether to sell the Transfer Shares to the Buyers pursuant to this Agreement, (ii) the Buyers have not made any representation or warranty, express or implied, except as set forth in this Agreement, regarding any aspect of the sale and purchase of the Transfer Shares, the operation or financial condition of the Company or the value of the Transfer Shares, (iii) the Buyers are not making any recommendation as to whether Seller should sell the Transfer Shares to the Buyers, (iv) other than the express representations and warranties stated in this Agreement, Seller is not relying upon the Buyers in making its decision to sell the Transfer Shares to the Buyers pursuant to this Agreement, and (v) the Buyers have not given Seller any investment advi ce, opinion or other information on whether the sale of the Transfer Shares is prudent. 
+   
+(f)        Without limiting the representations and warranties in Section 3.2(i) below, Seller acknowledges that (i) Esfandiar Lohrasbpour, a managing member of the general partner of each of the Buyers, has the right to attend the open sessions of Board meetings of the Company as an observer and as a result thereof has participated in discussions from time to time in open sessions of Board meetings and other meetings regarding, among other things, the Company's operations, business development partners, advisors, including financial advisors, and other third parties, (ii) as a result of the foregoing or otherwise, the Buyers currently may have, and later may come into possession of, information with respect to the Company that is not known to Seller and that may be material to a decision to sell the Transfer Shares ("Seller Excluded Information"), (iii) Seller has determined to sell the Transfer Shares notwithstanding its lack of knowledge of the Seller Excluded Information and (iv) the Buyers shall have no liability to Seller, and Seller waives any claims that it might have against the Buyers whether under applicable securities laws or otherwise, with respect to the nondisclosure of the Seller Excluded Information in connection with the s ale of the Transfer Shares and the transactions contemplated by this Agreement. 
+   
+ 
+ 
+ 
+ 3 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+(g)       Seller hereby acknowledges that from and after the Closing Date, Seller has no rights, as a stockholder of the Company or otherwise, with respect to the Transfer Shares, including with respect to any future sale or acquisition of the Company through a merger, consolidation or otherwise, or the liquidation, dissolution or initial public offering of the Company (any of the foregoing, a "Corporate Event") or any other event regarding the Company or its assets or any future appreciation of the value of the Transfer Shares. Seller further expressly acknowledges that any such Corporate Event or other event may result in the payment by the Company or a third party of assets, funds or other proceeds to the Company's stockholders or an increase in the value of the Company's capital stock such that the value attributed to the Company's capital stock in such Corporate Event or other event (either in an aggregate amount or on a per share basis) may be greater than the Purchase Price. Seller shall not be entitled to any additional consideration of any kind as a result of any Corporate Event or any other event and Seller shall not seek any additional consideration from the Buyers. 
+   
+ 
+ 
+(h)       Other than information that has been provided to Buyer, Seller has no actual knowledge of any event which has had or could reasonably be expected to have a material adverse effect on the assets, business, results of operations or condition (financial or otherwise) of the Company. 
+   
+(i)        Seller has had an opportunity to review the federal, state and local tax consequences of the sale of the Transfer Shares to the Buyers and the transactions contemplated by this Agreement with Seller's own tax advisors. Seller is relying solely on such advisors and not on any statements or representations of the Buyers. 
+   
+ 3.2           Representations and Warranties of Buyers . Each Buyer hereby represents and warrants to Seller as follows: 
+   
+(a)       Such Buyer has the full right, power and authority to enter into and deliver this Agreement, to perform such Buyer's obligations hereunder and to consummate the transactions contemplated hereby. All corporate action on the part of such Buyer necessary for the execution of this Agreement and the performance of such Buyer's obligations hereunder has been taken. This Agreement has been duly executed and delivered by such Buyer. This Agreement constitutes the valid and binding obligation of such Buyer, enforceable against such B uyer in accordance with its terms. 
+   
+(b)       The execution and delivery of this Agreement by such Buyer, the consummation of the transactions contemplated in this Agreement, and the compliance with the terms of this Agreement will not conflict with, result in the breach of, or constitute a default under, or require any consent or approval under, any agreement or instrument to which such Buyer is a party or by which such Buyer may be bound, or result in the material violation of any law, rule or regulation or any writ, order or decree of any court or governmental agency  applicable to such Buyer. 
+   
+(c)       All Transfer Shares to be acquired by such Buyer hereunder will be acquired by such Buyer for such Buyer's own account, for investment and not with a view to, or for resale in connection with, any distribution or public offering thereof within the meaning of the Securities Act of 1933, as amended (the "Securities Act"). 
+   
+ 
+ 
+ 
+ 4 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+(d)       Such Buyer understands that the Transfer Shares have not been registered under the Securities Act by reason of exemption from the registration requirements of the Securities Act contained in Section 4(a)(1) thereof, and that the availability of such exemption depends upon, among other things, the bona fide nature of such Buyer's investment intent a s expressed herein. 
+   
+(e)       Such Buyer further acknowledges and understands that the Transfer Shares acquired by it hereunder must be held indefinitely unless they are subsequently registered under the Securities Act or an exemption from such registration is available. Such Buyer further acknowledges and understands that the Company is under no obligation to register any of the Transfer Shares, except as set forth in the Registration Rights Agreement. Such Buyer understands that the certificate or certificates representing the Transfer Shares will be imprinted with a legend which prohibits the transfer of the Transfer Shares unless they are registered or, in the opinion of counsel satisfactory to the Company, such registration i s not required. 
+   
+(f)        Such Buyer further acknowledges and confirms that (i) such Buyer is capable of bearing the economic risk and burden of its investment in the Transfer Shares, the possibility of a complete loss of all of such investment, and the lack of a public market such that it may not be possible to readily liquidate the investment when desired, (ii) at no time was such Buyer presented with or solicited by any leaflet, public promotional meeting, circular, newspaper or magazine article, radio or television advertisement, or any other form of general advertising, (iii) such Buyer has substantial experience in investing in securities and therefore has the ability to "fend for itself" in connection with its investment in the Transfer Shares, (iv) such Buyer has obtained sufficient information concerning the Company, its business, financial condition and prospects to reach an informed and knowledgeable decision to acquire the Transfer Shares, and (v) although it is the Company's objective to create a public market for the Company's common stock, there can be no assuranc e that such a public market will be created. 
+   
+(g)       Such Buyer acknowledges and confirms that (i) such Buyer has received all the information such Buyer considers necessary or appropriate for deciding whether to purchase the Transfer Shares from Seller pursuant to this Agreement, (ii) Seller has not made any representation or warranty, express or implied, except as set forth in this Agreement, regarding any aspect of the sale and purchase of the Transfer Shares, the operation or financial condition of the Company or the value of the Transfer Shares, (iii) Seller is not making any recommendation as to whether such Buyer should purchase the Transfer Shares from Seller, (iv) other than the express representations and warranties stated in this Agreement, such Buyer is not relying upon Seller in making its decision to purchase the Transfer Shares pursuant to this Agreement, and (v) Seller has not given such Buyer any investment advic e, opinion or other information on whether the purchase of the Transfer Shares is prudent. 
+   
+(h)       Such Buyer is an accredited investor as defined in Rule 501(a) of Regulation D promulgated under the Securities Act. 
+   
+ (i)        Such Buyer has no actual knowledge of any imminent Corporate Event of the Company. 
+   
+ 
+ 
+ 
+ 5 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+ 4.         Company Acknowledgement, Consent, Representations; No Liability. The Company (a) acknowledges the sale and transfer of the Transfer Shares to the Buyers under this Agreement, (b) approves the assignment of Seller's rights and obligations under the Stock Documents, including without limitation under the Letter Agreement (it being agreed that the Buyers will be treated as the "Investor" for all purposes under the Letter Agreement and the Letter Agreement will not terminate as a result of the sale and transfer of the Transfer Shares to the Buyers hereunder), to the Buyers, in each case to the extent that such rights and obligations pertain to the Transfer Shares, (c) represents that no other approval of the Company or its officers, directors or stockholders is required for the consummation of the transactions contemplated by this Agreement under the Stock Documents or otherwise, and (d) confirms that the Company will not require a legal opinion or a "no action" letter or any other agreement, document or instrument in order to effect the sale and transfer of the Transfer Shares to the Buyers under this Agreement. The Company will issue stock certificates to the Buyers as indicated in this Agreement and the Assignment Separate From Certificate within fifteen (15) days following the Closing. The Company is a party to this Agreement solely for purposes of this Section 4 and as transfer agent for the Company's capital stock. Except for any breach of the provisions set forth in this Section 4, the Company will not be liable to Seller or any of the Buyers in connection with the sale and transfer of the Transfer Shares under this Agreement. 
+   
+   5.         Miscellaneous . 
+   
+ 5.1        Governing Law. This Agreement shall be governed in all respects by the laws of the State of California as such laws are applied to agreements between California residents entered into and to be  performed entirely within the State of California. 
+   
+ 5.2        Amendments. No amendment or modification of the terms and conditions of this Agreement shall be valid unless in writing and signed by all parties hereto. 
+   
+ 5.3        Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the transactions contemplated hereby. This Agreement supersedes all prior agreements, understa ndings, negotiations and representations between the parties with respect to such transactions. 
+   
+ 5.4        Successors and Assigns. This Agreement will be binding upon and inure to the benefit of the executors, administrators, heirs, legal representatives, and successors of the parties to this Agreement. 
+   
+ 5.5        Waiver. Any party's failure to enforce any provision of this Agreement shall not in any way be construed as a waiver of any such provision, or prevent that party thereafter from enforcin g each and every other provision of this Agreement. 
+   
+ 5.6        Severable Provisions. The provisions of this Agreement are severable, and if any one or more provisions may be determined to be unenforceable, in whole or in part, the remaining provisions shall never theless be binding and enforceable. 
+   
+ 5.7        Counterparts; Facsimile and PDF Signatures. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. Facs imile and PDF counterpart signature pages to this Agreement shall be acceptable and binding. 
+   
+ 
+ 
+ 
+ 6 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+ 5.8        Further Assurances. Each party shall execute and deliver such additional instruments, documents and other writings as may be reasonably requested by the other party, before or after the Closing, in  order to confirm and carry out and to effectuate fully the intent and purposes of this Agreement. 
+   
+ 5.9        Expenses. The Buyers and Seller shall each bear their own expenses and legal fees incurred in connection with this Agreement and the transactions contemplated hereby. Without limiting the foregoing, the Buyers shall not be liable for any broker's or finder's fee or any other commission directly or indirectly in connection with the transactions contemplated herein. 
+   
+ 5.10      Survival. The representations, warranties, covenants and agreements contained in this Agreement shall survive the Closing regardless of any investigation made by the parties hereto, provided that Seller and the Buyers will have no liability with respect to a breach of any representation or warranty unless on or before the earlier of (a) the four (4) year anniversary of the Closing Date or (b) 11:59 P.M. (Pacific time) on the date on which all applicable statutes of limitation (as the same may be extended or waived) shall have expired, Seller or the Buyers, as applicable, notifies the other party of a claim specifying the factual basis of such claim in reasonable detail. Notwithstanding the foregoing, the aggregate amount of all damages for which any party may be liable under this Agreement shall in no event exceed an aggregate amount equal to the Purchase Price, and no party shall be responsible to any other party for damages under this Agreement that constitute special, incidental, punitive or exemplary damages, nor shall any multiple be applied in the calculation of any  economic damages arising under this Agreement. 
+   
+ 5.11      Confidentiality. The parties (including all of their respective affiliates) shall not disclose the terms of this Agreement to any other party, except (a) as may be required by law or regulatory agencies, (b) by any party to such party's representatives, consultants, counsel, financial advisors, employees, partners, members and investors, in each case, on a confidential basis, or (c) in connection with obtaining any consents required to consummate the transactions contemplated by this Agreement. 
+   
+ [ signature page to follow ] 
+   
+ 
+ 
+ 
+ 7 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date set forth above. 
+   
+   
+ SELLER:  
+ CROSSROADS CAPITAL, INC. (FKA KEATING CAPITAL, INC.) 
+         By:   
+   
+   Name:  Ben Harris 
+   
+   Title: President  & CEO 
+   
+   
+ BUYERS: 
+   
+ NOVIRIAN PACIFIC, LP 
+         By: Novirian Pacific GP, LLC its General Partner         By:       
+ Name: Alessandro Biral 
+ Title: Managing Director 
+ 
+   
+   NOVIRIAN PALOMAR, LP         By: Novirian Partners, LLC its General Partner         By:       
+ Name: Alessandro Biral 
+ Title: Managing Director 
+ 
+   
+   
+ COMPANY: 
+   
+ CENTRIFY CORPORATION 
+         By:       Thomas R. Kemp 
+President and Chief Executive Officer 
+   
+ 
+ 
+ 
+ 8 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date set forth above. 
+   
+   
+ SELLER:  
+ CROSSROADS CAPITAL, INC. (FKA KEATING CAPITAL, INC.) 
+         By:   
+   
+   Name:   
+   
+   Title:   
+   
+   BUYERS:       NOVIRIAN PACIFIC, LP         By: Novirian Pacific GP, LLC its General Partner         By:       
+ Name: Alessandro Biral 
+ Title: Managing Director 
+ 
+   
+   NOVIRIAN PALOMAR, LP         By: Novirian Partners, LLC its General Partner         By:       
+ Name: Alessandro Biral 
+ Title: Managing Director 
+ 
+   
+   COMPANY:         CENTRIFY CORPORATION         By: Thomas R. Kemp     President and Chief Executive Officer 
+   
+ 
+ 
+ 
+ 8 
+ 
+ 
+   
+ 
+ 
+   
+ EXECUTION VERSION 
+   
+ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date set forth above. 
+   
+   
+ SELLER:  
+ CROSSROADS CAPITAL, INC. (FKA KEATING CAPITAL, INC.) 
+         By:   
+   
+   Name:   
+   
+   Title:   
+   
+   BUYERS:       NOVIRIAN PACIFIC, LP       By: Novirian Pacific GP, LLC its General Partner         By:       
+ Name: Alessandro Biral 
+ Title: Managing Director 
+ 
+   
+   NOVIRIAN PALOMAR, LP         By: Novirian Partners, LLC its General Partner         By:       
+ Name: Alessandro Biral 
+ Title: Managing Director 
+ 
+   
+   COMPANY:                   By: \     Thomas R. Kemp 
+President and Chief Executive Officer 
+   
+ 
+ 
+ 
+ 8 
+ 
+ 
+   

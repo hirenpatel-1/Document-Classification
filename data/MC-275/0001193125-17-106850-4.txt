@@ -1,0 +1,47 @@
+ htm 13234 Material contracts 10 2017-03-31T16:32:29.94804-05:00 Filing 0001193125-17-106850 2017-03-31 10-K Annual  & Quarterly Reports 0001605997 Northern Power Systems Corp. NRTHF ORD SHS (CANADA) OTC 3511 Steam, Gas  & Hydraulic Turbines No VERMONT BRITISH COLUMBIA, CANADA Non-US false Small Reporting Company 000-55184 EX-10.16 Exhibit Exhibit 4 d348161dex1016.htm EX-10.16 4 d348161dex1016.htm EX-10.16 
+ Exhibit 10.16 
+ AMENDMENT NO. 2 TO MASTER REVOLVING NOTE 
+ This Amendment No. 2 to Master Revolving Note (" Amendment ") dated as of September 30, 2016, is made between  Northern Power Systems, Inc.  a Delaware corporation (" Borrower ") and  Comerica Bank,  a Texas banking association (" Bank") in order to amend the terms of the $6,000,000.00 Master Revolving Note dated June 30, 2014, made by Borrower to Bank (the " Note "). 
+   
+ 1. Amendment to Note . The Note is amended as follows: 
+(a) The principal amount of the Note is hereby reduced to $2,000,000 and each reference in the Note to "$6,000,000" or "Six Million Dollars" is amended and restated as "$2,000,000"  and "Two Million Dollars" respectively. 
+ (b) The Maturity Date is extended from September 30, 2016 to December 31, 2017. 
+(c) The definition of "Daily Adjusting LIBOR Rate" is hereby modified and replaced in its entirety with the following: 
+ " ' Daily Adjusting LIBOR Rate'  means, for any day, a per annum interest rate which is equal to the quotient of the following: 
+   
+   (a)for any day, the per annum rate of interest determined on the basis of the rate for deposits in United States Dollars for a period equal to one (1) month appearing on Page BBAM of the Bloomberg Financial Markets Information Service as of 11:00 a.m. (London, England time) (or as soon thereafter as practical) on such day, or if such day is not a Business Day, on the immediately preceding Business Day. In the event that such rate does not appear on Page BBAM of the Bloomberg Financial Markets Information Service (or otherwise on such Service) on any day, the "Daily Adjusting LIBOR Rate" for such day shall be determined by reference to such other publicly available service for displaying eurodollar rates as may be reasonably selected by Bank, or, in the absence of such other service, the "Daily Adjusting LIBOR Rate" for such day shall, instead, be determined based upon the average of the rates at which Bank is offered dollar deposits at or about 11:00 a.m. (Detroit, Michigan time) (or as soon thereafter as practical), on such day, or if such day is not a Business Day, on the immediately preceding Business Day, in the interbank eurodollar market in an amount comparable to the principal amount of the Indebtedness outstanding hereunder and for a p eriod equal to one (1) month; 
+ divided by 
+   
+   (b) 
+1.00 minus the maximum rate (expressed as a decimal) on such day at which Bank is required to maintain reserves on "Euro-currency Liabilities" as defined in and pursuant to Regulation D of the Board of Governors of the Federal Reserve System or, if such regulation or definition is modified, and as long as Bank is required to maintain reserves against a category of liabilities which includes eurodollar deposits or includes a category of assets which includes eurodollar loans, the rate at which such reserves are required to be maintaine d on such category; 
+ 
+ 
+ 
+ provided ,  however, and notwithstanding anything to the contrary set forth in this Note, if at any time the Daily Adjusting LIBOR Rate determined as provided above would be less than zero percent (0%), then the Daily Adjusting LIBOR Rate shall be deemed to be zero percent (0%) per annum for all purposes of this Note. Each calculation by Bank of the Daily Adjusting LIBOR Rate  shall be conclusive and binding for all purposes, absent manifest error." 
+ 2.  Defined Terms. Initially capitalized terms used and not defined in this Amendment have the meanings given to them in the Note. 
+ 3.  Payment Application. Borrower acknowledges that one or more Guaranties have been entered into which guarantee a portion of the Indebtedness under the Note. Upon partial satisfaction of the Indebtedness, Borrower expressly waives any right to designate the portion of the Indebtedness that is satisfied by such payment. 
+ 4.  Legal Effect. Except as specifically modified hereby, all of the terms and conditions of the Note remain in full force and effect, provided that in the event of any conflict between the terms  of this Amendment and the terms of the Note, this Amendment shall control. 
+ 5.  No Further Amendment. This Amendment is not an agreement to any further or other amendment of the Note. Borrower expressly acknowledges and agrees that except as expressly amended in this Amendment, the Note, as amended, remains in full force and effect and is ratified and confirmed. The execution of this Amendment shall not be deemed to be a waiver of any Default or Event of D efault. 
+ 6.  Waiver. Borrower waives, discharges, and forever releases Bank, Bank's employees, officers, directors, attorneys, stockholders, and their successors and assigns, from and of any and all claims, causes of action, allegations or assertions that Borrower has or may have had at any time up through and including the date of this Amendment, against any or all of the foregoing, regardless of whether any such claims, causes of action, allegations or assertions are known to Borrower or whether any such claims, causes of action, allegations or assertions arose as result of Bank's actions or omissions in connection with the Note, or any amendments, extensions or modifications thereto, or Bank's administration of the debt govern ed by the Note or otherwise. 
+ 7.  Costs. Borrower is responsible for all costs incurred by Bank, including without limit reasonable attorney fees, with regard to the preparation and execution of this Amendment. 
+ 8.  Counterparts. This Amendment may be executed in one or more counterparts, and by separate parties on separate counterparts, all of which shall constitute one and the same agreement. Facsimile copies of signatures or copies of signatures sent by electronic mail (as a "pdf" or "tif" attachment) shall be treated as manually signed originals for the purposes of this Amendment and the documents to be delivered pursuant to Section 4. Any party delivering an executed counterpart of this Amendment by facsimile or electronic mail also shall deliver a manually executed counterpart of this Amendment, but the failure to deliver a manually executed counterpart shall not affect the validity, enforceability, and binding effect of this Am endment. 
+ [Signature Page Follows] 
+   
+ -2- 
+ 
+ 
+This Amendment No. 2 to Master Revolving Note is executed and delivered as of the date set forth above. 
+   
+ Comerica Bank     Northern Power Systems, Inc. By:   
+ /s/ Song Hu 
+     By:   
+ /s/ Ciel R. Caldwell 
+ Name:   
+ Song Hu 
+     Name:   
+ Ciel R. Caldwell 
+ Title:   VP     Title:   
+ President and Chief Operating Officer 
+ 
+   
+ -3- 

@@ -1,0 +1,452 @@
+ htm 104621 Material contracts 10 2017-03-23T17:01:01.10856-05:00 Filing 0001311605-17-000062 2017-03-23 10-K Annual  & Quarterly Reports 0001311605 KLONDEX MINES LTD KLDX COMMON NYSE MKT 1040 BRITISH COLUMBIA, CANADA BRITISH COLUMBIA, CANADA Non-US false 001-37563 EXHIBIT 10.12 - DEFERRED SHARE UNIT PLAN Exhibit Exhibit 2 exhibit1012-klondexmineslt.htm EX-10.12 2 exhibit1012-klondexmineslt.htm EXHIBIT 10.12 - DEFERRED SHARE UNIT PLAN 
+ 
+ 
+ 
+ 
+ 
+ Exhibit 10.12 
+ 
+ KLONDEX MINES LTD. 
+ 
+ DEFERRED SHARE UNIT PLAN 
+ 
+ EFFECTIVE MAY 13, 2016 
+ 
+ ARTICLE ONE 
+ DEFINITIONS AND INTERPRETATION 
+ 
+ Section 1.01     Definitions: For the purposes of this Plan, unless such word or term is otherwise defined herein or the context in which such word or term is used herein otherwise requires, the following words and terms with the initial letter or letters thereof capitalized shall have the following meanings: 
+ 
+ " Account " has the meaning ascribed to such term in Section 2.04; 
+ " Act " means the   Business Corporations Act   (British Columbia) or its successor, as may be amended from time to time; 
+ " Affiliate" means an affiliate of the Corporation, as the term "affiliate" is defined in paragraph 8 of the Canada Revenue Agency's Interpretation Bulletin IT-337R4,   Retiring Allowances   (Consolidated) [Archived] or any successor publication thereto; 
+ " Applicable Withholding Taxes " has the meaning ascribed to such term in Section 4.01(c); 
+ " Associate" where used to indicate a relationship with any person or company is as defined in the Securities Act (British Columbia), as may be amended from time to time; 
+ " Beneficiary" means, subject to applicable laws, an individual who has been designated by an Eligible Director, as contemplated by Section 3.05, to receive benefits payable under the Plan upon the death of the Eligible Director or, where no such designation is validly in effect at the time of death or where the designated individual does not survive the Eligible Directo r, the Eligible Director's estate; 
+ " Blackout Period" means a period when an Eligible Director is prohibited from trading in the Corporation's securities pursuant to the Corporation's written policies then applicable or a notice in  writing to an Eligible Director by a senior officer or a director of the Corporation; 
+ " Board " means the Board of Directors of the Corporation; 
+ " Business Day" means each day other than a Saturday, Sunday or statutory holiday in Vancouver, British Columbia, Canada or Reno, Nevada; 
+ " Canadian Eligible Director" means an Eligible Director who is resident in Canada for purposes of the Tax Act and/or who is subject to taxation under the Tax Act in respect of any Deferred Share Units awarde d under the Plan; 
+ " Cease Trade Date " has the meaning ascribed to such term in Section 3.04(f); 
+ " Change of Control " means the occurrence of any one or more of the following events: 
+ 
+ (i) 
+ 
+a consolidation, merger, amalgamation, arrangement or other reorganization or acquisition involving the Corporation or any of its Affiliates and another corporation or other entity, as a result of which the holders of Voting Securities prior to the completion of the transaction hold less than 50% of the outstanding Voting Securities of the successor corporat ion after completion of the transaction; 
+ 
+ 
+ 
+ (ii) 
+ 
+the sale, lease, exchange or other disposition, in a single transaction or a series of related transactions, of assets, rights or properties of the Corporation and/or any of its Affiliates which have an aggregate book value greater than 30% of the book value of the assets, rights and properties of the Corporation and its Affiliates on a consolidated basis to  any other person or entity, other than a disposition to a wholly-owned Affiliate in the course 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ of a reorganization of the assets of the Corporation and its Affiliates; 
+ 
+ 
+ (iii) 
+ 
+ a resolution is adopted to wind-up, dissolve or liquidate the Corporation; 
+ 
+ 
+ 
+ (iv) 
+ 
+ any person, entity or group of persons or entities acting jointly or in concert (an " Acquiror") acquires or acquires control (including, without limitation, the right to vote or direct the voting) of Voting Securities which, when added to the Voting Securities owned of record or beneficially by the Acquiror or which the Acquiror has the right to vote or in respect of which the Acquiror has the right to direct the voting, would entitle the Acquiror and/or Associates and/or Affiliates of the Acquiror to cast or to direct the casting of 50% or more of the votes attached to all of the Corporation's outstanding Voting Securities which may be cast to elect directors of the Corporation or the successor corporation (regardless of whether a meeting has been called to elect directors); 
+ 
+ 
+ 
+ (v) 
+ 
+as a result of or in connection with: (A) a contested election of directors; or (B) a consolidation, merger, amalgamation, arrangement or other reorganization or acquisitions invol ving the Corporation or any of its Affiliates and another corporation or other entity (a " Transaction"), fewer than 50% of the directors of the Corporation are persons who were directors of the Corporation immediately prior to such election or the Transaction; or 
+ 
+ 
+ 
+ (vi) 
+ 
+the Board adopts a resolution to the effect that a Change of Control as defined herein has occurred or is imminent. 
+ 
+ 
+ For the purposes of the foregoing, " Voting Securities" means Shares and any other shares entitled to vote for the election of directors and shall include any security, whether or not issued by the Corporation, which are not shares entitled to vote for the election of directors but are convertible into or exchangeable for shares which are entitled to vote for the election of directors including any options or r ights to purchase such shares or securities; 
+ 
+ " Code " means the United States Internal Revenue Code of 1986, as amended; 
+ " Committee" means the Board or, if the Board so determines in accordance with Section 2.03 of the Plan, the committee of the Board authorized to administer the Plan which includes any compen sation committee of the Board; 
+ " Corporation" means Klondex Mines Ltd., a corporation existing under the Act, and includes any successor corporation thereof; 
+ " Deferred Share Unit" means a notional unit credited by the Corporation to the Account of an Eligible Director by way of a bookkeeping entry in the books of the Corporation and administered pursuant to the terms of the Plan, the value of which on a particular date shall be equal to the Market Value at that date; 
+ " Deferred Share Unit Award " means an award of Deferred Share Units under the Plan to an Eligible Director; 
+ " Deferred Share Unit Grant Letter " has the meaning ascribed to such term in Section 3.08; 
+ " Dividend Payment Date " has the meaning ascribed to such term in Section 3.03; 
+ " Dividend Record Date " has the meaning ascribed to such term in Section 3.03; 
+ " Dual Participant " has the meaning ascribed to such term in Section 3.04(k); 
+ " Eligible Director" means a director of the Corporation who does not receive employment income within the meaning of the Tax Act in respect of services rendered to the Corporation or any Affiliate, otherwise than in his or her capacity as a member of the Board or a member of the board of directors of an Affiliate; 
+ " Exchange" means the TSX and any other stock exchange on which the Shares are listed for trading, provided that when used with reference to Market Value, Exchange shall mean the TSX unless  otherwise specified by the Board or Committee; 
+ " Market Value" means, with respect to any particular date, the weighted-average trading price of Shares on the Exchange for the five (5) consecutive Trading Days immediately prior to the date as of which Market Value is determined, provided that: (i) where the Market Value would be determined with reference to a period commencing after a fiscal quarter end of the Corpora tion and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ending prior to the public disclosure of interim financial statements for such quarter (or annual financial statements in the case of the fourth quarter), the calculation of the Market Value will be made with reference to the fifth (5th) Trading Day immediately following the date of public disclosure of the financial statements for that quarter; and (ii) in the event of a Cease Trade Date, Market Value shall be such other value as may be determined pursuant to Section 3.04(f); 
+ " NYSE MKT " means the NYSE MKT; 
+ " Payment Date " has the meaning ascribed to such term in Section 3.04(b); 
+ " Plan " means this Deferred Share Unit Plan, as same may be amended from time to time; 
+ " Redemption Date " has the meaning ascribed to such term in Section 3.04(a); 
+ " Related Company " means a corporation which is related to the Corporation for the purposes of the Tax Act; 
+ " Section 409A" means section 409A of the Code and the Treasury Regulations and Internal Revenue Service guidance promulgated thereunder as in effect from time to time; 
+ " Separation from Service " means a separation from service as defined under Section 409A. 
+ " Shares" means the common shares in the capital of the Corporation, as adjusted in accordance with the provisions of Section 5.07; 
+ " Specified Employee " has the meaning ascribed to such term in Section 3.04(d); 
+ " Tax Act " means the   Income Tax Act   (Canada) and any regulations thereto, as may be amended from time to time; 
+ " Termination Date" means, in respect of an Eligible Director, the earliest date on which both of the following conditions are satisfied: (i) the Eligible Director is not a member of the Board nor a member of the board of directors of an Affiliate; and (ii) the Eligible Director is not an employee, within the meaning of the Tax Act, of the Corporation or an Affiliate ; 
+ " Trading Day " means any date on which the TSX is open for the trading of Shares; 
+ " Treasury Regulations " means the tax regulations issued by the United States Internal Revenue Service; 
+ " TSX " means the Toronto Stock Exchange; 
+ " U.S. Eligible Director" means an Eligible Director subject to tax under the Code in respect of Deferred Share Units awarded under the Plan; and 
+ " Vested Deferred Share Units " has the meaning ascribed to such term in Section 3.02. 
+ Section 1.02     Headings: The headings of all articles, sections and paragraphs in the Plan are inserted for convenience of reference only and shall not affect the construction or interpretation of the Pl an. 
+ 
+ Section 1.03     Context, Construction: Whenever the singular or masculine are used in the Plan, the same shall be construed as being the plural or feminine or neuter or   vice versa   where the context so requires. 
+ 
+ Section 1.04     References to this Plan: The words "herein", "hereby", "hereunder", "hereof" and similar expressions mean or refer to the Plan as a whole and not to any particular article, section, paragraph or other pa rt hereof. 
+ 
+ Section 1.05     Canadian Funds: Unless otherwise specifically provided, all references to dollar amounts in the Plan are references to lawful money of Canada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ARTICLE TWO 
+ PURPOSE AND ADMINISTRATION OF THE DEFERRED SHARE UNIT PLAN 
+ 
+ Section 2.01     Purpose of the Deferred Share Unit Plan: The purpose of the Plan is to assist the Corporation in the recruitment and retention of qualified persons to serve as directors of the Corporation and to align the interests of  Eligible Directors with the long-term interests of the shareholders of the Corporation. 
+ 
+ Section 2.02     Administration of the Deferred Share Unit Plan: The Plan shall be administered by the Committee and the Committee shall have full authority to administer the Plan including the authority to interpret and construe any provision of the Plan and to adopt, amend and rescind such rules and regulations for administering the Plan as the Committee may deem necessary in order to comply with the requirements of the Plan. All actions taken and all interpretations and determinations made by the Committee in good faith shall be final and conclusive and shall be binding on the Eligible Directors and the Corporation. No member of the Committee shall be personally liable for any action taken or determination or interpretation made in good faith in connection with the Plan and all members of the Committee shall, in addition to their rights as directors of the Corporation, be fully protected, indemnified and held harmless by the Corporation with respect to any such action taken or determination or interpretation made in good faith. The appropriate officers of the Corporation are hereby authorized and empowered to do all things and execute and deliver all instruments, undertakings and applications and writings as they, in their absolute discretion, consider necessary for the implementation of the Plan and of the rules and regulations established for administering the Plan. All costs incurred in connection with the Plan shall be for the account of the Corporation. 
+ 
+ Section 2.03     Delegation to Committee: All of the powers exercisable hereunder by the Board may, to the extent permitted by applicable law and as determined by resolution of the Board, be exercised by a committee of the Board comprised of not less than three (3) directors of the Corporation, including any compensation committee of the Board. 
+ 
+ Section 2.04     Record Keeping : The Corporation shall maintain an account for each Eligible Director (an " Account ") in which shall be recorded: 
+ 
+ (a)    the name and address of the Eligible Director; and 
+ 
+ (b) 
+ 
+the number of Deferred Share Units granted to and standing to the credit of the Eligible Director from time to time. 
+ 
+ 
+ Section 2.05     Determination of Eligible Directors and Participation: The Committee shall from time to time determine the Eligible Directors who may participate in the Plan. The Committee shall from time to time determine the Eligible Directors to whom Deferred Share Units shall be granted and the provisions and restrictions with respect to such grant, all such determinations to be made in accordance with the terms and conditions of the Plan, and the Committee may take into consideration the present and potential contributions of and the services rendered by the particular Eligible Director to the suc cess of the Corporation and any other factors which the Committee deems appropriate and relevant. 
+ 
+ ARTICLE THREE 
+ DEFERRED SHARE UNITS 
+ 
+ Section 3.01     Deferred Share Unit Plan : The Plan is hereby established for Eligible Directors. 
+ 
+ Section 3.02     Grant of Deferred Share Units: The Committee may from time to time grant Deferred Share Units to an Eligible Director in such numbers, at such times and on such terms and conditions, consistent with the Plan, as the Committee may in its sole discretion determine to be appropriate in respect of the services the Eligible Director renders as a member of the Board. For greater certainty, the Committee shall, in its sole discretion, determine any and all conditions to the vesting of any Deferred Share Units granted to an Eligible Director, which conditions shall be set out in the Deferred Share Unit Grant Letter. The Committee may in its sole and absolute discretion accelerate and/or waive any vesting or other conditions for all or any Deferred Share Units for any Eligible Director at any time and from time to time, subject to the requirements of paragraph 6801(d) of the regulations to the Tax Act for Canadian Eligible Directors, and provided that any such acceleration of vesting or waiver of any vesting or other conditions shall not accelerate the settlement/payment of such Deferred Share Units, which shall occur upon the Eligible Director's Separation from Service or Termination Date, as the case may be, in accordance with Section 3.04. Deferred Share Units that are fully vested at the time of grant as set forth in the applicable Deferred Share Unit Grant Letter, or that become vested through the satisfaction of any applicable vesting or other cond itions or the waiver of such vesting or other conditions by the Committee, are referred to as " Vested Deferred Share Units ". 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Section 3.03     Payment of Dividend Equivalents: If determined by the Committee in its sole discretion and if set out in the applicable Deferred Share Unit Grant Letter, on the payment date for cash dividends paid on Shares (th e " Dividend Payment Date"), the Account for each Eligible Director shall be credited with additional Deferred Share Units in respect of the number of Deferred Share Units credited to the Eligible Director 's Account as of the record date for payment of such dividends (the " Dividend Record Date"). In such case, the number of additional Deferred Share Units will be equal to (computed to two (2) decimal places) the aggregate amount of dividends that would have been paid to the Eligible Director if the Deferred Share Units in the Eligible Director's Account on the Dividend Record Date had been Shares divided by the Market Value of a Share on the Dividend Payment Date. However, no Deferred Share Units will be credited to an Eligible Director's Account in respect of dividends paid on Shares where the Dividend Record Date relating to such dividends falls after such Eligible Director's Termination Date. Any Deferred Share Units granted pursuant to this Section 3.03 shall have the same vesting and settlement /payment conditions as the underlying Deferred Share Units in the Eligible Director's Account. 
+ 
+ Section 3.04     Redemption of Deferred Share Units 
+ 
+ 
+ (a) 
+ 
+Subject to the remainder of this Section 3.04, Vested Deferred Share Units will be redeemed following a U.S. Eligible Director's Separation from Service or following a Canadian Eligible Director's Termination Date, as applicable, on a date selected by the Committee in its sole discretion, and the Eligible Director shall have no ability to influence, directly  or indirectly, the calendar year in which payment is made (the " Redemption Date"). Vested Deferred Share Units credited to the Eligible Director's Account shall be redeemed and shall be paid by the Corporation to the Eligible Director (or if the Eligible Director has died, to the Eligible Director's Beneficiary) in the form of a lump sum cash payment, less Applicable Withholding Taxes. 
+ 
+ 
+ 
+ (b) 
+ 
+The Market Value of the Deferred Share Units for the purposes of determining the amount to be paid to the Eligible Director upon redemption of Deferred Share Units pursuant to this Section 3.04 shall be determined as of the Redemption Date. Each Deferred Share Unit so redeemed shall entitle the Eligible Director to receive the Market Value in cash in an amount that is rounded down to the nearest cent, less any Applicable Withholding Taxes as deducted, withheld and/or remitted in accordance with Section 4.01(c). The date on which such  cash payment is made to the Eligible Director is the " Payment Date ". 
+ 
+ 
+ 
+ (c) 
+ 
+The Payment Date with respect to Deferred Share Units of U.S. Eligible Directors will in all cases be on or before December 31 st  of the calendar year in which the Separation from Service occurs, or, if later by the date that is 2 Â½ months after the date of the Separation from Service and the Eligible Director shall have no ability to influence, directly or indirectly, the calendar year in which the Payment Date occurs. The Payment Date with respect to Deferred Share Units of Canadian  Eligible Directors will in all cases be on or before December 15 th  of the calendar year following the year in which the Termination Date occurs, and no Payment Date shall occur prior to the Canadian Eligible Director's Termination Date. In selecting the Redemption Date, the Committee will give due consideration to the time required to process the redemption of Deferred Share Units in order to ensure that the Payment Date wi ll occur within the time limitations of this Section 3.04(c). 
+ 
+ 
+ 
+ (d) 
+ 
+It is highly unlikely that a U.S. Eligible Director will be a "specified employee" as that term is defined under Section 409A of the Code (" Specified Employee"). However, if a U.S. Eligible Director is a Specified Employee at the time of his/her Separation from Service, the Payment Date with respect to the Deferred Share Units will not  be before the date that is six months and one day following his or her Separation from Service. 
+ 
+ 
+ 
+ (e) 
+ 
+Notwithstanding any other provision in the Plan giving the Committee discretion to administer the Plan, interpret its terms, or amend or modify the Plan or Deferred Share Unit Awards, the Redemption Date and the Payment Date of Deferred Share Units will be in accordance with this Section 3.04 and will not be accelerated or delayed unless such acceleration or delay is permitted under Section 409A of the Code in respect of U.S. Eligible Directors or under paragraph 6801(d) of the Tax Act in respect of Canadian Eligible Directors. 
+ 
+ 
+ 
+ (f) 
+ 
+In the event that any Redemption Date is after the date on which the Shares ceased to be traded on the Exchange, provided such cessation in trading is not reasonably expected to be  temporary (the " Cease Trade Date"), the Market Value of the Deferred Share Units redeemed by or in respect of the Eligible Director pursuant to Section 3.04(b) shall be determined in accordance with the following : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i) 
+ 
+where the Eligible Director's Termination Date or Separation from Service, as applicable, is before or not more than one (1) year after the last Trading Day before the Cease Trade Date, the value of each Deferred Share Unit credited to the Eligible Director's Account at his or her Redemption Date shall be equal to the Market Value on the last Trading Day bef ore the Cease Trade Date; and 
+ 
+ 
+ 
+ (ii) 
+ 
+where the Eligible Director's Termination Date or Separation from Service, as applicable, is after the date that is more than one (1) year after the last Trading Day before the Cease Trade Date, the value of each Deferred Share Unit credited to the Eligible Director's Account at his or her Redemption Date shall be based on the fair market value of a common share of the Corporation or of a Related Company at his or her Redemption Date as determined on a reasonable and equitable basis by the Committee after receiving the advice of one o r more independent firms of investment bankers of national repute. 
+ 
+ 
+ 
+ (g) 
+ 
+Upon payment of any amount pursuant to this Section 3.04 in satisfaction of Deferred Share Units credited to the Account of an Eligible Director, the particular Deferred Share Units in respect of which such payment was made shall be cancelled and no further payments shall be made from the Plan in relation to such Deferred Share Units. 
+ 
+ 
+ 
+ (h) 
+ 
+Subject to Sections 3.04(c), in the event that an Eligible Director's Redemption Date as determined pursuant to Section 3.04(a) would otherwise fall between a Dividend Record Date and the related Dividend Payment Date, then notwithstanding Section 3.04(a), the Redemption Date shall be the day immediately following such Dividend Payment Date for purposes of recording in the Account of the Eligible Director amounts referred to in Section 3.03, and making the calculation of the Market Value of the vested Deferred Share Units contemplated by Section 3.04(b). Subject to Sections 3.04(c), in the event that the Corporation is unable, by an Eligible Director's Redemption Date, to compute the Market Value of the vested Deferred Share Units recorded in such Eligible Director's Account by reason of the fact that any data required in order to compute the Market Value of a Share has not been made available to the Corporation, then the Redemption Date shall be the next following Trading Day on which such data is made available to the Corporation. 
+ 
+ 
+ 
+ (i) 
+ 
+Subject to Sections 3.04(c), in the event that an Eligible Director's Redemption Date as determined pursuant to Section 3.04(a) falls on or within ten (10) Business Days of the expiration of a Blackout Period applicable to such Eligible Director, then notwithstanding Section 3.04(a), the Redemption Date shall be extended to the earlier of: (i) the close of business on the tenth (10th) Business Day following the expiration of the Blackout Period, and (ii) the latest Payment Date specified in section 3.04(c). 
+ 
+ 
+ 
+ (j) 
+ 
+If the number of outstanding Shares is increased or decreased as a result of a subdivision, consolidation, reclassification or recapitalization and not as a result of the issuance of Shares for additional consideration or by way of a dividend in the ordinary course, the Committee shall  make appropriate adjustments to the number of Deferred Share Units outstanding under the Plan provided that the dollar value of Deferred Share Units credited to an Eligible Director's Account immediately after such an adjustment shall not exceed the dollar value of the Deferred Share Units credited to such Eligible Director's Account immediately prior thereto. Any determinations by the Committee as to the adjustments shall be made in its sole discretion and all such adjustments shall be conclusive and binding for all purposes under th e Plan. 
+ 
+ 
+ 
+ (k) 
+ 
+The following provisions are applicable to Eligible Directors who are both U.S. Eligible Directors and Canadian Eligible Directors (" Dual Participants"). For greater clarity, these forfeiture provisions are intended to avoid adverse tax consequences under Section 409A of the Code and/or under paragraph 6801(d) of the regulations under the Tax Act, that may result because of the different requirements as to the time of settlement of Deferred Share Units with respect to a Dual Participant's Separation from Service and such Dual Participant's Termination Date. Unless it is determined that no adverse tax consequences under either the U.S. tax regime or the Canadian tax regime would result, if a Dual Participant otherwise would be entitled to payment of Deferred Share Units in any of the following circumstances, such Deferred Share Units shall instead be immediat ely and irrevocably forfeited (for greater certainty, without any compensation therefor): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i) 
+ 
+a Dual Participant experiences a Separation from Service upon ceasing to be a director while continuing to provide services as an employee in circumstances that do not constitute a retirement from, or loss of office or employment with, the Corporation or an Affiliate, within the meaning of paragraph 6801(d) of the regulations under the Tax Act; or 
+ 
+ 
+ 
+ (ii) 
+ 
+a Dual Participant experiences a serious disability that continues for more than twenty-nine (29) months in circumstances that constitute a Separation from Service and do not constitute a retirement from, or loss of office or employment with, the Corporation or an Affiliate, within the meaning of paragraph 6801(d) of the regulations under the Tax Act; or 
+ 
+ 
+ 
+ (iii) 
+ 
+a Dual Participant experiences a retirement from, or loss of office or employment with, the Corporation or an Affiliate thereof, within the meaning of paragraph 6801(d) of the regulations under the Tax Act by virtue of ceasing employment as both an employee and as a director, but he or she continues to provide services as an independent contractor such that  he or she has not experienced a Separation from Service. 
+ 
+ 
+ Section 3.05       Designation of Beneficiary: Subject to the requirements of applicable laws, an Eligible Director shall designate in writing a person who is a dependant or relation of the Eligible Director as a Beneficiary to receive any benefits that are payable under the Plan upon the death of such Eligible Director. The Eligible Director may, subject to applicable law, change such designation from time to time. Such designation or change shall be in such written form as may be determined by the Corporation from time to time. The initial designation of each Eligible Director shall be executed and filed with the Committee: (a) in the case of an existing director, within thirty (30) days following the effective date of this Plan, or (b) in the case of a  new director, within thirty (30) days after the Eligible Director's appointment to the Board. 
+ 
+ Section 3.06       Death of Eligible Director: In the event of an Eligible Director's death prior to Separation from Service or Termination Date, as applicable, any and all Deferred Share Units then credited to the Eligible Director's Account shall become payable to the Eligible Director's Beneficiary in accordance with Section 3.05 and, for greater certainty, the date of death shall be deemed to be th e date of the Eligible Director's Separation from Service or Termination Date, as applicable. 
+ 
+ Section 3.07     Market Fluctuation: For greater certainty, no amount will be paid to, or in respect of, an Eligible Director or any person with whom the Eligible Director does not deal at arm's length, within the meaning of the Tax Act, under the Plan or pursuant to any other arrangement, and no additional Deferred Share Units will be granted to an Eligible Director, to compensate the Eligible Director for any downward fluctuations in the price of a Share nor will any other form of benefit be conferred upon, or in respect of, an Eligible Director or any person with whom the Eligible Director does not deal at arm's length, within the meaning of the Tax Act, for such a purpose. 
+ 
+ Section 3.08       Deferred Share Unit Grant Letter: Each grant of a Deferred Share Unit Award under the Plan shall be evidenced by a Deferred Share Unit grant letter to the Eligible Director from the Corporation (a " Deferred Share Unit Grant Letter"). Such Deferred Share Unit Grant Letter shall be subject to all applicable terms and conditions of the Plan and may be subject to any other terms and conditions which are not inconsistent with the Plan and which the Committee deems appropriate for inclusion in a Deferred Share Unit Grant Letter. The provisions of the various Deferred Share Unit Grant Lette rs issued under the Plan need not be identical. 
+ 
+ Section 3.09     Change of Control: If there is a Change of Control, all Deferred Share Units outstanding shall immediately vest on the date of such Change of Control. In any event, upon a Change of Control, Eligible Directors shall not be treated any more favourably than shareholders of the Corporation with respect to the consideration that the Eligible Directors would be entitled to receiv e for their Shares. 
+ 
+ Section 3.10     Termination of Unvested Deferred Share Units: All Deferred Share Units that have not vested prior to the Eligible Director's Separation from Service or Termination Date, as applicable, will terminate and be of no further for ce and effect. 
+ 
+ ARTICLE FOUR 
+ TAXES 
+ 
+ Section 4.01     Taxes and Other Source Deductions : 
+ 
+ 
+ (a) 
+ 
+Neither the Corporation nor its Affiliates shall be liable for any tax imposed on any Eligible Director (or Beneficiary) as a result of the crediting, holding or redemption of Defe rred Share Units or amounts paid or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ credited to such Eligible Director (or Beneficiary). 
+ 
+ 
+ (b) 
+ 
+It is the responsibility of the Eligible Director to complete and file any tax returns which may be required under any applicable tax laws within the period prescribed by such laws . 
+ 
+ 
+ 
+ (c) 
+ 
+The Corporation and each of its Affiliates shall be authorized to deduct, withhold and/or remit from any amount paid or credited hereunder, or otherwise, such amount as may be necessary so as to ensure the Corporation and any Affiliate will be able to comply with the applicable provisions of any federal, provincial, state or local law relating to the withholding of tax or other required deductions, including on the amount, if any, includable in the income of an Eligible Director or Beneficiary, as the case may be (the " Applicable Withholding Taxes "). 
+ 
+ 
+ ARTICLE FIVE 
+ GENERAL 
+ 
+ Section 5.01     Effective Time of Deferred Share Unit Plan: The Plan shall be effective on May 13, 2016. The Plan shall remain in effect until it is terminated by the Board. 
+ 
+ Section 5.02      Amendment and Termination of Deferred Share Unit Plan: Subject to this Article Five, the Plan may be amended, suspended or terminated in whole or in part at any time by the Board or the Committee, as the case may be, provided that no amendment shall be made which would cause the Plan, or any Deferred Share Units granted hereunder, to cease to comply with the requirements of paragraph 6801(d) of the regulations to the Tax Act (as applicable to Canadian Eligible Directors) or any successor provision thereto or with Section 409A (as applicable to US Eligible Directors). 
+ 
+ The Board or the Committee may, in its sole discretion,   make the following amendments to the Plan: 
+ 
+ 
+ (a) 
+ 
+ amend the number of securities under the Plan; 
+ 
+ 
+ 
+ (b) 
+ 
+change the definition of "Eligible Director" under the Plan which would have the potential of narrowing, broadening or increasing insider participation; 
+ 
+ 
+ 
+ (c) 
+ 
+ make amendments to this Section 5.02 of the Plan; or 
+ 
+ 
+ 
+ (d) 
+ 
+make amendments to Section 5.03 of the Plan that would permit Deferred Share Units, or any other right or interest of an Eligible Director under the Plan, to be assigned or transfe rred, other than for normal estate settlement purposes; 
+ 
+ 
+ 
+ (e) 
+ 
+ amendments of a housekeeping nature; 
+ 
+ 
+ 
+ (f) 
+ 
+ the addition or a change to the vesting provisions of a Deferred Share Unit or the Plan; 
+ 
+ 
+ 
+ (g) 
+ 
+ a change to the termination provisions of a Deferred Share Unit or the Plan; 
+ 
+ 
+ 
+ (h) 
+ 
+ amendments to reflect changes to applicable securities laws; and 
+ 
+ 
+ 
+ (i) 
+ 
+amendments to ensure that the Deferred Share Units granted under the Plan will comply with any provisions respecting income tax and other laws in force in any country or jurisdiction of which an Eligible Director to whom a Deferred Share Unit has been granted may from time to time be resident or a citizen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Section 5.03     Assignment and Transfer: Rights and obligations under the Plan may be assigned by the Corporation to a corporate successor in the business of the Corporation, any corporation resulting from any amalgamation, reorganization, combination, merger or arrangement of the Corporation, or any corporation acquiring all or substantially all of the assets or business of the Corporation. In no event may the rights or interests of an Eligible Director under the Plan be assigned, encumbered, pledged, transferred or alienated in any way, except to the extent that certain rights may pass to a Beneficiary upon death of an Eligible Director pursuant to the terms of the Plan. Deferred Share Units are non-transferable. 
+ 
+ Section 5.04     Rights as a Shareholder : No holder of any Deferred Share Units shall have any rights as a shareholder of the Corporation. 
+ 
+ Section 5.05     Unfunded and Unsecured Plan: The Corporation will not contribute any amounts to a third party or otherwise set aside any amounts to fund the benefits that will be provided under the Plan. To the extent any Eligible Director or his or her Beneficiary holds any rights by virtue of a grant of Deferred Share Units under the Plan, such rights (unless otherwise determined by the Board) shal l be no greater than the rights of an unsecured creditor of the Corporation. 
+ 
+ Section 5.06     No Contract of Employment: Nothing contained in the Plan shall confer or be deemed to confer upon any Eligible Director the right to continue in the employment of, or to provide services to, the Corporation or its Affiliates nor interfere or be deemed to interfere in any way with any right of the Corporation or its Affiliates to discharge any Eligible Director at any time for any reason whatsoever, with or without cause. Participation in the Plan by an Eligible Director shall be voluntary. 
+ 
+ Section 5.07     Adjustments and Reorganization: In the event of any subdivision, consolidation or distribution of Shares to the shareholders of the Corporation (excluding by way of dividend payment in the ordinary course or a distribution of Shares under any compensation arrangement of the Corporation or any of its subsidiaries or other Affiliates, that contemplates the issuance of Shares from treasury), or upon a capital reorganization, reclassification, exchange, or other change with respect to the Shares, or a consolidation, amalgamation, arrangement or other form of business combination of the Corporation with another person, or a sale, lease or exchange of all or substantially all of the property of the Corporation or other distribution of the Corporation's assets to shareholders (other than by way of dividend payment in the ordinary course), then the Account of each Eligible Director and the Deferred Share Units outstanding under the Plan shall be adjusted in such manner, if any, as the Board or the Committee deems appropriate in order to preserve, proportionally, the interests of the Eligible Directors under the Plan, provided that the dollar value of Deferred Share Units credited to an Eligible Director's Account immediately after such an adjustment shall not exceed the dollar value of the Deferred Share Units in such Eligible Director's Account immediately prior thereto and provided further that the value of Deferred Share Units shall always depend on the fair market value of Shares (or shares of a Related Company). All adjustments under this Section 5.07 shall, at all times, be in compliance with the provisions of paragraph 6801 (d) of the regulations to the Tax Act and Section 409A. 
+ 
+ Section 5.08     Securities Exchange Take-over Bid: In the event that the Corporation becomes the subject of a take-over bid (within the meaning of the   Securities Act  (British Columbia)) pursuant to which 100% of the issued and outstanding Shares are acquired by the offeror either directly or as a result of the compulsory acquisition provisions of the incorporating statute and where consideration is paid in whole or in part in equity securities of the offeror, the Committee may send notice to all holders of Deferred Share Units requiring them to surrender their Deferred Share Units within ten (10) days of the mailing of such notice, and the holders of Deferred Share Units shall be deemed to have surrendered such Deferred Share Units on the tenth (10th) day after the mailing of such notice without further formality, provided that: 
+ 
+ 
+ (a) 
+ 
+the offeror delivers with such notice an irrevocable and unconditional offer to grant replacement deferred share rights to the holders of Deferred Share Units on the equity securit ies offered as consideration; 
+ 
+ 
+ 
+ (b) 
+ 
+the Committee has determined, in good faith, that such replacement deferred share rights have substantially the same economic value as the Deferred Share Units being surrendered; a nd 
+ 
+ 
+ 
+ (c) 
+ 
+the surrender of Deferred Share Units and the granting of replacement deferred share rights can be effected on a tax deferred basis under the Tax Act and in compliance with Section  409A. 
+ 
+ 
+ Section 5.09     Compliance with Applicable Law: If any provision of the Plan or any Deferred Share Unit contravenes any law or any order, policy, by-law or regulation of any regulatory body having jurisdiction, then such provision shall be deemed to be amended to the extent necessary to bring such provision into compliance therewith. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Section 5.10     Interpretation: This Plan shall be governed by and construed in accordance with the laws of the Province of British Columbia. 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,627 @@
+ htm 137585 Material contracts 10 2017-04-04T15:31:25.867441-05:00 Filing 0001223389-17-000017 2017-04-04 10-K Annual  & Quarterly Reports 0001223389 CONNS INC CONN COMMON Nasdaq Global Market 5731 Radio, Television  & Consumer Electronics Stores Yes TEXAS DELAWARE DELAWARE false Large Accelerated Filer 001-34956 EXHIBIT 10.18.3 Exhibit Exhibit 4 conns01312017ex10183.htm EX-10.18.3 4 conns01312017ex10183.htm EXHIBIT 10.18.3 
+ 
+ 
+ Exhibit 10.18.3 
+ THIRD AMENDMENT TO THIRD AMENDED AND RESTATED 
+LOAN AND SECURITY AGREEMENT 
+ This   THIRD AMENDMENT TO THIRD AMENDED AND RESTATED LOAN AND SECURITY AGREEMENT , dated as of March 31, 2017 (this " Amendment ") is made by and among   CONN'S, INC. , a Delaware corporation (the " Parent "),   CONN APPLIANCES, INC. , a Texas corporation (" CAI "),   CONN CREDIT I, LP , a Texas limited partnership (" CCI "),   CONN CREDIT CORPORATION, INC. , a Texas corporation (" CCCI ", together with CAI and CCI, individually, a " Borrower " and collectively, the " Borrowers"), the banks and other financial institutions identified as "Lenders" on the signature pages hereof (the " Lenders ") and   BANK OF AMERICA, N.A. , a national banking association, as Administrative Agent for the Lenders (" Agent "). 
+ RECITALS 
+ WHEREAS ,  Parent, Borrowers, Agent and Lenders have entered into that certain Third Amended and Restated Loan and Security Agreement, dated as of October 30, 2015 (as amended, modified or su pplemented from time to time, the " Loan Agreement"). All capitalized terms used and not otherwise defined in this Amendment are used as defined in the Loan Agreement. 
+ WHEREAS, Agent and Lenders have agreed to amend certain terms of the Loan Agreement subject to the terms and conditions set forth herein. 
+ NOW ,   THEREFORE, in consideration of the premises and the mutual agreements, representations and warranties herein set forth and for other good and valuable consideration, Parent, Borrowers, Agen t and Lenders hereto hereby agree as follows: 
+ ARTICLE I 
+ DEFINITIONS 
+ Section 1.1 Definitions. Initially capitalized terms used but not otherwise defined in this Amendment have the respective meanings given thereto in the Loan Agreement, as amended hereby. 
+ Section 1.2 Recitals. The Recitals above are incorporated herein as though set forth in full and Parent and Borrowers stipulate to the accuracy of each of the Recitals. 
+ 
+ ARTICLE II 
+ AMENDMENTS TO LOAN AGREEMENT 
+ Section 2.1 Amendment to Cover Page. The cover page to the Loan Agreement is hereby deleted and replaced with the cover page attached hereto as   Exhibit A  and all references to "J.P. Morgan Securities LLC" as Joint Lead Arranger and Joint Bookrunner shall be amended to reflect "JPMorgan Chase Bank, National Association" being named " Co-Syndication Agent", "Joint Bookrunner and Co-Lead Arranger" thereunder. 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Section 2.2 New Definition . The following new definitions are hereby added to   Section 1.1   of the Loan Agreement in alphabetical order to read in its entirety as follows: 
+ Cut-Off Date: with respect to any pool of Contracts to be sold to a Securitization Subsidiary pursuant to a Permitted ABS Transaction, the date that is the latest origination date of any Contr act in such pool. 
+ EBITDA Loss Reserve Shortfall: an amount equal to (if a positive result) the difference between (a) the EBITDA Loss Reserve measured as of the end of any Fiscal Quarter or such other determination date, minus (b) Parent and its Subsidiaries' recorded loss reserve measured as of the end of the same Fiscal Quarter or such other determination date.                 
+ Limited Repurchase Obligations: any obligation of a Person that is a seller of Contracts to a Securitization Subsidiary to repurchase such Contracts arising as a result of a breach of a representation, warranty or covenant, including as a result of a Contract or portion thereof becoming subject to any asserted defense, dispute, offset or counterclaim of any kind as a result of any action  taken by, any failure to take action by or any other event relating to the seller. 
+ 
+ Tax Adjusted EBITDA Loss Reserve Shortfall: an amount equal to (if a positive result) the product of (i) the difference between (a) the EBITDA Loss Reserve measured as of the end of any Fiscal Quarter or such other determination date, and (b) Parent and its Subsidiaries' recorded loss reserve measured as of the end of the same Fiscal Quarter or such other determination date, multiplied by (ii) the greater of (x) 65% and (y) 100% minus the applicable maximum federal tax rate applicable to Parent and its Subsidiaries. 
+      
+ Third Amendment Effective Date : means March 31, 2017. 
+ 
+ 
+ 
+ Section 2.3 Amendments to Section 1.1 . The following definitions set forth in   Section 1.1   of the Loan Agreement are hereby amended and restated in their entirety to read as follows: 
+ Applicable Margin: the margin set forth in the chart below, as determined by reference to the Average Quarterly Availability Percentage for the most recently ended Fiscal Quarter: 
+ 
+ 
+ 
+ Level 
+ 
+ Average Quarterly Availability Percentage 
+ 
+ 
+ Base Rate Revolver Loans 
+ 
+ LIBOR Revolver Loans 
+ 
+ 
+ I 
+ 
+ Greater than 66% 
+ 
+ 1.75% 
+ 
+ 2.75% 
+ 
+ II 
+ 
+ Less than or equal to 66% but greater than 33% 
+ 
+ 2.00% 
+ 
+ 3.00% 
+ 
+ III 
+ 
+ Less than or equal to 33% 
+ 
+ 2.25% 
+ 
+ 3.25% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+The margins shall be subject to increase or decrease on the first day of the calendar month following Agent's determination of the Average Quarterly Availability Percentage. If any Borrowing Base Report has not been received on the due dates thereof, then the margins shall be determined as if Level III were applicable, from such day until the first day of the calendar month following actual receipt and determination of the Average Quarterly Availability Percentage by Agent. 
+Notwithstanding the foregoing, the Applicable Margin shall be set at 2.50% for Base Rate Revolver Loans and 3.50% for LIBOR Revolver Loans as of the Third Amendment Effective Date  until the financial statements and Compliance Certificate delivered by Parent to Agent pursuant to   Section 10.1.2  for the Fiscal Quarter ending October 31, 2017 reflect that Parent has achieved an Interest Coverage Ratio for such Fiscal Quarter of equal to or greater than 1.10:1.00.  Upon satisfaction of this condition and so long as no Event of Default exists, on the next business day the Applicable Margin shall be set based on the Average Quarterly Availability Percentage for the Fiscal Quarter ending October 31, 2017.  Thereafter, the margins shall be subject to increase or decrease on the first day of the calendar month following Agent's dete rmination of the Average Quarterly Availability Percentage. 
+ 
+ Availability Block : $15,000,000;   provided  that such amount shall be reduced to $10,000,000 upon the satisfaction of each of the following conditions: (i) the financial statements and Compliance Certificate delivered by Par ent to Agent pursuant to   Section 10.1.2  for the Fiscal Quarter ending January 31, 2018 reflect that Parent has achieved an Interest Coverage Ratio of equal to or greater than 1.25:1.00, and (ii) no Default or Event of De fault exists at the time of such reduction;   provided ,   further, that such amount shall be reduced to $0 upon satisfaction of each of the following conditions: (1) Borrowers have requested that the Availability Block be reduced to $0 which request may only be made immediately after the financial statements and Compliance Certificate delivered by Parent to Agent pursuant to   Section 10.1.2  for two consecutive Fiscal Quarters reflect that Parent has achieved a minimum Interest Coverage Ratio of at least 2.00:1.00, and (2) no Default or Event of Default exists at the t ime of such reduction.     
+ EBITDA: for any period of measurement, determined on a consolidated basis for Parent and its Subsidiaries derived from financial statements prepared in accordance with GAAP, net income, calculated before (i) Interest Expense, (ii) provision for income taxes, (iii) depreciation and amortization expense, (iv) stock based compensation, (v) gains or losses arising from the sale of capital assets, (vi) any extraordinary gains or losses (in each case, to the extent included in determining net income), (vii) any non-cash asset write-offs relating to construction in process, (viii) non-cash non-recurring losses or expenses (in excess of non-recurring gains) not to exceed 15% of EBITDA for the then ending 4 Fiscal Quarters (as determined prior to giving effect to this clause (viii) and after deducting any amounts added to the calculation of EBITDA under this clause (viii) for the prior 3 Fiscal Quarters), (ix) any increases in loss reserve resulting solely from a Borrower's repurchase of Contracts subject to a Permitted ABS Transaction occurring after such Permitted ABS Transaction has been deconsolidated from the Parent and its Subsidiaries financial statements prepared in accordance with GAAP; (x) any gain or loss from the Ordinary Course of Business sa le of residual interests of cash flows subject to a Permitted ABS Transaction and   provided ,   that  the sum of the proceeds (before offering expenses) received under this clause (x) plus the proceeds (before offering expenses) received from the applicable Permitted ABS Transactio n 
+ 
+ 
+ 3 
+ 
+ 
+ 
+shall at no time be less than 75% of the ABS Contract Balance of the applicable Permitted ABS Transaction on the closing date thereof.     
+ EBITDA Loss Reserve: at any date is the sum of (i) Net Charge-Offs of Parent and its Subsidiaries for the 12-month period ending on the measurement date,   plus  (ii) the positive net change, measured quarterly as compared to the prior quarter, in Net Balances over 180 days past due of Parent and its Subsidiaries for the period ending on the measurement date. EBITDA Loss Reserve shall be calculated based on the Managed Contract Portfolio. 
+ Existing Securitization Facility: (a) the transaction established pursuant to that certain (i) Base Indenture dated as of September 10, 2015 by and between Conn's Receivables Funding 2015-A, LLC, and Wells Fargo Bank, National Association, and (ii) Series 2015-A Supplement to the Base Indenture, dated as of September 10, 2015, by and between Conn's Receivables Funding 2015-A, LLC and Wells Fargo Bank, National Association, (b) the transaction established pursuant to that certain (i) Base Indenture dated as of March 17, 2016, by and between Conn's Receivables Funding 2016-A, LLC, and Wells Fargo Bank, National Association, and (ii) Series 2016-A Supplement to the Base Indenture, dated as of March 17, 2016, by and between Conn's Receivables Funding 2016-A, LLC and Wells Fargo Bank, National Association, (c) the transaction established pursuant to that certain (i) Base Indenture dated as of October 6, 2016, by and between Conn's Receivables Funding 2016-B, LLC, and Wells Fargo Bank, National Association, and (ii) Series 2016-B Supplement to the Base Indenture, dated as of October 6, 2016, by and between Conn's Receivables Funding 2016-B, LLC and Wells Fargo Bank, National Association and (d) any other Permitted ABS Transaction set forth on Schedule 1.1E, which may be updated from time to time with Agent's consent; provided that any reference in this Agreement to "the Existing Securitization Facility" shall be a reference to any of the foregoing. 
+ Fee Letter: the fee letter agreement between Agent and Borrowers dated as of even date herewith, as amended, modified or supplemented from time to time.     
+ Interest Coverage Ratio: the ratio, determined as of the end of any Fiscal Quarter on a consolidated basis for Parent and its Subsidiaries (including EBITDA and Interest Expense under the Existing Securitization Facility and any other Permitted ABS Transactions whether or not consolidated in Parent's financial statements), of (a) EBITDA   less   the EBITDA Loss Reserve Shortfall divided by 4 to (b) Interest Expense.     
+ Interest Expense: with respect to Parent and its Subsidiaries on a consolidated basis, for any period of measurement, the interest expense (net of interest income to the extent not included in the calculation of EBITDA) for such period whether paid or accrued (excluding (i) the amortization of debt discounts, (ii) the amortization of all closing fees incurred with respect to the initial closing of or any amendment to (a) a Permitted ABS Transaction, (b) the HY Notes, (c) the Loan Documents and (d) any other documents evidencing Borrowed Money incurred after the Closing Date payable in connection with the incurrence of Debt to the extent included in interest expense, and (iii) backup servicing fees, field exam and other non-interest expenses but only if such expenses are otherwise deducted from ordinary operating expenses or the definition of EBITDA for covenant calculation purposes,  and including (x) commissions, discounts and other fees and charges incurred in respect of letters of credit, (y) the portion of any payments or accruals with respect to Capital Le ases allocable 
+ 
+ 
+ 4 
+ 
+ 
+ 
+to interest expense and (z) net payments and receipts (if any) pursuant to interest rate Hedging Agreements). 
+ Permitted ABS Agent: the entity acting as trustee or other secured party or pledgee under the Permitted ABS Transaction. 
+ Permitted ABS Documents: the Permitted ABS Financing Agreements, the Permitted ABS Purchase Agreements and all documents, instruments and agreements executed in connection therewith, as the same may be amended, modified, restated or extended from time to time in accordance with the applicable Permitted ABS Intercreditor Agreement. 
+ Permitted ABS Transaction: means any Existing Securitization Facility or any other transaction pursuant to which a direct or indirect Subsidiary of Parent acquires or has the right to acquire by capital contribution or sale Contracts originated or acquired by one or more Borrowers or other Subsidiaries of Parent or a Borrower, which such Subsidiary acquires or has the right to acquire either (i) from time to time for a specified duration or (ii) in one or more contemporaneous transfers that taken together constitute one transaction, for the purpose of pooling such assets and pledging or granting a security interest in such pool to secure indebtedness (whether in the form of a loan or the issuance of securities, certificates or notes) or depositing such pool with a trustee for the purpose of issuing certificates or other instruments representing a beneficial interest in the assets of a trust, in each case, which transactions have been approved by Agent so long as (a) all cash proceeds of the related transaction (net of reasonable costs and expenses and collections on Contracts transferred pursuant to such transaction received after the applicable Cut-Off Date) are applied to repay an aggregate principal amount of Revolver Loans at least equal to the aggregate principal amount of Revolving Loans outstanding on the applicable Cut-Off Date with respect to the pool of Contracts being transferred (or, in the event such amount of Revolver Loans are not so repaid, the requirements in clauses (w) through (z) below are satisfied), (b) such transactions are entered into without recourse to any Obligor, other than Limited Repurchase Obligations and customary representations, warranties, covenants and indemnities made in connection with such transactions, (c) the then effective advance rate obtained in such transaction for the financing of Contracts by the Securitization Subsidiary is greater than the then applicable advance rates for such Contracts under this Agreement, and (d) the terms of such transaction are entered into pursuant to documentation in form and substance satisfactory to Agent;   provided ,   however, that in the event it is projected that the Revolver Loans will not be paid in full as set forth in clause (a) hereof, then the following additional requirements shall apply: (w) Agent has received at least 30 days (or such shorter time period as agreed to by the Agent) notice of the transfer of Contracts under such transaction, (x) at least 20 days (or such shorter time period as Agent may agree) prior to the transfer of Contracts under such transaction, Agent has received copies of all material documentation related to such transaction, including selection criteria and methodology, (y) at least 5 days (or such shorter time period as Agent may agree) prior to the transfer of Contracts under any such transaction in which fewer than 97.5% of the Contracts owned by the Obligors at such time are contributed or sold to a Securitization Subsidiary, Agent has received evidence acceptable to Agent that the sale Contracts are randomly selected from the Contracts owned by the Obligors that are eligible to be advanced against under such transaction (it being understood that, for purposes of determining whether the sale Contracts are randomly selected, any Securitized Contracts with respect to any other Permitted ABS Transaction that are assigned and  transferred to a Borrower upon the termination of such 
+ 
+ 
+ 5 
+ 
+ 
+ 
+Permitted ABS Transaction shall be disregarded so long as such Contracts are not Eligible Contracts), or after effect of such transaction the Collateral shall, in the Agent's determination, remain consistent in all material respects as was prior to such transaction, and (z) at least one day (or such shorter time period as Agent may agree) prior to the transfer of Contracts under such transaction, Agent has received an Availability statement evidencing data immediately before and after giving effect to such transaction, which data shal l be in form and substance satisfactory to Agent. 
+ Restrictive Agreement : an agreement (other than a Loan Document,  any Permitted ABS Document entered into by a Securitization Subsidiary and any Organic Document of any Securitization Subsidiary) that conditions or restricts the right of any Borrower, its Subsidiaries or other Obligor to incur or repay Borrowed Money, to grant Liens on any assets in favor of Agent, to declare or make Distributions, to modify, extend or ren ew any agreement evidencing Borrowed Money, or to repay any intercompany Debt. 
+ Revolver Termination Date : October 30, 2019. 
+ Securitized Contracts: the Contracts and related security which (i) in connection with a Permitted ABS Transaction in which less than 97.5% of the Contracts owned by the Obligors at such time are contributed or sold to a Securitization Subsidiary, have been allocated to a Securitization Subsidiary under a Contract Allocation Agreement and sold by a Borrower to a Securitization Subsidiary pursuant to a Permitted ABS Purchase Agreement, (ii) in connection with a Permitted ABS Transaction in which at least 97.5% of the Contracts owned by the Obligors at such time are contributed or sold to a Securitization Subsidiary, have been sold by a Borrower to a Securitization Subsidiary pursuant to a Permitted ABS Purchase Agreement or (iii) ha ve been contributed to a Securitization Subsidiary by a Borrower with the consent of Agent." 
+ Tangible Net Worth: at any date means an amount equal to: (i) the net book value (after deducting related depreciation, obsolescence, amortization, valuation and other proper reserves) at which the Adjusted Tangible Assets of a Person would be shown on a balance sheet at such date in accordance with GAAP,   less  (ii) the amount at which such Person's liabilities would be shown on such balance sheet, and including as liabilities all reserves for contingencies and other potential liabilities , in each case, in accordance with GAAP,   less   (iii) for purposes of calculating the financial covenants in   Section 10.3.2   and   10.3.3 , the Tax Adjusted EBITDA Loss Reserve Shortfall at such date. 
+ Section 2.4 Amendment to Section 10.1.2 .   Section 10.1.2(k)   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+ (k)    together with each Compliance Certificate delivered pursuant to   Section 10.1.2(d)(i), a report of ABS Contract Balance, ABS Contract Book Value, ABS Gross Residual Interest and ABS Net Book Value with respect to each Securitization Subsidiary measured as of the en d of each Fiscal Quarter of Parent; and 
+ Section 2.5 Amendment to Section 10.1.12 .   Section 10.1.12  of the Loan Agreement is hereby amended by (a) deleting the phrase "in any way" appearing in the second sentence thereof and (b) inserting the phrase "in any material respect" imme diately after the word "modify" in the second sentence thereof. 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ Section 2.6 Amendment to Section 10.2.1 .   Section 10.2.1(j)   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+(j)    Debt incurred by a Securitization Subsidiary pursuant to one or more Permitted ABS Transactions so long as at or prior to the transfer of Contracts under any such transactio n, the applicable Permitted ABS Agent has entered into a Permitted ABS Intercreditor Agreement; 
+ Section 2.7 Amendment to Section 10.2.2 .   Section 10.2.2(n)   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+(n) Liens on the Securitized Contracts of a Securitization Subsidiary and Liens on the assets of a Securitization Subsidiary, in each case, in favor of a Permitted ABS Agent and su bject to a Permitted ABS Intercreditor Agreement; 
+ Section 2.8 Amendment to Section 10.2.7 .   Section 10.2.7(d)   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+(d) as long as no Default or Event of Default exists, intercompany loans by (w) any Borrower to another Borrower, (x) any Guarantor to another Guarantor, (y) any Obligor that is not a Borrower to a Borrower so long as the Debt is Subordinated Debt, and (z) any non-Obligor Subsidiary of Parent to another non-Obligor Subsidiary of Parent; 
+ Section 2.9 Amendment to Section 10.2.9 .   Section 10.2.9   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+ 10.2.9   Fundamental Changes . 
+(a)    Merge, combine or consolidate with any Person, or liquidate, wind up its affairs or dissolve itself, in each case whether in a single transaction or in a series of related transactions, except (i) Parent and its Subsidiaries may engage in Permitted Acquisitions, (ii) any non-Obligor Subsidiary may be merged into or consolidated with, or transfer all or substantially all of the its property to, (1) any Borrower or Guarantor (other than Parent), so long as such Borrower or such Guarantor is the surviving entity, or (2) another non-Obligor Subsidiary, (ii) any Borrower or Guarantor (other than Parent) may merge into or consolidate with any other Borrower so long as a Borrower is the surviving entity, (iii) any Guarantor (other than Parent) may merge into or consolidate with any other Guarantor (other than Parent) and (iv) any Subsidiary (other than an Obligor) may liquidate or dissolve so long as (1) such Subsidiary determines in good faith that such liquidation or dissolution is in its best interest and (2) such liquidation or dissolution will not materially  disadvantage the Secured Parties, taken as a whole; 
+(b)    Without providing the Agent at least thirty (30) days' prior written notice thereof (or such shorter period as the Agent may agree), (i) change its name or conduct business under any fictitious name (ii) change its tax, charter or other organizational identification number or (iii) change its entity type or state of organization). 
+ Section 2.10 Amendment to Section 10.2.15 .   Section 10.2.15   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 10.2.15   Hedging Agreements. Enter into any Hedging Agreement, except (i) to hedge risks arising in the Ordinary Course of Business and (ii) any Hedging Agreement entered into by a Securitization Subsidiary  in connection with a Permitted ABS Transaction, in each case not for speculative purposes. 
+ Section 2.11 Amendment to Section 10.2.17 .   Section 10.2.17   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+ 10.2.17   Affiliate Transactions. Enter into or be party to any transaction with an Affiliate, except (a) transactions contemplated by the Loan Documents; (b) payment of reasonable compensation to officers and em ployees for services actually rendered, and loans and advances permitted by   Section 10.2.7; (c) payment of customary directors' fees and indemnities; (d) transactions solely among Obligors; (e) transactions with Affiliates that were consummated prior to the Closing Date, as shown on Schedule 10.2.17; (f) transactions with Affiliates in the Ordinary Course of Business, upon fair and reasonable terms fully disclosed to Agent and no less favorable than would be obtained in a comparable arm's-length transaction with a non-Affiliate; (g) entry into a Permitted ABS Purchase Agreement, a Contract Allocation Agreement and Permitted Originator Notes and all transactions contemplated thereunder; (h) entry into a guaranty of any HY Notes facility as permitted under   Section 10.2.1(n)  and all transactions contemplated thereunder; (i) servicing agreements and administration agreements, and all transactions contemplated thereunder, entered into in connection with a Permitted ABS Transaction; (j) transactions solely among non-Obligor Subsidiaries; and (k) any Investment not prohibited by   Section 10.2.5   or any transaction not prohibited by   Section 10.2.9 . 
+ Section 2.12 Amendment to Section 10.2.21 .   Section 10.2.21   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+ 10.2.21   Amendment to Permitted ABS Documents. Permit any amendment, modification or other change in the Permitted ABS Documents or any related instrument or agreement, if it results in any covenants, terms or conditions that are more restrictive or burdensome for the Borrowers and would otherwise be adverse to the interests of the Secured Parties. Borrowers shall promptly provide written notice of any  such amendments to the Agent. 
+ Section 2.13 Amendment to Section 10.3.1 .   Section 10.3.1   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+ 10.3.1   Minimum Interest Coverage Ratio. Commencing with the Fiscal Quarter ending April 30, 2016, maintain an Interest Coverage Ratio at least the ratio set forth below for each Fiscal Quarter, measured on a quarterly  basis as of the last day of each Fiscal Quarter: 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Quarter Ending 
+ 
+ Minimum Interest Coverage Ratio 
+ 
+ April 30, 2016 
+ 
+ Not Tested 
+ 
+ July 31, 2016 
+ 
+ 1.00:1.00 
+ 
+ October 31, 2016 
+ 
+ 1.00:1.00 
+ 
+ January 31, 2017 
+ 
+ 1.00:1.00 
+ 
+ April 30, 2017 
+ 
+ Not Tested 
+ 
+ July 31, 2017 
+ 
+ 0.80:1.00 
+ 
+ October 31, 2017 
+ 
+ 1.10:1.00 
+ 
+ January 31, 2018 
+ 
+ 1.25:1.00 
+ 
+ April 30, 2018 
+ 
+ 1.25:1.00 
+ 
+ July 31, 2018 
+ 
+ 1.25:1.00 
+ 
+ October 31, 2018 
+ (and each Fiscal Quarter thereafter) 
+ 
+ 1.25:1.00 
+ 
+   
+ 
+   
+ 
+ 
+ 
+Notwithstanding the above, once the Availability Block is reduced to $0, the minimum Interest Coverage Ratio requirement for the Fiscal Quarter in which such reduction occurs and f or all Fiscal Quarters thereafter shall be 2.00:1.00. 
+ Section 2.14 Amendment to Section 10.4.2 .   Section 10.4.2   of the Loan Agreement is hereby amended by deleting the word "immediately" appearing therein. 
+ Section 2.15 Amendment to Section 10.4.6 .   Section 10.4.6   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+ 10.4.6    Notwithstanding the foregoing, (i) Borrowers' rights under this   Section 10.4  may be exercised not more than two times during the term of this Agreement, and (ii) the amount of each investment of Curative Equity may not be less than $1,000,000 or greater tha n $20,000,000. 
+ Section 2.16   Amendment to Section 10.7 .   Section 10.7   of the Loan Agreement is hereby deleted in its entirety and the following is substituted therefor: 
+ 10.7     Minimum Cash Recovery Percent. As long as any Revolver Commitments or Obligations are outstanding, Parent shall, on a consolidated basis with its Subsidiaries, maintain a Cash Recovery Percent in a percentage greater than (i) 4.45%, measured monthly as of the last day of each of the first 9 months of each Fiscal Year and (ii) 4.20%, measured monthly as of the last day of each of the las t 3 months of each Fiscal Year.     
+ Section 2.17   Amendment to Schedule 1.1 .   Schedule 1.1   of the Loan Agreement is hereby deleted and replaced with   Schedule 1.1   attached hereto as Exhibit B. 
+ ARTICLE III 
+ REPRESENTATIONS AND WARRANTIES; NO DEFAULT 
+ Section 3.1 Representations and Warranties; No Default. Each of the Parent and the Borrowers, hereby represents and warrants as of the effectiveness of this Amendment that: 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ (a) no Default or Event of Default exists; and 
+ (b)      its representations and warranties set forth in   Section 9  of the Loan Agreement (as amended hereby) are true and correct as of the date hereof, as though made on and as of such date (except to the extent such representations and warrantie s relate solely to an earlier date and then as of such earlier date). 
+ ARTICLE IV 
+ CONDITIONS TO EFFECTIVENESS 
+ Section 4.1 Conditions to Effectiveness. This Amendment (and the consents and waivers set forth herein) shall become effective, as of the date first set forth above upon receipt by the Agent of: 
+ (a)      Executed counterparts hereof from Parent, the Borrowers and each of the Required Lenders; 
+ (b)      A reaffirmation of its obligations under the Guaranty, duly executed by each Guarantor; 
+ (c)      An executed Third Amendment to Fee Letter in form and substance satisfactory to Agent; and 
+(d)    An updated secretary's certificate from each Obligor, certifying (i) that each Obligor's Organic Documents delivered in connection with the Loan Agreement are true and complete, and in full force and effect, without amendment except as shown, (ii) to the title, name and signature of each Person authorized to sign this Amendment and the other Loan Documents; and (iii) each Obligor is in good standing, as certified by the Secretary of State or other appropriate official of such Obligor's jurisdiction of organization. 
+ ARTICLE V 
+ BINDING EFFECT; RATIFICATION 
+ Section 5.1 Binding Effect; Ratification . 
+ (a)     Upon the effectiveness of this Amendment and thereafter this Amendment shall be binding on the Agent, Parent, Borrowers and Lenders and their respective successors and assigns. 
+ (b)     On and after the execution and delivery hereof, this Amendment shall be a part of the Loan Agreement and each reference in the Loan Agreement to "this Loan Agreement" or "hereof", "hereunder" or words of like import, and each reference in any other Loan Document to the Loan Agreement shall mean and be a reference to such Loan Agreement as amended hereby. 
+ (c)     Except as expressly amended hereby, the Loan Agreement shall remain in full force and effect and is hereby ratified and confirmed by the parties hereto. 
+ ARTICLE VI 
+ GOVERNING LAW; CONSENT TO FORUM; 
+ JUDICIAL REFERENCE; ACKNOWLEDGMENTS 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ Section 6.1 Governing Law; Consent to Forum; Judicial Reference .   Sections 14.14 ,   14.15 ,   and   14.16  of the Loan Agreement are incorporated herein by reference and are fully applicable to this Amendment. 
+ Section 6.2 Acknowledgments. Each of the Obligors hereby represents and warrants that the execution and delivery of this Amendment and compliance by such Obligor with all of the provisions of this Amendment: (a) are within the powers and purposes of such Obligor; (b) have been duly authorized or approved by the board of directors of such Obligor; and (c) when executed and delivered by or on behalf of such Obligor, will constitute valid and binding obligations of such Obligor, enforceable in accordance with their terms. Each Obligor reaffirms its obligation to pay all amounts due to the Agent or the Lenders under the Loan Documents in accordance with the terms thereof, as modified hereby. 
+ ARTICLE VII 
+ MISCELLANEOUS 
+ 
+ Section 7.1 Loan Documents Unmodified. Except as otherwise specifically modified by this Amendment, all terms and provisions of the Loan Agreement and all other Loan Documents, as modified hereby, shall remain in full force and effect. Nothing contained in this Amendment shall in any way impair the validity or enforceability of the Loan Documents, as modified hereby, or alter, waive, annul, vary, affect, or impair any provisions, conditions, or covenants contained therein or any rights, powers, or remedies granted therein, except as otherwise specifically provided in this Amendment. Subject to the terms of this Amendment, any lien and/or security interest granted to the Agent, for the benefit of the Lenders, in the Collateral set forth in the Loan Documents shall remain unchanged and in full force and effect and shall continue to secure the payment and performance of all of the Obligations. 
+ Section 7.2 Event of Default . A breach of this Amendment shall be an Event of Default. 
+ Section 7.3 Parties, Successors and Assigns. This Amendment shall be binding upon the Obligors and shall inure to the benefit of the Agent, the Lenders, and their respective successors and assigns. 
+ Section 7.4 Counterparts. This Amendment may be executed in one or more counterparts and by telecopy, each of which, when so executed, shall be deemed to be an original, but all of which, when taken toget her shall constitute one and the same instrument. 
+ Section 7.5 Headings. The headings, captions, and arrangements used in this Amendment are for convenience only, are not a part of this Amendment, and shall not affect the interpretation hereof. 
+ Section 7.6 Expenses of Agent. Without limiting the terms and conditions of the Loan Documents, all reasonable costs and expenses incurred by the Agent in connection with this Amendment (including reasonable a ttorneys' costs) shall be paid by the Borrowers. 
+ Section 7.7 Total Agreement. This Amendment, the Loan Agreement, and all other Loan Documents shall constitute the entire agreement between the parties relating to the subject matter hereof, and shall not be  changed or terminated orally. 
+ [Signature Pages Follow] 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by their respective officers thereunto duly authorized, as of the date first above written. 
+ PARENT : 
+ 
+ CONN'S, INC. , 
+ a Delaware corporation 
+ 
+ 
+ By:   /s/ Lee Wright              
+ Name:    Lee Wright 
+ 
+ Title: 
+ 
+ Chief Financial Officer 
+ 
+ 
+ 
+ BORROWERS : 
+ 
+ CONN APPLIANCES, INC. , 
+ a Texas corporation 
+ 
+ 
+ By:   /s/ Lee Wright              
+ Name:    Lee Wright 
+ 
+ Title: 
+ 
+ Chief Financial Officer 
+ 
+ 
+ CONN CREDIT I, LP, 
+ a Texas limited partnership 
+ 
+ By:    Conn Credit Corporation, Inc., 
+ a Texas corporation, its sole general partner 
+ 
+ 
+ By:   /s/ Melissa Allen              
+ Name:    Melissa Allen 
+ 
+ Title: 
+ 
+ Vice President and Treasurer 
+ 
+ 
+ 
+ CONN CREDIT CORPORATION, INC. , 
+ a Texas corporation 
+ 
+ 
+ By:   /s/ Melissa Allen              
+ Name:    Melissa Allen 
+ 
+ Title: 
+ 
+ Vice President and Treasurer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AGENT AND LENDERS : 
+ 
+ 
+ BANK OF AMERICA, N.A. , 
+ as Agent and a Lender 
+ 
+ 
+ By:    /s/ Carlos Gil                                           
+ Name: Carlos Gil 
+ Title: Senior Vice President 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JPMORGAN CHASE BANK, N.A., 
+ as a Lender 
+ 
+ 
+ By:   /s/ Jennifer Heard             
+ Name:       Jennifer Heard             
+ Title:       Authorized Officer         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REGIONS BANK, 
+ as a Lender 
+ 
+ 
+ By:   /s/ Evie Krimm             
+ Name:       Evie Krimm             
+ Title:       Vice President             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MUFG UNION BANK, N.A., 
+ as a Lender 
+ 
+ 
+ 
+ By:   /s/ Nadia Mitevska             
+ Name:       Nadia Mitevska             
+ Title:       Vice President             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COMPASS BANK, 
+ as a Lender 
+ 
+ By:   /s/ Ramon Garcia             
+ Name:       Ramon Garcia             
+ Title:       Director             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZB, N.A. dba Amegy Bank, 
+ as a Lender 
+ 
+ By:   /s/ Mark L. Wayne             
+ Name:       Mark L. Wayne             
+ Title:       SVP                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FIRST TENNESSEE BANK NATIONAL ASSOCIATION , 
+ as a Lender 
+ 
+ 
+ By:   /s/ Daniel J. McCarthy         
+ Name:       Daniel J. McCarthy         
+ Title:       Vice President             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SYNOVUS BANK, 
+ as a Lender 
+ 
+ 
+ By:   /s/ David Bowman             
+ Name:       David Bowman             
+ Title:       Director               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MB FINANCIAL BANK, N.A., 
+ as a Lender 
+ 
+ 
+ By:   /s/ Evelyn Berthold             
+ Name:       Evelyn Berthold         
+ Title:       Vice President               
+ 
+ 
+ 
+ 
+ 
+ 
+ CATHAY BANK , 
+ as a Lender 
+ 
+ 
+ By:   /s/ Humberto Campos         
+ Name:       Humberto Campos         
+ Title:       Vice President             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY NATIONAL BANK , 
+ as a Lender 
+ 
+ 
+ By:   /s/ David Knoblauch         
+ Name:       David Knoblauch         
+ Title:       SVP                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exhibit A 
+ 
+ 
+                                                      
+ CONN'S, INC. 
+ as Parent and Guarantor 
+ and 
+ CONN APPLIANCES, INC., 
+ CONN CREDIT I, LP, and 
+ CONN CREDIT CORPORATION, INC. 
+ as Borrowers 
+                                                      
+ THIRD 
+AMENDED AND RESTATED 
+LOAN AND SECURITY AGREEMENT 
+ Dated as of October 30, 2015 
+ $810,000,000 
+                                                      
+ CERTAIN FINANCIAL INSTITUTIONS,   as Lenders, 
+ BANK OF AMERICA, N.A., 
+as Administrative Agent and Collateral Agent, 
+ JPMORGAN CHASE BANK, NATIONAL ASSOCIATION, 
+REGIONS BUSINESS CAPITAL, a division of REGIONS BANK, and 
+MUFG UNION BANK, N.A . , 
+as Co-Syndication Agents, 
+ MERRILL LYNCH, PIERCE, FENNER  & SMITH INCORPORATED, 
+JPMORGAN CHASE BANK, NATIONAL ASSOCIATION, 
+REGIONS BUSINESS CAPITAL, a division of REGIONS BANK, and 
+MUFG UNION BANK, N.A . , 
+as Joint Lead Arrangers and Joint Bookrunners, 
+ and     
+COMPASS BANK, 
+as Documentation Agent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exhibit B 
+ 
+ 
+ UPDATED SCHEDULE 1.1 
+ to 
+ Third Amended and Restated   Loan and Security Agreement 
+ REVOLVER COMMITMENTS OF LENDERS 
+ 
+ 
+ 
+ Lender 
+ 
+ Revolver Commitment 
+ 
+ Bank of America, N.A. 
+ 
+ $200,000,000.00 
+ 
+ JPMorgan Chase Bank, National Association 
+ 
+ $125,000,000.00 
+ 
+ Regions Bank 
+ 
+ $125,000,000.00 
+ 
+ MUFG Union Bank, N.A. 
+ 
+ $100,000,000.00 
+ 
+ BBVA Compass Bank 
+ 
+ $50,000,000.00 
+ 
+ ZB, N.A. dba Amegy Bank 
+ 
+ $30,000,000.00 
+ 
+ Synovus Bank 
+ 
+ $20,000,000.00 
+ 
+ City National Bank 
+ 
+ $30,000,000.00 
+ 
+ First Tennessee Bank National Association 
+ 
+ $25,000,000.00 
+ 
+ MB Financial Bank, N.A. 
+ 
+ $25,000,000.00 
+ 
+ Cathay Bank 
+ 
+ $20,000,000.00 
+ 
+ Total Revolver Commitments 
+ 
+ $750,000,000.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 

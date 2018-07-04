@@ -1,0 +1,554 @@
+ htm 116436 Material contracts 10 2017-03-23T09:00:18.257243-05:00 Filing 0001349929-17-000024 2017-03-23 10-K Annual  & Quarterly Reports 0001349929 CANCER GENETICS, INC CGIX COMMON Nasdaq Capital Market 8071 No NEW JERSEY DELAWARE DELAWARE CANCER GENETICS INC false Small Reporting Company 001-35817 EXHIBIT 10.83 Exhibit Exhibit 4 exh1083pfgwarrant.htm EX-10.83 4 exh1083pfgwarrant.htm EXHIBIT 10.83 
+ 
+ 
+      
+ 
+ 
+ WARRANT 
+ 
+ 
+THIS WARRANT ("WARRANT") TO PURCHASE SHARES IN THE CAPITAL OF CANCER GENETICS, INC., A DELAWARE CORPORATION (THE "COMPANY") IS ISSUED ON THE ISSUE DATE PURSUANT TO THE TERMS OF THAT CERTAIN LOAN AND SECURITY AGREEMENT BETWEEN THE COMPANY AND PARTNERS FOR GROWTH IV, L.P. ("PFG" AND SUCH AGREEMENT, THE "LOAN AGREEMENT"). THIS WARRANT AND THE UNDERLYING SHARES ARE SOLD IN A PRIVATE TRANSACTION, WITHOUT REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND REGULATIONS PROMULGATED THEREUNDER (THE "SECURITIES ACT") OR THE SECURITIES LAWS OF ANY STATE, AND MAY BE OFFERED OR SOLD ONLY IF REGISTERED UNDER THE SECURITIES ACT AND SUCH LAWS OR IF AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT AND SUCH LAW S IS AVAILABLE. 
+ 
+ 
+ 
+ 
+ Company: 
+ 
+ Cancer Genetics, Inc., a Delaware corporation (NASDAQ: CGIX 
+ 
+ Warrant Stock: 
+ 
+ Common Stock 
+ 
+ Number of Shares: 
+ 
+ Up to 265,957 shares, subject to adjustment 
+ 
+ Exchange Price: 
+ 
+ $2.82 per Share, subject to adjustment 
+ 
+ Issue Date: 
+ 
+ March 22, 2017 
+ 
+ Expiration Date: 
+ 
+ March 22, 2024 
+ 
+ 
+ 
+ 
+ The term " Holder" shall initially refer to Partners for Growth IV, L.P., a Delaware limited partnership, which is the initial holder of this Warrant and shall further refer to any subsequent permi tted holder of this Warrant from time to time. 
+ 
+The Company does hereby certify and agree that in consideration of Holder's payment of $5,029 for this Warrant on the Issue Date (such dollar amount, exclusive of the Exchange Price payable or creditable upon Exercise or Exchange of this Warrant), Holder, or its permitted successors and assigns, hereby is entitled, subject to Section 1.8 hereof, to Exchange or Exercise this Warrant in the Company for up to Two Hundred Sixty-Five Thousand Nine Hundred Fifty-Seven (265,957) shares of the Company's Common Stock, par value $.0001 per share (the "Warrant Stock"). This Warrant is subject to adjustment as set forth in this Warrant. Capitalized terms used but not defined in this Warrant have their meanings as set forth in the Loan Agreement defined in the heading between the Company and Partners for Growth IV, L.P. (" PFG"), whether or not the Loan Agreement is then in effect. When the term "convert" or "conversion" in relation to the Warrant is used herein, it includes an Exchange and an Exercise,  each as defined in Section 1.3(a), below, as applicable. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Section 1. Term, Price and Exchange of Warrant. 
+ 
+ 1.1   Term of Warrant. This Warrant shall be convertible for a period of seven (7) years after the Issue Date (hereinafter referred to as the " Expiration Date "). 
+ 
+ 1.2   Exchange Price. The price per Share at which the shares of Warrant Stock are issuable upon conversion of this Warrant shall be $2.82 per share of Warrant Stock (the " Exchange Price "). 
+ 
+ 1.3   Conversion of Warrant . 
+ 
+(a) This Warrant may be exercised, in whole or in part, upon surrender of this Warrant to the Company, together with the Election to Exchange or Exercise attached hereto as Exhibit  A (the " Election") duly completed and executed with "Exercise" selected as the mode of conversion, and upon payment to the Company of the Exchange Price for the number of shares of Warrant Stock i n respect of which this Warrant is then being exercised (an " Exercise"). In whole or in part in lieu of an Exercise, Holder may convert this Warrant on a cashless basis by so indicating in the Election and proceeding in accordance with the remainder  of this Section 1.3 (an " Exchange"). In each above case, Holder shall surrender this Warrant to the Company at its then principal offices, together with the Election duly completed and executed. 
+ 
+(b)    Upon an Exchange, the Holder shall receive shares of Warrant Stock such that, without the payment of any funds, the Holder shall surrender this Warrant in exchange for the number of shares of Warrant Stock equal to "X" (as defined below), computed using the following formula: 
+ Y * (A-B) 
+ X = _______________ 
+ A 
+ Where 
+ 
+ X =    the number of shares of Warrant Stock to be issued to Holder 
+ Y =     the number of shares of Warrant Stock to be converted 
+ under this Warrant 
+ A =    the Fair Market Value of one share of Warrant Stock 
+ B =     the Exchange Price (as adjusted to the date of such 
+ calculations) 
+ * =    multiplied by 
+ 
+(c)    For purposes of calculating Fair Market Value for purposes of Exchanging this Warrant, the "Fair Market Value" of one share of Warrant Stock shall be (i) if the Company's securities become listed on a national or international stock exchange, the average closing sale price reported on such exchange for such listed securities during the 90-trading day  period immediately prior to the date Holder delivers its Election to the 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company, or (ii) if the Company's securities are traded over-the-counter, the average of bid and ask price for such securities over the 90-trading day period immediately prior to the day Holder delivers its Election to the Company, in each case of (i) and (ii), above, if the shares of Warrant Stock are convertible into such listed or over-the-counter traded securities other than on a one-to-one basis, multiplied by the ratio at which one share of Warrant Stock converts into such other security. If the Company's securities are not listed or traded as contemplated in clauses (i) or (ii), above, the Fair Market Value of a share of Warrant Stock shall be the price per share that the Company could obtain from a willing buyer of shares of Warrant Stock sold by the Company from its authorized but unissued shares, initially as the Board of Directors of the Company ("Board") shall determine in its reasonable good faith judgment, subject to Holder's valuation rights below, to the extent applicable, but in no event less than the price to which a holder of Warrant Stock would be entitled based on an enterprise valuation of the Company (including its Subsidiaries if part of a Group) as a going concern and the application of the rights, preferences and privileges of the Company's outstanding securities as set forth in the Company's Constitutional Documents without discount for minority, control or lack of marketability. If at any time during the term of this Warrant the Company's stock is no longer traded on a Stock Market or, if it is so traded but the Company is not current in the filing of its SEC Reports, and the Board relies on an appraisal (including a "409A" valuation) to determine the Fair Market Value of the Warrant Stock, such determined Fair Market Value from such valuation may not assume the automatic conversion of all convertible securities in deriving such Fair Market Value but, instead, shall be based on enterprise value and application of the rights, preferences and privileges of the Company's outstanding securities as set forth in the Company's Constitutional Documents as if the Company (or Group) were being sold in an Acquisition for cash to determine what dollar value each class of security would receive upon such Acquisition. If the Warrant is to be converted in connection with an Acquisition (in fact), the Fair Market Value of a share of Warrant Stock shall be based on the Acquisition consideration specified or implied in such Acquisition and shall be the greater of (A) the value attributable to the Warrant Stock and (B) the value attributable to the Company securities into which the shares of Warrant Stock is (or may be) convertible (but subject to Holder's conversion directly into such other Company securities). If at any time during the term of this Warrant the Company's stock is no longer traded on a Stock Market or, if it is so traded but the Company is not current in the filing of its SEC Reports and Holder disagrees  the Board's determination of Fair Market Value, Holder may engage an independent appraiser to determine fair market value of the Warrant Stock the foregoing basis at shared expense between the Company and Holder. If the fair market value difference between the Board's determination and the determination by the Holder's appraiser is less than 30%, then the average between the two determinations shall be deemed to be the fair market value. If the difference is 30% or more, then the parties shall agree a second  appraiser, with each party bearing half of the expense of such second appraiser, and the determination of such appraiser shall be deemed to be the fair market value. 
+(d) In the event that Holder converts this Warrant in connection with a transaction in which shares of the same class and series as the Warrant Stock are converted into another sec urity, Holder may effect a conversion directly into such other security. 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) Subject to Section 2 hereof, upon delivery of the duly completed and executed Election, the Company shall issue and deliver within three (3) business days to Holder or such other person as Holder may designate in writing a certificate or certificates or other legal evidence of Holder's ownership of the number of shares of Warrant Stock so acquired upon the conversion of this Warrant. Such certificate(s) or other legal evidence shall be deemed to have been issued and any person so designated to be named therein shall be deemed to have become a stockholder of the Company and a holder of record of such shares of Warrant Stock as of the date the Election is delivered to the Company. If this Warrant is converted in part, a new warrant substantially identical to this Warrant for the number of Shares not converted shall be promptly executed and delivered to Holder by the Company. 
+ 
+ 1.4   Fractional Interests. The Company shall not be required to issue fractions of shares of Warrant Stock upon the conversion of this Warrant. If any fraction of a share of Warrant Stock would be issuable upon the conversion of this Warrant (or any portion thereof), the Company shall purchase such fraction for an amount in cash equal to the fair market value of a share of Warrant S tock as determined by the Board in its reasonable judgment. 
+ 
+ 1.5     Certain Definitions . For purposes of this Warrant: 
+ " Acquisition" means, in any single transaction or series of related transactions: (i) any sale or other disposition (including exclusive license) of all or substantially all of the assets of the Company in whatever form and however consummated, (ii) any reorganization, consolidation, merger or acquisition of the Company in which the Company is not the survivor, or (iii)  any liquidation or deemed liquidation under the Company's Constitutional Documents.. 
+ An " Affiliate "  of, or person "affiliated" with, a specified Person, is a Person that directly, or indirectly through one or more intermediaries, beneficially owns or is beneficially owned, contro ls or is controlled by, or is under common control with, the Person specified. 
+ " Constitutional Documents" means the Company's Certificate of Incorporation (as amended and restated, as applicable), Bylaws and agreements between or among the Company and holders of any class or series o f its stock. 
+ " Control "  (including the terms "controlling", "controlled by" and "under common control with") means the possession, direct or indirect through one or more Affiliates, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership or voting of voting securities, by contract, or otherwise. 
+ 
+ " NASDAQ " means the Nasdaq Stock Market. 
+ " Person " or " person" means any individual, sole proprietorship, partnership, joint venture, trust, unincorporated organization, association, corporation, government, or any agency or political divisi on thereof, or any other entity of any kind. 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " SEC " means the United States Securities and Exchange Commission. 
+ " SEC Reporting" means the reports required by the SEC to be filed and made available to the public, including Form 10Q, 10K and 8K, as such reporting requirements may be amended and supplemented  time to time. 
+ " Stock Market "  shall mean the principal securities exchange on which a security is listed or admitted to trading, including, without limitation, the New York Stock Exchange, the NYSE-MKT, The Nasdaq Global Market, The Nasdaq Global Select Market, The Nasdaq Capital Market, the OTC Bulletin Board or any tier of the OTC Markets. 
+ .     1.6     Automatic Conversion upon Expiration. Upon the Expiration Date, if the Fair Market Value of a share of Warrant Stock exceeds the Exchange Price, this Warrant shall automatically be deemed on and as of such date to be Exchanged pursuant to Section 1.3 as to all shares of Warrant Stock (or such other securities) for which this Warrant has become convertible and for which it shall not previously have been converted for Warrant Stock (or if not then outstanding, into such other class and series of securities into which the Warrant Stock is then convertible), and the Company shall promptly deliver a certificate or other legal evidence of ownership of the shares of Warrant Stock (or such other securities) issued upon such Exchange to Holder. 
+ 1.7     Treatment of Warrant Upon Acquisition of Company. Without prejudice to PFG's right to convert this Warrant at any time at its option, upon the closing of any Acquisition, the surviving entity shall, as a condition to the Acquisition, either (i) assume the obligations under this Warrant, and this Warrant shall then be convertible into the same securities as would be payable for the shares of Warrant Stock issuable upon conversion of the unconverted portion of this Warrant as if such shares of Warrant Stock were outstanding on the record date for the Acquisition (and the Exchange Price and/or number of shares of Warrant Stock shall be adjusted accordingly); or (ii) the surviving entity in such Acquisition shall, upon initial closing of such Acquisition purchase this Warrant at its "Fair Value" (the "Purchase Price"). For purposes hereof, "Fair Value" means that value determined by the parties using a Black-Scholes Option-Pricing Model (the "Black-Scholes Calculation") with the following assumptions: (A) a risk-free interest rate equal to the risk-free interest rate at the time of the closing of the Acquisition (or as close thereto as practicable), (B) a contractual life of the Warrant equal to the remaining term of this Warrant as of the date of the announcement of the Acquisition, (C) an annual dividend yield equal to dividends payable or declared on the underlying shares of Warrant Stock (including securities into which the shares of Warrant Stock may be convertible) during the term of this Warrant (calculated on an annual basis), and (D) a volatility factor of the expected market price of the Company's Shares comprised of: (1) if the Company is publicly traded on a national securities exchange, its volatility over the one year period ending on the day prior to the announcement of the Acquisition, (2) if the Shares are traded over-the-counter, its volatility over the one year period ending on the day prior to the announcement of the Acquisition, or (3) if the Company is a non-public company, the volatility, over the one year period prior to the Acquisition, of an average of publicly-traded companies in the same 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+or similar industry to the Company with such companies having similar revenues. The Purchase Price determined in accordance with the above shall be paid upon the initial closing of the Acquisition and shall not be subject to any post-Acquisition closing contingencies or adjustments; provided, however, the parties may take such post-Acquisition closing contingencies or adjustments into account in determining the Purchase Price, and if the parties take any post-Acquisition closing contingencies or adjustments into account, then upon the partial or complete removal of those post-Acquisition closing contingencies or adjustments, a new Black-Scholes Calculation would be made using all of the same inputs except for the value of the Company's Shares (as determined under subclause (D)), and any increase in Fair Value (and, correspondingly, Purchase Price), including, without limitation, as a result of any earn-out or escrowed consideration, would be paid in full to Holder immediately after those post-Acquisition closing contingencies or adjustments can be determined or ac hieved. 
+ 
+ 1.8     Reduction in Number of Shares. If the Company meets or exceeds, for calendar 2017, based on amounts as disclosed in the Company's first SEC Reporting made after December 31, 2017 (as adjusted for the definition of Adjusted EBITDA), ninety percent (90%) of its consolidated Revenues and Adjusted EBITDA as previously agreed between Lender and the Company for its 2017 fiscal year, then the Number of Shares subject to this Warrant as set forth on page 1 hereto shall be reduced by twenty percent (20%) to 212,766 shares. Except if convertible in connection with an Acquisition, until the Company's satisfaction of such performance conditions is determinable, Holder may convert this Warrant for no more than eighty percent (80%) of the stated Number of Shares. "Revenues" and "Adjusted EBITDA" have their meanings as previously agreed between Holder and the Company. 
+ Section 2. Exchange and Transfer of Warrant. 
+      
+(a) This Warrant may be transferred, in whole or in part, without restriction, subject only to (i) Holder's compliance with applicable securities laws (which, in the case of Affiliates, shall be deemed satisfied by Holder (and transferee) certification of Affiliate status), and (ii) the transferee holder of the new Warrant assuming the obligations of Holder set forth in this Warrant. A transfer may be registered with the Company by submission to it of the annexed Assignment Form attached hereto as   Exhibit B  duly completed and executed. After the Company's registration of a transfer of this Warrant, the Company will issue and deliver to the transferee a new warrant (representing the portion of this Warrant so transferred) upon the same terms and conditions as this Warrant and in substantially identical form, which the Company will register in the new holder's name. In the event of registration of a partial transfer of this Warrant, the Company shall concurrently issue and deliver to the transferring holder a new warrant that entitles the transferring holder to the balance of this Warrant not so transferred and that otherwise is upon the same terms and conditions as this Warrant. Upon the delivery of this Warrant for transfer, the transferee holder shall for all purposes become the holder of the new warrant issued for the portion of this Warrant so transferred, irrespective of the date of act ual delivery of the new warrant representing the portion of this Warrant so transferred. 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) In the event of the loss, theft or destruction of this Warrant, the Company shall execute and deliver an identical new warrant to Holder in substitution therefor upon the Company's receipt of (i) evidence reasonably satisfactory to the Company of such event, and (ii) if requested by the Company, an indemnity agreement in reasonable and customary form. 
+ 
+(c) The Company shall pay its own and all Holder's reasonable costs and expenses incurred in connection with the conversion, transfer or replacement of this Warrant, including, without limitation, securities compliance, the costs of preparation, execution and delivery of a new warrant and of certificates or other legal evidence of all Warrant Stock. 
+ 
+ Section 3. Certain Covenants. 
+ 
+(a)    The Company shall ensure that any approval of its stockholders required for issuance of this Warrant and of the shares of Warrant Stock issuable upon conversion hereof (which shall, for the avoidance of doubt, include any securities into which shares of Warrant Stock are or become convertible) remains in full force and effect until the earlier of conv ersion or the Expiration Date. 
+ 
+(b)    The Company will not, by amendment of its Constitutional Documents or through reorganization, consolidation, merger, amalgamation, sale of assets or otherwise, avoid or seek to avoid the observance or performance of any of the terms of this Warrant. Without limiting the foregoing, the Company will from time to time take all such action as may be necessary or appropriate in order that the Company may validly and legally issue shares of Warrant Stock upon the conversion of this Warrant. 
+ 
+(c)    If at any time during the term of this Warrant the Company's stock is no longer traded on a Stock Market or, if it is so traded but the Company is not current in the filing of its SEC Reports and for so long as Holder or any of its Affiliates holds this Warrant and/or the Warrant Stock, the Company shall deliver to Holder (i) such reports as it provides to any holders of securities of the same class and series as the Warrant Stock, as and when delivered to such holders, (ii) copies of any and all valuations performed of the Company or the value of its stock (including for purposes of Section 409A of the Internal Revenue Code), as and when such valuations are made available to the Company, and (iii) quarterly and annual financial statements and such other information as such Holder may reasonably request and that the Company may lawfully provide at such time under applicable securi ties laws. 
+ 
+(d)    The Company shall not treat the Warrant or the shares of Warrant Stock as being granted or issued as property transferred in connection with the performance of services or o therwise as compensation for services rendered. 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e)    The Company shall not characterize the Warrant as an ownership interest in the Company or Holder as a stockholder of the Company until such time as Holder converts the Warra nt for shares of Warrant Stock. 
+ 
+ Section 4.    Adjustments to Number of Shares of Warrant Stock, Etc. 
+ 
+ 4.1   Adjustments. In order to prevent dilution of the rights granted hereunder, the Number of Shares and Exchange Price shall be subject to adjustment from time to time in accordance with this Section 4. Upon each adjustment of the Exchange Price pursuant to this Section 4, Holder shall thereafter be entitled to acquire upon conversion, at the Exchange Price resulting from such adjustment, the number of shares of Warrant Stock obtainable by multiplying the Exchange Price in effect immediately prior to such adjustment by the number of shares of Warrant Stock acquirable immediately prior to such adjustment and dividing the product thereof by the new Exchange Price resulting from such adjustment. 
+ 
+ 4.2   Subdivisions, Combinations and Stock Dividends. If the Company shall at any time subdivide by split-up or otherwise, the class and series of Company securities into which the Warrant could then be converted into a greater number of shares, or issue additional securities as a dividend, bonus issue or otherwise with respect to such securities into which the Warrant could be converted, then the Exchange Price in effect immediately prior to such subdivision or share dividend or bonus issue shall be proportionately reduced and the number of shares acquirable upon exchange hereunder shall be proportionately increased. Conversely, if the class and series of Company securities into which the Warrant could then be converted are combined into a smaller number of shares, the Exchange Price in effect immediately prior to such combination shall be proportionately increased. 
+ 
+ 4.3   Reclassification, Exchange, Substitutions, Etc.  Upon any reclassification, exchange, substitution, or other event that results in a change of the number and/or class of the securities issuable upon exchange or exercise of this Warrant, Holder shall be entitled to receive, upon conversion of this Warrant, the number and kind of securities and property that Holder would have received for the Warrant Stock if this Warrant had been converted immediately before such reclassification, exchange, substitution, or other event. Such an event shall include any automatic conversion of the outstanding or issuable securities of the Company of the same class or series as the Warrant Stock to Common Stock pursuant to the Company's Constitutional Documents upon the closing of a public offering of the Company's Common Stock. The Company or its successor shall promptly issue to Holder an amendment to this Warrant setting forth the number and kind of such new securities or other property issuable upon exchange or exercise of this Warrant as a result of such reclassification, exchange, substitution or other event that results in a change of the number and/or class of securities issuable upon exchange or exercise of this Warrant. The amendment to this Warrant shall provide for adjustments (as determined in good faith by the Company's Board of Directors) which shall be as nearly equivalent as may be practicable to the adjustments provided for in this Article 4 including, without limitation, adjustments to the Warrant Price and to the number of securities or property issuable upon exchange of the new Warrant. The provisions of Sections 4.2 and 4.3 shall similarly  apply to successive 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+subdivisions, combinations, Share dividends, distributions, reclassifications, exchanges, substitutions, and dilutive events. 
+ 
+ 4.4   Notices of Record Date, Etc . In the event that the Company shall: 
+ 
+(1)     declare or propose to declare any dividend upon Company securities, whether payable in cash, property, shares or other securities and whether or not a regular cash dividend , or 
+ 
+(2) offer for sale any additional shares of any class or series of the Company's stock or securities exchangeable for or convertible into such stock in any transaction that would give rise (regardless of waivers thereof) to pre-emptive rights of any class or series of shareholders, or 
+ 
+(3)     effect or approve any reclassification, exchange, substitution or recapitalization of the capital shares of the Company, including any subdivision or combination of its outstanding stock, or consolidation or merger of the Company with, or sale of all or substantially all of its assets to, another corporation, or to liquidate, dissolve or wind up (inc luding an assignment for the benefit of creditors) or a reorganization of the Company, or 
+ 
+(4)    fail to be current and timely in its SEC Reporting, or suffer a delisting of its securities or other event that would substantially eliminate a trading market in the Company 's common stock that exists on the Issue Date, or 
+ 
+(5)    offer holders of registration rights the opportunity to participate in any registration of the Company's securities or any public offering of the Company's securities, 
+ 
+ then , in connection with such event, the Company shall give to Holder: 
+ 
+(i) at least ten (10) days prior written notice of the date on which the books of the Company shall close or a record shall be taken for such a distribution or offer in respect of the matters referred to in (1) or (2) above, or for determining rights to vote in respect of the matters referred to in (3) above; 
+ 
+(ii) in the case of the matters referred to (4), above, written notice promptly following the filing of any SEC Reporting required in connection with such events and if the Company is not then subject to SEC Reporting or is not current in its SEC Reporting, then notice on the day that such SEC Reporting would otherwise have been due; and 
+ 
+(iii) in the case of the matters referred to in (3) and (5), above, the greater of (A) ten (10) days prior written notice of the date when the same is anticipated to be consummated  and (B) the date that notice of the same is or is required to be given to any stockholder. 
+   
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Such notice in accordance with the foregoing clause (1) shall also specify, in the case of any such distribution, the date on which the holders of Company securities shall be entitled thereto and the terms of such distribution. Each such written notice shall be given in accordance with Section 9. 
+ 
+ 4.5   Equitable Adjustments by Board. If any event occurs that does not fall within the generic corporate transaction terms used in this Section 4 (such as merger or reorganization) but is within the rationale of adjustment provisions generally in warrants as maintaining the economic value of the warrant and underlying equity shares relative to other holders of equity, then the Board shall make an adjustment in the application of such provisions so that the effect of such event on the rights and economics of Holder are not disadvantaged relative to the rights and econom ics of equity holders generally. 
+ 
+ 4.6   Officer's Statement as to Adjustments. Whenever the Number of Shares subject to this Warrant is required to be or is adjusted as provided in Section 4, the Company shall forthwith file at the office designated for the conversion of this Warrant a statement, signed by the chief financial officer of the Company, showing in reasonable detail the facts requiring such adjustment and the number of issuable shares of Warrant Stock that will be effective after such adjustment. If such notice relates to an adjustment resulting from an event referred to in Section 4.3, such notice shall be included as part of the notice required to be mailed or published under the provisions of Section 4.4. 
+ 
+ 4.7   Issue of Securities other than Warrant Stock. In the event that at any time, as a result of any adjustment made pursuant to Section 4, Holder thereafter shall become entitled to receive any securities of the Company, other than Warrant Stock, thereafter the number of such other securities so receivable upon conversion of this Warrant shall be subject to adjustment from time to time in a manner and on terms as nearly equivalent as practicable to the provisions with respect to the Warrant Stock contained in Section 4. 
+ 
+ Section 5. Rights of the Warrant Holder. 
+ 
+This Warrant shall entitle Holder, upon Conversion, to the benefit of all rights as are applicable to any stockholder of the Company holding shares that are the same class and seri es as the Warrant Stock. 
+ 
+ Section 6.    Representations, Warranties and Covenants of the Company . The Company represents and warrants to, and covenants with, Holder that: 
+ 
+ 6.1      Corporate Power; Authorization. The Company has all requisite corporate power and has taken all requisite corporate action to execute and deliver this Warrant, to issue the Warrant and Warrant Stock and to carry out and perform all of its obligations hereunder. This Warrant has been duly authorized, executed and delivered on behalf of the Company and constitutes the valid and binding agreement of the Company, enforceable in accordance with its terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization or similar laws relating to or affecting  the enforcement of creditors' rights 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+generally and (ii) as limited by equitable principles generally. Any person executing this Warrant on behalf of the Company is a duly authorized officer of the Company with all necessary legal authority to bind the Company generally and with the specific legal authority to cause the Company to execute and deliver this Warrant. 
+ 
+ 6.2     Validity of Securities. This Warrant, when sold by the Company against the consideration therefor as provided herein, will be validly authorized, issued and fully paid. The issuance and delivery of the Warrant is not subject to any consent, approval, preemptive or any similar rights of the shareholders of the Company (which has not been duly secured or waived), including without limitation any pre-emptive rights, or any liens or encumbrances except for restrictions on transfer provided for herein or under applicable securities laws; and when and if shares of Warrant Stock are issued upon conversion and in accordance with the terms hereof and this Warrant is converted for such Warrant Stock, such securities will be, at each such issuance, validly issued shares of Warrant Stock in the Company's capital, in compliance with all applicable securities laws and free of any liens or encumbrances except for restrictions on transfer provided for herein, in the Constitutional Documents or under such applicable securities laws. 
+ 
+ 6.3     Capitalization. At the Issue Date, the authorized capital of the Company consists of 100,000,000 shares of Common Stock of which 18,935,594 shares are issued and outstanding; and 9,764,000 shares of Preferred Stock, none of which are issued and outstanding.  As of the Issue Date, the Company has reserved a total of 3,700,000 shares of its Common Stock for issuance under its 2008 and 2011 Equity Incentive Plans, of which 2,532,734 shares are reserved for issuance upon exercise of outstanding options.  The Company has also reserved   7,032,699 shares for issuance upon exercise of outstanding warrants.. Except as specified in this Section 6.3 there are no other options, warrants, conversion privileges or other contractual rights presently outstanding to purchase or otherwise acquire any authorized but unissued shares of the Company's capital stock or other securities. 
+ 
+ 6.4     No Conflict. The execution and delivery of this Warrant do not, and the consummation of the transactions contemplated hereby and thereby will not, conflict with, or result in any violation of, or default (with or without notice or lapse of time, or both), or give rise to a right of termination, cancellation or acceleration of any obligation or to a loss of a material benefit, under, any provision of the Company's Constitutional Documents, as amended, or any mortgage, indenture, lease or other agreement or instrument, permit, concession, franchise, license, judgment, order, decree, statute, law, ordinance, rule or regulation applicable to the Company, its properties or assets, the effect of which would have a material adverse effect on the Company or materially impair or restrict its power to perform its obligations as contemplated hereby. 
+ 
+ 6.5     Governmental and other Consents. As at the Issue Date, no consent, approval, order or authorization of, or registration, qualification, designation, declaration or filing with, any governmental authority or other person or entity is required on the part of the Company in connection with the issuance, sale and delivery of the Warrant and the Warrant 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stock, except such filings as shall have been made prior to and shall be effective on and as of the date hereof or filings to be made with the SEC and NASDAQ that will be made by the date due. All Company and stockholder consents required in connection with issuance of the Warrant and Warrant Stock have either been obtained by the Company or no such consents  are required. 
+ 
+ 6.6     Exempt from Registration; Sale Status. As at the Issue Date, assuming the accuracy of the representations and warranties of Holder in Section 7 hereof: (i) the offer, sale and issuance of the Warrant and the Warrant Stock will be exempt from any registration requirements of the Securities Act, the registration and qualification requirements of applicable state securities laws, and (ii) the Warrant Stock issuable upon Exchange of this Warrant will be free of restrictions on transfer, except under the terms of Rule 144. 
+ 
+ 6.7     Delivery of Information; Accuracy. The Company acknowledges its delivery of certain Representations and Warranties in connection with the Loan Agreement and this Warrant (the "Representation Letter") to PFG, which Representations and Warranties form the basis for Holder purchasing this Warrant. As at the Issue Date, the information contained in the Representation Letter and all documents, instruments and other information delivered to Holder in connection therewith are true, correct, accurate and complete in all material respects. 
+ 
+ 6.8     Reporting Obligations. The Company is and will remain subject to the reporting requirements of Section 13 or 15(d) of the Exchange Act and (i) has filed and will file all required reports under Section 13 or 15(d) of the Exchange Act, as applicable, during the 12 months preceding the Issue Date, other than Form 8-K reports; and (ii) has submitted and will submit electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (a "Reporting Issuer"). Without limiting the foregoing, if the Company ceases to timely file periodic reports under the Exchange Act, the Company shall from time to time promptly provide a copy of its most recent  annual, quarterly and other interim reports to Holder. 
+ 
+ 6.9     Quotation on NASDAQ. The Warrant Stock issuable upon exchange of this Warrant has been authorized for quotation on the Nasdaq Stock Market. Any filings required to be made by the Company by such market, including, without limitation, the Financial Industry Regulatory Authority ("FINRA") shall be timely made and any required authorizations or approvals for the consummation of the transactions contemplated herein, including, without limitation, the issuance of the Warrant Stock, have been obtained. 
+ 6.10     Non-Public Information. The Company shall not at any time provide PFG any material nonpublic information, unless pursuant to the Loan Agreement (and only so long as Holder has not made a request as provided therein not to receive material non-public information) and will publicly disclose the terms of this Agreement on Form 8-K under the Exchange Act (including it as an exhibit t hereto if it deems it required under applicable law) promptly following the date hereof. 
+      
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Section 7.    Representations and Warranties of Holder . Holder hereby represents and warrants to the Company as of the Issue Date as follows: 
+ 
+ 7.1     Investment Experience. Holder is an "accredited investor" within the meaning of Rule 501 under the Securities Act, and was not organized for the specific purpose of acquiring the Securities. Holder is aware of the Company's business affairs and financial condition and has acquired sufficient information about the Company to reach an informed and knowledgeable decision to acquire the Securities. Holder has such business and financial experience as is required to give it the capacity to protect its own interests in connection with the purchase of the Warran t and the Warrant Stock. 
+ 
+ 7.2     Investment Intent. Holder is purchasing the Warrant for investment for its own account only and not with a view to, or for resale in connection with, any "distribution" thereof within the meaning of the Securities Act. Holder understands that neither the Warrant nor the underlying Warrant Shares have been registered under the Securities Act nor registered or qualified under any state securities law in reliance on specific exemptions therefrom, which exemptions may depend upon, among other things, the bona fide nature of Holder's investment intent as e xpressed herein. 
+ 
+ 7.3     Authorization. Holder has all requisite power and has taken all requisite action required of it to carry out and perform all of its obligations hereunder. The execution and delivery of this Warrant has been duly authorized, executed and delivered on behalf of Holder and constitutes the valid and binding agreement of Holder, enforceable in accordance with its terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization or similar laws relating to or affecting the enforcement of creditors' rights generally and (ii) as limited by equitable principles generally. The consummation of the transactions contemplated herein and the fulfillment of the terms herein will not result in a breach of any of the terms or provisions of Holder's constitutional documents or instruments. Any person executing this Warrant on behalf of Holder is a duly authorized officer of Holder with all necessary legal authority to bind Holder generally and with the specific legal authority to cause Holder to execute and deliver this Warrant. 
+ 
+ 
+ Section 8.    Restrictive Securities Legend. 
+ 
+This Warrant and the Warrant Stock have not been registered under any securities laws. Accordingly, any Share certificates issued pursuant to the conversion of this Warrant shall (until receipt of an opinion of counsel in customary form that such legend is no longer necessary) bear the following legend: 
+ 
+THIS WARRANT AND THE WARRANT SHARES ISSUABLE UPON CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933 (THE "ACT"), AND HAVE BEEN ACQUIRED FOR INVESTMENT AND  NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OF DISTRIBUTION THEREOF. NO 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUCH SALE OR DISTRIBUTION MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN CUSTOMARY FORM THAT SUCH REGISTRATION IS NOT REQUI RED UNDER THE ACT. 
+      
+ Section 9.    Notices. 
+ 
+All notices to be given under this Warrant shall be in writing and shall be given: (i) personally, or (ii) by reputable private delivery service, (iii) by regular first-class mail, or certified mail return receipt requested, or (iv) by fax, or (v) by electronic mail. If sent by fax or electronic mail, such notice shall also be sent concurrently by one of the other methods provided herein (but shall be deemed delivered when sent, as provided below). Notices may be sent to the parties in accordance with their contact details specified below or to any other address, fax number or electronic mail address later designated in writing by a party. All notices shall be deemed to have been given upon delivery in the case of notices personally delivered, or at the expiration of one Business Day following delivery to the private delivery service, or two Business Days following the deposit thereof in the United States mail, with postage prepaid, or upon transmission during a Business Day if it is also during the Business Day where the notice where the notice is intended to be received (or the next Business Day if not transmitted during the Business Day in the time zone of the receiving party) in the case of notices sent by fax or electronic mail, but subject to reasonably concurrent transmission by another method, as specified above. The addresses for such communications shall be: 
+ 
+ if to Holder, at 
+ 
+ Partners for Growth IV, L.P. 
+ 1660 Tiburon Blvd. 
+ Tiburon, California 94920 
+ Attention: Chief Financial Officer 
+ Fax: (415) 781-0510 
+ Email: Notices@pfgrowth.com 
+ 
+ with a copy (not constituting notice) to 
+ 
+ Greenspan Law Office 
+ Attn: Benjamin Greenspan, Esq. 
+ 620 Laguna Road 
+ Mill Valley, CA 94941 
+ Fax: (415) 738-5371 
+ Email: ben@greenspan-law.com 
+ 
+with the original of this Warrant and any replacement, restatement or reissue of this Warrant to be delivered to: 
+ 
+ Robert W. Baird  & Co., Inc. 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 555 California Street, Suite 4900 
+ San Francisco, CA 94104 
+ ATTN: John Fitzgibbons 
+ Phone # 415-627-3225 
+ Email: JFitzgibbons@rwbaird.com 
+ 
+ or 
+ 
+ if to the Company, at 
+ 
+ CANCER GENETICS, INC. 
+ 201 Route 17 N., 2nd Floor 
+ Rutherford, NJ 07070 
+ Attn: Jay Roberts 
+ Tel: (201) 636-7231 
+ Email: Jay.Roberts@cgix.com 
+ 
+ with a copy to: 
+ 
+ Lowenstein Sandler LLP 
+ Attn: Alan Wovsaniker 
+ 65 Livingston Avenue 
+ Roseland, New Jersey 07068 
+ Tel: (973) 597-2564 
+ Fax: (973) 597-2565 
+ Email: awovsaniker@lowenstein.com 
+ 
+Each party hereto may from time to time change its address for notices under this Section 9 by giving at least 10 calendar days' notice of such changes address to the other party h ereto. 
+ 
+ Section 10. Amendments and Waivers. 
+ 
+This Warrant and any term hereof may be changed, waived, discharged or terminated only by an instrument in writing signed by the party against which enforcement of such change, wai ver, discharge or termination is sought. 
+ 
+ Section 11. Applicable Law; Severability. 
+ 
+This Warrant shall be governed by and construed and enforced in accordance with the laws of the State of Delaware. If any one or more of the provisions contained in this Warrant, or any application of any provision thereof, shall be invalid, illegal, or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein and all other applications of any provision thereof shall not in any way be affected or impaired thereby. 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Section 12.    Electronic Execution of Warrant. 
+ 
+The parties agree that the Warrant may be signed electronically by a party and, in such case, this Warrant shall be deemed to be an electronic record as such term is defined in Section 1633.2(g) of the Uniform Electronic Transactions Act enacted in the State of California (UETA) signed by the parties using electronic signatures (as defined in Section 1633.2(h) of UETA. The parties irrevocably agree to recognize and accept the use of electronic signatures and records in connection with the execution, storage and delivery of the Warrant, whether for purposes of transfer, enforcement or otherwise. Accordingly, and consistent with Sections 1633.12(d) and 1633.13 od UETA, any requirement that the Warrant must be tendered in original form or manually signed shall be deemed satisfied by delivery of any transmitted or delivered paper form of the Warrant and the same may not be excluded as evidence of the Warrant in any proceeding solely because the Warrant was executed in whole or in part in electronic form. As an ongoing obligation, the Company shall procure that no transfer agent, acquiring party or Company equityholder representative (e.g., responsible person for distributing proceeds of a merger or sale transaction to equityholders) refuse to accept delivery of this Warrant as electronically signed, delivered and/or stored as a condition to receiving consideration due in connection with this Warrant. To the extent that a third party fails to recognize this Warrant as electronically signed, the Company shall treat this Warrant as lost or stolen under Section 2(b) of this Warrant (except that Holder shall not be required to give any indemnity or undertaking as a condition to replacement of this Warrant) and shall promptly manually execute and deliver to Holder for its manual execution a replacement Warrant, all costs of which shall be for the account of the Company as contemplated in Section 2(c). 
+ 
+ Section 13.    Construction. 
+ 
+Section headings are only used in this Agreement for convenience. The Company and Holder each acknowledge that the headings may not describe completely the subject matter of the applicable Section, and the headings shall not be used in any manner to construe, limit, define or interpret any term or provision of this Agreement. This Agreement has been fully reviewed and negotiated between the parties and no uncertainty or ambiguity in any term or provision of this Agreement shall be construed strictly against either party under any rule  of construction or otherwise. 
+ 
+ [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the Company has caused this Warrant to be duly executed on the day and year first above written. 
+ 
+ 
+ 
+ 
+ COMPANY: 
+ 
+ CANCER GENETICS, INC. 
+ 
+ 
+ 
+ 
+ By:   /s/ John A. Roberts                          
+ 
+ Name:   John A. Roberts                          
+ 
+ Title:   COO  & EVP Finance                   
+ 
+ 
+ ACKNOWLEDGED AND AGREED: 
+ 
+ HOLDER: 
+ 
+ Partners for Growth IV, L.P. 
+ 
+ 
+ By:   /s/ Philip Lawson                   
+        Philip Lawson               , Manager of Partners for Growth IV, LLC, 
+ Its General Partner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ PFG - CANCER GENETICS, INC. Warrant Signature Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exhibit A 
+ 
+ To:   CANCER GENETICS, INC. 
+ 
+ 
+ ELECTION TO EXCHANGE OR EXERCISE 
+ 
+The undersigned hereby exercises its right to Exchange its Warrant for _________________ fully paid, validly issued and nonassessable: 
+ 
+ c      Shares of Common Stock 
+ 
+The undersigned hereby exercises its right to Exercise its Warrant for _________________ fully paid, validly issued and nonassessable: 
+ 
+ c      Shares of Common Stock 
+ 
+ 
+ [check one box] 
+ 
+ covered by the attached Warrant in accordance with the terms thereof. 
+ 
+and requests that certificates or other legal evidence of ownership of such Shares be issued in the name of, and delivered to: 
+ 
+ 
+ ______________________ 
+ ______________________ 
+ ______________________ 
+ 
+ Date: _____________________ [Holder] 
+ 
+ 
+ By _________________________ 
+ Name: 
+ Title: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exhibit B 
+ 
+ ASSIGNMENT FORM 
+ 
+ To: CANCER GENETICS, INC. 
+ 
+ The undersigned hereby assigns and transfers this Warrant to 
+ 
+ __________________________________________________ 
+ (Insert assignee's social security or tax identification number) 
+ 
+ ____________________________________________________________________ 
+ (Print or type assignee's name, address and postal code) 
+ ____________________________________________________________________ 
+ 
+ ____________________________________________________________________ 
+ 
+ 
+and irrevocably appoints _______________________________________ to transfer this Warrant on the books of the Company. 
+ 
+ Date: __________________ Partners For Growth IV, L.P. 
+ 
+ 
+ By __________________________ 
+ Name: _______________, Manager of 
+ Partners for Growth IV, LLC, Its General Partner 
+ 
+ 
+ 
+ 
+ 

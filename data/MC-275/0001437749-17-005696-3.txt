@@ -1,0 +1,143 @@
+ htm 34655 Material contracts 10 2017-03-31T09:00:42.480041-05:00 Filing 0001437749-17-005696 2017-03-31 10-K Annual  & Quarterly Reports 0001322439 Eagle Bulk Shipping Inc. EGLE EGKPF WT (MARSHALL ISLANDS) OTC 4412 Deep Sea Foreign Transportation of Freight No NEW YORK MARSHALL ISLANDS Non-US false Accelerated Filer 001-33831 EXHIBIT 10.38 Exhibit Exhibit 3 ex10-38.htm EX-10.38 3 ex10-38.htm EXHIBIT 10.38 
+ Exhibit 10.38 
+   
+ OPTION   AWARD AGREEMENT   
+UNDER THE EAGLE BULK SHIPPING INC. 
+2016   EQUITY   INCENTIVE PLAN 
+   
+ This Option Award Agreement (the " Option Award Agreement ") dated as of December 15, 2016 (the " Date of Grant"), is made by and between Eagle Bulk Shipping Inc., a Republic of the Marshall Islands company (the " Company "), and Gary Vogel (the " Participant"). Capitalized terms not defined herein shall have the meaning ascribed to them in the Eagle Bulk Shipping Inc. 2016 Equity Incentive Plan (the " Plan"). Where the context permits, references to the Company shall include any successor to the Company. 
+   
+ WHEREAS, the Company previously issued to the Participant an award of stock options (the " Prior Award ") pursuant to a Stock Option Award Agreement dated as of September 29, 2015 (the " Prior Agreement "); 
+   
+WHEREAS, the Company consummated a 20 to 1 reverse stock split subsequent to the issuance of the Prior Award and the Prior Award no longer serves as a meaningful incentive; and 
+   
+WHEREAS, the Company and the Participant desire to cancel the Prior Award and enter into this Option Award Agreement pursuant to which the Company will issue the Option (as defined  below) to the Participant. 
+   
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, and other good and valuable consideration the receipt and sufficiency of which are hereby acknowledged, t he parties hereto agree as follows: 
+   
+ 1.      Grant of   Options. The Company hereby grants to the Participant a non-qualified stock option to purchase an aggregate of 1,266,476 shares of Common Stock (the " Option "), subject to all of the terms and conditions of this Option Award Agreement and the Plan. 
+   
+ 2.      Vesting. Subject to Section 5, the Option shall vest and become exercisable in four substantially equal installments on each of the following vesting dates: (i) January 1, 2017, (ii) September 1, 2017, (iii) September 1, 2018 and (iv) September 1, 2019, in each case, subject to the Participant's continued employment with the Company or any of its Affiliates on each  such vesting date. 
+   
+ 3.      Exercise Price . The exercise price per share of the Option shall be $4.28 (the " Exercise Price "). 
+   
+ 4.      Restrictions. Except as otherwise provided in this Option Award Agreement, the Option granted hereunder may not be sold, assigned, transferred, pledged, hypothecated or otherwise disposed of or encumbered, and shall be subject to a risk of forfeiture as described in Section 5, until any additional requirements or restrictions contained in this Option Award Agreement or in the Plan have been otherwise satisfied, terminated or expressly waived by the Company in writing. 
+   
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ 5.      Termination of Employment . 
+   
+ (a)      Generally. Except as provided below in this Section 5, if the Participant's employment is terminated for any reason, then (i) exercise of the Option may be made only to the extent that the Participant was entitled to exercise the Option on the date of termination of employment; and (ii) exercise must occur within 90 days after termination of employment but in no event after the original expiration date of the Option; it being understood that the then-outstanding Option shall not be affected by a change of employment or consultancy/service relationship with the Company and its Subsidiaries so long as the Participant continues to be a director, officer or employee of, or a consultant to, the Company or any of its Subsidiaries. Except as provided below in this Section 5, any portion of the Option that has not vested as of the date the Participant's employment is terminated for any reason shall immed iately terminate. 
+   
+ (b)      For Cause. If the Participant's employment is terminated by the Company for Cause, all of the Participant's Options, both vested and unvested, not theretofore exercised shall immediately te rminate upon such termination of employment. 
+   
+ (c)      Without Cause/for Good Reason. If the Participant's employment is terminated by the Company without Cause or by the Participant for Good Reason, the Participant's Options shall vest as if the Participant remained employed with the Company for an additional year beyond the date of such termination. In addition, the Participant's vested Options, including the Options that become vested pursuant to the preceding sentence, shall remain exercisable until the later of one year after the date of such termination and the original expiration date of the Option. 
+   
+ For purposes of the foregoing, " Good Reason" shall have the meaning set forth in the Employment Agreement by and among the Company, Eagle Shipping International (USA) LLC and the Participant, dated July 6, 2015. 
+   
+ (d)      On Account of Death or Disability. If the Participant's employment is terminated on account of death or Disability, then the Participant may exercise the vested portion of the Option within one year after such ter mination of employment but in no event after the original expiration date of the Option. 
+   
+ (e)      Change in Control. For purposes of Section 1.5(c)(iii)(1) of the Plan, notwithstanding anything therein to the contrary, the Participant will have the right to exercise any vested Award until the e arlier of the original expiration date of the Award or 180 days following such termination. 
+   
+ 6.      Exercise of the Option : 
+   
+ (a)      Timing and Extent of Exercise. The Option shall be exercisable as set for in this Option Award Agreement, but no portion of the Option shall be exercisable subsequent to the fifth anniversary of the Date of Grant. The Option may be exercised from time to time as to all or part of the shares as to which such Option is then exercisable. 
+   
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ (b)      Notice of Exercise. The Option may be exercised by the filing of a written notice with the Company or the Company's designated exchange agent (the " Exchange Agent "), on such form and in such manner as the Administrator shall prescribe. 
+   
+ (c)      Payment of Exercise Price. Any written notice of exercise of the Option shall be accompanied by payment for the shares being purchased. Such payment may be made, in the Participant's discretion: (i) by certified or official bank check (or the equivalent thereof acceptable to the Company or its Exchange Agent) for the full Option Exercise Price; (ii) by deducting from any shares deliverable upon the exercise of the Option a number of shares having a Fair Market Value equal to all or part of the Option Exercise Price, in the Participant's discretion, and a certified or official bank check (or the equivalent thereof acceptable to the Company or its Exchange Agent) for any remaining portion of the full Option Exercise Price; or (iii) by delivery of shares of Common Stock having a Fair Market Value (determined as of the exercise date) equal to all or part of the Option Exercise Price, in the Participant's discretion, and a certified or official bank check (or the equivalent thereof acceptable to the Company or its Exchange Agent) for any remaining portion of the full option Exercise Price. 
+   
+ (d)      Delivery of Certificates Upon Exercise. Subject to the Plan, promptly after receiving payment of the Exercise Price, the Company or its Exchange Agent shall (i) deliver to the Participant, or to such other Person as may then have the right to exercise the Option, a certificate or certificates for the shares of Common Stock for which the Option has been exercised. If the method of payment employed upon exercise of the Option so requires, and if applicable law permits, the Participant may direct the Company or its Exchange Agent, as the case may be, to deliver the stock cer tificate(s) to the Participant's stockbroker. 
+   
+ 7.      No Stockholder Rights. The Participant shall not have any of the rights of a stockholder of the Company with respect to shares subject to the Option until the issuance of a stock certificate to the Par ticipant, or such other applicable Person, for such shares. 
+   
+ 8.      Option   Award Agreement Subject to Plan. This Option Award Agreement is made pursuant to all of the provisions of the Plan, which is incorporated herein by this reference, and is intended, and shall be interpreted in a manner, to comply therewith. In the event of any conflict between the provisions of this Option Award Agreement and the provisions of the Plan, the provisions of this Option Award  Agreement shall govern. 
+   
+ 9.      No Rights to Continuation of Employment. Nothing in the Plan or this Option Award Agreement shall confer upon Participant any right to continue in the employ of the Company or any Subsidiary thereof or shall interfere with or restrict the right of the Company or its shareholders (or of a Subsidiary or its shareholders, as the case may be) to terminate Participant's employment any time for any rea son whatsoever, with or without cause. 
+   
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ 10.      Transferability. The Participant may transfer the Option to (i) the Participant's Immediate Family Members, (ii) a trust or trusts for the exclusive benefit of such Immediate Family Members or (i ii) any other parties approved by the Administrator. 
+   
+ 11.      Tax Withholding. The Company shall be entitled to withhold the amount of applicable withholding taxes in any manner provided in Section 3.4(a) of the Plan, including, at the election of the Participant, by having the Company deduct from any shares delivered upon the exercise of the Option such shares having a value equal to the amount of minimum (and on or after January 1, 2017, up to the maximum) tax required to be withheld. Such shares shall be valued at their Fair Market Value as of the date on which the amount of tax to be withheld is determined. Fractional share amounts shall be settled in cash. Such a withholding election may be made by the Participant with respect to all or any portion of the shares to be delivered pur suant to the exercise of the Option. 
+   
+ 12.      Governing Law. This Option Award Agreement shall be governed by, interpreted under, and construed and enforced in accordance with the internal laws, and not the laws pertaining to conflicts or choices of laws, of the State of New York applicable to agreements made and to be performed wholly within the State of New York. 
+   
+ 13.      Option   Award Agreement Binding on Successors. The terms of this Option Award Agreement shall be binding upon Participant and upon Participant's heirs, executors, administrators, personal representatives, transferees, assignees and successors in interest, and upon the Company and its successors and assignees, subject to the terms of the Plan. 
+   
+ 14.      No Assignment. Notwithstanding anything to the contrary in this Option Award Agreement, neither this Option Award Agreement nor any rights granted herein shall be assignable by Participant. 
+   
+ 15.      Necessary Acts. Participant hereby agrees to perform all acts, and to execute and deliver any documents that may be reasonably necessary to carry out the provisions of this Option Award Agreement, including but not limited to all acts and documents related to compliance with federal and/or state securities and/or tax laws. 
+   
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ 16.      Entire   Option   Award Agreement. This Option Award Agreement and the Plan contain the entire agreement and understanding among the parties as to the subject matter hereof and supersede all prior agreements with respect to the subject matter thereof, including, without limitation, the Prior Agreement. For the avoidance of doubt, the Company and the Participant acknowledge and agree that th e Prior Award is cancelled effective as of the date hereof. 
+   
+ 17.      Headings. Headings are used solely for the convenience of the parties and shall not be deemed to be a limitation upon or descriptive of the contents of any such Section. 
+   
+ 18.      Counterparts. This Option Award Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original and all of which together shall be deemed to be one and  the same instrument. 
+   
+ 19.      Amendment. No amendment or modification hereof shall be valid unless it shall be in writing and signed by all parties hereto. 
+   
+ [signature page follows] 
+   
+   
+ 
+   
+   
+ 
+   
+ 
+   
+IN WITNESS WHEREOF, the parties hereto have executed this Restricted Stock Award Agreement as of the date set forth above. 
+   
+   
+ EAGLE BULK SHIPPING INC.   
+   
+   
+   
+ By:  /s/ Frank De Costanzo 
+ Name: Frank De Costanzo 
+ Title: Chief Financial Officer 
+   
+   
+   
+The undersigned hereby accepts and agrees to all the terms and provisions of the foregoing Restricted Stock Award Agreement. 
+   
+   
+ PARTICIPANT   
+   
+   
+   
+ /s/ Gary Vogel 
+ Name: Gary Vogel 
+   
+   
+   
+   

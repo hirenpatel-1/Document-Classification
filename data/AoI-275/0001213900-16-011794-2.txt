@@ -1,0 +1,274 @@
+ htm 88263 Articles of incorporation 3 2016-07-19T09:54:19.30329-05:00 Filing 0001213900-16-011794 2016-03-22 10-K Annual  & Quarterly Reports 0001522690 GWG Holdings, Inc. GWGH COM Nasdaq Capital Market 6311 Life Insurance No MINNESOTA DELAWARE DELAWARE true Small Reporting Company 001-36615 CERTIFICATE OF DESIGNATION FOR REDEEMABLE PREFERRED STOCK (FILED HEREWITH) Exhibit Exhibit 2 f10k2015ex3vii_gwgholdings.htm EX-3.7 2 f10k2015ex3vii_gwgholdings.htm CERTIFICATE OF DESIGNATION FOR REDEEMABLE PREFERRED STOCK (FILED HEREWITH) 
+ 
+ Exhibit 3.7 
+   
+ CERTIFICATE OF DESIGNATION 
+   
+ of 
+   
+ REDEEMABLE PREFERRED STOCK 
+   
+ GWG HOLDINGS, INC. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+ (Pursuant to Section 151(g) of the 
+ Delaware General Corporation Law) 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ GWG HOLDINGS, INC., a Delaware corporation (the " Company "), hereby certifies as of October 23, 2015 (the " Filing Date "), that the following resolution was duly adopted by the Board of Directors of the Company (the " Board"), effective as of October 23, 2015, pursuant to Section 151(g) of the Delaware General Corporation Law (the " DGCL "): 
+   
+RESOLVED, that pursuant to the authority vested in the Board of Directors of the Company by the Company's Certificate of Incorporation, and in accordance with the Delaware General Corporation Law, Section 151, the Board of Directors hereby states the authorized number and terms of a new class of preferred stock of the Company, to be entitled "Redeemable Preferred Stock," and fixes the relative powers, privileges, preferences and rights, and the qualifications, limitations and restrictions, thereof as follows: 
+   
+ 1.             Designation and Amount. The shares of such series shall be designated as "Redeemable Preferred Stock," and the number of shares constituting the Redeemable Preferred Stock shall be 5,000,000. Such number of shares may be increased or decreased by resolution of the Board adopted and filed pursuant to the DGCL, Section 151(g), or any successor provision; provided, however, that no decrease shall reduce the number of authorized shares of Redeemable Preferred Stock to a number less than the number of such shares then outstanding plus the number of shares reserved for issuance upon the exercise of then-outstanding options, warrants, convertible or exchangeable securities or other rights for the purchase of shares of Redeemable Preferred  Stock, if any. 
+   
+ 2.             Stated Value . 
+   
+(a)            Each share of Redeemable Preferred Stock shall have a stated value equal to $1,000 (the " Stated Value"). If at any time after the Filing Date, the Company shall effect a stock dividend payable in shares of Redeemable Preferred Stock, a subdivision of the outstanding Redeemable Preferred Stock into a greater number of shares of Redeemable Preferred Stock, or a combination of the outstanding shares of Redeemable Preferred Stock, by reclassification or otherwise, into a lesser number of shares of Redeemable Preferred Stock, then, in any such case, the Stated Value in effect immediately prior to such event shall, concurrently with the ef fectiveness of such event, be proportionately decreased or increased, as appropriate. 
+   
+ 
+ 
+   
+   
+ 
+   
+(b)            Upon any adjustment of the Stated Value of the Redeemable Preferred Stock, then and in each such case the Company shall give written notice thereof to the registered holders of the Redeemable Preferred Stock, which notice shall state the Stated Value resulting from such adjustment, setting forth in reasonable detail the method of calculation a nd the facts upon which such calculation is based. 
+   
+ 3.             Ranking. The Redeemable Preferred Stock shall rank, as to the payment of dividends and the distribution of assets of the Company upon its liquidation, dissolution or winding up: (a) senio r to the common stock; (b)  pari passu  with the Company's Series A Convertible Preferred Stock; and (c) senior to or  pari passu  with all other classes and series of the Company's preferred stock. 
+   
+ 4.             Dividends in Cash or in Kind . 
+   
+(a)            Holders of Redeemable Preferred Stock shall be entitled to receive for each share of Redeemable Preferred Stock, and the Company shall pay, subject to the provisions  of the DGCL and legally available funds therefor, preferential cumulative dividends at the  per annum rate of 7.0% on the Stated Value, payable in arrears in monthly installments on the first day of each month (or the next following business day thereafter in the event such date i s not a business day), when and as declared by the Board of Directors (the " Preferred Dividends"), (i) in cash out of legally available funds, or (ii) at the Company's option, in duly authorized, validly issued, fully paid and non-assessable shares of Redeemable Preferred Stock. Preferred Dividends on shares of Redeemable Preferred Stock shall also be payable upon any Redemption Date, as defined below, and upon the final distribution date relating to a Liquidation Event, as defined below. Preferred Dividends shall cease to accrue on shares of Redeemable Preferred Stock on the day immediately prior to any Redemption Date, as defined in Section 9(a) below, and on the final distribution date relating to a Liquidation Event. Dividends shall be payable to the holders of record of the Redeemable Preferred Stock on the record date selected by the Company with respect to such applicable payment date, in accordance with the DGCL. In the case of payment by the Company of dividends in the fo rm of shares of Redeemable Preferred Stock, such stock shall be valued at the Stated Value. 
+   
+(b)            Preferred Dividends shall be calculated on the basis of actual days elapsed during a 365-day year, and shall begin to accrue on outstanding shares of Redeemable Preferred Stock from the date of each share's original issuance until paid, whether or not declared. Preferred Dividends shall accrue whether or not there shall be (at the time such Preferred Dividend becomes payable or at any other time) profits, surplus or other funds of the Company legally available for the payment of dividends. Dividends on the Redeemable Preferred Stock shall be cumulative from the date of issue, whether or not declared for any reason, including if such declaration is prohibited under applicable law or any outstanding indebtedness or borrowings of the Company or any of its subsidiaries, or any other contractual provision binding on the Company or any of its subsidiaries. 
+   
+ 
+ 
+ 
+   2   
+ 
+   
+ 
+   
+(c)            No dividend shall be declared on any other series or class or classes of capital stock as to which the Redeemable Preferred Stock ranks senior or  pari passu as to dividends or liquidation, including without limitation shares of common stock, in respect of any period, nor shall any series or class of capital stock that ranks junior or  pari passu to the Redeemable Preferred Stock be redeemed, purchased or otherwise acquired for any consideration (or any money to be paid into any sinking fund or otherwise set apart for the purchase of any such junior stock), unless there shall have been or contemporaneously are declared and paid on all shares of the Redeemable Preferred Stock at the time outstanding all (whether or not earned or declared) accrued and unpaid Preferred Dividends through the most recent payment date; provided, however, that this restriction shall not apply to the repurchase by the Company of (i) shares of common stock from employees, officers, directors, consultants or other persons performing services for the Company or any of its subsidiaries pursuant to agreements under which the Company has the right or option to repurchase such shares upon the occurrence of certain events or otherwise, or (ii) shares of Series A Convertible Preferred Stock pursuant to the terms of the Certificate of Designation of Series A Convertible Preferred Stock, or terms superior to those contained within such Cert ificate of Designation of Series A Convertible Preferred Stock. 
+   
+(d)            At or prior to such time as Preferred Dividends are due and payable, a holder of Redeemable Preferred Stock may elect to convert all or any portion of such holder's accrued but unpaid Preferred Dividends into Redeemable Preferred Stock, with each share having a value equal to the Stated Value, subject to the adjustments contemplated in Section 2 above. In order to exercise such option, a holder of Redeemable Preferred Stock must deliver written notice to the Company before such Preferred Dividends are paid; provided, however, that once a written notice has been so delivered by a holder, such holder may not change such election during the remainder of the calendar year in which such election shall  have been made. 
+   
+ 5.             Liquidation Preference . 
+   
+(a)            In the event of (i) the sale, conveyance, exchange or other disposition of all or substantially all of the assets of the Company, (ii) any acquisition of the Company by means of a consolidation, stock exchange, stock sale, merger or other form of corporate reorganization with any other entity in which the Company's stockholders prior to any su ch transaction own less than a majority of the voting securities of the surviving entity (a " Change-in-Control Transaction"), or (iii) the winding up or dissolution of the Company, whether voluntary or involuntary (each such event described in clause (i), (ii) or (iii), a " Liquidation Event"), the Board shall determine in good faith the amount legally available for distribution to stockholders after taking into account the distribution of assets among, or payment the reof over to, creditors of the Company in the manner required by the DGCL (the " Net Assets Available for Distribution"). Subject to the provisions of Section 5(d) below, the holders of the Redeemable Preferred Stock then outstanding shall be entitled to be paid out of the Net Assets Available for Distribution, and before any payment or distribution shall be made to the holders of any class of capital stock ranking junior to the Redeemable Preferred Stock, and on a  pari passu basis with holders of Series A Convertible Preferred Stock and any other class or series of capital stock then ranking  pari passu with the Redeemable Preferred Stock (if the Liquidation Events triggers a payment obligation on such classes), an amount for each share of Redeemable Preferred Stock equal to all  accrued and unpaid Preferred Dividends thereon plus the Stated Value, as adjusted (the " Liquidation Amount"). Notwithstanding the foregoing, a transaction shall not constitute a Liquidation Event if its sole purpose is (y) to change the state of the Company's incorporation or (z) to create a holding company with substantially similar series and classes of capital shares having substantially the same terms as those that existed immediately prior to the transaction and owned in the same proportions by the persons or entities who held the Company's securities immediately prior to such transaction, provided that such transaction shall have been approved by the Board. The holders of a majority of the shares of Redeemable Preferred Stock, voting as a single class, may vote to determine that any transaction constituting a  Liquidation Event shall not be a Liquidation Event for purpose of this Section 5(a). 
+   
+ 
+ 
+ 
+   3   
+ 
+   
+ 
+   
+(b)            If the Net Assets Available for Distribution to holders of shares of the Redeemable Preferred Stock upon a Liquidation Event shall be insufficient to pay the Liquidation Amount to the holders of shares of the Redeemable Preferred Stock, then such Net Assets Available for Distribution shall be distributed among the holders of shares of the Redeemable Preferred Stock ratably in proportion to the respective amounts to which they otherwise would be entitled. 
+   
+(c)            In the event that any distribution contemplated in this Section shall be payable in securities or property other than cash, then the value of such distribution shall  be the fair market value of such distribution as determined in good faith by the Board. 
+   
+(d)            In connection with the occurrence of a Liquidation Event consisting of a Change-in-Control Transaction, the holders of at least a majority of the then-outstanding shares of Redeemable Preferred Stock may vote to receive, in lieu of cash in an amount per share equal the Liquidation Amount, securities of the successor or purchasing corporation having the same or substantially identical rights, preferences and privileges as the Redeemable Preferred Stock held immediately prior to such Change-in-Control Transaction. 
+   
+ 6.             Voting. Except as otherwise set forth herein or as required by law, holders of the Redeemable Preferred Stock shall not be entitled to vote on any matter on account of their Redeemable Preferred Stock. Unless the DGCL requires otherwise, in the event the DGCL requires the vote of the holders of Redeemable Preferred Stock, voting as a separate class, to authorize an action of the Company, the affirmative vote of holders of a majority of the shares of Redeemable Preferred Stock then outstanding shall constitute the approval of such action by  the class. 
+   
+ 7.             Certain Notices. The Company will provide the holders of Redeemable Preferred Stock with prior written notice of any meeting of the stockholders of the Company, and written notice of any action taken by the stockholders of the Company without a meeting. The Company will also provide the holders of Redeemable Preferred Stock with at least 20 days of written notice prior to the consummation of any transaction described in Section 5(a), clauses (i) or (ii), constituting a Liquidation Event. 
+   
+ 
+ 
+ 
+   4   
+ 
+   
+ 
+   
+ 8.             Protective Provisions. In addition to any other vote or consent required herein or by law, the affirmative vote or written consent of holders of at least a majority of the then-outstanding shares of Redeemable Preferred Stock, voting together as a single class, given in writing or by vote at a meeting, shall be required for the Company to: 
+   
+(a)            amend, modify, add, repeal or waive any provision of this Certificate of Designation or otherwise take any action that modifies any powers, rights, preferences, privileges or restrictions of the Redeemable Preferred Stock (other than an amendment solely for the purpose of increasing the number of shares of Redeemable Preferred Stock designated  for issuance hereunder); 
+   
+(b)            authorize, create or issue shares of any class of stock having rights, preferences or privileges upon a liquidation of the Company that are superior to the Redeemabl e Preferred Stock; or 
+   
+(c)            amend the Certificate of Incorporation of the Company in a manner that adversely and materially affects the rights of the Redeemable Preferred Stock. 
+   
+ 9.             Redemption and Repurchase . 
+   
+ (a)             Redemption at the Option of a Holder . 
+   
+(i)            Once each calendar quarter after the first anniversary of the date on which one or more shares of Redeemable Preferred Stock shall have been issued, the holder of such share(s) may deliver written notice to the Company requesting that the Company redeem up to 25% of such shares of Redeemable Preferred Stock originally purchased from the Compan y (the " Holder Redemption Notice "). 
+   
+(ii)           Upon receipt of a Holder Redemption Notice, the Company may redeem the applicable Redeemable Preferred Stock for the Redemption Price, as defined in Section 9(b)(i),  subject, however, to the applicable redemption fee specified below: 
+   
+(A)            if the Holder Redemption Notice is given on or after the first anniversary, but prior to the second anniversary, of the issuance of such Redeemable Preferred Stock,  then an 8% redemption fee shall apply; 
+   
+(B)            if the Holder Redemption Notice is given on or after the second anniversary of the issuance of such Redeemable Preferred Stock but prior to the third anniversary of  the issuance of such Redeemable Preferred Stock, then a 5% redemption fee shall apply; and 
+   
+(C)            if the Holder Redemption Notice is given on or after the third anniversary of the issuance of such Redeemable Preferred Stock, then no redemption fee shall apply. 
+   
+ 
+ 
+ 
+   5   
+ 
+   
+ 
+   
+(iii)          After the Company's receipt of the Holder Redemption Notice, the Company shall provide written notice to such requesting holder specifying whether all or a portion of the Redeemable Preferred Stock sought to be redeemed pursuant to the Holder Redemption Notice will be repurchased by the Company (the " Company Redemption Response"). If all or any portion of such Redeemable Preferred Stock is to be repurchased by the Company, the Company's written notice shall specify the date on which such repurchase and redemption shall occur, which date shall be no more than 60 days after the giving of the Holder Redemption Notice (such date, the " Redemption Date"), and shall include the stock power, if required, described in paragraph (iv) below. On the Redemption Date and in accordance with this Section 9(a), the Company will, to the extent that it has sufficient funds to consummate a redemption, as determined by the Company in its discretion, and to the extent that it may then lawfully do so under the DGCL on the Redemption Date and such payment is further permitted under its Certificate of Incorporation, Certificate of Designation of Series A Convertible Preferred Stock and any then-existing borrowing agreements to which it or its subsidiaries are bound, in connection with the delivery by such holder of the applicable items described in paragraph (iv) below, redeem the shares specified in the Company Redemption Response by paying in cash, via wire transfer of immediately available funds to an account designated in writing by the holder of su ch shares, an amount per share equal to the applicable Redemption Price. 
+   
+(iv)          On or before a Redemption Date, a holder of shares of Redeemable Preferred Stock to be redeemed shall surrender to the Company the certificate(s), if any, representing the shares, duly endorsed, in the manner and at the place designated in the Company Redemption Response. In the event such shares are uncertificated, such holder shall deliver to the Company a stock power, duly executed and in the form provided by the Company together with the Company Redemption Response. In the event that less than all of the shares of Redeemable Preferred Stock represented by a certificate are redeemed, the Company shall cause to be issued and delivered to the holder a new certificate representing the unredeemed s hares of Redeemable Preferred Stock. 
+   
+(v)           From and after the Redemption Date designated in the Company Redemption Response, (A) the shares identified in the Company Redemption Response shall be cancelled on the books and records of the Company, (B) the right to receive Preferred Dividends thereon shall cease to accrue as of the Redemption Date, and (C) all rights of a holder of shares of Redeemable Preferred Stock to be redeemed shall cease and terminate, excepting only the right to receive the Redemption Price therefor; provided, however, that the shares to be redeemed shall remain issued and outstanding, and all rights of a holder of shares of Redeemable Preferred Stock to be redeemed shall continue, in the event that a holder shall have delivered the required items under paragraph (iv) above as of the Redemption Date but the Company shall not have discharged its obligation to pay the Redemption Price. 
+   
+ 
+ 
+ 
+   6   
+ 
+   
+ 
+   
+(vi)          If the Company (A) is unable by virtue of applicable law or provisions in its Certificate of Incorporation or Certificate of Designation of Series A Convertible Preferred Stock, to redeem shares of Redeemable Preferred Stock in connection with a Holder Redemption Notice, or (B) cannot redeem shares of Redeemable Preferred Stock in connection with a Holder Redemption Notice without constituting a default under any of the borrowing agreements to which the Company or any of its subsidiaries are a party or otherwise bound, then such redemption obligation shall be discharged promptly after the Company shall have become able to discharge such redemption obligation under applicable law and without causing or constituting a default under any of such borrowing agreements, with all such deferred redemption obligations being satisfied on a prorated basis and regardless of the order in which Holder Redemption Notices shall have been received by the Company. If and so long as the redemption obligation with respect to shares of Redeemable Preferred Stock shall not be fully discharged, the Company shall not declare or make any dividend or other distribution on any junior class or series of capital stock or, directly or indirectly, redeem, purchase or otherwise acquire for any consideration any shares of a junior class or series of capital stock or discharge any optional redemption, sinking-fund or other similar obligation in respect of any such junior class or series of capital stock; provided, however, that this restriction shall not apply to the repurchase by the Company of (i) shares of common stock from employees, officers, directors, consultants or other persons performing services for the Company or any of its subsidiaries pursuant to agreements under which the Company has the right or option to repurchase such shares upon the occurrence of certain events or otherwise, or (ii) shares of Series A Convertible Preferred Stock pursuant to the terms of the Certificate of Designation of Series A Convertible Preferred Stock, or terms superior to those contained within such Certificate of Designation of Series A Convertible P referred Stock. 
+   
+ (b)            Redemption at the Option of Company . 
+   
+(i)            After the first anniversary of the date of original issuance of any shares of Redeemable Preferred Stock, the Company shall have the right (but not the obligation) to redeem such shares at a price per share equal to 100% of the Stated Value, plus an amount equal to all Preferred Dividends (whether or not declared) accrued and unpaid thereon up  to but not including the redemption date (the " Redemption Price"). In the event the Company exercises this redemption right, the Company shall deliver written notice to each holder of Redeemable Preferred Stock that all or part of the Redeemab le Preferred Stock will be redeemed (the " Company Redemption Notice") on a date that is no earlier than 20 and no later than 60 days after the date of the Company Redemption Notice (such date, the " Company Redemption Date"). On the Company Redemption Date and in accordance with this Section 9(b), the Company will, at its option, to the extent it may then lawfully do so under the DGCL (and for so long as (i) a redemption is permitted under the Company's Certificate of Incorporation, as amended, and Certificate of Designation of Series A Convertible Preferred Stock, and (ii) such redemption does not constitute a default under any of the borrowing agreements to which the Company or any of its subsidiaries are a party or otherwise bound), redeem the shares specified in the Company Redemption Notice by paying in cash, via wire transfer of immediately available funds to an account designated in writing by the holder, an amount per share equal to the Redemption Price. If the Company elects to redeem less than all of the Redeemable Preferred Stock, it shall do so ratably among all holders of Redeemable Preferred Stock to the extent their shares shall have been issued and outstanding for at least one year as of the date of the Company Redemption Notice. 
+   
+ 
+ 
+ 
+   7   
+ 
+   
+ 
+   
+(ii)           On or before the Company Redemption Date, each holder of shares of Redeemable Preferred Stock whose shares are being redeemed under this Section 9(b) shall surrender the certificate(s) representing such shares to the Company, if any, duly endorsed, in the manner and at the place designated in the Company Redemption Notice. In the event such shares of Redeemable Preferred Stock are uncertificated, such holder shall deliver to the Company a stock power, duly executed and in the form to be provided by the Company together  with the Company Redemption Notice. 
+   
+(iii)          From and after the Company Redemption Date, (A) the shares identified in the Company Redemption Notice shall be cancelled on the books and records of the Company, (B) the right to receive Preferred Dividends thereon shall cease to accrue as of the Company Redemption Date, and (C) all rights of a holder of shares of Redeemable Preferred Stock to be redeemed shall cease and terminate, excepting only the right to receive the Redemption Price therefor; provided, however, that the shares to be redeemed shall remain issued and outstanding, and all rights of a holder of shares of Redeemable Preferred Stock to be redeemed shall continue, in the event that a holder shall have delivered the required items under paragraph (ii) above as of the Company Redemption Date but the Company shall not have discharged its obligation to pay the Redemption Price. 
+   
+ (c)            Repurchase in the Event of Death, Disability or Bankruptcy . 
+   
+(i)            Subject to the terms of this Section 9(c), within 45 days of the death, Total Permanent Disability or Bankruptcy, as each such term is defined below, of a holder or  Beneficial Holder, as defined below, of Redeemable Preferred Stock (a " Holder Repurchase Event"), the estate of such holder or Beneficial Holder (in the event of death) or such holder or Beneficial Holder or his or her legal representative (in the event of Total Permanent Disability or Bankruptcy) may request the Company to repurchase, in whole but not in part, without penalty, the Redeemable Preferred Stock held by such holder (including Redeemable Preferred Stock of the holder held in his or her individual retirement accounts) or Beneficial Holder by delivering to the Company a written request for repurchase (the " Repurchase Request"). Any such Repurchase Request shall set forth the particular Holder Repurchase Event giving rise to the right of the holder or Beneficial Holder to have his or her Redeemable Preferred Stock repurchased by the Company. If Redeemable Preferred Stock is held jointly by natural persons who are legally married, then a Repurchase Request may be made by the surviving holder (or Beneficial Holder) upon the occurrence of a Holder Repurchase Event arising by virtue of a death, or may be made by the disabled or bankrupt holder or Beneficial Holder (or his or her legal representative) upon the occurrence of a Holder Repurchase Event arising by virtue of a Total Permanent Disability or Bankruptcy. In the event Redeemable Preferred Stock is held together by two or more natural persons that are not legally married (regardless of whether held as joint tenants, co-tenants or otherwise), neither of these persons shall have the right to request that the Company repurchase such Redeemable Preferred Stock unless a Holder Repurchase Event shall have occurred for all such co-holders. Other than a Beneficial Holder, a holder that is not an individual natural person does not have the right to request repurchase under this Section 9(c). 
+   
+ 
+ 
+ 
+   8   
+ 
+   
+ 
+   
+(ii)           Upon receipt of a Repurchase Request, the Company shall designate a date for the repurchase of Redeemable Preferred Stock (the " Repurchase Date"), which date shall not be later than the 60th day after the Company shall have received facts or certifications establishing, to the reasonable satisfaction of the Company, the occurrence of the Holder Repurchase Event. On the Repurchase Date, the Company shall, to the extent that it may then lawfully do so under the DGCL on the Repurchase Date and such payment is further permitted under its Certificate of Incorporation, Certificate of Designation of Series A Convertible Preferred Stock and any then-existing borrowing agreements to which it or its subsidiaries are bound, pay the holder or Beneficial Holder, or the estate of the holder or Beneficial Holder, a redemption price equal to the aggregate Stated Value of such Redeemable Preferred Stock to be repurchased, plus accrued but unpaid Preferred Dividends thereon through but not including the Repurchase Date. 
+   
+(iii)          For purposes of this Section 9(c), the capitalized terms Bankruptcy, Beneficial Holder, and Total Permanent Disability shall have the meanings set forth below: 
+   
+ (A)            " Bankruptcy" means, with respect to a holder of Redeemable Preferred Stock who is a natural person, the (1) commencement of a voluntary bankruptcy case by that holder; (2) consent to the entry of an order for relief against such holder in an involuntary bankruptcy case; or (3) consent to the appointment of a custodian of it or for all or substantially all of its proper ty. 
+   
+ (B)            " Beneficial Holder" means an individual natural person that holds a beneficial interest in Redeemable Preferred Stock through a custodian or nominee, including a broker-dealer. 
+   
+ (C)            " Total Permanent Disability" means, with respect to a holder of Redeemable Preferred Stock who is a natural person, a determination by a physician approved by the Company that such holder, who was gainfully employed and working on a full-time basis as of the date on which such Redeemable Preferred Stock was purchased, has been unable to work on a full-time basis for at least 24 consecutive months. In this regard, working "on a full-time basis" shall mean working at least 40 hours per week. 
+   
+ 
+ 
+ 
+   9   
+ 
+   
+ 
+   
+ 10.           Conversion . 
+   
+ (a)            Conversions at Option of Holder. Holders of Redeemable Preferred Stock have the option to convert their Redeemable Preferred Stock, plus accrued but unpaid Preferred Dividends thereon, at any time and from time to time, into that number of shares of common stock determined by dividing the Stated Value of such shares of Redeemable Preferred Stock (plus accrued but unpaid Preferred Dividends thereon, if being converted) by the Conversion Price, as defined below; provided, however, that the maximum amount of Redeemable Preferred Stock, together with accrued but unpaid Preferred Dividends thereon, that any holder may convert shall not exceed 15% of the Stated Value of Redeemable Preferred Stock originally purchased by such holder from the Company and still held by such holder (excluding, for this purpose, shares of Redeemable Preferred Stock issued to the holder in satisfaction of Preferred Dividends); and provided, further, that upon the giving of a Company Redemption Notice, the right to convert shares of Redeemable Preferred Stock subject to redemption shall be suspended through the Company Redemption Date. Holders of Redeemable Preferred Stock shall effect conversions by delivering to the Company a conversion notice in the form provided by the Company (a " Notice of Conversion"). Each Notice of Conversion shall specify the number of shares of Redeemable Preferred Stock to be converted (and whether any accrued but unpaid dividends thereon are being converted), and the date on which such conversion is to be effected, which date may not be prior to the date the applicable Notice of Conversion is delivered to the Company (such date,  the " Conversion Date"). If no Conversion Date is specified in a Notice of Conversion, then the Conversion Date shall be the date that such Notice of Conversion is deemed given hereunder. 
+   
+ (b)            Conversion Price. The conversion price for the Redeemable Preferred Stock shall be the volume-weighted average price of the Company's common stock for the 20 trading days immediately prior to the  date of conversion of such Redeemable Preferred Stock (the " Conversion Price"), subject, however, to a minimum Conversion Price of $15, as the same may be equitably adjusted upon stock dividends, subdivisions or combinations, by reclassification or otherwi se. 
+   
+ (c)            Mechanics of Conversion . 
+   
+ (i)            Not later than five business days after each Conversion Date (the " Share Delivery Date"), the Company shall deliver, or cause to be delivered, to the converting holder of Redeemable Preferred Stock a certificate representing the Conversion Shares or shall deliver any Conversion Shares electronically through the Depository Trust Company or another established clearing corporation performing similar functions. " Conversion Shares" means, collectively, the shares of common stock issued and issuable upon conversion of the shares of Redeemable Preferred Stock in accordance with the terms hereof. 
+   
+ 
+ 
+ 
+   10   
+ 
+   
+ 
+   
+ (ii)            Failure to Deliver Certificates. If, in the case of any Notice of Conversion, such certificate or certificates are not delivered to or as directed by the applicable holder of Redeemable Preferred Stock by the Share Delivery Date, such holder shall be entitled to elect by written notice to the Company at any time on or before its receipt of such certificate or certificates, to rescind such Conversion Notice, in which event such holder shall promptly return to the Company the common stock certificates, if any, issued to such holder pursuant to the rescinded Conversio n Notice. 
+   
+ (iii)           Reservation of Shares Issuable Upon Conversion. The Company covenants that it will at all times reserve and keep available out of its authorized and unissued shares of common stock for the sole purpose of issuance upon conversion of the Redeemable Preferred Stock, as herein provided, free from preemptive rights or any other actual contingent purchase rights, that number of shares of the common stock as shall be issuable upon the conversion of all then-outstanding shares of Redeemable Preferred Stock eligible for conversion hereunder. The Company covenants that all shares of common stock that shall be so issuable shall, upon issuance, be duly authorized, validly issued, fully paid and non-assessable. 
+   
+ (iv)           Fractional Shares. No fractional shares or scrip representing fractional shares shall be issued upon the conversion of the Redeemable Preferred Stock. As to any fraction of a share which the holder of Redeemable Preferred Stock would otherwise be entitled to purchase upon such conversion, the Company shall at its election, either pay a cash adjustment in respect of such final fraction in an amount equal to such fraction multiplied by the Conversion Price or round up to the next whole share. 
+   
+ (v)            Transfer Taxes and Expenses. The issuance of certificates for shares of the common stock on conversion of the Redeemable Preferred Stock shall be made without charge to any holder of Redeemable Preferred Stock for any documentary stamp or similar taxes that may be payable in respect of the issue or delivery of such certificates, provided that the Company shall not be required to pay any tax that may be payable in respect of any transfer involved in the issuance and delivery of any such certificate upon conversion in a name other than that of the holders of such shares of Redeemable Preferred Stock and the Company shall not be required to issue or deliver such certificates unless or until the holder requesting the issuance thereof shall have paid to the Company the amount of such tax or shall have established to the satisfaction of the Company that such tax has been paid. The Company shall pay all transfer agent fe es required for processing of any Notice of Conversion. 
+   
+ 11.           No Sinking Fund. The Company shall not be required to establish any sinking or retirement fund with respect to the shares of Redeemable Preferred Stock. 
+   
+ 12.           Fractional Shares . Redeemable Preferred Stock may be issued in fractional shares. 
+   
+ 
+ 
+ 
+   11   
+ 
+   
+ 
+   
+ 13.           Loss, Theft or Destruction. Upon receipt of evidence satisfactory to the Company of the loss, theft, destruction, or mutilation of shares of Redeemable Preferred Stock and, in the case of any such loss, theft or destruction, upon receipt of indemnity or security reasonably satisfactory to the Company, or, in the case of any such mutilation, upon surrender and cancellation of any certificate representing such Redeemable Preferred Stock, the Company cause to be made, issued and delivered, in lieu of such lost, stolen, destroyed or mutilated shares of Redeemable  Preferred Stock, new shares of Redeemable Preferred Stock of like tenor. 
+   
+ 14.           Who Deemed Absolute Owner. The Company may deem the holder in whose name the Redeemable Preferred Stock shall be registered upon the books and records of the Company to be, and may treat it as, the absolute owner of the Redeemable Preferred Stock for the purpose of making payment of Preferred Dividends, for the payment of the Redemption Price, and for all other purposes, and the Company shall not be affected by any notice to the contrary. All such payments shall be valid and effectual to satisfy and discharge the liability of the Company in respect of the Red eemable Preferred Stock to the extent of the sum or sums so paid. 
+   
+ 15.           Notices. Unless otherwise provided herein, all notices or other communications or deliveries to be provided shall be given in writing and delivered (a) in person (b) by overnight courier, or (c) mailed by first-class mail (registered or certified, return-receipt requested), facsimile or email, to the other's address: 
+   
+   
+ If to the Company : 
+   
+ 
+ GWG Holdings, Inc. 
+ 220 South Sixth Street, Suite 1200 
+ Minneapolis, MN 55402 
+ Attention: Chief Operating Officer 
+ Facsimile: (612) 746-0445 
+   
+   If to a holder of Redeemable Preferred Stock :  such address as is shown on the books and records of the Company or such other more recent address as a holder of Redeemable Preferred Stock shall have provided in writing to the C ompany. 
+   
+Notice shall be treated as given when personally received or, if sent as provided above, the effective date of the notice shall, as applicable, be the date of delivery if delivered in person, the date of the written receipt received upon delivery if delivered via overnight courier, three days after date the notice is sent if mailed by first-class mail (registered or return-receipt requested), the date on which transmitted by confirmed facsimile, or the day after the date on which transmitted via an email address of record (without rec eipt of any failure notice). 
+   
+ 15.           Reacquired Shares. If any Redeemable Preferred Stock is exchanged, redeemed, purchased or otherwise acquired by the Company in any manner, such shares shall be returned to the number of authorized  but unissued shares of Redeemable Preferred Stock. 
+   
+ 16.           Severability. If any provision of this Certificate of Designation, or the application thereof to any person or entity or any circumstance, is invalid or unenforceable, then (i) a suitable and equitable provision shall be substituted therefor in order to carry out, so far as may be valid and enforceable, the intent and purpose of such invalid or unenforceable provision, and (ii) the remainder of this Certificate of Designation and the application of such provision to other persons, entities or circumstances shall not be affected by such invalidity or unenforceability, nor shall such invalidity or unenforceability affect the validity or enforceability of such provision, or the application thereof, in any other jurisdiction. 
+   
+ *  *  *  *  *  *  * 
+   
+ 
+ 
+   12   
+ 
+   
+ 
+   
+IN WITNESS WHEREOF, GWG Holdings, Inc. has caused this Certificate of Designation to be signed by the undersigned on this 23rd day of October, 2015. 
+   
+ 
+   GWG HOLDINGS, INC.       By:   /s/ William Acheson     William Acheson     Chief Financial Officer 
+   
+   
+ 13 
+ 
+ 
+ 
+   
+ 
+ 
+   

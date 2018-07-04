@@ -1,0 +1,277 @@
+ htm 67060 Material contracts 10 2017-03-31T15:34:10.456345-05:00 Filing 0001353499-17-000005 2017-03-31 10-K Annual  & Quarterly Reports 0001353499 Max Sound Corp MAXD COMMON OTCBB 7374 CALIFORNIA DELAWARE DELAWARE So Act Network, Inc.;43010 INC;43010 false 000-51886 CONVERTIBLE NOTE Exhibit Exhibit 5 hoppel12216.htm EX-10 5 hoppel12216.htm CONVERTIBLE NOTE 
+ NEITHER THIS NOTE NOR THE SECURITIES INTO  WHICH  THIS NOTE IS CONVERTIBLE  HAVE  BEEN REGISTERED WITH THE SECURITIES AND  EXCHANGE COMMISSION  OR THE SECURITIES  COMMISSION  OF ANY STATE. THESE SECURITIES  HAVE BEEN SOLD IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE " SECURITIES ACT "), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO  AN  EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION  FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES  LAWS. 
+   
+   
+ MAX SOUND CORPORATION 
+   
+ C ONVERTIBLE   N OTE 
+   
+   
+ Issuance Date:  December 5, 2016 Original Principal Amount:  $250,000 
+ Note No.  MAXD-1 Consideration Paid at Close: $75,000 
+   
+   
+ FOR VALUE RECEIVED, Max Sound Corporation,  a Delaware corporation (the " Company "), hereby promises to pay to the order of  Lucas Hoppel  or registered assigns (the " Holder") the amount set out above as the Original Principal Amount (as reduced pursuant to the terms hereof pursuant to redemption, conversion or otherwise, the " Principal") when due, whether upon the Maturity Date (as defined below), acceleration, redemption or otherwise (in each case in accordance with the terms hereof) and to pay interest (" Interest") on any outstanding Principal at the applicable Interest Rate from the date set out above as the Issuance Date (the " Issuance Date") until the same becomes due and payable, upon the Maturity Date or acceleration, conversion, redemption or otherwise (in each case in accordance with the terms hereof). 
+   
+The Original Principal Amount is $250,000 (two hundred fifty thousand) plus accrued and unpaid interest and any other fees. The Consideration is $237,500 (two hundred thirty seven  thousand five hundred) payable by wire transfer (there exists a $12,500  prorated original issue discount (the "OID")). The Holder shall pay $75,000 of Consideration upon closing of this Note. The Holder may pay additional Consideration to the Company in such amounts and at such dates as Holder may choose in its sole discretion. For purposes hereof, the term "Outstanding Balance" means the Original Principal Amount, as reduced or increased, as the case may be, pursuant to the terms hereof for conversion, breach hereof or otherwise, plus any accrued but unpaid interest, collection and enforcements costs, and any other fees, penalties, damages or charges incurred under this Note. The Original Principal Amount due to Holder shall be prorated based on the Consideration paid by Holder (plus an approximate 5% Original Issue Discount that is prorated based on the Consideration paid by the Holder as well as any other interest or fees) such that the Company is only required to repay the amount funded and the Company is not required to repay any unfunded portion of this Note. 
+   
+ GENERAL TERMS 
+   
+ (a)                     Payment of Principal . The " Maturity Date" shall be one year from the date of each payment of Consideration, as may be extended at the option of the Holder in the event that, and for so long as, an Event of Default (as de fined below) shall not have occurred and be continuing  on the Maturity Date (as may be extended pursuant to this Section 1) or any event shall not have occurred 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+and be continuing on the Maturity Date (as may be extended pursuant to this Section 1) that with the passage of time and the failure to cure would result in an Event of Default. 
+   
+ (b)                    Interest . A pro-rated annual interest charge of eight percent (8%) APR (" Interest Rate") shall be applied on the Issuance Date to the Original Principal Amount. Interest hereunder shall be paid on the Maturity Date (or sooner as provided herein) to the Holder or its assignee in whose name this Note is registered on the records of the Company regarding registration and transfers of Notes in cash or converted into Common Stock at the Conversion  Price provided the Equity Conditions are satisfied. 
+   
+   
+ pledged to the Holder 
+ (c) Security . This Note shall not be secured by any collateral or any assets 
+   
+ (2) EVENTS   OF DEFAULT. 
+   
+ (a)                    An " Event of Default", wherever used herein, means any one of the following events (whatever the reason and whether it shall be voluntary or involuntary or effected by operation of law or pursuant to any judgment, decree or order of any court, or any order, rule or regulation of any administrative or governmental body): 
+   
+ (i)                     The Company's failure to pay to the Holder any amount  of Principal, Interest, or other amounts when and as due under this Note (including, without limitation, the Company's failure to pay any redemption payments or amounts hereunder); 
+   
+ (ii) A Conversion Failure as defined in section 3(b)(ii) 
+   
+ (iii)                 The Company or any subsidiary of the Company shall commence, or there shall be commenced against the Company or any subsidiary of the Company under any applicable bankruptcy or insolvency laws as now or hereafter in effect or any successor thereto, or the Company or any subsidiary of the Company commences any other proceeding under any reorganization, arrangement, adjustment of debt, relief of debtors, dissolution, insolvency or liquidation or similar law of any jurisdiction whether now or hereafter in effect relating to the Company or any subsidiary of the Company or there is commenced against the Company or any subsidiary of the Company any such bankruptcy, insolvency or other proceeding which remains undismissed for a period of 61 days; or the Company or any subsidiary of the Company is adjudicated insolvent or bankrupt; or any order of relief or other order approving any such case or proceeding is entered; or the Company or any subsidiary of the Company suffers any appointment of any custodian, private or court appointed receiver or the like for it or any sub stantial part of its property which continues undischarged or unstayed for a period of sixty one 
+ (61)    days; or the Company or any subsidiary of the Company makes a general assignment for the benefit of creditors; or the Company or any subsidiary of the Company shall fail to pay, or shall state that it is unable to pay, or shall be unable to pay, its debts generally as they become due; or the Company or any subsidiary of the Company shall call a meeting of its creditors with a view to arranging a composition, adjustment or restructuring of its debts; or the Company or any subsidiary of the Company shall by any act or failure to act expressly indicate its consent to, approval of or acquiescence in any of the foregoing; or any corporate or other action is taken by the Company or any subsidiary of the Company for  the purpose of effecting any of the foregoing; 
+   
+ (iv)                 The Company or any subsidiary of the Company shall default in any of its obligations under any other Note or any mortgage, credit agreement or other facility, indenture agreement, factoring agreement or other instrument under which there may be issued, or by which there may be secured or evidenced any indebtedness for borrowed money or money due under any l ong term 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ leasing or factoring arrangement of the Company or any subsidiary of the  Company  in an  amount  exceeding $50,000, whether such indebtedness now exists or shall hereafter be created; and 
+   
+ (v)                   The  Common Stock is suspended or delisted for trading on the Over the Counter OTCQB Venture Marketplace or OTCPink Open Marketplace (the " Primary Market "). 
+   
+ (vi)                  The Company loses its ability to deliver shares via "DWAC/FAST" electronic transfer. 
+   
+ (vii) The Company loses its status as "DTC Eligible." 
+   
+ (viii)              The Company shall become late or delinquent in its filing requirements as a fully-reporting issuer registered with the Securities  & Exchange Commission. 
+   
+ (ix)                 The Company shall fail to reserve and keep available out of its authorized Common Stock a number of shares equal to at least 3 (three) times the full number of shares of  Common  Stock issuable upon conversion of all outstanding amounts under this Note. 
+   
+ (b)                   Upon the occurrence of any Event of Default, the Outstanding Balance shall immediately increase to 150% of the Outstanding Balance immediately prior to the occurrence of the Event of Default (the "Default Effect") and a penalty of $1,000 (one thousand) per day shall accrue until the default is remedied. The Default Effect shall automatically apply upon the occurrence of an Event of Default without the need for any party to give any notice or take any other action.  Upon such Event of Default, the entire principal balance outstanding hereunder, together with all accrued interest and other amounts payable hereunder, at the election of Holder, shall become immediately due and payable, without any notice to the Company, and without presentment, demand, protest or any other notice of any kind, all of which are hereby expres sly waived by the Company. 
+   
+ (3)                  CONVERSION OF NOTE .	This Note shall be convertible into shares of the Company's  Common  Stock, on the terms and conditions set forth in this Section 3. 
+   
+ (a)                     Conversion Right. Subject to the provisions of Section 3(c), at any time, the Holder shall be entitled to convert any portion of the outstanding and unpaid Conversion Amount (as defined below) int o fully paid and nonassessable shares of  Common Stock in accordance with Section 3(b), at the Conversion Price (as defined below). The number of shares of  Common Stock issuable upon conversion of any Conversion Amount pursuant to this Section 3(a) shall be equal to the quotient of dividing the Conversion Amount by the Conversion Price. The  Company shall not issue any fraction of a share of  Common Stock upon any conversion. If the issuance would result in the issuance of a fraction of a share of Common Stock, the Company shall round such fraction of a share of Common Stock up to the nearest whole share. The Company shall pay any and all transfer agent fees, legal fees, costs and any other fees or costs that may be incurred or charged in connection wi th the issuance of shares of the Company's  Common  Stock to the Holder arising out of or relating to the conversion of this Note. 
+   
+ (i)                     " Conversion Amount" means the portion of the Original Principal Amount and Interest to be converted, plus any penalties, redeemed or otherwise with respect to which this determination is being made. 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ (ii)                   " Conversion Price" shall equal 65% of the lowest closing price during the ten (10) consecutive Trading Days immediately preceding the applicable Conversion Date  on which the Holder elects to convert all or part of this Note, subject to adjustment as provided in this Note. 
+   
+ (b) Mechanics of Conversion . 
+   
+ (i)                      Optional Conversion . To convert any Conversion Amount into shares of  Common  Stock on any date (a " Conversion Date"), the Holder shall (A) transmit by email, facsimile (or otherwise deliver), for receipt on or prior to 11:59 p.m., New York, NY Time, on such date, a copy of an executed notice o f conversion in the form attached hereto as  Exhibit A  (the " Conversion Notice") to the Company. On or before the third Business Day following the date of receipt of a Conversion Notice (the " Share Delivery Date "), the Company shall (A) if legends are not required to be placed on certificates of  Common Stock pursuant to the then existing provisions of Rule 144 of the Securities Act of 1933 ("Rule 144") and provided that the Transfer Agent is participating in the Depository Trust  Company's (" DTC ") Fast Automated Securities Transfer Program, credit such aggregate number of shares of  Common Stock to which the Holder shall be entitled to the Holder's or its designee's balance account with DTC through its Deposit Withdrawal Agent Commission system or (B) if the Transfer Agent is not participating in the DTC Fast Automated Securities Transfer Program, issue and deliver to the address as specified in the Conversion Notice, a certificate, registered in the name of the Holder or its designee, for the number of shares of Common Stock to which the Holder shall be entitled which certificates shall not bear any restrictive legends unless required pursuant the Rule 144. If this Note is physically surrendered for conversion and the outstanding Principal of this Note is greater than the Principal portion of the Conversion Amount being converted, then the Company shall, upon request of the Holder, as soon as practicable and in no event later than three (3) Business Days after receipt of this Note and at its own expense, issue and deliver to the holder a new Note representing the outstanding Principal not converted. The Person or Persons entitled to receive the sh ares of  Common Stock issuable upon a conversion of this Note shall be treated for all purposes as the record holder or holders of such shares of  Common  Stock upon the transmission of a Conversion Notice. 
+   
+ (ii)                    Company's Failure to Timely Convert. If within Three (3) Trading Days after the Company's receipt of the facsimile or email copy of a Conversion Notice the Company shall fail to issue and deliver to Holder via "DWAC /FAST" electronic transfer the number of shares of  Common  Stock to which the Holder is entitled upon such holder's conversion of any Conversion Amount (a " Conversion Failure"), the Original Principal Amount of the Note shall increase by $500 per day until the Company issues and delivers a certificate to the Holder or credit the Holder's balance accoun t with DTC for the number of shares of  Common Stock to which the Holder is entitled upon such holder's conversion of any Conversion Amount (under Holder's and Company's expectation that any damages will tack back to the Issua nce Date).  Company will not be subject to any penalties once its transfer agent processes the shares to the  DWAC  system. If the Company fails to deliver shares in accordance with the timeframe stated in this Section, resulting in a Conversion Failure, the Holder, at any time prior to selling all of those shares, may rescind any portion, in whole or in part, of that particular conversion attributable to the unsold shares and have the rescinded conversion amount returned to the Outstanding Balance with the rescinded conversion shares returned to the Company (under Holder's and Company's expectations that any returned conversion amounts will tack back to  the original date of the Note). 
+   
+ (iii)                   DWAC/FAST Eligibility.	If the Company fails for any reason to deliver to the Holder the Shares by DWAC/FAST electronic transfer (such as by delivering a physical stock certificate), or if there is a Conversion Failure as defined in Section 3(b)(ii), and if the Holder incurs a Market Price Loss, then at any time subsequent to incurring the loss the Holder may provide the Company w ritten notice indicating the amounts payable to the Holder in respect of the Market 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+Price Loss and the Company must make the Holder whole by either of the following options at Holder's election: 
+   
+Market Price Loss = [(High trade price for the period between the day of conversion and the day the shares clear in the Holder's brokerage account) x (Number of shares receivable from the conversion)] - [(Net Sales price realized by Holder) x (Number of shares receivable from the conversion)]. 
+   
+Option A - Pay Market Price Loss in Cash. The Company must pay the Market Price Loss by cash payment, and any such cash payment must be made by the third business day from the time  of the Holder's written notice to the Company. 
+   
+Option B - Add Market Price Loss to Outstanding Balance. The Company must pay the Market Price Loss by adding the Market Price Loss to the Outstanding Balance (under Holder's and t he Company's expectation that any Market Price Loss amounts will tack back to the Issuance Date). 
+   
+In the case that conversion shares are not deliverable by DWAC/FAST electronic transfer an additional 10% discount to the Conversion Price will apply. 
+   
+ (iv)                   DTC Eligibility. If the Company fails to maintain its status as "DTC Eligible" for any reason, the Principal Amount of the Note shall increase by ten thousand dollars ($10,000) (under Holder's and Company's expectation that any Principal Amount increase will tack back to the Issuance Date). In addition, the Conversion Price shall be permanently redefined to equal 50%  of the lowest traded price during the twenty-five (25) consecutive Trading Days immediately preceding the applicable Conversion Date on which the Holder elects to convert all or part  of this Note, subject to adjustment as provided in this Note. 
+   
+ (v)                    Book-Entry. Notwithstanding anything to the contrary set forth herein, upon conversion of any portion of this Note in accordance with the terms hereof, the Holder shall not be required to physically surrender this Note to the Company unless (A) the full Conversion Amount represented by this Note is being converted or (B) the Holder has provided the Company with prior written notice (which notice may be included in a Conversion Notice) requesting reissuance of this Note upon physical surrender of this Note. The Holder and the Company shall maintain records showing the Principal and Interest converted and the dates of such conversions or shall use such other method, reasonably satisfactory to the Holder and the Company, so  as not to require physical surrender of this Note upon conversion. 
+   
+ (c) Limitations on Conversions  or  Trading . 
+   
+ (i)                      Beneficial Ownership. The Company shall not effect any conversions of this Note and the Holder shall not have the right to convert any portion of this Note  or  receive shares of  Common Stock as payment of interest hereunder to the extent that after giving effect to such conversion or receipt of such interest payment, the Holder, together with any affiliate thereof, would beneficially own (as determined in accordance with Section 13(d) of the Exchange Act and the rules promulgated thereunder) in excess of 4.99% of the number of shares of  Common Stock outstanding immediately after giving effect to such conversion or receipt of shares as payment of interest. Since the Holder will not be obligated to report to the Company t he number of shares of  Common Stock it may hold at the time of a conversion hereunder, unless the conversion at issue would result in the issuance  of  shares of  Common  Stock in excess of 4.99% of the then outstanding shares of  Common Stock without regard to any other shares which may be beneficially owned by the Holder or an affiliate thereof, the Holder shall have the authority and obligation to determine whether the restriction contained in this Section will limit any particular conversion hereunder and to the extent that the Holder determines that 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+the limitation contained in this Section applies, the determination of which portion of the principal amount of this Note is convertible shall be the responsibility and obligation of the Holder. If the Holder has delivered a Conversion Notice for a principal amount of this Note that, without regard to any other shares that the Holder or its affiliates may beneficially own, would result in the issuance in excess of the permitted amount hereunder, the Company shall notify the Holder of this fact and shall honor the conversion for the maximum principal amount permitted to be converted on such Conversion Date in accordance with Section 3(a) and, any principal amount tendered for conversion in excess of the permitted amount hereunder shall remain outstanding under this Note. "Market Capitalization" shall be defined as the product of (a) the closing price of the Common Stock of the Common stoc k multiplied by 
+ (b) the number of shares of  Common Stock outstanding as reported on the Company's most recently filed Form 10-K or Form 10-Q. The provisions of this Section may be waived by Holder upon not less than  65  days prior written notification to the Company. 
+   
+ (ii)                    Capitalization.  So long as this as this Note is outstanding,  upon written request of the Holder, the Company shall furnish to the Holder the then-current number of common shares issued and outstanding, the then-current number of common shares au thorized, and the then-current number of shares reserved for third parties. 
+   
+ (d)   Other Provisions . 
+   
+ (i)                      Share Reservation. The Company shall at all times reserve and keep available out of its authorized Common Stock a number of shares equal to at least 3 (three) times the full number of shares of  Common Stock issuable upon conversion of all outstanding amounts under this Note; and within 3 (three) Business Days following the receipt by the Company of a Holder's notice that such m inimum number of shares of  Common  Stock is not so reserved, the Company shall promptly reserve a sufficient number of shares of  Common Stock to comply with such requirement. The Company will at all times reserve at least 17,000,000 shares of  Common  Stock for conversion. 
+   
+ (ii)                    Prepayment.  During the first six  months  this Note is in effect, the  Company   may  redeem this Note  by   paying  to the  Holder  an  amount  as  follows:  (i) if the  redemption  is prior to the  30th  day this Note is in effect (including the  30th  day), then for an  amount  equal to 110% of the  unpaid  principal amount  of  this Note along with any interest that has accrued during that period; (ii) if the  redemption  is on the  31st day  this Note is in effect, up to and including the  60th  day this Note is in effect, then for an  amount  equal to 115% of the unpaid principal  amount  of this Note along with  any accrued interest; (iii) if the redemption is on the 61st day this Note is in effect, up to and including the 120th day this Note is in effect, then for an  amount  equal to  130%  of the unpaid principal  amount  of this Note along with  any accrued interest; (iv) if the redemption is on the 121st day this Note is in effect, up to and including the  180th day this  Note is in effect, then for an  amount  equal to  150%  of the unpaid principal  amount  of this Note along with  any  accrued interest.  This  Note  may  not be  redeemed  after the  180th day  this Note is in effect.  The  redemption  must  be closed and paid for within 3 business days of the Company sending the redemption  demand  or the redemption will be invalid and the Company  may   not  redeem this Note. In the event the  Holder has delivered a Notice of Conversion to the Company prior to the receipt of a redemption notice from the Company, the Notice of Conversion shall prevail. 
+   
+ (iii)                  All calculations under this Section 3 shall be rounded up to the nearest $0.00001 or whole share. 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ (iv)                 Nothing herein shall limit a Holder's right to pursue actual damages or declare an Event of Default pursuant to Section 2 herein for the Company's failure to deliver certificates representing shares of Common Stock upon conversion within the period specified herein and such Holder shall have the right to pursue all remedies available to it at law or in equity including, without limitation, a decree of specific performance and/or injunctive relief, in each case without the need to post a bond or provide other security. The exercise of any such rights shall not prohibit the Holder from seeking to enforce damages pursuant to any other Section hereof or under applicable law. 
+   
+ (4) REISSUANCE OF THIS NOTE . 
+   
+ (a)                     Assignability. The Company may not assign this Note. This Note will be binding upon the Company and its successors and will inure to the benefit of the Holder and its successors and assigns and  may be assigned by the Holder to anyone of its choosing without Company's approval. 
+   
+ (b)                    Lost, Stolen or Mutilated Note. Upon receipt by the Company of evidence reasonably satisfactory to the Company of the loss, theft, destruction or mutilation of this Note, and, in the case of loss, theft or destruction, of any indemnification undertaking by the Holder to the Company in customary form and, in the case of mutilation, upon surrender and cancellation of this Note, the Company  shall execute and deliver to the Holder a new Note representing the outstanding Principal. 
+   
+ (5)                  NOTICES. Any notices, consents, waivers or other communications required or permitted to be given under the terms hereof must be in writing and will be deemed to have been delivered: (i) upon receipt, when delivered personally; (ii) upon receipt, when sent by facsimile (provided confirmation of transmission is mechanically or electronically generated and kept on file by the sending party) (iii) upon receipt, when sent by email; or (iv) one (1) Trading Day after deposit with a nationally recognized overnight delivery service, in each case properly addressed to the party to receive the same. The addresses and facsimile numbers for such communications shall be those set forth in the communications and documents that each party has provided the other immediately preceding the issuance of this Note or at such other address and/or facsimile number and/or to the attention of such other person as the recipient party has specified by written notice given to each other party three (3) Business Days prior to the effectiveness of such change. Written confirmation of receipt (i) given by the recipient of such notice, consent, waiver or other communication, (ii) mechanically or electronically generated by the sender's facsimile machine containing the time, date, recipient facsimile number and an image of the first page of such transmission or (iii) provided by a nationally recognized overnight delivery service, shall be rebuttable evidence of personal service, receipt by facsimile or receipt from a nationally recognized overnight delivery service in accordance with clause (i), (ii) or (iii) above, respectively. 
+   
+   
+ The addresses for such communications shall be: If to the Company, to: 
+ Max Sound Corp. 
+ 8837 Villa La Jolla Drive, Unit 12109 La Jolla, CA 92039 
+ Attn: John Blaisure 
+ Email: john@maxsound.com 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ If to the Holder: 
+   
+ Lucas Hoppel 
+ 295 Palmas Inn Way Ste 130 PMB 345 
+ Humacao, PR 00791 
+ Email: Luke@LukeHoppel.com 
+   
+   
+   
+ (6)                  APPLICABLE  LAW AND  VENUE. This Note shall be governed by and construed in accordance with the laws of the State of Nevada, without giving effect to conflicts of laws thereof. Any action brought by either party against the other concerning the transactions contemplated by this Agreement shall be brought only in the state courts of California or in the federal courts located in the city and county of San Diego, in the State of California. Both parties and the individuals signing this Agreement agree to submit to the jurisdiction of such courts. 
+   
+ (7)                  WAIVER. Any waiver by the Holder of a breach of any provision of this Note shall not operate as or be construed to be a waiver of any other breach of such provision or of any breach of any other provision of this Note. The failure of the Holder to insist upon strict adherence to any term of this Note on one or more occasions shall not be considered a waiver or deprive that party of the right thereafter to insist upon strict adherence to that term or any other term of this Note. Any waiver must be in writing. 
+   
+ (8)      LIQUIDATED DAMAGES. Holder and Company agree that in the event Company fails to comply with any of the terms or provisions of this Note, Holder's damages would be uncertain and difficult (if not impossible) to accurately estimate because of the parties' inability to predict future interest rates, future share prices, future trading volumes and other relevant factors. Accordingly, Holder and Company agree that any fees, balance adjustments, default interest or other charges assessed under this Note are not penalties but instead are intended by the parties to be, and shall be deemed, liquidated damages (under Holder's and Company's expectations that any such liquidated damages will tack back to the Closing Date for purposes of det ermining the holding period under Rule 144). 
+   
+ [Signature Page Follows] 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ IN WITNESS  WHEREOF , the Company has caused this Convertible Note to be duly executed by a duly authorized officer as of the date set forth above. 
+   
+   
+   
+   
+ COMPANY: 
+   
+   
+ Max Sound Corporation 
+   
+   
+ By:  	 
+   
+ Name: John Blaisure 
+   
+ Title:	Chief Executive Officer 
+   
+   
+   
+   
+   
+ HO LDER : 
+   
+   
+ Lucas Hoppel 
+   
+   
+ By:   	 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ [Signature Page to Convertible Note No. MAXD-1] 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ EXHIBIT A CONVERSION NOTICE 
+ [Company Contact, Position] 
+ [Company Name] 
+ [Company Address] 
+ [Contact Email Address} 
+   
+   
+ The undersigned hereby elects to convert a portion of the $ Convertible Note   issued to Lucas Hoppel on ____________ into Shares of  Common  Stock of  ____________  according to the conditions set forth in such Note as of the date written below. 
+   
+   
+By accepting this notice of conversion, you are acknowledging that the number of shares to be delivered represents less than 10% (ten percent) of the common stock outstanding. If t he number  of shares to be delivered represents more than 9.99% of the common stock outstanding, this conversion notice shall immediately automatically extinguish and debenture Holder must be i mmediately notified. 
+   
+   
+ Date of Conversion:   Conversion Amount:   Conversion Price:	   Shares to be Delivered:  	 
+   
+   
+   
+ Shares delivered in name of: 
+   
+ Lucas Hoppel	 
+   
+   
+   
+   
+ Signature: 
+   
+   
+ By: Lucas Hoppel 
+   
+   

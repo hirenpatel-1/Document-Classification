@@ -1,0 +1,207 @@
+ htm 66040 Material contracts 10 2017-03-31T17:00:28.678098-05:00 Filing 0001193125-17-106881 2017-03-31 10-K Annual  & Quarterly Reports 0001334478 NCI, Inc. NCIT CL A COMMON (PRIMARY) Nasdaq Global Market 7373 Computer Integrated Systems Design No VIRGINIA DELAWARE DELAWARE false Accelerated Filer 000-51579 EX-10.6 Exhibit Exhibit 2 d328524dex106.htm EX-10.6 2 d328524dex106.htm EX-10.6 
+ Exhibit 10.6 
+ NCI, INC. 
+ EXECUTIVE CHANGE IN CONTROL AND SEVERANCE AGREEMENT 
+THIS EXECUTIVE CHANGE IN CONTROL AND SEVERANCE AGREEMENT (this "Agreement") is effective as of this 1st day of November, 2016 by and between Paul A. Dillahay ("you") and NCI, Inc.  (the "Company"). 
+ RECITALS 
+The Board of Directors of the Company (the "Board") believes it is in the best interests of the Company to provide you, as an executive officer with the Company, with compensation arrangements and equity benefits upon a Change in Control (as hereinafter defined) that are intended to provide you with enhanced financial security, are competitive with those of other companies, and provide sufficient incentive to you to remain at the Company as an employee through and after a Change in Control. 
+In consideration of the mutual promises and covenants herein contained, and in consideration of your continuing employment by the Company, the adequacy and sufficiency of which are  hereby acknowledged, the parties agree as follows: 
+ Article I. 
+ Term of Agreement 
+ A.  Term of Agreement. This Agreement shall be effective as of the date set forth above and shall continue in effect through December 31, 2017. Commencing on January 1, 2018, and each January 1 thereafter, this Agreement shall be automatically extended for one additional year unless, not later than September 30 of the year preceding the renewal date, either party to this Agreemen t has given notice to the other that the Agreement shall not be extended under this Article I(A);  provided,   however, that if a Change in Control or Potential Change in Control (as defined herein) has occurred during the term of this Agreement, this Agreement shall continue in effect until the later of 36 months beyond the month in which the latest Change in Control occurred or the next December 31 that is at least 18 months after the latest occurrence of a Potential Chang e in Control unless earlier terminated as described below. 
+ Article II. 
+ Equity Awards 
+ A.  Outstanding Equity Awards. Any and all outstanding unvested equity awards, such as restricted stock, restricted stock units, stock options, stock appreciation rights, held by you as of the date of a Change  in Control shall automatically vest, be deemed exercisable, be deemed  non-forfeitable  (to the extent not previously vested and  non-forfeitable) and all restrictions on such awards shall automatically lapse. This Agreement shall be deemed to be an "employment agreement" within the meaning of the Company's equity incentive plan(s) and the applicable award agreements thereunder, but only with respect to an award granted on or after the date of this Agreement. 
+ 
+ 
+ Article III. 
+ Termination of Employment. 
+ A.  Qualifying Terminations. If, during the Term of this Agreement and either within 36 months after a Change in Control or within a Potential Change in Control Period (as defined herein), (1) your employment is terminated by the Company or any successor to the Company for any reason other than Cause, or (2) you terminate your employment due to Good Reason (a " Qualifying Termination"), then you will be entitled to receive the severance payments and benefits set forth in Article IV below; provided, however, that no severance payments shall be made, or continui ng benefits provided, under this Agreement, if any of the following apply: 
+   
+   1. you voluntarily resign or retire from employment other than timely resignation for Good Reason; 
+   
+   2. you are terminated for Cause; 
+   
+   3. your employment terminates as a result of death or Disability; or 
+   
+   4. you decline to sign and return the Release Agreement set forth in  Exhibit A hereto within thirty (30) days of your Date of Termination, or you revoke such Release Agreement within the time provided therein. 
+ B.  Notice of Termination. After a Change in Control or Potential Change in Control, any purported termination of your employment (other than by reason of death) shall be communicated by written Notice of  Termination from one party hereto to the other party in accordance with Article VI (G). 
+ C.  Other Terminations. This Agreement does not apply to terminations of employment that occur prior to a Change in Control or after the expiration of 36 months after a Change in Control and also outsid e of a Potential Change in Control Period. 
+ Article IV. 
+ Severance Benefits. 
+ A.  Severance Benefits. In lieu of any other severance compensation or benefits to which you may otherwise be entitled under any employment agreement or plan, program, policy or arrangement of the Company or any subsidiary, entitlement to which you hereby expressly waive, the Company will pay you the payments described in this Article IV(A) (the " Severance Payments") upon a Qualifying Termination. Any Severance Payments provided for hereunder shall be paid net of any applicable withholding required under federal, state or local law. The comp ensation and benefits provided under this Article IV (A) are as follows: 
+   
+   1. Accrued Compensation. An amount equal to the following amounts earned or accrued through your Date of Termination, but not paid as of the Date of Termination: 
+   
+   a. base salary, 
+   
+ 2 
+ 
+ 
+   b.annual incentive compensation earned for performance in the prior year that was completed at the Date of Termination, but which is not yet paid, 
+   
+   c.reimbursement for reasonable and necessary, properly-receipted expenses incurred by you on behalf of the Company during the period ending on the Date of Termination, and 
+   
+   d. accrued but unused vacation pay. 
+For purposes of subsection (b) above, the amount payable shall be determined by the Company in good faith consistent with the treatment of other executives of the Company who were  not terminated from employment and taking into past practice. 
+   
+   2. Cash Severance . An amount equal to the sum of the following amounts: 
+   
+   a.two times the higher of your annual base salary in effect immediately prior to the occurrence of the event or circumstance upon which the Notice of Termination is based or your ann ual base salary in effect immediately prior to the Change in Control; and 
+   
+   b.two times the amount of your target annual incentive compensation for the year in which the Notice of Termination is given under the annual incentive plan applicable to you as in effect immediately prior to the occurrence of the event or circumstance giving rise to the Notice of Termination plus a  pro-rated amount of the aggregate amount of your annual bonus opportunity at the target level for the year in which the Notice of Termination is given under the annual incentive plan applicable to you as in effect immediately prior to the occurrence of the event or circumstances giving rise to the Notice of Termination, determined by multiplying your target level bonus amount by a fraction, the numerator of which is the number of days in the annual performance measurement period through the Date of Termination and the denominator of which is 3 65. 
+   
+   3. Continuation of Welfare Benefits. Continuation under the terms provided to similarly situated active employees, at no cost to you, of life, medical and dental insurance coverage in which you (or your dependents) was participating as of the Date of Termination (subject to such modifications as shall be established for all employees of the Company) until the earliest of: 
+   
+   a. the eighteen month anniversary of your Date of Termination; 
+   
+ 3 
+ 
+ 
+   b.the date you first breach the Release Agreement or any restrictive covenant hereunder or in any employment or other agreement with the Company which survives termination of your em ployment; or 
+   
+   c.the date you become eligible for comparable benefits under a similar welfare benefit plan of a successor employer. 
+If under the terms of the Company's plan or insurance contract, the Company is unable to provide you with continued coverage for the intended period, the Company's sole obligation shall be to pay you a monthly amount equal to the Company's cost of providing such coverage to you as an active employee. To the extent that your continuation coverage rights under COBRA continue for more than eighteen months following your Date of Termination you will be eligible to continue coverage under COBRA for any remaining period. 
+Notwithstanding the forgoing, at your election or the Company's election, the Company will pay you a lump sum amount equal to the cost of such COBRA coverage for the eighteen month period, and such amount will be grossed up for income tax purposes and shall be paid in connection with the timing of severance payments as described below. 
+ B.  Timing of Severance Payments. Except as provided in Article IV (D) below, the cash payments described in Article IV (A) shall be made within the time provided by law. No reimbursement of expenses under Article IV (A) shall be made after the last day of the year following the year in which the expense was incurred. The payments described in Article IV (A)(l)(b) and ARTICLE IV (A) (2) shall be made in a lump sum on the 45th day after your Date of Termination. In the event that the amount of any payments described in Article IV(A)(l)(b) and ARTICLE IV (A) (2) cannot be finally determined on or before the due date provided in the prior sentence, the Company shall pay to you on such day an estimate, as determined in good faith by the Company, of the minimum amount of such payments and shall pay the remainder of such payments as soon as the amount thereof can be determined but in no event later than 20 business days after such due date. In the event that the amount of the estimated payments exceeds the amount subsequently determined to have been due, you shall be obligated to repay such excess amo unt on the fifth business day after demand by the Company. 
+ C.  No Mitigation Required. You are not required to seek other employment or to attempt in any way to reduce any amounts payable to you by the Company hereunder. The amount of any payment or benefit provided for in this Agreement shall not be reduced by any compensation earned by you as the result of employment by another employer, by retirement benefits, by offset against any amount  claimed to be owed by you to the Company, or otherwise. 
+ D.  Compliance with Code Section 409A. Each of the payments under Article IV(A)(l)(b), (2) and (3) above are designated as separate payments for purposes of the short-term deferral rules under Treasury Regulation Sect ion  1.409A-l(b)(4)(i)(F),  the exemption for 
+   
+ 4 
+ 
+ 
+involuntary terminations under separation pay plans under Treasury Regulation Section 1.409A-1(b)(9)(iii), and the exemption for medical expense reimbursements under Treasury Regul ation Section  1.409A-l(b)(9)(v)(B). As a result, (a) any payments that become vested as a result of a Qualifying Termination that are made on or before the 15th day of the third month of the calendar year following the calendar year of the Executive's termination, (b) any additional payments that are made on or before the last day of the second calendar year following the year of the Executive's termination and do not exceed the lesser of two times Base Salary or two times the limit under Code Section 401(a)(17) then in effect, and (c) the payment of medical expenses within the applicable COBRA period, are intended to be exempt from the requirements of Section 409A of the Code. If you are designated as a "specified employee" within the meaning of Section 409A of the Code, then to the extent that any deferred compensation payments to be made under any provision of this Agreement during the first six month period following your separation from service (within the meaning of Section 409A of the Code), exceed such exempt amounts (whether specified in the preceding sentence or determined under applicable rules and regulations), the payments shall be withheld and the amount of the payments withheld will be paid in a lump sum, together with interest on the unpaid amount at a rate equal to the short-term applicable federal rate (with semiannual compounding) established by the Internal Revenue Service under Section 1274(b)(2)(B) of the Code and in effect at the date the amount would have been paid but for the delay hereunder, on the first business day of the seventh month after your separation from service. The parties hereto intend that, to the maximum extent practicable, the rights to payment hereunder shall not give rise to constructive receipt of compensation prior to payment or to tax penalties under Section 409A of the Code. Accordingly, the Company shall have no right to accelerate payments if and to the extent that such right or an actual acceleration would result in such constructive receipt or tax penalties under Section 409A of the Code, and provisions of this Agreement shall be interpreted and construed in a manner which complies with requirements of Section 409A of the Code so as to avoid such constructive receipt and tax penalties. The Company shall have the right to modify this Agreement to comply with Section 409A of the Code  without obtaining your written consent. 
+ E.  Gross-Up  for Excise Tax and Related Provisions. In the event you become entitled to any amounts payable under this Agreement or under any other agreement, policy, plan, program or arrangement, or the lapse or termination of an y restriction under any agreement, policy, plan, program or arrangement (the " Payments "), if any of such Payments are subject to the tax (the " Excise Tax") imposed by Section 4999 of the Code by reason of being considered "contingent on a change in ownership or control" of the Company within the meaning of Section 280G of the Code, or any similar federal, state or local tax that may hereafter be imposed, the Company shall pay to you an additional amount (the " Gross-Up  Payment") such that the net amount retained by you, after deduction of the total of (i) any Excise Tax on the Payments (as hereinafter defined) and (ii) federal, state and local income tax (taking into account the loss of itemized deductions) other than interest and additional taxes under Section 409A of the Code (or similar state or local taxes), and employment tax and Excise Tax upon the payment provided for by this Article IV(E), shall be equal to the Payments. Such  Gross-Up  amount shall be paid to you within 60 days of the date of Change in Control. 
+   
+   1. 
+Notwithstanding any other provision of this Article IV (E), if no Excise Tax would apply if the Payments were reduced by 10%, then the 
+ 
+   
+ 5 
+ 
+ 
+   Payments shall be reduced by the amount necessary to avoid application of the Excise Tax, and no  Gross-Up Payment will be made. Such reduction shall apply first to those Payments which have the lowest present value to you. 
+   
+   2.Unless the Company and the Executive otherwise agree in writing, any determination required under this Article IV(E) shall be made in writing by nationally recognized independent p ublic accountants agreed to by you and the Company (the " Accounting Firm"), whose determination shall be conclusive and binding upon Executive and the Company for all purposes. For purposes of making the calculations required by this Article IV(E), the Accounting Firm may make reasonable assumptions and approximations concerning applicable taxes and may rely on reasonable, good faith interpretations concerning the application of Sections 280G and 4999 of the Code. The Company and you shall each furnish to the Accounting Firm such information and documents as the Accounting Firm may reasonably request in order to make a determination hereunder. The Company shall bear all costs the Accounting Firm may reasonably incur in connection with any calculations contemplated hereunder. The Accounting Firm shall be required to provide its determination within 60 days after the Date of the Change in Control, and the Company shall be responsible for any income tax, penalt y or interest liability incurred as a result of the date the  Gross-Up  Payment is made. 
+   
+   3.If the Accounting Firm determines that no Excise Tax is payable by you, it will, at the same time as it makes such determination, furnish the Company and you a  non-reliance opinion that you have a reasonable basis not to report any Excise Tax on your federal, state or local income or other tax return. If the Accounting Firm determines that an Excise Tax will (or would, but for reduction in the Payment) be payable by you, it will, at the same time as it makes such determination, furnish the Company and you the detailed basis fo r such opinion. Subject to Article IV (D), the Company will make the  Gross-Up  Payment within five days thereafter. 
+   
+   4. 
+In the event that the Excise Tax is subsequently determined, either by the Accounting Firm or the Internal Revenue Service, to be less than the amount determined hereunder, you shall repay to the Company, within five business days after the amount of such reduction in Excise Tax is finally determined, the portion of the  Gross-Up  Payment attributable to such reduction (plus the portion of the  Gross-Up  Payment attributable to the Excise Tax and federal and state and local income tax imposed on the  Gross-Up Payment being repaid by you to the extent that such repayment results in a reduction in Excise Tax and/or federal and state and local income tax deduction) plus interest on the amount of such repayment at the rate provided in Section 1274(b)(2)(B) of the Code. In the event that the Excise Tax is subsequently determined, either by the Accounting Firm or the  Internal Revenue Service, to exceed the amount taken into account 
+ 
+   
+ 6 
+ 
+ 
+  hereunder (including by reason of any payment the existence or amount of which cannot be determined at the time of the  Gross-Up Payment or by reason of required redetermination of the of the parachute payment), the Company shall (subject to Article IV(D)) make an additional  gross-up payment in respect of such excess within five days after the time that the amount of such excess is finally determined. In the event that the subsequent determinations as to the Excise Tax affect the calculations relating to Article IV (E)(1), such amounts will be recalculated and the provisions of this Article IV(E)(3) applied based on the revised calculations, with interest applied to any payments by either party at the rate provided in Section 1274(b)(2)(B) of the Code. 
+   
+   5. Notwithstanding the preceding rules of this Article IV(E) the  Gross-Up payments shall be made not later than the end of the year next following the in which you remit the related taxes to the applicable taxing authorities. In all events the additiona l  gross-up payment shall be made not later than the end of the year following the year in which the taxes that are the subject of an audit or litigation are remitted to the applicable taxing authority, or where as a result of such audit or litigation no taxes are remitted, the end of the year following the year in which the audit is completed or there is a final and n onappealable settlement or other resolution of the litigation. 
+ Article V. 
+ Restrictive Covenants 
+ A.  Cooperation. You shall reasonably cooperate with and assist the Company and its counsel at any time and in any manner reasonably required by the Company or its counsel (with due regard for your other commitments if he is not employed by the Company) in connection with any litigation or other legal process affecting the Company of which you have knowledge as a result of your employment with the Company (other than any litigation with respect to this Agreement). In the event of such requested cooperation, the Company shall reimburse your reasonable  out of pocket expenses. 
+You shall provide the Company prompt notice of any claim by or other correspondence from the Internal Revenue Service relating to the amount of Excise Tax and will provide the Company with a reasonable opportunity to contest any claim for Excise Tax. You will take such action in connection with contesting such claim as the Company shall reasonably request in writing from time to time, including without limitation accepting legal representation with respect to such claim by an attorney competent in respect of the subject matter and reasonably selected by the Company; provided, however, that the Company will bear and pay directly all costs and expenses (including interest and penalties) incurred in connection wit h such contest and will indemnify you and hold you harmless, on an  after-tax basis, for and against any Excise Tax or income tax, including interest and penalties with respect thereto, imposed as a result of such contest and any such payments. 
+   
+ 7 
+ 
+ 
+ B.  Non-Disparagement. You will not criticize, defame, be derogatory toward or otherwise disparage the Company (or the Company's past, present and future officers, directors, stockholders, attorneys, agents, representatives, employees or affiliates), or its or their business plans or actions, to any third party, either orally or in writing; provided, however, that this provision will not preclude you from giving testimony in response to a lawful subpoena or preclude any conduct protected under 18 U.S.C. Section 1514A(a) or any similar state or federal law  providing "whistleblower" protection to you. 
+ C.  Non-Competition. In consideration for the severance compensation and continued benefits provided in Article IV(A) above, and at the option of any potential acquirer at the time of a Change in Con trol, you agree to be subject to the Noncompetition Agreement attached hereto as  Exhibit B  for a period of one year following a Qualifying Termination 
+ Article VI. 
+ Certain Definitions 
+ Whenever used herein, the following terms shall have their respective meanings set forth below. 
+ A. " Cause " for termination by the Company of your employment shall mean 
+   
+   1.the willful and continued failure by you to substantially perform your duties with the Company (other than any such failure resulting from your incapacity due to physical or mental illness or any such actual or anticipated failure after the issuance of a Notice of Termination for Good Reason by you) for a period of at least 30 consecutive days after a written demand for substantial performance is delivered to you by the Board, which demand specifically identifies the manner in which the Board believes that you have not substantially p erformed your duties, 
+   
+   2.fraud or dishonesty relating to your employment, or your willful misconduct or gross negligence, which conduct is materially injurious to the Company or its reputation, monetarily  or otherwise; or 
+   
+   3.your willful violation of Company policies, which conduct is materially injurious to the Company or its reputation, monetarily or otherwise, or 
+   
+   4. you are convicted of, or have entered a plea of  nolo contendere  to, a felony. 
+For purposes of clauses (1) and (2) of this definition, no act, or failure to act, on your part shall be deemed "willful" unless done, or omitted to be done, by you not in good faith and without reasonable belief that your act, or failure to act, was in the best interest of the Company. 
+ B. A " Change in Control" shall be deemed to have occurred if, during the term of this Agreement, on the earliest to occur of the following dates: 
+   
+   1.The date any Person, or more than one Persons acting as a Group, acquires beneficial ownership of the stock of the Company that, together with stock held by such Person or Group, constitutes more than fifty percent (50%) or more of the total fair market value or total voting power of the then outstanding stock of the Company; 
+   
+ 8 
+ 
+ 
+   2.The date of consummation of a merger or consolidation of the Company with any other corporation other than (i) a merger or consolidation which would result in the stock of the comp any outstanding immediately prior thereto continuing to beneficially represent at least  fifty-one percent (51%) of the combined voting power of the stock of the Company or the surviving entity outstanding immediately after such merger or consolidation, or (ii) a merger or consolidation effected to implement a recapitalization of the Company in which no Person or Group acquires more than 50% of the combined voting power of the Company's then outstanding  stock; 
+   
+   3.The date that any Person, or more than one Person acting as a Group, acquires all or substantially all of the assets of the Company; or 
+   
+   4.The date that the incumbent members of the Board of Directors as of the date of this Agreement cease for any reason to constitute at least a majority of the Board, provided that any new director whose nomination or election is approved by a majority of the then-incumbent directors shall be deemed, for purposes of this provision, an "incumbent" member of the  Board. 
+If any one Person, or Persons acting as a Group, is considered to effectively control the Company as described in subsections (1) or (4) above, the acquisition of additional contro l by the same Person or Persons is not considered to cause a Change in Control. 
+ C. " Date of Termination" shall mean the date specified in the Notice of Termination which, in the case of a Termination by the Company (other than a Termination for Cause), shall not be less than 30 days from the date such Notice of Termination is given and, in the case of a Termination by you, shall not be less than 15 nor more than 60 days from the date such Notice of Terminatio n is given. 
+ D. " Disability" shall have the meaning stated in the Company's short- and long-term disability plans as in effect immediately prior to a Change in Control. 
+ E. " Good Reason" for Termination of your employment will mean the occurrence, without your express written consent, of any one of the following unless such circumstances are fully corrected prior  to the Date of Termination specified in the Notice of Termination given in respect thereof: 
+   
+   1.the assignment to you of any duties inconsistent with your status as an officer of the Company or a material diminution in the nature or status of your responsibilities (including  reporting responsibilities), from those in effect immediately prior to the Change in Control; 
+   
+ 9 
+ 
+ 
+   2.a material reduction by the Company in your annual base salary in effect immediately prior to the Change in Control or as the same may be increased from time to time; 
+   
+   3.the relocation of the principal place of your employment to a location that is both more than 50 miles from the location of such place of employment immediately prior to the Change of Control and more than 50 miles from your then-current principal place of residence; except for required travel on the Company's business to an extent substantially consistent with your business travel obligations prior to the Change in Control or, if you have consented to such a relocation, the failure by the Company to provide you with materially all of the benefits of the Company's relocation policy as in operation immediately prior to a Change in Control; 
+   
+   4. the Company's material breach of this Agreement; or 
+   
+   5.the failure of the Company to obtain a satisfactory agreement from any successor to assume and agree to perform this Agreement, as contemplated in Article VII hereof. 
+Notwithstanding the foregoing, the occurrence of an event that would otherwise constitute Good Reason hereunder shall cease to be an event constituting Good Reason if Notice of Termination is not timely provided to the Company by you within 90 days of the date that you first become aware (or reasonably should have become aware) of the occurrence of such event. Such Notice of Termination shall specify your Date of Termination, which date shall not be earlier than 30 days nor more than 60 days after the date of the Notice of Termination. The Company may fully correct the event(s) constituting Good Reason within a reasonable period of time (not less than 30 days) specified in the Notice of Termination, in which case your Notice of Termination for Good Reason shall automatically be withdrawn and of no effect. Your continued employment shall not constitute consent to, or a waiver of rights with respect to, any act or failure to act constituting Good Reason hereunder prior to 90 days after such action or failure to act. 
+ F. " Group " shall have the meaning set forth in  Rule13d-5  of the Securities and Exchange Commission (" SEC "), modified to the extent necessary to comply with Treasury Regulation Section  1.409A-3(i)(5), or any successor thereto in effect at the time a determination of whether a Change in Control has occurred is being made. 
+ G. " Notice of Termination" shall mean notice indicating the specific termination provision in this Agreement relied upon and setting forth in reasonable detail the facts and circumstances claimed to provid e a basis for termination of your employment under the provision so indicated. 
+   
+ 10 
+ 
+ 
+ H. " Person" shall mean an individual, company, association, joint-stock company, business trust or other similar organization, partnership, limited liability company, joint venture, trust, unincorporated organization or government or agency, instrumentality or political subdivision thereof; provided that a "person" shall not include (i) the Company or any of its subsidiaries; (ii) Charles K. Narang, his family members or relatives, trusts primarily for the benefit of Mr. Narang, his family members or relatives, or any entity controlled by Mr. Narang, his family members or relatives, or (iii) a trustee or other fiduciary holding securities under an employee benefit plan of the Company or any of its subsidiaries. 
+ I. A " Potential Change in Control " shall be deemed to have occurred if, during the term of this Agreement: 
+   
+   1.The Company enters into a written agreement, the consummation of which would result in a Change in Control; or 
+   
+   2.The Company or any person publicly announces an intention to take or to consider taking actions which, if consummated, would constitute a Change in Control; or 
+   
+   3.Any Person who is or becomes the beneficial owner, directly or indirectly, of stock of the Company representing 10% or more of the combined voting power of the Company's then outstanding securities (except, if the beneficial owner is an institutional investor eligible to file Schedule 13G in respect of the Company under Rule 13d-1(b), this threshold shall be  15%), thereafter increases such Person's beneficial ownership of such stock by 5% or more; or 
+   
+   4.The Board adopts a resolution to the effect that, for purposes of this Agreement, a Potential Change in Control has occurred. 
+ J. " Potential Change in Control Period" shall commence upon the occurrence of a Potential Change in Control and shall lapse upon the occurrence of a Change in Control or, if earlier (a) with respect to a Potential Change in Control occurring pursuant to Article VI(I)(l); immediately upon the abandonment or termination of the applicable agreement; (b) with respect to a Potential Change in Control occurring pursuant to Article VI(I)(2), immediately upon a public announcement by the Company that it has abandoned its intention to take or consider taking actions which, if consummated, would result in a Change in Control; or (iii) with respect to a Potential Change in Control occurring pursuant to Article VI(I)(3) or (4), upon the 18 month anniversary of the occurrence of a Potential Change in Control (or, in the case of a Potential Change in Control occurring pursuant to Article VI(I)(4), such earlier date as may be determined by the Board). In addition to the foregoing, your termination of employment by the Company at the request of a third party in contemplation of a Change in Control or Potential Change  in Control shall be deemed to have occurred within a Potential Change in Control Period. 
+   
+ 11 
+ 
+ 
+ Article VII. 
+ Miscelleaneous . 
+ A.  Costs of Proceedings. In the event of any litigation or other dispute between the Company and you with respect to the subject matter of this Agreement, you shall be entitled to recover your attorney fe es and expenses, unless you do not substantially prevail in such matter. 
+ B.  Successors. The Company shall require any successor (whether direct or indirect, by purchase, merger, consolidation or otherwise) to all or substantially all of the business and/or assets of the Company to expressly assume and agree to perform this Agreement in the same manner and to the same extent that the Company would be required to perform it if no such succession had taken place. As used in this Agreement, "Company" shall mean the Company as hereinbefore defined and any successor to its business and/or assets as aforesaid which assumes and  agrees to perform this Agreement by operation of law, or otherwise. 
+ C.  Binding Agreement. This Agreement shall be binding upon, and shall inure to the benefit of, you and the Company, and your and their respective permitted successors and assigns (including, upon your death, your personal or legal representatives, executors, administrators, heirs, distributees, devisees and legatees). 
+ D.  Notice. Notices and all other communications provided for in this Agreement shall be in writing and shall be deemed to have been duly given when (i) personally delivered or (ii) mailed by United States certified or registered mail, return receipt requested, postage prepaid, addressed to the respective addresses set forth on the first page of this Agreement; provided that all notice to the Company shall be directed to the attention of the Board with a copy to the General Counsel of the Company, or to such other address as either party may have furnished to the other in writing in accordance herewith, except that notice of change of address shall be effective only upon receipt. 
+ E.  Modifications. Except as otherwise set forth in this Agreement, no provision of this Agreement may be modified, waived or discharged unless such waiver, modification or discharge is agreed to in writing and signed by you and such officer as may be designated by the Board. The Company may amend this Agreement without your written consent if such amendment would not materially and adversely affect your rights under this Agreement. No waiver by either party hereto at any time of any breach by the other party hereto of, or compliance with, any condition or provision of this Agreement to be performed by such other party shall be deemed a waiver of similar or dissimilar provisions or conditions at the time or at any prior or subse quent time. 
+ F.  Governing Law. THE VALIDITY, INTERPRETATION, CONSTRUCTION AND PERFORMANCE OF THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA WITHOUT REGARD TO ITS CONFLICTS OF LAW P RINCIPLES. 
+ G.  Surviving Obligations. The obligations of the Company and your obligations under this Agreement shall survive the expiration of this Agreement to the extent necessary to give effect to this Agreement. 
+   
+ 12 
+ 
+ 
+ H.  Validity. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, which shall remain  in full force and effect. 
+ I.  Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed to be an original but all of which together will constitute one and the same instrument. 
+ J.  Entire Agreement. This Agreement contains the entire understanding between the Company and you with respect to the subject matter hereof and supersedes any prior severance or change in control agreement and amendment thereto between the Company and you; except that this Agreement shall not affect or operate to reduce any benefit or compensation inuring to you of a kind elsew here provided and not expressly provided in this Agreement. 
+If this letter sets forth our agreement on the subject matter hereof, kindly sign and return to the Company the enclosed copy of this letter, which will then constitute our agreeme nt on this subject. 
+   
+ 
+ NCI, Inc. By:   
+ 
+   
+ 11/2/16 
+ Name:   Charles K. Narang   Date Title:   Chairman   
+ 
+ Agreed to this 2 nd  day of November, 2016 
+   
+ 
+ 
+ 
+ Name Paul A. Dillahay 
+           CEO 
+ 
+   
+ 13 

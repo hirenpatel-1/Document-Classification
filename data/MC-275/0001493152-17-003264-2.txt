@@ -1,0 +1,292 @@
+ htm 101857 Material contracts 10 2017-03-31T16:33:52.055115-05:00 Filing 0001493152-17-003264 2017-03-31 10-K Annual  & Quarterly Reports 0001482541 Surna Inc. SRNA COM OTC 7380 Miscellaneous Business Services No CALIFORNIA NEVADA NEVADA false Small Reporting Company 000-54286 EX-10.15 Exhibit Exhibit 2 ex10-15.htm EX-10.15 2 ex10-15.htm 
+   
+ 
+ NOTE CONVERSION AND WARRANT AMENDMENT AGREEMENT 
+   
+ This Note Conversion Agreement (this " Agreement ") is entered into at the date of the signature of the last party (the " Effective Date "), by and among Surna Inc., a Nevada corporation (the " Company "), and the party listed on the signature page attached hereto (the " Note Holder " or " Holder "). 
+   
+ Recitals 
+   
+ WHEREAS, the Company and the Note Holder entered into a certain Securities Purchase Agreement dated ____________________ as may be amended from time to time (the " SPA "), pursuant to which the Company sold and the Note Holder purchased units (the " Units") each full Unit consisted of 250,000 shares of the Company's common stock, par value $0.00001 per share (the " Common Stock "), a 10% convertible promissory note (each a " Note ") and a warrant to purchase shares of Common Stock (each a " Warrant "); 
+   
+ WHEREAS , the Note Holder purchased a portion or more Units pursuant to the SPA; 
+   
+ WHEREAS, the Note Holder desires to convert and cancel all indebtedness of the Company under the Notes held by the Note Holder, including any accrued and unpaid interest or penalties unde r the Notes, as set forth on  Schedule A attached hereto, and the Company desires to issue to the Note Holder in exchange for the cancellation of all indebtedness of the Company to such Note Holder, including any accrued and unpaid interest or penalties under the Notes, and for no additional consideration, the number of shares of Common Stock described in  Section 2(a)  (collectively, the " Note Conversion Shares "); and 
+   
+ WHEREAS, in connection with the cancellation of the Notes and issuance of the Note Conversion Shares, the Company and the Note Holder desire to amend the Warrants to reduce the mandatory  call price and the exercise price per share. 
+   
+ NOW, THEREFORE, in consideration of the rights and benefits that they will each receive in connection with this Agreement, the parties, intending to be legally bound, agree as follows: 
+   
+ 1.        Defined Terms. Terms capitalized herein and not otherwise defined herein shall have the meanings ascribed to such terms in the SPA. 
+   
+ 2.        Cancellation of Notes; Issuance of Note Conversion Shares. 
+   
+ a)        Note Conversion [1]. Subject to the terms and conditions of this Agreement, on the Effective Date, the Company shall issue to the Note Holder, in exchange for the cancellation of all indebtedness of the Company to the Note Holder, including any accrued and unpaid interest or penalties under the Notes held by the Note Holder and for no additional consideration, such number of Note Conversion Shares equal to the amount determined by dividing (A) the outstanding balance under the Notes plus the accrued and unpaid interest as of the Effective Date by (B) ______________% of the VWAP of the Common Stock for the________ Trading Days immediately preceding the Effective Date (the " Note Conversion"). From and after the Note Conversion, the Notes converted shall solely represent the right to receive the Note Conversion Shares hereunder, no amounts shall remain outstanding under such Notes and such Notes shall be cancelled and otherwise be of no further force or effect. For purposes hereof, "VWAP" shall mean, for any Trading Day, the volume-weighted average price, calculated by dividing the aggregate value of Common Stock traded on the Trading Market during regular hours (price per share multiplied by number of shares traded) by the total volume (number of shares) of Common Stock traded on the Trading Market (or such other national securities exchange or automated quotation system on which the Common Stock is listed) for such Trading Day, or if such volume-weighted average price is unavailable, the market value of one share of Common Stock on such Trading Day as determined by the Board of Directors in a commercially reasonable manner, using a volume-weighted average price method. 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 1 Some Noteholders received a cash payment as part of their settlement. 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   1   
+ 
+ 
+   
+ 
+ 
+   
+ b)        Delivery of Notes. The Note Holder shall deliver its physical Notes (or if such Notes are lost, mutilated or destroyed or the Note Holder is not able to easily obtain the Note, a lost note affidavi t and indemnity agreement in substantially the form attached hereto as  Exhibit B  (each, an " Affidavit ")) to the Company for cancellation. 
+   
+ c)        Rule 144 Opinion. The Note Holder requests that the Company obtain an opinion under Rule 144 of the Securities Act on behalf of the Note Holder. If the attorney undertaking the Rule 144 Opinion requires representations or other documentation from the Note Holder the Note Holder will provide such representations or other documentation within five (5) Business Day of the request. The Note Holder acknowledges that further documentation may be required to be provided by the Note Holder. Within five (5) Business Day after receipt of all of the duly executed documentation under this Agreement the Company shall provide the share issuer with the Opinion Letter for the removal of the restricted legend on the Note Conversion Shares. 
+   
+ d)        Delivery of Shares. Within five (5) Business Days from the receipt of all duly executed documentation and receipt of the physical Notes (or Affidavit, as applicable), and Shareholder Representation letters, whichever is the later, from the Note Holder, the Company shall deliver the applicable Note Conversion Shares to the Note Holder in accordance with  Section 2(a) . 
+   
+ 3.        Warrant Amendment. Subject to the terms and conditions of this Agreement, on the Effective Date, the following amendments will be automatically made to each Warrant held by the Note Holder: 
+   
+   a)Section 2(b) of each Warrant held by the Note Holder shall be automatically amended to provide that the mandatory call price per share shall be reduced from $3.60 to $___________.         b)Section 2(c) of each Warrant held by the Note Holder shall be automatically amended to provide that the exercise price per share shall be reduced from $3.00 to $_______. 
+   
+No other terms of the Warrants are being amended, and the Warrants shall remain otherwise in full force and effect. 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   2   
+ 
+ 
+   
+ 
+ 
+   
+ 4.        Representations and Warranties of the Company . The Company hereby represents and warrants to the Note Holder as of the date hereof as follows: 
+   
+ a)        Organization and Standing. The Company is a corporation duly organized, validly existing under, and by virtue of, the laws of the State of Nevada, and is in good standing under such laws. 
+   
+ b)        Corporate Power. The Company has all requisite legal and corporate power and authority to execute and deliver this Agreement, to sell and issue the Note Conversion Shares hereunder, and to carry out and perform its obligations under the terms of this Agreement and the transactions contemplated hereby. 
+   
+ c)        Authorization. All corporate action on the part of the Company, its officers, directors and shareholders necessary for the authorization, execution, delivery and performance of this Agreement, the authorization, sale, issuance and delivery of the Note Conversion Shares and the performance of all of the Company's obligations hereunder have been taken or will be taken prior to or on the date hereof. This Agreement has been duly executed by the Company and constitutes a valid and legally binding obligation of the Company, enforceable against the Company in accordance with its terms, subject to the laws of general application relating to bankruptcy, insolvency and the relief of debtors and rules of law governing specific perfor mance, injunctive relief or other equitable remedies. 
+   
+ d)        Valid Issuance of Stock. The Note Conversion Shares, when issued, sold and delivered in compliance with the provisions of this Agreement, will be duly and validly issued, fully paid and non-assessable and issued in compliance with applicable federal and state securities laws. Such Note Conversion Shares will also be free and clear of any liens or encumbrances; provided, however, that the Note Conversion Shares shall be subject to the provisions of this Agreement and restrictions on transfer under state and/or federal securities laws. The Note Conversion Sha res are not subject to any preemptive rights, rights of first refusal or restrictions on transfer. 
+   
+ e)        Offering. Subject in part to the accuracy of the Note Holder's representations in Section 5 (if applicable) hereof, the offer, sale and issuance of the Note Conversion Shares in conformity with the terms of this Agreement and the Warrant Amendment constitute transactions exempt from registration under the Securities Act of 1933, as amended (the " Securities Act "), and from all applicable state securities laws. 
+   
+ f)        Governmental Consents. No consent, approval, qualification or authority of, or registration or filing with, any local, state or federal governmental authority on the part of the Company is required in connection with the valid execution, delivery or performance of this Agreement, or the offer, sale or issuance of the Note Conversion Shares, or the consummation of any transaction contemplated hereby, except (i) such filings as have been made prior to the date hereof and (ii) such additional post-closing filings as may be required to comply with applicable federal and state securities laws (including but not limited to any Form D or Form 8-K filings), and with applicable general corporation laws of the various states, each of which w ill be filed with the proper authority by the Company in a timely manner. 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   3   
+ 
+ 
+   
+ 
+ 
+   
+ 5.        Representations and Warranties of the Note Holder.  The Note Holder hereby represents and warrants as of the date hereof to the Company as follows: 
+   
+ g)        Organization and Standing. The Note Holder is either an individual or an entity duly organized, validly existing under, and by virtue of, the laws of the jurisdiction of its incorporation or formation, and  is in good standing under such laws. 
+   
+ h)        Corporate Power. The Note Holder has all right, corporate, partnership, limited liability company or similar power and authority to execute and deliver this Agreement, to effect the Note Conversion hereunder, and to carry out and perform its obligations under the terms of this Agreement and the transactions contemplated hereby. 
+   
+ i)        Authorization. All corporate, partnership, limited liability company or similar action, as applicable on the part of the Note Holder, necessary for the authorization, execution, delivery and performance of this Agreement, the Note Conversion, the Warrant Amendment and the performance of all of the Note Holder's obligations hereunder have been taken or will be taken prior to the Effective Date. This Agreement has been duly executed by the Note Holder and constitutes a valid and legally binding obligation of the Note Holder, enforceable against the Note Holder in accordance with its terms, subject to the laws of general application relating to bankruptcy, insolvency and the relief of debtors and rules of law governing specifi c performance, injunctive relief or other equitable remedies. 
+   
+ j)        Governmental Consents. No consent, approval, qualification or authority of, or registration or filing with, any local, state or federal governmental authority on the part of the Company is required in connection with the valid execution, delivery or performance of this Agreement, or the offer, sale or issuance of the Note Conversion Shares, or the Warrant Amendment or the consummation of any transaction contemplated hereby, except such filings as have been made prior to the date hereof. 
+   
+ k)        Own Account. The Note Holder understands that the Note Conversion Shares are "restricted securities" and have not been registered under the Securities Act or any applicable state securities law in reliance upon exemptions from regulation for non-public offerings and is acquiring the Note Conversion Shares as principal for its own account and not with a view to or for distributing or reselling such Note Conversion Shares or any part thereof in violation of the Securities Act or any applicable state securities law, has no present intention of distributing any such Note Conversion Shares in violation of the Securities Act or any applicable state securities law and has no direct or indirect arrangement or understandings with any other persons to distribute or regarding the distribution of such Note Conversion Shares in violation of the Securities Act or any applicable state securities law. The Note Holder agrees that the Note Conversion Shares or any interest therein will not be sold or otherwise disposed of by the Note Holder unless the shares are subsequently registered under the Securities Act and under appropriate state securities laws or unless the Company receives an opinion of counsel satisfactory to it that an exception from registration is availa ble. 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   4   
+ 
+ 
+   
+ 
+ 
+   
+ l)        Note Holder Status. The Note Holder is an "accredited investor" as defined in Rule 501(a)(1), (a)(2), (a)(3), (a)(7) or (a)(8) under the Securities Act and the Note Holder has accurately completed t he Investor Questionnaire attached hereto as  Exhibit A. The Note Holder agrees to provide any additional documents and information that the Company shall reasonably request for purposes of determining whether the Note Holder is an accredited investor. The Note Holder is not required to be, and certifies that it is not, registered as a broker-dealer or registered representative under Section 15 of the Securities  Exchange Act of 1934, as amended (the " Exchange Act "). 
+   
+ m)        Experience of Note Holder. The Note Holder, either alone or together with its representatives, has such knowledge, sophistication and experience in business and financial matters so as to be capable of evaluating the merits and risks of the prospective investment in the Note Conversion Shares, and has so evaluated the merits and risks of such investment. 
+   
+ n)        Ability to Bear Risk. The Note Holder understands and acknowledges that investment in the Company is highly speculative and involves substantial risks. The Note Holder is able to bear the economic risk of an investment in the Note Conversion Shares and is able to afford a complete loss of such investment. 
+   
+ o)        General Solicitation. The Note Holder is not accepting the Note Conversion Shares or the Warrant Amendment as a result of any advertisement, article, notice or other communication regarding the Note Conversion Shares or the Warrant Amendment published in any newspaper, magazine or similar media or broadcast over television or radio or presented at any seminar or any other gener al solicitation or general advertisement. 
+   
+ p)        Disclosure of Information. The Note Holder has had the opportunity to receive all additional information related the Company requested by it and to ask questions of, and receive answers from, the Company regarding the Company, including the Company's business management and financial affairs, and the terms and conditions of this offering of the Note Conversion Shares and Warrant Amendment. Such questions were answered to the Note Holder's satisfaction. The Note Holder has also had access to copies of the Company's filings with the U.S. Securities and Exchange Commission under the Securities Act and Exchange Act. The Note Holder believes that it has received all the information the Note Holder considers necessary or appropriate for deciding whether to consummate the Note Conversion and Warrant Amendment. The Note Holder understands that such discussions, as well as any information issued by the Company, were intended to describe certain aspects of the Company's business and prospects, but were not necessarily a thorough or exhaustive description. 
+   
+ q)        Residency. The residency of the Note Holder (or in the case of a partnership or corporation, such entity's principal place of business) is correctly set forth on the signature page attached  hereto. 
+   
+ r)        Tax Matters. The Note Holder has reviewed with its own tax advisors the U.S. federal, state, local and foreign tax consequences of this investment and the transaction contemplated by this Agreement. The Note Holder understands that it (and not the Company) shall be responsible for its own tax liability that may arise as a result of this investment and the transactions  contemplated by this Agreement. 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   5   
+ 
+ 
+   
+ 
+ 
+   
+ s)        Restrictions on Transferability; No Endorsement . The Note Holder has been informed of and understand the following: 
+   
+   i. There are substantial restrictions on the transferability of the Note Conversion Shares; or         ii.No federal or state agency has made any finding or determination as to the fairness for public investment, nor any recommendation nor endorsement of the Note Conversion Shares. 
+   
+ t)        No Other Representation by the Company. None of the following information has ever been represented, guaranteed or warranted to the Note Holder, expressly or by implication by any broker, the Company, or agent or emplo yee of the foregoing, or by any other Person: 
+   
+   i.The approximate or exact length of time that the Note Holder will be required to remain a holder of the Note Conversion Shares;         ii.The amount of consideration, profit or loss to be realized, if any, as a result of an investment in the Company; or         iii.that the past performance or experience of the Company, its officers, directors, associates, agents, affiliates or employees or any other person will in any way indicate or predict economic results in connection with the plan of operations of the Company or the return on investment. 
+   
+ 6.        Waiver. Effective immediately upon the Note Conversion with respect to the Notes and Warrants held by the Note Holder, the Note Holder expressly forfeits and waives any and all rights that are inconsistent with the terms of this Agreement either under the SPA, the Warrants, the Notes or otherwise applicable to the Notes, including, but not limited to, any anti-dilution rights the Note Holder may have with respect to the issuances of any capital stock or other securities of the Company pursuant to previous transactions and pursuant to this A greement. 
+   
+ 7.        Trading Restrictions . At all times during the ninety (90) day period immediately following the Effective Date (the " Leak-Out Period"), beginning on the Effective Date, the Note Holder hereby agrees with the Company that the Note Holder shall not sell, transfer or dispose of more than one-third of the total amount of Note Conversion Shares beneficially owned by the Note Holder during any thirty (30) day period in such Leak-Out Period. The Note Holder agrees that if they violate this sect ion that this will be a Material Breach of this Agreement. 
+   
+ 8.        Miscellaneous . 
+   
+ a. Legends . 
+   
+   i.The Note Holder hereby acknowledges that a legend may be placed on any certificates representing any of the Note Conversion Shares to the effect that the Note Conversion Shares represented by such certificates are subject to restrictions on transfer during the Leak-Out Period and may not be traded except in accordance with the restrictions set forth herein. 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   6   
+ 
+ 
+   
+ 
+ 
+   
+   ii.The Note Holder hereby acknowledges and agrees to the Company making a notation on its records or giving instructions to the registrar and transfer agent of the Company (along with any successor transfer agent of the Company) in order to implement the restrictions on transfer set forth and described in this Agreement. 
+   
+ b.        Reliance on Representations and Warranties by the Company. The Note Holder acknowledges that the representations and warranties contained herein are made by it with the intention that such representations and warranties may be relied upon by the Company and its legal counsel in determining the Note Holder's eligibility to purchase the Note Conversion Shares under applicable securities legislation, or (if applicable) the eligibility of others on whose behalf it is contracting hereunder to purchase the Note Conversion Shares under applicable securities legislation. The Note Holder further agrees that the representations and warranties made by the Note Holder will survive the Note Conversion and Warrant Amendment and will continue in full force and effect notwithstandin g any subsequent disposition of the Note Holder of such Note Conversion Shares. 
+   
+ c.        Fees and Expenses. Each party shall pay the fees and expenses of its advisors, counsel, accountants and other experts, if any, and all other expenses incurred by such party incident to the preparat ion, execution, delivery and performance of this Agreement. 
+   
+ d.        Entire Agreement. This Agreement, together with the schedules and exhibits attached hereto, contain the entire agreement of the parties with respect to the subject matter hereof and supersede all prior agreements and understandings, oral or written with respect to such matters. To the extent that any provision of the SPA, the Notes, or the Warrants are inconsistent with the  provisions of this Agreement, the provisions of this Agreement shall control. 
+   
+ e.        Notices. All notices, demands requests, consents, approvals, and other communications required or permitted hereunder shall be in writing and, unless otherwise specified herein, shall be (i) personally served, (ii) deposited in the mail, registered or certified, return receipt requested, postage prepaid, (iii) delivered by reputable air courier service with charges prepaid, or (iv) transmitted by hand delivery, telegram, facsimile or electronic mail, addressed as set forth below or to such other address as such party shall have specified most recently by written notice. Any notice or other communication required or permitted to be given hereunder shall be deemed effective (a) upon hand delivery or delivery by facsimile or electronic mail, with delivery receipt or the affidavit of messenger, at the address, number or electronic mail address designated below (if delivered on a Business Day during normal business hours where such notice is to be received), or the first Business Day following such delivery (if delivered other than on a Business Day during normal business hours where such notice is to be received) or (b) on the second business day following the date of mailing by express courier service, fully prepaid, addressed to such address, or upon actual receipt of such mailing, whichever shall occur first. The addresses for such communications shall be: (i) if to the Company, to: Surna Inc., Attn: Chief Executive Officer  - Amendment, Surna 1780 55 th Street, Suite C, Boulder, Colorado 80301, facsimile: +1 (303) 955-2544, e-mail: amendment@surna.com, with a copy (which shall not constitute notice) to Duane Morris LLP, Attn: David N. Feldman, 1540 Broadway, New York, New York 10024, facsimile: +1 (212) 202 6094, e-mail: dnfeldman@duanemorris.com, and (iii) if to the Note Holder, to the address, fax number  and e-mail as indicated on the signature page attached hereto. 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   7   
+ 
+ 
+   
+ 
+ 
+   
+ f.        Amendments; Waivers. No provision of this Agreement may be waived, modified, supplemented or amended except in a written instrument signed, in the case of an amendment, by the Company and the Note Holder. No waiver with respect to any provision, condition or requirement of this Agreement shall be deemed to be a continuing waiver in the future or a waiver of any other provision, condition or requirement hereof, nor shall any delay or omission of any party to exercise any right hereunder in any manner impair the exercise of any such right. 
+   
+ g.        Headings. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed to limit or affect any of the provisions hereof. 
+   
+ h.        Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties and their successors and permitted assigns. 
+   
+ i.        No Third-Party Beneficiaries. This Agreement is intended for the benefit of the parties hereto and their respective successors and assigns, and is not for the benefit of, nor may any provision hereof be enfor ced by, any other Person. 
+   
+ j.        Governing Law. All questions concerning the construction, validity, enforcement and interpretation of this Agreement and the transactions contemplated hereby shall be governed by and construed and enforced in accordance with the internal laws of the State of Colorado, without regard to the principals of conflicts of law thereof. Each party agrees that all legal proceedings concerning the interpretations, enforcement and defense of the transactions contemplated by this Agreement (whether brought against a party hereto or its respective affiliates, directors, officers, shareholders, partners, members, employees or agents) shall be commenced exclusively in the state and federal courts of Colorado. Each party hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts of Colorado for the adjudication of any dispute hereunder or in connection herewith or the transaction contemplated hereby or discussed herein, and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not an appropriate venue for such proceeding. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of delivery) to such party at the address in effect for notices to it under this Agreement and agrees that suc h service shall constitute good and sufficient service of process and notice thereof. 
+   
+ k.        Survival. The representations and warranties contained herein shall survive the Effective Date for the applicable statute of limitations. 
+   
+ l.        Execution. This Agreement may be executed in one or more counterparts, all of which when taken together shall be considered one and the same agreement, it being understood that the parties need not sign the same counterpart. In the event that any signature is delivered by facsimile transmission or by email delivery of a ".pdf" format data file, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile or ".pdf" signature  was an original thereof. 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   8   
+ 
+ 
+   
+ 
+ 
+   
+ m.        Severability. If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions set forth herein shall remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their commercially reasonable efforts to find and employ, an alternative means to achieve the same or substantially the same result as that contemplated by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared invalid, illegal, void or unenforceable. 
+   
+ n.        Construction. The parties hereto agree that each of them and/or their respective counsel have reviewed and have had an opportunity to revise this Agreement and the schedules and exhibits attached hereto. This Agreement shall be construed according to its fair meaning and not strictly for or against any party. The word "including" shall be construed to include the words "without limitation." In this Agreement, unless the context otherwise requires, references to the singular shall include the plural and vice versa. 
+   
+ o.        Confidentiality. The Note Holder agrees to maintain the confidentiality of all of the terms and conditions of this Agreement (the " Information"), except that Information may be disclosed (a) to its and its affiliates' directors, officers, employees and agents, including accountants, legal counsel and other advisors (it being understood that the persons to whom such disclosure is made will be informed of the confidential nature of such Information and instructed to keep such Information confidential), (b) to the extent requested by any regulatory authority, (c) to the extent required by applicable laws or regulations or by any subpoena or similar legal process, (d) with the consent of the Company or (e) to the extent such Information (i) becomes publicly available other than as a result of a breach of this Section 8(o) or (ii) becomes available to the  Note Holder on a non-confidential basis from a source other than the Company. 
+   
+ p.        Material Breach of Agreement by Note Holder. Without limiting the damages payable to or the rights provided to the Company under this Agreement. The Note Holder agrees that in the event that the Note Holder materially breaches this Agreement that in addition to any damages and legal expense actually incurred by the Company and any other amounts owed to the Company in accordance with this agreement that the Note Holder will pay the Company, the actual legal expenses of the Company in enforcing this agreement and the sum equal to 25% of the VWAP of the Common Stock as calculated in accordance with section 2(a). The Note Holder further acknowledges that in the event that they materially breach this Agreement that the Warrants issued to the Note Holder as amended under this Agreement will be null and void and the Note Holder shall be required to immediately return the Warrant to the Company. 
+   
+ q.        Acknowledgment of Concurrent Negotiations. The Note Holder acknowledges that they have been informed that the Company is currently negotiating with other holders of the Notes and Warrants and that the terms being offered t o those holders may be more favorable than the terms set forth in this Agreement. 
+   
+ r.        Offer to Close.  This Offer shall remain open until ____________________. 
+   
+ s.        WAIVER OF JURY TRIAL. IN ANY ACTION, SUIT OR PROCEEDING IN ANY JURISDICTION BROUGHT BY ANY PARTY AGAINST ANY OTHER PARTY, THE PARTIES EACH KNOWINGLY AND INTENTIONALLY, TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW, HEREBY ABSOLUTELY, UNCONDITIONALLY, IRREVOCABLY AND EXPRESSLY WAIVES FOREVER TRAIL BY JURY. 
+   
+ [ Signature Page Follows ] 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   9   
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the parties have caused this Note Conversion and Warrant Amendment Agreement to be duly executed and delivered as of the date and year first written above. 
+   
+   " Company "   SURNA INC.       By:     Name: Trent Doucet   Title: CEO   Date:   
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   10   
+ 
+ 
+   
+ 
+ 
+   
+IN WITNESS WHEREOF, the parties have caused this Note Conversion and Warrant Amendment Agreement to be duly executed and delivered as of the date and year first written above. 
+   
+   " Note Holder "       Address for Notice: _____________________   ______________________________________   ______________________________________   Facsimile: _____________________________   E-mail address: ________________________   Dated: _______________________________       By an individual:       By: ___________________________________   Printed Name: __________________________   State Residency: ________________________       If by an entity:       By: ___________________________________   Name of Entity: _________________________   Printed Name: __________________________   Title: __________________________________   Principal Place of Business: ________________ 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   11   
+ 
+ 
+   
+ 
+ 
+   
+ SCHEDULE A 
+   
+ Note Holder Name   Principal of Note   Interest   Total Outstanding               
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   12   
+ 
+ 
+   
+ 
+ 
+   
+ EXHIBIT A 
+   
+ ACCREDITED INVESTOR QUESTIONNAIRE 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   13   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ EXHIBIT B 
+   
+ LOST NOTE AFFIDAVIT AND INDEMNITY AGREEMENT 
+   
+ 
+ 
+ Initial Note Holder _________   Initial Surna _________   14   
+ 
+ 
+   
+ 
+ 
+ 
+   
